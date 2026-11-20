@@ -1,0 +1,8 @@
+{
+  "id": "sample-1",
+  "mag": 5.4,
+  "place": "Sample: 10 km NE of Gyeongju, South Korea",
+  "depth_km": 12.0,
+  "time": 1700000000000,
+  "url": "https://earthquake.usgs.gov/"
+}
