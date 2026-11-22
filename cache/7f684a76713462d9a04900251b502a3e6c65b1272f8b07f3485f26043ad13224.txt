@@ -1,0 +1,301 @@
+Latest Earthquakes
+past 24 hours, 7 days, 1 month
+View recent earthquakes worldwide
+Revised 50-State National Seismic Hazard Model
+Updates are complete for the 2023 NSHM
+View
+Significant Earthquakes Archive
+lists of annual impactful earthquakes
+View lists
+2025 USGS and ANSS Earthquake Monitoring Report
+A geonarrative exploring domestic and global earthquake monitoring efforts in 2025
+2025 Annual Report
+Significant Earthquakes, Past 30 days
+Significant Earthquakes Archive
+What makes an earthquake "significant"?
+5.9
+238 km SW of Yanglong, China
+2026-11-21 10:45:33 (UTC)
+Pager Alert Level: Yellow
+MMI:
+VII
+(Very Strong Shaking)
+10.0 km
+6.8
+105 km NE of Lospalos, Timor Leste
+2026-11-21 09:42:09 (UTC)
+Pager Alert Level: Green
+MMI:
+V
+(Moderate Shaking)
+132.1 km
+6.7
+9 km NE of Carhuamayo, Peru
+2026-11-21 00:09:20 (UTC)
+Pager Alert Level: Green
+MMI:
+VI
+(Strong Shaking)
+108.0 km
+3.9
+1 km NW of Commerce, CA
+2026-11-20 11:25:35 (UTC)
+Pager Alert Level: Green
+MMI:
+IV
+(Light Shaking)
+15.5 km
+5.0
+10 km NW of Pinnacles, CA
+2026-11-20 06:49:16 (UTC)
+Pager Alert Level: Green
+MMI:
+VI
+(Strong Shaking)
+6.4 km
+5.3
+17 km ESE of Comandău, Romania
+2026-11-18 00:48:56 (UTC)
+Pager Alert Level: Green
+MMI:
+IV
+(Light Shaking)
+132.4 km
+6.6
+149 km WSW of Tual, Indonesia
+2026-11-16 21:11:20 (UTC)
+Pager Alert Level: Green
+MMI:
+V
+(Moderate Shaking)
+68.0 km
+6.4
+30 km WSW of Lata, Solomon Islands
+2026-11-09 03:34:59 (UTC)
+Pager Alert Level: Green
+MMI:
+VI
+(Strong Shaking)
+17.0 km
+6.4
+southeast of Easter Island
+2026-10-29 07:49:50 (UTC)
+Pager Alert Level: Green
+10.0 km
+6.5
+Bonin Islands, Japan region
+2026-10-25 02:09:22 (UTC)
+Pager Alert Level: Green
+475.0 km
+6.8
+203 km NW of Port-Olry, Vanuatu
+2026-10-24 02:31:29 (UTC)
+Pager Alert Level: Green
+MMI:
+V
+(Moderate Shaking)
+16.0 km
+Significant Earthquakes, Past 30 days
+Significant Earthquakes Archive
+What makes an earthquake "significant"?
+5.9
+238 km SW of Yanglong, China
+2026-11-21 10:45:33 (UTC)
+Pager Alert Level: Yellow
+MMI:
+VII
+(Very Strong Shaking)
+10.0 km
+6.8
+105 km NE of Lospalos, Timor Leste
+2026-11-21 09:42:09 (UTC)
+Pager Alert Level: Green
+MMI:
+V
+(Moderate Shaking)
+132.1 km
+6.7
+9 km NE of Carhuamayo, Peru
+2026-11-21 00:09:20 (UTC)
+Pager Alert Level: Green
+MMI:
+VI
+(Strong Shaking)
+108.0 km
+3.9
+1 km NW of Commerce, CA
+2026-11-20 11:25:35 (UTC)
+Pager Alert Level: Green
+MMI:
+IV
+(Light Shaking)
+15.5 km
+5.0
+10 km NW of Pinnacles, CA
+2026-11-20 06:49:16 (UTC)
+Pager Alert Level: Green
+MMI:
+VI
+(Strong Shaking)
+6.4 km
+5.3
+17 km ESE of Comandău, Romania
+2026-11-18 00:48:56 (UTC)
+Pager Alert Level: Green
+MMI:
+IV
+(Light Shaking)
+132.4 km
+6.6
+149 km WSW of Tual, Indonesia
+2026-11-16 21:11:20 (UTC)
+Pager Alert Level: Green
+MMI:
+V
+(Moderate Shaking)
+68.0 km
+6.4
+30 km WSW of Lata, Solomon Islands
+2026-11-09 03:34:59 (UTC)
+Pager Alert Level: Green
+MMI:
+VI
+(Strong Shaking)
+17.0 km
+6.4
+southeast of Easter Island
+2026-10-29 07:49:50 (UTC)
+Pager Alert Level: Green
+10.0 km
+6.5
+Bonin Islands, Japan region
+2026-10-25 02:09:22 (UTC)
+Pager Alert Level: Green
+475.0 km
+6.8
+203 km NW of Port-Olry, Vanuatu
+2026-10-24 02:31:29 (UTC)
+Pager Alert Level: Green
+MMI:
+V
+(Moderate Shaking)
+16.0 km
+Earthquake Hazards Program
+The USGS monitors and reports on earthquakes, assesses earthquake impacts and hazards, and conducts targeted research on the causes and effects of earthquakes. We undertake these activities as part of the larger National Earthquake Hazards Reduction Program (NEHRP), a four-agency partnership established by Congress.
+Search Earthquake Catalog
+Latest Earthquakes
+Latest earthquakes map and list (past 24 hours, M2.5+) from the ANSS (Advanced National Seismic System).
+View Earthquakes
+Search Earthquake Catalog
+Find an earthquake or a list of earthquakes by time window, magnitude, area, and more, and choose the output format - map and list, CVS, and others.
+Search catalog
+Is this what you're looking for?
+Geonarratives ("StoryMaps")
+Earthquake Notifications
+Realtime Earthquake Products
+ShakeAlert Early Warning
+National Seismic Hazard Model
+Earthquake Topics - learn more
+Science for Everyone - plain language research summaries
+Did You Feel It?
+The Loneliest Seismometers on Earth
+January 15, 2026
+The Loneliest Seismometers on Earth
+Updates for ShakeAlert False Alert for M5.9 Earthquake near Carson City, NV (Dec. 2025)
+January 13, 2026
+Updates for ShakeAlert False Alert for M5.9 Earthquake near Carson City, NV (Dec. 2025)
+USGS releases aftershock forecast for M8.8 Russian Kamchatka Peninsula Earthquake
+July 31, 2025
+USGS releases aftershock forecast for M8.8 Russian Kamchatka Peninsula Earthquake
+View All
+November 17, 2026
+Reproducible event-bed correlation with uncertainty: pyCoreRelator
+Reproducible event-bed correlation with uncertainty: pyCoreRelator
+Stratigraphic correlation is fundamental to Earth science, yet conventional approaches rely heavily on subjective visual data matching. Automated algorithms such as dynamic time warping (DTW) provide reproducibility, but when sequences are subdivided into clearly defined stratigraphic units, DTW alone struggles to explore a vast range of correlation possibilities among these units and...
+Authors
+Larry Syu-Heng Lai, Zoltan Sylvester, Jacob A. Covault, Joan S. Gomberg, Nora M. Nieminski
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Earthquake Science Center
+November 13, 2026
+Outer-rise earthquakes in the Alaska-Aleutian subduction zone: Implications for mantle hydration and tsunami hazards
+Outer-rise earthquakes in the Alaska-Aleutian subduction zone: Implications for mantle hydration and tsunami hazards
+Outer-rise, plate-bending faults provide major pathways for water to penetrate deep into the incoming plate, reaching mantle depths, and pose potential tsunami hazards. The Alaska-Aleutian subduction zone is an excellent site for studying the relationship between plate-bending faulting, incoming plate hydration, and tsunami hazards because its structure and seismicity vary significantly...
+Authors
+Patrick R. Matulka, Douglas A. Wiens, Zongshan Li, Grace Barcheck, Geoffrey A. Abers, Natalia A. Ruppert
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Earthquake Science Center
+October 28, 2026
+A new amphibious earthquake catalog for the Alaska Peninsula: Training, testing, and applying machine learning earthquake picking in offshore and amphibious environments
+A new amphibious earthquake catalog for the Alaska Peninsula: Training, testing, and applying machine learning earthquake picking in offshore and amphibious environments
+The dual seismological developments of large-scale offshore observational networks and high-quality machine-learning earthquake detection and picking allow unprecedented seismicity detection in high hazard subduction zones. We develop a high resolution machine learning enhanced seismicity catalog for the Alaska Peninsula stretch of the Alaska-Aleutian Subduction Zone, which was...
+Authors
+Grace Barcheck, Natalia A. Ruppert
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Earthquake Science Center
+View All
+November 20, 2026
+Information by Region-American Samoa
+Find information about your U.S. State or your Country.
+By
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+Information by Region-American Samoa
+November 20, 2026
+Information by Region-American Samoa
+Find information about your U.S. State or your Country.
+Learn More
+October 28, 2026
+2027 Long-term National Seismic Hazard Models for the U.S. Territories of Guam, Commonwealth of the Northern Mariana Islands, and American Samoa
+The U.S. Geological Survey will publish an updated National Seismic Hazard Model for the Pacific territories of Guam, Commonwealth of the Northern Mariana Islands, and American Samoa in 2027. These models were last updated in 2012.
+By
+Earthquake Hazards Program
+2027 Long-term National Seismic Hazard Models for the U.S. Territories of Guam, Commonwealth of the Northern Mariana Islands, and American Samoa
+October 28, 2026
+2027 Long-term National Seismic Hazard Models for the U.S. Territories of Guam, Commonwealth of the Northern Mariana Islands, and American Samoa
+The U.S. Geological Survey will publish an updated National Seismic Hazard Model for the Pacific territories of Guam, Commonwealth of the Northern Mariana Islands, and American Samoa in 2027. These models were last updated in 2012.
+Learn More
+October 28, 2026
+NSHM29 Western U.S. Earthquake Geology Development
+Thursday, November 19, 2026 2:00 – 4:00 pm MST A Virtual Meeting
+By
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+NSHM29 Western U.S. Earthquake Geology Development
+October 28, 2026
+NSHM29 Western U.S. Earthquake Geology Development
+Thursday, November 19, 2026 2:00 – 4:00 pm MST A Virtual Meeting
+Learn More
+View All
+Bocono and San Sebastian faults in Venezuela; slip rates from June 2026
+Bocono and San Sebastian faults in Venezuela; slip rates from June 2026
+Map of tectonic setting for NSHM27 of Guam, Northern Mariana Islands, and American Samoa
+Map of tectonic setting for NSHM27 of Guam, Northern Mariana Islands, and American Samoa
+Collapsed natural arch of Punta Ventana, Guayanilla, Puerto Rico
+Collapsed natural arch of Punta Ventana, Guayanilla, Puerto Rico
+2025 USGS National Seismic Hazard Model for Puerto Rico and U.S. Virgin Islands Chance of Damaging Shaking Map
+2025 USGS National Seismic Hazard Model for Puerto Rico and U.S. Virgin Islands Chance of Damaging Shaking Map
+10 Largest Earthquakes Ever Recorded (Updated 2025)
+10 Largest Earthquakes Ever Recorded (Updated 2025)
+Deep Ice Seismometer Thumbnail
+World's deepest seismometer braces the South Pole!
+IceCube 2025-08-07TW 0407
+IceCube 2025-08-07TW 0407
+Testing the Deep Ice Seismometer
+Testing the Deep Ice Seismometer
+IceCube 2025-08-07TW 0578
+IceCube 2025-08-07TW 0578
+View All

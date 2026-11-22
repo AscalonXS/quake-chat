@@ -1,0 +1,1570 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="Author" content="State of California" />
+	<meta name="Description" content="State of California" />
+	<meta name="Keywords" content="California, government" />
+
+	<!-- http://t.co/dKP3o1e -->
+	<meta name="HandheldFriendly" content="True">
+
+	<!-- for Blackberry, AvantGo -->
+	<meta name="MobileOptimized" content="320">
+
+	<!-- for Windows mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+	<!-- Google Meta-->
+	
+	
+	
+	<link rel="apple-touch-icon-precomposed" sizes="100x100" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="192x192" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-192x192.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-180x180.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" href="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/src/images/system/apple-touch-icon.png">
+
+	<link title="Fav Icon" rel="icon" href="https://www.ssc.ca.gov/wp-content/uploads/sites/5/2020/08/favicon.ico">
+	<link rel="shortcut icon" href="https://www.ssc.ca.gov/wp-content/uploads/sites/5/2020/08/favicon.ico">
+	
+	<title>What to do After an Earthquake | Seismic Safety Commission</title>
+<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//cse.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Seismic Safety Commission &raquo; Feed" href="https://www.ssc.ca.gov/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Seismic Safety Commission &raquo; Comments Feed" href="https://www.ssc.ca.gov/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ssc.ca.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ssc.ca.gov%2Fafter-a-quake%2Fwhat-to-do%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ssc.ca.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ssc.ca.gov%2Fafter-a-quake%2Fwhat-to-do%2F&#038;format=xml" />
+<meta content="CAWeb v.1.13.0a" name="generator"/><link rel='stylesheet' id='dashicons-css' href='https://www.ssc.ca.gov/wp-includes/css/dashicons.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='thickbox-css' href='https://www.ssc.ca.gov/wp-includes/js/thickbox/thickbox.css?ver=7.1.4' media='all' />
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='incident_public_styles-css' href='https://www.ssc.ca.gov/wp-content/plugins/incident_minimal-2.0.0/css/incident_public_styles.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='et-divi-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext&#038;display=swap' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/style.css?ver=4.27.4' media='all' />
+<link rel='stylesheet' id='dflip-style-css' href='https://www.ssc.ca.gov/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?ver=2.4.37' media='all' />
+<link rel='stylesheet' id='divi-breadcrumbs-styles-css' href='https://www.ssc.ca.gov/wp-content/plugins/breadcrumbs-divi-module/styles/style.min.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='caweb-module-extension-styles-css' href='https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/divi/extension/styles/style.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.ssc.ca.gov/wp-content/plugins/tablepress/css/build/default.css?ver=3.4.1' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.ssc.ca.gov/wp-content/themes/Divi/style-static.min.css?ver=4.27.4' media='all' />
+<link rel='stylesheet' id='cagov-core-style-css' href='https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/build/sacramento.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='caweb-core-style-css' href='https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/build/caweb-core.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='caweb-google-font-style-css' href='https://fonts.googleapis.com/css?family=Asap+Condensed:400,600|Source+Sans+Pro:400,700&#038;ver=7.1.4' media='all' />
+<link rel='stylesheet' id='caweb-external-custom-1-css' href='https://www.ssc.ca.gov/wp-content/uploads/sites/5/caweb-1.13.0a-ext/css/ssc-custom-styles-v0.0.1.css?ver=7.1.4' media='all' />
+<link rel="https://api.w.org/" href="https://www.ssc.ca.gov/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ssc.ca.gov/wp-json/wp/v2/pages/3473" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ssc.ca.gov/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel="canonical" href="https://www.ssc.ca.gov/after-a-quake/what-to-do/" />
+<link rel='shortlink' href='https://www.ssc.ca.gov/?p=3473' />
+
+<script async src="https://siteimproveanalytics.com/js/siteanalyze_1768.js"></script>
+
+<script defer src="https://alert.cdt.ca.gov"></script>
+<meta name="google-site-verification" content="5ZizaVXwOKhHhOW7zF2PfaN0HGJtlgxTAC_-NN66D7g" />
+<script defer src="https://alert.cdt.ca.gov"></script><style id="et-critical-inline-css">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:14px}.et_pb_slide_content,.et_pb_best_value{font-size:15px}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}</style>
+<link rel="stylesheet" id="et-core-unified-3473-cached-inline-styles" href="https://www.ssc.ca.gov/wp-content/et-cache/1/5/3473/et-core-unified-3473.min.css?ver=1787119584" /><link rel="preload" as="style" id="et-core-unified-tb-5612-deferred-3473-cached-inline-styles" href="https://www.ssc.ca.gov/wp-content/et-cache/1/5/3473/et-core-unified-tb-5612-deferred-3473.min.css?ver=1787119584" onload="this.onload=null;this.rel='stylesheet';" /><style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://www.ssc.ca.gov/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://www.ssc.ca.gov/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://www.ssc.ca.gov/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id="core-block-supports-inline-css">
+.wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+<body class="wp-singular page-template-default page page-id-3473 page-child parent-pageid-3471 wp-theme-Divi wp-child-theme-CAWeb-1130a et-tb-has-template et-tb-has-footer locale-en-us et_pb_button_helper_class et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db  divi-built">
+	
+<header id="header" class="global-header">
+	<div id="skip-to-content"><a href="#main-content">Skip to Main Content</a></div>
+		<div id="caweb_alerts" class="alerts">
+		<script>
+		jQuery(document).ready(function($) {
+			$('.caweb-alert-close').on( 'click', function(e){ 
+				var alert_id = this.dataset.alert; 
+				document.cookie = 'caweb-alert-' + alert_id + '=false;path=/';
+
+				$(`#caweb-alert-${alert_id}`)[0].remove();
+			});
+		});
+	</script>
+	</div>
+	
+	<!-- Utility Header -->
+	<div class="utility-header">
+		<div class="container d-flex flex-row">
+			<div class="social-media-links">
+				<div class="header-cagov-logo">
+					<a href="https://www.ca.gov/" title="CA.gov website">
+						<span class="sr-only">CA.gov</span>
+						<span class="ca-gov-logo-svg"></span>
+					</a>
+				</div>
+				<p class="official-tag">Official website of the State of California</p>
+			</div>
+			<div class="settings-links">
+																			
+											<a class="utility-contact-us" href="/contact/">Contact Us</a>
+										
+					
+										
+			</div>
+		</div>
+	</div>
+
+	<!-- Branding -->
+	<div class="branding border-bottom">
+		<div class="container d-flex flex-row">
+			<div class="header-organization-banner">
+				<a href="/">
+					<img src="https://www.ssc.ca.gov/wp-content/uploads/sites/5/2020/08/template-logo.png" alt="&quot;&quot;" />
+				</a>
+			</div>
+			
+<div class="search-container">
+    <form id="Search" action="https://www.ssc.ca.gov/serp">
+        <div class="input-group">
+            <span class="sr-only" id="SearchInput">Custom Google Search</span>
+            <input type="search" name="q" aria-labelledby="SearchInput" placeholder="Search" class="search-textfield form-control" value="">
+            <button type="submit" class="search-button">
+                <span class="ca-gov-icon-search" aria-hidden="true"></span>
+                <span class="sr-only">Submit</span>
+            </button>
+        </div>
+    </form>
+</div>			<button class="mobile-control toggle-menu ca-gov-icon-menu fs-2" data-bs-toggle="collapse" data-bs-target=".mobile-controlled" aria-expanded="false" aria-controls="mobile-controls" aria-label="Open the navigation menu">
+	        </button>
+		</div>
+	</div>
+
+	<!-- Mobile Navigation Controls -->
+	<div id="mobile-controls" class="mobile-controlled overlay collapse collapse-horizontal">
+		<button class="mobile-control toggle-menu ca-gov-icon-close-mark fs-1" data-bs-toggle="collapse" data-bs-target=".mobile-controlled" aria-expanded="false" aria-controls="mobile-controls" aria-label="Closes the navigation menu">
+		</button>
+	</div>
+
+	<!-- Navigation -->
+	<div class="navigation border-bottom">
+	    <div class="container">
+		<ul class="nav" aria-label="Main navigation">
+
+				<li 
+					class=" menu-item menu-item-type-custom menu-item-object-custom nav-item dropdown" 
+									>
+					<a 
+						href="#" 
+						class="nav-link dropdown-toggle"
+																								data-bs-toggle="dropdown"
+						data-bs-popper-config='{"placement": "bottom-start", "strategy": "fixed"}'
+						aria-expanded="false"
+																	>
+					Before a Quake					</a>
+											<ul class="dropdown-menu">
+																	<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Overview
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/guides/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Property Guides
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/education/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Education
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0 bs-sub-menu-item menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/education/k-12-resources/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												K-12 Resources
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0 bs-sub-menu-item menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/education/volcanoes/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Volcanoes
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0 bs-sub-menu-item menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/education/tsunamis/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Tsunamis
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/preparedness-resources/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Preparedness Resources
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/before-a-quake/early-warning/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Early Warning
+																							</a>
+										</li>
+																		</ul>
+									</li>
+							<li 
+					class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent nav-item dropdown" 
+									>
+					<a 
+						href="#" 
+						class="nav-link dropdown-toggle"
+																								data-bs-toggle="dropdown"
+						data-bs-popper-config='{"placement": "bottom-start", "strategy": "fixed"}'
+						aria-expanded="false"
+																		aria-current="page"
+											>
+					After a Quake					</a>
+											<ul class="dropdown-menu">
+																	<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/after-a-quake/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Overview
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3473 current_page_item"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/after-a-quake/what-to-do/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												What to do
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/after-a-quake/response-and-recovery/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Response &amp; Recovery
+																							</a>
+										</li>
+																		</ul>
+									</li>
+							<li 
+					class=" menu-item menu-item-type-custom menu-item-object-custom nav-item dropdown" 
+									>
+					<a 
+						href="#" 
+						class="nav-link dropdown-toggle"
+																								data-bs-toggle="dropdown"
+						data-bs-popper-config='{"placement": "bottom-start", "strategy": "fixed"}'
+						aria-expanded="false"
+																	>
+					Policy &amp; Legislation					</a>
+											<ul class="dropdown-menu">
+																	<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/policy-legislation/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Overview
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/policy-legislation/policy/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Policy
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/policy-legislation/legislation/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Legislation
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/policy-legislation/meetings/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Meetings
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/policy-legislation/publications/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Publications
+																							</a>
+										</li>
+																		</ul>
+									</li>
+							<li 
+					class=" menu-item menu-item-type-custom menu-item-object-custom nav-item dropdown" 
+									>
+					<a 
+						href="#" 
+						class="nav-link dropdown-toggle"
+																								data-bs-toggle="dropdown"
+						data-bs-popper-config='{"placement": "bottom-start", "strategy": "fixed"}'
+						aria-expanded="false"
+																	>
+					Resources					</a>
+											<ul class="dropdown-menu">
+																	<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/public-resources/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Overview
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/public-resources/earthquake-information/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Earthquake Information
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/public-resources/public-records/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Public Records
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/public-resources/related-links/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Related Links
+																							</a>
+										</li>
+																		</ul>
+									</li>
+							<li 
+					class=" menu-item menu-item-type-custom menu-item-object-custom nav-item dropdown" 
+									>
+					<a 
+						href="#" 
+						class="nav-link dropdown-toggle"
+																								data-bs-toggle="dropdown"
+						data-bs-popper-config='{"placement": "bottom-start", "strategy": "fixed"}'
+						aria-expanded="false"
+																	>
+					About					</a>
+											<ul class="dropdown-menu">
+																	<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/about/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Overview
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/about/history-mission/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												History &amp; Mission
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/about/strategic-plan/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Strategic Plan
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/about/commissioners-staff/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Commissioners &amp; Staff
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/about/careers/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												Careers
+																							</a>
+										</li>
+																				<li
+																						class="unit1 w-100 p-0  menu-item menu-item-type-post_type menu-item-object-page"
+											  
+																					>
+											<a 
+												href="https://www.ssc.ca.gov/about/faqs/" 
+												class="dropdown-item nav-link"
+												tabindex="-1"
+																																			>														
+												FAQs
+																							</a>
+										</li>
+																		</ul>
+									</li>
+			
+</ul>		</div>
+	</div>
+</header>
+<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="66">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://www.ssc.ca.gov/">
+				<img src="https://www.ssc.ca.gov/wp-content/themes/Divi/images/logo.png" width="93" height="43" alt="Seismic Safety Commission" id="logo" data-height-percentage="54" />
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+									<nav id="top-menu-nav">
+											<ul id="top-menu" class="nav">
+															<li ><a href="https://www.ssc.ca.gov/">Home</a></li>
+							
+							<li class="page_item page-item-3496 page_item_has_children"><a href="https://www.ssc.ca.gov/about/">About the Commission</a>
+<ul class='children'>
+	<li class="page_item page-item-3510"><a href="https://www.ssc.ca.gov/about/careers/">Careers</a></li>
+	<li class="page_item page-item-3505"><a href="https://www.ssc.ca.gov/about/commissioners-staff/">Commissioners &amp; Staff</a></li>
+	<li class="page_item page-item-3507"><a href="https://www.ssc.ca.gov/about/faqs/">Frequently Asked Questions</a></li>
+	<li class="page_item page-item-3498"><a href="https://www.ssc.ca.gov/about/history-mission/">History &amp; Mission</a></li>
+	<li class="page_item page-item-3504"><a href="https://www.ssc.ca.gov/about/strategic-plan/">Strategic Plan</a></li>
+</ul>
+</li>
+<li class="page_item page-item-3471 page_item_has_children current_page_ancestor current_page_parent"><a href="https://www.ssc.ca.gov/after-a-quake/">After a Quake</a>
+<ul class='children'>
+	<li class="page_item page-item-3475"><a href="https://www.ssc.ca.gov/after-a-quake/response-and-recovery/">Response &amp; Recovery</a></li>
+	<li class="page_item page-item-3473 current_page_item"><a href="https://www.ssc.ca.gov/after-a-quake/what-to-do/" aria-current="page">What to do After an Earthquake</a></li>
+</ul>
+</li>
+<li class="page_item page-item-365"><a href="https://www.ssc.ca.gov/archived_meetings/">Archived Meetings</a></li>
+<li class="page_item page-item-3455 page_item_has_children"><a href="https://www.ssc.ca.gov/before-a-quake/">Before a Quake</a>
+<ul class='children'>
+	<li class="page_item page-item-3460"><a href="https://www.ssc.ca.gov/before-a-quake/early-warning/">Early Warning</a></li>
+	<li class="page_item page-item-4615 page_item_has_children"><a href="https://www.ssc.ca.gov/before-a-quake/guides/">Earthquake Safety Guides</a>
+	<ul class='children'>
+		<li class="page_item page-item-5318"><a href="https://www.ssc.ca.gov/before-a-quake/guides/commercial-property-owners-guide-to-earthquake-safety-english/">Commercial Property Owner&#8217;s Guide to Earthquake Safety (English)</a></li>
+		<li class="page_item page-item-5319"><a href="https://www.ssc.ca.gov/before-a-quake/guides/commercial-property-owners-guide-to-earthquake-safety-spanish/">Commercial Property Owner&#8217;s Guide to Earthquake Safety (Spanish)</a></li>
+		<li class="page_item page-item-5302"><a href="https://www.ssc.ca.gov/before-a-quake/guides/home-owners-guide-to-earthquake-safety-english/">Home Owner&#8217;s Guide to Earthquake Safety (English)</a></li>
+		<li class="page_item page-item-5309"><a href="https://www.ssc.ca.gov/before-a-quake/guides/home-owners-guide-to-earthquake-safety-spanish/">Home Owner&#8217;s Guide to Earthquake Safety (Spanish)</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-3458 page_item_has_children"><a href="https://www.ssc.ca.gov/before-a-quake/education/">Education</a>
+	<ul class='children'>
+		<li class="page_item page-item-3465"><a href="https://www.ssc.ca.gov/before-a-quake/education/k-12-resources/">K-12 Resources</a></li>
+		<li class="page_item page-item-3469"><a href="https://www.ssc.ca.gov/before-a-quake/education/tsunamis/">Tsunamis</a></li>
+		<li class="page_item page-item-3467"><a href="https://www.ssc.ca.gov/before-a-quake/education/volcanoes/">Volcanoes</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-3459"><a href="https://www.ssc.ca.gov/before-a-quake/preparedness-resources/">Preparedness Resources</a></li>
+</ul>
+</li>
+<li class="page_item page-item-251"><a href="https://www.ssc.ca.gov/use/">Conditions of Use</a></li>
+<li class="page_item page-item-274"><a href="https://www.ssc.ca.gov/contact/">Contact Us</a></li>
+<li class="page_item page-item-1066"><a href="https://www.ssc.ca.gov/mcbride/">Dr. Sara K. McBride, Executive Director</a></li>
+<li class="page_item page-item-6040"><a href="https://www.ssc.ca.gov/">HomePage Seismic Safety Commission</a></li>
+<li class="page_item page-item-3478 page_item_has_children"><a href="https://www.ssc.ca.gov/policy-legislation/">Policy &amp; Legislation</a>
+<ul class='children'>
+	<li class="page_item page-item-3482"><a href="https://www.ssc.ca.gov/policy-legislation/legislation/">Legislation</a></li>
+	<li class="page_item page-item-3483"><a href="https://www.ssc.ca.gov/policy-legislation/meetings/">Meetings</a></li>
+	<li class="page_item page-item-3480"><a href="https://www.ssc.ca.gov/policy-legislation/policy/">Policy</a></li>
+	<li class="page_item page-item-3486"><a href="https://www.ssc.ca.gov/policy-legislation/publications/">Publications</a></li>
+</ul>
+</li>
+<li class="page_item page-item-268"><a href="https://www.ssc.ca.gov/privacy/">Privacy Policy</a></li>
+<li class="page_item page-item-3488 page_item_has_children"><a href="https://www.ssc.ca.gov/public-resources/">Resources</a>
+<ul class='children'>
+	<li class="page_item page-item-3490"><a href="https://www.ssc.ca.gov/public-resources/earthquake-information/">Earthquake Information</a></li>
+	<li class="page_item page-item-3491"><a href="https://www.ssc.ca.gov/public-resources/public-records/">Public Records</a></li>
+	<li class="page_item page-item-3492"><a href="https://www.ssc.ca.gov/public-resources/related-links/">Related Links</a></li>
+</ul>
+</li>
+<li class="page_item page-item-1136"><a href="https://www.ssc.ca.gov/serp/">Search Results</a></li>
+<li class="page_item page-item-272"><a href="https://www.ssc.ca.gov/accessibility/">Web Content Accessibility</a></li>
+								<li class="cat-item cat-item-13"><a href="https://www.ssc.ca.gov/category/meeting-announcement/">Meeting Announcement</a>
+</li>
+						</ul>
+										</nav>
+				
+				
+				
+									<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+				<div class="et_search_outer">
+			<div class="container et_search_form_container">
+				<form role="search" method="get" class="et-search-form" action="https://www.ssc.ca.gov/">
+				<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />				</form>
+				<span class="et_close_search_field"></span>
+			</div>
+		</div>
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+	<article id="post-3473" class="post-3473 page type-page status-publish hentry">
+
+				<div class="entry-content">
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 page-heading-light et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module lwp_divi_breadcrumbs lwp_divi_breadcrumbs_0">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<div class="lwp-breadcrumbs"> <span class="before"></span> <span vocab="https://schema.org/" typeof="BreadcrumbList"><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://www.ssc.ca.gov/" class="home"><span property="name">Home</span></a><meta property="position" content="1"></span> <span class="separator et-pb-icon"></span> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://www.ssc.ca.gov/after-a-quake/"><span property="name">After a Quake<span></a><meta property="position" content="2"></span> <span class="separator et-pb-icon"></span> <span class="current">What to do After an Earthquake</span></span></div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1 bs-align-items-center bs-page-heading-row et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_light  et_pb_text_align_left"   >
+				
+				
+				
+				
+				
+				<div class="et_pb_title_container">
+					<h1 class="entry-title">What to do After an Earthquake</h1>
+				</div>
+				
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Immediate steps to take after an earthquake to stay safe and help others.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular et_pb_section--with-menu" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2 bs-vertical-rhythm-top et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et_pb_column--with-menu">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0 bs-internal-sub-menu et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-after-a-quake" class="et-menu nav"><li id="menu-item-4198" class="et_pb_menu_page_id-3473 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3473 current_page_item menu-item-4198"><a href="https://www.ssc.ca.gov/after-a-quake/what-to-do/" aria-current="page">What to do After an Earthquake</a></li>
+<li id="menu-item-4199" class="et_pb_menu_page_id-3475 menu-item menu-item-type-post_type menu-item-object-page menu-item-4199"><a href="https://www.ssc.ca.gov/after-a-quake/response-and-recovery/">Response &amp; Recovery</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_column et_pb_column_3_4 et_pb_column_4 bs-timeline-items-wrapper  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_0 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Start Here</h2><h3 class="h4">Protect yourself and others</h3>
+<ul>
+<li>Check yourself for injuries before helping others</li>
+<li>Help injured or trapped people if it is safe to do so</li>
+<li>Do not move seriously injured people unless they are in immediate danger</li>
+</ul>
+<h3 class="h4">Emergency help</h3>
+<ul>
+<li><a href="https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/earthquake.html" target="_blank" rel="noopener">American Red Cross Emergency Guidance</a></li>
+</ul>
+<blockquote class="bs-emergency">
+<p>If you are in immediate danger or need emergency assistance:<br /><a href="tel:911" title="Call 911 if an emergency" target="_blank" rel="noopener">Call 911 if available</a></p>
+</blockquote></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_1 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Reduce Immediate Dangers</h2><h3 class="h4">Prevent fires and hazards</h3>
+<ul>
+<li>Look for and extinguish small fires</li>
+<li>Eliminate fire hazards</li>
+<li>Clean up spilled flammable liquids such as gasoline or chemicals</li>
+</ul>
+<h3 class="h4">Protect yourself from injury</h3>
+<ul>
+<li>Wear sturdy shoes and protective clothing</li>
+<li>Watch for broken glass and debris</li>
+<li>Use flashlights instead of candles to avoid fire risk</li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_2 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Check Your Home</h2><h3 class="h4">Inspect your surroundings</h3>
+<ul>
+<li>Inspect your home for damage</li>
+<li>Leave immediately if the building is unsafe</li>
+<li>Stay out of damaged buildings until authorities say it is safe</li>
+<li>Open cabinets and closets carefully, as contents may have shifted</li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_3 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Shelter & Utilities</h2><ul>
+<li>If your home is unsafe, evacuate and follow local emergency instructions</li>
+<li>Seek temporary shelter with Local Assistance Centers, county emergency services, or <a href="https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html" target="_blank" rel="noopener">Red Cross &#8211; Find an Open Shelter</a></li>
+<li>Report downed power lines to your utility provider</li>
+<li>Turn off utilities if you suspect damage</li>
+<li>Avoid drinking tap water until officials confirm it is safe</li>
+<li>Use flashlights instead of candles until gas leaks are ruled out</li>
+<li>Power Outage and Fire Recovery <a href="https://www.flexalert.org" target="_blank" rel="noopener">www.flexalert.org</a></li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_4 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Stay Informed</h2><h3 class="h4">Get reliable updates</h3>
+<ul>
+<li>Listen to a battery-powered radio or local news for emergency information</li>
+<li>Follow instructions from local officials</li>
+<li>Use phones only for emergency calls to keep lines open</li>
+</ul>
+<h3 class="h4">Live earthquake data and information</h3>
+<ul>
+<li><a href="https://www.usgs.gov/programs/earthquake-hazards" target="_blank" rel="noopener">USGS Earthquake Hazards Program</a></li>
+</ul>
+<h3 class="h4">Real-time earthquake map</h3>
+<ul>
+<li><a href="https://earthquake.usgs.gov/earthquakes/map/" target="_blank" rel="noopener">View Map</a></li>
+</ul>
+<h3 class="h4">California emergency updates</h3>
+<ul>
+<li><a href="https://www.caloes.ca.gov/" target="_blank" rel="noopener">View Updates</a></li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_5 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Disaster Assistance</h2><ul>
+<li>Temporary Housing</li>
+<li>Home repair support</li>
+<li>Financial aid after a disaster declaration</li>
+<li><a href="https://www.988lifeline.org/" target="_blank" rel="noopener">Crisis counseling and emotional support</a></li>
+<li><a href="https://www.disasterassistance.gov/" target="_blank" rel="noopener">Disaster Assistance (State &amp; Federal)</a></li>
+<li><a href="https://www.caloes.ca.gov/office-of-the-director/operations/recovery-directorate/interagency-recovery-coordination/individual-assistance/" target="_blank" rel="noopener">CalOES Individual Assistance</a></li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_6 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Community Support</h2><ul>
+<li><a href="https://www.redcross.org/get-help/disaster-relief-and-recovery-services.html" target="_blank" rel="noopener">American Red Cross Disaster Services</a></li>
+<li>Local Assistance Centers (LACs) may open after major disasters to help residents access services in one location. These centers can assist with: 
+<ul>
+<li>Disaster assistance applications</li>
+<li>Housing and social services</li>
+<li>Insurance questions</li>
+<li>Replacement of vital records</li>
+</ul>
+</li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_7 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Volunteer & Donation Information</h2>If you want to help:</p>
+<ul>
+<li>Donate through trusted organizations.</li>
+<li>Volunteer with approved disaster response groups </li>
+<li>Avoid self-deploying to disaster areas</li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_8 bs-timeline-item bs-vertical-rhythm-bottom section p-3" ><div><h2 class="text-">Expect Aftershocks</h2><p>Be prepared for continued shaking</p>
+<ul>
+<li>Aftershocks may occur minutes, days, or months after the earthquake</li>
+<li>If shaking occurs again: <a href="https://www.earthquakecountry.org/dropcoverholdon" target="_blank" rel="noopener">Drop, Cover, and Hold On</a></li>
+</ul></div></div><div class="et_pb_module et_pb_ca_section_primary et_pb_ca_section_primary_9 bs-timeline-item section p-3" ><div><h2 class="text-">What's Next?</h2><p>Once immediate safety concerns have been addressed:</p>
+<p>Go to <a href="https://www.ssc.ca.gov/after-a-quake/response-and-recovery/">Response &amp; Recovery</a></p></div></div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_3 bs-vertical-rhythm bs-max-width-1000">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="quick-links" class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_heading et_pb_heading_0 et_pb_bg_layout_">
+				
+				
+				
+				
+				<div class="et_pb_heading_container"><h2 class="et_pb_module_heading">Quick Links</h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5 bs-three-col-respace et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 bs-btn-w-carat-r et_pb_bg_layout_light" href="https://www.ssc.ca.gov/before-a-quake/">Get Prepared</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 bs-btn-w-carat-r et_pb_bg_layout_light" href="https://www.ssc.ca.gov/policy-legislation/meetings/">Policy Meeting Dates</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 bs-btn-w-carat-r et_pb_bg_layout_light" href="https://www.ssc.ca.gov/policy-legislation/publications/">Publications</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6 bs-three-col-respace bs-vertical-rhythm-bottom et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 bs-btn-w-carat-r et_pb_bg_layout_light" href="https://www.ssc.ca.gov/after-a-quake/">What To Do After an Earthquake</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_4_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 bs-btn-w-carat-r et_pb_bg_layout_light" href="https://www.ssc.ca.gov/about/">About SSC</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_5_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 bs-btn-w-carat-r et_pb_bg_layout_light" href="https://www.ssc.ca.gov/about/careers/">Careers</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+			</div>
+
+		
+	</article>
+		<link rel='stylesheet' id='searchwp-forms-css' href='https://www.ssc.ca.gov/wp-content/plugins/searchwp/assets/css/frontend/search-forms.min.css?ver=4.5.9' media='all' />
+<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div id="bs-footer" class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_sidebar_0_tb_footer et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div id="block-2" class="fwidget et_pb_widget widget_block">
+<h2 class="wp-block-heading bs-footer-heading">Before A Quake</h2>
+</div><div id="nav_menu-2" class="fwidget et_pb_widget widget_nav_menu">
+<ul class="accordion-list">
+						<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/before-a-quake/guides/"
+																											>
+						
+							<span class="widget_nav_menu_title">Property Guides</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/before-a-quake/education/"
+																											>
+						
+							<span class="widget_nav_menu_title">Education</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/before-a-quake/preparedness-resources/"
+																											>
+						
+							<span class="widget_nav_menu_title">Preparedness Resources</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/before-a-quake/early-warning/"
+																											>
+						
+							<span class="widget_nav_menu_title">Early Warning</span>
+						</a>
+					</li>
+				</ul>
+</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_sidebar_1_tb_footer et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div id="block-3" class="fwidget et_pb_widget widget_block">
+<h2 class="wp-block-heading bs-footer-heading">After A Quake</h2>
+</div><div id="nav_menu-3" class="fwidget et_pb_widget widget_nav_menu">
+<ul class="accordion-list">
+						<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3473 current_page_item nav-item active"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/after-a-quake/what-to-do/"
+																											>
+						
+							<span class="widget_nav_menu_title">What to do After an Earthquake</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/after-a-quake/response-and-recovery/"
+																											>
+						
+							<span class="widget_nav_menu_title">Response &amp; Recovery</span>
+						</a>
+					</li>
+				</ul>
+</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_sidebar_2_tb_footer et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div id="block-4" class="fwidget et_pb_widget widget_block">
+<h2 class="wp-block-heading bs-footer-heading">Policy &amp; Legislation</h2>
+</div><div id="nav_menu-7" class="fwidget et_pb_widget widget_nav_menu">
+<ul class="accordion-list">
+						<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/policy-legislation/policy/"
+																											>
+						
+							<span class="widget_nav_menu_title">Policy</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/policy-legislation/legislation/"
+																											>
+						
+							<span class="widget_nav_menu_title">Legislation</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/policy-legislation/meetings/"
+																											>
+						
+							<span class="widget_nav_menu_title">Meetings</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/policy-legislation/publications/"
+																											>
+						
+							<span class="widget_nav_menu_title">Publications</span>
+						</a>
+					</li>
+				</ul>
+</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_sidebar_3_tb_footer et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div id="block-5" class="fwidget et_pb_widget widget_block">
+<h2 class="wp-block-heading bs-footer-heading">Resources</h2>
+</div><div id="nav_menu-8" class="fwidget et_pb_widget widget_nav_menu">
+<ul class="accordion-list">
+						<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/public-resources/earthquake-information/"
+																											>
+						
+							<span class="widget_nav_menu_title">Earthquake Information</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/public-resources/public-records/"
+																											>
+						
+							<span class="widget_nav_menu_title">Public Records</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/public-resources/related-links/"
+																											>
+						
+							<span class="widget_nav_menu_title">Related Links</span>
+						</a>
+					</li>
+				</ul>
+</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_sidebar_4_tb_footer et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div id="block-6" class="fwidget et_pb_widget widget_block">
+<h2 class="wp-block-heading bs-footer-heading">About SSC</h2>
+</div><div id="nav_menu-6" class="fwidget et_pb_widget widget_nav_menu">
+<ul class="accordion-list">
+						<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/about/history-mission/"
+																											>
+						
+							<span class="widget_nav_menu_title">History &amp; Mission</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/about/strategic-plan/"
+																											>
+						
+							<span class="widget_nav_menu_title">Strategic Plan</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/about/commissioners-staff/"
+																											>
+						
+							<span class="widget_nav_menu_title">Commissioners &amp; Staff</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/about/careers/"
+																											>
+						
+							<span class="widget_nav_menu_title">Careers</span>
+						</a>
+					</li>
+									<li 
+						class=" menu-item menu-item-type-post_type menu-item-object-page nav-item"
+											>
+						<a 
+							href="https://www.ssc.ca.gov/about/faqs/"
+																											>
+						
+							<span class="widget_nav_menu_title">FAQs</span>
+						</a>
+					</li>
+				</ul>
+</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="contact-info-wrapper" class="et_pb_row et_pb_row_1_tb_footer bs-vertical-rhythm-m-bottom">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_sidebar_5_tb_footer et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div id="block-7" class="fwidget et_pb_widget widget_block">
+<h2 class="wp-block-heading">Contact</h2>
+</div><div id="block-8" class="fwidget et_pb_widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="wp-block-paragraph">Email: <a href="mailto:infoSSC@CalOES.ca.gov" target="_blank" rel="noreferrer noopener">infoSSC@CalOES.ca.gov</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="wp-block-paragraph">Phone: <a href="tel:+19162635506" target="_blank" rel="noreferrer noopener">(916) 263-5506</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="wp-block-paragraph">Address: <a href="https://maps.app.goo.gl/14cEso5mabf4ukxU6" target="_blank" rel="noreferrer noopener">3650 Schriever Avenue, Mather, CA 95655</a></p>
+</div>
+</div>
+</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="contact-info-wrapper" class="et_pb_row et_pb_row_2_tb_footer bs-vertical-rhythm-m-bottom">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module searchwp_forms_selector searchwp_forms_selector_0_tb_footer">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+							<style>
+			
+							#searchwp-form-1 .swp-input,
+                #searchwp-form-1 .swp-select {
+                    border: 1px solid ;
+                    border-radius: 5px;
+                }
+				#searchwp-form-1 .searchwp-form-input-container .swp-select {
+                    border-top-right-radius: 0;
+                    border-bottom-right-radius: 0;
+                    border-right: 0;
+                }
+				#searchwp-form-1 .searchwp-form-input-container .swp-select + .swp-input {
+                    border-top-left-radius: 0;
+                    border-bottom-left-radius: 0;
+                }
+				#searchwp-form-1 input[type=submit] {
+                    border-radius: 5px;
+                }
+			
+			
+			
+			
+			
+			
+			
+					</style>
+				<form id="searchwp-form-1"
+			role="search"
+			method="get"
+			class="searchwp-form"
+			action="https://www.ssc.ca.gov/"
+			aria-label="Search"
+						>
+			<input type="hidden" name="swp_form[form_id]" value="1">
+			<div class="swp-flex--col swp-flex--wrap swp-flex--gap-md">
+				<div class="swp-flex--row swp-items-stretch swp-flex--gap-md">
+					<div class="searchwp-form-input-container swp-items-stretch">
+														<input type="search"
+			class="swp-input--search swp-input"
+			placeholder=""
+			value=""
+			name="swps"
+			title=""
+			aria-label="Search"
+			aria-required="false"
+					/>
+													</div>
+							<input type="submit"
+			class="search-submit swp-button"
+			value="Search"
+			aria-label="Search"
+		/>
+						</div>
+											</div>
+					</form>
+		
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/sites/5/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/CAWeb-1.13.0a/*","/wp-content/themes/Divi/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="gtranslate_wrapper" id="gt-wrapper-65057395"></div><!-- Footer -->
+<footer class="global-footer">
+	<div class="container">
+		<div class="d-flex">
+	<ul class="nav footer-links ">
+	<li class="nav-item">
+        <a href="https://www.ca.gov" class="nav-link ps-0" title="CA.gov" target="_blank">
+            <span class="ca-gov-logo-svg"></span>
+        </a>
+    </li>
+
+									<li
+														class="nav-item "
+																				>
+							<a 
+								class="nav-link"
+								href="https://www.ssc.ca.gov/use/"
+																							>Conditions of Use</a>
+						</li>
+											<li
+														class="nav-item "
+																				>
+							<a 
+								class="nav-link"
+								href="https://www.ssc.ca.gov/privacy/"
+																							>Privacy Policy</a>
+						</li>
+											<li
+														class="nav-item "
+																				>
+							<a 
+								class="nav-link"
+								href="https://www.ssc.ca.gov/accessibility/"
+																							>Accessibility</a>
+						</li>
+											<li
+														class="nav-item "
+																				>
+							<a 
+								class="nav-link"
+								href="https://www.ssc.ca.gov/contact/"
+																							>Contact Us</a>
+						</li>
+											<li
+														class="nav-item "
+																				>
+							<a 
+								class="nav-link"
+								href="https://www.caloes.ca.gov/cal-oes/website-accessibility-certification/"
+																								target="_blank" 
+															>Website Accessibility Certification</a>
+						</li>
+							</ul>
+
+							<ul class="nav social-share-links">
+						<li class="nav-item">
+			<a 
+				class="nav-link ca-gov-icon-twitter"
+				href="https://twitter.com/CAseismic" 
+				title="Share via Twitter"
+				target="_blank"
+			>
+			</a>
+		</li>
+
+			<li class="nav-item">
+			<a 
+				class="nav-link ca-gov-icon-youtube"
+				href="https://www.youtube.com/user/CSSCommission" 
+				title="Share via YouTube"
+				target="_blank"
+			>
+			</a>
+		</li>
+
+			</ul>
+				</div>
+	</div>
+	<!-- Copyright Statement -->
+	<div class="copyright">
+		<div class="container">
+			<div class="d-flex">
+				<p class="me-auto">Copyright <span aria-hidden="true">&copy;</span> <script>document.write(new Date().getFullYear())</script> State of California</p>
+							</div>
+		</div>
+	</div>
+
+	
+<button class="return-top">Back to top</button>
+</footer>
+        <script data-cfasync="false">
+            window.dFlipLocation = 'https://www.ssc.ca.gov/wp-content/plugins/3d-flipbook-dflip-lite/assets/';
+            window.dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share","mailSubject":"I wanted you to see this FlipBook","mailBody":"Check out this site {{url}}","loading":"DearFlip: Loading "},"viewerType":"flipbook","moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"false","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","showSearchControl":"false","showPrintControl":"false","enableAnnotation":false,"enableAnalytics":"false","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false","linkTarget":"2","sharePrefix":"flipbook-"};
+        </script>
+      <script id="jquery-core-js" src="https://www.ssc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.ssc.ca.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-js-after">
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+//# sourceURL=jquery-js-after
+</script>
+<script id="thickbox-js-extra">
+var thickboxL10n = {"next":"Next \u003E","prev":"\u003C Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https://www.ssc.ca.gov/wp-includes/js/thickbox/loadingAnimation.gif"};
+//# sourceURL=thickbox-js-extra
+</script>
+<script id="thickbox-js" src="https://www.ssc.ca.gov/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
+<script id="gt_widget_script_27096844-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['27096844'] = {"default_language":"en","languages":["ar","zh-CN","nl","en","fr","de","hi","hmn","it","ja","ne","pl","pt","ro","ru","es","vi"],"url_structure":"none","flag_style":"2d","flag_size":24,"wrapper_selector":"#gtranslate_menu_wrapper_83632","alt_flags":{"en":"usa","es":"mexico"},"switcher_open_direction":"bottom","switcher_horizontal_position":"inline","switcher_text_color":"#666","switcher_arrow_color":"#666","switcher_border_color":"#ccc","switcher_background_color":"#fff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#fff","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_27096844-js-before
+</script><script src="https://www.ssc.ca.gov/wp-content/plugins/gtranslate/js/dwf.js?ver=5.0.2" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/after-a-quake/what-to-do/" data-gt-orig-domain="www.ssc.ca.gov" data-gt-widget-id="27096844" defer></script><script id="divi-custom-script-js-extra">
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https://www.ssc.ca.gov/wp-admin/admin-ajax.php","images_uri":"https://www.ssc.ca.gov/wp-content/themes/Divi/images","builder_images_uri":"https://www.ssc.ca.gov/wp-content/themes/Divi/includes/builder/images","et_frontend_nonce":"5b47e438bb","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"6103b43c34","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3473","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https://www.ssc.ca.gov/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors","accent_color":"#7EBEC5","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+//# sourceURL=divi-custom-script-js-extra
+</script>
+<script id="divi-custom-script-js" src="https://www.ssc.ca.gov/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.4"></script>
+<script id="dflip-script-js" src="https://www.ssc.ca.gov/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=2.4.37"></script>
+<script id="divi-breadcrumbs-frontend-bundle-js" src="https://www.ssc.ca.gov/wp-content/plugins/breadcrumbs-divi-module/scripts/frontend-bundle.min.js?ver=2.0.0"></script>
+<script id="caweb-module-extension-frontend-bundle-js" src="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/divi/extension/scripts/frontend-bundle.min.js?ver=1.0.0"></script>
+<script id="caweb-github-script-js" src="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/divi/extension/includes/modules/github//github.js?ver=7.1.4"></script>
+<script id="caweb-service-tiles-script-js" src="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/divi/extension/includes/modules/service-tiles-fullwidth//service-tiles.js?ver=7.1.4"></script>
+<script id="et-core-common-js" src="https://www.ssc.ca.gov/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.4"></script>
+<script id="google-tag-manager-agency-js" src="https://www.googletagmanager.com/gtm.js?id=GTM-5JN89NJ9&#038;ver=7.1.4"></script>
+<script id="google-cse-js" src="https://cse.google.com/cse.js?cx=4780974b14e2e8ff2&#038;ver=7.1.4"></script>
+<script id="google-analytics-statewide-js" src="https://www.googletagmanager.com/gtag/js?id=UA-3419582-2&#038;ver=7.1.4"></script>
+<script id="google-analytics4-statewide-js" src="https://www.googletagmanager.com/gtag/js?id=G-69TD0KNT0F&#038;ver=7.1.4"></script>
+<script id="cagov-core-script-js" src="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/build/sacramento.min.js?ver=7.1.4"></script>
+<script id="caweb-core-script-js-extra">
+var args = {"ca_google_tag_manager_id":"GTM-5JN89NJ9"};
+//# sourceURL=caweb-core-script-js-extra
+</script>
+<script id="caweb-core-script-js" src="https://www.ssc.ca.gov/wp-content/themes/CAWeb-1.13.0a/build/caweb-core.min.js?ver=7.1.4"></script>
+<script id="caweb-external-custom-1-scripts-js" src="https://www.ssc.ca.gov/wp-content/uploads/sites/5/caweb-1.13.0a-ext/js/cts-bs-custom-javascript---04132026.js?ver=7.1.4"></script>
+<script id="caweb-external-custom-2-scripts-js" src="https://www.ssc.ca.gov/wp-content/uploads/sites/5/caweb-1.13.0a-ext/js/scc-custom-javascript-v0.0.10.js?ver=7.1.4"></script>
+<script id="gt_widget_script_64208235-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['64208235'] = {"default_language":"en","languages":["ar","zh-CN","nl","en","fr","de","hi","hmn","it","ja","ne","pl","pt","ro","ru","es","vi"],"url_structure":"none","flag_style":"2d","flag_size":24,"wrapper_selector":"#gtranslate_menu_wrapper_53420","alt_flags":{"en":"usa","es":"mexico"},"switcher_open_direction":"bottom","switcher_horizontal_position":"inline","switcher_text_color":"#666","switcher_arrow_color":"#666","switcher_border_color":"#ccc","switcher_background_color":"#fff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#fff","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_64208235-js-before
+</script><script src="https://www.ssc.ca.gov/wp-content/plugins/gtranslate/js/dwf.js?ver=5.0.2" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/after-a-quake/what-to-do/" data-gt-orig-domain="www.ssc.ca.gov" data-gt-widget-id="64208235" defer></script><script id="searchwp-forms-js-extra">
+var searchwpForms = {"i18n":{"voiceSearch":"Voice Search","listening":"Listening\u2026","processing":"Processing\u2026","noSpeech":"No speech detected. Please try speaking again.","audioCapture":"Microphone not found or unavailable.","notAllowed":"Microphone permission denied. Please allow access.","network":"Network error. Please check your connection.","aborted":"Voice search cancelled.","serviceNotAllowed":"Speech recognition service unavailable.","defaultError":"Voice search error. Please try again."}};
+//# sourceURL=searchwp-forms-js-extra
+</script>
+<script id="searchwp-forms-js" src="https://www.ssc.ca.gov/wp-content/plugins/searchwp/assets/js/frontend/search-forms.min.js?ver=4.5.9"></script>
+<script id="gt_widget_script_65057395-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['65057395'] = {"default_language":"en","languages":["ar","zh-CN","nl","en","fr","de","hi","hmn","it","ja","ne","pl","pt","ro","ru","es","vi"],"url_structure":"none","flag_style":"2d","flag_size":24,"wrapper_selector":"#gt-wrapper-65057395","alt_flags":{"en":"usa","es":"mexico"},"switcher_open_direction":"bottom","switcher_horizontal_position":"right","switcher_vertical_position":"top","switcher_text_color":"#666","switcher_arrow_color":"#666","switcher_border_color":"#ccc","switcher_background_color":"#fff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#fff","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_65057395-js-before
+</script><script src="https://www.ssc.ca.gov/wp-content/plugins/gtranslate/js/dwf.js?ver=5.0.2" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/after-a-quake/what-to-do/" data-gt-orig-domain="www.ssc.ca.gov" data-gt-widget-id="65057395" defer></script>  <script id="hide-title-attributes">
+  function hide_title_attributes(el){
+    var t = el.querySelectorAll('[title]');
+    if(t && t.length > 0){
+      for(var n=0;n<t.length;++n){
+        var title=t[n].title;
+        t[n].removeAttribute('title');
+        t[n].setAttribute('aria-label',title);
+      }
+    }
+  }
+  hide_title_attributes(document.body);
+  document.body.onmouseover = function(e){
+    if(e.target.innerHTML.indexOf('title=')>-1){
+      hide_title_attributes(e.target);   
+    }
+    else if(e.target.title){
+      var t=e.target.title;
+      e.target.removeAttribute('title');
+      e.target.setAttribute('aria-label',t);     
+    }
+  }
+  </script>
+  	
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Page Caching using Disk: Enhanced 
+
+Served from: www.ssc.ca.gov @ 2026-11-22 09:09:47 by W3 Total Cache
+-->

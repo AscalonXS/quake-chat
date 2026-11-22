@@ -1,0 +1,74 @@
+Preliminary national-scale seismic risk assessment of natural gas pipelines in the United States
+November 16, 2022
+Although the gas pipeline infrastructure in the United States is vulnerable to the seismic hazards of (i) strong ground shaking, and (ii) ground failures induced by surface faulting, liquefaction, or landslides, limited national guidance exists for operators to consistently evaluate the earthquake response of their pipelines. To provide additional information for stakeholders and establish more consistency at a national scale, we attempt to quantify seismic risk for gas transmission pipelines in the conterminous United States using a metric such as average annual loss, which helps readily distinguish geographic areas of high and low relative risk. Specifically, we integrate the 2018 National Pipeline Mapping System, the 2018 National Seismic Hazard Model, and several candidate models from the literature for estimating pipeline damage. Through this effort, we highlight major research needs for ultimately reducing the many uncertainties associated with a comprehensive seismic risk assessment of gas pipelines.
+Citation Information
+Publication Year
+2022
+Title
+Preliminary national-scale seismic risk assessment of natural gas pipelines in the United States
+DOI
+10.1061/9780784484432.010
+Authors
+N. Simon Kwong, Kishor S. Jaiswal, Nico Luco, J. W. Baker, K. A. Ludwig
+Publication Type
+Conference Paper
+Publication Subtype
+Conference Paper
+Index ID
+70230334
+Record Source
+USGS Publications Warehouse
+USGS Organization
+Geologic Hazards Science Center
+Related
+Connect
+Neal Simon Kwong, PhD (Former Employee)
+Research Structural Engineer
+Earthquake Hazards Program
+Kishor Jaiswal
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+kjaiswal@usgs.gov
+Phone
+303-273-8584
+Nicolas Luco
+Research Civil Engineer
+Earthquake Hazards Program
+Email
+nluco@usgs.gov
+Phone
+303-273-8683
+Kristin Ludwig
+Science Advisor for Risk Reduction
+Natural Hazards Mission Area
+Email
+kaludwig@usgs.gov
+Phone
+303-273-8616
+Related
+Connect
+Neal Simon Kwong, PhD (Former Employee)
+Research Structural Engineer
+Earthquake Hazards Program
+Kishor Jaiswal
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+kjaiswal@usgs.gov
+Phone
+303-273-8584
+Nicolas Luco
+Research Civil Engineer
+Earthquake Hazards Program
+Email
+nluco@usgs.gov
+Phone
+303-273-8683
+Kristin Ludwig
+Science Advisor for Risk Reduction
+Natural Hazards Mission Area
+Email
+kaludwig@usgs.gov
+Phone
+303-273-8616

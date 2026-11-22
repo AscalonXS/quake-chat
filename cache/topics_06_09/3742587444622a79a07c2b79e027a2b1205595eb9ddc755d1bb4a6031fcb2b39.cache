@@ -1,0 +1,723 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aftershock Forecast Overview</title>
+    <link rel="stylesheet" href="/theme/hazdev/hazdev-template.css">
+    <script src="/theme/hazdev/assets/js/uswds-init.min.js"></script>
+    <link rel="stylesheet" href="/css/site-navigation.css?v=1791923470"><link rel="stylesheet" href="/css/legacy-content.css?v=1791923470">
+      <style>
+        figure { max-width: 800px; }
+      </style>
+    <meta name="description" content="USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards"/><meta name="keywords" content="aftershock,earthquake,epicenter,fault,foreshock,geologist,geophysics,hazard,hypocenter,intensity,intensity scale,magnitude,magnitude scale,mercalli,plate,richter,seismic,seismicity,seismogram,seismograph,seismologist,seismology,subduction,tectonics,tsunami,quake,sismologico,sismologia"/><script id="_fed_an_ua_tag" async="async" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOI&amp;subagency=USGS"></script>  </head>
+  <body id="top" class="hazdev-static-template">
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    <section class="usa-banner" aria-label="Official website of the United States government">
+      <div class="usa-accordion">
+        <header class="usa-banner__header">
+          <div class="usa-banner__inner">
+            <div class="grid-col-auto"><img aria-hidden="true" class="usa-banner__header-flag" src="/theme/hazdev/assets/img/us_flag_small.png" alt=""></div>
+            <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+              <p class="usa-banner__header-text">An official website of the United States government</p>
+              <p class="usa-banner__header-action">Here’s how you know</p>
+            </div>
+            <button type="button" class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner-content"><span class="usa-banner__button-text">Here’s how you know</span></button>
+          </div>
+        </header>
+        <div class="usa-banner__content usa-accordion__content" id="gov-banner-content" hidden>
+          <div class="grid-row grid-gap-lg">
+            <div class="usa-banner__guidance tablet:grid-col-6">
+              <img class="usa-banner__icon usa-media-block__img" src="/theme/hazdev/assets/img/icon-dot-gov.svg" alt="" aria-hidden="true">
+              <div class="usa-media-block__body"><p><strong>Official websites use .gov</strong><br>A <strong>.gov</strong> website belongs to an official government organization in the United States.</p></div>
+            </div>
+            <div class="usa-banner__guidance tablet:grid-col-6">
+              <img class="usa-banner__icon usa-media-block__img" src="/theme/hazdev/assets/img/icon-https.svg" alt="" aria-hidden="true">
+              <div class="usa-media-block__body"><p><strong>Secure .gov websites use HTTPS</strong><br>A lock or <strong>https://</strong> means you’ve safely connected to the .gov website.</p></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <header class="site-header" role="banner">
+      <div class="hazdev-header hazdev-header--with-menu">
+        <div class="grid-container hazdev-header__container">
+          <div class="hazdev-header__row">
+            <a class="hazdev-header__logo" href="https://www.usgs.gov/" title="U.S. Geological Survey home">
+              <picture>
+                <source media="(max-width: 40rem)" srcset="/theme/hazdev/DrupalVisID/images/usgs-abbreviation.svg">
+                <img src="/theme/hazdev/DrupalVisID/images/usgs.svg" alt="U.S. Geological Survey">
+              </picture>
+            </a>
+            <div class="hazdev-header__actions">
+              <section class="hazdev-header__search" aria-label="Site search">
+                <form action="https://www.usgs.gov/search" class="usa-search usa-search--small" method="get" role="search">
+                  <label for="site-search" class="usa-sr-only">Search</label>
+                  <input class="usa-input" id="site-search" type="search" name="keywords">
+                  <button class="usa-button" type="submit"><img src="/theme/hazdev/assets/img/usa-icons-bg/search--white.svg" class="usa-search__submit-icon" alt="Search"></button>
+                </form>
+              </section>
+              <button class="usa-button hazdev-header__menu-button" type="button" aria-controls="site-navigation" aria-expanded="false" data-hazdev-menu>Menu</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <section class="hazdev-subheader" aria-label="Application subheader">
+      <div class="grid-container subheader-container">
+        <div class="subheader-wrapper">
+          <span class="program-title font-body-sm line-height-body-2 text-bold">Earthquake Hazards Program</span>
+                  </div>
+      </div>
+    </section>
+<nav class="site-primary-navigation site-primary-navigation--desktop" aria-label="Primary navigation">
+  <div class="grid-container">
+    <ul class="site-primary-navigation__list">
+                        <li class="site-primary-navigation__item">
+            <a
+              href="/earthquakes/"
+              >Earthquakes</a>
+          </li>
+                                <li class="site-primary-navigation__item">
+            <a
+              href="/data/"
+              aria-current="page">Data &amp; Tools</a>
+          </li>
+                                <li class="site-primary-navigation__item">
+            <a
+              href="/monitoring/"
+              >Monitoring</a>
+          </li>
+                                <li class="site-primary-navigation__item">
+            <a
+              href="/education/"
+              >Education</a>
+          </li>
+                    <li class="site-primary-navigation__utility">
+        <a href="/earthquakes/map/">
+          <img
+            class="site-primary-navigation__utility-icon"
+            src="/theme/hazdev/assets/img/usa-icons/map.svg"
+            alt=""
+            aria-hidden="true">
+          Latest Earthquakes
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+    <div class="hazdev-page">
+      <button class="hazdev-navigation__scrim" type="button" aria-label="Close navigation" data-hazdev-scrim hidden></button>
+      <div class="hazdev-page__body hazdev-page__body--with-navigation grid-container">
+        <aside id="site-navigation" class="hazdev-navigation" aria-label="Site navigation">
+          <button class="usa-button usa-button--outline hazdev-navigation__close" type="button" data-hazdev-menu-close>Close</button>
+          <section class="hazdev-navigation__search" aria-label="Navigation search">
+            <form action="https://www.usgs.gov/search" class="usa-search usa-search--small" method="get" role="search">
+              <label for="menu-search" class="usa-sr-only">Search</label>
+              <input class="usa-input" id="menu-search" type="search" name="keywords">
+              <button class="usa-button" type="submit">
+                <img src="/theme/hazdev/assets/img/usa-icons-bg/search--white.svg" class="usa-search__submit-icon" alt="Search">
+              </button>
+            </form>
+          </section>
+                      <nav class="site-navigation__contextual-navigation" aria-label="Side navigation"><ul class="usa-sidenav"><li class="usa-sidenav__item"><a href="/data/oaf/" class="usa-current" aria-current="page">Aftershock Forecasts</a><ul class="usa-sidenav__sublist"><li class="usa-sidenav__item"><a href="/earthquakes/search/#%7B%22feed%22%3A%221795340755%22%2C%22search%22%3A%7B%22id%22%3A%221795340755%22%2C%22name%22%3A%22Aftershock%20Forecasts%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22contributor%22%3A%22oaf%22%7D%7D%2C%22basemap%22%3A%22terrain%22%2C%22timeZone%22%3A%22utc%22%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%7D%7D">Search Archives</a></li><li class="usa-sidenav__item"><a href="overview.php">Overview</a></li><li class="usa-sidenav__item"><a href="background.php">Scientific Background</a></li><li class="usa-sidenav__item"><a href="schedule.php">Forecast Update Schedule</a></li></ul></li></ul></nav>
+                              <nav class="site-primary-navigation site-primary-navigation--mobile" aria-label="Primary navigation">
+  <div class="grid-container">
+    <ul class="site-primary-navigation__list">
+                                  <li class="site-primary-navigation__item site-primary-navigation__item--has-children">
+            <div class="site-primary-navigation__control">
+              <a
+                href="/earthquakes/"
+                >Earthquakes</a>
+              <button
+                class="site-primary-navigation__toggle"
+                type="button"
+                aria-expanded="false"
+                aria-controls="site-primary-navigation-mobile-earthquakes"
+                aria-label="Show Earthquakes navigation"
+                data-site-primary-navigation-toggle>
+                <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+              </button>
+            </div>
+            <div class="site-primary-navigation__submenu" id="site-primary-navigation-mobile-earthquakes"  hidden>
+                <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-1" style="--navigation-depth: 1">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/map/" >
+            Latest Earthquakes                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/search/" >
+            Search The Earthquake Catalog                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/learn/today/" >
+            Today in Earthquake History                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="https://www.usgs.gov/programs/earthquake-hazards/information-region"  rel="external">
+            Earthquake Information By Region                          <svg class="usa-icon site-external-link__indicator" aria-hidden="true" focusable="false">
+                <use href="/theme/hazdev/assets/img/sprite.svg#launch"></use>
+              </svg>
+              <span class="usa-sr-only"> (external link)</span>
+                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/" >
+            Historical Earthquake Lists And Statistics                      </a>
+                      <button class="site-primary-navigation__toggle" type="button"
+              aria-expanded="false"
+              aria-controls="site-primary-navigation-branch-5"
+              aria-label="Show Historical Earthquake Lists And Statistics navigation"
+              data-site-primary-navigation-toggle>
+              <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+            </button>
+                  </div>
+                  <div id="site-primary-navigation-branch-5"  hidden>
+              <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-2" style="--navigation-depth: 2">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/events/" >
+            Significant And Historic Earthquakes                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/significant.php" >
+            Significant Earthquakes By Year                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/m6-world.php" >
+            Worldwide Magnitude 6+ Earthquakes                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/m7-world.php" >
+            Worldwide Magnitude 7+ Earthquakes                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/m8-world.php" >
+            Worldwide Magnitude 8+ Earthquakes                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/statistics/deleted.php" >
+            Deleted Earthquakes                      </a>
+                  </div>
+              </li>
+      </ul>
+          </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/feed/" >
+            Real-Time Notifications &amp; Feeds                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/scenarios/" >
+            Earthquake Scenarios                      </a>
+                      <button class="site-primary-navigation__toggle" type="button"
+              aria-expanded="false"
+              aria-controls="site-primary-navigation-branch-13"
+              aria-label="Show Earthquake Scenarios navigation"
+              data-site-primary-navigation-toggle>
+              <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+            </button>
+                  </div>
+                  <div id="site-primary-navigation-branch-13"  hidden>
+              <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-2" style="--navigation-depth: 2">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/scenarios/catalog/" >
+            Scenario Catalog                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/scenarios/contributor/" >
+            Scenario Contributors                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/scenarios/related/" >
+            Related Exercises                      </a>
+                  </div>
+              </li>
+      </ul>
+          </div>
+              </li>
+      </ul>
+            </div>
+          </li>
+                                          <li class="site-primary-navigation__item site-primary-navigation__item--has-children">
+            <div class="site-primary-navigation__control">
+              <a
+                href="/data/"
+                >Data &amp; Tools</a>
+              <button
+                class="site-primary-navigation__toggle"
+                type="button"
+                aria-expanded="true"
+                aria-controls="site-primary-navigation-mobile-data"
+                aria-label="Hide Data &amp; Tools navigation"
+                data-site-primary-navigation-toggle>
+                <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+              </button>
+            </div>
+            <div class="site-primary-navigation__submenu" id="site-primary-navigation-mobile-data" >
+                <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-1" style="--navigation-depth: 1">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/data/oaf/"  aria-current="page">
+            Aftershock Forecasts                      </a>
+                      <button class="site-primary-navigation__toggle" type="button"
+              aria-expanded="true"
+              aria-controls="site-primary-navigation-branch-17"
+              aria-label="Hide Aftershock Forecasts navigation"
+              data-site-primary-navigation-toggle>
+              <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+            </button>
+                  </div>
+                  <div id="site-primary-navigation-branch-17" >
+              <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-2" style="--navigation-depth: 2">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/earthquakes/search/#%7B%22feed%22%3A%221795340755%22%2C%22search%22%3A%7B%22id%22%3A%221795340755%22%2C%22name%22%3A%22Aftershock%20Forecasts%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22contributor%22%3A%22oaf%22%7D%7D%2C%22basemap%22%3A%22terrain%22%2C%22timeZone%22%3A%22utc%22%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%7D%7D" >
+            Search Archives                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="overview.php" >
+            Overview                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="background.php" >
+            Scientific Background                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="schedule.php" >
+            Forecast Update Schedule                      </a>
+                  </div>
+              </li>
+      </ul>
+          </div>
+              </li>
+      </ul>
+            </div>
+          </li>
+                                          <li class="site-primary-navigation__item site-primary-navigation__item--has-children">
+            <div class="site-primary-navigation__control">
+              <a
+                href="/monitoring/"
+                >Monitoring</a>
+              <button
+                class="site-primary-navigation__toggle"
+                type="button"
+                aria-expanded="false"
+                aria-controls="site-primary-navigation-mobile-monitoring"
+                aria-label="Show Monitoring navigation"
+                data-site-primary-navigation-toggle>
+                <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+              </button>
+            </div>
+            <div class="site-primary-navigation__submenu" id="site-primary-navigation-mobile-monitoring"  hidden>
+                <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-1" style="--navigation-depth: 1">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/monitoring/operations/" >
+            Station Maps, Status, And Heliplots                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/monitoring/deformation/edm/" >
+            Two-Color EDM                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/monitoring/deformation/geodolite/" >
+            Geodolite Data                      </a>
+                  </div>
+              </li>
+      </ul>
+            </div>
+          </li>
+                                          <li class="site-primary-navigation__item site-primary-navigation__item--has-children">
+            <div class="site-primary-navigation__control">
+              <a
+                href="/education/"
+                >Education</a>
+              <button
+                class="site-primary-navigation__toggle"
+                type="button"
+                aria-expanded="false"
+                aria-controls="site-primary-navigation-mobile-learn"
+                aria-label="Show Education navigation"
+                data-site-primary-navigation-toggle>
+                <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+              </button>
+            </div>
+            <div class="site-primary-navigation__submenu" id="site-primary-navigation-mobile-learn"  hidden>
+                <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-1" style="--navigation-depth: 1">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/education/" >
+            Earthquake Topics                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/learn/activities/" >
+            Activities And Media                      </a>
+                      <button class="site-primary-navigation__toggle" type="button"
+              aria-expanded="false"
+              aria-controls="site-primary-navigation-branch-26"
+              aria-label="Show Activities And Media navigation"
+              data-site-primary-navigation-toggle>
+              <img src="/theme/hazdev/assets/img/usa-icons/expand_more.svg" alt="" aria-hidden="true">
+            </button>
+                  </div>
+                  <div id="site-primary-navigation-branch-26"  hidden>
+              <ul class="site-primary-navigation__submenu-list site-primary-navigation__submenu-list--depth-2" style="--navigation-depth: 2">
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/education/listen/" >
+            Listen To Earthquakes                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/education/shakingsimulations/" >
+            Ground-Shaking Simulations                      </a>
+                  </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/education/geologicmaps/" >
+            Interactive Geologic Maps                      </a>
+                  </div>
+              </li>
+      </ul>
+          </div>
+              </li>
+                <li class="site-primary-navigation__submenu-item">
+        <div class="site-primary-navigation__control">
+          <a href="/learn/parkfield/" >
+            The Parkfield Earthquake Experiment                      </a>
+                  </div>
+              </li>
+      </ul>
+            </div>
+          </li>
+                    <li class="site-primary-navigation__utility">
+        <a href="/earthquakes/map/">
+          <img
+            class="site-primary-navigation__utility-icon"
+            src="/theme/hazdev/assets/img/usa-icons/map.svg"
+            alt=""
+            aria-hidden="true">
+          Latest Earthquakes
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+        </aside>
+<main id="main-content" class="usa-prose template-content-container" tabindex="-1">
+      <nav class="site-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+                            <li>
+                          <a href="/">Home</a>
+                      </li>
+                            <li>
+                          <a href="/data/">Data &amp; Tools</a>
+                      </li>
+                            <li>
+                          <span aria-current="page">Aftershock Forecast Overview</span>
+                      </li>
+              </ol>
+    </nav>
+    <h1>Aftershock Forecast Overview</h1>
+<p>
+  Most large earthquakes are followed by additional earthquakes, called aftershocks, which make up an aftershock sequence. While most aftershocks are smaller than the mainshock, they can still be damaging or deadly. A small fraction of earthquakes are followed by a larger earthquake, in which case the first earthquake is referred to as a foreshock. For example, the 2011 M9.1 Japan earthquake and tsunami was preceded by a M7.3 foreshock two days before. When the M7.3 earthquake first occurred, it was called the mainshock, and then when the M9.1 earthquake occurred, that larger earthquake became the mainshock.
+</p>
+<p>
+  Following a significant earthquake, this aftershock forecast can provide situational awareness of the expected number of aftershocks, as well as the probability of subsequent larger earthquakes. <strong>Specifically, we forecast:</strong>
+</p>
+<ol>
+  <li>the expected number of smaller aftershocks that may be felt (M3+ and M4+),</li>
+  <li>the probability of aftershocks large enough to potentially do damage (M5+), and</li>
+  <li>the probability of future moderate (M6+) to large (M7+) earthquakes.</li>
+</ol>
+<p>
+  We forecast aftershock activity over future time intervals of a day,
+a week, a month, and a year. We use the behavior of past aftershock sequences to forecast the likelihood of future aftershocks.  As an aftershock sequence progresses, our forecast also incorporates information about the behavior of that specific sequence.
+</p>
+
+<h2>When We Make and Update Forecasts</h2>
+<p>
+  <strong>Forecasts are posted for earthquakes of M4+ in the contiguous United States and M5+ in other U.S. states and territories</strong>. We also compute forecasts for some smaller earthquakes that are of particular public interest, for example earthquakes in densely populated areas. We will not usually compute aftershock forecasts for earthquakes that are themselves aftershocks of a prior larger earthquake, or for earthquakes that occur as part of known volcanic activity. Occasionally we post aftershock forecasts for significant international earthquakes that require an international humanitarian response.
+</p>
+<p>
+  <strong>Forecasts are updated regularly.</strong> The rate of aftershocks changes with time, generally decreasing, although sometimes temporarily increasing after a significant aftershock. Therefore, the forecasts are updated to keep current with the changing aftershock rate. We also update the forecasts over time to incorporate more information about the specific behavior of the aftershock sequence. The time that the current forecast was released, and the planned time of the next forecast update, are included in each forecast. Our standard update schedule can be found here: <a href="https://earthquake.usgs.gov/data/oaf/schedule.php">Schedule</a>
+</p>
+
+<h2>How to Find the Forecasts</h2>
+<p>
+  People can find the aftershock forecast for a specific earthquake by starting at the Overview (default) webpage for that earthquake and selecting the &ldquo;card&rdquo; titled &ldquo;Aftershock Forecast.&rdquo; This card will only appear if an aftershock forecast was computed for that event. The card displays a summary of the current forecast. Clicking on the card will take the user to the aftershock forecast.
+</p>
+
+<figure>
+  <img src="images/Mendocino_exesummary.jpg" alt="A graphical user interface application for earthquakes including several products."/>
+   <figcaption>
+     Screenshot of the Overview webpage for an earthquake in California. The &ldquo;Aftershock Forecast&rdquo; card is at lower center.
+   </figcaption>
+</figure>
+
+<p>
+At the top of the &ldquo;Aftershock Forecast&rdquo; page is an information box titled &ldquo;Be Ready for More Earthquakes&rdquo; with general aftershock information. It starts with the concept that larger earthquakes could follow and that aftershocks will be continuing for some time; and some safety information is included.  This box can be collapsed using the &ldquo;-&rdquo; at the upper right.  Below this information box are four tabs that give different views of the forecast information: &ldquo;Summary&rdquo;, &ldquo;Commentary&rdquo;, &ldquo;Forecast Table&rdquo;, and &ldquo;Model Parameters&rdquo;. Each of these tabs is discussed below.
+</p>
+<figure>
+  <img src="images/Mendocino_headerinfo.jpg" alt="A header displaying the current earthquake info such as location, time, and depth."/>
+    <figcaption>
+      Screenshot of the Aftershock Forecast for an earthquake in California, showing the information box at the top of the forecast and the four tabs of forecast information.
+    </figcaption>
+</figure>
+
+
+
+<h2>Summary Tab: A Starting Point for Basic Information</h2>
+<p>
+ The summary tab provides an interactive view of the aftershock forecast.  Initially it displays the probability of aftershocks of different magnitudes for a default forecast duration.  Radio buttons below the display allow the user to specify a magnitude and forecast duration.  The &ldquo;show all&rdquo; selection for magnitude shows probabilities for all magnitudes, as in the initial view.
+</p>
+
+<figure>
+  <img src="images/Mendocino_all1month.jpg" alt="A graph displaying the chance of an aftershock within the next month. "/>
+   <figcaption>
+   Screenshot of the Aftershock Forecast for an earthquake in California, with the &ldquo;Summary&rdquo; tab selected, and &ldquo;Show All&rdquo; and &ldquo;1 Month&rdquo; selections for magnitude and forecast duration.
+   </figcaption>
+</figure>
+
+<p>
+  Selecting a single magnitude and single forecast duration, using the radio buttons below the display, displays both the probability of an aftershock of the given magnitude within the given time period, and the likely number of such aftershocks.  The probability is visualized as an arc, with the fraction of the arc filled representing the probability out of 100%.  Below that is a display of the probability distribution for the likely number of aftershocks.
+</p>
+
+<figure>
+  <img src="images/Mendocino_M41month.jpg" alt="Probabilities displaying the chance of an aftershock within the next month for a certain earthquake magnitude."/>
+   <figcaption>
+   Screenshot of the Aftershock Forecast for an earthquake in California, with the &ldquo;Summary&rdquo;  tab selected, and &ldquo;M4+&rdquo;  and &ldquo;Show All&rdquo; selections for magnitude and forecast duration.
+   </figcaption>
+</figure>
+
+<p>
+  Selecting a single magnitude and &ldquo;Show All&rdquo; for forecast duration displays the probability of an aftershock of the given magnitude over all four forecast durations.  Note that while the rate of aftershocks generally goes down with time, the forecasts are larger for longer time intervals. Indeed, each time interval contains the one before (e.g. a one-year forecast includes the first day, first week, and first month) plus additional time.
+</p>
+
+<p>
+  Selecting &ldquo;Show All&rdquo; for both the aftershock magnitude and forecast duration reproduces the table that is also available under the &ldquo;Forecast Table&rdquo; tab.
+</p>
+
+<figure>
+  <img src="images/Mendocino_M4all.jpg" alt="A bar graph displaying the chance of a certain magnitude of an aftershock within the next day, week, month, and year."/>
+   <figcaption>
+   Screenshot of the Aftershock Forecast for an earthquake in California, with the &ldquo;Summary&rdquo; tab selected, and &ldquo;M4+&rdquo; and &ldquo;Show All&rdquo; selections for magnitude and forecast duration.
+   </figcaption>
+</figure>
+
+<p>
+  Below the interactive graphics is a map showing the spatial region where the forecast applies, and the earthquakes that have occurred so far in that region.  At this time, we are not calculating spatial forecasts or providing maps to show areas with the highest likelihood of aftershocks. As a rule of thumb, aftershocks are most likely to occur near the mainshock and in areas already experiencing numerous aftershocks.
+</p>
+
+<figure>
+  <img src="images/Mendocino_mapcopy.jpg" alt="A map displaying aftershocks that have occured within the past hour, day, week, and month."/>
+   <figcaption>
+   Screenshot of the Aftershock Forecast for an earthquake in California, with the &ldquo;Summary&rdquo; tab selected, scrolled to the bottom of the page.
+   The mainshock is shown with a yellow star on top of its circle; other earthquakes in the forecasting region are also shown colored by time of occurrence.
+   </figcaption>
+</figure>
+
+<h2>Commentary Tab: Basic Information in Text Form</h2>
+<p>
+  The Commentary tab describes the aftershock forecast in non-technical language, starting with a simple summary of the forecast, followed by what has already happened, and ending with a more quantitative version of the forecast.
+</p>
+
+<figure>
+  <img src="images/Mendocino_commentary.jpg" alt="A screenshot of the Aftershock Forecast displaying additional forecast information."/>
+   <figcaption>
+   Screenshot of the Aftershock Forecast for an earthquake in California, with the &ldquo;Commentary&rdquo; tab selected.
+   </figcaption>
+</figure>
+
+<h2>Forecast Table Tab: Table Showing the Detailed Forecast</h2>
+<p>
+  The Forecast Table tab presents the forecast as a table, covering a range of aftershock magnitudes and time frames. Many cells of the table show the probability of at least one aftershock above a certain magnitude and within a certain time frame. If the probability is high enough that more than one aftershock is likely to occur, the table instead shows the likely number of aftershocks above the given magnitude and within the given time frame.
+</p>
+
+<figure>
+  <img src="images/Mendocino_table.jpg" alt="A table displaying the chances of various magnitudes of aftershocks within a day, week, month, and year."/>
+   <figcaption>
+     Screenshot of the Aftershock Forecast for an earthquake in California, with the &ldquo;Forecast Table&rdquo; tab selected.
+   </figcaption>
+</figure>
+
+<h2>Model Parameters Tab: Scientific Details</h2>
+<p>
+  This tab shows what model was used to compute the forecast, as well as the model parameter values.  Forecasts are currently made with either the Reasenberg-Jones (1989, 1994) model or the Epidemic-Type (ETAS) model (Ogata, 1988). There are three different types of parameter values:
+</p>
+<ol>
+  <li>&ldquo;generic&rdquo; parameter values based on previous sequences in similar tectonic settings,</li>
+  <li>&ldquo;sequence-specific&rdquo; parameter values fit to the aftershock sequence as of the time of the forecast, and</li>
+  <li>&ldquo;Bayesian&rdquo; parameter values, which combine the generic parameter values with sequence-specific information.</li>
+</ol>
+</p>
+<p>
+</p>
+
+<h2>How the Aftershock Forecasts Work</h2>
+<p>
+  Our forecast is based on a statistical model of the behavior of past aftershock sequences in similar tectonic settings.  The rate of aftershocks usually follows a few general rules:
+</p>
+<ol>
+  <li>
+    Larger mainshocks trigger more aftershocks than smaller mainshocks, and the aftershock productivity for a given mainshock magnitude also varies between tectonic regions.  For instance, mainshocks along the San Andreas fault in California generally produce fewer aftershocks than mainshocks of the same magnitude where the Pacific plate collides with and subducts under Alaska.
+  </li>
+  <li>
+    The rate of aftershocks decreases with time, such that the earthquake rate is roughly inversely proportional to the time since the mainshock. In other words, there are about 10 times as many aftershocks on the first day as on the tenth day.
+  </li>
+  <li>
+    The magnitudes of the aftershocks do not get smaller with time, only their rate changes.
+  </li>
+</ol>
+
+<figure>
+  <img src="images/fig4.gif" alt="An example of a large aftershock with higher chances of additional aftershocks through one year."/>
+   <figcaption>
+     Two example aftershock sequences, from southern California, that illustrate the three general rules of aftershocks. A circle shows each aftershock's time of occurrence (horizontal axis) and magnitude (vertical axis). 
+     The larger-magnitude M6.7 Northridge earthquake is followed by many more aftershocks than the smaller M5.1 La Habra earthquake. 
+     The rate of aftershocks in both sequences decreases as time passes. The magnitudes of the aftershocks don't change with time, meaning that large aftershocks are still possible later in the sequence, as happened following Northridge.
+   </figcaption>
+</figure>
+
+<p>
+  The initial forecast after an earthquake occurs is calculated using parameters that worked for previous earthquakes in that region or similar regions around the world.  As time goes by and we observe how many aftershocks are happening, we use parameters that are a combination of the initial parameters and parameters determined from the current sequence of earthquakes.
+</p>
+<p>
+  The initial forecast uses only the mainshock magnitude, and therefore can be released soon after the mainshock, and before many aftershocks have occurred.  Because the initial forecast depends a lot on the mainshock magnitude, we wait at least 20 minutes after the event occurs before issuing a forecast, to allow the preferred mainshock magnitude to stabilize.
+</p>
+        </main>
+      </div>
+      <footer class="usa-footer hazdev-footer">
+        <div class="grid-container usa-footer__return-to-top hazdev-footer__return-to-top">
+          <button class="hazdev-footer__return-button" type="button" aria-label="Return to top" data-hazdev-return-to-top>
+            <img class="hazdev-footer__return-icon" src="/theme/hazdev/assets/img/usa-icons/arrow_upward.svg" alt="" aria-hidden="true">
+            <span class="hazdev-footer__return-label">Return to top</span>
+          </button>
+        </div>
+        <div class="usa-footer__secondary-section">
+          <div class="grid-container">
+            <div class="hazdev-footer__content">
+              <div class="usa-footer__logo hazdev-footer__logo-text"><p class="usa-footer__logo-heading">U.S. Geological Survey</p></div>
+              <nav class="hazdev-footer__nav" aria-label="USGS footer navigation">
+                <ul class="hazdev-footer__nav-list">
+                  <li><a href="https://www.usgs.gov/policies-and-notices">Policies and Notices</a></li>
+                  <li><a href="https://www.usgs.gov/accessibility-and-us-geological-survey">Accessibility</a></li>
+                  <li><a href="https://www.usgs.gov/sitemap">Site Map</a></li>
+                  <li><a href="https://answers.usgs.gov/">Contact USGS</a></li>
+                </ul>
+              </nav>
+              <div class="usa-footer__contact-links hazdev-footer__contact">
+                <div class="usa-footer__social-links hazdev-footer__social-links">
+                                      <div class="hazdev-footer__social-item">
+                      <a class="usa-social-link" href="https://www.facebook.com/usgeologicalsurvey" target="_blank" rel="noreferrer">
+                        <img class="usa-social-link__icon" src="/theme/hazdev/assets/img/usa-icons/facebook.svg" alt="Facebook">
+                      </a>
+                    </div>
+                                      <div class="hazdev-footer__social-item">
+                      <a class="usa-social-link" href="https://twitter.com/usgs" target="_blank" rel="noreferrer">
+                        <img class="usa-social-link__icon" src="/theme/hazdev/assets/img/usa-icons/x.svg" alt="X">
+                      </a>
+                    </div>
+                                      <div class="hazdev-footer__social-item">
+                      <a class="usa-social-link" href="https://www.youtube.com/usgs" target="_blank" rel="noreferrer">
+                        <img class="usa-social-link__icon" src="/theme/hazdev/assets/img/usa-icons/youtube.svg" alt="YouTube">
+                      </a>
+                    </div>
+                                      <div class="hazdev-footer__social-item">
+                      <a class="usa-social-link" href="https://www.instagram.com/usgs" target="_blank" rel="noreferrer">
+                        <img class="usa-social-link__icon" src="/theme/hazdev/assets/img/usa-icons/instagram.svg" alt="Instagram">
+                      </a>
+                    </div>
+                                      <div class="hazdev-footer__social-item">
+                      <a class="usa-social-link" href="https://www.flickr.com/photos/usgeologicalsurvey" target="_blank" rel="noreferrer">
+                        <img class="usa-social-link__icon" src="/theme/hazdev/assets/img/usa-icons/flickr.svg" alt="Flickr">
+                      </a>
+                    </div>
+                                      <div class="hazdev-footer__social-item">
+                      <a class="usa-social-link" href="https://github.com/usgs" target="_blank" rel="noreferrer">
+                        <img class="usa-social-link__icon" src="/theme/hazdev/assets/img/usa-icons/github.svg" alt="GitHub">
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <div class="usa-identifier">
+        <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+          <div class="usa-identifier__container">
+            <div class="usa-identifier__logos">
+              <a class="usa-identifier__logo" href="https://www.doi.gov/">
+                <img class="usa-identifier__logo-img" src="/theme/hazdev/DrupalVisID/images/doi-logo.png" alt="U.S. Department of the Interior logo">
+              </a>
+            </div>
+            <section class="usa-identifier__identity" aria-label="Agency description">
+              <p class="usa-identifier__identity-domain">usgs.gov</p>
+              <p class="usa-identifier__identity-disclaimer"><span aria-hidden="true">An </span>official website of the <a href="https://www.doi.gov/">U.S. Department of the Interior</a></p>
+            </section>
+          </div>
+        </section>
+        <nav class="usa-identifier__section usa-identifier__section--required-links" aria-label="Important links">
+          <div class="usa-identifier__container">
+            <ul class="usa-identifier__required-links-list">
+              <li class="usa-identifier__required-links-item"><a class="usa-identifier__required-link usa-link" href="https://www.doi.gov/about">About DOI</a></li>
+              <li class="usa-identifier__required-links-item"><a class="usa-identifier__required-link usa-link" href="https://www.doi.gov/accessibility">Accessibility statement</a></li>
+              <li class="usa-identifier__required-links-item"><a class="usa-identifier__required-link usa-link" href="https://www.doi.gov/foia">FOIA requests</a></li>
+              <li class="usa-identifier__required-links-item"><a class="usa-identifier__required-link usa-link" href="https://www.doi.gov/pmb/eeo/no-fear-act">No FEAR Act data</a></li>
+              <li class="usa-identifier__required-links-item"><a class="usa-identifier__required-link usa-link" href="https://www.doioig.gov/">Office of the Inspector General</a></li>
+              <li class="usa-identifier__required-links-item"><a class="usa-identifier__required-link usa-link" href="https://www.doi.gov/privacy">Privacy policy</a></li>
+            </ul>
+          </div>
+        </nav>
+        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+          <div class="usa-identifier__container">Looking for U.S. government information and services?&nbsp; <a class="usa-link" href="https://www.usa.gov/">Visit USA.gov</a></div>
+        </section>
+      </div>
+    </div>
+    <script defer src="/js/site-navigation.js"></script>    <script defer src="/theme/hazdev/assets/js/uswds.min.js"></script>
+    <script defer src="/theme/hazdev/hazdev-template.js"></script>
+  </body>
+</html>

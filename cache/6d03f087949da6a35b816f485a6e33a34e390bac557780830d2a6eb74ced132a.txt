@@ -1,0 +1,183 @@
+—
+Stations found
+3 mi
+Search radius
+OSM
+Data source
+Free
+No login needed
+Country
+United States
+Turkiye
+Canada
+Mexico
+Brazil
+Argentina
+Chile
+Colombia
+Peru
+United Kingdom
+Ireland
+France
+Germany
+Netherlands
+Belgium
+Spain
+Portugal
+Italy
+Switzerland
+Austria
+Poland
+Sweden
+Norway
+Finland
+Denmark
+Greece
+Romania
+Bulgaria
+Czechia
+Hungary
+Australia
+India
+Japan
+New Zealand
+South Africa
+State
+All states…
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Search by address
+Find address
+📍 My location
+Search radius
+1 mi
+3 mi
+5 mi
+10 mi
+20 mi
+Distance units
+Miles
+Kilometers
+Search area
+Distances are straight-line estimates, not driving distances or response times.
+Copy map link
+Print results / PDF
+🗄️ Local OSM database
+Fire Station Locator searches AllFirefighter's local OpenStreetMap fire station database.
+ The current production snapshot contains
+148,867 mapped fire stations worldwide
+.
+ Database refreshed:
+November 2, 2026
+.
+Find fire stations near a home or business
+This fire station locator retrieves station locations from
+OpenStreetMap
+for all 50 U.S. states and 35+ countries. Homeowners, renters, insurance agents and firefighters can search an address and compare nearby mapped stations. Station locations do not establish service boundaries or a property’s insurance protection class. No account or app download required.
+Use the
+country
+or
+state
+selector to navigate to your region. Each state and country has a dedicated page with location-specific coverage notes, operational context, and city quick-jumps for faster searching.
+Find the fire department for a U.S. property
+Search the full street address, including the city and state, or choose a city shortcut. Distances start at the selected search point.
+Compare nearby mapped stations. A station building can be close by without being assigned to respond to that address.
+Confirm the responsible department and service boundary with your city, county or fire district. Check its official website for non-emergency contact details and appointments.
+For insurance paperwork, ask your agent which distance method and evidence they accept. This tool does not issue ISO/PPC ratings, coverage certificates or response-time estimates.
+NAIC explains local fire protection and homeowners insurance
+.
+For a smoke alarm visit, business inspection or community service, check the department’s official website first; services and eligibility vary. This map does not book appointments or contact emergency services.
+Browse fire stations by location
+U.S. states (50)
+United States overview
+Countries (35)
+How to use Fire Station Locator
+Enter an address in the search box or click
+My location
+to center the map. Choose a search radius in miles or kilometers; increase it if the map has few results. Click
+Search area
+. Stations appear as orange markers on the map and as a sorted nearest-first list in the sidebar. Click any result to fly the map to that station, or tap
+Directions
+to open Google Maps navigation directly to it. The OSM link opens the station's raw OpenStreetMap record — useful for verifying operator, station type, and contact details.
+📋
+Pre-incident planning
+Locate mapped stations near target hazards, then verify first-due and mutual aid arrangements with your agency. Review access routes separately.
+🗺️
+First-due orientation
+Understand career, combination, and volunteer station distribution in your first-due — especially useful after transfers or redistricting.
+🤝
+Mutual aid planning
+Find neighboring mapped stations, then confirm any mutual aid or automatic aid agreement with the responsible agencies.
+🎓
+Training and drills
+Use mapped station locations for tabletop exercises and local orientation. Verify staffing, service boundaries and water supplies through official sources.
+Frequently asked questions
+How do I find fire stations near me?
+Click 'My location' to center the map on your GPS position, choose a search radius, and click 'Search area'. Stations appear as orange markers on the map and as a sorted list in the sidebar, nearest first. You can also type any address into the search box to jump to a different location.
+Where does the fire station data come from?
+Fire station locations are sourced from OpenStreetMap (OSM), including amenity=fire_station and emergency=fire_station records. Searches are served primarily from AllFirefighter's local OSM station database, which is refreshed on a scheduled basis. The Overpass API remains available as a fallback if the local database cannot serve a request. Coverage depends on OpenStreetMap community mapping activity and may be incomplete.
+Is this tool accurate enough for operational use?
+This is a planning and familiarization aid, not a dispatch system. Always verify station location, current staffing, and operational status through your agency or dispatch center before relying on this data for incident operations.
+Why do some areas show no stations?
+Sparse results usually mean the area hasn't been fully mapped in OpenStreetMap, not that no stations exist. Try increasing the search radius to 10–30 km. You can contribute missing stations at openstreetmap.org to improve coverage for all users.
+Can I see volunteer fire departments on the map?
+Yes, if they are mapped in OpenStreetMap with the amenity=fire_station or emergency=fire_station tag. Career, volunteer, and combination stations are all included. The station type and operator appear in the result card when those OSM tags are populated.
+Does the nearest station serve my address?
+Not necessarily. This map shows nearby mapped station buildings, not dispatch assignments or service boundaries. Ask your local city, county, fire district or fire service to confirm the department responsible for your property. Do not use a station visit or this map to request emergency help.
+Are the distances driving distances?
+No. Distances are straight-line estimates from the searched point to each mapped station, shown in miles or kilometers. Roads, rivers and access restrictions can make the driving route longer. Open Directions for route planning; this tool does not estimate emergency response time.
+Can I share or print the stations I find?
+After a successful search, Copy map link shares the searched coordinates and radius. Anyone with that link can see the searched location. Print results opens a dated summary of up to 30 nearby mapped stations, their straight-line distances and source links; choose Save as PDF in your browser print dialog.
+Can I use this map for a home insurance application or an ISO protection class?
+Use it as a starting point for locating mapped stations near a property. It does not provide an official ISO Public Protection Classification (PPC), insurer-approved distance, station staffing or a coverage certificate. Ask your insurance agent which distance method and documentation they require, and verify the responding department with the local authority.
+How often is the fire station database updated?
+AllFirefighter maintains a local OpenStreetMap fire station database and refreshes the production dataset on a scheduled basis. The latest successful database refresh date is displayed on this page. OpenStreetMap remains the underlying data source, with Overpass available as a fallback service.
+Related firefighter tools

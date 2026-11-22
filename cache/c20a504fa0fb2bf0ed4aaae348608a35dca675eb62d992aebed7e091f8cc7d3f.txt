@@ -1,0 +1,762 @@
+Table of Contents
+Role of Transportation Management Centers in Emergency Operations Guidebook
+3.0 Pre-Event Activities – Planning, Training and Exercising, and Best Practices
+Incidents usually occur with little to no warning. That is why
+TMCs
+should prepare for incidents through planning, training, and practice prior to an incident in the “pre-event” phase. Incident response lies at the core of a
+TMC’s
+mission. Rigorous, sustained, and coordinated pre-incident preparedness ensures an efficient and effective handling of future incidents. The pre-event activities
+TMCs
+should undertake include the following:
+Establish an emergency preparedness working group;
+Perform a needs assessment;
+Develop a
+TMC
+Emergency Operations Plan (EOP) and Standard Operating Procedures (SOP);
+Develop a comprehensive preparedness guide; and
+Develop a Continuity of Operations Plan.
+3.1 Establish an Emergency Preparedness Working Group
+TMCs
+should form an Emergency Preparedness Working Group with agencies that regularly work with the
+TMC
+to discuss, develop, and review topics and initiatives related to emergency preparedness. Some of the possible participants include the following:
+Source: Digital Stock, a division of Corbis Corporation.
+Law enforcement (Federal, state, local);
+Fire departments;
+Emergency medical services;
+Emergency management agencies (Federal, state, local);
+Towing and recovery providers;
+Transportation agencies (Federal, state, local), including nonhighway agencies such as public transit (large metro systems and local bus services), rail, airport, or maritime;
+Private or not-for-profit organizations such as the Red Cross, towing associations and AAA; and
+Other Federal, state, or local agencies such as Department of Homeland Security and state/local environmental agencies.
+The group should establish regularly scheduled and published meetings and develop the activities, including the following:
+Conduct a needs assessment and planning activities;
+Perform training and drill exercises;
+Introduce and evaluate new technologies that can benefit both transportation and emergency operations which may offer opportunities to pool funds; tabletop exercises to build trust and good working relationships; and
+Perform formal debriefs or after-action meetings after critical incidents.
+A series of guiding principles with regard to interagency cooperation are shown in the side box.
+3.2 Emergency Preparedness Working Group Checklist
+The
+TMC
+can use the following checklist to evaluate their current status in forming an Emergency Preparedness Working Group. The following list includes those parties that should be participating in the group
+(check all that apply)
+:
+❑ Law enforcement (Federal, state, local).
+❑ Fire departments.
+❑ Emergency medical services.
+❑ Emergency management agencies (Federal, state, local).
+❑ Towing and recovery providers.
+❑ Transportation agencies (Federal, state, local), including nonhighway agencies such as public transit (large metro systems and local bus services), rail, airport, or maritime.
+❑ Private or not-for-profit organizations.
+❑ Other Federal, state, or local agencies.
+Guiding Principles to Interagency Cooperation in Emergency Planning for
+TMCs
+Play a support role to the State Emergency Management Agency (SEMA).
+Play an active role in developing and exercising the State EOP.
+Serve as the lead agency for
+ESF
+1 – Transportation and play a significant role in other
+ESFs
+.
+Have an agencywide emergency operations plan.
+Ensure plans and procedures complement the State’s overall emergency structure and plan(s).
+Ensure plans adhere to an all-hazards approach.
+Use the Comprehensive Preparedness Guide (CPG) 101 emergency management planning cycle (plan, prepare, respond, recover) and within that framework, prepare for specific response activities.
+Actively participate in the unified command during incidents.
+Recognize the need for transportation agencies to understand the basic concept of the
+ICS
+, including Unified Command (UC), as defined in
+NIMS
+.
+Source:
+NCHRP
+Report 525, Volume 16,
+Guide to Emergency Response at State Transportation Agencies
+, p. 18.
+3.3 Perform a Needs Assessment
+Transportation agencies conduct needs assessments on operations and maintenance, mobility, safety, or staffing. Needs assessments for emergency operations follow similar procedures and require the same basic elements, including the following:
+Sample Emergency Operations Goals
+Minimize the impact of disaster on people, property, environment, and the economy.
+Assure mobility of the public and emergency response personnel.
+Assure agency continuity.
+Protect agency facilities and resources.
+Goals and objectives indicating what the
+TMC
+wants to accomplish in the area of emergency operations (see sample in the box above). Performance measures should determine whether the plan met its goals and objectives (see Wisconsin example).
+Measurable targets supported by available data that tie back to the goals and objectives,
+e.g.
+, response times during events.
+Gaps and deficiencies such as inadequate staffing or geographic coverage, training, lack of communications capability, or slow response times.
+A summary of needs for the Emergency Transportation Operations plan, including task-specific needs, which relate to the ability to carry out specific functions, and crosscutting needs, which include support functions for a variety of tasks.
+A
+task-specific needs assessment
+might include the following:
+Deployment of additional detection equipment and/or cameras to cover specific locations;
+Assignment of staff to emergency response planning activities;
+Development of response scenarios for specific events such as hazardous material spills, special events, or winter storms; and
+Evaluation and selection of detour routes.
+A
+crosscutting needs assessment
+might include the following:
+Development of interagency training programs and exercises;
+Implementation of real-time communications/software links between the
+TMC
+and
+EOC
+; and
+Joint development of detour routes for major emergencies and identification of needed infrastructure.
+Wisconsin
+DOT
+Emergency Operations Plan Areas for Performance Measurement
+ETO Positional Roles/Staffing.
+Training.
+Incident Action Plans (Communication/Coordination).
+Regional Incident Management Coordinator Response.
+WisHELP Response.
+Timely Notification.
+Emergency Contact List Maintenance.
+Source: Wisconsin
+DOT
+, Emergency Transportation Operations Program Update: Winter Weather Webinar, November 2010.
+3.4 Needs Assessment Checklist
+The
+TMC
+can use the following checklist to evaluate their current status in support of a needs assessment
+(check all that apply)
+:
+❑ Develops goals and objectives.
+❑ Identifies measurable targets.
+❑ Identifies gaps and deficiencies.
+The
+TMC
+develops an Emergency Transportation Operations plan that includes the following
+(check all that apply)
+:
+❑ Deploys additional detection equipment and/or cameras.
+❑ Assigns staff to emergency response planning activities.
+❑ Develops response scenarios for specific events.
+❑ Evaluates and selects detour routes.
+❑ Develops interagency training programs and exercises.
+❑ Implements real-time communications/software links between the
+TMC
+and
+EOC
+.
+❑ Participates in joint development of detour routes for major emergencies.
+3.5 Develop a
+TMC
+EOP
+and
+SOPs
+An Emergency Operations Plan (EOP) is a coordinating document outlining an organization’s concept of operations during an emergency. It provides information on potential situations and planning assumptions, roles and responsibilities, administration, and maintenance. Effectively developed, an
+EOP
+provides a concise overview of an organization’s emergency preparedness, response capabilities, and policies. It ties together threat and vulnerability assessments, mitigation planning, procedures, training, and drills and exercises in the form of a central high-level document that guides and advances the organization’s emergency preparedness program.
+Source: Cambridge Systematics, Inc.
+A
+TMC
+Emergency Preparedness Working Group should coordinate and drive the
+EOP
+. Although guidance does not currently exist for transportation
+EOPs
+, the Department of Homeland Security (DHS), and the Federal Emergency Management Administration (FEMA)
+Comprehensive Preparedness Guide (CPG) 101
+is a standard guideline for a range of emergency operations needs. It also provides a framework for transportation agencies identifying the process for monitoring and reporting the status of, and damage to, the transportation system and infrastructure resulting from an incident. Other items that are part of
+ESF
+1 are available alternative transportation solutions, and methods of restoring the transportation systems and infrastructure. The guidebook also discusses the tasks that are part of
+ESF
+3, Public Works.
+Specific guidance is available in the
+NCHRP
+Report 525 – Volume 16
+Surface Transportation Security – A Guide to Emergency Response Planning at State Transportation Agencies
+, which utilized the
+CPG
+-101 as guidance for transportation
+EOP
+. Whenever possible, the
+TMC
+should use Federal standards and guidelines in the planning process.
+NIMS
+is a comprehensive, nationwide, systematic approach to incident management and includes a set of preparedness concepts and principles for all hazards, as well as essential principles for a common operating picture and interoperability of communications and information management.
+NIMS
+consists of standardized resource management procedures that enable coordination among different jurisdictions or organizations. It is a scalable and dynamic system promoting ongoing management and maintenance.
+Achieving
+NIMS
+compliance requires state transportation agencies to become familiar with and understand the
+NIMS
+/
+ICS
+and National Response Framework (NRF) structure and their roles and responsibilities. The
+NIMS
+/
+ICS
+structure provides a systematic, shared tool to command, control, and coordinate emergency response activities consistently across all response agencies.
+3.6 Develop an Emergency Operations Plan
+Although formats vary, many state transportation agencies choose to follow the State
+EOP
+format for their agency plans. This makes the plans more consistent and, when put to use, makes it easier for outside parties to be involved. At a minimum,
+CPG
+101 states the
+EOP
+should include the following sections:
+Purpose and Scope;
+Situation Overview and Planning Assumptions;
+Concept of Operation (ConOps);
+Organization and Assignment of Responsibilities;
+Direction, Control, and Coordination;
+Interagency Coordination for Planned Special Events;
+Information Collection and Dissemination;
+Communication;
+Administration, Finance, and Logistics;
+Plan Development and Maintenance;
+Authorities and References; and
+Additional Planning and Coordination Functions.
+Following is a description of each of those sections.
+3.6.1 Purpose and Scope
+The purpose section sets the tone of the
+EOP
+, and describes the shared commitment to improve responder and motorist safety and expedite incident clearance. The purpose should also reflect the basic guiding principles from
+NIMS
+as well as the
+NCHRP
+Guide to Emergency Response at State Transportation Agencies. The scope identifies the jurisdictional, geographic, and functional boundaries applicable to the
+EOP
+.
+3.6.2 Situation Overview and Planning Assumptions
+This section characterizes the planning environment and explains the need for the
+EOP
+. It should summarize the hazards faced by the
+TMC
+and discuss how the
+TMC
+expects to receive (or provide) assistance within its regional response structures. The situation section covers the following:
+Relative probability and impact of the hazards;
+Geographic areas likely to be affected by particular hazards;
+Vulnerable critical facilities (
+e.g.
+, nursing homes, schools, hospitals, infrastructure);
+Population distribution and locations, including any concentrated populations of individuals with disabilities, others with access and functional needs, or individuals with limited English proficiency, as well as unaccompanied minors and children in daycare and school settings;
+Dependencies on other jurisdictions for critical resources;
+The process used by the
+TMC
+to determine its capabilities and limits to prepare for and respond to the defined hazards;
+The actions taken in advance to minimize an incident’s impacts, including short- and long-term strategies; and
+How to identify areas where plan adjustments may be needed once more information is available.
+Source: Digital Stock, a division of Corbis Corporation.
+As scientists try to determine not if, but when a major earthquake will occur along the New Madrid fault line, the Missouri Department of Transportation (MoDOT) is planning for the possibility.
+MoDOT
+has a disaster plan and conducts earthquake emergency exercises with the State Emergency Management Agency and other public safety agencies. During the scenarios, the participants deal with fallen bridges, trapped motorists, crumbled roadways, and essential employees who were injured or incapacitated. Another benefit of the exercise demonstrates how
+MoDOT
+TMCs
+will disseminate messages to the traveling public and the media.
+3.6.3 Concept of Operations
+This
+ConOps
+section of the
+EOP
+explains
+TMC
+management’s intent on operations and through the documentation of specific operating concepts fosters understanding between transportation and emergency response agencies. The
+ConOps
+should make clear whether the
+TMC
+and
+EOC
+would colocate, the utilization of virtual
+EOCs
+, and how the
+TMC
+will leverage Traffic Incident Management (TIM) practices. Concepts of Operations are often scenario-based such as the description of the weather event shown in Figure 3.1. Scenarios can vary from relatively simple high-level concepts, as shown below, to very detailed flowcharts. This chart shows the concept for
+DOT
+monitoring of a weather event, and communications with the Michigan State Police (MSP).
+Figure 3.1 Concept of Operations Weather Event
+Source: Michigan Department of Transportation
+North Region Traffic Management Center Concept of Operations
+, prepared for
+MDOT
+by Kimley-Horn and Associates, Inc., Cambridge Systematics, Inc., HNTB, and Richard Foltman, 2008.
+3.6.4 Organization and Assignment of Responsibilities
+This section establishes the organization that will respond to emergencies, including the types of tasks by position and organization. It can build upon the existing
+TIM
+programs, which typically include coordination of incident response efforts by traditional responders (law enforcement, transportation, fire and rescue, and
+EMS
+). This initial coordination forms the basis for a multiagency team, a cornerstone of any
+TIM
+program, including:
+The responsibilities for various emergency preparedness and response activities in the
+EOP
+, including internal position responsibilities, and the responsibilities of external agencies, such as public safety agencies; and
+A framework for developing and achieving multiagency coordination (detailed in
+NIMS
+and
+ICS
+). Table 3.1 shows a description of the various roles and responsibilities. More information on roles and responsibilities is included in the
+Traffic Incident Management Handbook
+. The Handbook offers insights into the latest innovations in
+TIM
+tools and technologies and includes a web-based version that users can easily access. Some of the topics covered include the necessary programmatic structure and institutional cooperation, what constitutes the full range of on-scene operations, and the communications and technical aspects of a successful program.
+3.6.5 Direction, Control, and Coordination
+This section describes the framework for all direction, command and control, and coordination activities, and identifies who has strategic, tactical (as applicable), and operational command and control of response assets and services. Strengthening interagency coordination during emergency planning activities will encourage ongoing dialogue among
+TIM
+responders. It will also increase awareness of priorities and roles, as well as joint agency/jurisdictional protocols. It gives
+TMCs
+and EMCs an opportunity to formalize agency relations and respective roles in
+TIM
+and demonstrate commitment through common resource/facility investments. Additional detail on coordination strategies can be found in the
+FHWA
+Traffic Incident Management Handbook
+, which is described earlier.
+Utilizing the Emergency Preparedness Working Group as a vehicle,
+TMCs
+should lead or participate in interagency coordination and communication efforts related to emergency preparedness.
+TMCs
+are hubs for information gathering and sharing as well as communications and notifications, and should bring these capabilities and functions to broader, statewide emergency preparedness planning efforts. Whether led by state
+DOT
+, state Emergency Management Agencies (EMA), or
+DHS
+, incorporation of
+TMC
+resources and capabilities is rarely turned away. The discussion of direction, control, and coordination will have a direct effect on the following:
+Identifying and encouraging participation by the full range of stakeholders, as shown in Table 3.1;
+Participation by nontraditional stakeholders such as trucking companies and AAA through relationships with their trade organizations;
+Utilization of state or regional responder organizations such as Sheriff’s or Fire Departments to reach out to representatives from smaller communities; and
+Familiarizing team members with each other’s roles and responsibilities at initial meetings and repeating as needed given the high turnover rates among participants.
+Table 3.1 Traffic Incident Management Stakeholders and Descriptions
+Traditional Responders
+Special/Extreme Circumstance Responders
+Incident Information Providers
+Transportation System Providers and Users
+Public Safety Communications
+Hazardous Materials Contractors
+Traveler Information Services
+Traveling Public
+Law Enforcement
+Coroners and Medical Examiners
+Traffic Media
+Trucking Industry
+Fire and Rescue
+Emergency Management Agencies
+Transportation Agencies
+Insurance Industry
+Emergency Medical Services (EMS)
+Environmental/Natural Resources/Departments of Public Health
+Public Transportation Providers
+Towing and Recovery
+Motorist Organizations
+Transportation Agencies
+Source:
+2010 Traffic Incident Management Handbook
+, FHWA-HOP-10-013.
+Source: iStockphoto®.
+Three tractor-trailers have crashed releasing Thioglycol, a Class 6 HAZMAT material, and trapping one of the drivers inside the cab. While emergency responders worked to extricate the driver, a HAZMAT team contained the chemical. Behind the scenes, the Virginia Department of Transportation (VDOT) published 511 messages (voice and web site), and through its regional
+TMCs
+established detours, and posted information on message boards until the highway was open in both directions and returned to normal traffic patterns.
+Photo courtesy of the North Carolina Department of Transportation.
+The North Carolina Department of Transportation (NCDOT) played a primary role in communicating information to residents and tourists before, during, and after Hurricane Irene.
+NCDOT’s
+TMC
+provided real-time travel information on their 511 system, web site, changeable message signs, through Twitter, and on mobile devices. The
+TMC
+also managed traffic and monitored for incidents.
+3.6.6 Interagency Coordination for Planned Special Events
+This section describes the expertise and resources on traffic flow that
+TMCs
+bring to an event planning team. While planned special events are not the focus of this guidebook, they are discussed here for two important reasons:
+Planned special events provide an opportunity to test emergency response systems, equipment and training, including
+ICS
+, in a non-emergency situation. Lessons can be drawn which will help improve emergency response.
+Due to the large number of people concentrated in limited space, planned special events represent a high risk for terrorist acts. Unanticipated weather events, particularly thunderstorms or high winds, can also result in an emergency situation.
+Depending on the type of event, the venue, or even the location, the event planning team could include the following:
+State and local police/law enforcement;
+State and local traffic management agencies;
+Emergency management services/response (Fire/
+EMS
+);
+Tow truck operators;
+Transit operators and event shuttle operators;
+Parking lot operators;
+Venue operators; and
+Event promoters and the media.
+Source: Cambridge Systematics, Inc.
+The
+FHWA
+Freeway Management and Operations Handboo
+k
+, Chapter 11, provides a detailed summary of
+TMC
+planning and management roles related to special events, which will vary depending on event characteristics. Some of the topics discussed include a detailed description of all phases of managing travel from preplanning to postevent, a framework for stakeholder coordination, and innovative techniques for enhancing efficiency. Another valuable
+source of information is the
+FHWA
+document National Special Security Events: Transportation Planning for Planned Special Events
+, FHWA-HOP-11-012, which provides a transportation guide to National Special Security Events (NSSEs).
+Some of the planning and resources from the
+TMC
+, law enforcement, and emergency response can improve operational efficiency around planned special events.
+For instance, when the Dallas Cowboys Stadium opened in 2009, there were 200 officers in the field supporting traffic and event management; today that number is closer to 90, which shows a significant resource and cost savings as a result of technology, operational strategies, and coordination with the
+TMC
+.
+3.6.7 Information Collection and Dissemination
+This section describes the essential information common to all emergencies identified during the planning process, including coordination with state and regional Fusion Centers.
+TMC
+Resources and Services for Planned Special Events
+Monitor traffic conditions on key roadways through detection and
+CCTV
+equipment.
+Share
+CCTV
+feeds with law enforcement, event managers, and others.
+Implement strategies to guide traffic in and out of the event, including reviewing historical traffic conditions to determine where congestion can be expected, using of Dynamic Message Signs (DMS) to provide advance notice, and deploy portable message signs to help guide event traffic advise drivers of potential delays.
+Provide the public with advanced notice of the event, detours, and closed roads via web sites, 511 phone systems, media, and private traffic information services.
+Coordinate with other transportation departments to supply additional trucks or equipment to support a potential emergency.
+Participate in drills and exercises with emergency responders to plan for emergency access/egress or evacuations.
+Coordinate with local jurisdictions to modify signal timing on arterial roadways during pre-event and postevent periods.
+Coordinate with transit operations centers, both public and private, to help manage bus staging areas and access/egress routes for transit vehicles.
+ITS
+and Traveler Information
+In many regions, the
+DOT’s
+ITS
+is an important source of real-time information about the transportation system, which is often communicated by the
+TMC
+to law enforcement.
+TMC/
+EOC
+Data Exchange
+TMCs
+should explore avenues to enhance connectivity and interoperability between
+TMCs
+,
+EOCs
+, and Fusion Centers. The range of connectivity and data exchange between the
+TMC
+and
+EOC
+includes shared local area data and video networks; shared private area networks using Ethernet technology and video encoding; and commercial data access from publicly available providers such as the Internet and telephone service providers. In addition, the
+TMC
+should incorporate
+ITS
+into their emergency operations procedures to provide situational awareness to the
+EOC
+and Fusion Center including traffic volumes and queuing.
+ITS
+information may also help inform evacuation decisions and routing.
+3.6.8 Communication
+This section of the
+EOP
+describes the response communication protocols and coordination procedures for use during emergencies and disasters. The
+TMCs
+’ 24/7 operational profile and advanced incident detection and information gathering capabilities place them at the forefront of highway incident response.
+TMCs
+can only be effective in this role if there are appropriate communications and notification policies and procedures. The box shows a communications policy developed by Florida
+DOT
+for use in hurricanes and other emergencies.
+If a common interagency communications center is not available, the plan must then cover how to achieve interagency communications, including notifications between
+TMCs
+,
+EOCs
+, Fusion Centers, and emergency response agencies. These protocols should apply for regional communications plans and communication between the
+TMC
+and other transportation agencies. The Federal Communications Commission (FCC) ruling of July 2011 on Public Safety Broadband, discussed further in the next section, has direct implications for
+TMC
+/
+EOC
+cooperation.
+Microwave System and Communications Through Cellular Telephones and Radios
+Communications protocols are a critical part of the Emergency Operations Plan, including both notification and equipment. Clear direction such as that shown below in the Florida
+DOT
+Hurricane Action Response Plan can assure that
+DOT
+participants are properly equipped and prepared.
+Districts should continue to use and maintain
+FDOT
+-owned 47
+MHz
+maintenance radio system to ensure communication during emergencies.
+Contractors who provide services to
+FDOT
+during emergencies should be included in the
+FDOT
+communication system.
+Districts should explore use of satellite telephones for redundancy following a hurricane since telephones and radios could be out of service after such an event.
+Source: Florida
+DOT
+Hurricane Response Action Plan, Version 2, June 2005.
+Communications Stakeholders
+State
+DOT
+, because of their interest in
+ITS
+technology, can work with and support public safety agency partners on advanced technology applications. The
+FCC
+’s allocation of frequency to public safety functions reinforces this cooperation. An integrated approach to a broader range of hazards requires cooperation among the emergency management community and public safety and transportation entities, more shared real-time information, rapid access across public data sources and data types, and access to special expertise on an on-call basis.
+TMCs
+should also establish a Communications Working Group and include stakeholders involved in communications and notification systems and procedures within and outside the
+TMC
+. The communications group would cooperate with the
+TMC
+on the development of plans and procedures and include individuals from the following:
+Internal
+TMC
+or state
+DOT
+Information Technology Division;
+Internal
+TMC
+or state
+DOT
+Telecommunications Division;
+External Communications Stakeholders:
+Police Telecommunications;
+State Emergency Management Telecommunications; and
+Municipal Public Safety Telecommunications.
+Regular discussion and coordination with internal and external stakeholders can enhance communications and notification and identify problem areas such as radio interoperability. Typical telecommunications resources include the common mutual-aid frequencies/channels, alternative communications devices, wireless information networks, and an associated standardized communications terminology/protocol to enhance en-route and on-scene communications among responders from different agencies. Mobile unified communications vehicles can also enhance en-route/on-scene communications among different responders.
+TMCs
+should utilize the Communications Working Group to maximize the utility and interoperability of the many different communications services and systems that interface with the
+TMC
+and leverage those systems to expand the communications reach of the
+TMC
+. All of the systems can support emergency operations as long as there are plans and procedures such as standardized terminology and system protocols, and external stakeholders are able to tap into them. Examples of communications commonly used by
+TMCs
+include the following:
+Internal radio frequencies/channels;
+Mutual-aid frequencies/channels;
+Wireless information networks;
+Landline voice and data networks; and
+Cellular voice and data networks.
+3.6.9 Administration, Finance, and Logistics
+This section of the
+EOP
+addresses the general support requirements and the availability of services for all types of emergencies, including mutual-aid agreements; authorities for and policies on reassigning public employees and soliciting and managing volunteers; and general policies for maintaining financial records, reporting and tracking resource needs. Of particular importance are potential sources of funding for the
+TMC’s
+Emergency Preparedness and Security Program.
+Transportation Emergency Preparedness/Security Funding
+TMCs
+should utilize the Emergency Preparedness Working Group members to research and leverage transportation emergency preparedness and security funding. This funding comes from multiple sources, depending on the specifics of the project and the current funding environment. Primary sources include general state and Federal funds and specific grant funds. Transportation projects can sometimes take advantage of emergency preparedness or infrastructure security-oriented funding. The following are current grant programs to support emergency preparedness:
+United States Department of Transportation/ Federal Transit Administration:
+Metropolitan and Statewide Planning;
+State-of-Good-Repair Bus and Bus Facilities Initiative;
+Transit Asset Management (TAM) Pilot Program; and
+Urbanized Area Formula Program.
+Pipeline and Hazardous Material Safety Administration:
+Hazardous Materials Emergency Preparedness (HMEP) Grant Program: Hazardous Materials Public Sector – Training and Planning Grants for States and Territories.
+United States Department of Homeland Security/Federal Emergency Management Agency:
+Buffer Zone Protection Program (BZPP);
+Driver’s License Security Grant Program (DLSGP);
+Emergency Management Performance Grants (EMPG);
+Homeland Security Preparedness Technical Assistance Program – National Governors Association;
+Intercity Bus Security Grant Program;
+Port Security Grant Program (PSGP);
+Regional Catastrophic Preparedness Grant Program (RCPGP);
+Technical Assistance Program – National Governors Association (NGA);
+Transit Security Grant Program (TSGP); and
+Urban Areas Security Initiative (UASI).
+3.6.10 Plan Development and Maintenance
+This section describes the planning process, participants, and how
+EOP
+revisions are coordinated during the preparedness phase. It also includes guidance on how to provide a regular cycle of testing, reviewing, and updating the
+EOP
+. Recommended processes for post-incident review and
+EOP
+adjustment are also included.
+Steps in the Planning Process
+This section presents a planning process that is flexible and allows
+TMCs
+to adapt it to varying characteristics and situations. If time is a constraint, steps can be minimized or skipped in order to accelerate the process. Small
+TMCs
+can follow just the steps that are appropriate to their size, known risks, and available planning resources. At each step in the planning process,
+TMCs
+should consider the impact of the decisions made on training, exercises, equipment, and other requirements.
+Step 1 – Form a Collaborative Planning Team
+Experience and lessons learned have demonstrated that operational planning is best performed by a team. A team approach enables organizations to define the role they will play during an operation. The common threads found in successful operations are that participating organizations understand and accept their roles and that members of the planning team understand and accept the roles of other departments and agencies. A key goal of any
+TMC
+planning team is to build and expand relationships that help bring creativity and innovation to emergency planning. A
+TMC
+benefits from the active participation of all stakeholders. Tips for gathering the team together are listed below:
+Give the planning team plenty of notice about where and when the planning meeting will be held.
+Provide information about team expectations. Explain why participating on the planning team is important to the participants’ agencies and show the participants how their contributions will lead to more effective operations.
+Ask the senior appointed official or designee to sign the meeting announcement, since a directive from the executive office carries authority and sends a clear signal that operational planning is important to the community.
+Allow flexibility in scheduling after the first meeting as not all team members will need to attend all meetings. Determine where possible task forces or subcommittees should complete the work.
+In most
+TMCs
+, the
+TMC
+manager is the senior official’s policy advisor for response and mitigation strategies, as well as overall preparedness.
+TMC
+managers are often responsible for coordinating and developing an
+EOP
+, filling the role of lead planner. This means that the
+TMC
+manager provides oversight to a
+TMC’s
+planning team.
+Step 2 – Understand the Situation
+Effective risk management requires a consistent comparison of the hazards a particular
+TMC
+faces.
+TMCs
+should collect information about threats and hazards and assign values to risk for the purposes of determining priorities, developing or comparing courses of action, and informing decision-making. The
+TMC
+could conduct an in-depth process – cataloging everything from specific asset vulnerabilities to emergency personnel staffing levels. Due to resource limitations, however, this level of analysis may not be possible or practical In such cases,
+TMCs
+should conduct a risk assessment of achievable and appropriate scale and scope.
+Identify Threats and Hazards.
+As the first step,
+TMCs
+should gather information about the potential risks, resource base and geographic characteristics that could affect emergency operations. In addition,
+TMCs
+’ hazard mitigation plans are an excellent resource for this step, as they are required to identify, catalog, and analyze all natural hazards that have the ability to impact the
+TMC
+and its operations.
+TMCs
+should take additional steps to include human-caused and technological hazards. Planning teams should use state and local fusion centers to provide analytical products, such as risk and trend analyses, that are derived from the systematic collection and evaluation of threat information. Fusion centers also provide access to national-level intelligence and can serve as a mechanism to “deconflict” information.
+Assess Risk.
+The risk assessment is the basis for
+EOP
+development and helps a planning team decide what hazards or threats merit special attention, what actions to plan for, and what resources are likely to be needed. In this step, planners inventory, evaluate, and provide loss estimates for assets deemed critical during the response and recovery phases of an incident. Planners can also obtain the Hazards
+U.S.
+Multi-Hazard (HAZUS-MH) model from
+FEMA
+.
+HAZUS-MH
+is a nationally applicable and standardized methodology that estimates potential losses from earthquakes, floods, and hurricane winds.
+Step 3 – Determine Goals and Objectives
+Determine Operational Priorities.
+TMCs
+set operational priorities by using information from the risk profile. The planning team engages the senior official to establish how the hazard or threat would evolve survivors, and the community. Starting with a given intensity for the hazard or threat, the team imagines an incident’s development using the following sequence:
+Prevention and protection efforts;
+Initial warning (if available);
+Impact (as identified through analysis); and
+Generation of specific consequences (
+e.g.
+, collapsed buildings, loss of critical services or infrastructure, death, injury, displacement).
+Planners may use the incidents that have the greatest impact on the
+TMC
+(worst-case), those that are most likely to occur, or an incident constructed from the impacts of a variety of risks. During this process of building an incident scenario, the planning team identifies the requirements that determine actions and resources. Planners identify requirements generated by the hazard or threat, the response, and by constraints/restraints.
+Planners develop requirements based on the nature of the hazard or threat. Response requirements are developed based on actions taken in response to an agent-generated problem. These tend to be common to all operations.
+A constraint is something that must be done (“must do”), while a restraint is something that prohibits action (“must not do”). These may be defined in law, regulation, or management directive; by physical characteristics (
+e.g.
+, terrain and road networks that make east-west evacuations impossible); or by resource limitations.
+Set Goals and Objectives.
+Planners should carefully craft goals and objectives to ensure they support the plan mission and operational priorities. They must also clearly indicate the desired result or end state. Goals and objectives facilitate unity of effort and consistency of purpose among the multiple groups and activities involved in plan execution.
+Planners correctly identify an operational task when they can answer the following questions about it:
+What is the action?
+Who is responsible for the action?
+When should the action take place?
+How long should the action take and how much time is actually available?
+What has to happen before?
+What happens after?
+What resources does the person/entity need to perform the action?
+Step 4 – Plan Development
+Develop and Analyze Courses of Action.
+This step is a process of generating, comparing, and selecting methods of achieving the goals and objectives identified in Step 3. When developing courses of action, planners depict how an operation unfolds by building a portrait of the incident’s actions, decision points, and participant activities. Planners identify tasks that occur immediately at incident initiation, tasks that are carried out through the duration of the incident, and tasks that affect long-term operations. Specific activities include:
+Establish the timeline. Planners should cover all mission areas in the timeline and use the speed of incident onset to establish the timeline. For example, a hurricane’s speed of onset is typically days, while a major HAZMAT incident’s speed of onset is minutes.
+Depict the scenario. Planners use the scenario information developed in Step 3, place the incident information on the timeline and identify and depict decision points. Decision points indicate the place in time, as incidents unfold, when leaders anticipate making decisions about a course of action.
+Identify and depict operational tasks. For each operational task depicted, some basic information is needed. Developing this information helps planners incorporate the task into the plan when they are writing it.
+Select courses of action. Once the above analysis is complete, planners must compare the costs and benefits of each proposed course of action against the mission, goals, and objectives. Based on this comparison, planners then select the preferred courses of action to move forward in the planning process.
+Identify Resources.
+Once courses of action are selected, the planning team identifies resources needed to accomplish tasks without regard to resource availability. The object is to identify the resources needed to make the operation work. Once the planning team identifies all the requirements, they begin matching available resources to requirements. The resource base should also include a list of facilities vital to emergency operations, and the list should indicate how individual hazards might affect the facilities. Whenever possible, planners should match resources with other geographical/regional needs so that multiple demands for the same or similar resources can be identified and conflicts resolved. This step provides planners an opportunity to identify resource shortfalls and prepare pre-scripted resource requests, as appropriate. The
+EOP
+should account for unresolved resource shortfalls so they are not just “assumed away.” The capability estimate process, a planner’s assessment of a
+TMC’s
+ability to take a course of action, is critical to this effort. Planners should use capability estimates for both future and current operational planning.
+Step 5 – Plan Preparation, Review, and Approval
+Write the Plan.
+This step turns the results of course of action development into an
+EOP
+. The planning team develops a rough draft of the basic plan, functional annexes, hazard-specific annexes, or other parts of the plan as appropriate. The
+TMC
+and partners on the planning team record results from Step 4 and provide an outline for the rough draft. As the planning team works through successive drafts, the members add necessary tables, charts, and other graphics. The planning team prepares and circulates a final draft to obtain the comments of organizations that have responsibilities for implementing the plan. Following these simple rules for writing plans and procedures will help ensure that readers and users understand their content:
+Keep the language simple and clear by writing in plain English and avoid using jargon and minimize the use of acronyms.
+Use short sentences and the active voice. Qualifiers and vague wording only add to confusion.
+Provide enough detail to convey an easily understood plan that is actionable. The amount of detail a plan should provide depends on the target audience and the amount of certainty about the situation.
+Format the plan and present its contents so that its readers can quickly find solutions and options. Focus on providing mission guidance and not on discussing policy and regulations.
+Ensure accessibility by developing tools and documents (
+e.g.
+, print, electronic, video) so plans can be easily converted to alternate formats.
+Criteria for Plan Assessment
+Adequacy.
+Do the scope and concept of planned operations identify and address critical tasks effectively? Can the plan accomplish the assigned mission while complying with guidance? Are the plan’s assumptions are valid, reasonable, and comply with guidance?
+Feasibility. Can the organization accomplish the assigned mission and critical tasks by using available resources within the time contemplated by the plan?
+Acceptability.
+Does the plan meet the requirements driven by a threat or incident? Can the plan be justified in terms of the cost of resources? Is its scale is proportional to mission requirements? Planners use both acceptability and feasibility tests to ensure that the mission can be accomplished with available resources, without incurring excessive risk regarding personnel, equipment, material, or time.
+Completeness.
+A plan is complete if it:
+Incorporates all tasks to be accomplished;
+Includes all required capabilities;
+Provides a complete picture of the sequence and scope of the planned response operation;
+Provides a timeline for implementation; and
+Identifies success criteria and a desired end-state.
+Compliance.
+The plan should comply with guidance and doctrine to the maximum extent possible, because these provide a baseline that facilitates both planning and execution.
+Review the Plan.
+Planners should check the written plan for its conformity to applicable regulatory requirements and the standards of Federal or state agencies, as appropriate, and for its usefulness in practice. Planners should consult the next level of government about its plan review cycle. Commonly used criteria help decision-makers determine the effectiveness and efficiency of plans. These measures include adequacy, feasibility, acceptability, completeness and compliance. Decision-makers directly involved in planning can employ these criteria, along with their understanding of plan requirements, to determine a plan’s effectiveness and efficiency and to assess risks and define costs.
+When using these five criteria, planners should ask the following questions:
+Did an action, a process, a decision, or the operational timing identified in the plan make the situation worse or better?
+Were new alternate courses of action identified?
+What aspects of the action, process, decision, or operational timing make it something to keep in the plan?
+What aspects of the action, process, decision, or operational timing make it something to avoid or remove from the plan?
+What specific changes to plans and procedures, personnel, organizational structures, leadership or management processes, facilities, or equipment can improve operational performance?
+Approve and Disseminate the Plan.
+Once the plan has been validated, the planner should present the plan to the appropriate
+DOT
+officials and obtain official promulgation of the plan. The promulgation process should be based in a specific statute, law, or ordinance. A formal promulgation documentation process is implemented to obtain senior official’s approval and to gain the widest acceptance possible for the plan. The authority required for changes and modifications to the plan must be established. Once the senior official grants approval, the plan must be distributed and a record of the people and organizations that received a copy (or copies) of the plan must be maintained. “Sunshine” laws may require that a copy of the plan be posted on the
+TMC’s
+web site or be placed in some other public accessible location.
+Step 6 – Plan Implementation and Maintenance
+Training.
+After developing a plan, it must be disseminated and managers must train their personnel so they have the knowledge, skills, and abilities needed to perform the tasks identified in the plan. Personnel should also be trained on the organization-specific procedures necessary to support those plan tasks.
+Exercise the Plan.
+The planning team must conduct training events, exercises, and real-world incidents to determine whether the goals, objectives, decisions, actions, and timing outlined in the plan leads to a successful response. In this way, homeland security and other emergency preparedness exercise programs become an integral part of the planning process. Similarly, planners need to be aware of lessons and practices from other communities. A remedial action process will help a planning team identify, illuminate, and correct problems with the
+TMC’s
+EOP
+. This process captures information from exercises, post-disaster critiques, self-assessments, audits, administrative reviews, or lessons-learned processes that may indicate that deficiencies exist. Members of the planning team should reconvene to discuss the problem and to consider and assign responsibility for generating remedies across all mission areas. Remedial actions may involve revising planning assumptions and operational concepts, changing organizational tasks, or modifying organizational implementing instructions (
+i.e.
+, the
+SOPs
+/
+SOGs
+). Remedial actions may also involve providing refresher training for an organization’s personnel.
+Review, Revise, and Maintain the Plan.
+This step closes the loop in the planning process as it focuses on adding the information gained by exercising the plan to the research collected in Step 2 and starting the planning cycle over again. Planning teams should establish a process for reviewing and revising the plan on a regular basis. Some
+TMCs
+have found it useful to review and revise portions of their
+EOPs
+every month. Many accomplish their reviews on an annual basis. In no case should any part of the plan go for more than two years without being reviewed and revised. Teams should also review and update the plan after the following events:
+A major incident;
+A change in operational resources (
+e.g.
+, policy, personnel, organizational structures, management processes, facilities, equipment);
+A formal update of planning guidance or standards;
+Major exercises;
+A change in the
+TMC’s
+hazard or threat profile;
+A change in the acceptability of various risks; and
+The enactment of new or amended laws or ordinances.
+3.6.11 Authorities and References
+This section provides the legal basis for emergency operations and activities. The authorities and references should include the following:
+A list of laws, statutes, ordinances, executive orders, mutual-aid, and other agreements, etc.;
+The extent and limits of the emergency authorities granted to the state transportation agency; and
+Emergency authorities and provisions for continuity of operations.
+The emergency operations activities of the
+TMC
+generally fall within the legislative mandate that established the agency and defined its responsibilities. Recent legislative initiatives related to emergency operations and roadway safety include Quick Clearance laws, and Move Over Slow Down laws for emergency vehicles. Implementation of
+NIMS
+has helped define the roles of transportation and emergency response agencies during emergencies.
+Memoranda of Understanding or Agreements (
+MOU/A
+) or Emergency Management Assistance Compacts (EMAC) are two methods to ensure formal procedures are in place for mutual assistance and support. These agreements form the basis of training and planning activities, and are generally most effective when covering specific topics.
+NIMS
+and the
+NRF
+provide a basis for these agreements, and the duties in the State
+EOP
+. While implementation of agreements may occur at a higher level in the transportation agency, the
+TMC
+should have a seat at the table in both the development and the execution of
+MOU/As
+and
+EMACs
+.
+TMC
+personnel can provide inventories of equipment, current operating procedures, and provide recommendations on items to include in the plan. The text box provides language for an agreement. Successful implementation of

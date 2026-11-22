@@ -1,0 +1,89 @@
+================================================================================
+EARTHQUAKE SAFETY AND RESPONSE KNOWLEDGE BASE
+Source: American Red Cross Earthquake Safety Checklist (BeRedCrossReady)
+Target Audience / System: AI Systems, RAG Datasets, Emergency Assistance Agents
+Language: English
+================================================================================
+
+1. GENERAL OVERVIEW & RISK ASSESSMENT
+--------------------------------------------------------------------------------
+- Definition: An earthquake is a sudden, rapid shaking of the Earth caused by the breaking and shifting of subterranean rock beneath the Earth's surface.
+- Timing & Predictability: Earthquakes strike suddenly without warning, occurring at any time of day, night, or year.
+- Geographical Vulnerability: 45 states and territories across all regions of the United States are at moderate to very high risk of earthquakes.
+- Structural & Soil Vulnerabilities:
+  * Mobile homes and structures not securely anchored to their foundations face heightened risk during seismic activity.
+  * Buildings situated on artificial landfill or unstable soil compositions incur elevated risk of structural failure and damage.
+  * Local Risk Contacts: Official information can be obtained from local emergency management offices, local American Red Cross chapters, state geological surveys, or departments of natural resources.
+
+2. PRE-EARTHQUAKE PREPAREDNESS & HAZARD MITIGATION
+--------------------------------------------------------------------------------
+2.1 Planning & Drills:
+- Building Awareness: Learn fire evacuation and earthquake emergency plans for all regularly occupied facilities (homes, workplaces, schools).
+- Safe Spots Selection: Identify designated safe places in every room (under heavy, sturdy furniture or against interior load-bearing walls away from glass windows, tall bookcases, or heavy equipment).
+- Practice Protocol: Regularly practice the "Drop, Cover, and Hold On" procedure in every safe room spot. If sturdy furniture is unavailable, sit on the floor against an interior wall, covering head and neck with arms.
+- Immediate Essentials: Position a flashlight and sturdy shoes immediately adjacent to every person's bed.
+
+2.2 Home Retrofitting & Structural Securing:
+- Foundation Anchoring: Confirm that residential structures are securely anchored to their foundations.
+- Appliance Fastening: Bolt and brace water heaters and gas-fueled appliances to structural wall studs.
+- Furniture Attachment: Secure tall furniture (bookcases, china cabinets, shelving) to wall studs with bolts or brackets.
+- Overhead & Hanging Items: Hang heavy objects (pictures, mirrors, framed art) strictly away from beds, couches, seating areas, or sleeping spaces.
+- Fixture Bracing: Securely brace overhead lighting fixtures.
+- Cabinet Latches: Install heavy-duty latches or locking bolts on cabinet doors to prevent contents from spilling. Store heavy or bulky items on lower shelves near the floor.
+- Gas Shut-Off: Learn gas valve shut-off procedures and store a dedicated wrench near the gas valve.
+- Building Standards: Research local seismic building standards and land use codes prior to undertaking new construction or renovation.
+- Emergency Kit: Maintain a fully stocked emergency supplies kit in an easily accessible location.
+
+3. IMMEDIATE ACTION PROTOCOL DURING SHAKING
+--------------------------------------------------------------------------------
+3.1 Core Principle - Drop, Cover, and Hold On:
+- Primary Action: Drop to hands and knees, cover head and neck under sturdy furniture, and hold on firmly to the furniture leg until shaking completely ceases. Move as little as possible.
+- Doorway Myth Warning: Doorways ARE NOT stronger or safer than any other structural section of a building. DO NOT seek shelter in doorways. Protect yourself under sturdy furniture.
+
+3.2 Indoor Protocol:
+- Inside a Room: Drop, cover, and hold on. Stay far away from glass windows, exterior doors, and items that could fall.
+- In Bed: Remain in bed, curl up to protect vital organs, cover head and neck with a pillow, and hold on.
+- Glass Hazard: Stay well away from windows to avoid severe injuries from shattering glass.
+- Evacuation Timing: Stay indoors until shaking stops entirely and exit pathways are verified safe.
+- Stairways vs. Elevators: ALWAYS use stairways when exiting. NEVER use elevators due to potential aftershocks, structural damage, or power outages.
+- Automated Alarms: Expect fire alarms and water sprinkler systems to activate automatically during an earthquake, even in the absence of fire.
+
+3.3 Outdoor Protocol:
+- Open Ground: Move immediately to a clear, open area away from buildings, power lines, streetlights, trees, and heavy structures. Drop to the ground and remain there until shaking stops.
+
+3.4 Vehicle Protocol:
+- Pulling Over: Safely pull over to a clear location clear of overpasses, bridges, utility poles, trees, and power lines. Stop and set the parking brake.
+- Vehicle Shelter: Remain inside the vehicle with the seatbelt securely fastened until shaking completely ceases.
+- Post-Shaking Driving: Proceed with extreme caution, watching for collapsed bridges, damaged ramps, and road cracks.
+- Downed Power Lines: If a live power line falls onto the vehicle, DO NOT attempt to exit. Remain inside and wait for professional emergency assistance.
+
+3.5 Mountainous & Coastal Slope Hazard:
+- Landslides & Debris: In mountainous areas or near steep cliffs/slopes, remain vigilant for falling rocks, mudslides, and earth movement triggered by seismic shaking.
+
+4. POST-EARTHQUAKE SAFETY & RECOVERY PROTOCOL
+--------------------------------------------------------------------------------
+4.1 Secondary Disasters & Aftershocks:
+- Expect Secondary Hazards: Prepare for aftershocks, landslides, and potential tsunamis (coastal areas).
+- Response to Aftershocks: Perform "Drop, Cover, and Hold On" for EVERY aftershock. Aftershocks occur minutes, hours, days, weeks, or months following the mainshock.
+
+4.2 Personal Safety & First Aid:
+- Self-Check: Check yourself for injuries and administer immediate first aid prior to assisting others.
+- Protective Clothing: Wear long pants, long-sleeved shirts, heavy sturdy shoes, and durable work gloves to prevent lacerations from shattered glass and debris.
+
+4.3 Immediate Hazard & Fire Mitigation:
+- Fire Prevention: Search for and extinguish small fires immediately. Fire is the single most common post-earthquake secondary hazard.
+- Chemical Clean-Up: Promptly clean up spilled flammable liquids, household chemicals, medications, gasoline, or bleach.
+- Cabinet Safety: Open cabinets and closets cautiously as internal contents may have shifted during shaking and could fall.
+- Utility Hazards: Inspect for damaged gas lines, electrical wiring, or fallen power lines. Stay out of compromised areas.
+
+4.4 Communication & Information:
+- Emergency Broadcasts: Monitor battery-powered or hand-crank radios for official instructions and emergency updates.
+- Telephone Usage: Check landline/cellular phones for dial tones. Limit phone usage strictly to brief, life-threatening emergency reports.
+- Welfare Registration: Register on the American Red Cross "Safe and Well" website (RedCross.org) or call 1-866-GET-INFO to report your safety status to family members.
+
+4.5 Structural Inspection & Re-entry:
+- Evacuation Criteria: Evacuate immediately if your home or building shows structural damage or feels unsafe.
+- Re-entry Safety: Return home or enter buildings ONLY after local authorities declare the area safe. Inspect walls, floors, doors, staircases, and windows for structural defects before entry.
+- Driving Precautions: Drive cautiously post-earthquake, anticipating non-functional traffic signals and damaged roadways.
+- Animal Control: Keep domestic animals under direct physical control (leash or carrier) to prevent panic and injury.
+================================================================================

@@ -1,0 +1,42 @@
+Earthquakes affect not only buildings but also all the systems inside them. Elevators, which are an essential part of our daily lives, can pose serious dangers after an earthquake. In this article, we’ll explain the risks of using elevators after an earthquake and the steps you should take to ensure your safety.
+The Dangers of Using an Elevator After an Earthquake
+1. Risk of Counterweight Derailment
+During an earthquake, elevator rails can shift from their original positions. This can cause the counterweight frame to derail. In poorly assembled elevators, iron or barite filler weights in the counterweight frame can become detached and fall into the shaft.
+2. Risk of Cabin Jamming or Falling
+As buildings move during an earthquake, elevator rails may bend or shift. This can lead to the cabin falling or becoming stuck between floors.
+3. Damage to Electrical and Control Systems
+Sudden power outages or voltage fluctuations caused by an earthquake can disable elevator control systems. Damage to electronic components may cause the elevator to stop between floors, move to incorrect floors, or cause the doors to malfunction.
+4. Malfunctioning Door Mechanisms
+Doors are among the most sensitive parts of an elevator. Bending of rails or internal structural stress in the building may prevent doors from fully opening or closing, potentially trapping users inside the cabin.
+5. Difficulty in Rescue Operations
+Rescuing people trapped in elevators becomes harder in the chaos following an earthquake. Damage to staircases, exits, or the elevator machine room can delay response efforts.
+6. Danger from Aftershocks
+Aftershocks that follow the initial quake can make already damaged elevator systems even more dangerous. Using the elevator at any moment may pose a new risk.
+What Should You Do About Elevator Use After an Earthquake?
+Don’t Use Elevators Immediately:
+Elevators should not be used after an earthquake unless they have been inspected and declared safe by professional teams.
+Building Management Must Take Action:
+Elevator systems should be checked urgently by service professionals. Any malfunctioning elevators should be temporarily deactivated.
+Opt for Elevators with Seismic Sensors:
+Modern elevators equipped with seismic sensors detect tremors and automatically move the cabin to the nearest floor and open the doors, enhancing safety.
+Stay Calm if Trapped:
+If you are stuck in an elevator, do not panic. Press the emergency button and wait for help. Do not attempt to force the doors open.
+Conclusion: Be Aware for Your Safety
+After natural disasters like earthquakes, attention must be given not only to the structural integrity of buildings but also to the condition of vital internal systems. If not used properly and at the right time, elevators can become life-threatening. Therefore, public awareness and institutional supervision of post-earthquake elevator use are crucial.
+Remember:
+One of the first things to do after an earthquake is to have the elevators inspected. Never neglect your safety — not even for a moment.
+package elevator
+Blog
+Similar Topics
+23.06.2026
+Elevator Manufacturer in Turkey: Why Global Partners Choose Turkish Elevator Suppliers
+As global construction and infrastructure projects continue to expand, the demand for reliable elevator manufacturers has never been higher. For distributors, contractors, developers, and elevator companies worldwide, Türkiye has become one of the most attractive...
+Read More →
+30.10.2025
+What Is a Packaged Elevator? Complete Elevator Solutions from Sanel Elevator
+The question “What is a packaged elevator?” is frequently asked by construction companies and building managers.Simply put, a packaged elevator is a complete elevator system where all mechanical, electrical, and decorative components are offered together...
+Read More →
+29.10.2025
+What to Do If You Get Stuck in an Elevator? | Stay Calm and Follow These 5 Life-Saving Steps
+🙏 What to Do If You Get Stuck in an Elevator? First Step: Stay Calm The question “what to do if you get stuck in an elevator” can be stressful for many people.However, the first...
+Read More →

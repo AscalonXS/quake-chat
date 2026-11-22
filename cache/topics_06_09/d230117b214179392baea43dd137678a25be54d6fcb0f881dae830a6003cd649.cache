@@ -1,0 +1,962 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>TsunamiReady® Guidelines</title>
+<meta name="DC.title" content="TsunamiReady® Guidelines" />
+<meta name="DC.description" content="TsunamiReady® Guidelines" />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="January 14th 2026 5:55 PM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="TsunamiReady® Guidelines" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+        <script type="text/javascript" src="/js/ForecastSearch.js"></script>
+        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA&pua=G-736JJ6NL0V"></script>	
+        <script type="text/javascript" src="/js/topNavMenu.js"></script>
+        <script type="text/javascript" src="/js/NidsESRI.js"></script>
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+        
+    </head>
+
+    <body>
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            <div class="content">
+    <div class="topnav">
+        <ul id="topnav">
+            <li>
+                <script type="text/javascript">
+                    function goBack() {
+                        if (document.referrer.toLowerCase().indexOf("weather.gov") != -1) {
+                            history.back();
+                        } else {
+                            document.location.href = "https://www.weather.gov";
+                        }
+                    }
+                </script>
+                <div class="topMenuNavList home">
+                    <a href="#" onclick="goBack();">HOME</a>
+                </div>
+            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/forecastmaps/">FORECAST</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov">Local</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://digital.weather.gov">Graphical</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://aviationweather.gov">Aviation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/marine/">Marine</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://water.noaa.gov">Rivers and Lakes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.nhc.noaa.gov">Hurricanes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.spc.noaa.gov">Severe Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/fire/">Fire Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Sunrise/Sunset</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Long Range Forecasts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Climate Prediction</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.swpc.noaa.gov">Space Weather</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/climate">PAST WEATHER</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrh/climate">Past Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Astronomical Data</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table">Certified Weather Data</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/safety/">SAFETY</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/informationcenter">INFORMATION</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/briefing/">Daily Briefing</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/hazstat">Damage/Fatality/Injury Statistics</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="http://mag.ncep.noaa.gov">Forecast Models</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/gis/">GIS Data Portal</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/nwr">NOAA Weather Radio</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/publications/">Publications</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/skywarn/">SKYWARN Storm Spotters</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/stormready">StormReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/notification/">Service Change Notices</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/education/">EDUCATION</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/news">NEWS</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/search/">SEARCH</a>
+                    </div>
+                                            <div style="opacity: 0;" class="sub">
+                            <ul class="no-links">
+                            <li><!-- Begin search code -->
+                                <div id="site-search">
+                                    <form method="get" action="https://search.usa.gov/search" style="margin-bottom: 0; margin-top: 0;">
+                                        <input type="hidden" name="v:project" value="firstgov" />
+                                        <label for="query">Search For</label>
+                                        <input type="text" name="query" id="query" size="12" />
+                                        <input type="submit" value="Go" />
+                                        <p>
+                                            <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+                                            <label for="nws" class="search-scope">NWS</label>
+                                            <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+                                            <label for="noaa" class="search-scope">All NOAA</label>
+                                        </p>
+                                    </form>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                                    </li>
+                            <li class="last">
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/about/">ABOUT</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/about/">About NWS</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/organization">Organization</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://sites.google.com/a/noaa.gov/nws-insider/">For NWS Employees</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/ncep/">National Centers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/nws-careers">Careers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/contact">Contact Us</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://forecast.weather.gov/glossary.php">Glossary</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/socialmedia">Social Media</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/NWStransformation">NWS Transformation</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                    </ul>
+    </div>
+</div>
+
+
+            <div class="center-content">
+
+                
+                
+
+                <div class="full-width-border">
+                    <div class="partial-width-borderbottom">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+
+                        <div class="div-full">    
+                        <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">TsunamiReady®</p>
+        <p class="sitename-class">National Program</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>TsunamiReady® Guidelines</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/tsunamiready">TsunamiReady®</a>
+                                &gt; TsunamiReady® Guidelines
+                    </div>
+    </div>
+</div>
+
+                        
+                        
+                        
+                        <div class="div-full">
+<div class="cms-content"><style type="text/css">.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 0px solid #d3d3d3;
+    background: rgba(255, 255, 255, 0.06) !important;
+    font-weight: normal;
+color: #056cc5;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.dfr { height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5); }
+
+ul#topnav li .sub {
+
+position: absolute;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.7;
+}
+.ui-accordion .ui-accordion-header {
+    display: block;
+    cursor: pointer;
+    position: relative;
+    margin-top: 0px;
+   padding: .0em .0em .0em .0em; */
+    min-height: 0;
+}
+.ui-widget-content {
+    border: 0px solid #aaa;
+    background: #fff url(images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+    color: #222;
+}
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited {
+    color: #428bca;
+    text-decoration: none;
+}
+input.ui-button { padding: .3em .5em background-color: rgba(255, 255, 255, 0.06) !important; }
+.ui-widget-content {background-color: rgba(255, 255, 255, 0.06) !important;}
+.intro-links:hover {
+    background-color: #e8e5e5;
+    opacity: 9;
+}
+</style>
+<div class="div-full">
+<table><!--   
+  <tr align="center" valign="middle"-->
+	<tbody>
+		<tr align="center" valign="middle">
+			<td class="blue" colspan="3" width="715">
+			<table border="0" padding="12" width="100%">
+				<tbody>
+					<tr>
+						<td colspan="4" valign="top">
+						<p>In order for the National Weather Service (NWS) to recognize a community as TsunamiReady, the community must have implemented the activities in the TsunamiReady Guidelines, which are listed below and or can be <a _blank="" href="/media/tsunamiready/resources/2015TRguidelines.pdf">downloaded</a>. The appropriate activities will depend on each community&#39;s tsunami threat (e.g., tsunami sources) and vulnerability. These are determined by the <a href="https://www.weather.gov/stormready/contact" target="_blank">local NWS Weather Forecast Office</a> and the responsible TsunamiReady Board, in consultation with <a href="http://nws.weather.gov/nthmp/" target="_blank">National Tsunami Hazard Mitigation Program</a> partners and other tsunami experts, as needed. See <a href="https://www.weather.gov/tsunamiready/become">How to Become TsunamiReady</a> for more information about the application process.</p>
+
+						<h2>Summary Table of Guidelines</h2>
+
+						<table border="1" cellpadding="2" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td valign="top" width="10%"><span class="bullet">MIT-1</span></td>
+									<td valign="top" width="90%"><span class="bullet">Have designated and mapped tsunami hazard zones. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">MIT-2</span></td>
+									<td valign="top"><span class="bullet">Include tsunami hazard and community vulnerability information in the community&rsquo;s FEMA-approved multi-hazard mitigation plan. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">MIT-3</span></td>
+									<td valign="top"><span class="bullet">Local Emergency Manager has informed Floodplain Manager, if applicable, of TsunamiReady designation and available Community Rating System (CRS) Points. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">MIT-4</span></td>
+									<td valign="top"><span class="bullet">Install signage, as needed, that identifies for example:<br />
+									(1) tsunami danger area and/or hazard zone (entering and leaving signs), evacuation routes, and assembly area; and (2) provides tsunami response education (go to high ground). </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-1</span></td>
+									<td valign="top"><span class="bullet">Produce easily understood tsunami evacuation maps as determined to be appropriate by local authorities.</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-2</span></td>
+									<td valign="top"><span class="bullet">Support an ongoing sustained tsunami public education effort. This effort should include the development and distribution of outreach materials.</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-3</span></td>
+									<td valign="top"><span class="bullet">Support an ongoing sustained tsunami education effort specific to public schools in coastal community pursuing TsunamiReady recognition. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-4</span></td>
+									<td valign="top"><span class="bullet">Hold at least one community-wide outreach or education activity annually.</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-5</span></td>
+									<td valign="top"><span class="bullet">Conduct community exercises that reinforce the concepts contained in PREP-1 through PREP-4. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-6</span></td>
+									<td valign="top"><span class="bullet">Conduct evacuation drills for all public schools in the mapped tsunami evacuation zone to reinforce the concepts contained in PREP-1 through PREP-4. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">PREP-7</span></td>
+									<td valign="top"><span class="bullet">Consult State or Territory tsunami program (State/Territory Emergency Manager or similar) regarding the potential availability of resources (such as signage, outreach material, or exercise materials/assistance) to support attainment or completion of TsunamiReady Guidelines. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-1</span></td>
+									<td valign="top"><span class="bullet">Address tsunami hazards in the community&rsquo;s emergency operations plan (EOP).</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-2</span></td>
+									<td valign="top"><span class="bullet">Address tsunami hazards in the emergency operations plans (EOP) for all public schools in the tsunami hazard zone.</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-3</span></td>
+									<td valign="top"><span class="bullet">Commit to supporting the emergency operations center (EOC) during tsunami incidents if an EOC is opened and activated. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-4</span></td>
+									<td valign="top"><span class="bullet">Have redundant and reliable means for a 24-hour warning point (and EOC if activated) to receive official tsunami watch, advisory, and warning alerts.</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-5</span></td>
+									<td valign="top"><span class="bullet">Have redundant and reliable means for 24-hour warning point and/or EOC to disseminate official tsunami watch, advisory, and warning alerts to the public. </span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-6</span></td>
+									<td valign="top"><span class="bullet">Have Public Alert-certified NOAA Weather Radio (NWR) receivers in critical facilities and public venues.</span></td>
+								</tr>
+								<tr>
+									<td valign="top"><span class="bullet">RESP-7</span></td>
+									<td valign="top"><span class="bullet">Conduct emergency operations plan exercises that test at least one component of the community&rsquo;s EOP or one item from RESP-4 through RESP-6. </span></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<p><br />
+						<a href="/media/tsunamiready/resources/2015TRguidelines.pdf">Download the guidelines</a> and the <a href="/media/tsunamiready/resources/TRDefinitions.pdf">program definitions</a>.</p>
+
+						<div class="ui-accordion ui-widget ui-helper-reset" id="accordion">
+						<h4 class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all" style="background-color:#;"><a class="toggle" id="#rsc1"><span class="control">+</span>Mitigation (MIT)</a></h4>
+
+						<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="rsc1">
+						<p><strong>MIT&ndash;1. Have designated and mapped tsunami hazard zones. </strong>The primary source for mapping potential tsunami hazard zones is inundation modeling, which illustrates expected areas to be flooded by the tsunami. If models are unavailable, other acceptable sources include guidance from tsunami experts from NOAA, the U.S. Geological Survey, state geological surveys, universities, or consultants. Modeling and mapping efforts should meet NOAA/NTHMP guidelines.</p>
+
+						<p><em>Note: for communities on the coasts of the Atlantic Ocean or Gulf of America, a &ldquo;baseline tsunami zone&rdquo; has been prepared and, where observed, is approved to meet this requirement. SLOSH modeling is also approved for use for this purpose. Tsunami Hazard Zone maps are used by emergency managers for planning purposes and are different from, but related to, evacuation maps described in PREP-1.</em></p>
+
+						<p><strong>MIT&ndash;2. Include tsunami hazard and community vulnerability information in the community&rsquo;s FEMA-approved multi-hazard mitigation plan. </strong>As described in section 44CFR Part 201.6 (c)(2) of the Stafford Disaster Mitigation Act, this information should include, where available, the following:</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">A tsunami-hazard profile, including source locations, extent of inundation, run-up or height that a wave reaches above sea level, previous tsunami occurrences, and likelihood of future tsunamis</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">A description of community vulnerability, including areas exposed to inundation and an impact summary of the resident population and specific sub-populations of people expected to be affected (e.g., individuals with access and functional needs, visitors, seasonal workers), businesses, infrastructure, and critical facilities</span></li>
+						</ul>
+
+						<p>Estimates of population exposure in tsunami evacuation zones should be based on local knowledge or on analysis of population data (e.g., Census), and can include ranges of population counts to recognize daily or seasonal fluctuations in workers, visitors, and temporary residents.</p>
+
+						<p>Communities that do not have resources to support development of a multi-hazard mitigation plan should work with the county where the community is located to be incorporated into the county&rsquo;s multi-hazard mitigation plan.</p>
+
+						<p>This requirement is met if there is a FEMA-approved multi-hazard mitigation plan that includes tsunamis.</p>
+
+						<p><strong>MIT&ndash;3. Install signage, as needed, that identifies for example: (1) tsunami danger area and/or hazard zone (entering and leaving signs), evacuation routes, and assembly area; and (2) provides tsunami response education (go to high ground). </strong>Signage should be implemented according to state and local policies and as determined to be appropriate by responsible authorities, the responsible TsunamiReady Board, and with possible assistance from partners. Wherever possible, signage should comply with specifications aimed at standardization so that all coastal communities eventually will have identical signage. Continuity of signage benefits domestic residents and international visitors. In cases where tribal law supersedes state laws, tribes should make every effort to try to be consistent with state codes while also maintaining their own tribal codes. Multi-hazard signs that include the tsunami hazard are adequate for this item.</p>
+						</div>
+						</div>
+
+						<div class="ui-accordion ui-widget ui-helper-reset" id="accordion">
+						<h4 class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all" style="background-color:#;"><a class="toggle" id="#rsc2"><span class="control">+</span>Preparedness (PREP)</a></h4>
+
+						<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="rsc2">
+						<div class="CollapsiblePanelContent">&nbsp;
+						<p><strong>PREP&ndash;1. Produce easily understood tsunami evacuation maps as determined to be appropriate by local authorities</strong> that depict tsunami evacuation routes and assembly areas (see MIT-1). Maps should be based on tsunami hazard zone mapping and in accordance with the community&rsquo;s emergency operations plan. Maps should be made available via appropriate print and/or digital media.</p>
+
+						<p><em>Note:</em> <em>for communities on the coasts of the Atlantic Ocean or Gulf of America, a &ldquo;baseline tsunami hazard zone&rdquo; has been prepared and, where observed, is approved to meet this guideline. </em></p>
+
+						<p><strong>PREP&ndash;2. Support an ongoing sustained tsunami public education effort. This effort should include the development and distribution of outreach materials</strong> that include, where appropriate, tsunami evacuation maps, evacuation routes, safety tips, and information about when and how to respond to warnings (including natural warnings for regions with a local tsunami threat). They should be tailored to meet local information needs and be based on location-specific tsunami threats. Distribution should use <u>three or more</u> wide-reaching diverse methods, including, but not limited to</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Brochures and flyers distributed at public venues and/or bulk mailed to local residents and businesses</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Newspaper inserts</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public utility/service industry bill safety notices</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local faith-based and civic organization bulletins/mailings</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local radio and television</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Billboard, roadside, highway, or educational signs</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Historical markers and interpretative signs</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Websites/social media</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Bulk email</span></li>
+						</ul>
+
+						<p>Possible physical locations for distribution of materials include:</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Visitor centers and local tourist businesses (e.g., restaurants, bars)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Hotels, motels, and campgrounds where visitors to beach areas stay</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public libraries</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Community centers</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Recreation centers</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Kiosks or information centers in places where the public visits (e.g., malls, stores, etc.)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Child care centers</span></li>
+						</ul>
+
+						<p class="bullet"><strong>PREP&ndash;3. Support an ongoing sustained tsunami education effort specific to public schools in coastal community pursuing TsunamiReady recognition. </strong>This effort can leverage the outreach materials from PREP-2 but should also be augmented if needed to cover tsunami threats specific to any given school. Distribution can be through existing state, regional, or local educational governing bodies but cover letters transmitting materials should be included that provide schools with a means to get support from the responsible community&rsquo;s TsunamiReady Board. Distribution to all schools in the tsunami hazard zone should occur for initial TsunamiReady recognition and then again every three years. At the discretion of the responsible TsunamiReady Board, and to address the cases where the tsunami hazard zone represents a very small percentage of total area of the community, the distribution can be limited to schools that are in or near the tsunami hazard zone. This applies to both the initial and periodic distribution. This distribution should also occur for private schools when possible.</p>
+
+						<p bullet=""><strong>PREP&ndash;4. Hold at least one community-wide outreach or education activity <u>annually</u></strong> to educate community residents, businesses, and visitors, with an emphasis on those in the tsunami hazard zone, on tsunami hazards, evacuation routes, how warning information will be received (including natural warnings for regions with a local tsunami threat), safety, and response. These activities may be multi-hazard as long as they include tsunamis in the content. The number of activities required for a given community is to be determined by the responsible TsunamiReady Board but will generally include at least one community-wide event and/or multiple smaller scale events.</p>
+
+						<p class="bullet">Acceptable activities include, but are not limited to:</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Leveraging of national, state, and regional campaigns through use of social media</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Multi-hazard events or presentations</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Adding on to <em>The Great Shakeout</em> drills and practice</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Booths at community events and county fairs</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Community tsunami safety workshops, town halls, or similar public meetings</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Presentations or workshops for faith-based organizations, community or civic groups</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local public safety campaigns, such as &ldquo;Tsunami Preparedness&rdquo; week/month</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local business workshops to help them develop response and business continuity plans</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Information for business owners for employee training, outreach, or education that targets high-occupancy businesses in tsunami hazard zones (e.g., hotels, restaurants, fisheries, industrial sites)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Door-to-door safety campaigns targeted to residents and businesses who live or work in the community&rsquo;s tsunami hazard zone</span></li>
+						</ul>
+
+						<p><strong>PREP&ndash;5. Conduct community exercises that reinforce the concepts contained in PREP-1 through PREP-4. </strong>The exercises can focus solely on the tsunami hazard or can be a multi-hazard exercise that also addresses the tsunami hazard. One exercise should be conducted for initial Tsunami Ready recognition and then at least one other should be conducted <u>within the three-year period following recognition</u>. The exercises could be tabletop, functional, or full-scale.</p>
+
+						<p><strong>PREP&ndash;6. Conduct evacuation drills for all public schools in the mapped tsunami evacuation zone to reinforce the concepts contained in PREP-1 through PREP-4</strong>. Evacuation drills should be conducted <u>annually</u> but can be conducted as part of a multi-hazard drill (for example, combined with a fire evacuation drill). Private schools in the tsunami evacuation zone should be encouraged to also conduct annual evacuation drills.</p>
+						</div>
+						</div>
+
+						<div class="ui-accordion ui-widget ui-helper-reset" id="accordion">
+						<h4 class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all" style="background-color:#;"><a class="toggle" id="#rsc3"><span class="control">+</span>Response (RESP)</a></h4>
+
+						<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="rsc3">
+						<p><strong>RESP&ndash;1. Address tsunami hazards in the community&rsquo;s emergency operations plan (EOP).</strong> If a community-level plan does not exist, other acceptable plans include a countywide EOP or a state or local comprehensive emergency management plan. To meet this requirement, plans should:</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Identify tsunami as a hazard and provide a risk assessment</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Detail 24-hour warning point procedures relating to tsunamis</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Specify emergency operations center activation criteria and staffing expectations</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Specify tsunami criteria and procedures for the activation of the public warning system in its area of responsibility.<br />
+							-- Criteria and procedures for siren activation, cable television override, and/or local activation in accordance with state EAS plans, warning fan-out procedures, and communication to functional and access needs populations</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Provide contact information for all jurisdictional agencies and response partners, including the NWS</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Include evacuation plans for tsunamis, roles of community entities/agencies, tsunami hazard zone maps with evacuation routes, and protocols for access and functional needs populations</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Include procedures for updating information and determining when to advise it is safe for (1) emergency response personnel to enter the evacuated zones and (2) public to return to homes and businesses in the evacuated zone(s)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Include procedures for providing security for the evacuated zone(s)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Include procedures for reporting tsunami impacts in the community</span></li>
+						</ul>
+
+						<p><strong>RESP&ndash;2. Address tsunami hazards in the emergency operations plans (EOP) for all public schools in the tsunami hazard zone</strong>, or have a section in community&rsquo;s emergency operations plan (EOP), from RESP-1, that addresses emergency operations for public schools in the community. Encourage this for private schools.</p>
+
+						<p><strong>RESP&ndash;3. Commit to supporting the emergency operations center (EOC) during tsunami incidents if an EOC is opened and activated. </strong>Ensure that the EOC can execute tsunami warning functions (public notifications) based on predetermined guidelines related to NWS tsunami information and/or tsunami incidents.</p>
+
+						<p><em>Note: this applies only for communities with a year-round population of 15,000 or more. For communities with less than a 15,000 year-round population, there must be ties to an EOC serving that community.</em></p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Has 24-hour operations or plan to activate an EOC for tsunami incidents in accordance with the EOP</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Has warning reception and dissemination capability</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Has the ability and authority to activate the public warning system in its area of responsibility</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Maintains the ability to communicate within and across jurisdictions (e.g., with other EOCs, including those maintained by private organizations, incident command posts, etc.); communication capabilities should be equal to or better than the communication/ dispatch center</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Maintains established communication links with NWS (e.g., NWSChat, phone, etc.) to relay real-time weather and flood reports to support the warning decision making process</span></li>
+						</ul>
+
+						<p><strong>RESP&ndash;4. Have redundant and reliable means for a 24-hour warning point (and EOC if activated) <u>to receive</u> official tsunami watch, advisory, and warning alerts</strong> from NOAA Tsunami Warning Centers, local NWS Offices, or other officially recognized U.S.-based agencies such as state and local emergency management agencies<strong>. </strong>Alerts must be able to reach the 24-hour warning point by <u>at least three</u> of the following:</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public Alert-certified NOAA Weather Radio (NWR) receiver: <strong><em>Required</em></strong> <em>for recognition only if within reliable reception range of a NWR transmitter</em></span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Statewide warning fan-out notification system (documented in writing with backup indicated)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">NOAAPORT receiving station</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">National Warning System (NAWAS) drop: FEMA-controlled, 24-hour, continuous-private-line telephone system used to convey warnings to federal, state and local governments, as well as the military and civilian population</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">NWSChat: An instant messaging program available via the Internet used by NWS operational personnel to share critical warning decision expertise and other significant weather information</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Emergency Management Weather Information Network (EMWIN) receiver: Device that receives satellite feed and/or VHF radio transmission of NWS products</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Statewide telecommunications system: Automatic relay of NWS products, usually on law enforcement systems</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">California Integrated Seismic Network (CISN) Display Program</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Amateur Radio transceiver: Potential communications directly to NWS office</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Alerts provided through a third-party provider: Typically received via phone, email and/or a texting service to a smartphone, tablet, or computer</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local Radio: Emergency Alert System, LP1/LP2</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Active Internet monitoring capability, including social media such as Facebook and Twitter</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">NOAA Weather Wire drop: Satellite downlink data feed from NWS</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Direct email from Tsunami Warning Center</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Direct fax from Tsunami Warning Center</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Text message or direct pager message from Tsunami Warning Center</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">U.S. Coast Guard (USCG) broadcasts: warning point monitoring of USCG marine channels</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Other communications channel (e.g., active participation in a state-run warning network, two-way, local emergency responder radio network, etc.), please explain</span></li>
+						</ul>
+
+						<p><em>Note: Wireless Emergency Alerts (WEA) are NOT included as a means of receiving tsunami alerts because WEA is only activated for the first tsunami warning and not for other levels of alerts (Tsunami Advisory, Tsunami Watch, Tsunami Information Statement). Also, WEA does not work everywhere.</em></p>
+
+						<p><strong>RESP&ndash;5. Have redundant and reliable means for 24-hour warning point and/or EOC <u>to disseminate</u> official tsunami watch, advisory, and warning alerts to the public. </strong>Alerts must be able to be disseminated from the 24-hour Warning Point and/or EOC through <u>at least three</u> of the following methods:</p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Emergency Alert System (EAS) message initiation and broadcast</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Cable television audio/video overrides</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local flood warning systems ideally with no single point of failure</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Plan for siren/megaphone notification on emergency vehicles</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Outdoor warning sirens</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Other local alert broadcast system</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Local pager/texting system</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Amateur radio operator network (ham radio)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Telephone mass notification system</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Telephone tree to critical facilities</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Coordinated jurisdiction-wide radio network</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">For counties, parishes, boroughs, etc., a countywide communications network that ensures the flow of information between all cities and towns within its borders, including acting as the surrogate warning point and/or EOC for communities without those capabilities</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Social media usage (Twitter, Facebook, etc.)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Lifeguards on beaches and on patrol</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Other, please explain</span></li>
+						</ul>
+
+						<p>All response requirements should recognize that during a local tsunami event, initial response would be performed primarily by at-risk individuals. Individuals in local tsunamis, including emergency personnel, will need to take personal responsibility for evacuating after recognizing the natural warnings or environmental cues of a possible or imminent tsunami (e.g., ground shaking from an earthquake, unusual rapid rise or fall of a shoreline). Official communications and warnings may be difficult to perform given the potential for infrastructure and telecommunication damage from the preceding earthquake and the limited time between the generation and arrival of the first wave in the tsunami.</p>
+
+						<p><strong>RESP&ndash;6. Have Public Alert-certified</strong> <strong>NOAA Weather Radio (NWR) receivers in critical facilities and public venues</strong> in and around the tsunami evacuation zone (where reception is available), including:</p>
+
+						<p><strong>Required locations:</strong></p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Communication/dispatch center serving as the 24-hour warning point</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">EOC or standby location (such as a conference room) that will become a defacto EOC, if designated</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">City hall, county courthouse, or similar local elected executive office building</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public school superintendent&rsquo;s office&mdash;for all public school jurisdiction(s) in tsunami evacuation zones</span></li>
+						</ul>
+
+						<p><strong>Recommended, but not required, locations:</strong></p>
+
+						<ul>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Courthouses</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public school superintendent&rsquo;s office&mdash;for all public school jurisdiction(s) in tsunami hazard zones (different from tsunami evacuation zone under &ldquo;required&rdquo; above)</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Private school headmaster&rsquo;s (or equivalent) office&mdash;for all private schools with a student population exceeding 100</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public libraries</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Recreation centers</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Community centers</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Hospitals</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">All schools, usually located in principal&rsquo;s or designee&rsquo;s office</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Childcare centers</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Fairgrounds, parks and recreation areas*</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Public utilities*</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Large-event venues, e.g., arenas, stadiums, etc.*</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Transportation departments*</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Nursing homes/assisted living facilities*</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Harbor masters&rsquo; offices</span></li>
+							<li class="bullet"><span style="font-family:arial,helvetica,sans-serif;">Life guard towers</span></li>
+						</ul>
+
+						<p>*<em>Note: usually, the NWR receivers would be located in the primary management office/facility that is accessible 24/7 (where appropriate) and has the authority to alter operations and the ability to order protective actions based on the NWS hazardous weather or flood warning received. </em></p>
+
+						<p><strong>RESP&ndash;7. Conduct emergency operations plan exercises that test at least one component of the community&rsquo;s EOP or one item from RESP-4 through RESP-6</strong>. These exercises can be part of a multi-hazard exercise and/or can be part of an exercise that satisfies the PREP-5 requirement to conduct a community exercise. One exercise should be conducted for initial Tsunami Ready recognition and at least one other should be conducted within the three-year period following recognition. The exercises could be tabletop, functional, or full-scale.</p>
+						</div>
+						</div>
+						&nbsp;
+
+						<p>For recommendations about additional activities to supplement TsunamiReady efforts, see <a href="/media/tsunamiready/resources/TRTierTwo.pdf">TsunamiReady Guidelines: Tier Two</a> and <a href="/media/tsunamiready/resources/TROther.pdf">Other Recommended Efforts to Increase Community Resilience</a>.</p>
+						</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td align="right" valign="top" width="300"><a href="https://www.tsunamiready.noaa.gov/index.html"><img alt="tsunamiready logo" src="/images/tsunamiready/trlogo.png" style="width: 200px; height: 65px;" /></a><br />
+			<br />
+			<img alt="TsunamiReady Navigation bar, hover for links" src="/images/tsunamiready/rightnavbar-tr.png" style="border-width: 0px; border-style: solid; float: right; width: 250px; height: 362px;" usemap="#Map" /><map id="Map" name="Map"><area alt="TsunamiReady Home" coords="17,18,244,44" href="https://www.weather.gov/tsunamiready/" shape="rect" /> <area alt="How to become TsunamiReady" coords="18,54,235,80" href="https://www.weather.gov/tsunamiready/become" shape="rect" /> <area alt="TsunamiReady Communities" coords="12,92,237,120" href="https://www.weather.gov/tsunamiready/communities" shape="rect" /> <area alt="TsunamiReady Supporters" coords="15,130,236,156" href="https://www.weather.gov/tsunamiready/supporters" shape="rect" /> <area alt="Tsunami frequently asked questions" coords="18,167,236,193" href="https://www.weather.gov/tsunamiready/faqs" shape="rect" /> <area alt="TsunamiReady resources, graphics and links" coords="16,237,234,267" href="https://www.weather.gov/tsunamiready/links" shape="rect" /> <area alt="StormReady home page" coords="20,276,235,309" href="https://www.weather.gov/stormready/" shape="rect" target="_blank" /> <area alt="Weather-Ready Nation link" coords="29,321,229,347" href="http://www.weather.gov/wrn/" shape="rect" target="_blank" /> <area alt="TsunamiReady logos and signs" coords="13,205,220,231" href="https://www.weather.gov/tsunamiready/logos_signs" /></map>
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#coin-slider').coinslider({ width: 960, height: 318 ,hoverPause: true, navigation: true, effect: 'straight', delay: 10000, spw: 3, sph: 2 });
+	});
+    </script><script>var headers = $('#accordion .accordion-header');
+var contentAreas = $('#accordion .ui-accordion-content ').hide();
+var expandLink = $('.accordion-expand-all');
+
+// add the accordion functionality
+headers.click(function() {
+    var panel = $(this).next();
+    var isOpen = panel.is(':visible');
+ 
+    // open or close as necessary
+    panel[isOpen? 'slideUp': 'slideDown']()
+        // trigger the correct custom event
+        .trigger(isOpen? 'hide': 'show');
+
+    // stop the link from causing a pagescroll
+    return false;
+});
+
+// hook up the expand/collapse all
+expandLink.click(function(){
+    var isAllOpen = $(this).data('isAllOpen');
+    
+    contentAreas[isAllOpen? 'hide': 'show']()
+        .trigger(isAllOpen? 'hide': 'show');
+});
+
+// when panels open or close, check to see if they're all open
+contentAreas.on({
+    // whenever we open a panel, check to see if they're all open
+    // if all open, swap the button to collapser
+    show: function(){
+        var isAllOpen = !contentAreas.is(':hidden');   
+        if(isAllOpen){
+            expandLink.text('Collapse All')
+                .data('isAllOpen', true);
+        }
+    },
+    // whenever we close a panel, check to see if they're all open
+    // if not all open, swap the button to expander
+    hide: function(){
+        var isAllOpen = !contentAreas.is(':hidden');
+        if(!isAllOpen){
+            expandLink.text('Expand all')
+            .data('isAllOpen', false);
+        } 
+    }
+});
+</script><script type="text/javascript">
+
+jQuery.imageMagnify={
+	dsettings: {
+		magnifyby: 2, //default increase factor of enlarged image (was set to 3 originally)
+		duration: 500, //default duration of animation, in millisec
+		imgopacity: 0.2 //opacify of original image when enlarged image overlays it
+ 	},
+	zIndexcounter: 100,
+
+	refreshoffsets:function($window, $target, warpshell){
+		var $offsets=$target.offset()
+		var winattrs={x:$window.scrollLeft(), y:$window.scrollTop(), w:$window.width(), h:$window.height()}
+		warpshell.attrs.x=$offsets.left //update x position of original image relative to page
+		warpshell.attrs.y=$offsets.top
+		warpshell.newattrs.x=winattrs.x+winattrs.w/2-warpshell.newattrs.w/2
+		warpshell.newattrs.y=winattrs.y+winattrs.h/2-warpshell.newattrs.h/2
+		if (warpshell.newattrs.x<winattrs.x+5){ //no space to the left?
+			warpshell.newattrs.x=winattrs.x+5	
+		}
+		else if (warpshell.newattrs.x+warpshell.newattrs.w > winattrs.x+winattrs.w){//no space to the right?
+			warpshell.newattrs.x=winattrs.x+5
+		}
+		if (warpshell.newattrs.y<winattrs.y+5){ //no space at the top?
+			warpshell.newattrs.y=winattrs.y+5
+		}
+	},
+
+	magnify:function($, $target, options){
+		var setting={} //create blank object to store combined settings
+		var setting=jQuery.extend(setting, this.dsettings, options)
+		var attrs=(options.thumbdimensions)? {w:options.thumbdimensions[0], h:options.thumbdimensions[1]} : {w:$target.outerWidth(), h:$target.outerHeight()}
+		var newattrs={}
+		newattrs.w=(setting.magnifyto)? setting.magnifyto : Math.round(attrs.w*setting.magnifyby)
+		newattrs.h=(setting.magnifyto)? Math.round(attrs.h*newattrs.w/attrs.w) : Math.round(attrs.h*setting.magnifyby)
+		if ($target.data('imgshell')){
+			$target.data('imgshell').$clone.remove()
+			$target.css({opacity:1}).unbind('click.magnify')
+		}	
+		var $clone=$target.clone().css({position:'absolute', left:0, top:0, visibility:'hidden', border:'1px solid gray', cursor:'pointer'}).appendTo(document.body)
+		$clone.data('$relatedtarget', $target) //save $target image this enlarged image is associated with
+		$target.data('imgshell', {$clone:$clone, attrs:attrs, newattrs:newattrs})
+		$target.bind('click.magnify', function(e){ //action when original image is clicked on
+			var $this=$(this).css({opacity:setting.imgopacity})
+			var imageinfo=$this.data('imgshell')
+			jQuery.imageMagnify.refreshoffsets($(window), $this, imageinfo) //refresh offset positions of original and warped images
+			var $clone=imageinfo.$clone
+			$clone.stop().css({zIndex:++jQuery.imageMagnify.zIndexcounter, left:imageinfo.attrs.x, top:imageinfo.attrs.y, width:imageinfo.attrs.w, height:imageinfo.attrs.h, opacity:0, visibility:'visible', display:'block'})
+			.animate({opacity:1, left:imageinfo.newattrs.x, top:imageinfo.newattrs.y, width:imageinfo.newattrs.w, height:imageinfo.newattrs.h}, setting.duration,
+			function(){ //callback function after warping is complete
+				//none added		
+			}) //end animate
+		}) //end click
+		$clone.click(function(e){ //action when magnified image is clicked on
+			var $this=$(this)
+			var imageinfo=$this.data('$relatedtarget').data('imgshell')
+			jQuery.imageMagnify.refreshoffsets($(window), $this.data('$relatedtarget'), imageinfo) //refresh offset positions of original and warped images
+			$this.stop().animate({opacity:0, left:imageinfo.attrs.x, top:imageinfo.attrs.y, width:imageinfo.attrs.w, height:imageinfo.attrs.h},  setting.duration,
+			function(){
+				$this.hide()
+				$this.data('$relatedtarget').css({opacity:1}) //reveal original image
+			}) //end animate
+		}) //end click
+
+	}
+};
+
+jQuery.fn.imageMagnify=function(options){
+	var $=jQuery
+	return this.each(function(){ //return jQuery obj
+		var $imgref=$(this)
+		if (this.tagName!="IMG")
+			return true //skip to next matched element
+		if (parseInt($imgref.css('width'))>0 && parseInt($imgref.css('height'))>0 || options.thumbdimensions){ //if image has explicit width/height attrs defined
+			jQuery.imageMagnify.magnify($, $imgref, options)
+		}
+		else if (this.complete){ //account for IE not firing image.onload
+			jQuery.imageMagnify.magnify($, $imgref, options)
+		}
+		else{
+			$(this).bind('load', function(){
+				jQuery.imageMagnify.magnify($, $imgref, options)
+			})
+		}
+	})
+};
+
+jQuery.fn.applyMagnifier=function(options){ //dynamic version of imageMagnify() to apply magnify effect to an image dynamically
+	var $=jQuery
+	return this.each(function(){ //return jQuery obj
+		var $imgref=$(this)
+		if (this.tagName!="IMG")
+			return true //skip to next matched element
+		
+	})	
+
+};
+
+
+//** The following applies the magnify effect to images with class="magnify" and optional "data-magnifyby" and "data-magnifyduration" attrs
+//** It also looks for links with attr rel="magnify[targetimageid]" and makes them togglers for that image
+
+jQuery(document).ready(function($){
+	var $targets=$('.magnify')
+	$targets.each(function(i){
+		var $target=$(this)
+		var options={}
+		if ($target.attr('data-magnifyto'))
+			options.magnifyto=parseFloat($target.attr('data-magnifyto'))
+		if ($target.attr('data-magnifyby'))
+			options.magnifyby=parseFloat($target.attr('data-magnifyby'))
+		if ($target.attr('data-magnifyduration'))
+			options.duration=parseInt($target.attr('data-magnifyduration'))
+		$target.imageMagnify(options)
+	})
+	var $triggers=$('a[rel^="magnify["]')
+	$triggers.each(function(i){
+		var $trigger=$(this)
+		var targetid=$trigger.attr('rel').match(/\[.+\]/)[0].replace(/[\[\]']/g, '') //parse 'id' from rel='magnify[id]'
+		$trigger.data('magnifyimageid', targetid)
+		$trigger.click(function(e){
+			$('#'+$(this).data('magnifyimageid')).trigger('click.magnify')
+			e.preventDefault()
+		})
+	})
+})
+
+</script><script>
+$(document).ready(function() {
+  $('img.nocache').each(function () {
+      var $this = $(this);
+      $this.attr('src', noCache($this.attr('src')));
+  });
+});
+function noCache(url) {
+  return url + (url.indexOf('?') >= 0 ? '&nocache=' : '?') + $.now();
+}
+</script><script type="text/javascript">
+					$(document).ready(function() {
+						function toggleBlock() {
+							$($(this).attr("id")).toggle();
+							if ($($(this).attr("id")).css("display") == "none" ) {
+								$(this).children(".control").html("&#43;");
+							}
+							else {
+								$(this).children(".control").html("&ndash;");
+							};
+							return false;
+						}						
+
+						$("div.toggle:gt(0)").css({'display':'none'});
+						$("a.toggle").attr("title","Click to expand and contract");
+						$("a.toggle").click(toggleBlock);
+						$(".atoggle").keypress(toggleBlock);						
+
+					});
+			</script></div>
+
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+  
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+                </div><!-- <div class="full-width-border"> -->
+
+                <div class="partial-width-borderbottom feature-block">
+                    <!-- area for features, frontpage thumbs, and custom page -->
+                    
+                    
+                </div><!-- end of <div class="partial-width-borderbottom feature-block"> -->
+
+                <div class="full-width-first">
+                    
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                TsunamiReady®<br />                1325 East-West Highway<br />
+                                Silver Spring, MD 20910
+                <br /><br />
+                <br /><a href="mailto:wrn.feedback@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>

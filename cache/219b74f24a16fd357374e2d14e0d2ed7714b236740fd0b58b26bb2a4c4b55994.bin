@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head><script>(function(w,i,g){w[g]=w[g]||[];if(typeof w[g].push=='function')w[g].push(i)})
+(window,'GTM-MHBXVMN','google_tags_first_party');</script><script>(function(w,d,s,l){w[l]=w[l]||[];(function(){w[l].push(arguments);})('set', 'developer_id.dY2E1Nz', true);
+		var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s);j.async=true;j.src='/lf0u/';
+		f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer');</script>
+      <meta name="mt-require-ad-consent" content="true">
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    // Consent Mode v2 — region-scoped defaults.
+    // Ads stay denied by default everywhere; server-side CAPI applies LDU based
+    // on the mt_ad_storage cookie. Analytics is granted by default so GA4
+    // sessions/landing pages work under the US opt-out regime, then denied below
+    // for the EEA/UK/Switzerland opt-in regions (where GA4 runs cookieless until
+    // a CMP calls gtag('consent','update',{analytics_storage:'granted'})).
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'granted',
+      wait_for_update: 500
+    });
+
+    // Opt-in regions: deny analytics until a CMP grants it. A region-scoped
+    // default takes precedence over the global default for these regions.
+    gtag('consent', 'default', {
+      analytics_storage: 'denied',
+      region: [
+        'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
+        'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
+        'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'GB', 'CH'
+      ]
+    });
+
+    // Consent Mode modeling helpers. url_passthrough forwards gclid/dclid/gbraid
+    // through in-site navigation URLs so attribution survives when ad_storage is
+    // denied (directly mitigates the click-ID loss on cookieless purchases).
+    // ads_data_redaction strips ad identifiers from network requests while
+    // ad_storage is denied, keeping the denied state privacy-safe.
+    gtag('set', 'url_passthrough', true);
+    gtag('set', 'ads_data_redaction', true);
+
+    // Mirror Consent Mode ad_storage to mt_ad_storage for server-side CAPI gating.
+    (function () {
+      var maxAge = 60 * 60 * 24 * 365;
+      function writeAdStorageCookie(granted) {
+        var value = granted ? 'granted' : 'denied';
+        var secure = window.location.protocol === 'https:' ? '; Secure' : '';
+        document.cookie = 'mt_ad_storage=' + value + '; path=/; max-age=' + maxAge + '; SameSite=Lax' + secure;
+      }
+      window.mtSyncAdConsentCookie = function (consent) {
+        writeAdStorageCookie(consent && consent.ad_storage === 'granted');
+      };
+      // Do not default mt_ad_storage to denied here — that clobbers a granted
+      // cookie on every navigation and races server CAPI on the redirect GET
+      // after signup. Only write when Consent Mode updates fire below.
+
+      var dl = window.dataLayer;
+      var originalPush = dl.push;
+      dl.push = function () {
+        for (var i = 0; i < arguments.length; i++) {
+          var entry = arguments[i];
+          if (entry && entry[0] === 'consent' && entry[1] === 'update' && entry[2]) {
+            window.mtSyncAdConsentCookie(entry[2]);
+          }
+        }
+        return originalPush.apply(dl, arguments);
+      };
+    })();
+
+    window.dataLayer.push({
+      'user_logged_in': false,
+      'gpc_opt_out': navigator.globalPrivacyControl === true
+    });
+  </script>
+  <script>
+  (function () {
+    if (window.__mtMetaWebEventsStarted) return;
+    window.__mtMetaWebEventsStarted = true;
+    if (false) return;
+
+    var pageViewUrl = '/conversions/page_view';
+    var checkoutUrl = '/conversions/initiate_checkout';
+
+    function privacyBlocked() {
+      if (window.navigator && window.navigator.globalPrivacyControl) return true;
+      if (navigator.doNotTrack === '1' || window.doNotTrack === '1') return true;
+      return false;
+    }
+
+    function uuid() {
+      if (window.crypto && typeof window.crypto.randomUUID === 'function') {
+        return window.crypto.randomUUID();
+      }
+      return null;
+    }
+
+    function post(url, eventId) {
+      fetch(url, {
+        method: 'POST',
+        keepalive: true,
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        body: JSON.stringify({ event_id: eventId, source_url: window.location.href })
+      });
+    }
+
+    function whenFbq(done) {
+      if (typeof window.fbq === 'function') {
+        done();
+        return;
+      }
+      var started = Date.now();
+      var timer = window.setInterval(function () {
+        if (typeof window.fbq === 'function' || Date.now() - started >= 2000) {
+          window.clearInterval(timer);
+          done();
+        }
+      }, 50);
+    }
+
+    function trackPageView() {
+      if (privacyBlocked()) return;
+      var eventId = uuid();
+      if (!eventId) return;
+      whenFbq(function () {
+        if (typeof window.fbq === 'function') {
+          window.fbq('track', 'PageView', {}, { eventID: eventId });
+        }
+        post(pageViewUrl, eventId);
+      });
+    }
+
+    function trackCheckout() {
+      if (privacyBlocked()) return;
+      var eventId = uuid();
+      if (!eventId) return;
+      if (typeof window.fbq === 'function') {
+        window.fbq('track', 'InitiateCheckout', {}, { eventID: eventId });
+      }
+      post(checkoutUrl, eventId);
+    }
+
+    document.addEventListener('click', function (event) {
+      var node = event.target;
+      var target = node && node.closest ? node.closest('[data-mt-cta="initiate_checkout"]') : null;
+      if (!target) return;
+      trackCheckout();
+    });
+
+    function bindPageViews() {
+      if (window.Turbo) {
+        document.addEventListener('turbo:load', trackPageView);
+        return;
+      }
+      trackPageView();
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', bindPageViews);
+    } else {
+      bindPageViews();
+    }
+  })();
+</script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer'
+          ? '&l=' + l
+          : '';
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MHBXVMN');
+  </script>
+  <!-- End Google Tag Manager -->
+    <!-- Start VWO Async SmartCode -->
+    <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"/>
+    <script type='text/javascript' data-cfasync="false" id='vwoCode'>
+      window._vwo_code || (function() {
+      var account_id=875680,
+      version=2.1,
+      settings_tolerance=2000,
+      hide_element='body',
+      hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+      /* DO NOT EDIT BELOW THIS LINE */
+      f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;display: block !important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init();})();
+    </script>
+    <!-- End VWO Async SmartCode -->
+
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Managing Trauma During Pregnancy: Essential Guidelines an...</title>
+<meta name="title" content="Managing Trauma During Pregnancy: Essential Guidelines an...">
+<meta name="description" content="Discover comprehensive guidelines and protocols for managing trauma during pregnancy. Learn about the unique considerations, assessment techniques, and"/>
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://medictests.com/units/trauma-during-pregnancy">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+<meta name="apple-mobile-web-app-title" content="MedicTests"/>
+<link rel="manifest" href="/site.webmanifest"/>
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Language" content="en">
+<meta name="author" content="MedicTests LLC">
+<link rel="alternate" type="text/plain" href="https://medictests.com/llms.txt" title="LLMs.txt">
+<link rel="alternate" type="text/plain" href="https://medictests.com/llms-full.txt" title="LLMs-full.txt">
+<!-- Resource hints -->
+
+
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+<link rel="preconnect" href="https://kit.fontawesome.com" crossorigin>
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="MedicTests">
+<meta property="og:url" content="https://medictests.com/units/trauma-during-pregnancy">
+<meta property="og:title" content="Managing Trauma During Pregnancy: Essential Guidelines an...">
+<meta property="og:description" content="Discover comprehensive guidelines and protocols for managing trauma during pregnancy. Learn about the unique considerations, assessment techniques, and">
+<meta property="og:image" content="https://medictests.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Managing Trauma During Pregnancy: Essential Guidelines an...">
+<meta property="og:locale" content="en_US">
+    <meta property="article:published_time" content="2018-09-12T08:56:00-04:00">
+    <meta property="article:modified_time" content="2026-11-01T02:00:31-05:00">
+  <meta property="article:author" content="MedicTests">
+  <meta property="article:section" content="Trauma">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@medictests">
+<meta name="twitter:url" content="https://medictests.com/units/trauma-during-pregnancy">
+<meta name="twitter:title" content="Managing Trauma During Pregnancy: Essential Guidelines an...">
+<meta name="twitter:description" content="Discover comprehensive guidelines and protocols for managing trauma during pregnancy. Learn about the unique considerations, assessment techniques, and">
+<meta name="twitter:image" content="https://medictests.com/og-image.jpg">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="x-2THboOlo6r8XuUv90v_W1Cnodq-5hpVK5Nc3VysHoC4FdUAdSeakIDnp4LNhll4xxXtY9QC7cutqU_6DyCAA" />
+<meta name="csp-nonce" />
+
+<meta name="sentry-release" content="mt-rails-47ebe43">
+<meta name="sentry-dsn" content="https://d46252307d572ade9ffed68cc3cbd414@o219994.ingest.us.sentry.io/4509114306920448">
+<meta name="sentry-environment" content="production">
+
+    <script>
+//<![CDATA[
+window.gon={};gon.quiz_id=24536752;
+//]]>
+</script>
+    
+    
+    <style type="text/css">@font-face {font-family:'Cabin';font-style:normal;font-weight:400;src:url(/cf-fonts/v/cabin/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:400;src:url(/cf-fonts/v/cabin/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:400;src:url(/cf-fonts/v/cabin/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:500;src:url(/cf-fonts/v/cabin/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:500;src:url(/cf-fonts/v/cabin/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:500;src:url(/cf-fonts/v/cabin/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:600;src:url(/cf-fonts/v/cabin/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:600;src:url(/cf-fonts/v/cabin/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:600;src:url(/cf-fonts/v/cabin/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:700;src:url(/cf-fonts/v/cabin/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:700;src:url(/cf-fonts/v/cabin/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Cabin';font-style:normal;font-weight:700;src:url(/cf-fonts/v/cabin/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/hebrew/wght/normal.woff2);unicode-range:U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/math/wght/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/symbols/wght/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/open-sans/5.2.7/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/symbols/wght/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/math/wght/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/open-sans/5.2.7/hebrew/wght/normal.woff2);unicode-range:U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/hebrew/wght/normal.woff2);unicode-range:U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/symbols/wght/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/open-sans/5.2.7/math/wght/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/symbols/wght/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/math/wght/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/open-sans/5.2.7/hebrew/wght/normal.woff2);unicode-range:U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/hebrew/wght/normal.woff2);unicode-range:U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/symbols/wght/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/math/wght/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/open-sans/5.2.7/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}</style>
+    <script src="https://kit.fontawesome.com/2086b6b6ec.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/assets/application-573b64d87a60e30e2a7acca8de37ba21b4036f9952a731fd8941d85365b39a3e.css" media="all" />
+    <script src="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.js" integrity="sha512-iILlngu0qmiyIkOH6MV1RWSya+DL2uzo0cb/nKR4hqwz9H+Xnop1++f8TMw1j5CdbutXGkBUyfRUfg/hmNBfZg==" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" integrity="sha512-pKdIPri9vb1aqcci9Rsl1xO7n74wHe5+RMcqRufN36EnXVtOsbct0VKDtBdhAnSCqZeny2jiZBSpXp0iDSzZ+Q==" crossorigin="anonymous">
+      <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js" integrity="sha512-v80Z62SYCVHA3UxmFG69Vclopt+3ngQDocRjtxnB3htcTs6l9mnXc6SixuDae1rJ3L2J6p2KAuG+soHbhVd+6g==" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" integrity="sha512-hfp7UiPWaDAND/ZE+RrbMpthca5iYNxJl/uWQTOqeZqur4C6Y/kiDUsBKoUeQTvyz6EJFyDrtPefVpidGFzk+Q==" crossorigin="anonymous"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Library", "item": "https://medictests.com/categories" },
+        { "@type": "ListItem", "position": 2, "name": "Trauma", "item": "https://medictests.com/categories/trauma" },
+        { "@type": "ListItem", "position": 3, "name": "Special Considerations in Trauma", "item": "https://medictests.com/topics/special-considerations-in-trauma" },
+        { "@type": "ListItem", "position": 4, "name": "Trauma During Pregnancy", "item": "https://medictests.com/units/trauma-during-pregnancy" }
+      ]
+    }
+    </script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":["MedicalWebPage","LearningResource","Article"],"@id":"https://medictests.com/units/trauma-during-pregnancy","name":"Trauma During Pregnancy","headline":"Trauma During Pregnancy","description":"Discover comprehensive guidelines and protocols for managing trauma during pregnancy. Learn about the unique considerations, assessment techniques, and treatment strategies to ensure the safety of both the mother and the fetus in traumatic situations.","url":"https://medictests.com/units/trauma-during-pregnancy","mainEntityOfPage":{"@type":"WebPage","@id":"https://medictests.com/units/trauma-during-pregnancy"},"inLanguage":"en","educationalLevel":"EMT","learningResourceType":"Study Guide","wordCount":894,"dateModified":"2026-11-01T02:00:31-05:00","author":{"@type":"EducationalOrganization","name":"MedicTests","url":"https://medictests.com"},"publisher":{"@type":"EducationalOrganization","name":"MedicTests","url":"https://medictests.com"},"provider":{"@type":"EducationalOrganization","name":"MedicTests","url":"https://medictests.com"},"isPartOf":{"@type":"Course","name":"Special Considerations in Trauma","provider":{"@type":"EducationalOrganization","name":"MedicTests","url":"https://medictests.com"}},"about":{"@type":"MedicalCondition","name":"Special Considerations in Trauma"},"specialty":{"@type":"MedicalSpecialty","name":"Emergency Medicine"},"audience":{"@type":"MedicalAudience","audienceType":"EMT, AEMT, Paramedic, Critical Care"},"timeRequired":"PT14M","speakable":{"@type":"SpeakableSpecification","cssSelector":[".card-header h1","#unit-body"]},"datePublished":"2018-09-12T08:56:00-04:00","interactionStatistic":{"@type":"InteractionCounter","interactionType":"https://schema.org/StudyAction","userInteractionCount":14,"description":"14 practice questions available"}}</script>
+  <script src="/assets/quiz-a81cf3fd20b36938bc9e63934ea6bf1acd617a2dee617980d8e4fe711fcdc41d.js" defer="defer" data-cfasync="false"></script>
+
+    <script src="/assets/application-legacy-4fcfbaf463ffc4d4a3960a9733fe4561da672e2bccb3d38891d297ecdd9335bc.js" data-cfasync="false"></script>
+  </head>
+  <body class="h-100">
+      <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHBXVMN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <div class="d-flex h-100 flex-column">
+      <header>
+        <nav id="mainNav" class="navbar navbar-expand-md navbar-dark fixed-top shrink">
+          <a class="navbar-brand" href="/">
+            <img style="height:30px;" alt="MedicTests" src="/assets/logos/logo-white-de60af09e727150a9b4506cd9be4dd1b032c38538d00eb006842bd70d1bfbded.svg" />
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="mainNavbar">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="/plans">Pricing</a></li>
+                <li class="nav-item"><a class="nav-link" href="/categories">Library</a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" rel="noopener" href="https://support.medictests.com">Help</a></li>
+                <button onclick="window.location='/users/log_in'" type="button" class="btn navbar-btn btn-outline-light my-3 my-md-0 mx-md-2 py-0">
+                  Log In
+                </button>
+                <button onclick="window.location='/plans'" type="button" class="btn navbar-btn btn-secondary py-0">
+                  Get Started
+                </button>
+            </ul>
+          </div>
+        </nav>
+      </header>
+      <main class="flex-grow-1 navbar-padding">
+        <section id="units" class="">
+  <div class="container">
+    <div class="row">
+      
+  <div class="col-12 p-0">
+    
+<section id="test-wrapper" class="">
+  <div class="container">
+    <div class="row">
+      
+  <div class="col-12 p-0">
+    <div class="card-wrapper mb-md-4 w-100 " id="">
+  <div class="card w-100">
+    <div class="card-body p-0">
+      
+        <div class="col-12 pt-3">
+          <div class="progress">
+            <div id="progress-bar" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+      <div class="col-12 p-0">
+        <div id="test" class="rounded">
+          <div class="question-wrapper">
+            <div class="welcome p-4">
+                <button id="begin" class="text-uppercase">Begin</button>
+            </div>
+            <div class="question p-4">
+              <p id="prompt" class="mb-4"></p>
+              <img id="prompt-image" src="">
+              <form id="options">
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_1">
+                    <label class="test-option" for="option_1">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_2">
+                    <label class="test-option" for="option_2">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_3">
+                    <label class="test-option" for="option_3">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_4">
+                    <label class="test-option" for="option_4">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_5">
+                    <label class="test-option" for="option_5">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_6">
+                    <label class="test-option" for="option_6">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+                  <div class="option">
+                    <input type="radio" name="option" class="option" id="option_7">
+                    <label class="test-option" for="option_7">
+                      <span class="option-letter"></span>
+                      <span class="option"></span></label>
+                  </div>
+              </form>
+            </div>
+            <div class="answer">
+              <div class="user-input">
+                <div class="text-center">
+                  <button id="check" disabled="disabled">Check</button>
+                </div>
+              </div>
+              <div id="rationale">
+                <span id="verdict"></span>
+                <p></p>
+                <button id="next">Next</button>
+              </div>
+            </div>
+          </div>
+          <div class="test-results d-none">
+            <div class="row">
+              <div class="col-12 my-4">
+                <h3>Test Complete</h3>
+              </div>
+              <div class="col-md-12 mb-4">
+                <ul>
+                  <li>
+                    <span class="figure total-questions"></span>
+                    <span class="label">Questions</span>
+                  </li>
+                  <li>
+                    <span id="score" class="figure"></span>
+                    <span class="label">Score</span>
+                  </li>
+                  <li>
+                    <span id="duration" class="figure"></span>
+                    <span class="label">Minutes</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="row mt-4">
+              <div class="col-md-6">
+                <table class="table table-hover table-striped">
+                  <thead>
+                    <tr>
+                      <th class="text-left">Overall Results</th>
+                      <th class="text-right"></th>
+                    </tr>
+                  </thead>
+                  <tbody class="text-left">
+                    <tr>
+                      <td>Total Questions</td>
+                      <td class="text-right total-questions"></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="col-md-6">
+                <table class="table table-hover table-striped" id="category-results">
+                  <thead>
+                    <tr>
+                      <th class="text-left">Category Results</th>
+                      <th class="text-right"></th>
+                    </tr>
+                  </thead>
+                  <tbody class="text-left">
+                    <tr>
+                      <td class="text-left"></td>
+                      <td class="text-right"></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <a class="btn btn-primary btn-block" href="/legacy_dashboard">Return to Dashboard</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+  </div>
+
+    </div>
+  </div>
+</section>
+<div aria-hidden='true' class='modal fade' id='ticket-modal' role='dialog' tabindex='-1'>
+  <div class='modal-dialog' role='document'>
+    <div class='modal-content'>
+      <div class='modal-header'>
+        <h5 class='modal-title' id='ticket-title'>
+          Submit Feedback
+        </h5>
+        <button aria-label='Close' class='close' data-dismiss='modal' type='button'>
+          <span aria-hidden='true'>&#215;</span>
+        </button>
+      </div>
+      <div class='modal-body'>
+        <div class='alert alert-danger collapse' id='report-alert'></div>
+        <div class='unit-ticket'>
+          <h5>Unit:</h5>
+          <p></p>
+        </div>
+        <div class='question-ticket'>
+          <h5>Question:</h5>
+          <p id='question-ticket-prompt'></p>
+        </div>
+        <h5>How can we improve this question?</h5>
+        <div class='form-group'>
+          <textarea class='form-control' id='ticket-body'></textarea>
+        </div>
+      </div>
+      <div class='modal-footer'>
+        <button class='btn btn-primary btn-block' id='submit-ticket'>Submit</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+  <div class="col-12 p-0">
+    <div class="card-wrapper mb-md-4 w-100 unit-card-wrapper" id="">
+  <div class="card w-100">
+      <div class="card-header text-center bg-primary text-white py-3 rounded-top">
+          <h1 class="my-0 h5">Trauma During Pregnancy</h1>
+      </div>
+    <div class="card-body p-0">
+      
+      <div class="container py-2">
+        <div class="row">
+          <div class="col-12 col-md-6">
+            <p class="col-12 my-0">
+              <span class="label">Category:
+              </span>
+              <a href="/categories/trauma">Trauma</a>
+            </p>
+            <p class="col-12 my-0">
+              <span class="label">Topic:
+              </span>
+              <a href="/topics/special-considerations-in-trauma">Special Considerations in Trauma</a>
+            </p>
+            <p class="col-12 my-0">
+              <span class="label">Level:
+              </span>
+              EMT
+            </p>
+              <p class="col-12 my-0">
+                <span class="label">Next Unit:
+                </span>
+                <a href="/units/pediatric-trauma-patients">Pediatric Trauma Patients</a>
+              </p>
+            <p class="col-12 my-0">
+              <em>14
+                minute read</em>
+            </p>
+          </div>
+          <div class="col-12 col-md-6 text-right">
+            
+              <button class="btn btn-secondary take-quiz">Practice with questions from this unit</button>
+          </div>
+        </div>
+        <div class="row">
+          <div id="unit-body" class="col-12 p-4">
+            <p>EMS providers should recognize that pregnant women who have suffered an injury should be evaluated by a physician in the emergency room. If the pregnant woman is having any symptoms related to shock, high-concentration oxygen should be administered.</p>
+
+<p><strong>KEEP LEFT! </strong></p>
+
+<p><strong>Pregnant women in the third trimester should be placed on their left side</strong>&nbsp;</p>
+
+<p style="margin-left: 40px;">If a pregnant patient is placed on a spine board, it should be tilted to the left after the patient is fully secured. Left-leaning takes the weight of the pregnant uterus off of the slightly right-of-the-midline aorta and--especially--the vena cava, which has less wall musculature and is more susceptible to compression.</p>
+
+<p style="margin-left: 40px;"><strong>Vena cava compression&nbsp;&rarr; decreased blood to the right side of the heart&nbsp;&rarr; less oxygenation (right heart) and stroke volume (left heart)&nbsp;&rarr; maternal hypotension &rarr; less oxygenation to the placenta&nbsp;&rarr; fetal hypoxia&nbsp;&rarr; fetal distress.&nbsp;</strong></p>
+
+<p style="margin-left: 40px;">►Patient nausea is the &quot;canary in the mine.&quot; If a maternal patient begins to get nauseated, don&#39;t write it off as &quot;Well, they&#39;re pregnant, so that&#39;s normal.&quot; You should suspect something may have changed, such as their hemodynamic status, and reevaluate them and their condition.&nbsp;</p>
+
+<p>Pregnant patients can sustain all types of trauma and are especially susceptible to falls and physical abuse.</p>
+
+<p>&nbsp;</p>
+
+<h2>Trauma Effects Roll Downhill: Effects on Fetal Health</h2>
+
+<p>Trauma to expectant mothers can have effects on fetal health.</p>
+
+<p>Normally, the changes that pregnant patients undergo that are important during trauma include</p>
+
+<ol>
+	<li>cardiovascular changes and</li>
+	<li>decreased gastrointestinal motility.</li>
+</ol>
+
+<p><strong>CARDIOVASCULAR</strong>:</p>
+
+<ul>
+	<li>Cardiovascular changes may include an increase in total vascular volume and an increase in maternal heart rate in the third trimester, making shock in a third-trimester patient difficult to detect.</li>
+	<li>Third-trimester fetus size can affect venous return in pregnant patients lying flat on their backs. [SEE ABOVE]</li>
+</ul>
+
+<p><strong>GI</strong>: Decreased gastrointestinal motility increases the risk of vomiting and aspiration after trauma.</p>
+
+<p>&nbsp;</p>
+
+<h2>Fetal Distress</h2>
+
+<p>Fetal distress can be caused due to hypoxia or hypovolemia/shock of the pregnant mother.</p>
+
+<ul>
+	<li><strong>ABRUPTIO PLACENTAE:</strong> Separation of the placenta from the uterine wall may be a complication of trauma in the pregnant patient and may present with abdominal pain and often presents with vaginal bleeding. This separation carries a high risk of fetal death. The force of a trauma associated with abruption is due to the shearing away from the uterine wall at the placental/maternal interface there. Arteries are disrupted and bleeding is brisk.&nbsp;</li>
+	<li>Fetal injury in pregnant patients can also be caused by penetrating trauma, trauma from seat belts, and cardiac arrest due to trauma. Any penetrating injury (knife, GSW) in the abdomen should be assumed to involve the fetus.&nbsp;</li>
+	<li>During traumatic incidents involving a pregnant patient, EMS providers must remember that there are actually two patients to assess. However...<strong>The most common cause of fetal death in maternal trauma is maternal death. Therefore, your primary focus </strong><strong>is</strong><strong> the mother.&nbsp;</strong></li>
+	<li>Internal blood loss is difficult to assess in pregnant patients due to the signs of shock often being masked. This means that when signs of shock are apparent, your patient is further into the downward spiral than she appears!</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>Management</h2>
+
+<p>EMS providers should treat the pregnant patient aggressively in the face of severe trauma.</p>
+
+<p><strong>IMMOBILIZATION</strong>: The pregnant patient with suspected spinal injury should be immobilized to a long spine board, with the board tilted to the left after properly securing the patient.</p>
+
+<p><strong>VAGINAL EXAM = HANDS OFF! </strong>The need for a vaginal exam may be present in pregnant patients involved in trauma, check for&nbsp;crowning if indicated&nbsp;but this is best performed at the receiving facility.&nbsp;</p>
+
+<p style="margin-left: 40px;"><strong>In the field,</strong> the only indication for a vaginal exam is to determine whether the baby is delivering, and that can be done by direct inspection.</p>
+
+<p><strong>FUNDAL HEIGHT: </strong>The size of the fetus (age of gestation in weeks) is important during the assessment of the pregnant patient involved in trauma, but it is difficult to assess the fetus. <img alt="" src="https://s3.us-east-2.amazonaws.com/medictests-storage-production/images/ckeditor/380/content_fundalheight.GIF" style="float: right; width: 300px; height: 201px;" />The following tips are useful, but few:</p>
+
+<ul>
+	<li>If you can feel the pregnant uterus through the abdomen, the patient is at least in her second trimester (12 weeks and beyond).&nbsp;</li>
+	<li>The top convexity of the uterus (the fundal &quot;height&quot;) reaches the umbilicus at 20 weeks (halfway through the pregnancy of 40 weeks).&nbsp;</li>
+</ul>
+
+<p style="margin-left: 40px;">For every fingerbreadth above or below the umbilicus, you can add or subtract a week of gestation. However, this only applies within 5 fingerbreadths. For example, if the fundal height is 2 fingerbreadths below the umbilicus, she is probably 18 weeks gestation (out of 40). If 3 fingerbreadths above...23 weeks. Below 15 weeks and above 25 weeks, the inaccuracy makes this &quot;guestimate&quot; completely ineffective. All you can say above the umbilicus + 5 fingerbreadths is that she is most likely in her 3rd trimester.&nbsp;</p>
+
+<ul>
+	<li>Twins will throw this whole brilliant scheme off. If she&#39;s had prenatal care, she&#39;ll know if she has more than one baby; if she hasn&#39;t, <strong>anything&#39;s </strong>possible!</li>
+</ul>
+
+<p><strong>ABCs</strong>:&nbsp;During the management of pregnant trauma patients, EMS providers should</p>
+
+<ul>
+	<li>manage the airway and anticipate vomiting (have suction available),</li>
+	<li>assure bilateral breath sounds are present, keeping oxygenation levels high by administering oxygen via non-rebreather (100% SPO2), and assist ventilations if breathing is inadequate</li>
+	<li>circulation should be managed in the same way as other adult patients.</li>
+</ul>
+
+<p><strong>TRANSPORT</strong>:</p>
+
+<ul>
+	<li>Transport the pregnant trauma patient on their left side.</li>
+	<li>Consider ALS intercept or air medical resources in the event of major trauma to a pregnant patient.</li>
+	<li>Inform the trauma center early of the impending transport of a pregnant trauma patient.</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+  </div>
+
+    </div>
+  </div>
+</section>
+
+<script>
+  $("button.take-quiz").click(function(){
+    window.scrollTo(0, 0);
+    $("#test-wrapper").show("slow");
+  });
+  $('#unit-body img').addClass('img-fluid').css('height', 'auto');
+
+  $('#units img').each(function() {
+    var src = $(this).attr('src');
+    var alt = $(this).attr('alt');
+    $(this).wrap('<a href="' + src + '" data-fancybox="images"></a>');
+  });
+</script>
+
+      </main>
+        <footer class="bg-white">
+          <div class="container">
+            <div class="row p-4">
+              <div class="col-6 col-md-2">
+                <img class="img-fluid" alt="MedicTests" src="/assets/logos/logo-blue-d29142d7d5ffda9ec613dbd1c43d64dcdf186732686292f29e3ea2552446741f.svg" />
+              </div>
+              <div class="col-6 col-md-10 social-media text-right">
+                <a class="mx-2" target="_blank" rel="noopener" aria-label="Facebook" href="https://facebook.com/medictests"><i class='fab fa-facebook '></i></a>
+                <a class="mx-2" target="_blank" rel="noopener" aria-label="X" href="https://x.com/medictests"><i class='fab fa-x-twitter '></i></a>
+                <a class="mx-2" target="_blank" rel="noopener" aria-label="Pinterest" href="https://www.pinterest.com/medictests/"><i class='fab fa-pinterest '></i></a>
+                <a class="mx-2" target="_blank" rel="noopener" aria-label="Instagram" href="https://www.instagram.com/medictests/"><i class='fab fa-instagram '></i></a>
+              </div>
+                <div class="col-12 text-right mt-2">
+                </div>
+              <div class="col-md-4 col-12 mt-2">
+                <div class="app-badges">
+                  <a href="https://apps.apple.com/us/app/medictests-21-ems-education/id1495229384?itsct=apps_box&amp;itscg=30200" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1610064000&h=a1e6bfb2114213846c9ec43c68912649" alt="Download on the App Store" style="height: 35px;"></a>
+                  <a href='https://play.google.com/store/apps/details?id=com.medictests.ionic.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="height: 50px; margin-left: -8.5px;"/></a>
+                </div>
+              </div>
+              <div class="col-md-8 col-12 mt-4 text-right">
+                &copy;
+                2026
+                &nbsp;
+                <a href="/terms">Terms &amp; Conditions</a>
+                |
+                <a href="/privacy">Privacy</a>
+                |
+                <a href="/gift">Gift Memberships</a>
+                |
+                <a href="/classroom">Classroom Access</a>
+              </div>
+            </div>
+          </div>
+        </footer>
+    </div>
+    
+    
+    <script>
+      
+    </script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var banner = document.getElementById('ui-replacement-banner');
+        if (!banner) { return; }
+        var key = banner.getAttribute('data-dismiss-key');
+        var isHidden = false;
+        try { isHidden = localStorage.getItem(key) === '1'; } catch (e) {}
+        if (!isHidden) { banner.style.display = 'flex'; }
+        var closeBtn = document.getElementById('ui-replacement-banner-close');
+        if (closeBtn) {
+          closeBtn.addEventListener('click', function() {
+            try { localStorage.setItem(key, '1'); } catch (e) {}
+            banner.style.display = 'none';
+          });
+        }
+      });
+    </script>
+    
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"a5adba0b23c4447e80fcb9cd68dc83d9","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

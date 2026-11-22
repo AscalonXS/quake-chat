@@ -1,0 +1,538 @@
+    <script src="https://inatews.bmkg.go.id/assets_inatews/js/quake-products.js?v=20260904.3"></script>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#112f61">
+    <meta name="description" content="InaTEWS BMKG earthquake information and tsunami early warning.">
+    <link rel="icon" type="image/x-icon" href="https://inatews.bmkg.go.id/favicon.ico">
+    <link rel="stylesheet" href="https://inatews.bmkg.go.id/assets_eng/css/all.css">
+    <link rel="stylesheet" href="https://inatews.bmkg.go.id/assets_eng/css/L.Icon.Pulse.css">
+    <link rel="stylesheet" href="https://inatews.bmkg.go.id/assets_eng/css/L.Control.Layers.Tree.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://inatews.bmkg.go.id/assets_eng/css/Icon.Label.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://inatews.bmkg.go.id/assets_eng/css/style.css">
+    <link rel="stylesheet" href="https://inatews.bmkg.go.id/assets_inatews/css/modern.css?v=20260911.4">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/Icon.Label.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/Icon.Label.Default.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/leaflet-tilelayer-colorfilter.min.js"></script>
+    <script>window.InaTEWSConfig = { stadiaApiKey: "b1b61b8d-06f0-44ce-92ca-f796d25c56f1" };</script>
+    <script src="https://inatews.bmkg.go.id/assets_inatews/js/map-ui.js?v=20261016.5"></script>
+    <script src="https://inatews.bmkg.go.id/assets_inatews/js/quake-products.js?v=20260908.2"></script>
+    <script defer src="https://inatews.bmkg.go.id/assets_inatews/js/event-brief.js?v=20260911.1"></script>
+    <script defer src="https://inatews.bmkg.go.id/assets_inatews/js/finite-fault.js?v=20260902.5"></script>
+    <title>InaTEWS BMKG — Earthquake and Tsunami Information</title>
+<script data-cfasync="false" nonce="73c82ac8-48d1-4689-bec9-1b48ea8c3ada">try{(function(w,d){!function(nO,nP,nQ,nR){if(nO.zaraz)console.error("zaraz is loaded twice");else{nO[nQ]=nO[nQ]||{};nO[nQ].executed=[];nO.zaraz={deferred:[],listeners:[]};nO.zaraz._v="20";nO.zaraz._n="73c82ac8-48d1-4689-bec9-1b48ea8c3ada";nO.zaraz.q=[];nO.zaraz._f=function(nS){return async function(){var nT=Array.prototype.slice.call(arguments);nO.zaraz.q.push({m:nS,a:nT})}};for(const nU of["track","set","debug"])nO.zaraz[nU]=nO.zaraz._f(nU);nO.zaraz.init=()=>{var nV=nP.getElementsByTagName(nR)[0],nW=nP.createElement(nR),nX=nP.getElementsByTagName("title")[0];nX&&(nO[nQ].t=nP.getElementsByTagName("title")[0].text);nO[nQ].x=Math.random();nO[nQ].w=nO.screen.width;nO[nQ].h=nO.screen.height;nO[nQ].j=nO.innerHeight;nO[nQ].e=nO.innerWidth;nO[nQ].l=nO.location.href;nO[nQ].r=nP.referrer;nO[nQ].k=nO.screen.colorDepth;nO[nQ].n=nP.characterSet;nO[nQ].o=(new Date).getTimezoneOffset();if(nO.dataLayer)for(const nY of Object.entries(Object.entries(dataLayer).reduce((nZ,n$)=>({...nZ[1],...n$[1]}),{})))zaraz.set(nY[0],nY[1],{scope:"page"});nO[nQ].q=[];for(;nO.zaraz.q.length;){const oa=nO.zaraz.q.shift();nO[nQ].q.push(oa)}nW.defer=!0;for(const ob of[localStorage,sessionStorage])Object.keys(ob||{}).filter(od=>od.startsWith("_zaraz_")).forEach(oc=>{try{nO[nQ]["z_"+oc.slice(7)]=JSON.parse(ob.getItem(oc))}catch{nO[nQ]["z_"+oc.slice(7)]=ob.getItem(oc)}});nW.referrerPolicy="origin";nW.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(nO[nQ])));nV.parentNode.insertBefore(nW,nV)};["complete","interactive"].includes(nP.readyState)?zaraz.init():nO.addEventListener("DOMContentLoaded",zaraz.init)}}(w,d,"zarazData","script");window.zaraz._p=async nF=>new Promise(nG=>{if(nF){nF.e&&nF.e.forEach(nH=>{try{const nI=d.querySelector("script[nonce]"),nJ=nI?.nonce||nI?.getAttribute("nonce"),nK=d.createElement("script");nJ&&(nK.nonce=nJ);nK.innerHTML=nH;nK.onload=()=>{d.head.removeChild(nK)};d.head.appendChild(nK)}catch(nL){console.error(`Error executing script: ${nH}\n`,nL)}});Promise.allSettled((nF.f||[]).map(nM=>fetch(nM[0],nM[1])))}nG()});zaraz._p({"e":["(function(w,d){})(window,document)"]});})(window,document)}catch(e){throw fetch("/cdn-cgi/zaraz/t"),e;};</script></head>
+<body class="inatews-site">
+<div class="container site-shell">
+    <header id="main-header" class="site-header">
+        <div id="header_img_bg" class="site-hero">
+            <a class="site-authority" href="https://bmkg.go.id/" target="_blank" rel="noopener noreferrer" aria-label="Official BMKG website">
+                <img src="https://inatews.bmkg.go.id/assets_eng/img/Logo-BMKG.png?v=20260908.1" alt="">
+            </a>
+            <a class="site-identity" href="https://inatews.bmkg.go.id/eng" aria-label="InaTEWS BMKG homepage">
+                <span class="site-wordmark">InaTEWS</span>
+                <span class="site-identity-caption">Indonesia Tsunami Early Warning System</span>
+            </a>
+            <div class="site-utility" aria-label="Institution links">
+                <a href="https://bmkg.go.id/" target="_blank" rel="noopener noreferrer">BMKG Website</a>
+                <span aria-hidden="true"></span>
+                <a href="https://inatews.bmkg.go.id/web">Bahasa Indonesia</a>
+            </div>
+        </div>
+
+        <nav class="navbar my-navbar navbar-expand-lg navbar-light" aria-label="Main navigation">
+            <a class="navbar-brand d-lg-none" href="https://inatews.bmkg.go.id/eng">
+                <span class="status-dot" aria-hidden="true"></span> InaTEWS
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Open navigation menu">
+                <span class="navbar-toggler-icon"></span>
+                <span class="toggle-label">Menu</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto" id="menu">
+                    <li class="nav-item nav-active">
+                        <a class="nav-link" href="https://inatews.bmkg.go.id/eng"><i class="fas fa-home" aria-hidden="true"></i><span>Latest Earthquake</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://inatews.bmkg.go.id/eng/m5"><i class="fas fa-wave-square" aria-hidden="true"></i><span>Earthquake M≥5</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://inatews.bmkg.go.id/eng/felt"><i class="fas fa-globe-asia" aria-hidden="true"></i><span>Significant</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://inatews.bmkg.go.id/eng/tsunami"><i class="fas fa-house-damage" aria-hidden="true"></i><span>Tsunami</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://inatews.bmkg.go.id/eng/realtime"><i class="fas fa-bolt" aria-hidden="true"></i><span>Realtime</span></a>
+                    </li>
+                    <li class="nav-item language-item">
+                        <a class="nav-link" href="https://inatews.bmkg.go.id/web"><i class="fas fa-language" aria-hidden="true"></i><span>Bahasa</span></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+ <div class="d-flex flex-row">
+		  
+
+			<div class="col-lg-12 p-0 bg-secondary" style="background-color:white!important" >
+			
+			 <div class="col-lg-12 col-md-12" style="float:left!important; position: absolute; z-index:9999 ">
+            
+          </div>
+			
+			
+		   <div class="px-4 py-1 bg-dark text-left" id="map" style="height:400px;">
+		   
+			              <div aria-live="polite" id="tos" aria-atomic="true" style="position: relative; max-height: 100px; display:none">
+                <div class="focal-mechanism-overlay">
+                  <div role="alert" aria-live="assertive" aria-atomic="true" class="toast focal-mechanism-panel" data-autohide="false" style="" data-delay="20000" style="background-color:rgb(0,0,0,0)!important">
+                    <div class="toast-header">
+                      <svg width="20" height="20" class="mr-2" viewBox="0 0 24 24">
+                        <path d="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M11,16.5L18,9.5L16.59,8.09L11,13.67L7.91,10.59L6.5,12L11,16.5Z" fill="green"></path>
+                      </svg>
+                      <strong class="mr-auto">Focal Mechanism</strong>
+                      <small></small>
+                      <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="toast-body p-0" style="width:300px; background-color:rgb(0,0,0,0)!important">
+                      <div class="row" style="background-color:rgb(0,0,0,0)!important">
+                        <div class="col-12 mt-0" style="background-color:rgb(0,0,0,0)!important">
+                          <div class="card" style="background-color:rgb(252,252,252,0)!important; padding:0!important; margin:0!important;">
+                            <div class="row" style="background-color:rgb(252,252,252,0)!important">
+                              <div class="col-5 mt-0" style=" background-color:rgb(252,252,252,0)!important">
+                                <img class="" id="fm_img" src="" alt="focal_image">
+                              </div>
+                              <div class="col-7 mt-0" style="background-color:rgb(252,252,252,0)!important">
+                                <p id="np1" class="mb-0 fokal">Nodal Plane 1</p>
+                                <p id="np2" class="mb-0 fokal">Nodal Plane 2</p>
+                                <p id="mw" class="mb-0 fokal">Mw : </p>
+                                <p id="fd" class="mb-0 fokal">Focal Depth : </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+			
+		   </div>
+		   </div>
+		   
+		   
+		   		  
+		   
+		   
+		   
+        </div>
+		
+		
+		
+		
+		
+		
+		
+        <div>
+          <div class="d-flex flex-row text-black align-items-stretch text-center event-meta-strip">
+            <div class="col-lg-4 p-3 bg-secondary event-meta-item">
+              <span style='color: red;'><i class='fas fa-clock fa-2x'></i></span>
+              <span class=" d-sm-block" id="ot_gempa" style="font-size:100%; font-weight:bold">--</span> 
+            </div>
+            <div class="col-lg-4 p-3 bg-secondary event-meta-item">
+              <span style='color: orange;'><i class='fas fa-map-marked-alt fa-2x'></i></span>
+              <span class=" d-sm-block" id="lokasi_gempa" style="font-size:100%; font-weight:bold"> --</span>
+            </div> 
+            <div class="col-lg-4 p-3 bg-secondary event-meta-item">
+              <span style='color: green;'><i class='fas fa-podcast fa-2x '></i></span>
+              <span class=" d-sm-block" style="font-size:100%; font-weight:bold" id="kedalaman_gempa">---</span>
+            </div>
+          </div>
+          <div class="py-2 px-3 bg-secondary text-center text-black event-description-strip">
+            <p class="lead" id="deskripsi" style="font-weight:500; font-size:120%;"> ----</p>
+          </div>
+		  
+    		  <div class="row no-gutters event-detail-summary" style="max-height:800px!important; margin:0">
+
+
+			
+			 <div class="col-lg-6 col-md-12 col-sm-12 p-0 bg-secondary " id="a1" style="background-color:white!important" >
+			 <div class="d-flex flex-row text-black align-items-stretch text-center" >
+            <div class="col-lg-3 col-sm-2 col-md-3 p-0 bg-secondary d-none d-md-block d-lg-bock" id="a1" style="background-color:white!important" >
+              <div class="card card-body text-black py-2 px-1 border-0" style=" background-image: url('https://inatews.bmkg.go.id/assets_eng/img/speaker.png')!important; background-repeat:no-repeat; background-size: contain; background-position: center; height:140px">
+              </div>
+            </div>
+            
+            <div class="col-lg-6 col-sm-8 col-md-6 p-0 bg-secondary " id="a2" style="background-color:white!important">
+              <div class="card card-body bg-none text-black py-3 border-0" style="background-color:rgb(0, 0, 0,0)!important">
+                <h5>BMKG Guidance</h5> 
+                    <p id="instruction">--</p>
+              </div> 
+		   </div>
+		   		  <div class="col-lg-3 col-sm-2 col-md-3 p-0 bg-secondary d-none d-md-block d-lg-bock" style="background-color:white!important" id="logo_eva" >
+              <div class="card card-body text-black py-2 px-1 border-0" style=" background-image: url('https://inatews.bmkg.go.id/assets_eng/img/rasa-m5.png')!important; background-repeat:no-repeat; background-size: contain; background-position: center; height:140%">
+              </div>
+            </div>
+</div>
+	</div>
+		    <div class="col-lg-2 p-0 bg-success">
+			<div class="card card-body bg-success text-black py-3 border-0">
+            <p style="margin-bottom:0px; color:#FFA858; text-align:center"> Magnitude</p>
+             <h1 style=" text-align:center; font-size:450%; margin-top:-10px; color:#FFA858; font-weight:bold !important" id="mag_big">-</h1>
+</div>
+            </div>
+            <div class="col-lg-4 p-0 bg-success" id="mag_kotak2">
+			<div class="card card-body bg-success text-black py-3 px-1 border-0 text-center" id="mag_kotak">
+              <h1 id="warn1" style=" text-align:center; font-size:230%!important;  color:white; font-weight:bold !important"> --- </h1>
+              </div>
+            </div>
+		  
+		   </div>
+		  
+		  
+          <div class="d-flex flex-row text-black align-items-stretch text-center" id="tombols" style="max-height:100px!important">
+            <div class="col-md-4 col-sm-4 port-item p-2 bg-secondary active" id="tombol_1" data-toggle="collapse" data-target="#home">
+              <i class="fas fa-house-damage fa-2x d-block"></i>
+              <span class="d-none d-sm-block">Impact Info</span>
+            </div>
+            <div class="col-md-4 col-sm-4 port-item p-2 bg-secondary" id="tombol_2" data-toggle="collapse" data-target="#resume">
+              <i class="fas fa-clipboard fa-2x d-block"></i>
+              <span class="d-none d-sm-block">EQ Explanation</span>
+            </div>
+            <div class="col-md-4 col-sm-4 port-item p-2 bg-secondary" id="tombol_3" data-toggle="collapse" data-target="#work" onclick="mapclear()">
+              <i class="fas fa-history fa-2x d-block" ></i>
+              <span class="d-none d-sm-block">Significant EQ History</span>
+            </div>
+
+          </div>
+       
+      </header>
+      <!-- HOME -->
+      <div id="home" class="collapse show hover">
+        <div class="row no-gutters">
+         
+          <div class="col-lg-6 col-md-6 bg-primary" id="div_tsu" style="background-color:#F8F9FA!important">
+            <div class="card card-body bg-primary text-black py-3 border-0" style="background-color:#F8F9FA!important">
+			<div id="no_threat">
+			<i class="fas fa-water fa-2x d-block" style=" float:left; font-size:130%!important; margin-right:10px;"></i>
+			 <h5>TSUNAMI IMPACT BASED INFO</h5>
+			  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+			 <p > SSHmax based on model :</p>
+			 
+			  <div id="report_tsunami"></div>
+			  <p id="subjudul_obs"></p>
+              <!--<p class="card-text border-0" style="font-size:100%; color:black; margin-bottom:0px; margin-top:10px;"> Berdasarkan pengamatan muka air laut, tsunami telah terdeteksi :</p>-->
+				<table id="div31" class="table table-bordered smalltab" width="100%" style="margin-top:0px;"></table>
+			  <p class="card-text border-0" style="font-size:100%; color:black; margin-bottom:0px; margin-top:10px;"> Tsunami Affected Areas based on Model :</p>
+              <div class="pane" id="style-5" style="max-height: 400px;  overflow-y: scroll;">
+                <table id="div311" class="table table-bordered smalltab" style="margin-top:0px;"></table>
+              </div>
+			  <p class="card-text border-0" style="font-size:100%; font-weight:500; color:black; margin-bottom:10px; margin-top:10px;"> Recomendation and Instruction based on Warning Level :</p>
+        <div class="py-1 px-4 bg-secondary text-left text-black" style="background-color:#FC3435!important">
+			    <div class="row no-gutters">
+			      <div class="col-lg-2  p-0 " >
+				      <div class="card card-body bg-primary text-red py-3 border-0 d-none d-md-block d-lg-block" style="background-color:rgb(0,0,0,0)!important">
+				        <i class="fas fa-bullhorn fa-2x d-block"></i>
+				      </div>
+				    </div>
+				    <div class="col-lg-10  p-0 bg-secondary"  style="background-color:rgb(0,0,0,0)!important" >
+				      <div class="card card-body bg-primary text-black py-2 px-1 border-0 text-left" style="background-color:rgb(0,0,0,0)!important">
+				        <p class="lead"  id="inst1" style="font-weight:400; font-size:100%;"> ----</p>
+              </div>
+				    </div>
+          </div>
+        </div>
+        <div class="py-1 px-4 bg-secondary text-left text-black" style="background-color:#FF7A00!important">
+          <div class="row no-gutters">
+            <div class="col-lg-2  p-0 " >
+				      <div class="card card-body bg-primary text-orange py-3 border-0 d-none d-md-block d-lg-block" style="background-color:rgb(0,0,0,0)!important">
+				        <i class="fas fa-bullhorn fa-2x d-block"></i>
+				      </div>
+				    </div>
+				    <div class="col-lg-10  p-0 bg-secondary"  style="background-color:rgb(0,0,0,0)!important" >
+				      <div class="card card-body bg-primary text-black py-2 px-1 border-0 text-left" style="background-color:rgb(0,0,0,0)!important">
+				        <p class="lead"  id="inst2" style="font-weight:400; font-size:100%;"> ----</p>
+              </div>
+				    </div>
+		      </div>
+        </div>
+		    <div class="py-1 px-4 bg-secondary text-left text-black" style="background-color:yellow!important">
+          <div class="row no-gutters">
+		        <div class="col-lg-2  p-0 " >
+				      <div class="card card-body bg-primary text-yellow py-3 border-0 d-none d-md-block d-lg-block" style="background-color:rgb(0,0,0,0)!important">
+				        <i class="fas fa-bullhorn fa-2x d-block"></i>
+				      </div>
+				    </div>
+				    <div class="col-lg-10  p-0 bg-secondary"  style="background-color:rgb(0,0,0,0)!important" >
+				      <div class="card card-body bg-primary text-black py-2 px-1 border-0 text-left" style="background-color:rgb(0,0,0,0)!important">
+				        <p class="lead"  id="inst3" style="font-weight:400; font-size:100%;"> ----</p>
+              </div>
+				    </div>
+		      </div>
+        </div>
+      </div>
+            </div>
+          </div>
+		    <div class="col-lg-6 col-md-6 bg-light border-0" id="dampak_div" style="background-color:#F8F9FA!important" >
+            <div class="card card-body text-dark py-3 border-0" style="background-color:#F8F9FA!important">
+			<div id="no_threat2">
+			
+			<i class="fas fa-house-damage fa-2x d-block" style="font-size:120%!important; float:left!important; margin-right:10px;"></i>
+              <h5>EARTHQUAKE IMPACT INFO</h5>
+			  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+			      <p id="sh_model">Impact based on the observation data of the accelerometer sensor: </p>
+              <div id="report_gempa"></div>
+			  <p>Sub-district impacted area base on accelerometer data: </p>
+			  <div id="report_gempa2"></div>
+            </div>
+			</div>
+          </div>
+		   <div class="col-lg-6 col-md-6 bg-light border-0" id="shake_div" style="display:none; background-color:#F8F9FA!important  "  >
+            <div class="card card-body bg-light text-dark py-3 border-0" >
+			<div id="no_threat2">
+			<i class="fas fa-house-damage fa-2x d-block" style="font-size:120%!important; float:left!important; margin-right:10px;"></i>
+              <h5>ACCELEROMETER DATA ANALYSIS</h5>
+			   <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+			      <p>Accelerometer Sensor Distribution: </p>
+              <div class="" id="shakemap_sebaran"></div>
+			  <p>PGA Max and MMI base on accelerometer data: </p>
+			  <div class="" id="shakemap_list"></div>
+            </div>
+			</div>
+          </div>
+		  <div class="col-lg-12 col-md-12 bg-dark border-1" id="pd4_div" style="background-color:white!important;  display:none;  "  >
+<div class="d-flex flex-row card card-body text-black align-items-stretch text-left border-0" >
+<h4> :: WHAT TO DO AFTER THE EARTHQUAKE AND TSUNAMI ::</h4>
+</div>            
+			<div class="d-flex flex-row text-black align-items-stretch text-left" >
+            <div class="col-lg-2 col-sm-2 col-md-6 p-2 bg-secondary " id="a1" style="background-color:white!important" >
+              <div class="card card-body text-black p-3 border-0"><img class=" bg-dark" style="border-radius: 50%;" width="100%"src="assets_inatews/img/antisipasi11.png" >
+              </div>
+            </div>
+            
+            <div class="col-lg-10 col-md-6 p-0 bg-secondary " id="a2" style="background-color:white!important">
+              <div class="card card-body bg-none text-black py-3 border-0" style="background-color:rgb(0, 0, 0,0)!important">
+                <h5>A. If you are inside the building :</h5> 
+                    <p id="">
+Exit the building in an orderly manner;
+Do not use elevators or elevators, use regular stairs;
+Check if anyone is injured, do first aid;
+Call or ask for help in case of serious injury to you or those around you.</p>
+              </div>
+		   </div>
+		   		 
+</div>
+
+ 
+ <div class="d-flex flex-row text-black align-items-stretch text-left" >
+            <div class="col-lg-2 col-sm-2 col-md-6 p-2 bg-secondary " id="a1" style="background-color:white!important" >
+              <div class="card card-body text-black p-3 border-0"><img class=" bg-dark" style="border-radius: 50%;" width="100%"src="assets_inatews/img/antisipasi11.png" >
+              </div>
+            </div>
+            
+            <div class="col-lg-10 col-md-6 p-0 bg-secondary " id="a2" style="background-color:white!important">
+              <div class="card card-body bg-none text-black py-3 border-0" style="background-color:rgb(0, 0, 0,0)!important">
+                <h5>B.Check your surroundings</h5> 
+                    <p id="">
+Check in case of fire.
+Check for gas leaks.
+Check if there is an electric short circuit.
+Check water flow and pipes.
+Check if there are things that are dangerous (turning off electricity, not starting a fire etc.)</p>
+              </div>
+		   </div>
+		   		 
+</div>
+ <div class="d-flex flex-row text-black align-items-stretch text-left" >
+            <div class="col-lg-2 col-sm-2 col-md-6 p-2 bg-secondary " id="a1" style="background-color:white!important" >
+              <div class="card card-body text-black p-3 border-0"><img class=" bg-dark" style="border-radius: 50%;" width="100%"src="assets_inatews/img/antisipasi13.png" >
+              </div>
+            </div>
+            
+            <div class="col-lg-10 col-md-6 p-0 bg-secondary " id="a2" style="background-color:white!important">
+              <div class="card card-body bg-none text-black py-3 border-0" style="background-color:rgb(0, 0, 0,0)!important">
+                <h5>C. Do not enter buildings that have been hit by an earthquake</h5> 
+                    <p id="">
+Because there might still be ruins.</p>
+              </div>
+		   </div>
+		   		 
+</div>
+ <div class="d-flex flex-row text-black align-items-stretch text-left" >
+            <div class="col-lg-2 col-sm-2 col-md-6 p-2 bg-secondary " id="a1" style="background-color:white!important" >
+              <div class="card card-body text-black p-3 border-0"><img class=" bg-dark" style="border-radius: 50%;" width="100%"src="assets_inatews/img/antisipasi11.png" >
+              </div>
+            </div>
+            
+            <div class="col-lg-10 col-md-6 p-0 bg-secondary " id="a2" style="background-color:white!important">
+              <div class="card card-body bg-none text-black py-3 border-0" style="background-color:rgb(0, 0, 0,0)!important">
+                <h5>D. Do not walk in the area around the earthquake</h5> 
+                    <p id="">The possibility of aftershocks still exists
+.</p>
+              </div>
+		   </div>
+		   		 
+</div>
+ <div class="d-flex flex-row text-black align-items-stretch text-left" >
+            <div class="col-lg-2 col-sm-2 col-md-6 p-2 bg-secondary " id="a1" style="background-color:white!important" >
+              <div class="card card-body text-black p-3 border-0"><img class=" bg-dark" style="border-radius: 50%;" width="100%"src="assets_inatews/img/antisipasi15.png" >
+              </div>
+            </div>
+            
+            <div class="col-lg-10 col-md-6 p-0 bg-secondary " id="a2" style="background-color:white!important">
+              <div class="card card-body bg-none text-black py-3 border-0" style="background-color:rgb(0, 0, 0,0)!important">
+                <h5>E. Listening information.</h5> 
+                    <p id="">Listen to information about the earthquake from the radio (in case of aftershocks).
+Don't be easily provoked by rumors or news that have no clear source.</p>
+              </div>
+		   </div>
+		   		 
+</div>
+
+      </div>
+	  </div>
+	  </div>
+      <!-- RESUME -->
+      <div id="resume" class="collapse">
+        <div class="card card-body bg-dark text-dark py-3 px-3" style="background-color:#EDEDEB!important" id="narasi">
+          
+        </div>
+      </div>
+      <!-- WORK -->
+     <div id="work" class="collapse">
+        <div class="card card-body bg-dark text-dark py-3 border-0 " style="background-color:#ededeb!important">
+          <h5>HISTORY OF SIGNIFICANT EARTHQUAKES AROUND THE EPISENTER (distance < 250 km)</h5>
+              <div class="row no-gutters">
+                <div class="col-md-12" id="map2"></div>
+              </div>
+              </br>
+              <div class="card card-body text-dark">
+                <p>List of significant earthquakes around the epicenter:</p>
+                <table id="katalog_table" class="display" style="width:100%"></table>
+              </div>
+        </div>
+      </div>
+	  
+	  
+      <!-- CONTACT -->
+	  <div id="contact" class="collapse">
+	  <div class="card card-body bg-default text-black py-3 border-0" style="background-color:#e0e0dc!important">
+	  <h2 style="font-size:150%" class="text-center"><b>LAST 30 EVENTS</b></h2>
+    <p class="text-center m-0">There are the last 30 earthquake events that were disseminated by InaTEWS-BMKG</p>
+		
+	<section id="model_6">
+		<div class="tabs-container">
+			<ul class="nav nav-tabs container" id="myTab" role="tablist">
+				<li class="nav-item">
+					<a class="nav-link active" id="home-tab"  style=" color: black !important;" data-toggle="tab" href="#home5" role="tab" aria-controls="home" aria-selected="true"><i class="fab fa-creative-commons-sampling"></i>  Last 30 (M>5) Earthquakes</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="profile-tab" style=" color: black !important;" data-toggle="tab" href="#profile5" role="tab" aria-controls="profile" aria-selected="false"><i class="fab fa-creative-commons-sampling-plus"></i>  30 Significant Earthquakes </a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link text-black " style=" color: black !important;" id="contact-tab" data-toggle="tab" href="#contact5" role="tab" aria-controls="contact" aria-selected="false"><i class="fab fa-firefox"></i>  30 last Tsunami Earthquake</a>
+				</li>
+			</ul>
+		</div>
+		<div class="tab-content container" id="myTabContent">
+			<div class="tab-pane fade show active" style="background-color:white!important" id="home5" role="tabpanel" aria-labelledby="home-tab">
+			
+			
+			
+			
+			</div>
+			<div class="tab-pane fade" id="profile5" style="background-color:white!important" role="tabpanel" aria-labelledby="profile-tab"></div>
+			<div class="tab-pane fade" id="contact5" style="background-color:white!important" role="tabpanel" aria-labelledby="contact-tab"></div>
+		</div>
+</section>
+     
+		
+			  </div>
+			  </div>
+ 
+<div class="alert alert-success" style="margin:0!important; font-size:90%"role="alert">
+<p id="note"></p>
+</div>
+      <!-- FOOTER -->
+     <footer id="main-footer" class="p-2 bg-light text-dark text-center">
+        
+        <div class="row" style="margin-top:10px">
+          <div class="col text-black">
+            <a href="https://bmkg.go.id/" target="_blank">
+              <span style="color:black!important">
+                <i class="fas fa-user-circle"></i> BMKG Website </span>
+            </a>
+          </div>
+          <div class="col text-black">
+            <a href="http://repogempa.bmkg.go.id/" target="_blank">
+              <span style="color:black!important">
+                <i class="fas fa-user-circle"></i> Repository </a>
+            </span>
+          </div>
+          <div class="col text-black">
+            <a href="http://aeic.bmkg.go.id/" target="_blank">
+              <span style="color:black!important">
+                <i class="fas fa-user-circle"></i> AEIC-BMKG </a>
+            </span>
+          </div>
+          
+        </div>
+        <div class="row text-center" style="margin-top:20px">
+         
+            <div class="col" style="width:20%!important;">
+              <span style="font-size:90%!important">&copy;2022 Website InaTEWS</span>
+            </div>
+          
+        </div>
+      </footer>
+    </div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/leaflet-providers.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/leaflet-realtime.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/L.Icon.Pulse.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/L.Control.Layers.Tree.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/jquery.cookie.js"></script>
+    <script src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/chroma.min.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/moment.min.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/id.min.js"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/apps.js?v=20261016.1"></script>
+    <script src="https://inatews.bmkg.go.id/assets_eng/js/apps2.js"></script>
+	
+	<script>
+		 var current = location.href;
+	 var sub = document.getElementById("menu").getElementsByTagName("li");
+	 var lis = document.querySelectorAll('nav ul li a');
+    for (let i = 0; i < lis.length; i++) {
+		if(lis[i].href == current){
+			sub[i].classList.add("nav-active");
+		}
+	}
+      $(".port-item").click(function () {
+          $(".collapse").collapse("hide");
+      });
+      $(document).on("click", '[data-toggle="lightbox"]', function (e) {
+          e.preventDefault();
+          $(this).ekkoLightbox();
+      });
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5e6fe42f98ad55a',t:'MTc5NTM0MDY0MQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5e6fe42f98ad55a',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"7cbaf3ec2b0e442aa509982450bb00ce","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

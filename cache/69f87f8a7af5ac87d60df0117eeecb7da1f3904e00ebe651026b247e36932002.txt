@@ -1,0 +1,41 @@
+Fires
+Fire
+is a major hazard following earthquakes. In the past, earthquakes have often upset burning candles, lamps, stoves and fireplaces, igniting blazes that could raze entire neighborhoods. Today, earthquakes can rupture gas lines, damage oil refineries and tanks, and tip over power lines, sparking fires in the affected areas. Because earthquakes can simultaneously damage water lines and hinder emergency responders, extinguishing these blazes is challenging.
+1906 San Francisco Earthquake
+Famously, the 1906 San Francisco earthquake ignited major fires that burned the city to the ground. On April 18, 1906, California experienced violent shaking following the
+296-mile-long rupture of the San Andreas Fault
+. The shaking ruptured water and gas mains in San Francisco. The leaking gas
+was a catalyst
+for fires that quickly spread throughout the city. Without water, firefighters could not control the conflagration, which burned for three days. The fire destroyed nearly
+five square miles
+of downtown San Francisco and over
+500 city blocks
+. Fire dealt far more damage than the earthquake shaking did, causing 80% of the property damage and incinerating 28,1888 buildings. As a result, the 1906 San Francisco earthquake is primarily remembered for its subsequent fire.
+San Francisco burns after the 1906 earthquake, as seen from the St. Francis Hotel.
+Photo from the U.S. Library of Congress.
+2011 Tohoku Earthquake
+The 2011 Tohoku earthquake in Japan provides a more recent example of dangerous fires following an earthquake. On March 11, 2011, Japan experienced its most powerful earthquake in recent history. This magnitude 9.1 megathrust earthquake left at least
+15,703 people dead and 332,395 buildings destroyed
+. The majority of the casualties and damage occurred due to the subsequent tsunami and the Fukushima nuclear disaster, but the earthquake
+sparked at least 286 damaging fires
+as well. Coastal oil refineries and liquid fuel storage tanks were badly damaged in the earthquake and tsunami, and the
+spilled fuels sparked large fires
+. Additionally, liquefied propane gas canisters were the primary heat source for houses in the tsunami-affected areas. When the tsunami hit, the canisters set fire to their houses. The burning houses floated on the tsunami waves and
+ignited other buildings
+. Fires were also caused by automobiles that exploded when the tsunami waves smashed them into buildings.
+An oil refinery burns in Ichihara, Japan, following the 2011 earthquake.
+Photo by AP Photo/The Yomiuri Shimbun, Kenji Tada.
+Lessons Learned
+History highlights the importance of improving infrastructure resilience to earthquakes. Communities and homeowners should prepare for the possibility that gas and water lines will burst, collectively sparking fires and reducing firefighters’ ability to suppress them. Additionally, liquid fuel terminals, refineries, and pipelines should be seismically retrofitted.
+Water and gas utilities can invest in shake-activated shut off valves that close water and gas mains when an earthquake is detected. This will limit the amount of gas that can leak from broken gas lines and conserve water in reservoirs, where it can be used for firefighting. These shut-off valves will be most effective if they are connected to the
+ShakeAlert Earthquake Early Warning System
+(
+Earthquake Early Warning
+). ShakeAlert can detect earthquakes moments after they begin, so alerts can be sent to people and vital infrastructure before they feel shaking. This can trigger valves to automatically close when an earthquake is detected.
+Similar steps can be undertaken by the oil and liquid fuel industry. Bulk storage tanks should be anchored securely to the ground and replaced with new tanks if necessary. If the soil below is subject to liquefaction, it should be hardened to prevent tanks from tipping. Potential ignition sources such as pilot lights should be secured. ShakeAlert can also contribute to these efforts by automatically turning off pilot lights, shutting off short-length piping, and isolating electrical facilities.
+Homeowners can make sure their gas-powered appliances such as water heaters are anchored to the surrounding floors and walls and have flexible pipe connections. They should also know where their home’s gas shut off valve is located and how to turn it off. As a quarter of fires that occur after an earthquake are caused by broken gas mains, these actions will greatly
+increase community and personal resilience
+.
+Learn more about earthquake preparedness here:
+Preparedness
+.

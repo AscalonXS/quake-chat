@@ -1,0 +1,12 @@
+ShakeAlert®
+The ShakeAlert® earthquake early warning system monitors for significant earthquakes and issues alerts to warn that strong shaking is expected imminently. In the United States, the ShakeAlert system is being developed to cover California, Oregon, and Washington.
+USGS-Issued ShakeAlert® Messages, Past 7 Days
+View Map and List of ShakeAlert® Events
+Past 7 Days
+Past 30 Days
+Search ShakeAlert® Archives
+Search for ShakeAlert messages issued by USGS. The search is configured to return only earthquakes for which an alert was issued.
+Scientific Background
+A basic research overview for earthquake early warning, and the current status of the ShakeAlert® project.
+ShakeAlert.org
+Collaborative website for ShakeAlert® partners.

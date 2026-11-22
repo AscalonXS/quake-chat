@@ -1,0 +1,100 @@
+Go to Menu
+Go to Content
+KMA
+English
+한국어
+日本語
+中文
+Typhoon Information
+Typhoon
+Forecast
+Charts & Images
+Typhoon
+Earthquake
+KMA Introduction
+Information
+Information
+Satellite Imagery
+Typhoon Track Prediction
+There is no current typhoon information in progress.
+Select Eup/Myeon/Dong
+Si/Do
+Si/Gu/Gun
+Eup/Myeon/Dong
+Select
+Si/Do
+Gu/Gun
+Eup/Myeon/Dong
+Road name search
+All
+Ga
+Na
+Da
+Ra
+Ma
+Ba
+Sa
+A
+Ja
+Cha
+Ka
+Ta
+Pa
+Ha
+Select
+Settings
+Display
+Display
+Default
+GIS Map
+Wind speed
+m/s
+km/h
+Hourly Forecast
+3Hours Interval
+1Hours Interval
+Save
+Cancel
+Site map
+한국어
+|
+中文
+|
+日本語
+Forecast
+Current Severe Weather Status
+Impact-based Forecasts
+Current Weather in Korea
+Short-Range Forecasts
+Medium-Range Forecasts
+Long-Range Forecasts
+- 1-Month Outlook
+- 3-Month Outlook
+El Nino / La Nina
+- El Nino / La Nina Forecast
+- El Nino / La Nina Monitoring
+Charts & Images
+Weather Map
+Satellite Images
+Weather Radar
+Lightning
+Weather Chart
+- Analysis Chart
+- Forecast Chart
+Typhoon
+Information
+Satellite Imagery
+Typhoon Track Prediction
+Earthquake
+Current Earthquake Information (Korea)
+Current Earthquake Information (Worldwide)
+Search Earthquakes (Korea)
+Search Earthquakes (Worldwide)
+Earthquake Trends
+KMA Introduction
+Greeting
+Brief History
+Mission & Vision
+Organization
+Location
+Link

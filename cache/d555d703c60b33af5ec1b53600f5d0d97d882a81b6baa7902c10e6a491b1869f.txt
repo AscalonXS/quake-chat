@@ -1,0 +1,865 @@
+[PDF PAGE 1]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-1 
+ESF Coordinator: 
+ 
+Department of Health and Human Services 
+ 
+Primary Agency: 
+ 
+Department of Health and Human Services 
+Support Agencies: 
+ 
+Department of Agriculture 
+Department of Commerce 
+Department of Defense 
+Department of Energy 
+Department of Homeland Security 
+Department of the Interior 
+Department of Justice 
+Department of Labor 
+Department of State 
+Department of Transportation 
+Department of Veterans Affairs 
+Environmental Protection Agency 
+General Services Administration 
+U.S. Agency for International Development 
+U.S. Postal Service 
+American Red Cross 
+INTRODUCTION 
+Purpose 
+Emergency Support Function (ESF) #8 – Public Health and Medical Services provides the 
+mechanism for Federal assistance to supplement local, state, tribal, territorial, and 
+insular area resources in response to a disaster, emergency, or incident that may lead to 
+a public health, medical, behavioral, or human service emergency, including those that 
+have international implications. 
+Scope 
+ESF #8 provides planning and coordination of Federal public health, healthcare delivery, 
+and emergency response systems to minimize and/or prevent health emergencies from 
+occurring; detect and characterize health incidents; provide medical care and human 
+services to those affected; reduce the public health and human service effects on the 
+community; and enhance community resiliency to respond to a disaster. These actions 
+are informed through integrated biosurveillance capability, assessment of health and 
+human service needs, and maintenance of the safety and security of medical products, 
+as well as the safety and defense of food and agricultural products under the Food and 
+Drug Administration’s (FDA) regulatory authority. 
+Public health and medical services (e.g., patient movement, patient care, and behavioral 
+healthcare) and support to human services (e.g., addressing individuals with disabilities 
+and others with access and functional needs) are delivered through surge capabilities 
+that augment public health, medical, behavioral, and veterinary functions with health 
+professionals and pharmaceuticals. These services include distribution and delivery of 
+medical countermeasures, equipment and supplies, and technical assistance. These 
+services are provided to mitigate the effects of acute and longer-term threats to the 
+health of the population and maintain the health and safety of responders. ESF #8 
+disseminates public health information on protective actions related to exposure to 
+health threats or environmental threats (e.g., to potable water and food safety). 
+
+[PDF PAGE 2]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-2 ESF #8 – Public Health and Medical Services Annex June 2016 
+Jurisdictional medico-legal authorities are assisted in carrying out fatality management 
+responsibilities by providing specialized teams and equipment to conduct victim 
+identification, grief counseling and consultation, and reunification of human remains and 
+effects to authorized person(s). ESF #8 may continue providing services and ensure a 
+smooth transition to recovery while the community rebuilds their capability and assumes 
+administrative and operational responsibility for services. ESF #8 provides supplemental 
+assistance to local, state, tribal, territorial, and insular area governments in the following 
+core functional areas: 
+ Assessment of public health/medical needs 
+ Health surveillance 
+ Medical surge 
+ Health/medical/veterinary equipment and supplies 
+ Patient movement 
+ Patient care 
+ Safety and security of drugs, biologics, and medical devices 
+ Blood and tissues 
+ Food safety and defense 
+ Agriculture safety and security 
+ All-hazards public health and medical consultation, technical assistance, and support 
+ Behavioral healthcare 
+ Public health and medical information 
+ Vector control 
+ Guidance on potable water/wastewater and solid waste disposal 
+ Mass fatality management, victim identification, and mitigating health hazards from 
+contaminated remains 
+ Veterinary medical support 
+RELATIONSHIP TO THE WHOLE COMMUNITY 
+This section describes how ESF #8 relates to other elements of the whole community. 
+
+[PDF PAGE 3]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-3 
+Local, State, Tribal, Territorial, and Insular Area Governments 
+While local, state, tribal, territorial, and insular area officials retain primary responsibility 
+for meeting public health and medical needs, ESF #8 can deploy public health and 
+medical resources to assist as needed. 
+In a major public health or medical emergency, demand for public health and medical 
+resources may exceed local, state, tribal, territorial, and insular area capability. State, 
+tribal, territorial, or insular area jurisdictions may request assistance through the 
+Emergency Management Assistance Compact (EMAC) or may request Federal assistance, 
+which may be executed under the Stafford Act or other authorities. When possible, a 
+recognized spokesperson from the affected public health and medical community (local, 
+state, tribal, territorial, or insular area) delivers relevant health messages. 
+Private Sector/Nongovernmental Organizations 
+The vast majority of public health and medical activities and services are provided by 
+the private healthcare sector. ESF #8 augments the support provided by the private 
+healthcare sector when requested by local, state, tribal, territorial, or insular area 
+governments. 
+ESF #8 works with retail, wholesale, and other similar private industry associations for 
+information sharing, planning, and exercises that would produce mutually beneficial 
+results in coordinating how, when, where, and by whom critical resources will be 
+provided during all types of incidents. 
+ESF #8 organizations work closely with the private sector (e.g., regulated industries, 
+academic institutions, trade organizations, and advocacy groups); volunteer 
+organizations (e.g., faith-based and neighborhood partnerships); and local and state 
+agencies to coordinate ESF #8 response resources. ESF #8 organizations recognize that 
+leveraging resources from these organizations and individuals with shared interests 
+allows ESF #8 to accomplish its mission in ways that are the least burdensome and most 
+beneficial to the American public and that enhance the resilience of healthcare systems 
+to deliver coordinated and effective care during public health emergencies and mass 
+casualty events. 
+Nongovernmental organizations, including community-based organizations, are an 
+important partner in recruiting and supporting health professional volunteers and 
+providing medical and counseling services to victims and their families. 
+Federal Government 
+Specific information on Federal Government actions is described in the following 
+sections. 
+CORE CAPABILITIES AND ACTIONS 
+ESF Roles Aligned to Core Capabilities 
+The following table lists the response core capabilities that ESF #8 most directly 
+supports along with the related ESF #8 actions. All ESFs support the following core 
+capabilities: Planning, Operational Coordination, and Public Information and Warning. 
+
+[PDF PAGE 4]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-4 ESF #8 – Public Health and Medical Services Annex June 2016 
+Core Capability ESF #8 – Public Health and Medical Services 
+Public Information 
+and Warning 
+Public Health and Medical Information 
+ Coordinates the Federal public health and medical messaging with 
+jurisdictional officials. 
+ Continuously acquires and assesses information on the incident. 
+Sources of information may include state incident response authorities; 
+officials of the responsible jurisdiction in charge of the disaster scene; 
+and ESF #8 support departments, agencies, and organizations. 
+ Provides public health, behavioral health, disease, and injury 
+prevention information that can be transmitted to members of the 
+general public and responders who are located in or near affected 
+areas in multiple and accessible formats and languages in a culturally 
+and linguistically appropriate manner that is understandable to all 
+appropriate populations, such as individuals with access and functional 
+needs; those with limited English proficiency; pediatric populations; 
+populations with disabilities and others with access and functional 
+needs; the aging; and those with temporary or chronic medical 
+conditions. 
+ Supports a Joint Information Center (JIC) in the release of general 
+medical and public health response information to the public. 
+Critical 
+Transportation 
+Patient Movement 
+ Transports seriously ill or injured patients and medical needs 
+populations from point of injury or casualty collection points in the 
+impacted area to designated reception facilities. 
+ Coordinates the Federal response in support of emergency triage and 
+pre-hospital treatment, patient tracking, distribution, and patient 
+return. This effort is coordinated with Federal and local, state, tribal, 
+territorial, and insular area emergency medical services officials. 
+ Provides resources to assist in the movement of at-risk/medically 
+fragile populations to shelter areas and with the sheltering of the 
+special medical needs population that exceeds the state capacity. 
+ Provides private vendor ambulance support to assist in the movement 
+of patients through the National Ambulance Contract. 
+ Provides support for evacuating seriously ill or injured patients though 
+the National Disaster Medical System (NDMS). This is an interagency 
+partnership between the Department of Health and Human Services 
+(HHS), the Department of Homeland Security (DHS), the Department 
+of Defense (DOD), and the Department of Veterans Affairs (VA). 
+− Support may include providing accessible transportation assets; 
+operating and staffing NDMS patient collection points (e.g., aerial 
+ports of embarkation (APOEs)); and/or establishing Federal 
+Coordinating Centers (FCCs) that conduct patient reception at 
+ports of debarkation (e.g., aerial ports of debarkation (APOD)). 
+− Federal support may also include processing and tracking patient 
+movement from collection points to their final destination reception 
+facilities through final disposition. (Note: DOD is responsible for 
+tracking patients transported on DOD assets to the receiving FCC.) 
+ Provides patient tracking from point of entry to final disposition. 
+ Provides capability to identify bed capacity for the purposes of bed 
+allocation among healthcare treatment networks. 
+
+[PDF PAGE 5]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-5 
+Core Capability ESF #8 – Public Health and Medical Services 
+Environmental 
+Response/Health 
+and Safety 
+ Supports the Worker Safety and Health Support Annex; provides 
+technical assistance; and conducts exposure assessments and risk 
+management to control hazards for response workers and the public. 
+Fatality 
+Management 
+Services 
+ Assists jurisdictional medico-legal authorities and law enforcement 
+agencies in the tracking and documenting of human remains and 
+associated personal effects; reducing the hazard presented by 
+chemically, biologically, or radiologically contaminated human remains 
+(when indicated and possible); establishing temporary morgue 
+facilities; determining the cause and manner of death; collecting ante 
+mortem data in a compassionate and culturally competent fashion 
+from authorized individuals; performing postmortem data collection 
+and documentation; identifying human remains using scientific means 
+(e.g., dental, pathology, anthropology, fingerprints, and, as indicated, 
+DNA samples); and preparing, processing, and returning human 
+remains and personal effects to the authorized person(s) when 
+possible; and providing technical assistance and consultation on 
+fatality management and mortuary affair services. May provide 
+behavioral health support to families of victims during the victim 
+identification mortuary process. 
+ May provide for temporary interment when permanent disposition 
+options are not readily available. 
+Mass Care Services  Provides technical expertise and guidance on the public health issues 
+of the medical needs population. 
+ Assists with applications for Federal benefits sponsored by HHS and 
+ensures continuity of assistance services in affected states and in 
+states hosting relocated populations. 
+ Provides support for the provision of case management and advocacy 
+services. 
+ Provides support for human and/or veterinary mass care sheltering, as 
+resources are available. 
+Logistics and 
+Supply Chain 
+Management 
+Health, Medical, and Veterinary Equipment and Supplies 
+ Arranges for the procurement and transportation of equipment and 
+supplies; diagnostic supplies; radiation detection devices; and medical 
+countermeasures including assets from the Strategic National Stockpile 
+(SNS); in support of immediate public health, medical and veterinary 
+response operations. 
+Blood and Tissues 
+ Monitors and ensures the safety, availability, and logistical 
+requirements of blood, blood products and tissue. This includes the 
+ability of the existing supply chain resources to meet the 
+manufacturing, testing, storage, and distribution of these products. 
+
+[PDF PAGE 6]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-6 ESF #8 – Public Health and Medical Services Annex June 2016 
+Core Capability ESF #8 – Public Health and Medical Services 
+Public Health, 
+Healthcare, and 
+Emergency Medical 
+Services 
+Health Surveillance 
+ Uses existing all-hazards surveillance systems to monitor the health of 
+the general and medical needs population, as well as that of response 
+workers, and identify emerging trends related to the disaster; carries 
+out field studies and investigations; monitors injury and disease 
+patterns and potential disease outbreaks, behavioral health concerns, 
+blood, blood products, and tissue supply levels; and provides technical 
+assistance and consultations on disease and injury prevention and 
+precautions. Provides support to laboratory diagnostics and through 
+the Laboratory Response Network (LRN) provides a mechanism for 
+laboratories to access additional resources when the capabilities or 
+capacity have been exceeded. 
+Medical Surge 
+ Provides support for triage, patient treatment, and patient movement. 
+ Provides clinical public health and medical care specialists from the 
+NDMS, U.S. Public Health Service, VA, and DOD to fill local, state, 
+tribal, territorial, and insular area health professional needs. 
+ Coordinates with states to integrate Federal assets with civilian 
+volunteers deployed from local, state, and other authorities, including 
+those deployed through the Emergency System for Advance 
+Registration of Volunteer Health Professionals and the Medical Reserve 
+Corps. 
+Patient Care 
+ Provides resources to support pre-hospital triage and treatment, 
+inpatient hospital care, outpatient services, behavioral healthcare, 
+medical-needs sheltering, pharmacy services, and dental care to 
+victims with acute injury/illnesses or those who suffer from chronic 
+illnesses/conditions. 
+ Assists with isolation and quarantine measures as well as with medical 
+countermeasure and vaccine point of distribution operations (e.g., 
+mass prophylaxis). 
+ Ensures appropriate patient confidentiality is maintained, including 
+Health Insurance Portability and Accountability Act privacy and security 
+standards, where applicable. 
+Assessment of Public Health/Medical Needs 
+ Supports national or regional teams to assess public health and 
+medical needs. This function includes the assessment of the healthcare 
+system/facility infrastructure. 
+Food Safety, Security, and Defense 
+ In coordination with ESF #11, may task HHS components and request 
+assistance from other ESF #8 partner organizations to ensure the 
+safety, security, and defense of federally regulated foods. 
+Agriculture Safety and Security 
+ In coordination with ESF #11, ESF #8 may task components to ensure 
+the health, safety, and security of livestock and food-producing 
+animals and animal feed, as well as the safety of the manufacture and 
+distribution of foods, drugs, and therapeutics given to animals used for 
+human food production. ESF #8 may also provide veterinary 
+assistance to ESF #11 for the care of research animals. 
+
+[PDF PAGE 7]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-7 
+Core Capability ESF #8 – Public Health and Medical Services 
+Public Health, 
+Healthcare, and 
+Emergency Medical 
+Services 
+(continued) 
+Safety and Security of Drugs, Biologics, and Medical Devices 
+ During response, provides advice to private industry regarding the 
+safety and efficacy of drugs; biologics (including blood, blood products, 
+tissues and vaccines); medical devices (including radiation emitting 
+and screening devices); and other products that may have been 
+compromised during an incident and are HHS regulated products. 
+All-Hazard Public Health and Medical Consultation, Technical 
+Assistance, and Support 
+ Assesses public health, medical, and veterinary medical effects 
+resulting from all hazards. Such tasks may include assessing 
+exposures on the general population, on children, and on those with 
+disabilities and others with access and functional needs; conducting 
+field investigations, including collection and analysis of relevant 
+samples; advising protective actions related to direct human and 
+animal exposures and on indirect exposure through contaminated 
+food, drugs, water supply, and other media; and providing technical 
+assistance and consultation on medical treatment, screening, and 
+decontamination of injured or contaminated individuals. Provides for 
+disaster-related health and behavioral health needs through direct 
+services and/or referrals as necessary. 
+Vector Control 
+ Assesses the threat of vector-borne diseases. 
+ Conducts field investigations, including the collection and laboratory 
+analysis of relevant samples; provides vector control equipment and 
+supplies. 
+ Provides technical assistance and consultation on protective actions 
+regarding vector-borne diseases. 
+ Provides aerial spraying for vector control 
+ Provides technical assistance and consultation on medical treatment of 
+victims of vector-borne diseases. 
+Public Health Aspects of Potable Water/Wastewater and Solid 
+Waste Disposal 
+ Assists in assessing potable water, wastewater, solid waste disposal, 
+and other environmental health issues related to public health in 
+establishments holding, preparing, and/or serving food, drugs, or 
+medical devices at retail and medical facilities, as well as examining 
+and responding to public health effects from contaminated water; 
+conducting field investigations, including collection and laboratory 
+analysis of relevant samples; providing equipment and supplies as 
+needed; and providing technical assistance and consultation. 
+
+[PDF PAGE 8]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-8 ESF #8 – Public Health and Medical Services Annex June 2016 
+Core Capability ESF #8 – Public Health and Medical Services 
+Public Health, 
+Healthcare, and 
+Emergency Medical 
+Services 
+(continued) 
+Veterinary Medical Support 
+ Provides veterinary medical support to treat ill or injured animals, and 
+veterinary public health support through HHS National Veterinary 
+Response Team and veterinary medical officers of the Commissioned 
+Corps of the U.S. Public Health Service. ESF#8 is the primary Federal 
+resource for treatment of ill or injured service animals, pets, working 
+animals, laboratory animals, and livestock post-disaster. 
+ Under HHS’ statutory authority conduct animal response to zoonotic 
+diseases in order to protect human health. 
+ Support the United States Department of Agriculture (USDA) and its 
+authority to manage a foreign animal disease response with the 
+resources listed above for livestock or poultry diseases exotic to the 
+United States that are either not or only mildly zoonotic. 
+
+[PDF PAGE 9]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-9 
+Integration with the National Disaster Recovery Framework 
+ESF#8 is linked closely with the Health and Social Services Recovery Support Functions 
+(RSF) under the National Disaster Recovery Framework. The Health and Social Services 
+RSF may stand up nearly as early as ESF#8, though initially to focus on planning and 
+information sharing. The ESFs and RSFs coexist and share information about impacts 
+and assistance provided while focusing on their respective core capability. There will be 
+some overlap between ESF and RSF missions, but as the ESF requirements diminish, the 
+RSFs will examine any outstanding ESF activities that are associated with long-term 
+health and social services recovery and determine subsequent actions consistent with 
+the Recovery Federal Interagency Operational Plan (FIOP). From the earliest period 
+following the disaster, ESF#8 will work closely with the Health and Social Services RSF 
+to synchronize the integration of long-term restoration activities as seamlessly as 
+possible. 
+Agency Actions 
+Primary Agency Actions 
+Department of 
+Health and Human 
+Services (HHS) 
+ Possesses statutory authority to take specific actions to prepare for, 
+respond to, and recover from public health and medical emergencies. 
+ Declares a Public Health Emergency through the HHS Secretary. 
+ Assumes operational control of Federal emergency public health and 
+medical response assets, as necessary, in the event of a public health 
+emergency, except for members of the Armed Forces, who remain 
+under the authority and control of the Secretary of Defense. 
+ Leads the Federal effort to provide public health and medical 
+assistance to the affected area in an incident requiring a coordinated 
+Federal response. 
+ Leads the Federal response to international requests for HHS public 
+health and medical assets and coordinates with Federal 
+departments/agencies and international partners on the acceptance of 
+international public health and medical assistance. 
+ Maintains primary responsibility for the situational awareness of public 
+health, medical, and behavioral health assistance; determining the 
+appropriate level of response capability based on the requirement 
+contained in the action request form; and developing status updates 
+and assessments. 
+ Requests ESF #8 organizations to activate and deploy health 
+professional and veterinary personnel, pharmaceuticals, equipment, 
+and supplies in response to requests for Federal assistance, as 
+appropriate. 
+ Assigns HHS personnel (i.e., U.S. Public Health Service Commissioned 
+Corps, NDMS, Federal Civil Service) to address public health, medical, 
+behavioral health, and veterinary needs. 
+ In cooperation with local, state, tribal, territorial, and insular area 
+officials, conducts health surveillance to assess morbidity, mortality, 
+and community needs related to the emergency. 
+ Prepares regional staff to deploy as the Incident Response 
+Coordination Team and to provide initial ESF #8 support to the 
+affected location. 
+
+[PDF PAGE 10]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-10 ESF #8 – Public Health and Medical Services Annex June 2016 
+Primary Agency Actions 
+HHS (continued)  Assists and supports local, state, tribal, territorial, and insular area 
+officials in monitoring for internal patient radiological contamination 
+and administering pharmaceuticals for internal decontamination. 
+ Assists local, state, tribal, territorial, and insular area officials in 
+establishing a registry of individuals potentially exposed to radiation in 
+a radiological/nuclear incident; performing dose reconstruction; and 
+conducting long-term monitoring of this population for potential long-
+term health effects. 
+ Monitors blood, blood products, and tissue supplies, shortages and 
+reserves. 
+ Liaises with the American Association of Blood Banks (AABB) 
+Interorganizational Task Force on Domestic Disasters and Acts of 
+Terrorism (AABB Task Force) or the American Red Cross to assist in 
+logistical requirements and to coordinate a national public blood 
+announcement message for the need to donate blood. 
+ Activates NDMS as necessary to support response operations. 
+ Deploys or redeploys the SNS or other pharmaceutical or medical 
+resources as appropriate. 
+ Coordinates public health and medical support and patient movement 
+requirements with supporting departments, agencies, and 
+governments throughout the incident. 
+ Assures the safety, defense, and security of food in coordination with 
+other responsible Federal agencies (e.g., USDA). In cooperation with 
+local, state, tribal, territorial, and insular area officials, assesses 
+whether food manufacturing, food processing, food distribution, food 
+service, and food retail establishments in the affected area are able to 
+provide safe food. 
+ Cooperates with local, state, tribal, territorial, and insular area officials 
+as well as the food industry to conduct trace backs and/or recalls of 
+adulterated products. 
+ Cooperates with local, state, tribal, territorial, insular area, and 
+Federal officials to provide guidance regarding the proper disposal of 
+contaminated products and the decontamination of affected food 
+facilities in order to protect public health. 
+ Provides public health risk communication messages and advisories 
+that communicate relevant information on health hazards or other 
+situations that could potentially threaten the public in multiple and 
+accessible formats (e.g. visual public announcements, interpreters, 
+etc.) and in a culturally and linguistically appropriate manner. 
+ Disseminates public health information on protective actions related to 
+exposure to health threats or environmental threats. 
+ Notifies or responds to foreign country potential health threats as 
+required by International Health Regulations. 
+ Provides support for public health matters for radiological incidents as 
+a member of the Advisory Team for Environment, Food, and Health. 
+ Consults public health and medical subject matter experts with ESF #8 
+supporting organizations. This includes partners representing all 
+appropriate populations such as individuals with access and functional 
+needs, which can include pediatric populations, individuals with 
+disabilities, older adults, and individuals with temporary or chronic 
+medical conditions. 
+
+[PDF PAGE 11]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-11 
+Support Agency Actions 
+Department of 
+Agriculture 
+ Provides nutrition assistance. 
+ Ensures the safety and defense of the Nation’s supply of meat, 
+poultry, and processed egg products. 
+ Responds to animal and agricultural health and disease management 
+issues. 
+ Collaborates with HHS and the Department of the Interior (DOI) to 
+deliver effective “one health” response that integrates human, animal, 
+plant, and environmental health. 
+ Supports public health matters for radiological incidents as a member 
+of the Advisory Team for Environment, Food, and Health. 
+ Provides technical expertise in support of animal and agricultural 
+emergency management. 
+United States Forest Service 
+ Provides personnel, equipment, and supplies primarily for 
+communications, aircraft, and base camps for deployed Federal public 
+health and medical teams. 
+Department of 
+Commerce 
+National Oceanic and Atmospheric Administration 
+ Provides near real-time transport, dispersion, and predictions of 
+atmospheric releases of radioactive and hazardous materials that may 
+be used by authorities in taking protective actions related to sheltering 
+and evacuating affected populations. 
+Department of 
+Defense (DOD) 
+ 
+ Subject to the availability of resources and the approval of the 
+Secretary of Defense, DOD may perform the following when 
+requested: 
+ Alerts DOD NDMS FCCs and provides specific reporting instructions to 
+support incident relief efforts. 
+ Alerts DOD NDMS FCCs to activate NDMS patient reception plans in a 
+phased, regional approach, and when appropriate, in a national 
+approach, as determined by HHS. 
+ At the request of HHS and in coordination with interagency partners, 
+provides NDMS support for the aeromedical evacuation and medical 
+management of NDMS patients at DoD patient collection points (APOE) 
+to patient reception areas (APOD/FCC). 
+ Coordinates reception, tracking, and management of patients 
+evacuated on DOD assets from the APOE to the APOD, as well as 
+patients received at DOD FCCs and transported to nearby NDMS 
+hospitals and VA hospitals that are available and can provide 
+appropriate care. Provides medical regulation of patients moved on 
+DOD transportation assets. 
+ Provides available logistical support (e.g., transportation) to public 
+health/medical response operations. 
+ Deploys available medical, surgical, and behavioral health personnel 
+for casualty clearing and staging, patient management, and treatment. 
+Deploys healthcare providers in a limited capacity to augment civilian 
+hospital staff and Federal deployable teams, and supports points of 
+medical countermeasure distribution. Deploys chemical, biological, 
+radiological, and nuclear (CBRN) medical subject matter experts 
+and/or teams for technical consultation and/or medical support. 
+Mobilizes and deploys available Active Component, Reserve, and/or 
+National Guard medical units or individuals when authorized for public 
+health and medical response. 
+
+[PDF PAGE 12]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-12 ESF #8 – Public Health and Medical Services Annex June 2016 
+ 
+Support Agency Actions 
+DOD (continued)  Provides deployable units (e.g., Expeditionary Medical Support 
+System, Combat Support Hospitals) and platforms (e.g., U.S Naval 
+hospital ships, and/or other Naval vessels) for patient medical and/or 
+surgical care. 
+ Provides epidemiological and occupational health support, 
+telemedicine, and other specialized medical support. 
+ Provides available military medical personnel to assist ESF #8 in the 
+protection of public health (e.g., food, water, hygiene, wastewater 
+removal, solid waste disposal, and vector control). 
+ Provides available veterinary personnel to assist in the treatment of 
+animals and in food safety, security, and protection activities. Provides 
+available zoonotic and food surveillance data to ESF #8 and ESF #11 
+partners (e.g., FDA, USDA). 
+ Provides available DOD medical supplies and materiel for use at points 
+of distribution, hospitals, clinics, or medical care locations operated for 
+exposed populations, incident victims, or ill patients. Provides available 
+DOD medical supplies and materiel for mass care centers. 
+ Assists local, state, tribal, territorial, and insular area officials in the 
+provision of emergency medical, surgical, and behavioral healthcare. 
+ Provides the use of functional DOD military treatment facilities within 
+or near the incident area for medical care of non-Military Healthcare 
+System beneficiaries. 
+ Provides available assistance for human fatality management services 
+including remains collection, remains transport, mortuary services, 
+victim identification, autopsy (if appropriate), and consultation and 
+general assistance with temporary interment sites. Provide technical 
+consultation for chemically or radiologically contaminated or infectious 
+remains. Provides support to Victim Information Centers. Tracks 
+decedents transported on DOD assets to fatality management facilities 
+(e.g., mortuary, funeral home). 
+ Provides evaluation and risk management support through use of 
+Defense Coordinating Officers, Emergency Preparedness Liaison 
+Officers, and Joint Regional Medical Plans and Operations Officers. 
+ Provides available blood, blood products, and tissues in coordination 
+with HHS. 
+ Provides public health and medical surveillance, laboratory diagnostics, 
+and confirmatory testing (e.g., United States Army Medical Research 
+Institute of Infectious Disease, United States Naval Medical Research 
+Center) in coordination with the Laboratory Response Network/HHS 
+and the Integrated Consortium of Laboratory Networks/DHS. 
+U.S. Army Corps of Engineers 
+ Through ESF #3, provides technical assistance, equipment, and 
+supplies in support of HHS to accomplish temporary restoration of 
+damaged public utilities affecting public health and medical facilities. 
+Through ESF #3, provides power (e.g. generators) to medical and 
+public health facilities. Through ESF #3 and in coordination with State 
+and local officials, provides site evaluation and site (e.g., ground) 
+preparation for temporary interment of human remains. 
+
+[PDF PAGE 13]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-13 
+ 
+Support Agency Actions 
+Department of 
+Energy/National 
+Nuclear Security 
+Administration 
+(DOE/NNSA) 
+ Coordinates Federal assets for external monitoring and 
+decontamination activities for radiological emergencies pursuant to 
+criteria established by the state(s) in conjunction with HHS. 
+ Provides, in cooperation with other state and Federal agencies, 
+personnel and equipment, including portal monitors to support initial 
+screening; and provides advice and assistance to local, state tribal, 
+territorial, and insular area personnel conducting 
+screening/decontamination of persons leaving a contaminated zone. 
+Radiological Assistance Program 
+ Provides regional resources (e.g., personnel, specialized equipment, 
+and supplies) to evaluate, control, and mitigate radiological hazards to 
+workers and the public. 
+ Provides limited assistance in the decontamination of victims. 
+ Assists local, state, tribal, territorial, and insular area officials in the 
+monitoring and surveillance of the incident area. 
+National Atmospheric Release Advisory Capability 
+ Provides near real-time transport, dispersion, and dose predictions of 
+atmospheric releases of radioactive and hazardous materials that may 
+be used by authorities in taking protective actions related to sheltering 
+and evacuation of people. 
+Federal Radiological Monitoring and Assessment Center (FRMAC) 
+ Assists public health and medical authorities in determining 
+radiological dose information; assists in providing coordinated 
+gathering of environmental radiological information and data; assists 
+with consolidated data sample analyses, evaluations, assessments, 
+and interpretations; and provides technical information. 
+Radiological Emergency Assistance Center/Training Site 
+ Provides medical advice, specialized training, and on-site assistance 
+for the treatment of all types of radiation exposure accidents. 
+ Through the Cytogenetic Biodosimetry Laboratory (CBL), provides for 
+post-exposure evaluation of radiation dose received. 
+
+[PDF PAGE 14]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-14 ESF #8 – Public Health and Medical Services Annex June 2016 
+Support Agency Actions 
+Department of 
+Homeland Security 
+(DHS) 
+ Provides communications support in coordination with ESF #2. 
+ Maintains situational awareness and the common operating picture via 
+the Homeland Security Information Network. 
+ Assists in providing information/liaison with emergency management 
+officials in NDMS FCC areas. 
+ Identifies and arranges for use of DHS/U.S. Coast Guard (USCG) 
+search and rescue (SAR) aircraft and other assets in providing urgent 
+airlift and other accessible transportation support: 
+− Provides medical assistance to extracted victims. 
+− Assists in coordinating with local emergency medical systems for 
+transfer of victims to appropriate healthcare facilities. 
+− Conducts search operations for human remains, as mission 
+assigned. 
+ Provides location of human remains to facilitate humane recovery and 
+collection of available forensic/ante-mortem data during course of SAR 
+operations. 
+ Leads the Interagency Modeling and Atmospheric Assessment Center 
+(IMAAC) to coordinate, produce, and disseminate dispersion modeling 
+and hazard prediction products that represent the Federal position 
+during an actual or potential incident to aid emergency responders in 
+protecting the public and environment. 
+ Provides enforcement of international quarantines through DHS/USCG, 
+Customs and Border Protection, and Immigration and Customs 
+Enforcement. 
+Federal Emergency Management Agency 
+ Provides logistical support for deploying ESF #8 medical elements 
+required and coordinates the use of mobilization centers/staging 
+areas; transportation of resources; use of disaster fuel contracts; 
+emergency meals; potable water; base camp services; supply and 
+equipment resupply; and use of all national contracts and interagency 
+agreements managed by DHS for response operations. 
+ Provides total asset visibility through the use of global positioning 
+system tracking services to enable visibility of some ESF #8 resources 
+through mapping capabilities and reports. 
+ Provides support with the National Ambulance Contract for evacuating 
+patients who are too seriously ill or otherwise incapable of being 
+evacuated in general evacuation conveyances. 
+ Provides tactical communications support through Mobile Emergency 
+Response Support, inclusive of all types (i.e., deployable satellite and 
+radio frequency/radio communications). 
+Office of Infrastructure Protection 
+ Provides situational awareness, cross-sector coordination, and 
+prioritized recommendations regarding critical infrastructure and key 
+resources. 
+Department of the 
+Interior (DOI) 
+ If available, provides appropriate personnel, equipment, and supplies 
+primarily for communications, aircraft, and the establishment of base 
+camps for deployed Federal public health and medical teams. 
+Resources will be assigned commensurate with each unit's level of 
+training and the adequacy and availability of equipment. ESF #4 or the 
+DOI Operations Center is the contact for this support. 
+
+[PDF PAGE 15]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-15 
+Support Agency Actions 
+Department of 
+Justice (DOJ) 
+ Acts through the Federal Bureau of Investigation (FBI) to conduct 
+evidence collection and analysis of all CBRN-related materials and 
+controls potential crime scenes. 
+ Assists in victim identification, coordinated through the FBI. 
+ Provides local, state, tribal, territorial, and insular area officials with 
+legal advice concerning identification of the deceased consistent with 
+cultural sensitivity practices. 
+ Provides HHS with relevant information of any credible threat or other 
+situation that could potentially threaten public health. This support is 
+coordinated through FBI headquarters. 
+ Provides security for the SNS and secure movement of inbound 
+medical equipment, supplies, blood, and tissues. 
+ As the Coordinator for ESF #13, provides crowd control at fixed and 
+deployed healthcare facilities for the protection of workers and to 
+address public safety and security. 
+ Provides quarantine assistance. 
+ Establishes an adult missing person call center and assists in the 
+disposition of cases. 
+ Shares missing person data with ESF #6, ESF #8, ESF #13, and the 
+American Red Cross in support of identification of the deceased and 
+seriously wounded. 
+ Supports local death scene investigations and evidence recovery. 
+ Provides guidance, promulgates regulations, conducts investigations 
+and compliance reviews, and enforces Federal civil rights laws, 
+including their application to emergency management. 
+Department of 
+Labor 
+ Coordinates the safety and health assets of Federal departments and 
+agencies designated as cooperating agencies under the NRF Worker 
+Safety and Health Support Annex and of the private sector to provide 
+technical assistance and conduct worker exposure assessment and 
+responder and worker risk management within the Incident Command 
+System. This assistance may include 24/7 site safety monitoring; 
+worker exposure monitoring; health monitoring; sampling and 
+analysis; development and oversight of the site-specific safety and 
+health plan; and personal protective equipment selection, distribution, 
+training, and respirator fit testing. 
+ Provides personnel and management support related to worker safety 
+and health in field operations during ESF #8 deployments. 
+Department of State  Coordinates the diplomatic aspects of international activities related to 
+CBRN incidents and events that pose transborder threats as well as 
+the diplomatic aspects of naturally-occurring disease outbreaks with 
+international implications. 
+ Assists with coordination with foreign states concerning offers of 
+support, gifts, offerings, donations, or other aid. This includes 
+establishing coordination with partner nations to identify the 
+immediate support, validated by the United States, in response to an 
+incident. 
+ Acts as the health and medical services information conduit to U.S. 
+embassies/consulates. 
+
+[PDF PAGE 16]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-16 ESF #8 – Public Health and Medical Services Annex June 2016 
+Support Agency Actions 
+Department of 
+Transportation 
+(DOT) 
+ Collaborates with DOD, the General Services Administration (GSA), 
+and other transportation-providing agencies to provide technical 
+assistance in identifying and arranging for all types of transportation, 
+such as air, rail, marine, and motor vehicle and accessible 
+transportation. 
+ Coordinates with the Federal Aviation Administration for air traffic 
+control support for priority missions. 
+ At the request of ESF #8, provides technical support to assist in 
+arranging logistical movement support (e.g., supplies, equipment, 
+blood supply) from DOT resources, subject to DOT statutory 
+requirements. 
+Department of 
+Veterans Affairs 
+ Subject to the availability of resources and funding, and consistent 
+with the VA mission to provide priority services to veterans, when 
+requested: 
+ Coordinates with participating NDMS hospitals to provide incident-
+related medical care to authorized NDMS beneficiaries affected by a 
+major disaster or emergency. 
+ Furnishes available VA hospital care and medical services to individuals 
+responding to, involved in, or otherwise affected by a major disaster or 
+emergency, including members of the Armed Forces on active duty. 
+ Designates and deploys available medical, surgical, mental health, and 
+other health service support assets. 
+ Provides a Medical Emergency Radiological Response Team for 
+technical consultation on the medical management of injuries and 
+illnesses due to exposure to or contamination by ionizing radiation. 
+ Alerts VA FCCs and provides reporting instructions to support incident 
+relief efforts. 
+ Alerts VA FCCs to activate NDMS patient reception plans in a phased, 
+regional approach and when appropriate, in a national approach. 
+ Buries and memorializes eligible veterans and advises on methods for 
+interment of the dead during national or homeland security 
+emergencies. 
+Environmental 
+Protection Agency 
+ Provides technical assistance and environmental information for the 
+assessment of the public health/medical aspects of situations involving 
+hazardous materials, including technical and policy assistance in 
+matters involving water and wastewater systems for critical healthcare 
+facilities. 
+ Provides support for public health matters for radiological incidents by 
+providing assets to the FRMAC under ESF #10 and to the Advisory 
+Team for Environment, Food, and Health. 
+ Assists in identifying alternate water supplies and wastewater 
+collection and treatment for critical healthcare facilities. 
+ Provides environmental technical assistance (e.g., environmental 
+monitoring) and information in the event temporary interment is 
+necessary and/or human remains are contaminated. 
+General Services 
+Administration 
+ Provides resource support for ESF #8 requirements to meet the needs 
+of the affected population, as requested. 
+ Provides contract support for temporary storage capability of human 
+remains in a catastrophic fatality incident, such as refrigerated trucks, 
+trailers, or rail cars. 
+
+[PDF PAGE 17]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+June 2016 ESF #8 – Public Health and Medical Services Annex ESF #8-17 
+Support Agency Actions 
+U.S. Agency for 
+International 
+Development 
+Office of Foreign Disaster Assistance 
+ Assists in the tracking and distribution of international support assets. 
+U.S. Postal Service  Assists in the distribution and transportation of medicine, 
+pharmaceuticals, and medical information to the general public 
+affected by a major disaster or emergency, as needed. 
+American Red Cross  Provides for disaster-related health and behavior health needs through 
+direct services and/or referrals as necessary. 
+ Assists community health personnel subject to staff availability. 
+ Provides mortality and morbidity information to requesting agencies. 
+ Provides supportive counseling for family members of the dead, 
+injured, and others affected by the incident. 
+ Provides information regarding behavioral health surveillance and 
+behavioral health trends to requesting agencies. 
+ Supports NDMS evacuation through the provision of services for 
+accompanying family members/caregivers in coordination with local, 
+state, tribal, territorial, insular area, and Federal officials. 
+ Provides available personnel to assist in temporary infirmaries, 
+immunization clinics, morgues, hospitals, and nursing homes. 
+Assistance consists of administrative support, logistical support, or 
+health services support within clearly defined boundaries. 
+ At the request of HHS, coordinates with the AABB Task Force to 
+provide blood and services as needed through regional blood centers. 
+ Supports reunification efforts through its Safe and Well website and in 
+coordination with government entities as appropriate. 
+ Refers concerns regarding animal healthcare, safety, or welfare to 
+authority having jurisdiction for animal issues. 
+
+[PDF PAGE 18]
+Emergency Support Function #8 – Public Health and Medical Services Annex 
+ESF #8-18 ESF #8 – Public Health and Medical Services Annex June 2016 
+ 
+This page intentionally left blank.

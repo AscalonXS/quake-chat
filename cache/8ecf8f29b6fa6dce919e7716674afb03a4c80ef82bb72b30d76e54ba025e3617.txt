@@ -1,0 +1,83 @@
+At a Glance
+Earthquake impacts are not only caused by buildings shaking. Earthquake shaking can also trigger ground failure, including landslides, rockfalls, liquefaction, and lateral spreading.
+Why This Matters
+This matters for policy because different ground-failure types occur in different geologic and landscape settings. A single earthquake can affect slopes, cliffs, riverbanks, filled ground, low-lying sediment, roads, bridges, utilities, and buildings in different ways.
+Downloads
+Download image
+Download PDF
+Download or reuse this guide in briefings and meeting materials.
+Accessible image description
+Main concept:
+Earthquake shaking can trigger ground failure, not just structural shaking.
+Core message:
+The visual explains that one earthquake can trigger different kinds of ground failure in different parts of the same landscape, depending on local geology, slope conditions, groundwater, sediment, and landform setting.
+Earthquake shaking:
+The center of the visual shows an earthquake-shaking symbol with arrows pointing toward several ground-failure types.
+Landslide:
+The upper-left part of the visual shows a landslide on a steep hillside. Soil, rock, and debris move downslope and block a road near a house.
+Rockfall:
+The upper-right part of the visual shows fractured rock falling from a steep cliff or road cut toward a road below.
+Liquefaction:
+The lower-left part of the visual shows a flat developed area with cracked pavement, tilted buildings, settlement, and damaged buried utilities. Liquefaction can occur where loose sandy or silty sediment is already saturated below the water table and loses strength during earthquake shaking.
+Lateral spreading:
+The lower-right part of the visual shows cracked ground moving sideways toward a riverbank. A road edge, utility pole, and buried utility line are damaged by lateral movement.
+Infrastructure exposure:
+The visual shows that roads, bridges, buildings, pipelines, rail lines, utilities, and emergency routes may be exposed to more than one kind of earthquake-triggered ground failure.
+Planning connection:
+Seismic planning should account for local geology, slope conditions, riverbanks, shallow groundwater, filled ground, and loose sediment, as well as building design.
+Policy takeaway:
+Earthquakes can damage communities by moving the ground itself, not just by shaking buildings. Seismic planning should account for landslides, rockfalls, liquefaction, and lateral spreading as well as structural design.
+Earthquake impacts are not only caused by buildings shaking. Earthquake shaking can also trigger several kinds of ground failure, including landslides, rockfalls, liquefaction, and lateral spreading.
+A single earthquake can affect different parts of the same landscape in different ways. Slopes, cliffs, riverbanks, filled ground, low-lying sediment, roads, bridges, utilities, and buildings may all be exposed to earthquake-triggered ground movement.
+What the visual shows
+The visual shows one connected landscape affected by earthquake shaking. A central earthquake-shaking symbol points toward four different ground-failure types: landslide, rockfall, liquefaction, and lateral spreading.
+The landslide area shows a steep hillside where soil and rock have moved downslope and blocked a road near a house. This illustrates how shaking can destabilize steep slopes or already weak hillside materials.
+The rockfall area shows fractured rock falling from a steep cliff or road cut. This illustrates how shaking can dislodge loose blocks from cliffs, bluffs, or cut slopes.
+The liquefaction area shows a low-lying developed area with tilted buildings, cracked pavement, settlement, sand boils, and damaged buried utilities. Liquefaction can occur where loose sandy or silty sediment is already saturated below the water table. Earthquake shaking can temporarily reduce the strength of that sediment, allowing buildings and roads to tilt, settle, or crack.
+The lateral spreading area shows cracked ground moving sideways toward a river. A road edge, utility pole, and buried utility line are damaged by the sideways ground movement. This illustrates how lateral spreading can occur near riverbanks, shorelines, waterfronts, and other open edges.
+The visual also shows a bridge, roads, buildings, and utilities to emphasize that earthquake-triggered ground failure can affect transportation, emergency access, public services, and infrastructure networks.
+Why this matters for policy
+Earthquake planning often focuses on how buildings respond to shaking. That is important, but it is not the whole risk picture. In some places, the ground itself can fail or move in ways that damage buildings, roads, bridges, utilities, pipelines, rail lines, levees, and emergency routes.
+Different ground-failure hazards occur in different settings. Landslides are a concern on steep or unstable slopes. Rockfalls are a concern below cliffs, bluffs, and road cuts. Liquefaction is a concern where loose sandy or silty sediment is already saturated below the water table. Lateral spreading is a concern near riverbanks, shorelines, waterfronts, and other free faces where ground can crack and move sideways.
+Liquefaction should not be described as earthquake-caused flooding. The issue is that earthquake shaking can reduce the strength of loose saturated sediment that was already susceptible before the earthquake. This can cause settlement, tilting, cracked pavement, damaged utilities, and loss of foundation support.
+Policy responses may include hazard maps, geotechnical review, infrastructure siting, slope-stability assessment, liquefaction screening, bridge and utility design standards, seismic retrofits, emergency access planning, and public communication. These tools can help communities reduce risk before an earthquake occurs.
+Key terms
+Earthquake shaking
+Ground motion caused by seismic waves during an earthquake. Shaking can affect buildings and can also trigger ground failure.
+Ground failure
+A general term for ground movement or loss of ground strength. Examples include landslides, rockfalls, liquefaction, and lateral spreading.
+Landslide
+Downslope movement of soil, rock, or debris. Earthquake shaking can trigger landslides on steep slopes or slopes that are already weak or unstable.
+Rockfall
+A type of ground failure where rock blocks detach from a steep cliff, bluff, or cut slope and fall, bounce, or roll downslope.
+Liquefaction
+A process in which loose, saturated sandy or silty sediment temporarily loses strength during earthquake shaking. Liquefaction can cause settlement, tilting, cracking, and damage to foundations and utilities.
+Water table
+The underground level below which soil or sediment pores are filled with groundwater.
+Sandy or silty sediment
+Loose sediment made mostly of sand-sized or silt-sized particles. Some of these materials can be susceptible to liquefaction when saturated and shaken.
+Lateral spreading
+Sideways movement of cracked ground, often toward a riverbank, shoreline, waterfront, or other open edge. Lateral spreading can damage roads, bridges, levees, foundations, and buried utilities.
+Free face
+An open edge or slope, such as a riverbank or shoreline, toward which ground can move during lateral spreading.
+Geotechnical review
+Technical evaluation of soil, rock, groundwater, slope, and foundation conditions to help guide design, permitting, or risk reduction.
+Questions policy staff can ask
+Does the area have mapped landslide, rockfall, liquefaction, or lateral spreading hazards?
+Are steep slopes, cliffs, bluffs, or road cuts located near roads, homes, trails, or infrastructure?
+Are riverbanks, shorelines, waterfronts, levees, or filled areas present?
+Are loose sandy or silty sediments present below the site?
+Is shallow groundwater present, or could sediments below the water table be susceptible to liquefaction?
+Could lateral spreading affect bridge approaches, levees, roads, buried utilities, or waterfront structures?
+Are emergency routes exposed to landslides, rockfalls, liquefaction, or ground cracking?
+Do bridges, pipelines, rail lines, utilities, and road corridors account for ground deformation as well as shaking?
+Is a site-specific geotechnical review needed before development, retrofits, or infrastructure investment?
+Are public communication materials clear that earthquake risk includes ground failure, not only building shaking?
+Policy takeaway
+Earthquakes can damage communities by moving the ground itself, not just by shaking buildings. Seismic planning should account for landslides, rockfalls, liquefaction, and lateral spreading as well as structural design.
+Previous guide
+How Earth Fissures Form
+Collection
+Land Instability Concepts
+Next guide
+What Is Liquefaction?

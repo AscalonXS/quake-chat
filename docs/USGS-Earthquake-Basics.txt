@@ -1,0 +1,22 @@
+EARTHQUAKE SCIENCE, MAGNITUDE, AND COMMON MYTHS (Source: U.S. Geological Survey - USGS)
+
+1. BASIC EARTHQUAKE KNOWLEDGE
+- What is an Earthquake? An earthquake is a sudden, rapid shaking of the ground caused by the shifting of rocks deep underneath the Earth's surface along geological faults. Most earthquakes occur along the edges of tectonic plates.
+- Magnitude vs. Intensity:
+  * Magnitude measures the energy released at the source of the earthquake. It is a single number determined from measurements on seismographs (such as the Moment Magnitude scale). Each whole number increase in magnitude represents about 31.6 times more energy release.
+  * Intensity measures the strength of shaking produced by the earthquake at a specific location. Intensity varies depending on distance from the epicenter, local soil conditions, and building design (measured using the Modified Mercalli Intensity scale).
+- Aftershocks: Aftershocks are smaller earthquakes that occur in the same general area during the days, weeks, or even years following a larger mainshock. They represent the crust adjusting to the stress changes caused by the main earthquake.
+
+2. WHY EARTHQUAKES CANNOT BE PREDICTED
+- Neither the USGS nor any other scientists have ever predicted a major earthquake. We do not know how, and we do not expect to know how any time in the foreseeable future.
+- A true earthquake prediction must define three specific elements: the date and time, the exact location, and the magnitude. While scientists can calculate long-term probabilities (forecasts) that a significant earthquake will occur in a specific region over decades, short-term deterministic prediction is scientifically impossible. Any claim that an earthquake will happen tomorrow or on a specific date is false.
+
+3. COMMON MYTHS AND MISINFORMATION
+- Myth 1: Standing in a doorway is the safest place during an earthquake.
+  * Fact: False. In modern homes, doorways are no stronger than any other part of the house and leave you exposed to flying glass and falling objects. You are much safer under a sturdy table.
+- Myth 2: Animals can predict earthquakes before they happen.
+  * Fact: False. While animals may feel the faster, smaller P-waves seconds before humans feel the stronger S-waves, there is no reliable scientific evidence that animals can predict earthquakes days or hours in advance.
+- Myth 3: During a huge earthquake, the ground will open up and swallow people or cars.
+  * Fact: False. Shallow crevasses can form during soil liquefaction or landslides, but faults do not open up into giant chasms that swallow whole buildings.
+- Myth 4: Small earthquakes prevent big earthquakes from happening.
+  * Fact: False. It takes roughly 32 magnitude 5 earthquakes to release the energy of one magnitude 6, and about 1,000 magnitude 5 quakes to equal one magnitude 7. Small quakes do not relieve enough stress to prevent a major event.

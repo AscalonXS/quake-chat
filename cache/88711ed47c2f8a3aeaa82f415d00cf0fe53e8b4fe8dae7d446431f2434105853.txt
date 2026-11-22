@@ -1,0 +1,1120 @@
+[PDF PAGE 1]
+EARTHQUAKE RESILIENCE GUIDE
+for Water and Wastewater Utilities
+Select a menu option below.
+Introduction
+and Video
+Step 1. 
+Understand the 
+Earthquake Threat
+Step 2. 
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3. 
+Pursue Mitigation and 
+Funding Options
+Disclaimer: This guide is not intended to serve as regulatory guidance. Mention of trade names, products or services does not convey 
+official United States Environmental Protection Agency (EPA) approval, endorsement or recommendation for use.
+EPA Office of Water (4608T) | | EPA 810-B-18-001 March 2018 
+
+[PDF PAGE 2]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Introduction and Video
+An earthquake is a sudden and violent shaking of the ground caused by movement within the earth’s crust or by volcanic 
+activity. While certain regions are more prone to seismic activity, earthquakes can occur anywhere in the country.
+Earthquakes are difficult to predict and they may result in large-scale social and 
+economic impacts. 
+The water sector is particularly vulnerable to earthquake damage and service 
+disruptions. As stated in Resilience by Design from the Los Angeles Mayoral Seismic 
+Safety Task Force, “the water system is the utility most vulnerable to earthquake 
+damage, and that damage could be the largest cause of economic disruption 
+following an earthquake.” 
+By understanding the threat of earthquakes and the potential impacts to both 
+the water infrastructure and the community, water utility owners and operators can make more informed decisions 
+on earthquake mitigation options. While requiring financial investment, earthquake mitigation can significantly reduce 
+or even prevent much costlier damages and economic impacts from future earthquakes. Also, the faster a water or 
+wastewater utility recovers from an earthquake, the faster the community it serves can recover. 
+This guide helps water and wastewater utilities to be more resilient to earthquakes. It contains best practices from 
+utilities that have used mitigation measures to address the earthquake threat. However, utilities should be cautious 
+about proposing major seismic upgrades based solely on the information in this guide - a more detailed analysis is 
+recommended. The guide is primarily meant to help:
+• Utilities that know they are in earthquak e-prone areas, but have not taken steps to address the hazard.
+• Small and medium-sized utilities that need to bett er understand their seismic hazards.
+There are three steps in this guide:
+Step 1 - Understand the Earthquake Threat. 
+Step 2 - Identify Vulnerable Assets and Determine Consequences.
+Step 3 - Pursue Mitigation and Funding Options.
+Click the Surviving the Quake icon to watch a video about potential earthquake impacts to 
+water systems.
+Estimated Annualized Earthquake Losses for 
+the United States. Losses are increasing due 
+to more development in earthquake-prone 
+areas, vulnerability of older infrastructure 
+and increased public and private sector 
+interdependencies. Estimated losses are $6.1 
+billion per year with the largest in California 
+(61%), Oregon and Washington (12%) and 
+the central states (8%).
+Earthquake Resilience Video
+Previous Next
+
+[PDF PAGE 3]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 1. Understand the Earthquake Threat
+More than 143 million Americans, almost half the population of the United States, live in areas that 
+are vulnerable to earthquakes. 
+• The western United States is particularly vulnerable due to a large number of faults or fractures in the earth’s crust.
+• In the central United St ates, the New Madrid Seismic Zone is a significant threat to at least eight states. 
+• In the eastern United St ates, earthquakes are smaller in magnitude; however, South Carolina has a significant seismic 
+hazard. 
+• Both Alaska and Hawaii ar e prone to major earthquakes. 
+With thousands located across the country, many 
+water and wastewater utilities are in earthquake 
+hazard areas. 
+Is your Utility in an Earthquake Hazard Area?
+• First, determine the earthquake threat to your 
+utility. Use EPA’s Earthquake Interactive Maps to 
+locate your utility on the hazard maps.
+• Then, contact your state hazard mitigation officer 
+and work with y
+our local mitigation planner. They 
+may have already assessed and characterized 
+your local earthquake hazard.
+Click “Next” to learn about types of earthquakes.
+Click for Earthquake Interactive Maps
+page 1 of 3
+Previous Next
+
+[PDF PAGE 4]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 1. Understand the Earthquake Threat
+Types of Earthquakes 
+• Natural Earthquakes. Earthquakes occur on fault lines when rock bodies slip relative to each other. Seismic activity can 
+happen deep in the earth or closer to the surface. The deepest earthquakes occur at subduction zones, 
+where dense oceanic crust will sink, or subduct, under the lighter continental crust. Because of the large 
+amount of seismic energy released at subduction zones, such earthquakes can shake the ground over 
+many hundreds of miles. In contrast, crustal earthquakes are generally shallower. They can still cause 
+intense shaking in more localized areas and are more likely to have fault displacement that ruptures the 
+ground surface.
+• Induced Earthquakes. Induced earthquakes are caused 
+by human activity and may be triggered by such actions 
+as impoundment of reservoirs, surface and underground 
+mining, withdrawal of fluids and gas from the subsurface and 
+injection of fluids into underground formations. For example, 
+when injected fluid finds its way to a stressed earthquake 
+fault, the fluid can prompt fault movement and induce 
+earthquakes. In the central United States, the number of 
+earthquakes has increased dramatically since 2009 based on 
+United States Geological Survey data. Typically, the seismic 
+intensity of induced earthquakes is relatively small and 
+not likely to cause much damage to water and wastewater 
+utilities. However, larger and potentially damaging induced 
+earthquakes have occurred in the past.
+Click “Next” to learn about the types of ground movement that 
+affect utilities.
+Learn about 
+earthquake severity, 
+or intensity scales
+Central United 
+States Earthquakes 
+1973-2016
+Natural and Induced Earthquakes > 3 Magnitude (USGS, 2016 data)
+page 2 of 3
+Previous Next
+
+[PDF PAGE 5]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 1. Understand the Earthquake Threat
+Types of Ground Movement
+• Shaking and Ground Displacement. Earthquakes are characterized by shaking that can damage structures. Shaking 
+may be increased or amplified by the type of topography. For instance, ground shaking is worse in basins with soft 
+sediments (e.g., Seattle) than in mountainous regions. If you know your utility is located on soft soils, damage may 
+be worse than expected. The ground can also displace horizontally or vertically at the faults. This can cause surface 
+ruptures and breaks in piping and other utility assets that cross these ground displacements.
+• Liquefaction. When earthquakes occur in areas that are saturated and have loose, sandy 
+soils (e.g., by rivers, lakes), the shaking can turn the ground to liquid. This phenomenon, 
+called liquefaction, can be very destructive to your utility because buildings can sink 
+into the liquefied ground. Buried drinking water pipes also will sink, however sewer 
+pipes, manholes and pump stations (assets partially filled with air) may float to the 
+surface. After the earthquake, the liquefied soil will re-solidify, locking tilted buildings 
+and broken connections into place. To help identify potential liquefaction areas, use the 
+liquefaction maps in EPA’s Earthquake Interactive Maps or contact your state geological 
+survey office. 
+• Lateral Spreading. Lateral spreading is the sideways movement of liquefied soils on gentle slopes. This happens when 
+liquefaction occurs in the subsurface layer, the movement of which can result in the opening of large fissures in the 
+ground which can reach distances of several hundred feet. It can damage pipes, treatment facilities, wells, tanks and 
+other water and wastewater assets. If the liquefied material is located far below the surface and there is a significant 
+slope, the liquefied material and the ground surface can undergo significant down slope movement. This flow can 
+particularly damage buried pipes and tanks.
+• Settling. Earthquakes can cause the ground to change elevation and eventually settle. This is called 
+ground subsistence and it can have serious impacts on water and wastewater systems, especially in 
+locations dependent upon gravity flow. For example, in Christchurch, New Zealand, severe ground 
+settlement of pipes prevented the proper flow of sewage.
+Manhole floats from liquefaction
+Learn about other 
+earthquake hazards
+page 3 of 3
+Previous Next
+
+[PDF PAGE 6]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 2. Identify Vulnerable Assets and Determine Consequences
+Water and wastewater utilities are particularly vulnerable to earthquakes 
+because of the extensive network of above and below ground pipelines, pump 
+stations, tanks, administrative and laboratory buildings, reservoirs, chemical 
+storage and treatment facilities. 
+For a drinking water system, an earthquake can cause hundreds … even 
+thousands … of breaks in water pipelines, ruptures in storage and process tanks 
+and the collapse of buildings. This can cause a loss of water system pressure, 
+contamination and drinking water service disruptions for your customers. 
+A wastewater system can also expect infrastructure damage from an 
+earthquake, including breaks in the collection system. Sewers and wastewater treatment plants tend to be built on ground 
+which is subject to liquefaction. Damage can lead to sewage backups in homes and potential releases of untreated sewage 
+into the environment.
+To protect your utility, you will need to assess the potential damage to buildings and key assets. This step is broken into 
+three actions:
+• Action 1 – Inven tory critical assets and plot them on hazard maps.
+• Action 2 – Characteriz e critical assets, types of failures and consequences to your utility.
+• Action 3 – Summarize results and prioritiz e mitigation.
+Click “Next” to learn more about these three actions. 
+Ultimately, these actions will help you determine the types of mitigation measures and strategies that are worth 
+considering. However, you still may require technical expertise and analysis from other professionals. State agencies, 
+other utilities, consultants and free assessment tools may be helpful.
+Learn about 
+assessment tools
+page 1 of 5
+Previous Next
+
+[PDF PAGE 7]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 2. Identify Vulnerable Assets and Determine Consequences
+Action 1 – Inventory Critical Assets and Plot on Hazard Maps
+List and plot the location of your key assets on a seismic hazard map. 
+Locate the assets relative to earthquake threats, including shaking, surface 
+faults and liquefaction.
+Action 2 – Characterize Critical Assets, Types of Failures and 
+Consequences to Your Utility
+Characterize your building structures, pipelines, tanks, reservoirs, pumps, 
+lift stations, wells, treatment facilities and power assets to determine their 
+vulnerability. Note that the construction materials, design or age can make 
+an asset particularly vulnerable. Other factors to consider when assessing 
+possible asset failures and the consequences to your utility include:
+• Potential for loss of power.
+• Direct hazard to employee and public safety. 
+• Possible gas line ruptures and fires near utility assets. 
+• Impacts to firefighting and hospitals. 
+• Time for repairs.
+• Availability and cost of spare parts.
+• Need to provide emergency drinking water or alternate wastewater 
+services. 
+Click “Next” to see how to characterize the vulnerability of your buildings and pipelines and then click “Next” again for 
+tanks and reservoirs, pumps, lift stations and wells, treatment facilities and power assets.
+Assets on Hazard Map
+page 2 of 5
+Previous Next
+
+[PDF PAGE 8]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 2. Identify Vulnerable Assets and Determine Consequences
+Action 2 – (continued)
+2a) Characterize Buildings. Characterize the 
+age and construction type of your buildings to 
+determine their vulnerability to earthquakes. 
+Note that building failure and collapse are 
+critical dangers to your personnel. See the table 
+to the right for summary information relating 
+anticipated earthquake damage to building 
+construction type (see Association of Bay 
+Area Governments Resilience Program). Also, 
+consult the American Society of Civil Engineers 
+(ASCE) Standard 41-06 Seismic Rehabilitation of 
+Existing Buildings (2007). In general, buildings 
+older than 1995 are more vulnerable to earthquake damage.
+2b) Characterize Pipelines. Characterize pipelines to determine vulnerability to earthquakes. Consider 
+factors including pipe location, age, compatibility with soils, construction materials and number of joints. 
+From ground shaking, pipes often crack at brittle joints or are crushed at the bell or pipe barrel. From 
+liquefaction or lateral spreading, pipes often break or separate at the joints. For example, in the Kobe, 
+Japan earthquake, more than half of the drinking water pipe failures were from joints pulling apart. 
+Drinking water pipes are commonly made with ductile iron (DI) (historically cast iron), welded steel, 
+polyvinyl chloride (PVC), pre-stressed concrete or asbestos cement. Cast iron pipes have the highest break 
+rate in both liquefaction and non-liquefaction areas. Asbestos cement pipes are known to have moderate 
+to high vulnerability, especially in liquefaction areas. 
+Wastewater pipes are more prone to damage than drinking water pipes, however in terms of function, damaged sewer 
+pipes may still be operational with some leakage. Wastewater pipes are typically made of reinforced concrete, PVC, 
+vitreous clay and fiberglass. Such pipes and manholes may buoyantly float in liquefied soils, causing severe problems.
+In general, pipelines are prone to failure at connections to aboveground structures, such as reservoirs, treatment plants, 
+pump stations and at bridge or fault crossings.
+Building Structure Anticipated Damage
+Unreinforced masonry Severely cracked or collapsed walls. Separation 
+between floors and walls jeopardize vertical support 
+of roof and floor systems, leading to collapse
+Unreinforced brick Substantial damage
+Tilt up concrete Connection between the roof and walls can fail 
+causing roof collapse
+Non-ductile concrete frame Lateral movement can strain frame with 
+catastrophic consequences
+Non-Structural elements (cladding) Detach from building injuring people and impeding 
+evacuation or access
+Crushed pipe
+Learn more about 
+pipe vulnerability
+page 3 of 5
+Previous Next
+
+[PDF PAGE 9]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 2. Identify Vulnerable Assets and Determine Consequences
+Action 2 – (continued)
+2c) Characterize Tanks and Reservoirs. Damage to storage tanks can occur 
+from the actual shaking as well as the permanent ground deformation caused 
+from liquefaction, landslides, etc. Types of damage include sliding on the 
+foundation, elephant foot buckling for steel tanks, stretching of bars for wood 
+tanks or cracking or shearing of walls for concrete tanks. Also, liquids in tanks or 
+reservoirs can slosh and create forces on tank walls beyond the design capacity. 
+In the 1994 Northridge earthquake, movement of a water tank caused the 
+piping to sever. A steel tank at a utility in Los Angeles suffered elephant foot 
+buckling from sloshing.
+2d) Characterize Pumps, Lift Stations and Wells. Pay particular attention to wastewater pump stations and booster pumps 
+in liquefiable soils as they often float, which severs connecting piping. An inoperable lift station can cause wastewater to 
+overflow and backup into residences and commercial buildings. Manholes may also float. For wells, ground movement, 
+including liquefaction-induced lateral spreading, can bend casings, distort vertical shafts and disable well pumps. 
+2e) Characterize Treatment Facilities. Treatment structures at water and wastewater utilities 
+have a wide variety of equipment, processes and chemicals. Wastewater treatment buildings 
+tend to be near rivers in areas subject to liquefaction. Also (as in the 1989 Loma Prieta 
+earthquake in California), clarifiers can be heavily damaged due to sloshing wastewater. In 
+another example, an earthquake created a chemical spill that entered the collection system 
+of a wastewater utility, which then caused the biological treatment process to fail. Coupled 
+with the loss of power to the blowers, the secondary treatment system was inoperable for 
+several weeks.
+2f) Characterize Power Assets. Maintaining electric power is key for both water and wastewater operations. Earthquake 
+damage to power lines, transformers, generators and feeds will disrupt equipment functionality. Assets from both the 
+power utility and the water and wastewater utility need to be assessed for possible failure and restoration.
+Severed pipe
+ Elephant foot buckling
+Damaged clarifier
+page 4 of 5
+Previous Next
+
+[PDF PAGE 10]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 2. Identify Vulnerable Assets and Determine Consequences
+Action 3 – Summarize results and prioritize mitigation
+After completing Actions 1 and 2, summarize your asset vulnerability and consequences in a simple table such as the one 
+below. Then, determine the “Priority for Mitigation” (last column) based on your best professional judgment and advice 
+from government or private sector experts.
+Critical Asset 
+or Resource
+Sample Evaluation Factors Priority for Mitigation
+Subject to liquefaction
+Not seismically protected
+May endanger employees
+Close to earthquake fault
+In earthquake hazard zone
+Reliant on grid power
+Materials, design or age make asset 
+vulnerable
+Impacts firefighting ability
+Critical for clean water and sewage 
+treatment
+Enhances response and/or recovery
+Failure may endanger public 
+Consequence
+Low 
+Medium
+High
+Pump #5 Pump is the backup for Pump #6. Loss of pump could be handled by…
+Cast iron 
+pipe near 
+treatment 
+facility
+Cast iron pipes fail at joints to above- 
+ground buildings. Result in loss of system 
+pressurization. No drinking water for weeks 
+and limited water available for firefighting.
+Occupied 
+building #1
+Building could collapse and endanger 
+workforce.
+page 5 of 5
+Previous Next
+
+[PDF PAGE 11]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Consider mitigation actions and projects to help your utility better withstand an earthquake, minimize damage and rapidly 
+recover from disruptions to service. An example is to replace vulnerable buried pipe with seismic resistant pipe. Such 
+efforts can be part of a long term capital improvement and asset management plan. As one strategy, when you replace 
+aging equipment after its design life, install seismic upgrades, which are typically not major added costs. 
+Mitigation Options
+Fortunately, many utilities have evaluated the threat of earthquakes and taken actions to mitigate damage. Explore some 
+of these mitigation approaches, including several low cost options.
+Mitigation for Immediate 
+Life Safety
+Mitigation for Key Systems 
+in Hazard Areas
+Mitigation through 
+Emergency Response
+Mitigation by Specific 
+Asset
+Learn more about mitigation 
+from other sources
+Learn more about 
+seismic building codes
+Funding Options
+Utilities have many options to implement and fund earthquake mitigation projects. Click Funding Options:
+Funding Options
+page 1 of 14
+Previous Next
+
+[PDF PAGE 12]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Immediate Life Safety 
+Mitigation Options Cost
+1. Protect your employees
+a. Make sure employees know your emergency response plans and practice emergency action drills. $
+b. Maintain emergency generators (seismically certified) at employee locations to help mitigate widespread power outages. $$
+c. Prevent collapse of occupied buildings. For seismic protection of new buildings, follow ASCE 7 Standard Minimum Design Loads for 
+Buildings. To retrofit buildings (e.g., bracing or shear walls), follow ASCE 41-06 Seismic Rehabilitation of Existing Buildings. $$$
+d. Anchor equipment (e.g., computers, bookshelves) as well as laboratory equipment and chemical and fuel tanks. $
+e. Identify people who can perform post-earthquake building inspections for safety. $
+2. Protect the public from catastrophic failures of vulnerable storage tanks or reservoirs
+a. Seismically retrofit water tanks (e.g., anchoring to foundations). $$$
+b. Strengthen concrete tank walls, replace non-flexible connections and improve roof structures over large reservoirs. $$$
+c. For new tank installations in high risk seismic zones, determine if liquefaction or other permanent ground movements are possible. If 
+so, stabilize the foundation to minimize movement. Design the tank height to safely account for sloshing forces during an earthquake. $$$
+3. Plan for emergency public health and firefighting
+a. Work with your community and state on an emergency plan for drinking water and sewage treatment (e.g., improvised chemical toilets). $
+b. Develop a plan for emergency sewage capability, including portable or improvised chemical toilets. $
+c. Plan for use of temporary bypasses to move wastewater flow away from the public following ground movement. $$
+d. Address high consequence sewers like those that are difficult to repair (e.g., under rivers, highways or buildings). $$$
+e. Coordinate with firefighters on a plan to obtain alternate water supplies like swimming pools, reclaimed water and seawater. $
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option. page 2 of 14
+Return Previous Next
+
+[PDF PAGE 13]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Key Systems in Hazard Areas
+Mitigation Options Cost
+1. Reinforce “backbone” of your utility (e.g., treatment facilities, transmission lines, large diameter pipelines and storage tanks)
+a. For a water system, consider installing isolation valves on main transmission lines. For pipes in areas with a moderate to high 
+liquefaction hazard or that traverse active faults, replace with pipes designed to the specifications in Seismic Guidelines for Water 
+Pipelines (ALA, 2005). In general, use steel with welded joints, high-density polyethylene (HDPE) pipes with fused joints, ductile iron 
+with seismic joints and molecularly oriented PVC (PVCO) with restrained joints (American Water Works Association C909 PVCO 
+Pressure Pipe, 4 In. through 24 In., for Water, Wastewater, and Reclaimed Water Service; 2010). 
+$$$
+b. Design the backbone of your utility to supply water to critical facilities (e.g., hospitals and fire suppression points). This strategy might 
+require special points of distribution or other ways to deliver water from the backbone. Also, consider quick fixes (e.g., temporary piping 
+to maintain capability) in the short term as you wait for completion of expensive mitigation projects that may take years to implement.
+$$-
+$$$
+c. For a wastewater system, seismically harden major trunk lines and pump stations. $$$
+2. Address liquefaction areas and fault lines
+a. Consider options to protect fixed water system assets, including improving soils with soil mixing, cement grouting, stone columns, 
+piles, compaction or movement of assets into non-liquefaction areas. Consult geotechnical engineers and engineering geologists 
+experienced in liquefaction hazard mitigation.
+$$$
+b. Position drinking water wells outside of seismic hazard zones if possible. $$$
+c. Require mitigation for key pipelines that cross known and active fault lines. Consider installing a bypass or temporary emergency 
+pumping systems as well as replacing hard (inflexible) tank joints with soft (flexible) or ball joints to limit breakage. $$$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 3 of 14
+Return Previous Next
+
+[PDF PAGE 14]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation through Emergency Response 
+Mitigation Options Cost
+1. Plan for Response 
+a. Develop an emergency response plan (ERP) that includes procedures for earthquakes. $-$$
+b. Ensure that employees are trained on the ERP and periodically exercise its procedures to maintain an acceptable level of readiness. 
+Also, train workers in the incident command system so that utility responders can better coordinate with other local and state 
+responders. Participate in community-wide earthquake preparedness training and exercises.
+$
+c. Consider back-up locations for your Emergency Operations Center and back-up systems for emergency communications (e.g., 800 
+MHz radios) $$
+d. Consider preparing emergency “Go Kits” for employees and their families. $
+e. Establish and maintain a current list of key contacts and phone numbers for local agencies, contractor services support, material supply 
+vendors and interdependent services within the community. $
+f. Coordinate earthquake preparedness activities with interdependent services within the community, such as power providers, and with 
+critical customers, such as hospitals and major commercial entities. $
+2. Maintain Assets for Response
+a. Have adequate spare parts (e.g., temporary piping, pre-made hose bibs and hydrant cable connections), equipment and certified, 
+trained staff to rapidly fix damage after an earthquake. $$
+b. Address how power will be restored to pump stations (e.g., permanent or portable generators, portable pump connections and whether 
+to own, share or contract fuel trucks for generators).
+$$-
+$$$
+c. Join a mutual aid network like the Water and Wastewater Agency Response Network (WARN). During the Napa earthquake, the Napa 
+water utility used the California WARN to request seven teams from other utilities to help repair pipelines. $
+d. If appropriate, maintain a fleet of small water tanker trucks or water buffaloes and the fuel needed to operate them. $$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+ page 4 of 14
+Return Previous Next
+
+[PDF PAGE 15]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation by Specific Asset 
+Click a photograph below and get information on specific earthquake mitigation options for that asset. 
+Pipes
+ Buildings
+ Treatment Facilities, 
+Pumps, Lift Stations and 
+Sewers
+Basins, Reservoirs and 
+Impoundments
+Above Ground Storage 
+Tanks
+Power Supply and 
+Electrical Components
+Wells, Source Water and 
+Dams
+page 5 of 14
+Return Previous Next
+
+[PDF PAGE 16]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Pipes
+Mitigation Options Cost
+1. Above Ground Pipes
+a. Brace pipes with ties or other methods; provide flexibility and connections to hard points. $$
+2. Underground Pipes – Non Liquefaction Areas
+a. Use modern pipe (e.g., DI, PVC) which is typically adequate for areas with small to moderate ground motions and no 
+permanent ground deformation. $$
+b. Replace vulnerable transmission and backbone piping first before distribution piping. For vulnerable pipelines, consider 
+installing redundant pipes in locations with less seismic activity. $$$
+3. Underground Pipes – Liquefaction Areas
+a. Use seismic resistant pipe such as steel with welded joints, HDPE with fused joints, DI with seismic joints or molecularly 
+oriented PVC with restrained joints (AWW
+A C909) for transmission pipelines subject to ground deformation from liquefaction 
+and landslides. 
+$$
+b. Slip line existing pipe with HDPE to decrease the pipe’s vulnerability. $$
+c. Replace pipes in accordance with Seismic Guidelines for Water Pipelines (ALA, 2005) in areas with moderate to high 
+liquefaction or that traverse active faults. $$$
+d. Consider changing pipe alignment to avoid liquefiable areas or replace with new pipe. Intake pipes are often susceptible to 
+liquefaction. Stabilization of soils (e.g., deep soil mixing and stone columns) is possible, but expensive. $$$
+e. Install portable facilities (e.g., hoses, pumps) to allow pipelines to bypass areas of liquefaction. $$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 6 of 14
+Return Previous Next
+
+[PDF PAGE 17]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Buildings 
+Follow ASCE 7 for new buildings and ASCE 41-06 for retrofitting of buildings. Retrofits could be accomplished by adding 
+new seismic bracing or shear walls. Do not forget to anchor equipment within buildings (e. g., computers, bookshelves 
+and vending machines). You can find additional suggestions in the Association of Bay Area Governments Resilience 
+Program or ASCE 41-06.
+Mitigation Options Cost
+1. Unreinforced Masonry Buildings
+a. Tie walls to floor and ceiling elements or anchor unsupported masonry walls, install bracing or apply wall overlays to add 
+strength. $$$
+2. Non-Ductile Concrete Frame Buildings
+a. Add interior walls or jacketing or wrap concrete structural columns for strength and ductility. $$$
+3. Tilt-up Concrete Building
+a. Bracket the walls to the roof. $$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 7 of 14
+Return Previous Next
+
+[PDF PAGE 18]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Treatment Facilities, Pumps, Lift Stations and Sewers 
+Mitigation Options Cost
+1. For Both Liquefaction and Non Liquefaction Areas
+a. Anchor or brace pumps, process and lab equipment. $
+b. Maintain seismically certified (see the International Building Code) emergency generators at key facilities to help mitigate 
+widespread power outages. $$
+2. For Liquefaction Areas
+a. Consider mitigation approaches, including improving soils with soil mixing, cement grouting, stone columns, compaction and 
+piles for treatment facilities. Piping associated with treatment facilities may also benefit from these strategies. $$$
+b. Provide flexible connections for pipeline connections to pump stations. $-$$
+c. Consider what design might be best for new sewers in liquefiable soils, as sewers and manholes will float during an 
+earthquake. HDPE with tie downs is one alternative, another is adding concrete to manholes to reduce their buoyancy. $$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 8 of 14
+Return Previous Next
+
+[PDF PAGE 19]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Basins, Reservoirs and Impoundments
+Mitigation Options Cost
+1. For Both Liquefaction and Non Liquefaction Areas
+a. Reinforce concrete structures, strengthen concrete tank walls, use flexible connections to pipes (e.g., ball joints) and improve 
+roof structures over large reservoirs. $$$
+b. Strengthen reservoirs by buttressing basin walls. $$$
+c. Increase capacity for buried, seismically-protected drinking water storage. Consider redundancy of these assets for the short 
+term, but you will need to evaluate cost effectiveness. $$$
+d. Replace hard (inflexible) tank joints with soft (flexible) joints to limit breakage especially where tank wall uplift is anticipated 
+(e.g., unanchored tanks). $$
+e. Anchor older pre-stressed concrete tanks with seismic cables. $$
+f. Use AWWA Standards D100-10 (Welded Carbon Steel Tanks for Water Storage, 2010) D110-13 (Wire and Strand Wound, 
+Circular, Prestressed Concrete Water Tanks, 2013) and D115-06 (Tendon Prestressed Concrete Water Tanks, 2006). For 
+concrete tanks and basins, use ACI 350-06 (Code Requirements for Environmental Engineering Concrete Structures, 2006).
+$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 9 of 14
+Return Previous Next
+
+[PDF PAGE 20]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Above Ground Storage Tanks 
+Mitigation Options Cost
+1. Water Tanks
+a. Conduct site-specific subsurface investigations for new tank installations in high seismic zones to determine the potential for 
+permanent ground movements. If the site has a moderate to high potential for movement, use steel tanks rather than concrete 
+unless the hazard is mitigated.
+$$$
+b. Reinforce the foundation on large horizontal tanks. Some unanchored tanks will sustain damage where they connect to fixed 
+piping. $$$
+c. Consider automatic shutoff valves on tanks. Use only on tanks in pressure zones with multiple reservoirs and feeds. $$
+d. Seismically retrofit water tanks, which can include anchoring to foundations, strengthening concrete tank walls, replacing non-
+flexible pipe connections and improving roof structures over large reservoirs. $$$
+2. Chemical Tanks
+a. Anchor or restrain chlorine containers and chemical tanks. $
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 10 of 14
+Return Previous Next
+
+[PDF PAGE 21]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Power Supply and Electrical Components*
+Mitigation Options Cost
+1. Power Supply
+a. Consider purchasing or renting seismically-certified backup power generators. Fixed generators and associated systems must 
+be anchored. $$
+b. Have portable generators available to dispatch with capacities determined and plug-ins designed for specific facilities. $$
+c. Test emergency power options regularly. $
+d. Communicate with your power company to prioritize electricity restoration to water and wastewater utilities. $
+2. Electrical Components
+a. Add electrical redundancy at treatment plants. Note that multiple feeds may come from the same high voltage substation, 
+which may itself be vulnerable to earthquakes. $
+b. Install new anchorages for transformers and reroute electrical boxes. $$
+*Refer to Power Resilience Guide for Water and Wastewater Utilities for additional suggestions. 
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 11 of 14
+Return Previous Next
+
+[PDF PAGE 22]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Mitigation for Wells, Source Water and Dams
+Mitigation Options Cost
+1. Wells
+a. Consider locating wells outside of seismic hazard zones. Wells are vulnerable if exposed to ground deformation from 
+liquefaction, fault activity and landslides. $$-$$$
+b. Design the upper casing (approximately 40 feet) to resist all imposed loads due to liquefaction and/or lateral spread. $$
+c. Use stainless steel screens rather than slotted casings to avoid corrosion failures that can result in a loss of capacity or water 
+quality issues. $$
+d. Provide well discharge piping with the ability to accommodate differential settlement between the well head and buried pipe. $$
+2. Source Water
+a. Explore a diversity of water sources (e.g., river, groundwater or reservoir) and associated supporting facilities. Certain water 
+sources may be more vulnerable to earthquakes. $$-$$$
+3. Dams
+a. Assess dam vulnerability with an expert. The consequence of dam failure can be very high in terms of public safety. $$$
+Cost Key (Ranks relative costs of mitigation measures - actual costs may differ for your utility)
+$ - Little to no cost. Some internal level of effort required, but no contractor support needed.
+$$ - Moderate cost and complexity. Likely involves contractual costs. 
+$$$ - High cost and complexity. Will require one or more contractors to implement this option.
+page 12 of 14
+Return Previous Next
+
+[PDF PAGE 23]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Funding Options
+Become Eligible for Funding by Joining Local Mitigation Efforts. Local governments 
+are required to develop hazard mitigation plans and have strategies in place to 
+mitigate the effects of natural disasters, including earthquakes. Be sure that local 
+mitigation plans include language about mitigating earthquakes at your utility so that proposed mitigation projects 
+become eligible for federal funding. Also, adopt seismic design standards for new facilities, so that if the facility is 
+damaged in an earthquake, the Federal Emergency Management Agency (FEMA) will reimburse you to the adopted 
+standard. How can you partner with your local mitigation planner? Check out EPA’s Hazard Mitigation Guide for Natural 
+Disasters.
+Federal Funding for Mitigation Projects. Receiving federal funding for an earthquake 
+mitigation project often requires diligence, good connections with local mitigation 
+planners and a strong application. To help utilities understand and obtain federal 
+disaster and mitigation funds, EPA developed Fed FUNDS. Fed FUNDS can help you 
+quickly screen for applicable funding programs from FEMA, EPA, the United States 
+Department of Housing and Urban Development (HUD), the United States Department 
+of Agriculture (USDA) and the Small Business Administration (SBA). It also provides 
+examples of successful utility applications and tips to get funding.
+FEMA has three individual programs to fund mitigation projects for earthquake resilience:
+• Public Assistance (PA) Grant Program.
+• Hazard Mitigation Grant Program (HMGP).
+• Pre-Disaster Mitigation (PDM) Program.
+Each program has specific project eligibility and funding requirements. Typically, 
+the proposed mitigation projects must go through a benefit-cost analysis and show 
+clear benefits. See the FEMA STAPLEE Method for a formal benefit-cost review used 
+for FEMA funded projects.
+Utilities in Utah became involved in 
+their local hazard mitigation process 
+and ended up receiving significant 
+FEMA and Bureau of Reclamation 
+funds for earthquake mitigation.
+When evaluating the mitigation 
+approaches, consider: 
+• Effectiveness in mitigating asset damage.
+• Practicality in implementing mitigation 
+options.
+• Costs, including capital, operations and 
+maintenance.
+page 13 of 14
+Return Previous Next
+
+[PDF PAGE 24]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Step 3. Pursue Mitigation and Funding Options
+Funding Options
+Develop a Plan to Implement Earthquake Mitigation Projects. The plan should identify the actions to implement the 
+project, the time to complete the project, the lead person or agency responsible for taking the actions and the costs 
+and funding sources (e.g., grant funds or capital expenditures). The plan should reflect a long-term commitment to 
+the project. Depending on the size, cost and complexity, some mitigation actions may be completed through internal 
+work orders, capital improvement planning or supplemental funding. The use of multiple funding sources is an effective 
+strategy. See a sample mitigation project plan below.
+Mitigation Project Actions to Implement Mitigation Project Time to Complete Lead Individual or Agency Funding Source
+Seismic Retrofit of Water 
+Tanks
+• Develop proposal that outlines basic engineering plans and a 
+benefit-cost analysis to retrofit tanks (2 months).
+• Incorporate project into local hazard mitigation plan and capital 
+improvement budget (3 to 10 months).
+• Take proposal to town manager for preliminary approval (4 months).
+• Work with local mitigation official and pursue FEMA mitigation funds 
+(4 months to 1 year).
+1 year Operations and 
+Financing
+Capital 
+improvement 
+funding and 
+FEMA HMGP
+Seismic Emergency 
+Power Generator
+• Develop proposal that outlines basic engineering plans and a 
+benefit-cost analysis for a seismic generator (note benefits for other 
+disasters); include costs for operations, maintenance and fuel (2 
+months).
+• Talk to power utility about priority restoration of electricity as well as 
+possibility of a generator (2 to 3 months).
+• Talk to fuel vendors to establish agreements (within 2–3 months).
+• Take proposal to town manager for preliminary approval (4 months).
+• Work with local mitigation official and explore idea of getting 
+FEMA mitigation funds for generator, perhaps bundled with other 
+measures (4 months to 1 year).
+1 year Operations and 
+Financing
+Capital 
+improvement 
+funding and 
+FEMA HMGP
+page 14 of 14
+Return Previous
+
+[PDF PAGE 25]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Measuring Earthquake Severity
+Modified Mercalli Intensity Scale 
+Scale ranging from I to XII based on damage at a particular location. The more the damage, the higher the number.
+Intensity Shaking Description and Damage
+I Not felt Not felt.
+II Weak Felt only by people sitting or those on upper floors of buildings.
+III Weak Felt by almost all persons indoors. Hanging objects swing. Vibrations felt similar to the passing of a 
+truck. May not be recognized as an earthquake.
+IV Light Felt by all indoors and a few outdoors. Some awakened at night. Stopped cars rock. Windows, dishes 
+and doors rattle. Glasses clink. In the upper range of IV, wooden walls and frames creak.
+V Moderate Felt by nearly everyone; many awakened. Some dishes and windows broken. Unstable objects 
+overturned. Pendulum clocks may stop.
+VI Strong Felt by all. People walk unsteadily. Windows crack. Dishes, glassware, knickknacks and books fall off 
+shelves. Pictures fall off walls. Furniture moved or overturned. Weak plaster, adobe buildings and some 
+poorly built masonry buildings crack. Trees and bushes shake visibly. 
+VII Very 
+strong
+Difficult to stand or walk. Noticed by drivers in cars. Damage to poorly built masonry buildings. Weak 
+chimneys broken at roof line. Plaster, loose bricks, stones, tiles, cornices, unbraced parapets and 
+porches fall. Some masonry buildings crack. Waves on ponds.
+VIII Severe Steering of cars affected. Extensive damage to unreinforced masonry buildings, including partial 
+collapse. Some masonry walls collapse. Chimneys twist and fall. Wood-frame houses moved on 
+foundations if not bolted; loose partition walls thrown out. Tree branches broken.
+IX Violent General panic. Damage to masonry buildings ranges from collapse to serious damage unless modern 
+design. Wood-frame structures rock and, if not bolted, shift off foundations. Underground pipes broken. 
+It is also likely that pipes are broken at lower intensities.
+X Extreme Some well-built wooden structures and bridges destroyed; most masonry and frame structures 
+destroyed with their foundations. Rails bent. Poorly built structures destroyed with their foundations.
+XI Rails bent greatly. Underground pipelines completely out of service.
+XII Damage nearly total. Large rock masses displaced. Lines of sight and level distorted. Objects thrown 
+into the air.
+Richter Scale*
+Magnitude Strength of 
+Earthquake
+3-3.9 minor
+4-4.9 light
+5-5.9 moderate
+6-6.9 strong
+7-7.9 major
+8+ great
+*Logarithmic measure of total 
+energy (magnitude) released 
+at epicenter (point on earth’s 
+surface directly above where 
+earthquake starts). Scale does 
+not relate to damage.
+Moment Magnitude
+• logarithmic measure of 
+energy release. 
+• function of the length, width 
+and fault offset.
+• replacing Richter Scale.
+Return
+
+[PDF PAGE 26]
+Introduction
+and Video
+Step 1
+Understand the 
+Earthquake Threat
+Step 2
+Identify Vulnerable 
+Assets and Determine 
+Consequences
+Step 3
+Pursue Mitigation 
+and Funding 
+Options
+Learn More about Earthquake Hazards
+Below are other hazards that can accompany earthquakes. Also, the United States Geological Survey
+has a wealth of information on earthquakes.
+Tsunamis. In the ocean, an earthquake may generate significant tsunamis (huge waves of 
+water) that can severely damage your coastal infrastructure. Tsunamis can be generated from 
+displacement of faults under the ocean or from generation of large landslides. For example, an 
+earthquake at the Cascadia subduction zone could cause a tsunami off the coasts of Oregon, 
+Washington and northern California. One study looked at flood inundation and evacuation 
+maps for two small coastal towns in Oregon. Tsunamis can also strike coastal states even 
+though they may be generated by earthquakes in other states and countries.
+Landslides and Rockfalls. Shaking can trigger landslides and rockfalls. Both can damage 
+aboveground utility structures as well as buried pipelines

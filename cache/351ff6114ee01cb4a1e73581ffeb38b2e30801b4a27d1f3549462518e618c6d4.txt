@@ -1,0 +1,216 @@
+Landslide Preparedness
+By
+Landslide Hazards Program
+If you live on or below a slope, here are some simple steps you can do to identify a landslide hazard and reduce your landslide risk.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Screenshot from the U.S. Landslide Inventory web application, an openly accessible, centralized map of existing information on landslide occurrence across the entire U.S
+Maps
+Geologic maps.
+Search for a geologic map through your state geological survey or the USGS. Many geologic maps, especially those showing surficial geology, document landslides and their activity.
+Landslide inventory maps
+. Search for a landslide inventory map through your state geologic survey, city, or county. The USGS also compiles this
+landslide information
+. Note that landslide inventory mapping is incomplete for much of the US and that the lack of a mapped landslide doesn’t mean there isn’t a landslide hazard.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+USGS civil engineer Brian Collins examines blocks of glacial till that form parts of the Oso landslide deposit.
+Landslide susceptibility maps
+. A susceptibility map shows where a landslide may start and are usually built using a landslide inventory map. Search for landslide susceptibility maps through the state geologic survey, city, or county. Susceptibly maps are rare for many communities and if they do exist, often do not show runout (where a landslide may go). Runout can be just as dangerous as where the landslide starts and can impact those living on flat ground below a slope.
+Community resources
+Planning department
+. Reach out to your local planning department and ask about landslide hazards in your area. Does the planning department address landslides in their codes? Do they have landslide hazard maps? Do they have lists of local professional geologists or engineers that you can hire and assess your property for landslide hazards?
+Conservation districts
+. Not all conservation districts have landslide expertise and if they do, they can be an excellent resource.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Preparedness on your property
+Stormwater
+.
+Identify where your gutter, driveway, and other stormwater is flowing. During intense rain events or long rainstorms, gutters and driveways can concentrate water into undesirable places. If this stream of stormwater is flowing onto a slope, it could rapidly saturate the soil, weakening the slope and thereby increasing the chance of a landslide. If there is stormwater from your property flowing onto a slope, consider piping the water to the storm sewer, road ditch, or other artificial drainage network. Local restrictions may limit or prevent this, so talk with your local planning office or other building officials before proceeding.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+USGS geologists deployed to Santa Barbara County to support a geohazard assessment of the Montecito area
+Retain native vegetation on slopes
+. Native vegetation growing on slopes is often adapted to the site conditions and roots can contribute to stabilizing the slope. Removing native trees and vegetation could increase the slope’s susceptibility to landslides. Non-native vegetation, especially rapidly growing species, often decrease slope stability due to shallow rooting networks and excessive weight. Your local conservation district may be able to help identify plants suitable for your site, which could increase slope stability.
+Do not dispose of yard waste or other debris on a slope.
+Out of sight, out of mind isn’t true with debris on a slope. Debris can smother vegetation, reducing rooting strength, as well as add weight on the slope, increasing the likelihood of a landslide.
+Hire a professional geologist or engineer with landslide experience
+. If you live in a region with known landslide issues, you can likely hire a geologist or engineer with experience in landslides that can visit your home to provide you an evaluation of landslide risk and offer mitigation solutions. Your local planning department may be able to direct you to professionals that are familiar with the local geology and landslide hazards.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+Have an emergency preparedness kit and evacuation plan
+. Build and regularly maintain an
+emergency kit
+and create and practice a
+household evacuation plan
+that includes your pets.
+Work with your neighbors to help them understand the hazard
+. Neighbors living on or below a slope should work together to reduce their landslide risk. Landslides do not respect property lines.
+Download Video
+Sources/Usage: Public Domain.
+View Media Details
+Disasters resulting from landslides are unfortunately an inevitable circumstance given the intersection of society and mountainous terrain. Whereas emergency responders are generally tasked with initial disaster response, landslide experts are also often called upon to participate and aid in these types of events. However, there are limited references that describe what a landslide response may look like or that outline how landslide experts might best contribute to response efforts. Using collective USGS experiences developed over 20 years of responding to landslide disasters, this presentation will provide an overview of types and factors affecting landslide response and discuss how those involved in the landslide community can prepare for a potential call to action.
+Related
+Science
+Publications
+June 22, 2022
+Puerto Rico Natural Hazards: Landslides | Peligros naturales de Puerto Rico: Deslizamientos de tierra
+The Landslide Hazards Program from USGS works to help reduce the impact of landslides to people and infrastructure by furthering our understanding of causes of ground failure and by recommending strategies for risk mitigation. In Puerto Rico, USGS researchers have rigorously studied rainfall-induced landslides to provide maps that depict landslide susceptibility. Educational materials that...
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+Puerto Rico Natural Hazards: Landslides | Peligros naturales de Puerto Rico: Deslizamientos de tierra
+June 22, 2022
+Puerto Rico Natural Hazards: Landslides | Peligros naturales de Puerto Rico: Deslizamientos de tierra
+The Landslide Hazards Program from USGS works to help reduce the impact of landslides to people and infrastructure by furthering our understanding of causes of ground failure and by recommending strategies for risk mitigation. In Puerto Rico, USGS researchers have rigorously studied rainfall-induced landslides to provide maps that depict landslide susceptibility. Educational materials that...
+Learn More
+March 1, 2016
+Post-Wildfire Landslide Hazards
+Post-fire landslides are particularly hazardous because they can occur with little warning, can exert great force on objects in their paths, can strip vegetation, block drainage ways, damage structures, and endanger human life. Our focus is to develop tools and methods for the prediction of post-wildfire landslide activity and hazard delineation.
+By
+Natural Hazards Mission Area
+Post-Wildfire Landslide Hazards
+March 1, 2016
+Post-Wildfire Landslide Hazards
+Post-fire landslides are particularly hazardous because they can occur with little warning, can exert great force on objects in their paths, can strip vegetation, block drainage ways, damage structures, and endanger human life. Our focus is to develop tools and methods for the prediction of post-wildfire landslide activity and hazard delineation.
+Learn More
+October 17, 2022
+Postfire debris flow hazards—Tips to keep you safe
+Postfire debris flow hazards—Tips to keep you safe
+Often referred to as “mudflows,” debris flows are a type of landslide made up of a rapidly moving mixture of dirt, rocks, trees, and water (and sometimes ash) that start on a hillside and travel downvalley. They can easily overflow channels and severely damage houses, vehicles, or other structures. Areas burned by wildfires are especially susceptible to these hazards, which can be...
+Authors
+Steven Sobieszczyk, Jason W. Kean
+By
+Natural Hazards Mission Area
+,
+Water Resources Mission Area
+,
+Emergency Management
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+,
+New Mexico Water Science Center
+January 1, 2000
+Mitigating landslide hazards in Seattle: a partnership
+Mitigating landslide hazards in Seattle: a partnership
+No abstract available.
+Authors
+Water Resources Division U.S. Geological Survey
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+January 1, 1986
+Some Techniques for Reducing Landslide Hazards
+Some Techniques for Reducing Landslide Hazards
+Many techniques are available for reducing landslide hazards; 27 are described in this paper. Prerequisites for the successful use of these techniques are hazard information understandable to nongeologists and adequate communication of this information to those who will, or are required to, use it. It is concluded that certain factors needed to ensure the lasting effectiveness of these...
+Authors
+William J. Kockelman
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+January 1, 1980
+Tools to avoid landslide hazards and reduce damage
+Tools to avoid landslide hazards and reduce damage
+No abstract available.
+Authors
+William J. Kockelman
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+Related
+Science
+June 22, 2022
+Puerto Rico Natural Hazards: Landslides | Peligros naturales de Puerto Rico: Deslizamientos de tierra
+The Landslide Hazards Program from USGS works to help reduce the impact of landslides to people and infrastructure by furthering our understanding of causes of ground failure and by recommending strategies for risk mitigation. In Puerto Rico, USGS researchers have rigorously studied rainfall-induced landslides to provide maps that depict landslide susceptibility. Educational materials that...
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+Puerto Rico Natural Hazards: Landslides | Peligros naturales de Puerto Rico: Deslizamientos de tierra
+June 22, 2022
+Puerto Rico Natural Hazards: Landslides | Peligros naturales de Puerto Rico: Deslizamientos de tierra
+The Landslide Hazards Program from USGS works to help reduce the impact of landslides to people and infrastructure by furthering our understanding of causes of ground failure and by recommending strategies for risk mitigation. In Puerto Rico, USGS researchers have rigorously studied rainfall-induced landslides to provide maps that depict landslide susceptibility. Educational materials that...
+Learn More
+March 1, 2016
+Post-Wildfire Landslide Hazards
+Post-fire landslides are particularly hazardous because they can occur with little warning, can exert great force on objects in their paths, can strip vegetation, block drainage ways, damage structures, and endanger human life. Our focus is to develop tools and methods for the prediction of post-wildfire landslide activity and hazard delineation.
+By
+Natural Hazards Mission Area
+Post-Wildfire Landslide Hazards
+March 1, 2016
+Post-Wildfire Landslide Hazards
+Post-fire landslides are particularly hazardous because they can occur with little warning, can exert great force on objects in their paths, can strip vegetation, block drainage ways, damage structures, and endanger human life. Our focus is to develop tools and methods for the prediction of post-wildfire landslide activity and hazard delineation.
+Learn More
+Publications
+October 17, 2022
+Postfire debris flow hazards—Tips to keep you safe
+Postfire debris flow hazards—Tips to keep you safe
+Often referred to as “mudflows,” debris flows are a type of landslide made up of a rapidly moving mixture of dirt, rocks, trees, and water (and sometimes ash) that start on a hillside and travel downvalley. They can easily overflow channels and severely damage houses, vehicles, or other structures. Areas burned by wildfires are especially susceptible to these hazards, which can be...
+Authors
+Steven Sobieszczyk, Jason W. Kean
+By
+Natural Hazards Mission Area
+,
+Water Resources Mission Area
+,
+Emergency Management
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+,
+New Mexico Water Science Center
+January 1, 2000
+Mitigating landslide hazards in Seattle: a partnership
+Mitigating landslide hazards in Seattle: a partnership
+No abstract available.
+Authors
+Water Resources Division U.S. Geological Survey
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+January 1, 1986
+Some Techniques for Reducing Landslide Hazards
+Some Techniques for Reducing Landslide Hazards
+Many techniques are available for reducing landslide hazards; 27 are described in this paper. Prerequisites for the successful use of these techniques are hazard information understandable to nongeologists and adequate communication of this information to those who will, or are required to, use it. It is concluded that certain factors needed to ensure the lasting effectiveness of these...
+Authors
+William J. Kockelman
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center
+January 1, 1980
+Tools to avoid landslide hazards and reduce damage
+Tools to avoid landslide hazards and reduce damage
+No abstract available.
+Authors
+William J. Kockelman
+By
+Natural Hazards Mission Area
+,
+Landslide Hazards Program
+,
+Geologic Hazards Science Center

@@ -1,0 +1,1455 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<base href="https://www.newportoregon.gov/" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+
+	 
+	<!-- Metadata Area Starts -->
+
+	<title>Tsunami Evacuation Maps</title>
+
+	<meta property="og:title" content="Tsunami Evacuation Maps" />
+
+	<meta property="og:image" content="//cms6.revize.com/revize/newportor/_assets_/images/logo.png" />
+
+	<meta name="robots" content="index, follow">
+
+
+
+
+
+	
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/revize/plugins/document_center/document_center_styles.css">
+<script type="text/javascript" src="/revize/plugins/document_center/simple_accordian.js"></script>
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+
+
+
+	
+
+<script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>	
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
+<link rel="stylesheet" href="https://www.newportoregon.gov/_assets_/fonts/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.newportoregon.gov/_assets_/plugins/ytplayer/jquery.mb.YTPlayer.min.css">
+<link rel="stylesheet" href="https://www.newportoregon.gov/_assets_/css/layout.css?v=1.1">
+<link rel="shortcut icon" href="https://www.newportoregon.gov/_assets_/images/favicon.ico">
+<link rel="apple-touch-icon" href="https://www.newportoregon.gov/_assets_/images/touch-icon.png">
+
+
+
+
+	<link href="/revize/plugins/revize_calendar/core/main.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/daygrid/main.min.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/timegrid/main.min.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/list/main.min.css" rel="stylesheet" />
+<link href="https://www.newportoregon.gov/_assets_/plugins/revizeCalendar/css/mini.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/core/nav-panels.css" rel="stylesheet" /><script>
+	var defaultCalendarColor = "#3788d8";
+	var ImportCals = ["7",];
+	var calendarProps = {'3' : { 'color' : '#16739f' , 'name' : 'City Meetings' },
+'4' : { 'color' : '#396a45' , 'name' : 'Parks & Rec' },
+'6' : { 'color' : '#e2ab61' , 'name' : '60+' },
+'7' : { 'color' : '#559272' , 'name' : 'Library' },
+};
+	var RZCalendarTimezone = "";
+</script>
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+</head>
+<body id="freeform" class="">
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = ''
+RZ.baseurlpath = ''
+RZ.protocolRelativeRevizeBaseUrl='//cms6.revize.com'
+
+RZ.pagetemplatename = 'freeform'
+RZ.pagetemplateid = '1'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '2775';
+
+RZ.pageid = 'links-2775';
+RZ.pageparentid = '2702';
+RZ.pagesectionid = '0';
+RZ.pagesectionname = 'Home Page';
+RZ.pagesectionlevel = '0';
+RZ.pagesectionfolder = '';
+RZ.pagesectionfilter = 'sectionid=0';
+RZ.pagelinkfilter = 'linklevel=2 and linksectionid=0';
+RZ.pagelinklevel = '2';
+RZ.pagelinkid = '2775';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '2775';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = '3715185f00b602d939089b864c913a3ee8cb2821c0d9a91faca4238ed9cabffd|05d274b24b56d6b9c1a65ad7f87b249e5628698810d156955d6234e4504521a3|08c0c59c8dc9edb05feef7d4f303953917e9b56819e2dd381bd351ce2fb9e279'
+RZ.page_key = 'freeform[2775]'
+RZ.parent_key = 'freeform[2702]'
+RZ.inherit_key = 'index[]'
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'newportor'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms6.revize.com/revize/newportor';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.calendar_options = "max_events=6";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=https://www.newportoregon.gov/\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_options = "hide_text=no";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.store_form_submission_db = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,Production';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<header class="fixed-header">
+	<!-- for sticky header remove wrap if not needed -->
+	<div class="site-header" mega>
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-2 has-edit-buttons">
+										<a href="https://www.newportoregon.gov/./" id="logo"><img src="https://www.newportoregon.gov/_assets_/images/logo.png" alt="navigation logo"></a>
+										<div id="toggles" class="d-lg-none">
+						<div id="search-toggle" class="fa fa-search"></div>
+						<div id="nav-toggle" class="fa fa-bars"></div>
+					</div>
+					<!--/#toggles-->
+				</div>
+				<!--/.col-lg-2-->
+				<nav class="col-lg-7 has-edit-buttons">
+					<div class="rz-btns-container">
+																													</div>
+					
+
+
+
+
+
+
+
+ 
+<ul id="nav" class="v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-74 children"><a class="menuA level0 menuDisplay" href="https://www.newportoregon.gov/government/index.php" target="_self">Your Government</a>
+		<ul class="menuUL level1 menuHidden ul-3235">
+			<li class="menuLI level1 menuHidden li-3235"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/contact_us.php" target="_self">Contact Us</a></li>
+			<li class="menuLI level1 menuHidden li-79 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/index.php" target="_self">City Council</a>
+				<ul class="menuUL level2 menuHidden ul-3034">
+					<li class="menuLI level2 menuHidden li-3034"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/index.php" target="_self">Meet Your City Council</a></li>
+					<li class="menuLI level2 menuHidden li-4416"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/councilmeetings.php" target="_self">Meetings and Agendas</a></li>
+					<li class="menuLI level2 menuHidden li-2688"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/public_comment_procedures.php" target="_self">Public Comment Procedures</a></li>
+					<li class="menuLI level2 menuHidden li-88"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/council_goals.php" target="_self">Council Goals</a></li>
+					<li class="menuLI level2 menuHidden li-91"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/election_information.php" target="_self">Election Information</a></li>
+					<li class="menuLI level2 menuHidden li-92"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/councilcontact.php" target="_self">Contact the City Council</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-80 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/contacts/index.php" target="_self">City Staff</a>
+				<ul class="menuUL level2 menuHidden ul-2689">
+					<li class="menuLI level2 menuHidden li-2689"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/contacts/leadership.php" target="_self">Leadership</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-3996"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/bond2026/index.php" target="_self">2026 Bond Proposal</a></li>
+			<li class="menuLI level1 menuHidden li-3767"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/sign_up_for_alerts.php" target="_self">Sign Up for Emergency Alerts</a></li>
+			<li class="menuLI level1 menuHidden li-81 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/departments/index.php" target="_self">Departments</a>
+				<ul class="menuUL level2 menuHidden ul-97">
+					<li class="menuLI level2 menuHidden li-97"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/airport/index.php" target="_self">Airport</a></li>
+					<li class="menuLI level2 menuHidden li-98"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/community_development/index.php" target="_self">Community Development</a></li>
+					<li class="menuLI level2 menuHidden li-2891"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/engineering/index.php" target="_self">Engineering</a></li>
+					<li class="menuLI level2 menuHidden li-101"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/index.php" target="_self">Finance</a></li>
+					<li class="menuLI level2 menuHidden li-102"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/fire/index.php" target="_self">Fire</a></li>
+					<li class="menuLI level2 menuHidden li-103"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/human_resources/index.php" target="_self">Human Resources</a></li>
+					<li class="menuLI level2 menuHidden li-105"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/library/index.php" target="_self">Library</a></li>
+					<li class="menuLI level2 menuHidden li-107"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/parks_recreation/index.php" target="_self">Parks & Recreation</a></li>
+					<li class="menuLI level2 menuHidden li-108"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/police/index.php" target="_self">Police</a></li>
+					<li class="menuLI level2 menuHidden li-109"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/public_works/index.php" target="_self">Public Works</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-82 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/public_records/index.php" target="_self">Public Records</a>
+				<ul class="menuUL level2 menuHidden ul-112">
+					<li class="menuLI level2 menuHidden li-112"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/audits.php" target="_self">Audits</a></li>
+					<li class="menuLI level2 menuHidden li-3810"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/public_records/publicrecords_request.php" target="_self">Request Public Records</a></li>
+					<li class="menuLI level2 menuHidden li-3815"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/a530a9ca-c3aa-f011-a471-000c29a59557/NPD_PublicRecords_Request.pdf" target="_new">Request NPD Public Records</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-90 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/committees/index.php" target="_self">Committees</a>
+				<ul class="menuUL level2 menuHidden ul-354">
+					<li class="menuLI level2 menuHidden li-354"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/committee_application.php" target="_self">Apply for a Committee</a></li>
+					<li class="menuLI level2 menuHidden li-2822"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/meeting_schedules.php" target="_self">Meeting Schedules</a></li>
+					<li class="menuLI level2 menuHidden li-2824"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/" target="_new">Meetings and Agendas</a></li>
+					<li class="menuLI level2 menuHidden li-2823"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/city_leadership/public_comment_procedures.php" target="_self">Public Comment Procedures</a></li>
+					<li class="menuLI level2 menuHidden li-128"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/budget_committee.php" target="_self">Budget Committee</a></li>
+					<li class="menuLI level2 menuHidden li-2691"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/library_committee.php" target="_self">Library Advisory Committee</a></li>
+					<li class="menuLI level2 menuHidden li-2692"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/parking_advisory_committee.php" target="_self">Parking Advisory Committee</a></li>
+					<li class="menuLI level2 menuHidden li-135"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/parks_and_recreation_advisory_committee.php" target="_self">Parks and Recreation Advisory Committee</a></li>
+					<li class="menuLI level2 menuHidden li-136"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/planning_commission.php" target="_self">Planning Commission</a></li>
+					<li class="menuLI level2 menuHidden li-139"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/retirement_trustees.php" target="_self">Retirement Board of Trustees</a></li>
+					<li class="menuLI level2 menuHidden li-140"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/sister_city_committee.php" target="_self">Sister City Committee</a></li>
+					<li class="menuLI level2 menuHidden li-2693"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/urban_renewal_agency.php" target="_self">Urban Renewal Agency</a></li>
+					<li class="menuLI level2 menuHidden li-3885"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/councilrules_sub.php" target="_self">City Council Rules Subcommittee</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-143 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/annual_budget/index.php" target="_self">Transparency</a>
+				<ul class="menuUL level2 menuHidden ul-4394">
+					<li class="menuLI level2 menuHidden li-4394"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/eaf30f07-a1b7-43e6-8c36-ad45d84389c7/Newport_City_Charter.pdf" target="_new">Newport Charter</a></li>
+					<li class="menuLI level2 menuHidden li-4385"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/annual_budget/sotc.php" target="_self">State of the City</a></li>
+					<li class="menuLI level2 menuHidden li-2825"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/505cdf9c-977c-f111-a4a2-000c29a59557/2026-27%20Adopted%20Budget.pdf" target="_new">2026-27 Adopted Budget</a></li>
+					<li class="menuLI level2 menuHidden li-4192"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/7737f792-a469-f111-a49d-000c29a59557/2026-27%20Fee%20Schedule.pdf" target="_new">2026-27 Fee Schedule</a></li>
+					<li class="menuLI level2 menuHidden li-4404"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/audits.php" target="_self">Audits</a></li>
+					<li class="menuLI level2 menuHidden li-4093"><a class="menuA level2 menuHidden" href="https://cleargov.com/oregon/lincoln/city/newport" target="_new">Budget Tracker</a></li>
+					<li class="menuLI level2 menuHidden li-4132"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/public_works/water_quality_reports.php" target="_self">Water Quality Reports</a></li>
+					<li class="menuLI level2 menuHidden li-4384"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/1b986471-fa13-487e-8c3f-effcf976e8a6/Nye%20CreekOutfall_BacteriaLevels_Plan%20of%20Action_Oct2026.pdf" target="_new">Nye Creek Plan of Action</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-3869"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/vision_2040.php" target="_self">Greater Newport Area Vision 2040</a></li>
+			<li class="menuLI level1 menuHidden li-3779"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/mombetsu.php" target="_self">Sister City - Mombetsu, Japan</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-75 children"><a class="menuA level0 menuDisplay" href="https://www.newportoregon.gov/services/index.php" target="_self">Services</a>
+		<ul class="menuUL level1 menuHidden ul-2695">
+			<li class="menuLI level1 menuHidden li-2695 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/lincoln_county/index.php" target="_self">Lincoln County</a>
+				<ul class="menuUL level2 menuHidden ul-3870">
+					<li class="menuLI level2 menuHidden li-3870"><a class="menuA level2 menuHidden" href="https://www.lchab.org/wp-content/uploads/2026/01/2026-Lincoln-County-Resource-Directory-01092026.pdf" target="_new">2026 Lincoln County Resource Directory</a></li>
+					<li class="menuLI level2 menuHidden li-2708"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/537/Board-of-Commissioners" target="_new">Board of Commissioners</a></li>
+					<li class="menuLI level2 menuHidden li-2709"><a class="menuA level2 menuHidden" href="https://www.courts.oregon.gov/courts/lincoln/Pages/default.aspx" target="_new">Circuit Court</a></li>
+					<li class="menuLI level2 menuHidden li-2710"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/1109/Community-Shelter-and-Resource-Center" target="_new">Community Shelter and Resource Center</a></li>
+					<li class="menuLI level2 menuHidden li-2711"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/182/Lincoln-County-Code" target="_new">County Code</a></li>
+					<li class="menuLI level2 menuHidden li-2712"><a class="menuA level2 menuHidden" href="https://co.lincoln.or.us/188/District-Attorney" target="_new">District Attorney</a></li>
+					<li class="menuLI level2 menuHidden li-2713"><a class="menuA level2 menuHidden" href="https://businesslincolncounty.com/" target="_new">Economic Development Alliance</a></li>
+					<li class="menuLI level2 menuHidden li-2714"><a class="menuA level2 menuHidden" href="https://foodsharelc.org/" target="_new">Food Share of Lincoln County</a></li>
+					<li class="menuLI level2 menuHidden li-2715"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/209/Health-Human-Services" target="_new">Health & Human Services</a></li>
+					<li class="menuLI level2 menuHidden li-2716"><a class="menuA level2 menuHidden" href="https://housinglincolncountyor.gov/" target="_new">Housing Authority</a></li>
+					<li class="menuLI level2 menuHidden li-2717"><a class="menuA level2 menuHidden" href="https://lincolnlibrary.specialdistrict.org/" target="_new">Library District</a></li>
+					<li class="menuLI level2 menuHidden li-2718"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/361/Transit" target="_new">Public Transit</a></li>
+					<li class="menuLI level2 menuHidden li-2719"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/341/Public-Works" target="_new">Lincoln County Public Works</a></li>
+					<li class="menuLI level2 menuHidden li-2720"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/483/Veteran-Services" target="_new">Veterans Services</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-149 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/utility_services/index.php" target="_self">Utilities</a>
+				<ul class="menuUL level2 menuHidden ul-3300">
+					<li class="menuLI level2 menuHidden li-3300"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/public_works/facilities_and_operations.php" target="_self">Water, Sewer, Stormwater</a></li>
+					<li class="menuLI level2 menuHidden li-2721"><a class="menuA level2 menuHidden" href="https://clpud.org/" target="_new">Central Lincoln PUD Electric</a></li>
+					<li class="menuLI level2 menuHidden li-2722"><a class="menuA level2 menuHidden" href="https://www.nwnatural.com/" target="_new">NW Natural Gas</a></li>
+					<li class="menuLI level2 menuHidden li-2723"><a class="menuA level2 menuHidden" href="https://www.thompsonsanitary.com/" target="_new">Thompson's Sanitary (Recycling & Trash)</a></li>
+					<li class="menuLI level2 menuHidden li-2967"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/submit/service_requests.php" target="_self">Service Requests</a></li>
+					<li class="menuLI level2 menuHidden li-4131"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/public_works/water_quality_reports.php" target="_self">Water Quality Reports</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-150 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/public_safety/index.php" target="_self">Public Safety</a>
+				<ul class="menuUL level2 menuHidden ul-163">
+					<li class="menuLI level2 menuHidden li-163"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/police/index.php" target="_self">Police Department</a></li>
+					<li class="menuLI level2 menuHidden li-164"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/fire/index.php" target="_self">Fire Department</a></li>
+					<li class="menuLI level2 menuHidden li-2724"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/215/Sheriffs-Office" target="_new">Lincoln County Sheriff</a></li>
+					<li class="menuLI level2 menuHidden li-2725"><a class="menuA level2 menuHidden" href="https://ambulancemembership.com/pacificwest/" target="_new">Pacific West Ambulance</a></li>
+					<li class="menuLI level2 menuHidden li-2726"><a class="menuA level2 menuHidden" href="https://samhealth.org/find-a-location/samaritan-pacific-communities-hospital/" target="_new">Samaritan Pacific Communities Hospital</a></li>
+					<li class="menuLI level2 menuHidden li-165"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/newport_emergency_management.php" target="_self">Newport Emergency Management</a></li>
+					<li class="menuLI level2 menuHidden li-2727"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/708/Emergency-Management" target="_new">Lincoln County Emergency Management</a></li>
+					<li class="menuLI level2 menuHidden li-2728"><a class="menuA level2 menuHidden" href="https://member.everbridge.net/892807736721689/new" target="_new">Lincoln Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-2729"><a class="menuA level2 menuHidden" href="https://www.flashalert.net/id/NPD" target="_new">Newport PD Flash Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-2730"><a class="menuA level2 menuHidden" href="https://www.flashalert.net/id/Newport-Fire-Department" target="_new">Newport Fire Flash Alerts</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2696 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/recreation_and_community_programs/index.php" target="_self">Recreation & Community Programs</a>
+				<ul class="menuUL level2 menuHidden ul-2732">
+					<li class="menuLI level2 menuHidden li-2732"><a class="menuA level2 menuHidden" href="https://www.discovernewport.com/" target="_new">Discover Newport</a></li>
+					<li class="menuLI level2 menuHidden li-2733"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/library/index.php" target="_self">Newport Public Library</a></li>
+					<li class="menuLI level2 menuHidden li-2734"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/parks_recreation/aquatic_center/index.php" target="_self">Aquatic Center</a></li>
+					<li class="menuLI level2 menuHidden li-2735"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/parks_recreation/recreation_center/index.php" target="_self">Recreation Center</a></li>
+					<li class="menuLI level2 menuHidden li-2736"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/parks_recreation/60_activity_center/index.php" target="_self">60+ Activity Center</a></li>
+					<li class="menuLI level2 menuHidden li-2737"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/12ed7dd0-4c9d-f011-a46f-000c29a59557/ActivityGuide.pdf" target="_new">Activity Guide</a></li>
+					<li class="menuLI level2 menuHidden li-2738"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/parks_recreation/city_parks/index.php" target="_self">Parks Map & Directory</a></li>
+					<li class="menuLI level2 menuHidden li-2739"><a class="menuA level2 menuHidden" href="https://teamsideline.com/sites/newportor/home" target="_new">Sports Programs</a></li>
+					<li class="menuLI level2 menuHidden li-2740"><a class="menuA level2 menuHidden" href="https://coastarts.org/venues/newport-performing-arts-center/" target="_new">Performing Arts Center</a></li>
+					<li class="menuLI level2 menuHidden li-2741"><a class="menuA level2 menuHidden" href="https://coastarts.org/visual-arts-center/" target="_new">Visual Arts Center</a></li>
+					<li class="menuLI level2 menuHidden li-2742"><a class="menuA level2 menuHidden" href="https://davidschair.org/request-fixed-location-chair/" target="_new">David's Chair</a></li>
+					<li class="menuLI level2 menuHidden li-2743"><a class="menuA level2 menuHidden" href="https://stateparks.oregon.gov/index.cfm?do=visit.find&miles=20&lat=44.6367836&long=-124.0534505&name=Newport%2C%20OR" target="_new">Oregon State Parks</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2698 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/education/index.php" target="_self">Education</a>
+				<ul class="menuUL level2 menuHidden ul-2744">
+					<li class="menuLI level2 menuHidden li-2744"><a class="menuA level2 menuHidden" href="https://lincoln.k12.or.us/" target="_new">Lincoln County School District</a></li>
+					<li class="menuLI level2 menuHidden li-2745"><a class="menuA level2 menuHidden" href="https://oregoncoast.edu/" target="_new">Oregon Coast Community College</a></li>
+					<li class="menuLI level2 menuHidden li-2746"><a class="menuA level2 menuHidden" href="https://hmsc.oregonstate.edu/" target="_new">Oregon State University Hatfield Marine Science Center</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2699 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/local_agencies/index.php" target="_self">Local Agencies</a>
+				<ul class="menuUL level2 menuHidden ul-2747">
+					<li class="menuLI level2 menuHidden li-2747"><a class="menuA level2 menuHidden" href="https://www.newportchamber.org/" target="_new">Newport Chamber of Commerce</a></li>
+					<li class="menuLI level2 menuHidden li-2748"><a class="menuA level2 menuHidden" href="https://www.facebook.com/USCoastGuardStationYaquinaBay/" target="_new">U.S. Coast Guard Station Yaquina Bay</a></li>
+					<li class="menuLI level2 menuHidden li-2749"><a class="menuA level2 menuHidden" href="https://www.noaa.gov/" target="_new">National Oceanic and Atmospheric Administration (NOAA)</a></li>
+					<li class="menuLI level2 menuHidden li-2750"><a class="menuA level2 menuHidden" href="https://coastarts.org/" target="_new">Oregon Coast Council for the Arts</a></li>
+					<li class="menuLI level2 menuHidden li-2751"><a class="menuA level2 menuHidden" href="https://www.epa.gov/" target="_new">U.S. Environmental Protection Agency (EPA)</a></li>
+					<li class="menuLI level2 menuHidden li-2752"><a class="menuA level2 menuHidden" href="https://www.dfw.state.or.us/agency/directory/local_offices.asp" target="_new">Oregon Department of Fish and Wildlife</a></li>
+					<li class="menuLI level2 menuHidden li-2753"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/odf/Pages/index.aspx" target="_new">Oregon Department of Forestry</a></li>
+					<li class="menuLI level2 menuHidden li-2754"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/ODOT/Pages/index.aspx" target="_new">Oregon Department of Transportation</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-3084 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/services/municipal_court.php" target="_self">Municipal Court</a>
+				<ul class="menuUL level2 menuHidden ul-2849">
+					<li class="menuLI level2 menuHidden li-2849"><a class="menuA level2 menuHidden" href="https://secure.xpressbillpay.com/portal/payment_forms/?id=MTIyMDA%3D" target="_new">Pay Municipal Court Fees</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-2683 children"><a class="menuA level0 menuDisplay" href="https://www.newportoregon.gov/emergency_preparedness/index.php" target="_self">Emergency Preparedness</a>
+		<ul class="menuUL level1 menuHidden ul-2700">
+			<li class="menuLI level1 menuHidden li-2700 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/be_prepared/index.php" target="_self">Be Prepared</a>
+				<ul class="menuUL level2 menuHidden ul-2756">
+					<li class="menuLI level2 menuHidden li-2756"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/city_of_newport_emergency_operations_plan.php" target="_self">City of Newport Emergency Operations Plan</a></li>
+					<li class="menuLI level2 menuHidden li-2757"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/cf54bf3e-daaa-f011-a471-000c29a59557/Prepare_in_a_Year_Guide.pdf" target="_new">Prepare in a Year Guide</a></li>
+					<li class="menuLI level2 menuHidden li-2758"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/hazardsprep/Pages/2-Weeks-Ready.aspx" target="_new">Be 2 Weeks Ready Tool Kit</a></li>
+					<li class="menuLI level2 menuHidden li-2759"><a class="menuA level2 menuHidden" href="https://www.ready.gov/pets" target="_new">Pet Preparedness</a></li>
+					<li class="menuLI level2 menuHidden li-2760"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/community-preparedness/Pages/CERT-Program.aspx" target="_new">Community Emergency Response Team (CERT)</a></li>
+					<li class="menuLI level2 menuHidden li-2761"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/Documents/OEM_Pocket-Planner-ENGLISH_2023.pdf" target="_new">Create Your Own Emergency Action Plan</a></li>
+					<li class="menuLI level2 menuHidden li-2762"><a class="menuA level2 menuHidden" href="https://www.ready.gov/low-and-no-cost" target="_new">Low and No Cost Preparedness</a></li>
+					<li class="menuLI level2 menuHidden li-2763"><a class="menuA level2 menuHidden" href="https://www.ready.gov/plan" target="_new">Make a Plan</a></li>
+					<li class="menuLI level2 menuHidden li-2764"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/Documents/OEM_Preparedness_Checklist.pdf" target="_new">Preparedness Checklist for Businesses</a></li>
+					<li class="menuLI level2 menuHidden li-2765"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/community-preparedness/Pages/Youth-Preparedness-Council.aspx" target="_new">Youth Preparedness Council</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-3229 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/sign_up_for_alerts.php" target="_self">Sign Up for Emergency Alerts</a>
+				<ul class="menuUL level2 menuHidden ul-3226">
+					<li class="menuLI level2 menuHidden li-3226"><a class="menuA level2 menuHidden" href="https://www.flashalert.net/id/Newport-Fire-Department" target="_new">Newport Fire Flash Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-3225"><a class="menuA level2 menuHidden" href="https://www.flashalert.net/id/NPD" target="_new">Newport Police Flash Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-3227"><a class="menuA level2 menuHidden" href="https://member.everbridge.net/892807736721689/new" target="_new">Lincoln County Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-3228"><a class="menuA level2 menuHidden" href="https://www.usgs.gov/programs/earthquake-hazards/be-shakealert-safe" target="_new">Shake Alerts</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2701 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/wildfire/index.php" target="_self">Wildfire Information</a>
+				<ul class="menuUL level2 menuHidden ul-2766">
+					<li class="menuLI level2 menuHidden li-2766"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/debris_burn_ban_dates.php" target="_self">Debris Burn Ban Dates</a></li>
+					<li class="menuLI level2 menuHidden li-2767"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/ban_of_retail_fireworks.php" target="_self">Ban of Retail Fireworks</a></li>
+					<li class="menuLI level2 menuHidden li-2768"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/401/Community-Wildfire-Protection-Plan" target="_new">Lincoln County Community Wildfire Protection Plan</a></li>
+					<li class="menuLI level2 menuHidden li-2769"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/hazardsprep/Documents/WildfireDeclarationChart.pdf" target="_new">Declaration Chart</a></li>
+					<li class="menuLI level2 menuHidden li-2770"><a class="menuA level2 menuHidden" href="https://wildfire.oregon.gov/Pages/evacuations.aspx" target="_new">Evacuation Levels</a></li>
+					<li class="menuLI level2 menuHidden li-2771"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/odf/fire/pages/restrictions.aspx?fbclid=IwAR0KTEDYcSucnmMiyUOp40sxgk3tBrNQavHc6kj_N7pBToSOhIUJk5Zf-hg" target="_new">Fire Restrictions</a></li>
+					<li class="menuLI level2 menuHidden li-2772"><a class="menuA level2 menuHidden" href="https://www.ready.gov/wildfires" target="_new">Wildfire Preparedness</a></li>
+					<li class="menuLI level2 menuHidden li-2773"><a class="menuA level2 menuHidden" href="https://wildfire.oregon.gov/" target="_new">Response and Recovery</a></li>
+					<li class="menuLI level2 menuHidden li-2774"><a class="menuA level2 menuHidden" href="https://odffire.com/" target="_new">Wildfire News</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2702 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/earthquake___tsunami/index.php" target="_self">Earthquake / Tsunami</a>
+				<ul class="menuUL level2 menuHidden ul-2775">
+					<li class="menuLI level2 menuHidden li-2775"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/evacuation_maps.php" target="_self">Evacuation Maps</a></li>
+					<li class="menuLI level2 menuHidden li-2781"><a class="menuA level2 menuHidden" href="https://www.shakealert.org/" target="_new">Shake Alert Notifications</a></li>
+					<li class="menuLI level2 menuHidden li-2782"><a class="menuA level2 menuHidden" href="https://www.weather.gov/safety/tsunami-alerts" target="_new">Types of Tsunami Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-2777"><a class="menuA level2 menuHidden" href="https://tsunami.gov/" target="_new">NOAA Tsunami Warning System</a></li>
+					<li class="menuLI level2 menuHidden li-2778"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/hazardsprep/Pages/Cascadia-Subduction-Zone.aspx" target="_new">Cascadia Subduction Zone</a></li>
+					<li class="menuLI level2 menuHidden li-2779"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/Documents/Tsunami_Evacuation_Drill_Guidebook.pdf" target="_new">Evacuation Drill Guidebook</a></li>
+					<li class="menuLI level2 menuHidden li-2780"><a class="menuA level2 menuHidden" href="https://www.earthquakecountry.org/step1/" target="_new">Secure Your Space</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2703 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/other_emergencies/index.php" target="_self">Other Emergencies</a>
+				<ul class="menuUL level2 menuHidden ul-2784">
+					<li class="menuLI level2 menuHidden li-2784"><a class="menuA level2 menuHidden" href="https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/extreme-heat-safety/heat-check.html" target="_new">Extreme Heat</a></li>
+					<li class="menuLI level2 menuHidden li-2785"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/hazardsprep/Pages/Floods.aspx" target="_new">Floods</a></li>
+					<li class="menuLI level2 menuHidden li-2786"><a class="menuA level2 menuHidden" href="https://www.redcross.org/content/dam/redcross/atg/PDF_s/Preparedness___Disaster_Recovery/Disaster_Preparedness/Water_Safety/WouldYouKnowWhattodo.pdf" target="_new">Water Emergencies</a></li>
+					<li class="menuLI level2 menuHidden li-2787"><a class="menuA level2 menuHidden" href="https://www.ready.gov/winter-weather" target="_new">Winter Storms</a></li>
+					<li class="menuLI level2 menuHidden li-2788"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/741/Hazards-Natural-Technological-Adversaria" target="_new">Hazards</a></li>
+					<li class="menuLI level2 menuHidden li-2789"><a class="menuA level2 menuHidden" href="https://clpud.org/customer-information/outages/public-safety-power-shutoff/" target="_new">Public Safety Power Shutoff</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2704 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/emergency_preparedness/other_resources/index.php" target="_self">Other Resources</a>
+				<ul class="menuUL level2 menuHidden ul-2790">
+					<li class="menuLI level2 menuHidden li-2790"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/newport_emergency_management.php" target="_self">Newport Emergency Management</a></li>
+					<li class="menuLI level2 menuHidden li-2791"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/fire/index.php" target="_self">Newport Fire Department</a></li>
+					<li class="menuLI level2 menuHidden li-2792"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/police/index.php" target="_self">Newport Police Department</a></li>
+					<li class="menuLI level2 menuHidden li-2793"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/oem/Documents/locals_list.pdf" target="_new">Local and Tribal Emergency Managers</a></li>
+					<li class="menuLI level2 menuHidden li-2794"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/osfm/Pages/default.aspx" target="_new">Oregon State Fire Marshal</a></li>
+					<li class="menuLI level2 menuHidden li-2795"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/OEM/Pages/default.aspx" target="_new">Oregon Department of Emergency Management</a></li>
+					<li class="menuLI level2 menuHidden li-2796"><a class="menuA level2 menuHidden" href="https://www.co.lincoln.or.us/708/Emergency-Management" target="_new">Lincoln County Emergency Management</a></li>
+					<li class="menuLI level2 menuHidden li-2797"><a class="menuA level2 menuHidden" href="https://www.redcross.org/volunteer/become-a-volunteer.html" target="_new">American Red Cross</a></li>
+					<li class="menuLI level2 menuHidden li-2798"><a class="menuA level2 menuHidden" href="https://cascadiacopeshub.org/" target="_new">Cascadia CoPes Hub</a></li>
+					<li class="menuLI level2 menuHidden li-2799"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/dogami/tsuclearinghouse/Pages/default.aspx" target="_new">DOGAMI</a></li>
+					<li class="menuLI level2 menuHidden li-2800"><a class="menuA level2 menuHidden" href="https://www.fema.gov/emergency-managers/practitioners/integrated-public-alert-warning-system/public" target="_new">FEMA Emergency Alerts</a></li>
+					<li class="menuLI level2 menuHidden li-2801"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/odf/Pages/index.aspx" target="_new">Oregon Department of Forestry</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-78 children"><a class="menuA level0 menuDisplay" href="https://www.newportoregon.gov/for_you/index.php" target="_self">For You</a>
+		<ul class="menuUL level1 menuHidden ul-299">
+			<li class="menuLI level1 menuHidden li-299 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/for_you/apply_for/index.php" target="_self">Apply For</a>
+				<ul class="menuUL level2 menuHidden ul-2425">
+					<li class="menuLI level2 menuHidden li-2425"><a class="menuA level2 menuHidden" href="https://www.governmentjobs.com/careers/cityofnewport" target="_new">Job Opportunities & Internships</a></li>
+					<li class="menuLI level2 menuHidden li-1931"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/business_licenses/index.php" target="_self">Business Licenses</a></li>
+					<li class="menuLI level2 menuHidden li-2426"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/apply_for/special_event_permits.php" target="_self">Special Event Permits</a></li>
+					<li class="menuLI level2 menuHidden li-2802"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/apply_for/grants.php" target="_self">Destination Newport Grant</a></li>
+					<li class="menuLI level2 menuHidden li-3674"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/apply_for/parkingpermits.php" target="_self">Parking Permits</a></li>
+					<li class="menuLI level2 menuHidden li-4150"><a class="menuA level2 menuHidden" href="https://aca-oregon.accela.com/oregon/Default.aspx" target="_new">Right-of-Way Permits</a></li>
+					<li class="menuLI level2 menuHidden li-667"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/apply_for/epermitting.php" target="_self">Building Permits</a></li>
+					<li class="menuLI level2 menuHidden li-3974"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/rfp_bid.php" target="_self">Requests for Proposals</a></li>
+					<li class="menuLI level2 menuHidden li-2803"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/committees/committee_application.php" target="_self">Committees</a></li>
+					<li class="menuLI level2 menuHidden li-2804"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/human_resources/volunteer.php" target="_self">Volunteer with the City</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2705 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/for_you/inspections_and_codes/index.php" target="_self">Inspections and Codes</a>
+				<ul class="menuUL level2 menuHidden ul-668">
+					<li class="menuLI level2 menuHidden li-668"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/inspections_and_codes/inspection_schedules.php" target="_self">Inspection Schedules</a></li>
+					<li class="menuLI level2 menuHidden li-2896"><a class="menuA level2 menuHidden" href="https://www.oregon.gov/BCD/pages/index.aspx" target="_new">Building Codes</a></li>
+					<li class="menuLI level2 menuHidden li-2808"><a class="menuA level2 menuHidden" href="https://library.municode.com/or/newport/codes/municipal_code" target="_new">Newport Municipal Code</a></li>
+					<li class="menuLI level2 menuHidden li-2809"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/dept/cdd/search.asp" target="_new">Building and Land Use Records</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-4061"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/business_licenses/index.php" target="_self">Business License Hub</a></li>
+			<li class="menuLI level1 menuHidden li-3329"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/departments/community_development/short_term_rentals.php" target="_self">Short Term Rental Hub</a></li>
+			<li class="menuLI level1 menuHidden li-4094"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/parking.php" target="_new">Parking Information</a></li>
+			<li class="menuLI level1 menuHidden li-893 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/for_you/make_a_payment/index.php" target="_self">Payments & Accounts</a>
+				<ul class="menuUL level2 menuHidden ul-2421">
+					<li class="menuLI level2 menuHidden li-2421"><a class="menuA level2 menuHidden" href="https://xpressbillpay.com/#/?org=Newport10255" target="_new">Water/Sewer/Stormwater Bill</a></li>
+					<li class="menuLI level2 menuHidden li-2811"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/business_licenses/index.php" target="_self">Business License Renewal</a></li>
+					<li class="menuLI level2 menuHidden li-308"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/make_a_payment/parking_tickets.php" target="_self">Parking Tickets</a></li>
+					<li class="menuLI level2 menuHidden li-2812"><a class="menuA level2 menuHidden" href="https://secure.xpressbillpay.com/portal/payment_forms/?id=MTIyMDA%3D" target="_new">Pay Court Fines</a></li>
+					<li class="menuLI level2 menuHidden li-3751"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/newaccount_signup.php" target="_self">New Utility Account Sign Up</a></li>
+					<li class="menuLI level2 menuHidden li-3960"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/departments/finance/utility_change.php" target="_self">Stop or Change Utility Service</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-4182 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/government/departments/police/index.php" target="_self">Newport Police</a>
+				<ul class="menuUL level2 menuHidden ul-3817">
+					<li class="menuLI level2 menuHidden li-3817"><a class="menuA level2 menuHidden" href="https://newportpd.mypdconnect.com/index.html?lang=en" target="_new">File A Police Report Online</a></li>
+					<li class="menuLI level2 menuHidden li-4183"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/65499b3d-5760-f111-a49b-000c29a59557/NPD_RideAlong_App.pdf" target="_new">Request a Ride-Along</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-94 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/for_you/stay_connected/index.php" target="_self">Stay Connected</a>
+				<ul class="menuUL level2 menuHidden ul-2813">
+					<li class="menuLI level2 menuHidden li-2813"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/sign_up_for_city_newsletter.php" target="_self">Sign Up for E-Newsletter</a></li>
+					<li class="menuLI level2 menuHidden li-3066"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/stay_connected/newport_on_social_media.php" target="_self">Newport on Social Media</a></li>
+					<li class="menuLI level2 menuHidden li-3749"><a class="menuA level2 menuHidden" href="https://www.discovernewport.com/webcams-newport" target="_new">Newport Webcams</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-2706 children"><a class="menuA level1 menuHidden" href="https://www.newportoregon.gov/for_you/submit/index.php" target="_self">Submit Requests</a>
+				<ul class="menuUL level2 menuHidden ul-2817">
+					<li class="menuLI level2 menuHidden li-2817"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/for_you/submit/service_requests.php" target="_self">Report Potholes, Leaks & Repairs</a></li>
+					<li class="menuLI level2 menuHidden li-2820"><a class="menuA level2 menuHidden" href="https://www.newportoregon.gov/government/public_records/publicrecords_request.php" target="_self">Request Public Records</a></li>
+					<li class="menuLI level2 menuHidden li-3816"><a class="menuA level2 menuHidden" href="https://newportcityor.documents-on-demand.com/Document/a530a9ca-c3aa-f011-a471-000c29a59557/NPD_PublicRecords_Request.pdf" target="_new">Request NPD Public Records</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+
+
+
+
+
+					<!--/#nav-->
+				</nav>
+				<!--/.col-lg-8-->
+				<div class="col-lg-3">
+					<div id="translate-wrap">
+						<div id="google-translate" class="d-none">
+							<script>
+								function googleTranslateElementInit() {
+									new google.translate.TranslateElement({pagelanguage: 'en',
+										layout: google.translate.TranslateElement.InlineLayout.SIMPLE},
+										'google-translate');
+								}
+							</script>
+						</div>
+						<!--/#google-translate-->
+						<ul id="translation-links">
+							<li>
+								<button type="button" id="translate-button" aria-label="translate website" aria-haspopup="true" aria-expanded="false"><img src="https://www.newportoregon.gov/_assets_/images/translate.png" alt="translate"><span>En</span><img src="https://www.newportoregon.gov/_assets_/images/down-arrow.png" alt="Down Arrow"></button><button id="translate-reset" translate="no">Reset</button>
+								<ul class="clearfix" aria-labelledby="translate-button">
+									<li><a href="#" class="English" data-lang="English" translate="no"><strong>English</strong></a></li>
+									<li><a href="#" class="Afrikaans" data-lang="Afrikaans">Afrikaans</a></li>
+									<li><a href="#" class="Albanian" data-lang="Albanian">Albanian</a></li>
+									<li><a href="#" class="Arabic" data-lang="Arabic">Arabic</a></li>
+									<li><a href="#" class="Armenian" data-lang="Armenian">Armenian</a></li>
+									<li><a href="#" class="Azerbaijani" data-lang="Azerbaijani">Azerbaijani</a></li>
+									<li><a href="#" class="Basque" data-lang="Basque">Basque</a></li>
+									<li><a href="#" class="Belarusian" data-lang="Belarusian">Belarusian</a></li>
+									<li><a href="#" class="Bengali" data-lang="Bengali">Bengali</a></li>
+									<li><a href="#" class="Bosnian" data-lang="Bosnian">Bosnian</a></li>
+									<li><a href="#" class="Bulgarian" data-lang="Bulgarian">Bulgarian</a></li>
+									<li><a href="#" class="Catalan" data-lang="Catalan">Catalan</a></li>
+									<li><a href="#" class="Cebuano" data-lang="Cebuano">Cebuano</a></li>
+									<li><a href="#" class="Chinese" data-lang="Chinese (Simplified)">Chinese (Simplified)</a></li>
+									<li><a href="#" class="Chinese" data-lang="Chinese (Traditional)">Chinese (Traditional)</a></li>
+									<li><a href="#" class="Croatian" data-lang="Croatian">Croatian</a></li>
+									<li><a href="#" class="Czech" data-lang="Czech">Czech</a></li>
+									<li><a href="#" class="Danish" data-lang="Danish">Danish</a></li>
+									<li><a href="#" class="Dutch" data-lang="Dutch">Dutch</a></li>
+									<li><a href="#" class="Esperanto" data-lang="Esperanto">Esperanto</a></li>
+									<li><a href="#" class="Estonian" data-lang="Estonian">Estonian</a></li>
+									<li><a href="#" class="Filipino" data-lang="Filipino">Filipino</a></li>
+									<li><a href="#" class="Finnish" data-lang="Finnish">Finnish</a></li>
+									<li><a href="#" class="French" data-lang="French">French</a></li>
+									<li><a href="#" class="Galician" data-lang="Galician">Galician</a></li>
+									<li><a href="#" class="Georgian" data-lang="Georgian">Georgian</a></li>
+									<li><a href="#" class="German" data-lang="German">German</a></li>
+									<li><a href="#" class="Greek" data-lang="Greek">Greek</a></li>
+									<li><a href="#" class="Gujarati" data-lang="Gujarati">Gujarati</a></li>
+									<li><a href="#" class="Haitian Creole" data-lang="Haitian Creole">Haitian Creole</a></li>
+									<li><a href="#" class="Hausa" data-lang="Hausa">Hausa</a></li>
+									<li><a href="#" class="Hebrew" data-lang="Hebrew">Hebrew</a></li>
+									<li><a href="#" class="Hindi" data-lang="">Hindi</a></li>
+									<li><a href="#" class="Hmong" data-lang="Hmong">Hmong</a></li>
+									<li><a href="#" class="Hungarian" data-lang="Hungarian">Hungarian</a></li>
+									<li><a href="#" class="Icelandic" data-lang="Icelandic">Icelandic</a></li>
+									<li><a href="#" class="Igbo" data-lang="Igbo">Igbo</a></li>
+									<li><a href="#" class="Indonesian" data-lang="Indonesian">Indonesian</a></li>
+									<li><a href="#" class="Irish" data-lang="Irish">Irish</a></li>
+									<li><a href="#" class="Italian" data-lang="Italian">Italian</a></li>
+									<li><a href="#" class="Japanese" data-lang="Japanese">Japanese</a></li>
+									<li><a href="#" class="Javanese" data-lang="Javanese">Javanese</a></li>
+									<li><a href="#" class="Kannada" data-lang="Kannada">Kannada</a></li>
+									<li><a href="#" class="Khmer" data-lang="Khmer">Khmer</a></li>
+									<li><a href="#" class="Korean" data-lang="Korean">Korean</a></li>
+									<li><a href="#" class="Lao" data-lang="Lao">Lao</a></li>
+									<li><a href="#" class="Latin" data-lang="Latin">Latin</a></li>
+									<li><a href="#" class="Latvian" data-lang="Latvian">Latvian</a></li>
+									<li><a href="#" class="Lithuanian" data-lang="Lithuanian">Lithuanian</a></li>
+									<li><a href="#" class="Macedonian" data-lang="Macedonian">Macedonian</a></li>
+									<li><a href="#" class="Malay" data-lang="Malay">Malay</a></li>
+									<li><a href="#" class="Maltese" data-lang="Maltese">Maltese</a></li>
+									<li><a href="#" class="Maori" data-lang="Maori">Maori</a></li>
+									<li><a href="#" class="Marathi" data-lang="Marathi">Marathi</a></li>
+									<li><a href="#" class="Mongolian" data-lang="Mongolian">Mongolian</a></li>
+									<li><a href="#" class="Nepali" data-lang="Nepali">Nepali</a></li>
+									<li><a href="#" class="Norwegian" data-lang="Norwegian">Norwegian</a></li>
+									<li><a href="#" class="Persian" data-lang="Persian">Persian</a></li>
+									<li><a href="#" class="Polish" data-lang="Polish">Polish</a></li>
+									<li><a href="#" class="Portuguese" data-lang="Portuguese">Portuguese</a></li>
+									<li><a href="#" class="Punjabi" data-lang="Punjabi">Punjabi</a></li>
+									<li><a href="#" class="Romanian" data-lang="Romanian">Romanian</a></li>
+									<li><a href="#" class="Russian" data-lang="Russian">Russian</a></li>
+									<li><a href="#" class="Serbian" data-lang="Serbian">Serbian</a></li>
+									<li><a href="#" class="Slovak" data-lang="Slovak">Slovak</a></li>
+									<li><a href="#" class="Slovenian" data-lang="Slovenian">Slovenian</a></li>
+									<li><a href="#" class="Somali" data-lang="Somali">Somali</a></li>
+									<li><a href="#" class="Spanish" data-lang="Spanish">Spanish</a></li>
+									<li><a href="#" class="Swahili" data-lang="Swahili">Swahili</a></li>
+									<li><a href="#" class="Swedish" data-lang="Swedish">Swedish</a></li>
+									<li><a href="#" class="Tamil" data-lang="Tamil">Tamil</a></li>
+									<li><a href="#" class="Telugu" data-lang="Telugu">Telugu</a></li>
+									<li><a href="#" class="Thai" data-lang="Thai">Thai</a></li>
+									<li><a href="#" class="Turkish" data-lang="Turkish">Turkish</a></li>
+									<li><a href="#" class="Ukrainian" data-lang="Ukrainian">Ukrainian</a></li>
+									<li><a href="#" class="Urdu" data-lang="Urdu">Urdu</a></li>
+									<li><a href="#" class="Vietnamese" data-lang="Vietnamese">Vietnamese</a></li>
+									<li><a href="#" class="Welsh" data-lang="Welsh">Welsh</a></li>
+									<li><a href="#" class="Yiddish" data-lang="Yiddish">Yiddish</a></li>
+									<li><a href="#" class="Yoruba" data-lang="Yoruba">Yoruba</a></li>
+									<li><a href="#" class="Zulu" data-lang="Zulu">Zulu</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<div id="search">
+						<form class="search-form" method="GET" action="https://www.newportoregon.gov/search.php" role="search" aria-label="sitewide">
+							<input name="q" class="form-control search-input" placeholder="Search..." type="search" id="search-input">
+							<button class="search-btn"><img src="https://www.newportoregon.gov/_assets_/images/search.png" alt="search Icon"></button>
+						</form>
+					</div>
+					<!--/.search-->
+				</div>
+				<!--/.col-lg-2-->
+			</div>
+			<!--/.row-->
+		</div>
+		<!--/.container-->
+	</div>
+	<!-- .site-header -->
+</header>
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('slider','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq_no',seq:'2.00'};
+</script>
+
+
+
+<section id="slider" class="tiny-slider-wrap has-edit-buttons">
+	<div class="center-center">
+		<div class="rz-btns-container">
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'slider';
+				RZ.nexturl = 'editforms/slider_images-editlist.jsp?width=1728&height=500&pageid=links-2775';
+				RZ.img = '<span class="rzBtn">Edit Slider</span>';
+				RZ.set = '';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+		</div>
+	</div>
+	<ul class="tiny-slider">
+		<li class="tiny-item"><div class="tns-lazy-img tns-bg-slide" data-style="background:url('Images/hero%20images/Lighthouse_Beach.jpg?t=202601021349050') center no-repeat;background-size:cover"></div></li>
+	</ul>
+	<!--/.tiny-slider-->
+	<div class="weather-wrap">
+		<div class="right-links">
+			<div id="weather" class="weather"></div>
+		</div>
+	</div>
+	<!--/.weather-wrap-->
+</section>
+<!--/#slider-->
+
+
+<main id="main">
+	<div class="container">
+	
+		<div class="row">
+				
+
+<div class="col-lg-3">
+	<aside id="flyout-wrap" class="has-edit-buttons">
+		<div class="rz-btns-container">
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'freeform';
+				RZ.nexturl = 'editforms/leftnav_title-editform.jsp';
+				RZ.img = '<span class="rzBtn">Edit Title</span>';
+				RZ.set = 'pageid=links-2775';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+			
+
+
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'links';
+				RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=links-2775&"
+							+ "linksfilter=linkplacement=leftnav and linkparentid=2702&"
+							+ "numberoflevels=2&"
+							+ "linkoptions=url,template,file&"
+							+ "linknewsection=*all*";
+				RZ.img = '<span class="rzBtn">Edit Left Nav</span>';
+				RZ.caption = '';
+				RZ.set = "links.linkplacement=leftnav"
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editlist');
+			</script>
+		</div>
+		<h2 id="flyout-header">Related Pages</h2>
+		
+ <ul  id="flyout" class="v08-30-2012">
+	<li id="li-2775" class="menuLI level0 menuSelectedItem first"><a class="menuA level0 menuSelectedItem first" href="https://www.newportoregon.gov/evacuation_maps.php" target="_self" >Evacuation Maps</a></li>
+	<li id="li-2781" class="menuLI level0 menuSelectedLevel"><a class="menuA level0 menuSelectedLevel" href="https://www.shakealert.org/" target="_blank" >Shake Alert Notifications</a></li>
+	<li id="li-2782" class="menuLI level0 menuSelectedLevel"><a class="menuA level0 menuSelectedLevel" href="https://www.weather.gov/safety/tsunami-alerts" target="_blank" >Types of Tsunami Alerts</a></li>
+	<li id="li-2777" class="menuLI level0 menuSelectedLevel"><a class="menuA level0 menuSelectedLevel" href="https://tsunami.gov/" target="_blank" >NOAA Tsunami Warning System</a></li>
+	<li id="li-2778" class="menuLI level0 menuSelectedLevel"><a class="menuA level0 menuSelectedLevel" href="https://www.oregon.gov/oem/hazardsprep/Pages/Cascadia-Subduction-Zone.aspx" target="_blank" >Cascadia Subduction Zone</a></li>
+	<li id="li-2779" class="menuLI level0 menuSelectedLevel"><a class="menuA level0 menuSelectedLevel" href="https://www.oregon.gov/oem/Documents/Tsunami_Evacuation_Drill_Guidebook.pdf" target="_blank" >Evacuation Drill Guidebook</a></li>
+	<li id="li-2780" class="menuLI level0 menuSelectedLevel"><a class="menuA level0 menuSelectedLevel" href="https://www.earthquakecountry.org/step1/" target="_blank" >Secure Your Space</a></li>
+</ul>
+ 
+	</aside>
+	<!--/#flyout-wrap.has-edit-buttons-->
+	<aside id="contact-dpt" class="has-edit-buttons">
+		<div class="rz-btns-container">
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = 'editforms/text-editform.jsp';
+				RZ.img = '<span class="rzBtn">Edit Header</span>';
+				RZ.set = 'pageid=contheaderlinks-2775';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = 'editforms/ff_contact-editform.jsp?width=80&height=80';
+				RZ.img = '<span class="rzBtn">Edit Contact Details</span>';
+				RZ.set = 'pageid=contactlinks-2775';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+		</div>
+		
+		
+		
+		
+		
+		 
+		
+		
+		
+	</aside>
+	<!--/#contact-dpt.has-edit-buttons-->
+	<aside id="fillable" class="has-edit-buttons">
+		<div class="rz-btns-container">
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = 'editforms/text-editform.jsp';
+				RZ.img = '<span class="rzBtn">Edit Header</span>';
+				RZ.set = 'pageid=textboxlinks-2775';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = 'editforms/box-editform.jsp?';
+				RZ.img = '<span class="rzBtn">Edit Content</span>';
+				RZ.set = 'pageid=boxContentlinks-2775';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+		</div>
+		
+		
+		 
+		
+	</aside>
+	<!--/#fillable.has-edit-button-->
+</div>
+
+
+			<!--/.col-lg-3-->
+			<div class="col-lg-9">
+			
+				<article id="entry">
+					<div id="post" class="has-edit-buttons">
+						
+						<div id="breadcrumbs">
+							<ul><li><a href="https://www.newportoregon.gov/./">Home</a> </li><li><a href="https://www.newportoregon.gov/emergency_preparedness/index.php">Emergency&nbsp;Preparedness</a> </li><li><a href="https://www.newportoregon.gov/emergency_preparedness/earthquake___tsunami/index.php">Earthquake&nbsp;/&nbsp;Tsunami</a> </li><li>Evacuation&nbsp;Maps</li></ul>
+						</div>
+						<h1 id="page-title">
+
+
+
+Tsunami Evacuation Maps</h1>
+						
+
+
+
+<div class="rz-btns-container">
+
+	
+
+	<script language="JavaScript" type="text/JavaScript">
+
+		RZ.module = 'freeform';
+
+		RZ.nexturl = 'editforms/freeform-editform.jsp?';
+
+		RZ.img = '<span class="rzBtn">Edit Content</span>';
+
+		RZ.set = 'pageid=links-2775';
+
+		RZ.options = '';
+
+		if (typeof RZaction != 'undefined') RZaction('editform');
+
+	</script>
+
+	
+
+	
+
+
+	
+
+</div>
+
+<p><span style="font-size: 16px;">Knowing your evacuation routes before an emergency can save lives. The maps below show generalized evacuation routes. The needed tsunami evacuation speeds shown on the maps represent the speeds required to escape a maximum considered tsunami generated from a local Cascadia subduction zone earthquake. You can print these&nbsp;<span class="font-weight-bold">page-size</span> (8.5 x 11 inch) PDF maps on your printer at a readable scale. Take time to practice your tsunami evacuation plan and route.</span><br /><br /><span style="font-size: 28px;">What to Do During an Evacuation</span></p>
+<ul>
+<li data-start="865" data-end="910"><span style="font-size: 16px;">Move quickly to your nearest assembly area.</span></li>
+<li data-start="865" data-end="910"><span style="font-size: 16px;">Do not wait for official instructions if you feel strong shaking or see rapid water withdrawal; evacuate immediately.</span></li>
+<li data-start="865" data-end="910"><span style="font-size: 16px;">Take your emergency kit if it is readily available.</span></li>
+<li data-start="865" data-end="910"><span style="font-size: 16px;">Plan ahead to know which route is closest to your home, workplace, or lodging.</span></li>
+</ul>
+<hr />
+<p style="text-align: center;"><span style="font-size: 24px;"><strong>"Beat the Wave" Tsunami Evacuation Route Maps</strong></span></p>
+<table style="border-collapse: collapse; width: 100%;" border="0" cellpadding="10px">
+<tbody>
+<tr>
+<td style="width: 33.309%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>Agate Beach<br /></strong></span><span style="font-size: 16px;"><strong><span style="font-size: 14px;">Click image to enlarge</span></strong></span><br /><a href= "https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Agate Beach.jpg?t=202608251906000" style="width: 200px;"  target="_blank"  ><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Agate Beach.jpg?t=202608251906000" alt="Agate Beach" /></a><br /><span style="font-size: 16px;"><strong><a href="https://newportcityor.documents-on-demand.com/Document/dbbf1f1a-6791-414c-aa62-276200119e7f/EvacRoute_Agate.pdf" target="_blank">Download PDF Map</a></strong></span></td>
+<td style="width: 33.309%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>Bayfront<br /></strong></span><span style="font-size: 16px;"><strong><span style="font-size: 14px;">Click image to enlarge</span></strong></span><br /><a href= "https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Bayfront.jpg?t=202608251906220" style="width: 200px;"  target="_blank"  ><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Bayfront.jpg?t=202608251906220" alt="Bayfront" /></a><br /><span style="font-size: 16px;"><strong><a href="https://newportcityor.documents-on-demand.com/Document/b48b99dd-da7d-4218-8c4d-3df8631b00c8/EvacRoute_Bayfront.pdf" target="_blank">Download PDF Map</a></strong></span></td>
+<td style="width: 33.3101%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>Nye Beach<br /></strong></span><span style="font-size: 16px;"><strong><span style="font-size: 14px;">Click image to enlarge</span></strong></span><br /><a href= "https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Nye Beach.jpg?t=202608251906450" style="width: 200px;"  target="_blank"  ><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Nye Beach.jpg?t=202608251906450" alt="Nye Beach" /></a><br /><span style="font-size: 16px;"><strong><a href="https://newportcityor.documents-on-demand.com/Document/6606a15c-fadc-484f-a25c-912ec450649a/EvacRoute_NyeBeach.pdf" target="_blank">Download PDF Map</a></strong></span></td>
+</tr>
+<tr>
+<td style="width: 33.309%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>&nbsp;</strong></span></td>
+<td style="width: 33.309%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>&nbsp;</strong></span></td>
+<td style="width: 33.3101%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>&nbsp;</strong></span></td>
+</tr>
+<tr>
+<td style="width: 33.309%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>South Beach<br /><span style="font-size: 14px;">Click image to enlarge</span><br /><a href= "https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/South Beach.jpg?t=202608251909210" style="width: 200px;" rel="noopener"  target="_blank"  ><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/South Beach.jpg?t=202608251909210" alt="South Beach" /></a><br /><a rel="noopener" href="https://newportcityor.documents-on-demand.com/Document/a0ffe2e1-a7e2-4d25-a0ca-6df17172d0a7/EvacRoute_SouthBeach.pdf" target="_blank">Download PDF Map</a></strong></span></td>
+<td style="width: 33.309%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>Hatfield Marine Science Center<br /><span style="font-size: 14px;">Click image to enlarge</span><br /><a href= "https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Hatfield.png?t=202608251909420" style="width: 200px;" rel="noopener"  target="_blank"  ><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/Hatfield.png?t=202608251909420" alt="Hatfield" /></a><br /><a rel="noopener" href="https://newportcityor.documents-on-demand.com/Document/4b5eb624-dc79-4ba3-862b-dcb709942988/EvacRoute_Hatfield.pdf" target="_blank">Download PDF Map</a></strong></span></td>
+<td style="width: 33.3101%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>Map Instructions<br /><span style="font-size: 14px;">Click image to enlarge</span><br /><a href= "https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/HowTo.png?t=202608251913020" style="width: 200px;" rel="noopener"  target="_blank"  ><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/HowTo.png?t=202608251913020" alt="HowTo" /></a><br /><br /></strong></span></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p style="text-align: center;"><span style="font-size: 24px;"><strong>Tsunami Evacuation Route Maps - North and South Newport</strong></span></p>
+<table style="border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;" cellpadding="10px">
+<tbody>
+<tr>
+<td style="width: 49.9641%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>North Newport<br /></strong></span><span style="font-size: 16px;"><strong><span style="font-size: 14px;">Click image to enlarge (PDF)<br /><a href="https://newportcityor.documents-on-demand.com/Document/c3cd83d1-471c-45ca-9487-969ab4dbcf21/TsunamiEvac_North.pdf" target="_blank"><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/TsunamiEvac_North.png?t=202609231628110" alt="TsunamiEvac_North" /></a><br /></span></strong></span></td>
+<td style="width: 49.9641%; text-align: center; vertical-align: top;"><span style="font-size: 16px;"><strong>South Newport<br /></strong></span><span style="font-size: 16px;"><strong><span style="font-size: 14px;">Click image to enlarge (PDF)<br /><a href="https://newportcityor.documents-on-demand.com/Document/072d4ec9-5aed-4b82-aa88-02d1f3335e15/TusnamiEvac_South.pdf" target="_blank"><img src="https://www.newportoregon.gov/Images/Government/Departments/Emergency Management/Evacuation Maps/TsunamiEvac_South.png?t=202609231628280" alt="TsunamiEvac_South" /></a><br /></span></strong></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br /><br /><br /></p>
+
+
+
+
+					</div>
+					<!--/#post-->
+				</article>
+				<!--/#entry-->
+			
+			</div>
+			<!--/.col-lg-9-->
+		</div>
+		
+		<!--/.row-->
+	</div>
+	<!--/.container-->
+	<!-- ENABLERS: update include statement with revize code -->
+	<section id="modal-section">
+		<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal" >
+		<svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M13 6C13 6.33707 13.0417 6.6644 13.1202 6.97712L8.9212 9.26748C8.19127 8.48747 7.15256 8 6 8C3.79086 8 2 9.79086 2 12C2 14.2091 3.79086 16 6 16C7.15259 16 8.19131 15.5125 8.92125 14.7325L13.1202 17.0228C13.0417 17.3356 13 17.6629 13 18C13 20.2091 14.7909 22 17 22C19.2091 22 21 20.2091 21 18C21 15.7909 19.2091 14 17 14C15.8474 14 14.8087 14.4875 14.0788 15.2675L9.87979 12.9771C9.95831 12.6644 10 12.3371 10 12C10 11.6629 9.9583 11.3355 9.87978 11.0228L14.0787 8.73246C14.8087 9.51251 15.8474 10 17 10C19.2091 10 21 8.20914 21 6C21 3.79086 19.2091 2 17 2C14.7909 2 13 3.79086 13 6ZM17 8C18.1046 8 19 7.10457 19 6C19 4.89543 18.1046 4 17 4C15.9117 4 15.0264 4.86931 15.0006 5.95146C15.0002 5.96759 15 5.98377 15 6C15 6.72279 15.3834 7.35603 15.958 7.70742C16.2614 7.89303 16.6182 8 17 8ZM6 10C6.38174 10 6.7385 10.1069 7.04195 10.2925C7.61654 10.6439 8 11.2772 8 12C8 12.7228 7.61657 13.3561 7.04201 13.7074C6.73855 13.893 6.38177 14 6 14C4.89543 14 4 13.1046 4 12C4 10.8954 4.89543 10 6 10ZM15.958 16.2925C15.3834 16.6439 15 17.2772 15 18C15 18.0162 15.0002 18.0324 15.0006 18.0485C15.0263 19.1306 15.9116 20 17 20C18.1046 20 19 19.1046 19 18C19 16.8954 18.1046 16 17 16C16.6182 16 16.2615 16.107 15.958 16.2925Z" fill="#000"/>
+		</svg>
+		<span class="sr-only">Share this page</span>
+	</button>
+
+	<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+		<div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+			<div class="modal-content">
+				<div class="modal-header justify-content-center border-0 pb-0 bg-transparent font-weight-bold">
+					Share this page
+					<!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M12 13.0607L17.4696 18.5303L18.5303 17.4697L13.0606 12.0001L18.5304 6.53033L17.4697 5.46967L12 10.9394L6.53026 5.46967L5.4696 6.53033L10.9393 12.0001L5.46972 17.4697L6.53038 18.5303L12 13.0607Z" fill="black"/>
+						</svg></span></button> -->
+				</div>
+				<div class="modal-body pt-2">
+					<div class="share-btns">
+						<a href="https://www.linkedin.com/sharing/share-offsite/?url=http://www.newportoregon.gov/evacuation_maps.php" class="btn-linkedin" onclick="return !window.open(this.href, 'linkedin ', 'width=500,height=500')"
+						target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/></svg> 
+						</a>
+	
+						<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.newportoregon.gov/evacuation_maps.php" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+						target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M80 299.3V512H196V299.3h86.5l18-97.8H196V166.9c0-51.7 20.3-71.5 72.7-71.5c16.3 0 29.4 .4 37 1.2V7.9C291.4 4 256.4 0 236.2 0C129.3 0 80 50.5 80 159.4v42.1H14v97.8H80z"/></svg> 
+						</a>
+	
+						<a href="https://www.twitter.com/intent/tweet?url=http://www.newportoregon.gov/evacuation_maps.php" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+						target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg> 
+						</a>
+	
+						<a href="https://www.reddit.com/submit?url=http://www.newportoregon.gov/evacuation_maps.php" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+						target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M373 138.6c-25.2 0-46.3-17.5-51.9-41l0 0c-30.6 4.3-54.2 30.7-54.2 62.4l0 .2c47.4 1.8 90.6 15.1 124.9 36.3c12.6-9.7 28.4-15.5 45.5-15.5c41.3 0 74.7 33.4 74.7 74.7c0 29.8-17.4 55.5-42.7 67.5c-2.4 86.8-97 156.6-213.2 156.6S45.5 410.1 43 323.4C17.6 311.5 0 285.7 0 255.7c0-41.3 33.4-74.7 74.7-74.7c17.2 0 33 5.8 45.7 15.6c34-21.1 76.8-34.4 123.7-36.4l0-.3c0-44.3 33.7-80.9 76.8-85.5C325.8 50.2 347.2 32 373 32c29.4 0 53.3 23.9 53.3 53.3s-23.9 53.3-53.3 53.3zM157.5 255.3c-20.9 0-38.9 20.8-40.2 47.9s17.1 38.1 38 38.1s36.6-9.8 37.8-36.9s-14.7-49.1-35.7-49.1zM395 303.1c-1.2-27.1-19.2-47.9-40.2-47.9s-36.9 22-35.7 49.1c1.2 27.1 16.9 36.9 37.8 36.9s39.3-11 38-38.1zm-60.1 70.8c1.5-3.6-1-7.7-4.9-8.1c-23-2.3-47.9-3.6-73.8-3.6s-50.8 1.3-73.8 3.6c-3.9 .4-6.4 4.5-4.9 8.1c12.9 30.8 43.3 52.4 78.7 52.4s65.8-21.6 78.7-52.4z"/></svg> 
+						</a>
+					</div><!-- /.share-btns -->
+					
+				</div><!-- /.modal-body -->
+				<div class="modal-footer p-0">
+					<button type="button" class="btn btn-link d-block w-100" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</section><!-- /#modal-section -->
+
+			
+
+<button id="ada-btn">
+   <img src="https://www.newportoregon.gov/_assets_/images/ada.png" alt="ada icon">
+</button>
+
+<!-- ADA -->
+<div id="ada-widget">
+    <script>
+        (function(d){
+           var s = d.createElement("script");
+           s.setAttribute("data-position", 4);
+           s.setAttribute("data-color", '#072448');
+           s.setAttribute("data-account", "sudb1U5E4V");
+           s.setAttribute("src", "https://cdn.userway.org/widget.js"); 
+           (d.body || d.head).appendChild(s);})(document)
+
+           var adaBtn = document.getElementById("ada-btn");
+           adaBtn.addEventListener("click", function() {
+                UserWay.widgetOpen()
+            });
+    </script>
+    <noscript>
+    Please ensure Javascript is enabled for purposes of 
+    <a href="https://userway.org">website accessibility</a>
+    </noscript>
+</div>
+
+
+</main>
+
+
+
+
+
+
+ 
+
+
+
+<footer class="site-footer">
+	
+	<div class="footer-top">
+		<div class="container">
+			<div class="f-box has-edit-buttons">
+				<div class="top-right">
+					<div class="rz-btns-container">
+											</div>
+				</div>
+				
+					
+				<h4 class="f-head">Contact the City</h4>
+				
+				
+				
+				<a href="https://maps.app.goo.gl/Knn8Uchn1kUEHDfL7" target="_blank" class="f-location">
+				
+				<img src="https://www.newportoregon.gov/_assets_/images/location-ic.png" alt="Location">
+				<b>City Hall:</b> 169 SW Coast Hwy, Newport, OR&#160;&nbsp; 97365
+				</a>
+				
+					
+				<a href="tel:+bMainLineb5415740603" class="f-phone">
+				<img src="https://www.newportoregon.gov/_assets_/images/phone-ic.png" alt="Phone">
+				<b>Main Line:</b> 541-574-0603
+				</a>
+				
+				<div class="f-timings-sup has-edit-buttons">
+					<div class="top-right">
+						<div class="rz-btns-container">
+													</div>
+					</div>
+					
+					
+					<div class="f-timings">
+						<img src="https://www.newportoregon.gov/_assets_/images/time-ic.png" alt="Timings">
+						<div><strong>City Hall Hours:</strong></div>
+					</div>
+					<ul id="hrs">
+						
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Mon:</strong><span>8:00am - 6:00pm</span></li>
+								
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Tue:</strong><span>8:00am - 6:00pm</span></li>
+								
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Wed:</strong><span>8:00am - 6:00pm</span></li>
+								
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Thu:</strong><span>8:00am - 6:00pm</span></li>
+								
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Fri:</strong><span>Closed</span></li>
+								
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Sat:</strong><span>Closed</span></li>
+								
+							
+								
+									 
+									
+									 
+									
+									<li><strong>Sun:</strong><span>Closed</span></li>
+								
+							
+						
+					</ul>
+					
+				</div>
+				<!--/.f-timings-sup-->
+				
+			</div>
+			<!--/.f-box.has-edit-buttons-->
+			<div class="f-box has-edit-buttons">
+				<div class="top-right">
+					<div class="rz-btns-container">
+											</div>
+				</div>
+				
+				
+				<h4 class="f-head">About Newport</h4>
+				
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/city_leadership/index.php" target="_self">
+							
+							City Council</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/contacts/leadership.php" target="_self">
+							
+							City Leadership</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportchamber.org/" target="_blank">
+							
+							Chamber of Commerce</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.discovernewport.com/" target="_blank">
+							
+							Discover Newport</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/library/index.php" target="_self">
+							
+							Newport Public Library</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/parks_recreation/index.php" target="_self">
+							
+							Parks & Recreation</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/committees/index.php" target="_self">
+							
+							Committees</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/for_you/sign_up_for_city_newsletter.php" target="_self">
+							
+							E-Newsletter</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/community_development/short_term_rentals.php" target="_self">
+							
+							Short-Term Rentals</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/services/public_safety/index.php" target="_self">
+							
+							Public Safety</a>
+						
+					
+				
+				
+			</div>
+			<!--/.f-box.has-edit-buttons-->
+			<div class="f-box has-edit-buttons">
+				<div class="top-right">
+					<div class="rz-btns-container">
+											</div>
+				</div>
+				
+				
+				<h4 class="f-head">Helpful Links</h4>
+				
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.governmentjobs.com/careers/cityofnewport" target="_blank">
+							
+							Jobs & Internships</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/for_you/make_a_payment/index.php" target="_self">
+							
+							Make a Payment</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/for_you/submit/service_requests.php" target="_self">
+							
+							Submit a Service Request</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/for_you/apply_for/epermitting.php" target="_self">
+							
+							Building Permits</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/finance/business_licenses/index.php" target="_self">
+							
+							Business Licenses</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/for_you/apply_for/special_event_permits.php" target="_self">
+							
+							Special Event Permits</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/for_you/apply_for/parkingpermits.php" target="_self">
+							
+							Parking Permits</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/emergency_preparedness/index.php" target="_self">
+							
+							Emergency Preparedness</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/services/municipal_court.php" target="_self">
+							
+							Municipal Court</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://outlook.office.com/mail/" target="_blank">
+							
+							Employee Email</a>
+						
+					
+				
+				
+			</div>
+			<!--/.f-box.has-edit-buttons-->
+			<div class="f-box has-edit-buttons">
+				<div class="top-right">
+					<div class="rz-btns-container">
+											</div>
+				</div>
+				
+				
+				<h4 class="f-head">Departments</h4>
+				
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/airport/index.php" target="_self">
+							
+							Airport</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/community_development/index.php" target="_self">
+							
+							Community Development</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/engineering/index.php" target="_self">
+							
+							Engineering</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/finance/index.php" target="_self">
+							
+							Finance</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/fire/index.php" target="_self">
+							
+							Fire</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/human_resources/index.php" target="_self">
+							
+							Human Resources</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/library/index.php" target="_self">
+							
+							Library</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/parks_recreation/index.php" target="_self">
+							
+							Parks & Recreation</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/police/index.php" target="_self">
+							
+							Police</a>
+						
+					
+						
+							 
+							
+							<a class="f-link" href="https://www.newportoregon.gov/government/departments/public_works/index.php" target="_self">
+							
+							Public Works</a>
+						
+					
+				
+				
+			</div>
+			<!--/.f-box.has-edit-buttons-->
+			<div class="f-box has-edit-buttons">
+				<a href="https://www.newportoregon.gov/./" id="f-logo"><img src="https://www.newportoregon.gov/_assets_/images/f-logo.png" alt="logo"></a>
+				<div class="social-media-links has-edit-buttons">
+					<div class="center-center">
+						<div class="rz-btns-container">
+													</div>
+					</div>
+					
+					
+					<a href="https://www.facebook.com/cityofnewportore" target="_blank" class="social-media-link"><span><img src="https://www.newportoregon.gov/_assets_/images/facebook.png" alt="Facebook"></span></a>
+					
+					<a href="https://www.instagram.com/cityofnewportore/" target="_blank" class="social-media-link"><span><img src="https://www.newportoregon.gov/_assets_/images/instagram.png" alt="Instagram"></span></a>
+					
+				</div>
+				<!--/.social-media-links-->
+			</div>
+			<!--/.f-box.has-edit-buttons-->
+		</div>
+	</div>
+	<div id="footer-bottom">
+		<div class="container has-edit-buttons">
+			<div id="revize">
+				<img src="https://www.newportoregon.gov/_assets_/images/revize-logo.png" alt="Revize logo">Powered by <a href="https://www.revize.com" target="_blank" id="revize-link">revize</a>., the government website experts
+			</div>
+			<!--/#revize-->
+			<div id="footer-bottom-left" class="has-edit-buttons">
+				
+					<div class="rz-btns-container">		
+											</div>
+				
+				<a href="https://cms6.revize.com/revize/security/index.jsp?webspace=newportor&filename=/evacuation_maps.php" id="revize-login">Login</a><span class="pipe">|</span>
+					
+					
+						<a href="#" target="_self" id="disclaimer">
+					
+					Disclaimer of Privacy Policy
+					</a>
+			</div>
+			<!--/#footer-bottom-left-->
+		</div>
+		<!--/.container-->
+	</div>
+	<!--/#footer-bottom-->
+</footer>
+
+
+
+<script src="/revize/plugins/revize_calendar/index.v2.js"></script>
+
+
+
+<script src="https://www.newportoregon.gov/_assets_/plugins/tiny-slider/dist/min/tiny-slider.js"></script>
+<script src="https://www.newportoregon.gov/_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
+<script src="https://www.newportoregon.gov/_assets_/plugins/ytplayer/jquery.mb.YTPlayer.min.js"></script>
+<script src="https://www.newportoregon.gov/_assets_/plugins/revizeWeather/js/revizeWeather.min.js"></script>
+<script src="https://www.newportoregon.gov/_assets_/js/scripts.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"a63dae54af824e649d1f5e0533e6bae7","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

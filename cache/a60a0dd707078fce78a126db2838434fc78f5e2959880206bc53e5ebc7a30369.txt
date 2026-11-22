@@ -1,0 +1,178 @@
+Hazardous Materials Spill
+Below please find information about hazardous materials spill:
+Be Prepared
+Injury or Illness
+Chemical Spills (Liquid, Gas, Solid)
+Biohazardous Materials Spill
+Radioactive Materials Spills
+Fuel and Oil Spills
+Be prepared
+A hazardous material is any substance or agent (biological, chemical, radiological) capable of posing an unreasonable risk to humans, the environment, and property.
+In ALL hazardous material emergency situations, the primary concern is the protection of personnel. The secondary concern is to confine the contamination, but ONLY if you are specifically trained under 29 CFR 1910.120 to do so.
+The release or spill of hazardous materials will require a different response based on a variety of factors, including the amount, type, and location of the spill. All personnel should be aware of the cleanup procedures for the material with which they are working.
+For general information, review the Safety Data Sheet (SDS).
+Emergency Response Procedures for Chemical, Biohazardous, and Radioactive Spills:
+In case of emergency such as injury or illness, major spill, or theft of hazardous material, immediately contact the University Police at 617-627-6911.
+Injury or Illness
+In addition to contacting the University Police for an injury or illness needing medical attention, personnel must notify their immediate supervisor and
+email the Tufts Laboratory Safety Group
+of an injury or illness resulting from exposure to hazardous materials. In addition, supervisors—and personnel whom they oversee—are responsible for completing the
+Tufts Accident/Incident Report Form
+.
+Chemical Exposure to Skin
+Unless otherwise noted, follow the procedures below. Note that chemicals, such as hydrofluoric acid, and flammable solids could have different procedures.
+Remove all contaminated clothing.
+Immediately flush with cool water for at least 15 minutes.
+If there are no visible burns, remove all jewelry and apply soap to area. Seek medical attention if a reaction occurs or if there are concerns.
+For more help, review the “
+What to Do in Case of Exposure to Hazardous Materials
+” document or call the Exposure Response Call Center (866-360-8100) to speak with a medical professional.
+If immediate medical assistance is needed due to injury, known toxicity of a chemical, or other reason, immediately contact the University Police at 617-627-6911 and request immediate medical attention.
+Chemicals in Eyes
+Make sure contaminated gloves are removed/replaced and hands are clean.
+Remove contact lenses if possible.
+Irrigate eyes for at least 15 minutes with tempered water from emergency eyewash station.
+Notify the University Police at 617-627-6911.
+Seek immediate medical attention.
+Smoke or other Airborne Contaminants
+Anyone overcome by smoke or other airborne contaminants should be relocated to an area where there is fresh air.
+Never attempt to enter a location where potentially dangerous air contaminants might place you at risk. If someone is down, contact emergency personnel.
+Notify the University Police at 617-627-6911.
+Seek immediate medical attention
+Clothing or Laboratory Coat on Fire (Stop, Drop, and Roll)
+Extinguish burning clothing by using the drop and roll technique, dousing with cold water using an emergency shower, or smothering with a fire blanket. Note: If using a fire blanket, do not allow the person to remain standing as flames could engulf the head.
+If possible, remove contaminated clothing and cover injured person to prevent shock.
+Notify the University Police at 617-627-6911.
+Seek immediate medical attention.
+Chemical Spills (Liquid, Gas, Solid)s
+There is a wide range of chemicals in the workplace. The safe cleanup of a chemical spill requires knowledge of the properties and hazards posed by the chemical and any added dangers posed by the location of the spill. If you believe a spill is beyond your capacity to clean up or if you are unsure, do not attempt to do so on your own;
+STOP
+and contact the University Police. Spill kits with absorbents, neutralizing agents if applicable, protective equipment, and sealable waste buckets should be present in the workplace. Refer to the chemical Safety Data Sheet (SDS) for specific guidance on the chemical’s hazards and spill cleanup.
+Minor Spill
+A minor spill is characterized by all of the following criteria:
+Is inside a laboratory and hasn’t spread outside the laboratory.
+Did not result in a fire or explosion, nor presents a risk for a fire or explosion.
+Did not result in personnel requiring medical attention.
+Note
+: There are spills and releases that could meet the definition of a minor spill as described above, but still pose a significant hazard. If any of the following criteria is met, these should be classified as a
+Major Spill
+.
+Spills or releases of cryogenic liquid aside from normal pressure relief venting.
+Release of a hazardous compressed gas.
+Activation of hazardous gas detection alarm.
+Spill of a highly toxic chemical requiring a Safety Plan that occurs outside of a fume hood.
+Minor Spill Cleanup
+Alert people in the immediate area of the spill.
+Contact Tufts Laboratory Safety Group (
+labsafety@tufts.edu
+) for consultation or assistance, if needed.
+Put on appropriate personal protective equipment (PPE), (gloves, protective eyewear, lab coat).
+Contain the spill with absorbent spill material while avoiding nearby sink and floor drains. Completely clean the area where the spill occurred.
+Place used absorbent spill material in secondary containment, such as the spill bucket. Label the container and request a waste pickup online at
+viceprovost.tufts.edu/waste-pickup-requests
+.
+Dispose of contaminated PPE as hazardous chemical waste.
+Complete the Tufts Accident/Incident Report Form.
+Major Spill
+A major spill is characterized by any of the following criteria:
+Results in a fire or explosion, or presents a risk of a fire or explosion;
+Results in personnel requiring medical attention;
+Is not contained within a laboratory; or
+Is characterized as a major spill by the Emergency Coordinator.
+Note
+: There are select high-hazard labs that have response procedures specific to the lab itself. These may be different than the instructions noted below for a Major Spill and should be referenced.
+For a Major Spill or Leak
+Alert people in the immediate area of the spill.
+Remove any injured or contaminated persons if you can do so safely.
+Contact the University Police at 617-627-6911 and wait in a safe location.
+Remove all contaminated clothing, shoes, etc., and/or use an emergency shower if one is nearby.
+Seek immediate medical attention if you have been exposed by calling the Exposure Response Call Center: 866-360-8100.
+Do not attempt to clean up a major spill. Leave it to the experts!
+Notify Tufts Laboratory Safety Group (labsafety@tufts.edu) of the incident.
+Complete the
+Tufts Accident/Incident Report Form
+.
+Mercury Spill
+Alert people in the immediate area of the spill.
+Contact University Police at 617-627-6911 to report the spill, and then contact Tufts Laboratory Safety Group for consultation or assistance, if needed.
+Put on appropriate personal protective equipment (PPE) (gloves, protective eyewear, lab coat).
+Use a pipette or medicine dropper to pick up mercury droplets.
+Do not use a commercial or domestic vacuum cleaner, as this will contaminate the vacuum and spread mercury vapor.
+Cover the area of the spill with sodium polysulfide solution, powdered sulfur, or silver metal compounds.
+Place the spill material in secondary containment, such as the spill bucket.
+Label the container and request a waste pickup online at:
+viceprovost.tufts.edu/waste-pickup-requests
+.
+Dispose of contaminated PPE properly.
+Complete the
+Tufts Accident/Incident Report Form
+.
+Biohazardous Materials Spill
+The release or spill of biohazardous material will require a different response based on several factors, including the actual agent and the associated risks, the amount of material spilled, and type and location of the spill. The following guidelines provide a quick reference for employees responding to a biohazardous spill. Each lab working with biohazardous material should have its own specific spill-response procedure, which is outlined in the Biological Materials Registration (also called the IBC Registration) for the lab/project. The spill clean-up procedure in the registration should specify the appropriate disinfectant to use.
+Lab personnel: Be sure that you have received training on the spill clean-up procedure outlined in the IBC Registration before attempting to clean up the spill.
+Nonlab personnel: Consult with your supervisor to be sure you have received the specialized training before attempting to clean up a spill. In general:
+If the spill is in an unoccupied lab, call the University Police at 617-627-6911 so that the lab’s emergency contact can be notified and consulted prior to spill cleanup. Do not attempt to clean up the spill on your own.
+Spills that are not associated with a lab, but are biological in nature, are likely to be human blood or fluids. These can be handled following the general procedures outlined below for a Spill Outside the Biosafety Cabinet.
+Notify Tufts Laboratory Safety Group (labsafety@tufts.edu) about any biological material spills.
+Spill Inside the Biosafety Cabinet
+The primary concern with a release or spill inside a Biosafety Cabinet (BSC) is decontaminating material inside the BSC, including the person’s hands and arms, any equipment located in the BSC, and the surface of the BSC itself.
+Leave the BSC turned on.
+Persons working in the BSC at the time of the spill should remove contaminated gloves and lab coat (and sleeve covers, if in use) and discard them in the biohazardous waste container.
+New personal protective equipment (PPE) should be donned prior to cleaning up the spill. At a minimum, PPE will include a lab coat, gloves, and eye/face protection. Additional PPE may be needed, as described in the approved IBC Registration for the project/lab.
+Disinfect the spill: Cover the spilled liquid with absorbent material, and then pour or squirt disinfectant over the spill carefully, without creating splashes. Avoid spraying disinfectant in the BSC, since the mist can be pulled or drawn into the BSC HEPA filter or other internal parts, causing damage.
+Usually, 10% bleach can be used as the disinfectant; however, the IBC Registration should be consulted to determine the appropriate disinfectant, or contact the Biosafety Office for assistance. Ten percent bleach solutions should be made fresh each day by mixing 1 part household bleach with 9 parts water.
+Allow the disinfectant to stand 20–30 minutes (or longer if indicated, based on the agent in use).
+Wipe up disinfectant/spill with paper towels or other absorbent material and discard into the biohazardous waste container.
+Decontaminate the BSC and equipment within the BSC: Saturate paper towels with disinfectant, and then wipe the cabinet walls and sash, work surfaces, and equipment in the BSC. The paper towels should be saturated with disinfectant so that the surfaces that are wiped will remain wet for at least 10 minutes. You may need to reapply the disinfectant. Discard used paper towels into a biohazardous waste container.
+If bleach was used as a disinfectant, all surfaces should be wiped again with towels saturated in either water or 70% ethanol in order to remove the bleach residue.
+If material is spilled into a drain pan, be sure to close the drain (locate the lever under the BSC to close the drain), and then pour disinfectant into the pan. Allow it to sit for 20 to 30 minutes. Then open the drain, and collect this liquid into a container. Place the container in the satellite accumulation area in the lab for pickup and disposal as hazardous chemical waste. For nonmercury-containing bleach waste, this waste can be disposed of by pouring it down the sink drain. If bleach was used as a disinfectant, the drain pan should be flooded with water to remove the bleach residue.
+Cleanup person should remove PPE and discard into the biohazardous waste container. Hands should be thoroughly washed, and, if clothes were contaminated, they should be changed prior to returning to regular work activities.
+Notify the Biosafety Office at labsafety@tufts.edu if the spilled material flowed into the interior of the BSC. Extensive BSC decontamination may be necessary, and the BSC should not be used until decontamination is completed.
+For additional information, refer to the
+Biosafety Manual
+.
+Document spill and response procedures
+If exposure occurred, please refer to the appropriate Exposure Response Plan for the biological agent. Information about exposure response plans, seeking medical advice, and reporting requirements are posted on online at
+viceprovost.tufts.edu/biosafety-accidents-incidents
+.
+A Spill of Materials outside of a BSC in a BSL1 or BSL2 Lab
+If the agent involved in the spill is infectious via mucous membrane exposure or inhalation and the spill has resulted in the creation of aerosols, the lab should be evacuated for 30 minutes to allow the aerosols to settle.
+If the spill is large, such as more than 500 ml, or if it has created gross contamination of the area, call the University Police at 617-627-6911 for assistance..
+Notify everyone in the lab that a biohazardous material spill has occurred, and ask for assistance with the cleanup.
+If you are contaminated or potentially contaminated, do not leave the area. Ask a colleague to get PPE and the spill response kit or spill cleanup materials for you. If you are not contaminated, obtain this material yourself and return to the spill area.
+Put on PPE, including gloves, lab coat, disposable booties, and eye/ face protection. Cover spill with paper towels or other absorbent material.
+Carefully pour disinfectant onto the spilled material, and do not create any splashes.
+Usually, 10% bleach can be used as the disinfectant; however, the IBC Registration should be consulted (if applicable) to determine the appropriate disinfectant, or contact the Biosafety Office for assistance. 10% bleach solutions should be made fresh each day by mixing one part household bleach with nine parts water.
+Allow 20–30 minutes of contact time.
+Use mechanical means to pick up broken glass or other sharps and discard into biohazardous sharps container.
+Discard cleanup material in a biohazardous waste container. Use mechanical means to pick up broken glass.
+Rewipe area of spill with disinfectant, and discard material in biohazardous waste container. If bleach was used, then rewipe the area with either water or 70% ethanol to remove the bleach residue.
+Remove PPE, and discard into biohazardous waste container.
+Hands should be thoroughly washed; if clothes were contaminated, they should be changed prior to returning to regular work activities.
+Follow document spill and response procedures as outlined above.
+For additional information, refer to the
+Biosafety Manual
+.
+Radioactive Materials Spills
+The quantity of radioactive materials used in research at Tufts University is small, and the type of radiation produced from such materials is incapable of traveling far and posing significant external radiation dose concerns. Additional radiation protection precaution is exercised when accessing areas (i.e., Nuclear Medicine/Radiology) handling large quantities of x-ray/gamma-emitting sources at the Grafton Veterinary Medicine Facility.
+Radiological contamination control and assessment should be considered during any emergency response involving radioactive materials for these reasons: to prevent further spread of contamination, allow for prompt decontamination of surfaces and personnel, accurately communicate contamination to offsite services (i.e., ambulatory services, hospital radiation safety officer), and to assess level of radiation dose experienced by personnel.
+Medical assistance should not be withheld or delayed in situations involving personal contamination.
+Minor Spills of Liquids and Solids
+(Less than 1mCi in controlled areas not involving personal contamination.)
+Notify persons in the area that a spill has occurred.
+Prevent the spread of contamination by covering the spill with absorbent paper.
+Clean up the spill using disposable gloves and absorbent paper. Carefully fold the absorbent paper with the clean side out, and place in a plastic bag or transfer to a radioactive waste container.
+Put contaminated gloves and any other contaminated disposable material in the bag.
+Survey the area with a contamination survey meter set on the lowest range. Check the area around the spill for removable contamination. Also check your hands, clothing, and shoes for contamination. For tritium contamination, follow-up wipe tests are needed for further evaluation using a liquid scintillation counter.
+Report the incident to the Tufts University’s Radiation Safety Officer (RSO) at 617-636-3450, cell 617-308-3781
+Major Spills of Liquids and Solids (Powders)
+(Greater than 1mCi, all spills in uncontrolled areas, and spills involving personal contamination.)
+Clear the area. Notify all persons not involved in the spill to vacate the room.
+Send an alert for additional resources: Notify the University Police at 617-627-6911, and request notification of the Radiation Safety Officer (RSO).
+Prevent the spread of contamination by covering the spill with absorbent paper (i.e., do not attempt to clean it up), securing the area, and posting to restrict access.
+Relocate all personnel who may be contaminated to an area outside of the spill area for further evaluation by the RSO.
+Close the room, and lock or otherwise to secure the laboratory and prevent entry.
+Assist in decontaminating personnel by removing contaminated clothing as needed. Flush contaminated skin with lukewarm water, and wash with mild soap. The RSO is available to supervise the decontamination and spill cleanup.
+Fuel and Oil Spills
+In the event of a fuel (gasoline or diesel) or oil (heating, hydraulic, transformer, or grease/cooking oil) spill, the Tufts Spill Prevention and Countermeasure Control (SPCC) Plan identifies an oil SPCC coordinator. The oil SPCC coordinator may be reached through the University Police at 617-627-6911. Spills are categorized as either minor or major spills. Any spill that can be controlled with a spill kit is minor. If the spill can’t be controlled with a spill kit, it is considered major and will require an immediate response by an oil/fuel spill cleanup firm. The oil SPCC coordinator can engage emergency response firms. Additionally, the SPCC coordinator and the Facilities Services department maintain a small inventory of spill kits to control the spread of these liquids. Regardless of whether a spill is minor or major, the oil SPCC coordinator must be notified of all fuel and oil spills as soon as possible. Depending on the quantity of fuel or oil spilled and where the spill occurred, regulatory reporting requirements dictate that the incident be reported in as little as two hours. For additional information, please contact
+IndustrialHygiene@tufts.edu.

@@ -1,0 +1,903 @@
+GLOBAL EMERGENCY AND IMPORTANT SERVICE NUMBERS
+====================================================
+
+Source: ITU-T E.129 Important Numbers
+Retrieved: 2026-11-22T12:15:34+00:00
+Total records: 78
+Countries/geographical areas: 67
+
+IMPORTANT:
+- A country may have multiple numbers.
+- Do not assume one number covers every emergency service.
+- This dataset is based on ITU E.129 information.
+- Verify current local information when possible.
+
+
+======================================================================
+-
+======================================================================
+
+Service: (from mobiles)
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Bahamas
+Note: 911
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=26&pg_size=100
+
+Service: * This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+Number: Allocated in the NNP
+Additional information: 2017-03-15
+Allocated/assigned: Kosovo*
+Note: 192
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=273&pg_size=100
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Afghanistan
+Note: 101
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=0&pg_size=100
+
+Service: -
+Number: -
+Additional information: 2019-12-03
+Allocated/assigned: Singapore
+Note: 995
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=197&pg_size=100
+
+Service: -
+Number: -
+Additional information: 2024-03-27
+Allocated/assigned: Somalia
+Note: 112
+Last update: Emergency
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=88&pg_size=100
+
+Service: -
+Number: Allocated in the NNP
+Additional information: 2015-02-10
+Allocated/assigned: Hungary
+Note: 105
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=102&pg_size=100
+
+Service: -
+Number: Allocated in the national numbering plan
+Additional information: 2023-08-17
+Allocated/assigned: Guyana
+Note: 912
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=97&pg_size=100
+
+Service: -
+Number: Assigned in the NNP
+Additional information: 2013-04-09
+Allocated/assigned: Saudi Arabia
+Note: 116111
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=199&pg_size=100
+
+Service: Police emergency numbers: http://www.vp.gov.lv/?id=312&said=312
+Number: Allocated in the NNP
+Additional information: 2013-12-18
+Allocated/assigned: Latvia
+Note: 112
+Last update: Emergency
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=137&pg_size=100
+
+Service: Runs in parallel with 117
+Number: see: www.eofcom.admin.ch/eofcom/public/listEofcom_snAllocated.do?searchType=fulllist
+Additional information: 2013-06-07
+Allocated/assigned: Switzerland
+Note: 1145
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=40&pg_size=100
+
+Service: used by the Ministry of Public Health, in the process of being put into operation
+Number: -
+Additional information: 2023-07-14
+Allocated/assigned: Madagascar
+Note: 118
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=142&pg_size=100
+
+======================================================================
+112 covers the following emergency responses: Police; Ambulance; Fire Services; Road Safety Corps; Security & Civil Defence Corps; Emergency Management Agencies.
+======================================================================
+
+Service: -
+Number: Allocated in the NNP
+Additional information: 2023-11-06
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=168&pg_size=100
+
+======================================================================
+All emergencies
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Austria
+Note: 122
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=17&pg_size=100
+
+======================================================================
+All Emergencies - Botswana Police Services
+======================================================================
+
+Service: (Government)
+Number: -
+Additional information: 2023-09-28
+Allocated/assigned: Botswana
+Note: 116
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=36&pg_size=100
+
+======================================================================
+All emergency services
+======================================================================
+
+Service: Allocated 1999
+Number: Allocated
+Additional information: 2014-04-09
+Allocated/assigned: Albania
+Note: 116000
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=6&pg_size=100
+
+======================================================================
+ANSSI: Numéro utilisé par la cellule d'analyse et de traitement des plaintes et dénonciations des faits de corruptions
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-09-12
+Allocated/assigned: Benin
+Note: 112
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=21&pg_size=100
+
+======================================================================
+Any other emergency
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Iraq
+Note: 104
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=112&pg_size=100
+
+======================================================================
+Assistance for HIV
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Haiti
+Note: 113
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=101&pg_size=100
+
+======================================================================
+Civil protection
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-04-08
+Allocated/assigned: Algeria
+Note: 103
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=67&pg_size=100
+
+======================================================================
+Coast guard
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Greece
+Note: 112; 100
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=91&pg_size=100
+
+======================================================================
+Common emergency number
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2014-03-14
+Allocated/assigned: Poland
+Note: 116000
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=184&pg_size=100
+
+======================================================================
+Crime stoppers
+======================================================================
+
+Service: -
+Number: Assigned
+Additional information: 2012-04-03
+Allocated/assigned: Tanzania
+Note: 112
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=225&pg_size=100
+
+======================================================================
+Dangerous materials
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Israel
+Note: 100
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=114&pg_size=100
+
+======================================================================
+Electricity
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Brazil
+Note: 123
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=32&pg_size=100
+
+======================================================================
+Emergencies (transferred automatically and as appropriate to the Police or Gendarmerie Royale)
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-06-11
+Allocated/assigned: Morocco
+Note: 141
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=139&pg_size=100
+
+======================================================================
+Emergency Centre of Yaoundé, Ministry of Public Health
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-12-22
+Allocated/assigned: Cameroon
+Note: 112
+Last update: Emergency
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=46&pg_size=100
+
+======================================================================
+Emergency Number (Police)
+======================================================================
+
+Service: -
+Number: Allocated in the NNP
+Additional information: 2022-06-14
+Allocated/assigned: Belize
+Note: 922
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=29&pg_size=100
+
+======================================================================
+Emergency service (medical aid, fire fighters)
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-04-02
+Allocated/assigned: Sao Tome and Principe
+Note: 113
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=202&pg_size=100
+
+======================================================================
+Emergency services
+======================================================================
+
+Service: -
+Number: Allocated in the NNP
+Additional information: 2014-09-03
+Allocated/assigned: Monaco
+Note: 141
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=140&pg_size=100
+
+======================================================================
+Emergency SOS
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-07-19
+Allocated/assigned: Ghana
+Note: 191
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=80&pg_size=100
+
+======================================================================
+firefighters
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-07-31
+Allocated/assigned: Burkina Faso
+Note: 116
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=22&pg_size=100
+
+======================================================================
+Gas
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Grenada
+Note: 353
+Last update: Hazards
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=92&pg_size=100
+
+======================================================================
+General Emergency
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-09-28
+Allocated/assigned: Zambia
+Note: 116
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=245&pg_size=100
+
+Service: -
+Number: -
+Additional information: 2023-09-27
+Allocated/assigned: Zimbabwe
+Note: 116
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=249&pg_size=100
+
+======================================================================
+General emergency services
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-07-25
+Allocated/assigned: South Sudan
+Note: 112, 777
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=272&pg_size=100
+
+======================================================================
+GSM emergency service
+======================================================================
+
+Service: -
+Number: Allocated in the National Numbering Plan
+Additional information: 2016-02-17
+Allocated/assigned: Mali
+Note: 11XY
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=147&pg_size=100
+
+======================================================================
+Hospital (maternity)
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-06-16
+Allocated/assigned: Guinea-Bissau
+Note: 110
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=89&pg_size=100
+
+======================================================================
+Hurricane, floods, earthquake
+======================================================================
+
+Service: Tobago
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Trinidad and Tobago
+Note: 511
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=220&pg_size=100
+
+======================================================================
+Infectious disease
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Mongolia
+Note: 101
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=151&pg_size=100
+
+======================================================================
+Information
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-07-16
+Allocated/assigned: Djibouti
+Note: 18
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=60&pg_size=100
+
+======================================================================
+Information and guidance center for children in difficult circumstances
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-11-14
+Allocated/assigned: Senegal
+Note: 119
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=196&pg_size=100
+
+======================================================================
+Institute for the Children and the Family
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Honduras
+Note: 198
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=99&pg_size=100
+
+======================================================================
+Integrated Public Security Center
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-04-02
+Allocated/assigned: Angola
+Note: 113
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=4&pg_size=100
+
+======================================================================
+Khartoum State ambulance
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-11-13
+Allocated/assigned: Sudan
+Note: 444
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=195&pg_size=100
+
+======================================================================
+Manual – long-distance
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2020-05-27
+Allocated/assigned: Niger
+Note: 11
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=166&pg_size=100
+
+======================================================================
+Marine emergencies
+======================================================================
+
+Service: (from mobiles)
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: New Zealand
+Note: *555 (mobile only)
+Last update: Traffic
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=175&pg_size=100
+
+======================================================================
+Maritime
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-03-26
+Allocated/assigned: Rwanda
+Note: 111
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=194&pg_size=100
+
+======================================================================
+Medical emergency
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-11-14
+Allocated/assigned: Mauritania
+Note: 116
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=157&pg_size=100
+
+======================================================================
+Ministry of National Defence
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-01-08
+Allocated/assigned: Guinea
+Note: 115
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=82&pg_size=100
+
+======================================================================
+Missing children
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Moldova (Republic of)
+Note: 116111
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=141&pg_size=100
+
+======================================================================
+National disaster management
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-09-28
+Allocated/assigned: Eswatini
+Note: 116
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=207&pg_size=100
+
+======================================================================
+National Emergency Number
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-06-26
+Allocated/assigned: Sierra Leone
+Note: 113
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=154&pg_size=100
+
+======================================================================
+National Navy
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-11-08
+Allocated/assigned: Togo
+Note: 111
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=212&pg_size=100
+
+======================================================================
+National Operator Assistance/Prepaid IVR/ Administrative Menu for Customer Services
+======================================================================
+
+Service: -
+Number: Allocated in the NNP
+Additional information: 2021-11-18
+Allocated/assigned: Seychelles
+Note: 111
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=208&pg_size=100
+
+======================================================================
+Paneuropéen emergency number
+======================================================================
+
+Service: www.arcep.fr/?id=8146
+Number: Allocated
+Additional information: 2015-09-02
+Allocated/assigned: France
+Note: 114
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=73&pg_size=100
+
+======================================================================
+Peace Building And Conflict Early Warning And Response System
+======================================================================
+
+Service: Service Operated by the National Police Service
+Number: Administration Police Service for Peace Building And Conflict Early Warning And Response System
+Additional information: 2016-07-11
+Allocated/assigned: Kenya
+Note: 108
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=120&pg_size=100
+
+======================================================================
+Poison help centre
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Jordan
+Note: 110
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=117&pg_size=100
+
+======================================================================
+Police - Nthuseng Public emergency
+======================================================================
+
+Service: as there is no national call centre, all emergencies are sent to Police except the below
+Number: -
+Additional information: 2023-06-01
+Allocated/assigned: Lesotho
+Note: 116
+Last update: Child help-line
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=131&pg_size=100
+
+======================================================================
+Police for Women and Children
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-09-26
+Allocated/assigned: Mozambique
+Note: 112
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=156&pg_size=100
+
+======================================================================
+police station, ambulance, police traffic, firefighting and call center
+======================================================================
+
+Service: for GSM network (mobile national)
+Number: -
+Additional information: 2023-08-01
+Allocated/assigned: Eritrea
+Note: 113
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=66&pg_size=100
+
+======================================================================
+Presidential Securtity
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Central African Rep.
+Note: 117
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=37&pg_size=100
+
+======================================================================
+Public ambulance
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-09-01
+Allocated/assigned: Mauritius
+Note: 995; 115
+Last update: Fire
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=160&pg_size=100
+
+======================================================================
+Red Cross
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-08-01
+Allocated/assigned: Burundi
+Note: 110
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=19&pg_size=100
+
+======================================================================
+Reserved for single European Emergency Service Number
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2017-03-21
+Allocated/assigned: Bosnia and Herzegovina
+Note: 116000
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=27&pg_size=100
+
+======================================================================
+SAMU (Emergency Medical Services)
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-04-04
+Allocated/assigned: Tunisia
+Note: 191
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=221&pg_size=100
+
+======================================================================
+Search and rescue on Lake Victoria and other water bodies in Uganda
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-07-21
+Allocated/assigned: Uganda
+Note: 112
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=226&pg_size=100
+
+======================================================================
+Secondary National Emergency Number
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-06-05
+Allocated/assigned: Ethiopia
+Note: 907
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=69&pg_size=100
+
+======================================================================
+Service d’urgence Centre de Traitement des Appels (DGSC)/ Emergency service Call Centre
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-02-21
+Allocated/assigned: Comoros
+Note: 112
+Last update: Emergency
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=51&pg_size=100
+
+======================================================================
+Service d’urgence des ambulances
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-07-12
+Allocated/assigned: Dem. Rep. of the Congo
+Note: 112
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=47&pg_size=100
+
+======================================================================
+Société Nationale D'électricité
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-04-16
+Allocated/assigned: Chad
+Note: 114
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=211&pg_size=100
+
+======================================================================
+South African Police Service (SAPS) Emergency Number
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-06-07
+Allocated/assigned: South Africa
+Note: 10177
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=242&pg_size=100
+
+======================================================================
+Temporary for Covid-19
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2024-01-09
+Allocated/assigned: Gambia
+Note: 112
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=84&pg_size=100
+
+======================================================================
+Traffic Information and roadside assistance
+======================================================================
+
+Service: Runs in parallel with 112.
+Number: Allocated in the NNP
+Additional information: 2013-06-20
+Allocated/assigned: Spain
+Note: 016
+Last update: Other
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=44&pg_size=100
+
+======================================================================
+Unified emergency number
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2023-12-05
+Allocated/assigned: Egypt
+Note: 122
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=65&pg_size=100
+
+======================================================================
+Urgence médicale
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Gabon
+Note: 1333
+Last update: Medical
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=76&pg_size=100
+
+======================================================================
+Water
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: United Arab Emirates
+Note: 992
+Last update: Hazards
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=9&pg_size=100
+
+======================================================================
+Water emergencies
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Oman
+Note: 999; 112
+Last update: Police
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=176&pg_size=100
+
+======================================================================
+Water faults
+======================================================================
+
+Service: -
+Number: -
+Additional information: 2012-04-03
+Allocated/assigned: Antigua and Barbuda
+Note: 311
+Last update: Hazards
+Source: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx?country=15&pg_size=100

@@ -1,0 +1,2220 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="If you are separated from your loved ones when disaster strikes, you will need a way to find out where they are. The stress of the event may make it difficult to remember even routine information, like phone numbers. Every household member should have an out-of-area contact card in a wallet, purse or backpack at all times." />
+<link rel="canonical" href="https://doh.wa.gov/emergencies/be-prepared-be-safe/get-ready/out-area-contacts" />
+<meta name="author" content="ORHS--Office of Resiliency and Health Security--1400" />
+<link rel="image_src" href="https://doh.wa.gov/sites/default/files/2023-01-images/DOHlogo-metadata.png" />
+<meta property="og:site_name" content="Washington State Department of Health" />
+<meta property="og:type" content="webpage" />
+<meta property="og:url" content="https://doh.wa.gov/emergencies/be-prepared-be-safe/get-ready/out-area-contacts" />
+<meta property="og:title" content="Out-of-Area Contacts" />
+<meta property="og:description" content="If you are separated from your loved ones when disaster strikes, you will need a way to find out where they are. The stress of the event may make it difficult to remember even routine information, like phone numbers. Every household member should have an out-of-area contact card in a wallet, purse or backpack at all times." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@WADeptHealth" />
+<meta name="twitter:title" content="Out-of-Area Contacts" />
+<meta name="twitter:description" content="If you are separated from your loved ones when disaster strikes, you will need a way to find out where they are. The stress of the event may make it difficult to remember even routine information, like phone numbers. Every household member should have an out-of-area contact card in a wallet, purse or backpack at all times." />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="icon" href="/sites/default/files/DOH-logo_favicon_16x16.png" type="image/png" />
+
+    <title>Out-of-Area Contacts | Washington State Department of Health</title>
+    <link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/throbber-general.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/filter/css/filter.caption.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/modules/media/css/filter.caption.css?toprdz" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/three-bounce.css?toprdz" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ckeditor_accordion/css/accordion.frontend.css?toprdz" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ckeditor_tabber/css/ckeditor-tabber.css?toprdz" />
+<link rel="stylesheet" media="all" href="/libraries/fontawesome/css/all.min.css?toprdz" />
+<link rel="stylesheet" media="all" href="/libraries/fontawesome/css/v4-shims.min.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/variables.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/user.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/progress.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/node.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/affix.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/book.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/contextual.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/feed-icon.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/field.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/header.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/help.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/icons.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/image-button.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/item-list.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/list-group.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/media.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/page.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/search-form.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/shortcut.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/sidebar.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/site-footer.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/skip-link.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/table.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabledrag.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tableselect.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tablesort-indicator.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui.widget.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabs.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/toolbar.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/vertical-tabs.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/views.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/webform.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui-dialog.css?toprdz" />
+<link rel="stylesheet" media="all" href="//cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/subtheme/css/style.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/subtheme/css/colors.css?toprdz" />
+<link rel="stylesheet" media="all" href="/core/../themes/bootstrap_barrio/components/breadcrumb/breadcrumb.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_barrio/assets/css/bs-variables.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_barrio/assets/css/alert.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_barrio/assets/css/components.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_barrio/assets/css/navigation.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_barrio/assets/css/slideshow.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_barrio/assets/css/style.css?toprdz" />
+<link rel="stylesheet" media="print" href="/themes/drupalbase_barrio/assets/css/print.css?toprdz" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/alert.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/components.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/layout.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/legacy.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/global.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/navigation.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/print.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/rtl.css?toprdz" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/style.css?toprdz" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Gayathri:wght@100;400;700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&amp;display=swap" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;0,700;1,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/themes/drupalbase_custom/assets/styles/horizontal_menu.css?toprdz" />
+<link rel="stylesheet" media="print" href="/themes/bootstrap_barrio/css/print.css?toprdz" />
+
+    
+  </head>
+  <body class="layout-one-sidebar layout-sidebar-first page-node-6427 page-node-type-page path-node node--type-page">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P33KPVK"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8C88VC2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" aria-label="Site header">
+      <div style="height:0;">&nbsp;</div>
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+        Skip to main content
+      </a>
+                      
+                              <div class="header-wrapper">
+            <div class="container">
+              <div class="row justify-content-between">
+                
+                  <section class="row region region-header">
+          <a href="/" title="Home" rel="home" class="navbar-brand">
+              <img src="/themes/drupalbase_custom/assets/images/doh_logo_horizontal.svg" alt="Washington State Department of Health Logo" class="img-fluid d-inline-block align-top" />
+          </a>
+    <div id="block-utilitylinks" class="col-auto d-lg-flex align-items-center ms-auto d-none block-content-basic block block-block-content block-block-content249bf8a9-ac00-4568-a908-d690b89bbba5">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="884befe7-6ff7-4de8-8879-99e9503bf19c" href="/about-us">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a1a0da87-97b1-44ca-b41a-e233ba420696" href="/about-us/contact-us">Contact Us</a>&nbsp; |&nbsp;&nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a8ab0e51-dd46-42b7-87c8-2f148286ec9c" href="/newsroom">Newsroom</a></p></div>
+      
+    </div>
+  </div>
+<div class="search-block-form google-cse col-auto d-flex align-items-center justify-self-end block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-searchform" role="search" id="block-searchform">
+
+        
+                    
+                <form action="/search/results" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form form-row">
+            <div class="js-form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label mb-3">
+              <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search form-control" placeholder="Search">
+            </div>
+            <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions">
+              <button type="submit" id="edit-submit" value="Execute search" class="button js-form-submit form-submit btn btn-primary"><span class="visually-hidden">Execute search</span></button>
+            </div>
+        </form>
+        
+</div>
+<script>
+
+(function(){var g=function(g){
+
+this.go=function(){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)};
+
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+
+try{(new g("https://zntlovy06r0dnlzor-watech2.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_tLOvY06R0DnLZoR")).start()}catch(i){}})();
+
+</script><div id='ZN_tLOvY06R0DnLZoR'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+
+<!--END WEBSITE FEEDBACK SNIPPET-->
+
+  </section>
+
+                <button id="pmenu-toggle" class="d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="sr-only">Main Menu</span>
+                    </button>
+              </div>
+            </div>
+          </div>
+                  </header>
+
+                              <div class="nav-outer-wrapper">
+          <div class="container">
+            <div class="navbar navbar-expand-xl navbar-default container" id="navbar-main">
+            <div class="navbar" id="navbar-top">
+                              <div class="navbar-header">
+                    <section class="row region region-navigation">
+    <nav  id="block-drupalbase-custom-megamenu">
+    
+        
+
+          
+      <div id="primary-nav-bg"></div>
+    <div id="primary-nav" class="navbar navbar-expand-lg navbar-light p-0">
+      
+      <div class="collapse navbar-collapse p-3 p-lg-0" id="mainnav">
+        <button id="pnav-close" class="d-lg-none h1 float-end text-black"><i class="fa-solid fa-xmark"></i><span class="sr-only">close menu</span></button>          
+        <div class="mcopy-search"></div>
+        <ul class="clearfix navbar-nav flex-wrap">
+                                  
+            <li class="mb-0 dropdown first">
+              <div class="borderbox d-none d-lg-block"></div>
+                              <button  class="mb-0 dropdown first nav-link dropdown-toggle nav-link" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="nav-you--your-family">
+                  You &amp; Your Family <i class="fa-solid fa-chevron-down"></i>
+                </button>
+           
+                                
+                                                                
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                
+                <ul class="dropdown-menu" aria-labelledby="nav-you--your-family">
+                                                            
+                    
+                    
+                                                                                                  <li class="grid">
+
+                      <div style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-center mb-4">
+                                                                          <a  class="clearfix navbar-nav flex-wrap dropdown-item fw-bold more-link" href="/you-and-your-family"> See All You &amp; Your Family Topics  <span class="fontawesome-icon-inline">&nbsp;<span class="fa-arrow-right fa-solid"></span>&nbsp;</span></a>
+
+                                                </div>
+                  </li>
+                                    <li>
+                  <ul class="grid subnav-grid">
+                    
+                      <li style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/cannabis" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6731">Cannabis</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/care-van-mobile-health-services" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/4835">Care-a-Van Mobile Health Services</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/disability-organizations" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6729">Disability Organizations</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/drug-user-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5335">Drug User Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/food-safety" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5983">Food Safety</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/healthy-aging" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8623">Healthy Aging</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/healthy-home" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5482">Healthy Home</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/illness-and-disease-z" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8626">Illness and Disease</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/immunizations-and-vaccines" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9237">Immunization</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/infants-and-children" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8934">Infants and Children</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/injury-and-violence-prevention" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8969">Injury and Violence Prevention</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/lactation" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/12485">Lactation</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/mens-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9020">Men&#039;s Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/nutrition-and-physical-activity" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9022">Nutrition and Physical Activity</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/oral-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9032">Oral Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/poisoning-and-drug-overdose" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9042">Poisoning and Drug Overdose</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/respiratory-viruses" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/57857">Respiratory Viruses</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/sexual-and-reproductive-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8666">Sexual and Reproductive Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/adolescents-young-adults" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9076">Adolescents &amp; Young Adults</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/commercial-tobacco" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9091">Tobacco</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/5" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/infants-and-children/watch-me-grow-washington" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/12482">Watch Me Grow Washington</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/5" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/wic" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9363">WIC</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/5" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/you-and-your-family/womens-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9092">Women&#039;s Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                                      </ul>
+                  </li>
+                </ul>
+              
+                          </li>
+                                  
+            <li class="mb-0 dropdown">
+              <div class="borderbox d-none d-lg-block"></div>
+                              <button  class="mb-0 dropdown nav-link dropdown-toggle nav-link" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="nav-community--environment">
+                  Community &amp; Environment <i class="fa-solid fa-chevron-down"></i>
+                </button>
+           
+                                
+                                                                
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                
+                <ul class="dropdown-menu" aria-labelledby="nav-community--environment">
+                                                            
+                    
+                    
+                                                                                                  <li class="grid">
+
+                      <div style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-center mb-4">
+                                                                          <a  class="clearfix navbar-nav flex-wrap dropdown-item fw-bold more-link" href="/community-and-environment"> See All Community &amp; Environment Topics  <span class="fontawesome-icon-inline">&nbsp;<span class="fa-arrow-right fa-solid"></span>&nbsp;</span></a>
+
+                                                </div>
+                  </li>
+                                    <li>
+                  <ul class="grid subnav-grid">
+                    
+                      <li style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/air-quality" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5714">Air Quality</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/built-environment-and-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/40364">Built Environment and Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/climate-and-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5467">Climate and Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/contaminants" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5706">Contaminants</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/drinking-water" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5494">Drinking Water</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/essentials-childhood-initiative" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8660">Essentials for Childhood Initiative</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/food" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5727">Food</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/health-equity" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8425">Health Equity</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/higher-education" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/31600">Higher Education</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/noise" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6051">Noise</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/one-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6050">One Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/opioids" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8427">Opioids</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/pests" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6052">Pests</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/radiation" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6109">Radiation</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/schools" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5470">Schools</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/shellfish" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5770">Shellfish</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/wastewater-management" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5893">Wastewater Management</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/water-recreation" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5927">Water Recreation</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/4" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/community-and-environment/worksite-wellness" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9087">Worksite Wellness</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                                      </ul>
+                  </li>
+                </ul>
+              
+                          </li>
+                                  
+            <li class="mb-0 dropdown">
+              <div class="borderbox d-none d-lg-block"></div>
+                              <button  class="mb-0 dropdown nav-link dropdown-toggle nav-link" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="nav-licenses,-permits,--certificates">
+                  Licenses, Permits, &amp; Certificates <i class="fa-solid fa-chevron-down"></i>
+                </button>
+           
+                                
+                                                                
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                
+                <ul class="dropdown-menu" aria-labelledby="nav-licenses,-permits,--certificates">
+                                                            
+                    
+                    
+                                                                                                  <li class="grid">
+
+                      <div style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-center mb-4">
+                                                                          <a  class="clearfix navbar-nav flex-wrap dropdown-item fw-bold more-link" href="/licenses-permits-and-certificates"> See All Licenses, Permits, &amp; Certificates Topics  <span class="fontawesome-icon-inline">&nbsp;<span class="fa-arrow-right fa-solid"></span>&nbsp;</span></a>
+
+                                                </div>
+                  </li>
+                                    <li>
+                  <ul class="grid subnav-grid">
+                    
+                      <li style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/facilities-z" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/7048">Facilities - New, Renew or Update</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/file-complaint-about-provider-or-facility" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6949">File Complaint About Provider or Facility</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/healthcare-enforcement-and-licensing-management-system-helms" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/4956">Healthcare Enforcement and Licensing Management System (HELMS)</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/professions-new-renew-or-update/healthcare-professional-credentialing-requirements" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6997">Healthcare Professional Credentialing Requirements</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="https://wmc.wa.gov/" class="dropdown-item" aria-current="">Medical Commission</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="https://nursing.wa.gov" class="dropdown-item" aria-current="">Board of Nursing</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/professions-new-renew-or-update" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/4960">Professions - New, Renew or Update</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/provider-credential-or-facility-search" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6726">Provider Credential Search</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/professions-new-renew-or-update/military-resources" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/7554">Veterans, Service Members and their Families</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/licenses-permits-and-certificates/vital-records" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/9448">Vital Records</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                                      </ul>
+                  </li>
+                </ul>
+              
+                          </li>
+                                  
+            <li class="mb-0 dropdown">
+              <div class="borderbox d-none d-lg-block"></div>
+                              <button  class="mb-0 dropdown nav-link dropdown-toggle nav-link" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="nav-data--statistical-reports">
+                  Data &amp; Statistical Reports <i class="fa-solid fa-chevron-down"></i>
+                </button>
+           
+                                
+                                                                
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-data--statistical-reports">
+                                                            
+                    
+                    
+                                                                                                  <li class="grid">
+
+                      <div style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-center mb-4">
+                                                                          <a  class="clearfix navbar-nav flex-wrap dropdown-item fw-bold more-link" href="/data-and-statistical-reports"> See All Data &amp; Statistical Reports Topics  <span class="fontawesome-icon-inline">&nbsp;<span class="fa-arrow-right fa-solid"></span>&nbsp;</span></a>
+
+                                                </div>
+                  </li>
+                                    <li>
+                  <ul class="grid subnav-grid">
+                    
+                      <li style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/data-guidelines" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8583">Data Guidelines</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/data-systems" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5083">Data Systems</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/data-topics-z" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5086">Data Topics A-Z</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/diseases-and-chronic-conditions" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8618">Diseases and Chronic Conditions</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/environmental-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5474">Environmental Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/health-behaviors" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8620">Health Behaviors</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/health-statistics" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5245">Health Statistics</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/healthcare-washington" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5088">Healthcare in Washington</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/injury-violence-and-poisoning" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5092">Injury Violence and Poisoning</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/washington-state-health-assessment" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8467">State Health Assessment</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/data-and-statistical-reports/washington-tracking-network-wtn" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6256">Washington Tracking Network (WTN)</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                                      </ul>
+                  </li>
+                </ul>
+              
+                          </li>
+                                  
+            <li class="mb-0 dropdown">
+              <div class="borderbox d-none d-lg-block"></div>
+                              <button  class="mb-0 dropdown nav-link dropdown-toggle nav-link" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="nav-emergencies">
+                  Emergencies <i class="fa-solid fa-chevron-down"></i>
+                </button>
+           
+                                
+                                                                
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-emergencies">
+                                                            
+                    
+                    
+                                                        <li class="grid">
+
+                      <div style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-center mb-4">
+                                                                          <a  class="clearfix navbar-nav flex-wrap dropdown-item fw-bold more-link" href="/emergencies"> See All Emergencies Topics  <span class="fontawesome-icon-inline">&nbsp;<span class="fa-arrow-right fa-solid"></span>&nbsp;</span></a>
+
+                                                </div>
+                  </li>
+                                    <li>
+                  <ul class="grid subnav-grid">
+                    
+                      <li style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/emergencies/health-and-safety-alerts" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/19940">Health and Safety Alerts</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/emergencies/be-prepared-be-safe/emergency-contacts-and-numbers" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6418">Emergency Contacts and Numbers</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/emergencies/wildfire-resources" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/55888">Wildfire Resources</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/emergencies/be-prepared-be-safe/severe-weather-and-natural-disasters/power-outages" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6442">Power Outages</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/emergencies/be-prepared-be-safe/severe-weather-and-natural-disasters/floods" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6440">Floods</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/emergencies/be-prepared-be-safe" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6390">Be Prepared, Be Safe</a>
+                        
+                                                        <ul class="list-unstyled">
+                              
+                                                                <li class="fw-normal">
+                                      <a href="/emergencies/be-prepared-be-safe/bioterrorism-and-terrorism" data-drupal-link-system-path="node/6412">Bioterrorism and Terrorism</a>
+                                  </li>
+                                                                <li class="fw-normal">
+                                      <a href="/emergencies/be-prepared-be-safe/diseases" data-drupal-link-system-path="node/6405">Diseases</a>
+                                  </li>
+                                                                <li class="fw-normal">
+                                      <a href="/emergencies/be-prepared-be-safe/emergency-information-specific-groups" data-drupal-link-system-path="node/8470">Emergency Information for Specific Groups</a>
+                                  </li>
+                                                                <li class="fw-normal">
+                                      <a href="/emergencies/be-prepared-be-safe/get-ready" data-drupal-link-system-path="node/6422">Get Ready for an Emergency</a>
+                                  </li>
+                                                                <li class="fw-normal">
+                                      <a href="/emergencies/be-prepared-be-safe/severe-weather-and-natural-disasters" data-drupal-link-system-path="node/6434">Severe Weather and Natural Disasters</a>
+                                  </li>
+                                                            </ul>
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                                      </ul>
+                  </li>
+                </ul>
+              
+                          </li>
+                                  
+            <li class="mb-0 dropdown last">
+              <div class="borderbox d-none d-lg-block"></div>
+                              <button  class="mb-0 dropdown last nav-link dropdown-toggle nav-link" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="nav-public-health--provider-resources">
+                  Public Health &amp; Provider Resources <i class="fa-solid fa-chevron-down"></i>
+                </button>
+           
+                                
+                                                                
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                    
+                    
+                                    
+                                                                                        
+                    
+                                
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-public-health--provider-resources">
+                                                            
+                    
+                    
+                                                                                                  <li class="grid">
+
+                      <div style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-center mb-4">
+                                                                          <a  class="clearfix navbar-nav flex-wrap dropdown-item fw-bold more-link" href="/public-health-provider-resources"> See All Public Health &amp; Provider Resources Topics  <span class="fontawesome-icon-inline">&nbsp;<span class="fa-arrow-right fa-solid"></span>&nbsp;</span></a>
+
+                                                </div>
+                  </li>
+                                    <li>
+                  <ul class="grid subnav-grid">
+                    
+                      <li style="grid-area: 1/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/notifiable-conditions/clinical-laboratory-reporting" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8584">Clinical Laboratory Reporting</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/emergency-medical-services-ems-and-trauma-care-system" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6780">Emergency Medical Services (EMS) Systems</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/emergency-preparedness" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6520">Emergency Preparedness</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/healthcare-professions-and-facilities" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/7016">Healthcare Professions and Facilities</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/1" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/lactation-and-infant-feeding-friendly-environments" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8621">Lactation and Infant Feeding-Friendly Environments</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/notifiable-conditions" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5154">Notifiable Conditions</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/public-health-laboratories" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/5397">Public Health Laboratories</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/public-health-system-resources-and-services" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/8504">Public Health System Resources and Services</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 4/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/rural-health" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6834">Rural Health</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 5/2" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/standing-orders" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/28576">Standing Orders</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                                                                                                
+                   
+
+                    
+                      <li style="grid-area: 1/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/telehealth" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/6842">Telehealth</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 2/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/about-us/washingtons-public-health-system/tribal-public-health-and-relations" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/7970">Tribal Public Health and Relations</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                    
+                      <li style="grid-area: 3/3" class="d-flex flex-column pb-1 pb-lg-0 align-items-top">
+                                                        
+                          <a href="/public-health-provider-resources/washington-health-alert-network" class="dropdown-item" aria-current="" data-drupal-link-system-path="node/19793">Washington Health Alert Network</a>
+                        
+                          
+                      </li>
+
+                      
+                      
+                      
+                   
+
+                                      </ul>
+                  </li>
+                </ul>
+              
+                            <div class="borderbox d-none d-lg-block"></div>
+                          </li>
+          
+        </ul>
+        <div class="mcopy-nav"></div>
+      </div>
+      
+    </div>
+  
+
+
+
+
+  </nav>
+  </section>
+
+                </div>
+                            </div>
+            
+          </div>
+        </div>
+      </div>
+        
+    <div id="main">
+            <div class="wrapper-inner-content">
+      
+       
+        <div class="wrapper-content-top ">
+          <div class="container">
+            <div>
+                <section class="row region region-content-top">
+    <div id="block-forcerender" class="hidden d-none block-content-basic block block-block-content block-block-content1d4424c4-56d2-4608-be9b-eb8ad5ab3909">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="d-none">breadcrumb</p></div>
+      
+    </div>
+  </div>
+<div id="breadcrumb-main" class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+      
+  <nav role="navigation" aria-label="breadcrumb" style="">
+  <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+        <a href="/">Home</a>
+      </li>
+                <li class="breadcrumb-item">
+        <a href="/emergencies">Emergencies</a>
+      </li>
+                <li class="breadcrumb-item">
+        <a href="/emergencies/be-prepared-be-safe">Be Prepared, Be Safe</a>
+      </li>
+                <li class="breadcrumb-item">
+        <a href="/emergencies/be-prepared-be-safe/get-ready">Get Ready For An Emergency</a>
+      </li>
+                <li class="breadcrumb-item active">
+        Out Of Area Contacts
+      </li>
+        </ol>
+</nav>
+
+
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+          </div>
+        </div>
+      
+      
+                              <div id="main-wrapper" class="wrapper-content layout-main-wrapper has-sidebar clearfix">
+              <div class="container">
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+                          <div class="sidebar_first sidebar col-lg-3 order-first" id="sidebar_first">
+                <aside class="section" role="complementary">
+                  <div class="h2">In this section</div>
+                    <nav aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation">
+        <div class="h3"  class="menu-heading" id="block-mainnavigation-menu">
+          <a href="/emergencies/be-prepared-be-safe/get-ready" class="menu-item--active-trail" data-drupal-link-system-path="node/6422">Get Ready</a>
+      </div>
+
+        
+      <ul class="clearfix menu menu--main nav">
+                      <li class="first">
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/calling-911" data-drupal-link-system-path="node/6423">Calling 911</a>
+              </li>
+                      <li>
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/emergency-supplies" data-drupal-link-system-path="node/6425">Emergency Supplies</a>
+              </li>
+                      <li>
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/home-emergency-preparedness" data-drupal-link-system-path="node/6426">Home Emergency Preparedness</a>
+              </li>
+                      <li>
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/medication-distribution-during-emergency" data-drupal-link-system-path="node/6424">Medication Distribution During an Emergency</a>
+              </li>
+                      <li class="active active-trail">
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/out-area-contacts" data-drupal-link-system-path="node/6427" class="is-active" aria-current="page">Out of Area Contacts</a>
+              </li>
+                      <li>
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/preparedness-topics-z" data-drupal-link-system-path="node/6454">Preparedness Topics A-Z</a>
+              </li>
+                      <li>
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/vehicle-preparedness" data-drupal-link-system-path="node/6428">Vehicle Preparedness</a>
+              </li>
+                      <li class="last">
+                
+                                <a href="/emergencies/be-prepared-be-safe/get-ready/water-heaters-how-secure-them" data-drupal-link-system-path="node/6429">Water Heaters (How to secure them)</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+                </aside>
+              </div>
+              <div id="main-content"  class="main-content col col-lg-9" id="content" role="main">
+                  <section class="row region region-content">
+    <div class="language-switcher-language-url block block-advanced-language-selector block-advanced-language-selector-block" id="block-drupalbase-custom-advancedlanguageselectorblock">
+  
+    
+      <div class="content">
+      
+        
+    <div class="advanced-language-selector"  >
+    <div class="dropdown">
+      <button class="active btn dropdown-toggle btn-primary" type="button" id="adv-languages-dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+        <span>
+                
+                                   English</span>
+              </span>
+      </button>
+
+      <ul class="dropdown-menu">
+                            <li class="active">
+                      <a class="dropdown-item" href="/emergencies/be-prepared-be-safe/get-ready/out-area-contacts">
+              <span>
+                
+                                   English</span>
+              </span>
+            </a>
+          </li>
+                            <li>
+                      <a class="dropdown-item" href="/es/emergencies/be-prepared-be-safe/get-ready/contactos-fuera-del-area">
+              <span>
+                
+                                 Spanish - <span lang="es" >Español</span>
+              </span>
+            </a>
+          </li>
+              </ul>
+    </div>
+  </div>
+  
+
+
+    </div>
+  </div>
+<div id="block-drupalbase-custom-page-title" class="col block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+      <h1 class="title">Out-of-Area Contacts</h1>
+  
+
+    </div>
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-drupalbase-custom-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article data-history-node-id="6427" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>If you are separated from your loved ones when disaster strikes, you will need a way to find out where they are. The stress of the event may make it difficult to remember even routine information, like phone numbers. Every household member should have an out-of-area contact card in a wallet, purse or backpack at all times.</p>
+
+<h3>Things to do before disaster strikes</h3>
+
+<ul>
+	<li>Ask an out-of-area family member or friend to be your contact person. This person should live at least 100 miles away from you. It may be difficult to make local calls because large numbers of people may be using the phone lines at the same<br>
+	time. However, you should be able to make long distance calls.</li>
+	<li>Make small cards with the contact person's name and phone number for all<br>
+	family members to carry in their wallets, purses or backpacks.</li>
+	<li>Keep a phone that does not require electricity. Cordless phones use electricity—if the power is out, they will not work!</li>
+</ul>
+
+<h3><strong>Out-of-area wallet contact card</strong></h3>
+
+<p>Make copies of this card for all family members. Have each person add your family's contact information and place the cards in their wallet or purse.</p>
+
+<p>(Cut out the card image, fold over to fit into a wallet.)</p>
+
+<div>
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/legacy/images/1400/ContactCard1.gif?uid=6b02024b291c3" width="350" height="204" alt="Out-of-area wallet contact card - front.">
+
+</div>
+      
+</div>
+
+
+<div>
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/legacy/images/1400/ContactCard2.gif?uid=6b02024b2a21b" width="350" height="204" alt="Out-of-area wallet contact card - back.">
+
+</div>
+      
+</div>
+
+
+<h3><strong>Contacting loved ones after disasters</strong></h3>
+
+<ul>
+	<li>All household members should call the out-of-area contact. The contact person will collect information about each family<br>
+	member, where they are and how to contact them.</li>
+	<li>You may be able to send text messages to your loved ones on your cell phone. Keep messages short.</li>
+	<li>Make sure the handsets to your phones are hung up—during events such as earthquakes handsets can get knocked off their bases. When large numbers of phones are off-the-hook, local phone service may stop working correctly.</li>
+	<li>You should be able to use a pay phone if your home phone does not work. Pay phones are part of the emergency services<br>
+	network, and are a priority to be restored to service. Tape the coins needed to use a pay phone to your out-of-area contact card.</li>
+</ul>
+
+<h4>Other languages</h4>
+
+<p>(All files are PDF.)</p>
+
+<ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="ebe89384-584a-42e7-bec6-a5ff9d945a55" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_Sp.pdf">Spanish</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6f740a90-6488-40d5-a868-e9c34dfb9289" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_Ch.pdf">Chinese</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="47b33f35-958e-4a26-8f7e-66f38350b32f" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_Ko.pdf">Korean</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="116fcbb0-a1eb-4be1-a17a-d0e0335d882d" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_Ru.pdf">Russian</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="0424b5eb-b7e7-4c5b-adef-58cd62bc00fb" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_So.pdf">Somali</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="695fde69-044c-4ac8-bc0a-39071a439561" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_Uk.pdf">Ukrainian</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="a308a212-f552-4fdf-94bf-5e0c5134b507" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_Vi.pdf">Vietnamese</a></li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="902014f5-3265-45c9-8ca1-3e90ad60c6c4" href="/sites/default/files/legacy/Documents/Pubs/821-046_Contact_LT.pdf">Large type</a></li>
+</ul>
+
+<p>DOH Pub 821-046<br>
+Revised - March 2008<br>
+Reviewed annually</p></div>
+      
+
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </section>
+
+              </div>
+                                  </div>
+        </div>
+      </div>
+           
+      
+      
+            </div>
+        </div>
+
+    <footer class="site-footer" aria-label="Footer">
+                        <div class="wrapper-footer-top">
+            <div class="container footer-top clearfix">      
+                <section class="row region region-footer">
+    <div id="block-footer1" class="col-12 col-sm-6 col-lg-3 d-none d-md-block block-content-basic block block-block-content block-block-content056b448f-d00e-4781-b2d6-5903107de9ee">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>&nbsp;</p>
+
+<div>
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/height_/public/2024-11-images/DOH%20logo_horizontal-reversed.png?itok=h6J2Mp5H&amp;uid=6afe02eb7cd3c" width="255" height="75" alt="Washington State Department of Health Logo" class="image-style-height-">
+
+
+</div>
+      
+</div>
+
+
+<ul>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="884befe7-6ff7-4de8-8879-99e9503bf19c" href="/about-us">About Us</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f6b67624-3652-4c13-8d35-efa72af4d5a5" href="/about-us/workhealth">Jobs - Work@Health</a></li>
+	<li><a href="https://medium.com/wadepthealth">Public Health Connection Blog</a></li>
+	<li><a href="https://medium.com/bienestarwa" lang="es">BienestarWA Blog (Español)</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="93d3b8c1-8cd9-4720-917d-3187b629ced5" href="/about-us/public-records">Request Public Records</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="99c4c6df-ad3e-4dec-bdb6-1449bce5ac04" href="/about-us/rulemaking">Rulemaking</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8f3bed1e-4e63-4285-9256-9e3d9ff8f316" href="/about-us/topics-a-z">Topics A-Z</a></li>
+	<li><a href="/es" lang="es">Ver&nbsp;Contenido en Español</a></li>
+</ul></div>
+      
+    </div>
+  </div>
+<div id="block-socialmedia" class="col-12 col-sm-6 col-lg-3 d-none d-md-block block-content-basic block block-block-content block-block-contentfd4295a8-3ee3-47d7-b537-4e495c95e104">
+  
+      <h2>Contact Us</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a1a0da87-97b1-44ca-b41a-e233ba420696" href="/about-us/contact-us">Contact Information</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="793e85b5-17aa-40fb-8ac5-3d5b44f34363" href="/about-us/contact-us/social-media">Social Media</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a4bca041-ee10-4515-b53f-541781961123" href="/about-us/contact-us/office-locations-and-hours">Hours &amp; Location</a></li>
+</ul>
+
+<div class="mt-5">
+<p><a href="https://twitter.com/WADeptHealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-brand fa-x-twitter fab"></span><span class="sr-only">Twitter</span></span></a> <a href="https://www.facebook.com/WADeptHealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-facebook fab"></span><span class="sr-only">Facebook</span></span></a> <a href="https://www.linkedin.com/company/wadepthealth/"><span class="fontawesome-icon-inline"><span class="fa-2x fa-linkedin-in fab"></span><span class="sr-only">LinkedIn</span></span></a></p>
+
+<p><a href="https://medium.com/wadepthealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-medium fab"></span><span class="sr-only">Medium</span></span></a> <a href="https://www.instagram.com/wadepthealth/"><span class="fontawesome-icon-inline"><span class="fa-2x fa-instagram fab"></span><span class="sr-only">Instagram</span></span></a> <a href="https://www.youtube.com/user/WADepartmentofHealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-youtube fab"></span><span class="sr-only">YouTube</span></span></a></p>
+</div></div>
+      
+    </div>
+  </div>
+<div id="block-partners" class="col-12 col-sm-6 col-lg-3 d-none d-md-block block-content-basic block block-block-content block-block-content89c551cd-d521-48b8-9b40-342326070993">
+  
+      <h2>Our Partners</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul>
+	<li><a href="http://cdc.gov/">Centers for Disease Control and Prevention (CDC)</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="05867820-ffd0-4dc9-ae69-0ffca0ea369e" href="/about-us/washingtons-public-health-system/washington-state-local-health-jurisdictions">Local Health Departments</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="987c88fc-dc06-44d5-bdb4-465adfec45d3" href="/public-health-provider-resources/public-health-system-resources-and-services/public-health-washington/local-public-health/lhj-and-tribal-directories">Local Health Jurisdictions and Tribal Directories</a></li>
+	<li><a href="http://www.nwcphp.org/">Northwest Center for Public Health Practice</a></li>
+	<li><a href="https://sboh.wa.gov/">State Board of Health</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="53c7f895-9028-494e-9afa-bc2a5ad191e7" href="/about-us/partners">Other Partners</a></li>
+</ul></div>
+      
+    </div>
+  </div>
+<div id="block-subscribeforupdates" class="col-12 col-sm-6 col-lg-3 d-none d-md-block block-content-basic block block-block-content block-block-content42638033-cdf7-48bf-aeaf-5cfba03164eb">
+  
+      <h2>Subscribe for Updates</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="mb-5">Get email alerts based on your topic preferences like news releases, job openings, emergency updates and more!</p>
+
+<p class="mb-5"><a class="btn btn-primary" href="https://public.govdelivery.com/accounts/WADOH/subscriber/new"><span class="text">Sign up for Updates From DOH</span></a></p>
+
+<div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/max_135_x_135/public/2024-03-images/HP2030-Champion-Badge.png?itok=IlZmgg4F&amp;uid=6affd86546ba3" width="135" height="135" alt="Healthy People 2030 Champion Badge" class="image-style-max-135-x-135">
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+    </div>
+  </div>
+<div id="block-mobilefooter" class="d-md-none block-content-basic block block-block-content block-block-content96ce91d3-333d-4a52-a330-b03fb5482c2c">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><dl class="ckeditor-accordion">
+	<dt>Washington State Department of Health</dt>
+	<dd>
+	<ul>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="884befe7-6ff7-4de8-8879-99e9503bf19c" href="/about-us">About us</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f6b67624-3652-4c13-8d35-efa72af4d5a5" href="/about-us/workhealth">Jobs - Work@Health</a></li>
+		<li><a href="https://medium.com/wadepthealth">Public health connection blog</a></li>
+		<li><a href="https://medium.com/bienestarwa">BienestarWA blog (español)</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="93d3b8c1-8cd9-4720-917d-3187b629ced5" href="/about-us/public-records">Request public records</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="99c4c6df-ad3e-4dec-bdb6-1449bce5ac04" href="/about-us/rulemaking">Rule Making</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8f3bed1e-4e63-4285-9256-9e3d9ff8f316" href="/about-us/topics-a-z">Topics A-Z</a></li>
+		<li><a href="https://doh.wa.gov/es">Ver contenido&nbsp;in Español</a></li>
+	</ul>
+	</dd>
+	<dt>Contact Us</dt>
+	<dd>
+	<ul>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a1a0da87-97b1-44ca-b41a-e233ba420696" href="/about-us/contact-us">Contact information</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a4bca041-ee10-4515-b53f-541781961123" href="/about-us/contact-us/office-locations-and-hours">Hours &amp; location</a></li>
+	</ul>
+
+	<div class="mt-5">
+	<p><a href="https://twitter.com/WADeptHealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-brand fa-x-twitter fab"></span><span class="sr-only">Twitter</span></span></a> <a href="https://www.facebook.com/WADeptHealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-facebook fab"></span><span class="sr-only">Facebook</span></span></a> <a href="https://www.linkedin.com/company/wadepthealth/"><span class="fontawesome-icon-inline"><span class="fa-2x fa-linkedin-in fab"></span><span class="sr-only">LinkedIn</span></span></a></p>
+
+	<p><a href="https://medium.com/wadepthealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-medium fab"></span><span class="sr-only">Medium</span></span></a> <a href="https://www.instagram.com/wadepthealth/"><span class="fontawesome-icon-inline"><span class="fa-2x fa-instagram fab"></span><span class="sr-only">Instagram</span></span></a> <a href="https://www.youtube.com/user/WADepartmentofHealth"><span class="fontawesome-icon-inline"><span class="fa-2x fa-youtube fab"></span><span class="sr-only">YouTube</span></span></a></p>
+	</div>
+	</dd>
+	<dt>Our Partners</dt>
+	<dd>
+	<ul>
+		<li><a href="http://cdc.gov/">Centers for Disease Control and Prevention (CDC)</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="05867820-ffd0-4dc9-ae69-0ffca0ea369e" href="/about-us/washingtons-public-health-system/washington-state-local-health-jurisdictions">Local Health Departments</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="987c88fc-dc06-44d5-bdb4-465adfec45d3" href="/public-health-provider-resources/public-health-system-resources-and-services/public-health-washington/local-public-health/lhj-and-tribal-directories">Local Health Jurisdictions and Tribal Directories</a></li>
+		<li><a href="http://www.nwcphp.org/">Northwest Center for Public Health Practice</a></li>
+		<li><a href="https://sboh.wa.gov/">State Board of Health</a></li>
+		<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="53c7f895-9028-494e-9afa-bc2a5ad191e7" href="/about-us/partners">Other Partners</a></li>
+	</ul>
+	</dd>
+	<dt>Subscribe for Updates</dt>
+	<dd>
+	<p>Get email alerts based on your topic preferences like news releases, job openings, emergency updates and more!</p>
+
+	<p><a class="btn btn-primary" href="https://public.govdelivery.com/accounts/WADOH/subscriber/new"><span class="text">Sign up for updates from DOH</span></a></p>
+	</dd>
+</dl>
+
+<div class="align-center">
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/max_135_x_135/public/2024-03-images/HP2030-Champion-Badge.png?itok=IlZmgg4F&amp;uid=6afe02ebee9a1" width="135" height="135" alt="Healthy People 2030 Champion Badge" class="image-style-max-135-x-135">
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+          </div>
+                          <div class="wrapper-footer-bottom">
+            <div class="container footer-bottom">
+                <section class="row region region-footer-bottom">
+    <div id="block-copyright" class="col-12 block-content-basic block block-block-content block-block-content89f91154-e9a9-45d2-a31c-51ea97610cb2">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1b2b8632-7446-46cc-9cf4-1beddf42bfcd" href="/about-us/privacy-office">Privacy Policy</a>&nbsp;&nbsp;| &nbsp;<a href="https://doh.wa.gov/about-us/contact-us#Altformat">Alternate Format Requests</a> &nbsp;| &nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d3f0636e-9de1-4223-af60-70429a3b740b" href="/about-us/notice-nondiscrimination">Notice of Nondiscrimination</a></p></div>
+      
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+          </div>
+                  </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/6427","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyFkmFuwyAMhS9EwpEiAw5hxTiynXXd6UekaumabvuD_Pw-yfYT8AYfU2VIKB6OerRFOAQUF5hNTWCdAogU9rlygDqo3Wpp-ez37kXP7cYJT91Jt2ALEvrDian9wT1NjxdMxVgmiJElFW7-uxpn4WbY0kEZ7Dd5RYJmJe5aXcfRR6aVGzbT8Xn4MARBSFE2Ci7JtkINoPhLHg9A3NSY7sALY2Epn31FqBNh214QqxQCuTV4d_MOXlG5h_BQj1cMu9R_gVGXQi4z54r98Oxzf35qctSDAj-Xav0PRFit5-j0pobk98W-AJeh3e4","theme":"drupalbase_custom","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-P33KPVK","GTM-T8C88VC2"]},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-flow\u0022\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":".ajax-loader-throbber"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0,"allowHtmlInTitles":0}},"user":{"uid":0,"permissionsHash":"c24173488e03c109813e252d8f2cffe5be86a1cf56870527589099cdb0c6f947"}}</script>
+<script src="/modules/contrib/jquery_once/lib/jquery_3.7.1_jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.22"></script>
+<script src="/core/misc/drupal.js?v=10.6.22"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.22"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/core/misc/progress.js?v=10.6.22"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=10.6.22"></script>
+<script src="/core/misc/announce.js?v=10.6.22"></script>
+<script src="/core/misc/message.js?v=10.6.22"></script>
+<script src="/themes/bootstrap_barrio/js/messages.js?toprdz"></script>
+<script src="/core/misc/ajax.js?v=10.6.22"></script>
+<script src="/modules/contrib/ajax_loader/js/ajax-throbber.js?v=1.x"></script>
+<script src="/themes/bootstrap_barrio/js/barrio.js?v=10.6.22"></script>
+<script src="//cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/themes/bootstrap_barrio/subtheme/js/global.js?v=10.6.22"></script>
+<script src="/modules/contrib/ckeditor_tabber/js/ckeditor-tabber.js?v=1.x"></script>
+<script src="/themes/drupalbase_barrio/assets/js/drupalbase-ax-menu.js?toprdz"></script>
+<script src="/themes/drupalbase_barrio/assets/js/bootstrap-carousel-custom.js?toprdz"></script>
+<script src="/themes/drupalbase_barrio/assets/js/ckeditor-accordion-bootstrap-custom.js?toprdz"></script>
+<script src="/themes/drupalbase_barrio/assets/js/drupalbase-ax-fixes.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/bootstrap-accordion-custom.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/breakpoints.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/bootstrap-carousel-custom.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/ckeditor-accordion-bootstrap-custom.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/OptimizeCovidDashboard.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/content-navbar.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/content-submenu.js?toprdz"></script>
+<script src="https://siteimproveanalytics.com/js/siteanalyze_6291959.js" async></script>
+<script src="/themes/drupalbase_custom/assets/js/sidenav.js?toprdz"></script>
+<script src="/libraries/countup.js/dist/countUp.umd.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/homepage-countup.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/primarynav.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/advlangdrop-resize.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/quickexitbtn.js?toprdz"></script>
+<script src="/themes/drupalbase_custom/assets/js/qualtrics-ax.js?toprdz"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?toprdz"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?toprdz"></script>
+
+  </body>
+</html>

@@ -1,0 +1,843 @@
+[PDF PAGE 1]
+
+Post-Disaster Reunification of 
+Children: A Nationwide Approach 
+
+November 2013 
+
+[PDF PAGE 2]
+
+[PDF PAGE 3]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+Acknowledgements 
+Post-Disaster Reunification of Children: A Nationwide Approach illustrates the significance of 
+whole community collaboration and inclusive emergency planning by providing a 
+comprehensive overview of the coordination processes necessary to reunify children separated 
+from their parents or legal guardians in the event of a large-scale disaster and reflects how the 
+whole community—to include nongovernmental organizations such as Voluntary Organizations 
+Active in Disaster, faith-based and community organizations, disability and pediatric 
+organizations, Federal and private sector partners, and civic action committees—can work 
+together to achieve one wide ranging mission. 
+Reunifying unaccompanied minors and separated or missing children with their parents or legal 
+guardians in the aftermath of a disaster is a priority. Accomplishing this goal requires the 
+efficient, coordinated use of resources and efforts from across the whole community and all 
+levels of government. This document reflects our Nation’s first attempt to establish a holistic and 
+fundamental baseline for reunifying children separated as a result of a disaster and aims to assist 
+local, state, tribal, territorial, and insular area governments and those responsible for the 
+temporary care of children, such as educational, child care, medical, juvenile justice, and 
+recreational facilities, in enhancing the reunification elements of existent emergency 
+preparedness plans and/or conducting new all-hazards reunification planning. 
+Any project of this scope entails the participation, assistance, and cooperation of many 
+individuals. Whole community stakeholders from across the country were engaged in and 
+supported the development of this document, including local, state, and Federal partners, 
+nongovernmental organizations, emergency managers, pediatric and disability experts, the 
+private sector, and other applicable stakeholders. A warm thank you goes out to them for their 
+time, efforts, and pivotal support. 
+Without the participation, commitment, and efforts of those who were willing to share their 
+respective expertise and experience in a way that was most useful to stakeholders and personnel 
+from a variety of disciplines, Post-Disaster Reunification of Children: A Nationwide Approach 
+would not have been possible. An enormous amount of gratitude is extended to the States of 
+Arizona, Louisiana, Missouri, New York, and Nevada; the Commonwealth of Puerto Rico; the 
+U.S. Department of Education, and the U.S. Department of Justice, whose efforts were 
+instrumental in bringing this initiative from concept to fruition. 
+ i 
+
+[PDF PAGE 4]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+ 
+This page intentionally left blank. 
+ii 
+
+[PDF PAGE 5]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+Table of Contents 
+Introduction ................................................................................................................... 1 
+Background ..............................................................................................................................2 
+Purpose, Applicability, and Scope............................................................................... 5 
+Roles .............................................................................................................................. 9 
+Local Level ................................................................................................................................9 
+State Level...............................................................................................................................13 
+National Level.........................................................................................................................17 
+Nongovernmental and Private Sector Organizations .........................................................20 
+Tribes ......................................................................................................................................23 
+Territories/Insular Areas ......................................................................................................24 
+Authorities ................................................................................................................... 25 
+Planning Considerations ............................................................................................ 31 
+Concept of Operations Guidance .............................................................................. 33 
+Minor Separated from Parent or Legal Guardian .............................................................33 
+Child Reported Missing by Parent or Legal Guardian ......................................................41 
+Unaccompanied Minor Identified as Deceased ...................................................................42 
+Supplemental Checklist .............................................................................................. 43 
+Preparedness ..........................................................................................................................43 
+Evacuation Support ...............................................................................................................44 
+Shelter Operations .................................................................................................................44 
+Reunification Mechanisms ....................................................................................................45 
+Public Information and Outreach ........................................................................................45 
+ iii 
+
+[PDF PAGE 6]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+Conclusion ................................................................................................................... 47 
+Annex A: List of State Clearinghouses ................................................................... A-1 
+Annex B: Resource Directory .................................................................................. B-1 
+Annex C: Family Emergency Plan Template ........................................................... C-1 
+Annex D: Abbreviations ............................................................................................ D-1 
+Annex E: Definitions .................................................................................................. E-1 
+
+iv 
+
+[PDF PAGE 7]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+Introduction 
+Amid the chaos of a natural, technological, or human-caused disaster, there is an increased 
+possibility for children to become separated from their parents or legal guardians. This separation 
+could occur during the evacuation or sheltering process, or because children who are located in a 
+child care, educational, medical, juvenile justice, recreational, or other facility may be unable to 
+reconnect with their parents or legal guardians. 
+Following Hurricanes Katrina and Rita in 2005, the National Center for Missing and Exploited 
+Children’s (NCMEC’s)1 hotline for those events received over 34,000 calls.2 Children comprise 
+approximately 25 percent of the Nation’s population. On any given weekday, an estimated 67 
+million of them are in schools and child care, and may be particularly vulnerable because they 
+are away from their families. Studies have shown that 63 percent of parents would disregard an 
+evacuation order and go directly to their child’s school in an attempt to collect their children, 
+even if they have received instructions to do the opposite. When parents are familiar with the 
+emergency plans of their children’s temporary care providers, including the reunification 
+components, they are more likely to follow evacuation and shelter-in-place orders, making 
+everyone safer.3 
+Reunifying unaccompanied minors and separated or missing children with their parents or legal 
+guardians in the aftermath of a disaster is a priority.4 Accomplishing this goal requires the 
+efficient, coordinated use of resources and efforts from across the whole community at the local, 
+state, regional, and national levels.5 By understanding approaches to reunification from across 
+the whole community, jurisdictions will be able to further develop and enhance the reunification 
+elements of their emergency preparedness plans. 
+Outreach and collaboration with a broad stakeholder group has shown that communities are 
+looking for more information on available resources and promising practices to help them further 
+develop the way their emergency preparedness plans address reunification. 
+This document is designed to support those efforts. It was created to support overall reunification 
+processes and procedures by establishing a fundamental baseline, assisting in identifying the 
+roles of lead and supporting agencies and organizations, and serving as a tool to enhance 
+reunification elements of existent emergency preparedness plans and/or help guide the 
+development of new all-hazards reunification plan elements and procedures. This document 
+should assist in the development of reunification planning elements that are inclusive, 
+considering those children who may be unable to verbalize who they are and/or relay any other 
+1 Federal law authorizes NCMEC to provide free services to families as the Nation’s clearinghouse for missing and 
+sexually exploited children. Many of NCMEC’s authorized services are listed in 42 U.S.C. § 5773. 
+2 Sarita Chung and Michael Shannon, “Reuniting Children with Their Families During Disasters: A Proposed Plan 
+for Greater Success,” American Journal of Disaster Medicine, 2007. 
+3 Irwin Redlener, Roy Grant, David Abramson, and Dennis Johnson, “Why Parents May Not Heed Evacuation 
+Orders and What Emergency Planners, Families and Schools Need to Know,” 2008. 
+http://www.ncdp.mailman.columbia.edu/files/white_paper_9_08.pdf 
+4 A separated child is a child who is separated from both parents or from his/her previous legal or customary primary 
+caregiver, but not necessarily from other relatives, while an unaccompanied child is a child who has been separated 
+from both parents and other relatives and is not being cared for by an adult who, by law or custom, is responsible for 
+doing so. See Annex E: Definitions for additional detail. 
+5 For the purposes of this document, “local and state” includes tribal, territorial, and insular area governments. 
+ 1 
+
+[PDF PAGE 8]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+essential information, and should also recognize the needs of children with disabilities and other 
+access and functional needs, including hearing and visual impairments. This document focuses 
+solely on the reunification of children separated from their parents or legal guardians following a 
+disaster. Planned next steps include developing other materials that comprehensively address the 
+reunification of all disaster survivors. 
+Overall, this document, along with other national preparedness doctrine (e.g., the National 
+Response Framework [NRF], and National Disaster Recovery Framework), provides another tool 
+for achieving our National Preparedness Goal of a more secure and resilient Nation to prevent, 
+protect against, mitigate, respond to, and recover from the threats and hazards that pose the 
+greatest risk.6 
+For the purposes of this document, reunification is defined as the process of assisting 
+displaced disaster survivors, including children, in voluntarily reestablishing contact with 
+family and friends after a period of separation. Throughout the document, web links are 
+provided for reference and further information. All referenced web sites are active as of May 
+2012. 
+Background 
+In October 2006, the President signed into law the Post-Katrina Emergency Management Reform 
+Act of 2006 (PKEMRA),7 modifying the organizational structure, authorities, and 
+responsibilities of the Federal Emergency Management Agency (FEMA). PKEMRA and the 
+Stafford Act8 mandated that the National Emergency Child Locator Center (NECLC) be 
+established within the NCMEC and that procedures be put in place to facilitate the identification 
+and reunification of displaced children with their families. NCMEC, established in 1984 as a 
+private, nonprofit 501(c)(3) organization, serves as the Nation’s resource center on the issues of 
+missing and sexually exploited children and provides services nationwide for law enforcement, 
+families, and professionals in the protection of abducted, endangered, and sexually exploited 
+children.9 
+Pursuant to the Kids in Disaster Well-being, Safety, and Health Act of 2007,10 the National 
+Commission on Children and Disasters (Commission) was established in December 2007 by the 
+President and Congress. The Commission was charged with conducting an independent and 
+comprehensive study to identify gaps in the Nation’s disaster planning, preparedness, response, 
+and recovery for children, and to submit a report providing recommendations for closing those 
+gaps. The Commission delivered an interim report to the President and Congress in October 
+2009, and then a final report in October 2010.11 In August 2009, FEMA, in collaboration with 
+many other Federal partners and nongovernmental organizations (NGOs), began to work closely 
+with the Commission to address their recommendations, where applicable, and ensure that the 
+6 Department of Homeland Security, National Preparedness Goal, September 2011. 
+http://www.fema.gov/pdf/prepared/npg.pdf. 
+7 Pub. L. No. 109-295 
+8 Section 689(b) of the Robert T. Stafford Disaster Relief and Assistance Act, Pub. L. No. 93-288, as amended. 
+9 NCMEC Web site. http://www.missingkids.com. 
+10 Pub. L. No. 110-161 
+11 National Commission on Children and Disasters, 2010 Report to the President and Congress, October 2010. 
+http://www.acf.hhs.gov/ohsepr/nccdreport/index.html. 
+2 
+
+[PDF PAGE 9]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+needs of children were considered and integrated into overall disaster planning, preparedness, 
+response, and recovery efforts initiated at the Federal level. 
+Included in the Commission’s report was a recommendation that efforts be made to strengthen 
+the mechanisms for collecting data, expanding information sharing capabilities, and creating a 
+central database where information pertaining to unaccompanied minors could be stored. This 
+recommendation prompted the development of the Unaccompanied Minors Registry (UMR) 
+which supports the ability to collect, store, report, and act on information related to children 
+missing or lost as a result of a disaster. This newly created tool is administered by the NCMEC 
+during disasters to gather and share information with, and provide technical assistance to, local 
+law enforcement and assist in the reunification of displaced children with their parents or legal 
+guardians.12 Additionally, data within the tool can, through proper channels, be used by local and 
+state emergency managers, as well as other reunification stakeholders to assist with reunification 
+efforts, planning, and strategies. The UMR remains active at all times, even when not in use for a 
+specific disaster. 
+Through the Commission, the U.S. Department of Homeland Security (DHS)/FEMA, U.S. 
+Department of Health and Human Services (HHS), U.S. Department of Justice (DOJ), and U.S. 
+Department of Education have collaborated closely to address the disaster related needs of 
+children. They have strengthened existing relationships and have worked together to support 
+local disaster operations by coordinating and connecting local, state, and Federal primary points 
+of contact whenever and wherever necessary. 
+12 Team Adam and Project ALERT—comprising retired law enforcement professionals with years of investigative 
+experience at the Federal, state, and local levels—will provide rapid, onsite assistance to law enforcement agencies 
+and families in reuniting unaccompanied minors with their families or legal guardians. 
+ 3 
+
+[PDF PAGE 10]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+ 
+This page intentionally left blank. 
+4 
+
+[PDF PAGE 11]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+Purpose, Applicability, and Scope 
+Most incidents begin and end locally and are managed at the local level. When the demands of 
+the disaster exceed the capacity of local governments, they may seek or be offered assistance 
+from the state to enhance and supplement their response capabilities. In home rule states, local 
+governments maintain control of disaster response operations and the state will only respond 
+once a formal request for assistance has been issued (see Annex E: Definitions). However, many 
+states will take a proactive readiness posture rather than simply waiting for requests to be issued. 
+The Federal Government will do the same, remaining ready to support local and/or state 
+response efforts if and when help is officially requested.13 In the event that a disaster crosses 
+state and/or international borders (cross-borders) there will likely be a need for additional 
+coordination, support, and clarification of legal authorities. Roles, responsibilities, and 
+procedures often vary from state to state and even among local jurisdictions within each state, so 
+it is important that the lines of authority for displaced children within a given jurisdiction are 
+clarified before a disaster strikes.14 
+This document is not legally binding and does not establish requirements for state, local, Federal 
+or private sector entities. It aims to provide a comprehensive overview of the coordination 
+processes necessary to reunify unaccompanied minors with their parents or legal guardians 
+following a large-scale disaster. This document reflects how the whole community—to include 
+NGOs such as Voluntary Organizations Active in Disaster, faith-based and community 
+organizations, disability and pediatric organizations, private sector partners, and civic action 
+committees—can support local, state, and Federal efforts of reunifying unaccompanied minors 
+with their parents or legal guardians in the aftermath of a disaster.15 
+“Whole Community is a means by which residents, emergency 
+management practitioners, organizational and community leaders, and 
+government officials can collectively understand and assess the needs of 
+their respective communities and determine the best ways to organize 
+and strengthen their assets, capacities, and interests.” 
+—A Whole Community Approach to Emergency Management: 
+Principles, Themes, and Pathways for Action 
+This document aspires to: 
+1. Assist local and state governments in determining processes, communication lines, and the 
+identification of roles necessary to facilitate the expeditious reunification of children with 
+their parents or legal guardians in the aftermath of a disaster. 
+2. Encourage stakeholders and community leaders to develop and build upon existent 
+relationships in an effort to collaborate and communicate more efficiently and effectively in 
+13 The NRF Resource Center Web site is a useful source for additional information on this topic. 
+http://www.fema.gov/emergency/nrf/. 
+14 National Law Center on Homelessness and Poverty, Alone without a Home: A State-By-State Review of Laws 
+Affecting Unaccompanied Youth, September 2012. 
+http://www.nlchp.org/content/pubs/Alone%20Without%20a%20Home,%20FINAL1.pdf. 
+15 FEMA, A Whole Community Approach to Emergency Management: Principles, Themes, and Pathways for 
+Action, December 2011. http://www.fema.gov/about/wholecommunity.shtm. 
+ 5 
+
+[PDF PAGE 12]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+the event of a large-scale disaster, specifically one occurring during normal business hours 
+and/or the school day. 
+3. Establish an understanding of how all applicable parties (leading and supporting) can work 
+together to support each other’s missions, achieving the overall goal of expeditiously 
+reuniting children displaced as a result of disaster with their parents or legal guardians. 
+4. Identify tools and resources that could assist localities and states in disaster-related 
+reunification efforts, to include the use of technology and support from Federal agencies, 
+NGOs, and other stakeholders. 
+The underlying goals of this document reflect the importance of making reunification a priority 
+in any disaster-related event. Safety is of the utmost concern; children are often unable to defend 
+themselves, and, in the chaos of a catastrophic event, can easily become the victims of 
+maltreatment, abuse, kidnapping, and, in the most severe case, exploitation. This document seeks 
+to heighten an awareness and support of the following key objectives relating to the reunification 
+of unaccompanied minors with their parents or legal guardians: 
+ Swift and safe reunification of minors with parents or legal guardians. 
+ Safe and temporary care of unaccompanied minors to include accessible sheltering and/or 
+housing. 
+ Supplies necessary to sustain infants and toddlers with and without disabilities and/or 
+other access and functional needs (e.g., food, diapers, electrolytes, consumable medical 
+supplies, and durable medical equipment).16 
+ Appropriate medical care of minors; additional support services such as personal 
+assistance may be necessary to support children with disabilities and other access and 
+functional needs. 
+ Appropriate mental and behavioral health care of minors, to be understood as the many 
+interconnected psychological, emotional, cognitive, developmental, and social influences 
+on behavior, mental health, and substance abuse, and the effect of these influences on the 
+overall well-being of a child or adult. Behavioral factors directly and indirectly influence 
+individual and community risks, health, resilience, and the success of public health 
+strategies and directives. 
+ Sensitivity to the cultural differences and diverse populations of our Nation. 
+ Effective, efficient action through: 
+o A shared understanding of local and national resources and capabilities. 
+o Collaboration, coordination, effective communication for children with disabilities 
+and other access and functional needs, and needs assessments during disasters. 
+o Shared operational procedures and technologies. 
+16 For a complete list, see FEMA, Commonly Used Sheltering Items and Service Listing Catalog, August 2011. 
+https://nmcs.communityos.org/cms/files/os114/p384/Final%20CUSI%20Catalog%20as%20of%20August%202011
+%20%28v2%29.pdf. 
+6 
+
+[PDF PAGE 13]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+o An awareness of varying roles and responsibilities in multi-state disasters and/or host 
+state events. For example, identifying the agency ultimately responsible for the 
+temporary care of minors separated as the result of a disaster, such as law 
+enforcement or social service agencies, and differing authorities and statutes. 
+Individual and community preparedness is fundamental to the success of reunification efforts. By 
+providing equal access to acquire and use necessary knowledge and skills, this document is 
+designed to enable the whole community to contribute to and benefit from national preparedness. 
+This includes children; individuals with physical and cognitive disabilities and other access and 
+functional needs; those from diverse religious, racial, and ethnic backgrounds; and people with 
+limited English proficiency. Their contributions must be integrated into reunification efforts, and 
+their needs must be incorporated into reunification planning and execution. 
+ 7 
+
+[PDF PAGE 14]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+ 
+This page intentionally left blank. 
+8 
+
+[PDF PAGE 15]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+Roles 
+When identifying roles associated with the reunification of unaccompanied minors, it is critical 
+to have an understanding of those organizations within your local jurisdiction and/or respective 
+state that are responsible for the temporary care of children separated from their parents or legal 
+guardians as a result of a disaster, as roles often vary among jurisdictions and states. 
+Agencies and organizations responsible for the temporary care of unaccompanied minors and 
+overseeing reunification efforts should have clearly identified roles and responsibilities, and may 
+consider outlining processes and procedures addressing the safety of children, length of stay in 
+shelters, transition to social services system, child custody requirements, medical consent 
+requirements, and any other sheltering issues specific to this population identified in their 
+emergency preparedness plans. Children with disabilities and other access and functional needs 
+may require additional support services. 
+The following section briefly describes some of the government agencies and NGOs that lead 
+and support reunification efforts before, during, and after a disaster. It is recommended that 
+consideration be given to determining ways in which members of the whole community (e.g., 
+governmental, nongovernmental, private, and nonprofit) can support overall reunification efforts. 
+Local Level 
+This section describes some of the potential reunification roles of local agencies. However, every 
+jurisdiction will handle reunification in its own way. 
+1. Local Offices of Emergency Management and Emergency Operations Centers (EOCs) 
+a. Develop, maintain, coordinate, and execute all-hazards emergency preparedness plans 
+that incorporate evacuation and reunification procedures and processes for children who 
+have become separated from their parents or legal guardians as a result of disaster. Local 
+and state governments may also incorporate evacuation tracking systems, which are used 
+during mass evacuation procedures (see Annex B: Resource Directory). The execution of 
+these reunification related plan elements may require additional coordination to meet the 
+needs of children with disabilities and other access and functional needs, those who have 
+chronic health or medical needs, are non-verbal, or have limited English proficiency. 
+These needs may be met by coordinating with disability and/or pediatric organizations, 
+law enforcement, social service agencies, medical facilities, schools, and other partners. 
+b. Comply with state laws that provide necessary guidance and procedures for missing 
+persons to include children. Local plans should be coordinated with local and state law 
+enforcement to ensure that EOC procedures do not conflict with established laws or 
+reunification efforts (e.g., procedures, processes, roles). 
+c. Make adequate training available for first responders to facilitate the expeditious 
+reunification of unaccompanied minors with parents or legal guardians. 
+ 9 
+
+[PDF PAGE 16]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+d. Include and coordinate with local schools and child care facilities (including home care 
+facilities) when developing/enhancing local emergency management plans.17 It is 
+recommended that evacuation and reunification procedures and processes be addressed in 
+emergency preparedness plans and that plans be inclusive of all populations, to include 
+children with and without disabilities and other access and functional needs. It is also 
+suggested that these plans be shared with parents and legal guardians and reviewed 
+and/or exercised regularly. 
+e. Survey existing capabilities among relevant agencies and the private sector to help 
+facilitate emergency transport, including accessible transport, and the tracking (when and 
+where applicable) and reunification of children with their parents or legal guardians.18 
+f. Coordinate with partners to determine whether essential age-appropriate shelter supplies 
+for infants and children are incorporated into shelter planning, and identify the 
+availability of child-specific infant/toddler supply caches readily available for immediate 
+deployment to support shelter operations.19 Additional shelter supplies for children may 
+include batteries for hearing aids and other necessary devices commonly used for 
+communication access. 
+g. When conducting a mass evacuation and utilizing a tracking system, collect the 
+appropriate data relevant to children with and without disabilities and other access and 
+functional needs, and chronic health and medical needs, to better meet specific health 
+care requirements and facilitate a more expeditious reunification should the child become 
+separated from his or her parent or legal guardian. 
+h. Collaborate with nongovernmental, community, and faith-based organizations, as well as 
+the private sector to promote individual and family disaster preparedness planning to 
+include family reunification and continuity of operations planning. 
+i. Consider using pediatricians as liaisons to parents and families to disseminate emergency 
+preparedness information encouraging the importance of preparing a disaster kit and 
+family emergency plan, as well as guidance outlining how to reunite should family 
+members be separated as a result of a disaster. Pediatricians have unique access to 
+children and their parents or legal guardians, and are trusted on issues such as disasters, 
+and can easily reach a large portion of a community’s population. 
+2. Local Child Welfare Agencies (e.g., Department of Social Services, Department of Human 
+Services, Department of Children and Family Services, Department of Public Health) 
+a. Support the safety and needs of children separated from parents or legal guardians and 
+parents or legal guardians seeking missing children during a disaster. 
+17 Save the Children, “NACCRRA and Save the Children Release Recommendations for Protecting Children in 
+Child Care during Emergencies,” February 2011. 
+http://www.savethechildren.org/site/apps/nlnet/content2.aspx?c=8rKLIXMGIpI4E&b=6478615&ct=9139743. 
+18 National Commission on Children and Disasters, 2010 Report to the President and Congress, October 2010. 
+http://www.acf.hhs.gov/ohsepr/nccdreport/index.html. 
+19 FEMA, Commonly Used Sheltering Items and Service Listing Catalog, August 2011. 
+https://nmcs.communityos.org/cms/files/os114/p384/Final%20CUSI%20Catalog%20as%20of%20August%202011
+%20%28v2%29.pdf. 
+10 
+
+[PDF PAGE 17]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+b. Coordinate with the appropriate agencies and organizations for the temporary care and 
+shelter of unaccompanied children. Confirm that background checks have been 
+conducted and fingerprints collected for all individuals with access to unaccompanied 
+minors. 
+c. Coordinate with law enforcement and the judicial system to ascertain the legal 
+responsibilities of various agencies to accomplish the following: 
+i. Provide temporary and, if necessary, long-term care of the minor. 
+ii. Implement standardized guidance to verify the identity and custody rights of adults 
+seeking the release of the child. 
+iii. Safely release the child to a verified parent or legal guardian. 
+iv. Work within the judicial system to ensure that proper legal procedures are followed 
+and keep the safety of the child in mind at all times. 
+d. Support human services roles and functions, including reunification, in disaster response 
+and recovery operations in accordance with defined roles and emergency preparedness 
+plans. 
+e. Provide guidance and assistance to child care centers with their emergency preparedness 
+planning and reunification activities. 
+f. Provide guidance and assistance in developing emergency preparedness plans for foster 
+parents and congregate facilities to address the likelihood that a no-notice or short-notice 
+emergency or disaster could occur. Plans may address lockdown procedures, evacuations, 
+sheltering-in-place, relocation, and reporting of foster children’s safety and location to 
+local social services, parents, and legal guardians.20 
+g. In coordination with state child welfare agencies and the judicial system, address the 
+potential need for temporary substitute care in a mass casualty event in which many 
+children are left orphaned. States may consider several strategies to handle the potential 
+surge in orphaned children requiring care: 
+i. Establish guidelines for rapid vetting of potential placement families. 
+ii. Identify placement families with the capacity to accept additional foster children. 
+iii. Identify existing youth placement programs (e.g., group foster care homes) that could 
+rapidly accept orphaned children. 
+h. Facilitate the sharing of information across jurisdictional lines allowing children and 
+families access to the services and support to which they are entitled. 
+3. Local Law Enforcement 
+a. Work with local or state child welfare agencies to ensure children are safe and have 
+temporary and supportive care. 
+b. Work with local child welfare agency to investigate the incident if a crime has potentially 
+occurred. 
+20 American Academy of Pediatrics, “Disaster Planning for Schools.” Pediatrics, 2008. 
+ 11 
+
+[PDF PAGE 18]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+c. Complete appropriate paperwork required by local law enforcement agencies and/or local 
+child welfare agencies. 
+d. Coordinate with state law enforcement and NCMEC on reunification issues. 
+e. Enter information on unaccompanied minors into the National Crime Information Center 
+(NCIC) registry. 
+4. Local Education Systems 
+a. Develop and maintain school emergency preparedness plans and processes that address 
+lockdown procedures (to protect from imminent threats such as gunmen), shelter-in-place 
+(to protect from the threat of contamination or weather events), evacuation, relocation, 
+and reuniting students with their parents or legal guardians. 
+i. Details included may vary from school to school. 
+ii. Schools are strongly encouraged to establish relationships and consider sharing their 
+emergency preparedness plans with first responders and/or local emergency managers 
+in an effort to better coordinate overall reunification efforts in the event of a large-
+scale or catastrophic incident. It is also recommended that schools be included in 
+local emergency planning drills.21 
+iii. School emergency preparedness plans are typically implemented to address the 
+likelihood that a no-notice or short-notice event may strike while children are 
+attending school. 
+iv. Depending on the situation, schools may deviate from plans and release children early 
+or hold them later than planned to promote the safety of the students in their charge. 
+In these instances, parents and legal guardians should be properly notified. 
+v. All plans should address the needs of children with disabilities and other access and 
+functional needs. 
+vi. When developing emergency preparedness plans, community emergency 
+management teams should include general and special education teachers, case 
+managers or related personnel, local disability services and advocacy specialists 
+and/or municipal Americans with Disabilities Act specialists. 
+vii. Plans should address the use of school facilities during non-school hours (e.g., 
+afterschool programs, summer and recreational activities). 
+viii. Schools are the nexus of parent, child, and community life, and separated families or 
+unaccompanied children may seek out schools for information, sheltering, or 
+reunification during times of disaster. 
+b. Clearly communicate school emergency preparedness plans with parents, legal guardians, 
+and caregivers and encourage them to develop a family plan identifying a local meeting 
+21 Chung S., Danielson J., Shannon M., “School-Based Emergency Preparedness: A National Analysis and 
+Recommended Protocol.” Agency for Healthcare Research and Quality, December 2008. 
+http://archive.ahrq.gov/prep/schoolprep/. 
+12 
+
+[PDF PAGE 19]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+point and an out-of-state relative or friend for each family member to contact in the event 
+that all local communication lines are down.22 
+5. Local Coroners/Medical Examiners 
+a. Investigate fatalities that occur as a result of a disaster and provide assistance in the 
+identification of deceased persons, including children. 
+b. Direct the collection of antemortem data through extensive communication with families 
+and other means. Data collection may include the following: 
+i. Physical description of the victim (e.g., approximate age, height, weight, gender, hair 
+color); 
+ii. Description of clothing and jewelry; 
+iii. Description of unique characteristics (e.g., tattoos, scars, birthmarks); 
+iv. Dental records, medical records, implant or joint replacement serial numbers, and 
+fingerprint records; 
+v. DNA reference samples from the family members. 
+c. Establish death notification procedures in coordination with a team of mental health 
+professionals and spiritual support providers. 
+d. When a deceased child cannot be identified by name, enter information pertaining to the 
+child (e.g., fingerprints, DNA, scars, marks, tattoos) into DOJ’s National Missing and 
+Unidentified Persons System (NamUs). NamUs is a national, centralized repository and 
+resource center for missing persons and unidentified decedent records. 
+State Level 
+This section describes some of the potential reunification roles of state agencies. All state 
+reunification actions are taken in support of local efforts. Although each state will have its own 
+methods of handling reunification, this section provides some common examples. 
+1. State Offices of Emergency Management 
+a. Develop, coordinate, and execute all-hazards emergency preparedness plans that 
+incorporate evacuation and reunification procedures and processes for children who have 
+become separated from their parents or legal guardians as a result of a disaster. The 
+execution of these reunification-related plan elements may require additional 
+coordination to meet the needs of children with disabilities and other access and 
+functional needs, those who have chronic health or medical needs, are non-verbal, or 
+have limited English proficiency. These needs may be met by coordinating with local 
+emergency management and other agencies, disability and/or pediatric organizations, law 
+enforcement, social service agencies, child welfare agencies, medical facilities, schools, 
+22 FEMA, “Make a Plan,” Ready Web site. http://www.ready.gov/make-a-plan. Also see Annex C: Family 
+Emergency Plan Template. 
+ 13 
+
+[PDF PAGE 20]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+mass care shelters, and other partners with access to information regarding children 
+separated from their families or caregivers.23 
+b. Look to state laws that provide necessary guidance and procedures for missing persons to 
+include children. State plans should be coordinated with law enforcement to ensure that 
+EOC procedures do not conflict with established laws or reunification efforts (e.g., 
+procedures, roles, responsibilities). 
+c. To improve the chances of success during an actual event, evacuation and reunification 
+procedures should be practiced regularly through disaster preparedness exercises, which 
+include agencies/organizations responsible for leading and supporting reunification 
+efforts, facilities responsible for the temporary care of children (e.g., educational, child 
+care, medical and recreational facilities, family care homes, summer programs and 
+camps, before and after school programs), and parents or legal guardians. Exercises may 
+also be used to identify lessons learned when addressing the needs of children with 
+disabilities and others with access and functional needs.24 
+d. Conduct a review of existing capabilities among relevant agencies and the private sector 
+to accommodate the need for emergency transport—including accessible transportation—
+and reunification of children and account for these in plans. 
+e. Coordinate with agencies and partners responsible for integrating essential age-
+appropriate resources for infants and children into mass care/human services, supply, and 
+equipment caches.25 
+f. If implemented by the state, use a mass evacuation tracking system to collect appropriate 
+data for all children, particularly unaccompanied minors (see Annex B: Resource 
+Directory). Inquire whether evacuation tracking systems include sufficient data fields to 
+record descriptive details for children who are too young to know their name and address 
+(e.g., approximate age; description of the child and his/her clothing; date, time, and site 
+where the child was found). 
+g. Promote family reunification planning as part of individual and family preparedness 
+education and activities. 
+h. In coordination with state Departments of Education and agencies that oversee child care 
+and summer camp programs, support the development of emergency preparedness 
+planning inclusive of children with disabilities and other access and functional needs to 
+address lockdown procedures in schools and child care facilities, evacuation, sheltering-
+in-place, relocation, and reunification of children with their parents or legal guardians. 
+i. As necessary, activate the state EOC to facilitate multi-agency coordination across 
+Emergency Support Function (ESF) representatives, including a pre-designated 
+23 U.S. DHS, Fiscal Year 2012 Homeland Security Grant Program Supplemental Resource: Children in Disasters 
+Guidance. http://www.fema.gov/pdf/government/grant/2012/fy12_hsgp_children.pdf. 
+24 National Commission on Children and Disasters, 2010 Report to the President and Congress, October 2010. 
+http://www.acf.hhs.gov/ohsepr/nccdreport/index.html. 
+25 FEMA, Commonly Used Sheltering Items and Service Listing Catalog, August 2011. 
+https://nmcs.communityos.org/cms/files/os114/p384/Final%20CUSI%20Catalog%20as%20of%20August%202011
+%20%28v2%29.pdf. 
+14 
+
+[PDF PAGE 21]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+reunification lead for child reunification, in accomplishing reunification processes in 
+response to a disaster situation.26 
+2. State Child Welfare Agencies (e.g., Department of Social Services, Department of Human 
+Services, Department of Children and Family Services, Department of Public Health) 
+a. Support the safety and needs of children separated from parents or legal guardians and 
+parents or legal guardians seeking missing children during a disaster. 
+b. Coordinate with the appropriate agencies and organizations for culturally and 
+linguistically appropriate temporary care and shelter of unaccompanied children. 
+c. Coordinate with law enforcement and the judicial system to ascertain the legal 
+responsibilities of various agencies to accomplish the following: 
+i. Provide temporary and, if necessary, long-term care of the minor. 
+ii. Verify the identity and custody rights of adults seeking the release of the child. 
+iii. Safely release the child to a verified parent or legal guardian. 
+d. Support human services roles and functions, including reunification, in disaster response 
+and recovery operations in accordance with defined roles and emergency preparedness 
+plans. 
+e. Develop consensus among agencies and organizations responsible for the management 
+(e.g., processes, procedures, credentialing, training) of the needs of children and families, 
+including those with disabilities and other access and functional needs. 
+f. Provide guidance and assistance to local child welfare agencies and child care centers 
+with their emergency preparedness planning and reunification activities.27 
+g. Plan for the potential need for emergency foster care in a mass casualty event in which 
+many children are left orphaned. 
+h. Support the development of all-hazards emergency preparedness planning inclusive to 
+children with disabilities and other access and functional needs to address lockdown 
+procedures in daycares and summer camps, evacuation, sheltering-in-place, relocation, 
+and reunification of children with their parents or legal guardians. 
+i. Reinforce the need for family contact information and authorization for emergency 
+transportation and medical care before a disaster happens. 
+26 See the NRF Resource Center Web site for additional information on ESFs: http://www.fema.gov/emergency/nrf/. 
+27 An example of such guidance is the Louisiana Department of Children and Family Services’ “Guidance on 
+Reunification” for child care programs 
+(http://www.dcfs.louisiana.gov/assets/docs/searchable/ChildDevEarlyLearning/ChildDevUpdates/2011/Emergency
+%20Rule/Guidance_on_Reunification.pdf), which is based on “Protecting Children in Child Care During 
+Emergencies, Recommended State and National Regulatory and Accreditation Standards for Family Child Care 
+Homes and Child Care Centers and Supporting Rationale” by the National Association of Child Care Resource and 
+Referral Agencies and Save the Children 
+(http://www.naccrra.org/sites/default/files/publications/naccrra_publications/2012/protectingchildreninchildcareeme
+rgencies.pdf). 
+ 15 
+
+[PDF PAGE 22]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+3. State Law Enforcement 
+a. Work with local or state child welfare agencies to ensure children are safe and have 
+temporary care. 
+b. Work with the local child welfare agency to investigate the incident if a crime has 
+potentially occurred. 
+c. Complete appropriate paperwork required by the local law enforcement agency and/or 
+local child welfare agency. 
+d. Check databases, fingerprints, and other resources to identify unaccompanied minors and 
+persons seeking to reunite with them. 
+e. Work with NCMEC personnel (Team Adam and/or Project ALERT) deployed to support 
+state and/or local law enforcement efforts of reuniting displaced minors with 
+parents/legal guardians. 
+f. Assume responsibility for unaccompanied minors, as provided for by law. 
+g. State law enforcement often houses the state clearinghouses, whose reunification roles 
+are described in the following section. 
+4. State Clearinghouses28 
+a. Provide resources for missing children, their families, and the professionals who serve 
+them. Provide first responders with adequate training to identify and reunite 
+unaccompanied children with parents or legal guardians. State clearinghouses, most often 
+found within the State Police, may likely have the legal responsibility for and play a key 
+role in the reunification of missing children with their families. State clearinghouses work 
+very closely with the NCMEC Clearinghouse when researching and investigating 
+missing-child cases. 
+b. The missing-child clearinghouses are diverse in their delivery of services because of state 
+and territorial mandates and the variety of agencies in which they exist. The primary 
+areas of focus for missing-child clearinghouses are networking, information 
+dissemination, training development and delivery, data collection, and provision of 
+technical assistance in cases of missing and sexually exploited children. In some states, 
+they are the primary responsible agencies for unaccompanied minors and/or missing 
+children during a Presidentially- or state-declared disaster. 
+c. Maintain a liaison with NCMEC and the state clearinghouse to obtain resources and 
+technical assistance. See Annex A: List of State Clearinghouses for additional 
+information. 
+d. Disseminate information on unaccompanied minors to all local shelter managers, shelter 
+managers in other states, and other state clearinghouses. Where possible, coordinate with 
+other state clearinghouses and other organizations before incidents arise to promote 
+information sharing and dissemination. 
+28 NCMEC, “Missing-Child Clearinghouse Program.” 
+http://www.missingkids.com/missingkids/servlet/ServiceServlet?LanguageCountry=en_US&PageId=1421. 
+16 
+
+[PDF PAGE 23]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+5. State Courts (Including Family Courts) 
+a. Facilitate the entry of children into and out of the foster care system. Plans should include 
+guidance addressing the expedited reunification of parents and legal guardians with 
+children who have been placed in the child welfare system. 
+b. Support the resolution of legal issues involving unaccompanied minors as they relate to 
+reunification. 
+National Level 
+Reunification is a team effort involving many players from all levels of government. When 
+requested, the Federal Government can provide resources to assist local and state governments in 
+accomplishing this mission. This assistance can be coordinated in part through the emerging 
+concept of Reunification Strike Teams. These teams aim to ensure that all of the involved 
+agencies work together, rather than having a series of parallel and uncoordinated efforts. 
+1. Reunification Strike Teams 
+a. Led by local and/or state representation. May also be led by Federal or NGO entities 
+when designated by state or local agencies. 
+b. Composed of individuals from local and/or state government, FEMA, HHS, NCMEC, the 
+American Red Cross, and others as applicable. 
+c. Deploy to disaster areas in the immediate aftermath of the disaster to support local and 
+state governments. Work with local authorities to assess the scope of the reunification 
+need, including the number of separated children, and determine the resources needed for 
+this stage of the disaster. 
+d. As the response matures, the strike teams return to the Joint Field Office and become part 
+of the Reunification Task Force. This task force works with local and state officials to 
+conduct reunification efforts. 
+e. Communicate concise, accurate information consistent with the ground truth to Federal 
+agency headquarters and identify one specific agency/organization responsible for 
+reporting this information to internal/external stakeholders, the public, news media, and 
+any others. 
+2. U.S. Department of Homeland Security 
+a. Federal Emergency Management Agency 
+FEMA’s mission is to support the Nation’s citizens and first responders to ensure that we 
+work together as a Nation to build, sustain, and improve our capability to prepare for, 
+protect against, respond to, recover from, and mitigate all hazards. 
+i. Federal Voluntary Agency Liaisons (VALs) 
+- Federal VALs are employed by FEMA to work with members of voluntary and 
+faith-based organizations and other stakeholders to help identify and coordinate 
+the delivery of goods and services to meet the needs of disaster survivors. Federal 
+VALs work closely with state and local VALs. 
+ 17 
+
+[PDF PAGE 24]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+ii. Mass Care and Emergency Assistance 
+- At the request of the state, activates the National Emergency Family Registry and 
+Locator System (NEFRLS) web link and call center. FEMA may also request that 
+NCMEC activate the NECLC call center and deploy Project ALERT personnel to 
+support the reunification of separated children and intake of information, and/or 
+deploy Team Adam personnel to the field to provide technical assistance to local 
+and/or state law enforcement in locating and reuniting displaced children with 
+their legal guardians. 
+- When requested, works with law enforcement officials to facilitate the 
+reunification of displaced disaster survivors with their families; inquiries specific 
+to children are referred to NCMEC. 
+- Provides reports generated from NEFRLS to contribute to the national and 
+common operating picture. 
+- Coordinates with national reunification partners, including NCMEC, HHS, and 
+the American Red Cross to support a cohesive plan for the reunification of adults 
+and children displaced in the aftermath of a Presidentially-declared disaster. 
+iii. Urban Search and Rescue 
+- Urban search and rescue involves the location, rescue (extrication), and initial 
+medical stabilization of victims trapped in confined spaces. Structural collapse is 
+most often the cause of victims being trapped, but victims may also be trapped in 
+transportation accidents, mines, and collapsed trenches. 
+b. U.S. Citizenship and Immigration Services: Coordinates procedures if parents, legal 
+guardians, or relatives of an unaccompanied minor are not located and the minor seeks to 
+stay in the United States. 
+c. U.S. Customs and Border Protection: Streamlines the process for transporting goods 
+across the border in support of an international disaster. 
+d. U.S. Immigration and Customs Enforcement: Establishes protocols for foster care of 
+undocumented immigrants. 
+3. U.S. Department of Education 
+a. Coordinates with other Federal agencies to promote school-centered reunification as part 
+of an all-hazards emergency management plan. If a disaster strikes during the school day, 
+generally speaking, school districts and individual schools are responsible for students 
+until they are reunited with their caregivers. In the event of a major disaster, first 
+responders and emergency managers should identify and locate school staff (e.g., 
+teachers, nurses, janitorial staff) to identify the party or parties within the respective 
+school responsible for the safety and well-being of unaccompanied minors. 
+b. Contingency plans may detail who is responsible for unsupervised students if teachers 
+and administrators are incapacitated or are otherwise unable to provide support. 
+18 
+
+[PDF PAGE 25]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+c. Provides a host of extant and emerging school-centered reunification resources as part of 
+a comprehensive, all-hazards emergency management plan to local and state educational 
+agencies.29 
+4. U.S. Department of Health and Human Services (ESF #6 [Mass Care, Emergency Assistance, 
+Housing, and Human Services] and ESF #8 [Public Health and Medical Services]) 
+a. Administration for Children and Families (ACF) (ESF #6) 
+i. The ACF is a Federal agency funding local and state organizations to provide 
+Temporary Assistance for Needy Families, child support, child care, Head Start, child 
+welfare, and other programs relating to children and families. Within ACF, the Office 
+of Human Services Emergency Preparedness and Response (OHSEPR) provides 
+leadership in human services preparedness, response, and recovery, promoting 
+resilience of individuals, families, and communities prior to, during, and after 
+nationally declared disasters and public health emergencies. ACF/OHSEPR, in 
+partnership with the 10 ACF Regional Offices, supports operations and policy in the 
+field of disaster human services, including efforts to meet the needs of children and 
+youth. 
+ii. During a large-scale event requiring the reunification of unaccompanied minors with 
+parents and legal guardians, ACF would work closely with FEMA’s Individual 
+Assistance Division’s Mass Care and Emergency Assistance Branch through a 
+mission assignment to better support local and state child welfare agencies. 
+iii. The ACF Office of Refugee Resettlement (ORR), Division of Unaccompanied 
+Children’s Services (DUCS) was created to provide care and placement for 
+unaccompanied alien children (UAC), though not necessarily separated from parents 
+or legal guardians as a result of a disaster. 
+- ORR/DUCS makes and implements placement decisions in the best interests 
+of the UAC to ensure placement in the least restrictive setting possible while in 
+Federal custody. 
+- The majority of UAC are cared for through a network of state-licensed, ORR-
+funded care providers that provide classroom education, mental and behavioral 
+health services, medical services, case management, and socialization/recreation. 
+- The majority of children are placed in the minimally restrictive setting of shelter 
+care. ORR/DUCS funds programs to provide a continuum of care for children, 
+including foster care, group homes, staff secure, secure, and residential treatment 
+centers. 
+b. Assistant Secretary for Preparedness and Response 
+i. Lead agency for Federal ESF #8. 
+ii. National Disaster Medical System (NDMS) assets, upon request, provide Federal 
+assistance in the form of medical, veterinary, and mortuary services. The NDMS also 
+29 U.S. Department of Education, “Readiness and Emergency Management for Schools.” http://rems.ed.gov. 
+ 19 
+
+[PDF PAGE 26]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+coordinates patient movement and definitive care for individuals being transported 
+away from a disaster site in order to receive medical care. 
+5. U.S. Department of Justice 
+a. The Office of Juvenile Justice and Delinquency Prevention (OJJDP) provides national 
+leadership, coordination, and resources to prevent and respond to juvenile delinquency 
+and victimization. OJJDP supports states and communities in their efforts to develop and 
+implement effective and coordinated prevention and intervention programs and to 
+improve the juvenile justice system so that it protects public safety, holds offenders 
+accountable, and provides treatment and rehabilitative services tailored to the needs of 
+juveniles and their families. 
+b. Currently, OJJDP is supporting this reunification initiative by coordinating with other 
+offices, bureaus, and divisions within DOJ to discuss strategies for overcoming 
+challenges that exist regarding the reunification of juveniles in the event of a disaster. 
+Specifically, OJJDP is focusing its efforts on the reunification of juveniles held in secure 
+confinement. It is anticipated that OJJDP’s outreach efforts will yield opportunities for 
+greater collaboration and enhanced processes for reunification. 
+6. U.S. Department of State 
+a. May assist in the evacuation and reunification of unaccompanied minors who cross 
+international boundaries following a disaster. 
+b. Coordinates with embassies and foreign governments regarding unaccompanied minors 
+who have been or need to be identified and reunified. 
+c. Notifies the appropriate consulate for individuals from countries that require such 
+notification. 
+Nongovernmental and Private Sector Organizations 
+Within the nonprofit sector, voluntary agencies are the cornerstone for the delivery of mass care 
+services following disasters. When incidents displace or otherwise disrupt survivors’ access to 
+life-sustaining goods and services, government agencies and stakeholders from the nonprofit and 
+private sector involved in the provision of human services activate to minimize pain and 
+suffering caused by disasters. In addition to the provision of shelter (including for household pets 
+and service animals), food, water, clothing, temporary respite care, and basic health, mental, and 
+behavioral health support, NGOs and private sector organizations also assist with family 
+reunification.30 
+1. National Center for Missing and Exploited Children 
+a. Serves as the Nation’s resource center on the issues of missing and sexually exploited 
+children. Provides information, training, technical assistance, and resources nationwide to 
+law enforcement, parents, children (including child victims), and other professionals. 
+30 Temporary respite care of children involves provision of a secure, supervised, and supportive play experience for 
+children in a Disaster Recovery Center, assistance center, shelter, or other service delivery site. Parents, guardians, 
+or caregivers should remain onsite and maintain responsibility for their child or children. 
+20 
+
+[PDF PAGE 27]
+Post-Disaster Reunification of Children: A Nationwide Approach 
+b. Works in partnership with Federal, state, and local law enforcement agencies to assist in 
+the reunification of displaced children with their parents or legal guardians. 
+c. Deploys Team Adam (retired law enforcement officials) to the location of a declared 
+disa

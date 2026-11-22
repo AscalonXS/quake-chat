@@ -1,0 +1,246 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Safety tips for travelers</title>
+    <meta name="description" content="This website provides international tourists in Japan with information about safe travel." />
+    <meta name="keywords" content="Safety tips for travelers" />
+    <meta property="og:site_name" content="Safety tips for travelers" />
+    <meta property="og:title" content="Safety tips for travelers" />
+    <meta property="og:image" content="https://www.jnto.go.jp/safety-tips/common/images/ogimage.png" />
+    <meta property="og:description" content="This website provides international tourists in Japan with information about safe travel.">
+    <meta property="og:url" content="https://www.jnto.go.jp/safety-tips/" />
+    <meta property="og:type" content="website" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,shrink-to-fit=no">
+    <link rel="shortcut icon" href="../common/images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,500,600" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="../common/css/normalize.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/layout_sp.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="../common/js/common.js"></script>
+
+</head>
+<body>
+    <header>
+        <div class="language_area">
+            <div class="inner">
+                <div class="btn_language viewpc">
+                    <ul class="btn_language">
+                        <li class="btn_language_single">
+                            <a href="index.html" class="init-bottom">English</a>
+                            <ul class="btn_language_second-level">
+                                <li class="eng"><a href="../eng/index.html">English</a></li>
+                                <li class="kor"><a href="../kor/index.html">한국어</a></li>
+                                <li class="chc"><a href="../chc/index.html">繁體中文</a></li>
+                                <li class="chs"><a href="../chs/index.html">简体中文</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div id="languageMenuS" class="viewsp">
+                    <!--languageMenuS start-->
+                    <div id="top-head">
+                        <div id="mobile-head">
+                            <div id="nav-toggle">
+                                <div>
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+                        <nav id="language-nav">
+                            <ul>
+                                <li class="eng"><a href="../eng/index.html">English</a></li>
+                                <li class="kor"><a href="../kor/index.html">한국어</a></li>
+                                <li class="chc"><a href="../chc/index.html">繁體中文</a></li>
+                                <li class="chs"><a href="../chs/index.html">简体中文</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div><!-- languageMenuS end-->
+            </div>
+        </div>
+        <section class="topimage">
+            <div class="inner">
+                <div class="logo_jed"><img src="../common/images/logo_jed.png" alt="" /></div>
+                <h1><img src="../common/images/logo_stft.png" alt="Safety tips for travelers" /></h1>
+                <h2>This website provides international tourists in Japan <br class="viewpc">with information about safe travel <br class="viewpc">and natural disaster information notice.</h2>
+
+
+
+                <ul class="mainmenu">
+                    <li class="safetytips_on"><a href="index.html">Home</a></li>
+                    <li class="emergency"><a href="emergency/index.html">In the event <br class="viewpc">of an emergency</a></li>
+                    <li class="cmcard"><a href="cmcard/index.html">Helpful <br class="viewpc">Phrases</a></li>
+                    <li class="app"><a href="app.html">The App <br class="viewpc">“Safety tips”</a></li>
+                </ul>
+            </div>
+        </section>
+    </header>
+    <main class="top">
+        <div class="inner">
+            <div class="breadcrub">
+                HOME
+            </div>
+            <div class="index_contents">
+                <section class="top_left">
+                    <article class="marginbottom40">
+                        <h3><span></span>Weather Information</h3>
+                        <p class="marginbottom20">Japan’s daily weather information</p>
+                        <ul class="sublink floatleft">
+                            <li><a href="https://www.jma.go.jp/bosai/#lang=en&pattern=default" target="_blank">Daily Forecasts</a></li>
+                        </ul>
+                    </article>
+                    <article class="padding0">
+                        <h3 class="line2 font_small"><span></span>Weather Warnings<br>and Advisories</h3>
+                        <p class="marginbottom20">Latest weather warnings / advisories and earthquake information provided by the Japan Meteorological Agency</p>
+
+                        <ul class="sublink">
+                            <li><a href="https://www.jma.go.jp/bosai/#lang=en&pattern=default" target="_blank">Weather Warnings/Advisories</a></li>
+                            Warnings/Advisories currently issued by Japan Meteorological Agency.
+                        </ul>
+                        <ul class="caplink">
+                            <li><a href="https://www.jma.go.jp/bosai/#lang=en&pattern=default" target="_blank">Tsunami Warnings/Advisories</a></li>
+                        </ul>
+                        <ul class="sublink">
+                            <li><a href="https://www.jma.go.jp/bosai/#lang=en&pattern=default" target="_blank">Earthquake Information</a></li>
+                            The latest information on earthquakes announced by Japan Meteorological Agency.
+                        </ul>
+                        <ul class="caplink">
+                            <li><a href="https://www.jma.go.jp/jma/en/Activities/intsummary.pdf" target="_blank">JMA Seismic Intensity Scale</a></li>
+                        </ul>
+                    </article>
+                    <article>
+                        <h3><span></span>Search from map</h3>
+                        <ul class="sublink floatleft">
+                            <li><a href="https://tic.jnto.go.jp/eng/index.php" target="_blank">Tourist Information Centers in Japan</a></li>
+                        </ul>
+                    </article>
+                </section>
+                <section class="top_right">
+                    <article>
+                        <h3><span></span>News</h3>
+                        <p class="marginbottom20">You can access Japan’s latest news on the websites.</p>
+                        <ul class="sublink">
+                            <li><a href="https://www3.nhk.or.jp/nhkworld/index.html" target="_blank">NHK WORLD</a></li>
+                            (Japan's only public broadcaster)
+                            <li><a href="https://japannews.yomiuri.co.jp/" target="_blank">The Japan News by The Yomiuri Shimbun</a></li>
+                        </ul>
+                    </article>
+                    <article>
+                        <h3><span></span>Transportation</h3>
+                        <p class="marginbottom20">Transportation and transit information</p>
+                        <ul class="sublink">
+                            <li><a href="transportation.html">Transportation</a></li>
+                        </ul>
+                    </article>
+                    <article>
+                        <h3><span></span>Contact list</h3>
+                        <p class="marginbottom20">Contact lists helpful if you have a problem while traveling in Japan</p>
+                        <ul class="sublink">
+                            <li><a href="embassy.html">Embassies</a></li>
+                            <li><a href="media.html">News media</a></li>
+                            <li><a href="https://www.jnto.go.jp/emergency/eng/mi_guide.html" target="_blank">Guide for when you are feeling ill</a></li>
+                        </ul>
+                    </article>
+                </section>
+            </div>
+            
+            <section class="top_wide">
+                <article>
+                    <h3 class="spline2 font_small"><span></span>Useful tips to protect <br class="viewsp">yourself from an disaster</h3>
+                    <p class="marginbottom20">Information useful during a disaster</p>
+
+                    <div class="protectimg">
+                        <div class="width70">
+                            <img src="../common/images/fig01.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="useful_right">
+                        <h4>Earthquake Early Warnings</h4>
+                        <p>
+                            When the Japan Meteorological Agency expects a strong vibration to occur immediately after an earthquake, it issues advance warnings as quickly as possible to provide all areas in Japan with information about estimated arrival times and seismic intensities.<br>
+                            The Earthquake Early Warning alarm, along with special sound, is broadcasted on TV, radio, cell phones, and smartphones.<br>
+                            When you see or hear an Earthquake Early Warning, you should remain calm and ensure your safety first depending on the situation, even if you do not feel the vibrations.
+                        </p>
+                    </div>
+
+                    <br clear="all">
+                    <div class="protectimg">
+                        <div class="width90">
+                            <img src="../common/images/fig05.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="useful_right">
+                        <h4>Tsunami Warnings</h4>
+                        <p>
+                            If the Japan Meteorological Agency expects a tsunami to cause any damage, it issues a warning approximately three minutes after an earthquake.<br>
+                            When there is a strong or weak but long-lasting vibration, you should start evacuating. Also, do not evaluate the safety situation yourself but evacuate to a more elevated place regardless. Remain in a safe location until the Tsunami Warning is cancelled because tsunamis strike repeatedly over a long period.
+                        </p>
+                    </div>
+
+                    <br clear="all">
+                    <div class="protectimg">
+                        <div class="width90">
+                            <img src="../common/images/fig04.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="useful_right">
+                        <h4>Weather Warnings</h4>
+                        <p>The Japan Meteorological Agency issues "Advisories" when heavy rain or strong winds may cause damage and "Warnings" when a serious disaster may occur. Also, the Agency issues "Emergency Warnings" to alert the public to the strong possibility of a devastating disaster, one that occurs every several decades.</p>
+                    </div>
+
+                    <br clear="all">
+                    <div class="protectimg">
+                        <div class="width90">
+                            <img src="../common/images/fig06.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="useful_right">
+                        <h4>Volcanic Warnings / Forecasts and Eruption Notices</h4>
+                        <p>
+                            The Japan Meteorological Agency provides Volcanic Warnings / Forecasts about 110 active volcanoes in Japan to reduce damage caused by volcanic eruption.<br>
+                            Also, the Agency issues Eruption Notices to immediately announce that a volcano has erupted and to encourage people to take the necessary action to protect themselves.
+                        </p>
+                    </div>
+
+                    <br clear="all">
+                    <div class="protectimg">
+                        <div class="width90">
+                            <img src="../common/images/fig03.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="useful_right">
+                        <h4>Building Safety</h4>
+                        <p>
+                            In Japan, earthquake resistant structures have widely been deployed for houses and buildings, and most buildings are fairly resistant to earthquakes.<br>
+                            If you are in such a building during an earthquake, do not go outside until it is safe.
+                        </p>
+                    </div>
+
+                    <br clear="all">
+                    <div class="protectimg">
+                        <div class="width90">
+                            <img src="../common/images/fig02.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="useful_right">
+                        <h4>Designated Evacuation Shelters</h4>
+                        <p>
+                            A Designated Evacuation Shelter is a facility where residents can stay for the necessary period until there is no more risk of disaster damage or acts as a temporary home for residents who cannot return home due to a disaster.<br>
+                            Public facilities, including schools and community centers, will be designated as evacuation shelters by local governments in the area. Some hotels or Japanese inns are designated to accept evacuated residents during a disaster. Please confirm with your accommodation.
+                        </p>
+                    </div>
+                </article>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <p><a href="about.html">About this website</a></p>
+        <small>Copyright © Japan Tourism Agency. All Rights Reserved.</small>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,370 @@
+[PDF PAGE 1]
+Fire Following Earthquake
+CHARLES SCAWTHORN
+Dames & Moore
+500 Sansome Street
+San Francisco, California 94111, USA
+ABSTRACT
+Fires following earthquakes have caused the largest single losses due
+to earthquakes in the United States and Japan. The problem is very
+seriously regarded in Japan, but not very seriously considered in the US or
+other earthquake-prone countries. Yet, the potential for future conflagra­
+tions following earthquakes is substantial. Earthquakes in the US in 1983
+and 1984 have recently highlighted this problem. The scenario for post­
+earthquake fire must consider structural and non-structural damage, initial
+and spreading fires, wind, building density, water supply functionality and
+emergency response. Each of these factors is reviewed in this paper, and
+an analytical model and preliminary results for San Francisco, California
+are presented.
+INTRODUCTION
+Although many aspects of fire and earthquakes have been investigated in
+recent years, one aspect that has seen very little treatment has been the
+subject of fire spread in an urban region following an earthquake, herein
+termed post-earthquake fire. This problem is important in cities in Japan,
+the US and other countries which have a large building stock composed pri­
+marily of wood. This is true of all Japanese cities, and most cities in
+the US, especially the seismically active West (e.g., Los Angeles,
+San Francisco). This hazard also exists with regard to industrial installa­
+tions, such as oil refineries, large factories, chemical plants and
+installations dealing with hazardous materials. The problem is an especially
+complex and challenging one, since an earthquake has the potential for ini­
+tiating a chain of events involving damage to structures and to lifelines
+such as water supply, gas, electricity, transportation and communications
+systems, that can turn a moderately damaging seismic event into a
+conflagration of disastrous proportions.
+In Japan, the problem is very seriously regarded, which is appropriate
+given the holocaust that occurred in Tokyo on sept. 1, 1923, as well as
+Japan's history of conflagrations in general. Indeed, in Japan earthquakes
+are feared equally for post-earthquake fire, on the one hand, and for
+shaking, tsunami, liquefaction and landslide damage on the other.
+However, in the US and most other earthquake-prone countries, the
+problem is largely ignored, which is strange since in the US as well as in
+FIRE SAFETY SCIENCE-PROCEEDINGS OF THE FIRST INTERNATIONAL SYMPOSIUM 971
+
+Copyright © International Association for Fire Safety Science
+
+[PDF PAGE 2]
+Japan the single most damaging earthquake of the twentieth century has
+actually been a post-earthquake fire. This refers, of course, to
+San Francisco 1906 and Tokyo 1923. In 1906, 80% of the damage in
+San Francisco was due to fire, amounting to a burnt area of 12.2 sq. kID.,
+28,000 buildings in all. At today's prices, this would be about $3 billion.
+Little appreciated today is that fires occurred throughout the heavily
+shaken portions of California, and that the central business district of
+the city of Santa Rosa was also destroyed by fire in 1906. Tokyo's
+conflagration in 1923 was much worse, burning 38.3 sq. kID. and reaching
+firestorm proportions, with a tragic death toll of about 140,000.
+POST-EARTHQUAKE FIRE CONSIDERATIONS
+The post-earthquake fire problem is complex and involves many diverse
+elements (Figure 1). It begins with the occurrence of the earthquake,
+which causes structural and non-structural damage to buildings, lifelines,
+fire stations, communications networks, etc. Structural damage results in
+the loss of integrity of many of the fire safeguards we rely upon, such as
+firewalls/stops/doors, etc., fireproof wall and roof coverings (i.e., loss
+of stucco, brick, et c , , wall coverings), sprinkler systems, fire alarms,
+etc. Additionally, damage occurs to urban lifelines such as water supply,
+transportation, communications, etc.
+EARTHQUAKE OCCURS: Structural damage,
+failure of lire-resistant construction,
+firewalls, sprinklers, etc.
+t
+FIRES break out and spread, depending on
+building properties, wind, etc., before
+firefighting teams arrive.
+~
+FIREFIGHTING teams fight fires, but also
+respond to other emergencies, such as chemical
+spills, building colapses, etc. Since all fires
+may not be responded to, some fires spread.
+Firefighting also impaired due to loss of funct-
+ionality of water supply, communications, etc.
+~
+RESULT: Some small fires, or conflagration?
+Figure 1. Simplified Scenario for the Post-Earthquake Fire Problem
+972
+
+[PDF PAGE 3]
+Beyond physical damage, the shaking causes fires to break out, due to a
+variety of causes including overturning of open flames (candles, fireplaces,
+water heaters), electrical short circuits, arcing of power lines, hot
+equipment coming into contact with debris, friction or sparking of articles
+during the shaking itself, etc. Many of these fires can quickly and easily
+be put out by citizens if the citizens are uninjured, aware of the fire,
+can get to it and have the means with which to fight it. Experience shows
+that citizens are capable of doing this in a good percentage of the initial
+fires (Ref. 1). However, because of people not being aware of some of
+these fires in the initial stage, or not being able to put a fire out, some
+fraction of initial fires spread to the stage where they require well­
+equipped firefighting teams. This fire spread is initially within the
+compartment, then the building. Fire spreading to neighboring buildings
+may be gradual or rapid, depending on the spacing and exposure between
+buildings, the materials of the buildings and their contents, the damage to
+these materials, the wind and the emergency response. Wind is an especially
+critical factor since inter-building fire spreading velocity increases
+exponentially with wind speed.
+Historically, this experience has been borne out by several earth-
+quakes:
+Earthquake and year Number of Initial Fire Outbreaks
+San Francisco 1906 50
+Tokyo (Japan) 1923 129
+Fukui (Japan) 1948 24
+San Fernando 1971 109
+Coalinga 1983 19*
+*15 grass fires; 4 buildings
+Most recently, the 1983 Coalinga and 1984 Morgan Hill, California
+earthquakes have pointed out the potential for major post-earthquake fires
+(Refs. 10, 11). These two events highlighted several lessons, including:
+Fire departments functioned well but were inundated with numerous
+demands involving not only fire but structural damage, search and
+rescue, hazardous material incidents and medical aid.
+Communications were seen to be extremely vital but highly
+vulnerable, especially with regard to reporting initial fires to
+the fire departments.
+Fire departmental response can be retarded, due to the following
+factors:
+1. delays in reporting the fires, due to telephone overload
+2. delays in proceeding to the fire, due to rubble-blocked roads,
+landslides, downed wires, traffic jams, etc.
+3. problems at the scene, including downed wires, collapsed
+buildings, and especially, lack of water due to damaged mains
+or, less frequently, insufficient pressure.
+973
+
+[PDF PAGE 4]
+Restoration of utilities (gas and electricity) can result in
+delayed fires, at the time of the service restoration. This can
+be hours to days after the initial disaster. Restoration needs
+careful thought as to how and when to reconnect an area. Con­
+sideration might be given to not restoring service before individ­
+uals are present in every structure (with public officials author­
+ized to enter those structures whose owners are not available in
+in order to check for fire or gas leaks, and for standby fire
+units to be in place in the area at the time of utility restora­
+tion.
+The diversity, significance and complexities of fires following earth­
+quakes are evident. This complexity requires simulation modeling, which
+has rarely been applied to this problem (Refs. 2-4).
+ANALYTICAL MODELING
+This section reviews some previous analytical modeling of the author,
+performed in Japan, and presents some preliminary results of ongoing work.
+Scawthorn et al. (Refs. 4,9) presented an analytical methodology for the
+probabilistic estimation of losses due to fire following earthquake in an
+urban setting, Figure 2. That work, which was conducted in Japan and
+utilized the city of Osaka as a case study area, showed that fire following
+earthquake was related to patterns of overall seismic damage and, under
+certain circumstances, could be more significant than damage due to general
+shaking (as indeed it had proven several times historically). Table 1 for
+example indicates total expected fire and shaking losses for the city of
+Osaka, Japan under two hypothetical but realistic earthquake scenarios.
+These losses are for direct structural material losses only, not including
+any human casualty equivalents or indirect social losses.
+TABLE 1: Comparison of Post-earthquake Fire Spreading and Other Losses
+for Osaka, Japan* (after Ref. 4)
+13
+17
+o
+Damage Agent
+(low-rise bldgs. only)
+Fire
+Shaking
+Liquefaction
+Annual
+45
+80
+20
+Losses (US $ millions)
+M 6.5 ~ 40 km, M 8.0 @ 160 km,
+188
+158
+3.4
+*(Osaka has a population of 2.8 million people, and an area of 208 sq. kIn.)
+More recently, the author has extended this methodology and is presently
+employing it to examine the effects of a major earthquake on the city of
+San Francisco (population 700,000, area 125 sq. kms }; Figure 3 shows
+San Francisco and the distribution of fire stations (symbols) and engine
+companies (numbers), while Figure 4 shows seismic intensity in the Modified
+Mercalli Intensity scale (MMI) for San Francisco, given a magnitude 8.3
+earthquake on the San Andreas fault similar to the 1906 event. Seismic
+intensity is determined according to the interaction of intensity of ground
+shaking (decreasing with distance from an earthquake fault) and local site
+974
+
+[PDF PAGE 5]
+geologic effects, which may increase or decrease seismic intensity_ Note
+that the city generally sustains about MMI VII+ (significant structural
+damage) although MMI IX (heavy damage, some collapse) is exceeded, especially
+in the eastern portion of the city where old marshy areas will experience
+g round f ad Lure ,
+fire ipruds to ot"~r bl,l;ld'f1g5 from
+I.th initial fir-e. Fire $prUc!il"lg by
+KafYWId. IrlOdt1 •
+r--------
+I
+I
+I
+I
+I
+I
+I
+I
+A
+• nrHj,,'
+'APE'cUd
+lou
+!
+I
+I '['LI.') • •[fLIIl,.. ''''II,o),[,oID)'[D''')
+I
+I
+I
+I
+I for .il SA
+L -<C----
+L:.:.:..:.:....~:.:..:.;:...::.r-..:;.;,;.,;"--'-"'--'
+Figure 2 Schematic Diagram of Analytical Methodology (Reference 9)
+975
+
+[PDF PAGE 6]
+Figure 3 San Francisco Fire Department Fire Station Locations
+--------'"""1122,375 N
+San Fweiseo hs~8 (: ,
+(: 18
+.IJlU~-+hy Bl'idge(: 11 •••••••••••••••••••••••••••••• ••••.
+(: 12 1!+~l!t:tl-'+
+.tt:: :::::!t::: ::::::::::::::::::
+GC luk
+Figure 4 MMI Intensities for San Franciaco for a MS.3 on the San Anreas Fault
+Initial fire outbreaks are next determined, as a function of seismic
+intensity, building structural characteristics and occupancy. Initial fire
+outbreaks are due to a variety of sources, including gas pipe breakage
+(e.g., overturning water heaters), open flames (e.g., candles), electrical
+976
+
+[PDF PAGE 7]
+malfunctions (e.g., damaged wires, malfunctioning appliances), reactions of
+spilled chemicals, etc. We consider fire outbreaks which are not extin­
+guished by local citizens. That is, we only consider fires which grow to
+considerable size, and require trained fire fighting personnel and equip­
+ment. While deterministic analyses for initial fire outbreak rate are con­
+ceptually possible, present data are insufficient. Instead, based on past
+US and Japanese earthquake experience, regressions have been performed to
+determine initial fire outbreak as a function of seismic intensity and
+occupancy. Employing these correlations together with building and seismic
+intensity distributions, we see in Figure 5 that about 27 fires will occur.
+This initiation of fire occurrence is based on a random Poisson process,
+and is not unique as to specific fire location or total number. Numerous
+trials have shown that the total number of fires is usually in the range of
+25-35, with similar patterns of occurrence.
+Each of these fires requires response by at least one of San
+Francisco's 41 fire engines. There are insufficient engines to respond to
+each fire under standard procedures and, if we assume that at least one
+engine responds to each fire, we can estimate engine arrival time at each
+fire under post-earthquake conditions, Table 2. We see that several of the
+fires can be suppressed but that many of the fires are mul t i-ea Larm in
+nature, requiring several or more engines and other resources. Alter­
+natively, if normal multi-engine response procedures are employed, then
+some fires cannot be responded to. Note that ordinary mutual-aid assump­
+tions will be inappropriate in this situation, since neighboring jurisdic­
+tions will have their own problems. This example is for a 10 mph wind from
+the west. Under such a scenario we can see that one or more large spread­
+ing fires are likely. These results are preliminary, and studies are being
+performed to simulate subsequent fire department response, fire develop­
+ment, and water supply damage.
+122.315 N
+San rl'i/lcisco lay
+A A
+A A
+A A
+«Puk
+A A
+tK A
+A
+Figure 5 Initial Outbreak of Fires for llMI Distribution in Figure 4
+977
+
+[PDF PAGE 8]
+Table 2 Magnitude 8.3 San Andreas Event Scenario.
+San Francisco: Initial Fire Department Response and Demand
+Wind v.loc:ity 10 mph from azimuth 270 INITIAL RESPONSE
+1"11". T(arr1vall 1"11". Vel. A(Surnt) 11I0. Burnt Lo.a FFlow No.Eng•• No.Per••
+(mina) <ft/min) (aere.) Blelll· <.mil) <Ml:lpm) Reqel. R.qel.
+1 10.5 9.2 0.2 2.2 0.2 1.3 2 11
+2 6.2 7.6 0.1 1.6 0.1 1.0 1 8
+3 8.1 8 .... 0.1 2.8 0.2 1.7 2 1...
+... 7 .... 8. 1 0.1 1. 1 0.1 0.6 1 5
+5 8.5 8.5 0.1 1.3 0.1 0.8 1 7
+6 19.9 11.4 0.8 18.7 1.4 11.1 15 93
+7 21.8 11.7 1.0 22.9 1.7 13.6 18 113
+8 6.2 7.6 0.1 1.6 0.1 1.0 1 8
+9 15.2 10.6 0.4 3.8 0.3 2.3 3 19
+10 8.1 8.4 0.1 2.8 0.2 1.7 2 1...
+11 11.6 9.6 0.3 2.4 0.2 1.4 2 12
+12 9.7 9.0 0.2 10.0 0.7 5.9 8 49
+13 8.1 8.5 0.1 6.4 0.5 3.8 5 32
+1... 15.6 10.... 0.6 26.0 2.0 15.5 21 129
+15 7 .... 8.2 0.1 5.0 0 .... 2.9 ... 25
+16 10.5 9.2 0.2 2.2 0.2 1.3 2 11
+17 10.5 9.2 0.2 10.0 0.7 5.9 8 49
+18 1:5.2 10.3 0.5 22.8 1.7 13.5 18 113
+19 8.5 4.9 0.1 2.5 0.2 1.5 2 12
+20 12.4 9.7 0.3 14.4 1. 1 8.6 11 71
+21 5.0 6.2 0.1 5.6 0.4 3.3 4 28
+22 6.2 4.7 0.0 1.5 0.1 0.9 1 8
+23 9.3 8.8 0.1 1.3 0.1 0.8 1 7
+24 14.7 10.7 0.3 1.6 0.1 1.0 1 8
+25 9.3 8.7 0.1 0.6 0.0 0.3 0 3
+26 9.3 8.8 0.1 1.3 0.1 0.8 1 7
+27 11.6 9.7 0.2 1.0 0.1 0.6 1 5
+6.6 173.5 13.0 103.04 137 859
+978
+
+[PDF PAGE 9]
+CONCLUDING REMARKS
+Large post-earthquake fires are a low probability, high consequence
+event. The largest fires in the US and Japan in this century have been due
+to post-earthquake fire. Adequate preparation and response for fire
+following earthquake is extremely difficult but is aided by analytical
+modeling as presented herein. This modeling shows that, on average, post
+earthquake fire spreading is less of a problem than direct structural
+damage due to shaking, but that there exist situations where this may be
+reversed.
+ACKNOWLEDGEMENTS
+This work was initiated in Japan under a grant from the Japanese
+Ministry of Education, and is continuing under a grant from the US National
+Science Foundation, program managers Drs. G. Albright, F. Krimgold and W.
+Anderson. Numerous individuals and institutions have aided the author,
+including Drs. M. Kobayashi, 1. Oppenheim, P.H. Thomas, Chief E. Condon
+(SFFD), R. Reitherman, the Danish Fire Prevention Committee and the San
+Francisco, Oakland, San Jose, Morgan Hill and Coalinga Fire Departments.
+Many others have been omitted due to lack of space.
+REFERENCES
+1. Kobayashi, M., Urban Post-Earthquake Fires in Japan, 8th World Con­
+ference on Earthquake Engineering, San Francisco, 1984.
+2. Mizuno, H., On Outbreak of Fires in Earthquakes, Dissertation, Kyoto
+Univ., Kyoto, Japan, 1978 (in Japanese).
+3. Kobayashi, M., A Systems Approach to Urban Disaster Planning, Dis­
+sertation, Kyoto Univ., Kyoto, Japan, 1979 (in Japanese).
+4. Scawthorn, C., Lifeline Effects on Post-Earthquake Fire Risk, Proc.,
+Lifeline Earthquake Engineering, Am. Soc. Civil Engineers, Oakland,
+1981.
+5. Namba, S., Fire Estimation, Urban Disasters and Land Use Planning,
+Dissertation, Kyoto Univ., Kyoto, Japan, 1983 (in Japanese).
+6. California Div. Mines and Geology, Earthquake Planning Scenario for a
+Magnitude 8.3 Earthquake on the San Andreas Fault in the San Francisco
+Bay Area, Special Publication 61, Sacramento, 1982.
+7. Tokyo Metropolitan Government, A Report on Estimated Earthquake Damage
+in Tokyo's Wards, Tokyo Disaster Prevention Committee, Tokyo, 1978 (in
+Japanese) •
+8. Oppenheim, 1.J., Modeling Earthquake-Induced Fire Loss, 8th World
+Conference on Earthquake Engineering, San Francisco, 1984.
+9. Scawthorn, C., Yamada, Y. and Iemura, H., A Model for Urban
+Post-Earthquake Fire Hazard, DISASTERS, The International Journal of
+Disaster Studies and Practice, v. 5, no. 2, pp. 125-132, London, 1981.
+10. Scawthorn, C. and Donelan, J., Fire-related Aspects of the Coalinga
+Earthquake, in Reconnaissance Report, Coalinga Earthquake of May 2,
+1983, Earthquake Engineering Research Institute, Berkeley, 1984.
+11. Scawthorn, C., Bureau, G., Jessup, C. and Delgado, B., Fire-related
+Aspects of 14 April 1984 Morgan Hill Earthquake, in The 1984 Morgan
+Hill, California Earthquake, Special Publication of California
+Department of Conservation, Division of Mines and Geology, 1984.
+979

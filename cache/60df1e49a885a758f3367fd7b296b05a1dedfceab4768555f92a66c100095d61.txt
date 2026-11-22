@@ -1,0 +1,513 @@
+Water Storage for Earthquake Emergencies: Complete Guide 2026
+Published: January 16, 2026 • 46 min read
+Water is the most critical resource after major earthquakes. Municipal water systems typically fail within
+ minutes—broken pipes, contaminated treatment facilities, power outages at pump stations. After significant
+ earthquakes, water service restoration takes 3-14 days minimum, often weeks in severely damaged areas, and
+ occasionally months for complete system repair. During this period, your stored water supply determines
+ whether your family thrives, suffers, or faces life-threatening dehydration.
+FEMA recommends one gallon per person per day, but this bare minimum assumes perfect conditions and covers
+ only drinking and minimal hygiene. Reality requires more—cooking, sanitation, first aid, pets, children, hot
+ weather, and medical conditions all increase water needs. This comprehensive guide covers exactly how much
+ water to store, the best storage methods and containers, purification techniques, rotation schedules, and
+ alternative water sources when stored supplies run low.
+How Much Water to Store: Calculating Your Needs
+The Minimum: FEMA Standard
+FEMA's baseline recommendation:
+1 gallon per person per day for 14 days
+For a family of four: 4 people × 1 gallon × 14 days =
+56 gallons minimum
+This covers:
+Drinking: 0.5 gallons per person per day
+Food preparation: 0.25 gallons per person per day
+Basic hygiene: 0.25 gallons per person per day
+However, this is truly bare minimum survival, not comfortable or realistic for extended emergencies.
+The Reality: Comprehensive Water Needs
+Realistic water consumption for actual earthquake conditions:
+Per Person Daily Water Needs:
+Drinking:
+0.5-1 gallon (varies by temperature, activity level, health)
+Cooking:
+0.5 gallons (soaking beans, cooking rice, preparing meals)
+Hygiene:
+1-2 gallons (washing hands, face, body, brushing teeth)
+Sanitation:
+0.5-1 gallon (cleaning dishes, utensils, surfaces)
+First aid:
+0.25 gallons (wound cleaning, medication preparation)
+TOTAL: 2.75-4.75 gallons per person per day
+Using conservative
+3 gallons per person per day
+:
+Family of 4 for 14 days = 4 × 3 × 14 =
+168 gallons
+Additional Considerations
+Infants and Small Children:
+Infants on formula: add 1 gallon per day per infant (mixing formula, sterilizing bottles)
+Toddlers: standard per-person calculation applies
+Children drink more frequently than adults in stress situations
+Elderly and Medical Conditions:
+Diabetes, kidney disease, heart conditions: may require increased water intake
+Medications increasing dehydration: add 0.5 gallons per person per day
+Dialysis patients: consult doctor for specific needs (can be 8+ gallons per treatment)
+Pets:
+Dogs: 0.5-1 ounce per pound of body weight per day (50 lb dog = 3-6 cups = 0.2-0.4 gallons)
+Cats: ~0.25 cups per 5 pounds (10 lb cat = 0.5 cups = 0.03 gallons)
+Large dogs: add 0.5 gallons per day
+Multiple pets: calculate for each individually
+Climate and Season:
+Hot climates: increase by 50% (Arizona summer: 4.5 gallons per person vs 3 gallons)
+Cold climates: standard amounts sufficient but account for frozen water issues
+Humid vs dry: dry climates require more hydration
+Activity Level:
+Post-earthquake cleanup, debris removal, repairs increase water needs
+Add 1-2 gallons per person per day during heavy physical activity
+💡 The 30-Day Goal:
+While 14 days is standard, major earthquakes can disrupt water for 30+
+ days. Aim for 30 days of water storage if space and budget allow. For a family of 4 at 3 gallons/person/day,
+ this is 360 gallons—achievable through combination of stored water, water heater reserves, and purification
+ capabilities.
+Water Storage Containers: What Works and What Doesn't
+Food-Grade Water Storage Containers
+Not all containers are safe for water storage. Use only food-grade containers specifically designed for
+ water.
+Best Options:
+1. Commercial Water Storage Barrels (55 gallons)
+Pros:
+Large capacity, durable, stackable, designed specifically for water, often
+ include spigots
+Cons:
+Heavy when full (460 lbs), not portable, require floor space, need pump/siphon
+ for access
+Cost:
+$60-120 per barrel
+Best for:
+Long-term home storage in garage, basement, or utility room
+2. Water Bricks/WaterBricks (3.5 gallons)
+Pros:
+Stackable, portable (29 lbs full), durable, multi-purpose (also stores dry
+ goods), earthquake-resistant design
+Cons:
+More expensive per gallon, need many units for large families
+Cost:
+$25-35 each ($7-10 per gallon capacity)
+Best for:
+Apartments, homes with limited space, those wanting portable/modular storage
+3. 5-7 Gallon Water Jugs
+Pros:
+Portable (40-60 lbs full), affordable, widely available, easy to rotate, include
+ handles
+Cons:
+Take up floor space, can be awkward to stack, plastic degrades over time
+Cost:
+$10-20 each ($1.50-3 per gallon capacity)
+Best for:
+Most households, good balance of capacity and portability
+4. 1-Gallon Water Jugs
+Pros:
+Very portable (8.3 lbs full), easy to distribute/share, individual daily rations,
+ inexpensive
+Cons:
+Takes lots of storage space, many containers to manage, more plastic waste
+Cost:
+$1-2 each at retail
+Best for:
+Supplemental storage, grab-and-go kits, vehicle kits, distribution
+5. Water BOBs (Bathtub Bladders - 100 gallons)
+Pros:
+Massive capacity, filled on-demand when earthquake warning issued, food-grade
+ liner protects from tub contamination
+Cons:
+Requires advance warning (not helpful for no-warning earthquakes), single-use
+ typically, needs functional water supply to fill
+Cost:
+$20-35
+Best for:
+Emergency backup when you have earthquake early warning alert, not primary
+ storage
+Containers to AVOID
+Never use for water storage:
+Milk jugs:
+Thin plastic biodegrades quickly, impossible to fully clean, protein residue
+ promotes bacteria
+Juice bottles:
+Sugar residue, difficult to sanitize completely
+Non-food-grade containers:
+May leach harmful chemicals into water
+Containers that held toxic substances:
+Never safe regardless of cleaning
+Glass containers in earthquake zones:
+Shattering risk during shaking
+Metal containers (non-stainless):
+Corrosion, chemical leaching, taste contamination
+🚨 BPA Warning:
+Some plastic water containers contain BPA (Bisphenol A), which can leach
+ into water especially when containers are exposed to heat or sunlight. Look for containers explicitly
+ labeled "BPA-free" or made from HDPE #2 plastic, which doesn't contain BPA. Avoid polycarbonate containers
+ with recycle code #7 unless marked BPA-free.
+Where to Store Water: Location Strategies
+Ideal Storage Locations
+Cool, Dark, Stable Areas:
+Basement:
+Cool temperature, away from sunlight, concrete floor supports weight, often
+ has extra space
+Interior closets:
+Temperature-stable, dark, protected from window damage
+Under stairs:
+Structurally strong location, often unused space
+Garage:
+Large capacity, easy access, but temperature fluctuations are concern (see
+ warnings below)
+Utility room:
+Often has water heater already, can group emergency supplies
+Multi-Location Strategy
+Don't store all water in one location—earthquakes may make some areas inaccessible:
+Primary storage (75%):
+Bulk storage in basement/garage (barrels, large jugs)
+Secondary storage (15%):
+Different floor or part of house (5-gallon jugs, WaterBricks)
+Grab-and-go (10%):
+Emergency kits, vehicle kits (1-gallon bottles)
+Storage Location Warnings
+Avoid:
+Direct sunlight:
+Promotes algae growth, degrades plastic, increases BPA leaching
+Near chemicals:
+Gasoline, pesticides, paint—plastic can absorb vapors
+On concrete floors (controversial):
+Old advice said concrete leaches chemicals into
+ plastic, but modern food-grade plastic is fine on concrete; main concern is temperature transfer from
+ cold concrete
+Against exterior walls in cold climates:
+Freezing risk
+High shelves:
+Heavy containers falling during earthquakes, difficulty accessing
+Unventilated hot spaces:
+Attics in summer can exceed 150°F, damaging containers and
+ water quality
+Temperature Considerations
+Ideal storage temperature:
+50-70°F (10-21°C)
+Below 40°F:
+Freezing risk—water expands and bursts containers
+Above 80°F:
+Accelerates plastic degradation, increases bacterial growth potential
+Temperature fluctuations:
+Avoid locations with large daily temperature swings
+For garage storage (common but temperature varies):
+Insulate area around water storage
+Use thermal blankets over containers in extreme temperatures
+Elevate containers off floor (plastic pallets, wood boards)
+Increase rotation frequency (every 6 months instead of 12)
+Water Preparation and Treatment
+Preparing Tap Water for Storage
+If storing municipal tap water that's already treated with chlorine:
+Use clean, sanitized containers
+—wash with soap and water, rinse thoroughly
+Fill containers from tap
+—municipal water already has residual chlorine (0.2-2.0 mg/L)
+ which prevents bacterial growth
+Fill completely
+—minimize air space to reduce oxidation and contamination
+Seal tightly
+—prevent evaporation and contamination
+Label with date
+—track storage time for rotation
+NO additional treatment needed
+—tap water is already treated
+If storing well water or untreated water:
+Add
+liquid chlorine bleach (unscented, 5-8% sodium hypochlorite)
+:
+1 gallon:
+2 drops (0.1 mL)
+5 gallons:
+1/2 teaspoon (2.5 mL)
+55 gallons:
+5 teaspoons (25 mL) or 1.5 tablespoons
+Procedure:
+Add bleach to water
+Mix thoroughly
+Let stand 30 minutes
+Should have slight chlorine odor—if not, repeat dose and wait 15 more minutes
+Seal and store
+Commercial Water Purification Tablets
+For backup purification or treating found water sources:
+Chlorine Dioxide Tablets (Potable Aqua, Aquatabs):
+Effective against bacteria, viruses, Giardia, Cryptosporidium
+No chlorine taste
+Treatment time: 30 minutes (bacteria/viruses), 4 hours (Cryptosporidium)
+Cost: ~$0.10-0.25 per liter treated
+Shelf life: 4-5 years if stored properly
+Iodine Tablets (Potable Aqua):
+Effective against bacteria and viruses, less effective against Cryptosporidium
+Strong taste (can add vitamin C tablet after treatment to improve taste)
+Treatment time: 30 minutes
+NOT recommended for pregnant women, those with thyroid conditions, or shellfish allergies
+Cost: ~$0.15 per liter
+Water Filtration Systems
+Gravity-Fed Filters (Berkey, Lifestraw Home):
+No power required
+Remove bacteria, parasites, sediment, many chemicals
+Long filter life (6,000+ gallons for Berkey)
+Cost: $200-400 for system
+Best for: Long-term post-earthquake water treatment from questionable sources
+Portable Water Filters (LifeStraw, Sawyer Mini):
+Individual use, highly portable
+Remove bacteria and parasites
+Don't remove viruses or chemicals
+Cost: $20-50
+Best for: Emergency kits, hiking to water sources, individual needs
+UV Purifiers (SteriPEN):
+Kills bacteria, viruses, parasites
+Requires batteries or USB charging
+Water must be clear (doesn't work in sediment-heavy water)
+Treatment time: 90 seconds per liter
+Cost: $50-100
+Best for: Clear water sources, when you have power
+Water Rotation Schedule
+How Long Water Stays Safe
+Commercially bottled water:
+Unopened: Indefinitely safe (FDA doesn't require expiration dates)
+Plastic may degrade affecting taste after 2-5 years
+Best practice: Rotate every 2 years
+Home-stored municipal tap water:
+With residual chlorine: 6-12 months
+Best practice: Rotate every 6 months
+Home-stored treated water (bleach added):
+Properly treated: 6-12 months
+Best practice: Rotate every 6 months
+Rotation System
+Make rotation effortless with a system:
+Calendar-Based Rotation:
+Set two annual rotation dates (e.g., January 1 and July 1)
+Put reminders in phone calendar
+Rotate all water on these dates
+FIFO (First In, First Out):
+Label all containers with fill date
+Store new containers in back, use oldest containers first
+Ensures continuous rotation
+How to Rotate:
+Use stored water for normal activities: watering plants, washing car, flushing toilets, cleaning
+Refill containers immediately with fresh water
+Re-label with new date
+Return to storage
+Signs Water Needs Replacement (regardless of schedule):
+Cloudiness or discoloration
+Unusual odor
+Strange taste
+Visible particles or sediment
+Container damage or leaks
+✅ The "Use What You Store" Method:
+Instead of storing water you never use then dumping it
+ out, integrate your water storage into daily life. Keep 5-gallon jugs in the kitchen, refill as you empty
+ them. This automatic rotation ensures fresh water always available while building familiarity with using
+ stored water.
+Alternative Water Sources After Earthquakes
+When stored water runs low, know alternative sources and how to treat them.
+Safe Home Water Sources
+1. Water Heater Tank (30-80 gallons)
+Your water heater is a built-in emergency reservoir:
+How to access:
+Turn off electricity or gas to water heater
+Turn off water intake valve to prevent contaminated water entering tank
+Let water cool if recently heated
+Attach hose to drain valve at bottom of tank
+Place bucket or container below
+Open drain valve—water will flow out
+First few gallons may be rusty/sediment—let clear before collecting
+Collect in clean containers
+Filter through cloth to remove sediment, then purify before drinking
+Yield:
+30-80 gallons depending on tank size (check label)
+2. Toilet Tank Water (NOT bowl)
+Water in the
+tank
+(back reservoir, not the bowl) is clean tap water
+Yield: 2-3 gallons per toilet
+Access: Remove lid, scoop out or siphon water
+Purify before drinking (may have mineral deposits from tank)
+NEVER use water from toilet bowl
+—contaminated with bacteria
+3. Ice Cubes and Ice Maker
+Ice in freezer is stored water
+Let melt, use as drinking water (already purified)
+Typical ice maker: 5-10 pounds of ice = 0.6-1.2 gallons
+4. Canned Fruits and Vegetables
+Liquid in canned goods is safe to drink
+Not large quantities but every bit helps
+Juice/syrup provides calories and hydration
+Questionable Water Sources (Require Purification)
+Swimming Pools and Hot Tubs:
+Heavily chlorinated water is safe after chemical levels drop (may take days-weeks)
+Can be used for hygiene and sanitation immediately
+For drinking: let chlorine dissipate, filter through cloth, boil or purify
+Test chlorine levels if possible (should be <4 ppm for drinking)
+Pool: hundreds-thousands of gallons depending on size
+Water Beds:
+Older water beds may have been treated with chemicals to prevent algae
+Never drink untreated
+Filter, boil, and purify if using
+Better for hygiene than drinking
+Yield: 150-200+ gallons
+Rainwater Collection:
+Safe if collected properly
+Use clean containers, avoid first few minutes of rain (washes roof debris)
+Filter through cloth to remove particles
+Purify before drinking (boil or tablets)
+Streams, Rivers, Lakes:
+Assume all natural water sources are contaminated
+Must filter and purify
+Prefer flowing water over stagnant
+Collect from upstream of any contamination sources
+Unsafe Water Sources (Do Not Use)
+Radiator water:
+Contains antifreeze, toxic
+Waterbed conditioner:
+Contains chemicals
+Water that's been flooded with sewage:
+Too contaminated to purify safely
+Water with fuel, chemical smell:
+Cannot purify chemical contamination adequately
+Emergency Water Purification Methods
+When you must use questionable water sources, purification is critical.
+Boiling (Most Reliable Method)
+Process:
+Filter water through cloth to remove large particles
+Bring water to rolling boil
+Boil for 1 minute (3 minutes if above 6,500 feet elevation)
+Let cool, store in clean container
+Effectiveness:
+Kills all bacteria, viruses, parasites
+Limitations:
+Requires fuel and pot
+Doesn't remove chemicals, heavy metals, or sediment
+Time and energy intensive
+Bleach Purification
+Process:
+Filter water through cloth to remove particles
+Add unscented liquid bleach (5-8% sodium hypochlorite):
+Clear water: 2 drops per quart (8 drops per gallon)
+Cloudy water: 4 drops per quart (16 drops per gallon)
+Mix thoroughly
+Let stand 30 minutes
+Should have slight chlorine smell—if not, repeat dose and wait 15 minutes more
+Effectiveness:
+Kills most bacteria and viruses, less effective against parasites like
+ Cryptosporidium and Giardia
+Limitations:
+Doesn't remove chemicals or heavy metals
+Less effective against certain parasites
+Chlorine taste (can dissipate by letting water stand open to air)
+Two-Stage Filtration and Purification
+For best results with questionable water:
+Pre-filter:
+Remove sediment and particles (cloth, coffee filter, or commercial
+ pre-filter)
+Purify:
+Kill pathogens (boiling, bleach, tablets, or UV)
+Post-filter (optional):
+Improve taste, remove residual chemicals (activated carbon
+ filter)
+Special Situations
+Water Storage in Apartments
+Challenges:
+Limited space
+Floor weight limits
+No garage or basement
+Solutions:
+Use WaterBricks or 5-gallon jugs (more space-efficient than barrels)
+Store in closets, under beds, in cabinets
+Vertical storage—stack WaterBricks along walls
+Calculate weight: water is 8.3 lbs per gallon, don't exceed floor load limits
+Distribute across multiple rooms to spread weight
+30-day supply for single person: ~90 gallons = ~750 lbs—spread across apartment
+Water for Infants
+Formula Preparation:
+Bottled water is best for formula preparation
+If using stored or purified water, boil first (even if already treated)
+Let cool before mixing formula
+Store enough water for formula plus bottle washing
+Breastfeeding Mothers:
+Increase water intake—breastfeeding requires additional hydration
+Add 0.5-1 gallon per day to personal water allocation
+Prioritize clean water for nursing mothers
+Water for Pets
+Dogs:
+~0.5-1 ounce per pound body weight per day
+50 lb dog = ~3 quarts = 0.75 gallons per day
+More in hot weather or with activity
+Cats:
+~2-4 ounces per 5 pounds body weight per day
+10 lb cat = ~5 ounces = 0.15 gallons per day
+Other Pets:
+Birds, reptiles, small mammals: calculate based on normal daily consumption
+Fish tanks: if power fails, aeration stops—have battery-powered aerator backup
+Creating Your Water Storage Plan
+Step-by-Step Planning
+Step 1: Calculate Your Total Needs
+Formula: (Number of people × 3 gallons × 14 days) + pets + special needs
+Example: Family of 4 + large dog + nursing mother:
+4 people × 3 gallons × 14 days = 168 gallons
+Dog: 0.75 gallons × 14 days = 10.5 gallons
+Nursing mother extra: 0.75 gallons × 14 days = 10.5 gallons
+TOTAL: 189 gallons for 14 days
+Step 2: Choose Container Mix
+Example solution for 189 gallons:
+2× 55-gallon barrels = 110 gallons (basement storage)
+10× 5-gallon jugs = 50 gallons (utility room, bedroom closet)
+29× 1-gallon bottles = 29 gallons (emergency kits, vehicle, quick access)
+TOTAL: 189 gallons
+Step 3: Identify Storage Locations
+Primary: 2 barrels in basement (cool, stable temperature)
+Secondary: 5-gallon jugs distributed (4 utility room, 3 master closet, 3 kids' rooms)
+Tertiary: 1-gallon bottles in emergency kits, vehicles, easily accessible locations
+Step 4: Acquire Supplies
+Budget breakdown for example above:
+2× 55-gal barrels ($60 each) = $120
+10× 5-gal jugs ($15 each) = $150
+29× 1-gal bottles ($1.50 each) = $43.50
+Water treatment supplies (bleach, test kit) = $20
+Gravity filter system (Berkey) = $300
+Purification tablets (backup) = $30
+TOTAL: ~$663.50
+Can be acquired gradually over 6-12 months if budget is tight.
+Step 5: Fill and Label
+Fill all containers
+Label each with fill date using permanent marker or labels
+Document inventory (location, quantity, dates)
+Step 6: Set Rotation Schedule
+Calendar reminders for rotation (every 6 months)
+Plan how to use water (watering garden, cleaning, etc.)
+Refill immediately after use
+Conclusion: Water Is Life
+After major earthquakes, clean water determines survival more than any other single factor. You can survive
+ weeks without food but only 3 days without water. When municipal water systems fail, your stored water
+ becomes your family's lifeline—not just for drinking, but for food preparation, hygiene, first aid, and
+ maintaining health during the stressful recovery period.
+Water storage seems overwhelming initially—189 gallons sounds like an enormous amount. But broken into
+ achievable steps, it's manageable: a few barrels, some jugs, gradual acquisition, systematic rotation. The
+ investment of space, money, and effort pays infinite dividends when the earthquake strikes and your taps run
+ dry while your neighbors scramble for scarce bottled water or resort to unsafe water sources.
+Don't wait for the earthquake to think about water. Start today:
+Calculate your family's water needs
+Acquire your first water storage container this week
+Fill it and label it
+Add another container next month
+Build your supply systematically until you reach your goal
+Your stored water is the most important earthquake preparation investment you can make. Every gallon
+ you store today is a gallon you won't desperately need tomorrow.
+Related Articles
+How to Prepare for an Earthquake: Complete
+ Checklist
+Earthquake Drills: How to Practice Effectively
+How to Help Neighbors After an Earthquake
+How to Prepare Your Business for an Earthquake
+Support Earthquake Radar
+Earthquake Radar provides free, real-time earthquake monitoring and comprehensive safety guides to help
+ communities prepare for seismic events. If you found this guide helpful, please consider supporting our
+ mission:
+Donate via PayPal
+Support on Patreon
+Visit Our Store
+Your support helps us maintain free
+ earthquake monitoring services and create more comprehensive safety resources for communities worldwide.

@@ -1,0 +1,1112 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script>
+    if (self !== top) {
+      top.location = self.location;
+    } 
+  </script>
+
+  <title>Family Reunification Following Disasters A Planning Tool for Health Care Facilities | Technical Resources | ASPR TRACIE </title>
+  
+  <!-- links -->
+  <link href="/css/bootstrap-4.6.2.min.css" rel="stylesheet" />
+  <link href="/fa/css/all.min.css" rel="stylesheet" />
+  <link href="/assets/css/co-brandedheader.css?v=T32uf47zJ3GWL2pVWUsKDcSjh71txRqXTZiyEnEFXu0" rel="stylesheet" />
+  <link href="/assets/css/site.css?v=asctjVvREBY2t67fSU-WxcgMaoxKqKH28apyAmRNWZI" rel="stylesheet" />
+  <link href="/assets/css/site-dashtool.css?v=lxICfpVO9J7DrMzYD8PLjFJpajt1Rsa3PzPhgCKHaZ4" rel="stylesheet" />
+  <link href="/assets/css/styles.min.css?v=gqag0_iozh4OQdtZL8ycK3uGqzBIryo0sY9HhdZyPJU" rel="stylesheet" />
+  
+  <link rel="canonical" href="" />
+  
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" href="/images/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon.png" />
+  <script src="/js/jquery-3.7.1.min.js"></script>
+    <script>
+      (function () {
+        window.TracieAwsWafConfig = window.TracieAwsWafConfig || {};
+        window.TracieAwsWafConfig.apiKey = "QFNCSQMNwsuagokd4FouRP3XrDol5GmU/K50V9iWCpCgGZKh/MFP9/y59Z1OX7P8ASV\u002BDYkrs6JLaKoawkJzfLmaWSwVaJ4EWoMPDFIjb/ghhRexg6O9Ez6Taf8cr8vtaqkj7AEn9/FdbJ0j/FXx3QibCU9XDiz4VtKNmknqKD8LfhAyWIs5VIMy8A7rY5iiFsBKuq0aOfJxM7nf5p8QJpcy9sn\u002BDT/XLJa/1xNs0OvMCmH5JjoJ5Tf5VTcl/oDNAbCd0ZOZEDPC4XXmRDFN0cqpdLqIm/GHezxjchoBOPeCHodZ/nqG2wYe1dkfeExw2ZirX9nJz7VtYZzT1b4ddtvfpCSlLYr/tDlXn0hWXVwlfG17\u002Be9hl7keGlP6RXfdTFhffUe5J3l7vU0Q4tYo5nmdd2Xo7MYJg38cvCXq2ulc8pTzIBqcRqVvBnO7JEuXqzpx9hYbPpgdzHn8abBWIKl5U1B6Bla7Io8MCibMa3vS1jt7lvO/lJjizVQkBPFXuT4f2/caJsLCzZwUBn6gqvVQItDgZVq9t66lQmpdciDTJXHVo2X3z9uwnLtjyKTFvUW0145InbMeuZ183piTJccqM4rMe\u002BYk1ptaCQ661Zc7zdTGOVxB9yWSGU2TLTtyp3H73/IrBlOR43\u002BABbVaWCMhQNqqWhtVnxYpskEGnDc=_1_1";
+
+        var configuredSrc = "https://78f49edab1a0.edge.captcha-sdk.awswaf.com/78f49edab1a0/jsapi.js";
+        var hasRetried = false;
+
+        function appendSdk(src) {
+          var sdk = document.createElement('script');
+          sdk.type = 'text/javascript';
+          sdk.defer = true;
+          sdk.src = src;
+          sdk.onerror = function () {
+            if (!hasRetried && src.indexOf('/challenge.js') > -1) {
+              hasRetried = true;
+              appendSdk(src.replace('/challenge.js', '/jsapi.js'));
+            }
+          };
+          document.head.appendChild(sdk);
+        }
+
+        appendSdk(configuredSrc);
+      })();
+    </script>
+  
+<!-- Google Tag Manager -->
+<script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WLXZ47X');
+  </script>
+<!-- End Google Tag Manager -->  
+  <meta name="theme-color" content="#225476">
+  <meta name="description" content="Search the ASPR TRACIE Resource Library and view tailored Topic Collections comprised of current healthcare system preparedness resources." />
+  
+  <meta property="og:title" content="Family Reunification Following Disasters A Planning Tool for Health Care Facilities | Technical Resources " />
+  <meta property="og:url" content="" />
+  <meta property="og:image" content="https://asprtracie.hhs.gov/images/social.jpg" />
+  <meta property="og:description" content="Search the ASPR TRACIE Resource Library and view tailored Topic Collections comprised of current healthcare system preparedness resources." />
+  <meta property="og:site_name" content="ASPR TRACIE" />
+  <meta property="og:type" content="website" />
+  
+  <meta name="twitter:title" content="Family Reunification Following Disasters A Planning Tool for Health Care Facilities | Technical Resources " />
+  <meta name="twitter:url" content="" />
+  <meta name="twitter:image" content="https://asprtracie.hhs.gov/images/social.jpg" />
+  <meta name="twitter:description" content="Search the ASPR TRACIE Resource Library and view tailored Topic Collections comprised of current healthcare system preparedness resources." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="facebook-domain-verification" content="xtjww7ookwwgfv0ar3k6iaoejvyslm" />
+</head>
+<body id="top" data-spy="scroll" data-target=".tcMenu" data-offset="1">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLXZ47X"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><header>
+  <div id="hhsCoBrandedHeader">
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable" id="anch_0">Skip to main content</a>
+    </div>
+    <div id="topRow" class="container">
+      <span id="logo">
+        <a href="https://www.hhs.gov/" id="anch_1" class="cobranded-style">HHS
+          <span class="gov">.gov</span>
+        </a>
+      </span>
+      <span id="site-name"><a href="https://www.hhs.gov/">U.S. Department of Health &amp; Human Services</a></span>
+    </div>
+  </div>
+<div id="headerTR" class="container-fluid">
+<div class="container">
+<div id="headerSection" class="d-flex flex-row header">
+  <div class="trlogo-box">
+    <a href="/">
+      <div id="trLogo"><img class="img-fluid" src="/images/TRACIE-logo.svg" width="281" height="107.83" alt="ASPR TRACIE Logo. Healthcare Emergency Preparedness Information Gateway." id="logoimage"/></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12 nav-container">
+    <!-- NAVBAR -->
+    
+<nav class="navbar navbar-expand-xl navbar-dark align-self-end align-items-end w-100 main-bar" id="mainNav" >
+<div class="container">
+<!-- mobile menu controllers -->
+<span class="navbar-brand d-xl-none js-scroll-trigger nav-item-mobile">MENU</span>
+<div class="d-xl-none ml-auto">
+  <button id="mobileSearchButton" class="navbar-toggler ml-auto navbar-mobile-search" type="button" data-toggle="collapse" data-target="#navbarSearchMobile" aria-controls="navbarSearchMobile" aria-label="Toggle navigation">
+    <i class="fal fa-search fa-search-nav"></i>
+  </button>
+  <button id="mobileMenuButton" class="navbar-toggler navbar-toggler-right ml-auto" type="button" data-toggle="collapse" data-target="#navbarContentMain" aria-controls="navbarContentMain" aria-label="Toggle navigation">
+    <i class="fal fa-bars navbar-menu"></i>
+  </button>
+</div>
+<!-- mobile menu toolbar (hamburger and search) -->
+<div class="d-xl-none collapse navbar-collapse" id="navbarSearchMobile">
+  <div class="d-xl-none nav-item">
+    <div class="d-xl-none row p-0">
+      <div class="d-xl-none col-md-12 navbar-row-search">
+        <form action="/mastersearch" name="navsearchform" id="navsearchform" method="post" autocomplete="off">
+          <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5SyffEL7wiwZWyrm59sSGhm_qIxR0f67u8ZbQBakxgh3EFJ9Xc78F5lOp3CL-j_x04PPah4rDs7np8rmREEMzLdFsT6y2vbTGqJktKaPVGbgnodrN7hBsdIDfhTusTj5TPo" />
+          <div class="d-xl-none d-flex flex-row ml-2 align-items-baseline menu-title-block">
+            <label for="search_mobile" class="sr-only">Search</label>
+            <input type="search" class="form-control" id="search_mobile" name="search_mobile"  placeholder="Search the Resource Library" autocomplete="off">
+            <button type="submit" class="btn btn-default" onclick="checkmobilesearch(this)" >SEARCH</button>
+
+          </div> <!-- Close class=page-title-block -->
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="collapse navbar-collapse" id="navbarContentMain">
+<!-- Navbar content desktop view -->
+<ul class="navbar-nav">
+  
+  <!-- HOME -->
+  <li class="d-none d-xl-block nav-item dropdown position-static">
+    <a class="nav-link" href="/" id="HOMENavItemBtn">HOME 
+    </a>
+  </li>
+
+  <!-- TR -->
+  <li class="d-none d-xl-block nav-item dropdown position-static" id="TrNavItem">
+    <a class="nav-link nav-item-active" id="TRNavItemBtn" href="/technical-resources" role="button" aria-haspopup="true" aria-controls="navbardropdownmegatr" aria-expanded="false">
+      TECHNICAL RESOURCES
+      <i class="fas fa-chevron-down"></i>
+        <span class="sr-only">(current)</span>
+    </a>
+    <ul class="dropdown-menu w-100 shadow" id="navbardropdownmegatr" role="menu">
+      <li class="dropdown-item" role="menuitem">
+        <div class="row">
+          <div class="col col-percent-30">
+            <div class="title-section">
+              <div class="d-flex flex-row align-items-center menu-title-block">
+
+                <div class="menu-cross-icon">
+                  <img src="/images/TR-cross.svg" alt="TR Icon">
+                </div>
+                <div class=" p-2 menu-title"><a href="/technical-resources">Technical Resources (TR)</a></div>
+
+              </div> <!-- Close class=page-title-block -->
+              <p>A self-service collection of disaster medical, healthcare, and public health preparedness materials,
+                searchable by keywords and functional areas.</p>
+            </div>
+          </div>
+          <div class="col">
+            <div class="row">
+              <div class="col-md-4 pb-2 pl-0 pr-0 col-percent-28">
+                <div class="sub-title-section">
+                  <div class="menu-sub-title">Quick Links</div>
+                  <ul class="menu-list">
+                    <li><a href="/technical-resources">Search the Resource Library</a></li>
+                    <li><a href="/technical-resources/topic-collection">Access Topic Collections</a></li>
+                    <li><a href="/tracie-resources"> Review ASPR TRACIE-Developed Resources</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col pb-2">
+                <div class="sub-title-section">
+                  <div class="menu-sub-title">Resource Pages</div>
+                  <div class="row">
+                    <div class="col-md-6">
+                      <ul class="menu-list">
+                        <li><a href="/cbrn-resources">CBRN</a></li>
+                        <li><a href="/crests">Clinical Resources for Emergency Shortages of Treatments and Supplies (CRESTS)</a></li>
+                        <li><a href="/cmsrule">CMS EP Rule</a></li>
+                        <li><a href="/conflict">Countries Experiencing Conflict</a></li>
+                        <li><a href="/csc">Crisis Standards of Care</a></li>
+                        <li><a href="/cybersecurity">Cybersecurity</a></li>
+                        <li><a href="/dash-tool">DASH Tool</a></li>
+                        <li><a href="/HVA">Data Sources for Hazard Vulnerability Assessments (HVAs)</a></li>
+                      </ul>
+                    </div>
+                    <div class="col-md-6">
+                      <ul class="menu-list">
+                        <li><a href="/dbh-resources">Disaster Behavioral Health</a></li>
+                        <li><a href="/ems">EMS</a></li>
+                        <li><a href="/hcc-resources">Healthcare Coalitions</a></li>
+                        <li><a href="/surge-partners">Healthcare Partners and Medical Surge</a></li>
+                        <li><a href="/HRROG">Hospital Readiness and Response: An Online Guidebook</a></li>
+                        <li><a href="/hurricane-resources">Hurricanes</a></li>
+                        <li><a href="/infectious-disease">Infectious Diseases</a></li>
+                        <li><a href="/mass-violence">Mass Violence</a></li>
+                        <li><a href="/MOCC">Medical Operations Coordination Centers (MOCCs)</a></li>
+                        <li><a href="/TRACIE-MRC">Medical Reserve Corps</a></li>
+                        <li><a href="/monkeypox">Mpox</a></li>
+                        <li><a href="/pediatric-surge">Pediatric Surge</a></li>
+
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </li>
+
+  <!-- AC -->
+  <li class="d-none d-xl-block nav-item dropdown position-static" id="ACNavItem">
+    <a class="nav-link" id="ACNavItemBtn" href="/assistance-center" role="button" aria-haspopup="true" aria-controls="navbardropdownmegaac" aria-expanded="false">
+      ASSISTANCE CENTER
+      <i class="fas fa-chevron-down"></i>
+    </a>
+    <ul class="dropdown-menu w-70 shadow p-0" id="navbardropdownmegaac" role="menu">
+      <li class="dropdown-item" role="menuitem">
+        <div class="row">
+          <div class="col-md-5 p-0">
+            <div class="title-section">
+              <div class="d-flex flex-row align-items-center menu-title-block">
+                <div class="menu-cross-icon">
+                  <img src="/images/AC-cross.svg" alt="AC Icon">
+                </div>
+                <div class="p-2 menu-title"><a href="/assistance-center">Assistance Center (AC)</a></div>
+              </div> <!-- Close class=page-title-block -->
+              <p>Provides access to Technical Assistance Specialists for one-on-one support.</p>
+            </div>
+          </div>
+          <div class="col-md-7">
+            <div style="height: 50px;"></div>
+            <div class="sub-title-section align-items-start">
+              <ul class="menu-list">
+                <li><a href="/assistance-center">Request Technical Assistance</a></li>
+                <li><a href="/technical-resources/95/select-aspr-tracie-ta-responses/46">Review Select Technical Assistance Responses</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </li>
+    </ul>
+
+  </li>
+  <!-- IE -->
+  <li class="d-none d-xl-block nav-item dropdown position-static" id="IENavItem">
+      <a class="nav-link" id="IENavItemBtn" href="/information-exchange" role="button" aria-haspopup="true" aria-controls="navbardropdownmegaie" aria-expanded="false">
+        INFORMATION EXCHANGE
+        <i class="fas fa-chevron-down"></i>
+      </a>
+
+    <ul class="dropdown-menu w-50 shadow p-0" id="navbardropdownmegaie">
+      <li class="dropdown-item">
+        <div class="row">
+          <div class="col-md-12 pb-2 p-0">
+            <div class="title-section">
+              <div class="d-flex flex-row align-items-baseline menu-title-block">
+                <div class="menu-cross-icon">
+                  <img src="/images/IE-cross.svg" alt="IE Icon">
+                </div>
+                  <div class="p-2 menu-title"><a href="/information-exchange">Information Exchange (IE)</a></div>
+              </div> <!-- Close class=page-title-block -->
+              <p>A user-restricted, peer-to-peer discussion board that allows open discussion in near-real time.</p>
+              <a href="/register">Register for the Information Exhange</a>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </li>
+
+  <!-- SEARCH -->
+  <li class="d-none d-xl-block nav-item dropdown position-static"  id="SearchNavItem">
+    <a class="nav-link dropdown-toggle" id="SearchNavItemBtn" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <i class="fal fa-search nav-search"></i>
+      <span class="sr-only">Search</span>
+    </a>
+    <ul class="dropdown-menu col-percent-40 shadow p-0" id="navbardropdownmegasearch">
+      <li class="dropdown-item">
+        <div class="row p-0">
+          <div class="col-md-12 p-0">
+            <form action="/mastersearch" name="massearchform" id="massearchform" method="post" autocomplete="off">
+              <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5SyffEL7wiwZWyrm59sSGhm_qIxR0f67u8ZbQBakxgh3EFJ9Xc78F5lOp3CL-j_x04PPah4rDs7np8rmREEMzLdFsT6y2vbTGqJktKaPVGbgnodrN7hBsdIDfhTusTj5TPo" />
+              <div class="d-flex flex-row ml-2 align-items-baseline menu-title-block">
+                <label class="sr-only" for="search_nav">Search</label>
+                <input type="search" class="form-control" id="search_nav" name="search_nav" placeholder="Search ASPR TRACIE" autocomplete="off">
+                <button type="submit" class="btn btn-default" onclick="checknavsearch(this)">SEARCH</button>
+              </div> <!-- Close class=page-title-block -->
+            </form>
+          </div>
+        </div>
+
+      </li>
+    </ul>
+  </li>
+</ul>
+<!-- REGISTER/LOGIN -->
+  <ul id="navuserbox" class="d-none d-xl-block navbar-user ml-auto nav-item-xl">
+    <li >
+      <div class="navuser">
+        <a href="/register" id="register" role="button">REGISTER</a>
+        <a href="/login" id="login" role="button">LOGIN</a>
+      </div>
+    </li>
+  </ul>
+
+
+<!-- Navbar content mobile view -->
+<ul class="navbar-nav-mobile d-xl-none">
+  <!-- REGISTER/LOGIN mobile view -->
+  <li class="nav-item d-xl-none">
+    <div class="d-flex flex-row justify-content-center navuser-mobile align-items-center">
+      <div class="col-5 reg-login-box-mobile pr-0"><a href="/register" id="registerMobile" role="button">REGISTER</a></div>
+      <div class="col-2 reg-login-box-mobile p-0">|</div>
+      <div class="col-5 reg-login-box-mobile pl-0"><a href="/login" id="loginMobile" role="button">LOGIN</a></div>
+    </div>
+  </li>
+  <!-- HOME  mobile view-->
+  <li class="nav-item  d-xl-none nav-item-mobile-list">
+    <a class="nav-link-mobile-home" href="/">HOME<span class="sr-only"></span></a>
+  </li>
+  <!-- TR mobile view-->
+  <li class="nav-item position-static d-xl-none nav-item-mobile-list">
+
+    <div class="d-flex flex-row align-items-center menu-title-block-mobile">
+      <div class="menu-cross-icon-mobile">
+        <a href="/technical-resources"><img src="/images/TR-cross-mobile@2x.png" alt="TR Icon" /></a>
+      </div>
+      <div class="p-2 menu-title-mobile"><a class="text-white" href="/technical-resources">Technical Resources (TR)</a></div>
+    </div> <!-- Close class=page-title-block -->
+
+    <div class="menu-section-mobile">
+      <div>
+        <a class="title-section-mobile" href="#" role="button" data-toggle="collapse"
+           data-target="#trSection1" aria-expanded="false" aria-controls="trSection1">
+          Quick Links
+          <i class="fal fa-angle-right"></i>
+          <!-- <span class="fa-more"></span>
+          <span class="sr-only">See more</span> -->
+
+        </a>
+      </div>
+      <div class="collapse multi-collapse" id="trSection1">
+        <div class="row">
+          <div class="sub-title-section-mobile">
+            <ul class="menu-list-mobile">
+              <li><a href="/technical-resources">Search the Resource Library</a></li>
+              <li><a href="/technical-resources/topic-collection">Access Topic Collections</a></li>
+              <li><a href="/tracie-resources"> Review ASPR TRACIE Resources</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="menu-section-mobile">
+      <div>
+        <a class="title-section-mobile" href="#" role="button" data-toggle="collapse"
+           data-target="#trSection2" aria-expanded="false" aria-controls="trSection2">
+          Resource Pages
+          <i class="fal fa-angle-right"></i>
+        </a>
+      </div>
+      <div class="collapse multi-collapse" id="trSection2">
+        <div class="row">
+          <div class="sub-title-section-mobile">
+            <ul class="menu-list-mobile">
+              <li><a href="/cbrn-resources">CBRN</a></li>
+              <li><a href="/crests">Clinical Resources for Emergency Shortages of Treatments and Supplies (CRESTS)</a></li>
+              <li><a href="/cmsrule">CMS EP Rule</a></li>
+              <li><a href="/conflict">Countries Experiencing Conflict</a></li>
+              <li><a href="/csc">Crisis Standards of Care</a></li>
+              <li><a href="/cybersecurity">Cybersecurity</a></li>
+              <li><a href="/dash-tool">DASH Tool</a></li>
+              <li><a href="/HVA">Data Sources for Hazard Vulnerability Assessments (HVAs)</a></li>
+              <li><a href="/dbh-resources">Disaster Behavioral Health</a></li>
+              <li><a href="/ems">EMS</a></li>
+              <li><a href="/hcc-resources">Healthcare Coalitions</a></li>
+              <li><a href="/surge-partners">Healthcare Partners and Medical Surge</a></li>
+              <li><a href="/HRROG">Hospital Readiness and Response: An Online Guidebook</a></li>
+              <li><a href="/hurricane-resources">Hurricanes</a></li>
+              <li><a href="/infectious-disease">Infectious Diseases</a></li>
+              <li><a href="/mass-violence">Mass Violence</a></li>
+              <li><a href="/MOCC">Medical Operations Coordination Centers (MOCCs)</a></li>
+              <li><a href="/TRACIE-MRC">Medical Reserve Corps</a></li>
+              <li><a href="/monkeypox">Mpox</a></li>
+              <li><a href="/pediatric-surge">Pediatric Surge</a></li>
+             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  </li>
+  <!-- AC mobile view -->
+  <li class="nav-item position-static d-xl-none nav-item-mobile-list">
+    <div class="d-flex flex-row align-items-center menu-title-block-mobile">
+      <div class="menu-cross-icon-mobile">
+        <a href="/technical-resources"><img src="/images/AC-cross-mobile@2x.png" alt="AC Icon" /></a>
+      </div>
+      <div class="p-2 menu-title-mobile"><a class="text-white" href="/assistance-center">Assistance Center (AC)</a></div>
+    </div> <!-- Close class=page-title-block -->
+    <div class="menu-section-mobile">
+      <div class="menu-section-item-mobile">
+        <a class="title-section-mobile" href="/assistance-center">Request Technical Assistance *</a>
+      </div>
+      <div class="menu-section-item-mobile">
+        <a class="title-section-mobile" href="/technical-resources/95/select-aspr-tracie-ta-responses/46">Review Select Technical Assistance Responses</a>
+      </div>
+    </div>
+  </li>
+  <!-- IE mobile view -->
+  <li class="nav-item position-static d-xl-none nav-item-mobile-list-last">
+    <div class="d-flex flex-row align-items-center menu-title-block-mobile">
+      <div class="menu-cross-icon-mobile">
+        <a href="/technical-resources"><img src="/images/IE-cross-mobile@2x.png" alt="IE Icon" /></a>
+      </div>
+
+          <div class=" p-2 menu-title-mobile"><a class="text-white" href="/information-exchange">Information Exchange (IE)</a></div>
+
+    </div> <!-- Close class=page-title-block -->
+    <div class="menu-section-mobile">
+      <div class="menu-section-item-mobile">
+        <a class="title-section-mobile" href="/register">Register for the Information Exhange</a>
+      </div>
+    </div>
+  </li>
+
+</ul>
+
+</div>
+
+<!-- Navbar content mobile view -->  
+</div>
+</nav>
+<script>
+ function checknavsearch(obj)
+ {
+   
+   if(obj === undefined || obj === null)
+   {
+      console.log("Variable is either null or undefined");
+   }
+   else
+   {
+  
+      var searchvalue = document.getElementById("search_nav").value;
+      if(searchvalue == '')
+      {
+            event.preventDefault();
+            event.stopPropagation();
+      }
+   }
+ 
+ } 
+function checkmobilesearch(obj)
+ {
+   if(obj === undefined || obj === null)
+   {
+      console.log("Variable is either null or undefined");
+   }
+   else
+   {
+  
+      var searchvalue = document.getElementById("search_mobile").value;
+      if(searchvalue == '')
+      {
+            event.preventDefault();
+            event.stopPropagation();
+      }
+   }
+ 
+ } 
+
+
+    $("#HOMENavItemBtn").focus(function(e) {
+      SetFocus("home", false);
+    });
+    
+    $("#TRNavItemBtn").focus(function(e) {
+      SetFocus("tr", true);
+    });
+
+    $("#ACNavItemBtn").focus(function(e) {
+      SetFocus("ac", true);
+    });
+
+    $("#IENavItemBtn").focus(function(e) {
+      SetFocus("ie", true);
+    });
+
+    $("#SearchNavItemBtn").focus(function(e) {
+      SetFocus("search", true);
+    });
+
+    $("#register").focus(function(e) {
+      SetFocus("register", false);
+    });
+
+    $("#login").focus(function(e) {
+      SetFocus("login", false);
+    });
+
+    function SetFocus(area, show) {
+      var areas = ["home", "ac", "tr", "ie", "search", "login", "register"];
+      for (var i = 0; i < areas.length; i++) {
+        var areaId = 'navbardropdownmega' + areas[i];
+        var btnId = areas[i].toUpperCase() + "NavItemBtn";
+        if (areas[i] === area) {
+
+          if (show === true) {
+            $("#" + areaId).show();
+            $("#" + btnId).attr('aria-expanded', 'true');
+          }
+        } else {
+          $("#" + areaId).hide();
+          $("#" + btnId).attr('aria-expanded', 'false');
+        }
+      }
+    }
+
+
+
+
+ // $('.navbar-nav>li>a').on('click', function(e) {
+//    var menuItem = $(e.currentTarget);
+//    if (menuItem.attr( 'aria-expanded') === 'true') {
+//      $(this).attr( 'aria-expanded', 'false');
+//    } else {
+//      $(this).attr( 'aria-expanded', 'true');
+//    }
+    
+    //var areaState = this.id.attr('area-expanded');
+    //$("button").attr("aria-expanded","true");
+    //$(this.attr('aria-expanded')));
+    //$('.nav-item').removeClass('active');
+    //e.preventDefault();
+    
+//    $('#navbardropdownmegaac').attr('aria-expanded', 'false');
+//  });
+  
+//  $('.navbar-nav > li').mouseover( function(){
+//    $(this).find('a').tab('show');
+//  });
+//  $('#IENavItem').mouseout( function() {
+//
+//    $('#navbardropdownmegaie').attr("aria-expanded", "false");
+//    navbardropdownmegaie
+//    $(this).find('a').tab('hide');
+//  });
+//  $('.navbar-nav .nav-item').click(function(e) {
+//    $('.nav-item').removeClass('active');
+//    alert(this.text);
+//    var $this = $(this);
+//    if(!$this.hasClass('active')){
+//      $this.addClass('active');
+//    }
+//    e.preventDefault();
+//  });
+//  
+//  $('.nav-item').on('shown.bs.tab', 'a', function (e) {
+//    if (e.relatedTarget) {
+//      $(e.relatedTarget).removeClass('active');
+//    }
+//  })
+  
+</script>
+
+    <!-- END NAVBAR -->
+  </div>
+</div>
+</div>
+
+</div> <!-- end header Main -->
+</header>
+
+<main id="main-content" class="pb-3">
+  
+
+<div class="container page-content">
+  <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5SyffEL7wiwZWyrm59sSGhm_qIxR0f67u8ZbQBakxgh3EFJ9Xc78F5lOp3CL-j_x04PPah4rDs7np8rmREEMzLdFsT6y2vbTGqJktKaPVGbgnodrN7hBsdIDfhTusTj5TPo" />
+  <section class="d-flex flex-row align-items-center">
+    <h1 class="page-title">Family Reunification Following Disasters A Planning Tool for Health Care Facilities</h1>
+  </section>
+
+    <div class="document-indent">
+      <div class="document-title">
+
+          <span>American Academy of Pediatrics, in collaboration with Massachusetts General Hospital, Center for Disaster Medicine.</span>
+          <span class="value">(2018).</span>
+
+          <a href="https://downloads.aap.org/AAP/PDF/AAP%20Reunification%20Toolkit.pdf?cb=6839" target="_blank" rel="noopener noreferrer">
+              <span><strong>Family Reunification Following Disasters: A Planning Tool for Health Care Facilities.</strong></span>
+          </a>
+        <span></span>
+      </div>
+      <div class="document-description">
+This planning tool was created to assist hospitals with their plans to provide information, support services, and safe reunification assistance to family members of patients who have experienced disasters. It provides potential solutions to reunification-related challenges, including: planning for the secure reception, tracking, and care of large numbers of children who may present to a hospital following a mass-casualty event; identifying injured and unaccompanied children in a disaster; tracking unaccompanied children during their hospital stay; and what legal authority a hospital has to administer care to minors when the parent/guardian is unavailable to participate in the informed consent process.        </div>
+
+      <div class="container">
+        <div class="row  tr-feedback">
+          <!-- FAVORITES -->
+          Favorite:
+          <div class="favorite-box" id="fav_doc_6839">
+              <i id="fa_doc_6839" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite"></i>
+          </div>
+          <div class="tr-feedback-lbl"></div>
+          
+          <!-- ADD TRAINING BUTTON (MRC Members only) -->
+        </div>
+      </div>
+          <div class="document-login-link"><a href="/login?returnurl=TioFqVsSUg7qMF71ui4zMg==">Login</a> to favorite the article</div>
+    </div>
+</div>
+
+<!-- FEATURED RESOURCES/ SUBSCRIBE -->
+
+<!-- https://medium.com/wdstack/bootstrap-4-custom-carousel-94a537364fde -->
+<!-- on Code Play: https://www.codeply.com/go/sShh7372V1 -->
+<div id="featuredSubscribe" class="container-fluid">
+    <div id="FeaturedResource" class="container">
+      <div class="d-flex flex-row news-title">
+        <h2 class="page-section-title">Featured Resources</h2>
+      </div>
+      <div id="carouselResource" class="carousel featured-carousel slide" data-ride="carousel" data-interval="false">
+        <a class="carousel-control-prev" href="#carouselResource" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only carousel-control-prev-icon-dark">Previous</span>
+        </a>
+        <div class="carousel-inner row w-100 mx-auto">
+          <div class="carousel-item col-md-3 active">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/hospital-wildfire-evacuation-considerations.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">Hospital Wildfire Evacuation Considerations</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://dashtool.org/">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">The Disaster Available Supplies in Hospitals (DASH) Tool</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/aspr-tracie-the-exchange-issue-20.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">The Exchange, Issue 20: Preparing for and Responding to Mass Casualty Burn Incidents</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/utility-failures-in-health-care-toolkit-summary.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">Utility Failures in Health Care Toolkit</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/on-campus-hospital-armed-assailant-planning-considerations.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">On-Campus Health Care Facility Armed Assailant Planning Considerations</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <a class="carousel-control-next" href="#carouselResource" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only carousel-control-next-icon-dark">Next</span>
+        </a>
+      </div>
+    </div>
+  <form action="/assistance-center/subscription-form" name="subscription_form" id="subscription_form" method="post" autocomplete="off">
+   <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5SyffEL7wiwZWyrm59sSGhm_qIxR0f67u8ZbQBakxgh3EFJ9Xc78F5lOp3CL-j_x04PPah4rDs7np8rmREEMzLdFsT6y2vbTGqJktKaPVGbgnodrN7hBsdIDfhTusTj5TPo" />
+    <div id="ListservSubscribe" class="container">
+      <div class="row">
+        <div class="col-sm-6 col-xs-12">
+          <h2 class="subscribe-listserv-title"><label for="listServSubscribe">Subscribe to the ASPR TRACIE Listserv.</label></h2>
+          <p class="listserv-text-508">
+            Enter your email address to receive important announcements and updates through the ASPR TRACIE Listserv.
+          </p>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="row d-flex d-flex-row">
+            <div class="col">
+              <input type="email" class="form-control w-100" id="listServSubscribe" name="listServSubscribe" placeholder="Email Address" autocomplete="off" required />
+              <input type="hidden" id="acvalidationlistServ" name="acvalidationlistServ" />
+              <div id="awsWafSubscribeMessage" class="validation-summary-errors" style="display:none;" role="alert"></div>
+            </div>
+            <div class="col"><button class="btn btn-default btn-default-subscribe">SIGN UP</button></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+
+</div>
+
+<script>
+  $(document).ready(function() {
+
+    $("#carouselResource").on("slide.bs.carousel",
+      function(e) {
+        var $e = $(e.relatedTarget);
+        var idx = $e.index();
+        var itemsPerSlide = 4;
+        var totalItems = $(".carousel-item").length;
+
+        if (idx >= totalItems - (itemsPerSlide - 1)) {
+          var it = itemsPerSlide - (totalItems - idx);
+          for (var i = 0; i < it; i++) {
+            // append slides to end
+            if (e.direction == "left") {
+              $(".carousel-item")
+                .eq(i)
+                .appendTo(".carousel-inner");
+              //.toggleClass('card carousel-item-left');
+            } else {
+              $(".carousel-item")
+                .eq(0)
+                .appendTo($(this).find(".carousel-inner"));
+            }
+          }
+          //var id = e.relatedTarget.id;
+        }
+      });
+
+    $("#subscription_form").on("submit",
+      function (event) {
+
+        var emailAddress = $(this).find('input[name="listServSubscribe"]');
+        if ($.trim(emailAddress.val()) === "") {
+          event.preventDefault();
+        }
+      });
+  });
+
+  $(function() {
+    if (window.TracieAwsWaf) {
+      window.TracieAwsWaf.warmUpToken();
+      window.TracieAwsWaf.bindSilentTokenOnFormSubmit('#subscription_form', {
+        requiredFields: ['#listServSubscribe'],
+        errorContainerSelector: '#awsWafSubscribeMessage',
+        errorMessage: 'Security verification failed. Please refresh the page and try again.'
+      });
+    }
+  });
+</script>
+<!-- END FEATURED RESOURCES/ SUBSCRIBE -->
+
+<script>
+
+  $(document).ready(function () {
+    // Fetch user's MRC documents if user is MRC member
+    fetchUserMrcDocuments();
+  });
+  
+  var isMember = 0;
+  var isMrcMember = false;
+  var userMrcDocumentIds = [];
+
+  /**
+   * Fetches the user's MRC training documents on page load
+   * Requirements: 1.1, 2.1, 8.3
+   */
+  function fetchUserMrcDocuments() {
+    // Check if user is MRC member
+    if (!isMrcMember || isMember !== 1) {
+      return;
+    }
+
+    // Make AJAX GET request to fetch user's MRC documents
+    $.ajax({
+      url: '/mrc/user-documents',
+      type: 'GET',
+      dataType: 'json',
+      success: function(response) {
+        if (response && response.success && response.documents) {
+          // Store document IDs in JavaScript array for quick lookup
+          userMrcDocumentIds = response.documents.map(function(doc) {
+            return doc.DocumentID;
+          });
+          
+          // Call updateCollectionStatusButtons function after data loads
+          updateCollectionStatusButtons(userMrcDocumentIds);
+        }
+      },
+      error: function(xhr, status, error) {
+        // Handle errors gracefully (log to console, continue without status indicators)
+        console.log('Unable to load MRC training documents:', error);
+        // Continue without status indicators - no user-facing error message
+      }
+    });
+  }
+
+  /**
+   * Updates the collection status buttons based on user's MRC document collection
+   * Requirements: 2.1, 2.2, 2.3, 2.4
+   */
+  function updateCollectionStatusButtons(documentIds) {
+    // Loop through all "Add Training" buttons on page
+    $('.fa-graduation-cap').each(function() {
+      var $button = $(this);
+      var docId = $button.data('document-id');
+      
+      if (docId && documentIds.indexOf(docId) !== -1) {
+        // Document is in user's collection - apply active styling
+        $button.removeClass('fa-training-off').addClass('fa-training-on');
+        $button.attr('data-in-training', 'true');
+        $button.attr('title', 'Already in training');
+        $button.attr('aria-label', 'Already in training');
+        
+        // Update status text
+        var statusDiv = $('#training_status_' + docId);
+        if (statusDiv.length) {
+          statusDiv.text('Added');
+        }
+      } else {
+        // Document is not in user's collection - apply inactive styling
+        $button.removeClass('fa-training-on').addClass('fa-training-off');
+        $button.attr('data-in-training', 'false');
+        $button.attr('title', 'Add to training');
+        $button.attr('aria-label', 'Add to training');
+      }
+    });
+  }
+
+  /**
+   * Click handler for "Add Training" button
+   * Requirements: 3.1, 3.3, 3.4, 7.1, 7.2, 7.4, 8.1
+   */
+  $('.fa-graduation-cap').click(function (e) {
+    e.preventDefault(); // Prevent default button behavior
+    
+    // Validate user is MRC member
+    if (!isMrcMember || isMember !== 1) {
+      console.warn('Training feature is only available for MRC Members');
+      alert('This feature is only available to MRC Members. Please contact support if you believe this is an error.');
+      return;
+    }
+    
+    var $button = $(this);
+    var isInTraining = $button.attr('data-in-training') === 'true';
+    
+    // If already in training, do nothing
+    if (isInTraining) {
+      alert('This document is already in your training list.');
+      return;
+    }
+    
+    // Get document ID from button's data attribute
+    var documentId = $button.data('document-id');
+    
+    // Validate document ID
+    if (!documentId || documentId <= 0) {
+      console.error('Invalid document ID:', documentId);
+      alert('Invalid document ID. Please refresh the page and try again.');
+      return;
+    }
+    
+    // Prevent multiple clicks during AJAX
+    if ($button.data('processing')) {
+      console.log('Request already in progress');
+      return;
+    }
+    $button.data('processing', true);
+    
+    // Make AJAX POST request to /mrc/add-document with documentId
+    $.ajax({
+      url: '/mrc/add-document',
+      type: 'POST',
+      data: {
+        documentId: documentId,
+        AntiforgeryFieldname: $('input[name="AntiforgeryFieldname"]').first().val() || $('input[name="__RequestVerificationToken"]').first().val()
+      },
+      dataType: 'json',
+      timeout: 10000, // 10 second timeout
+      success: function (response) {
+        if (response && response.success) {
+          // On success: update button to active state
+          $button.removeClass('fa-training-off').addClass('fa-training-on');
+          $button.attr('data-in-training', 'true');
+          $button.attr('title', 'Already in training');
+          $button.attr('aria-label', 'Already in training');
+          
+          // Add document ID to local array
+          if (userMrcDocumentIds.indexOf(documentId) === -1) {
+            userMrcDocumentIds.push(documentId);
+          }
+          
+          // Update status text
+          var statusDiv = $('#training_status_' + documentId);
+          if (statusDiv.length) {
+            statusDiv.text('Added');
+          }
+          
+          // Show success notification
+          showSuccessNotification(response.message || 'Document added to your training list successfully.');
+        } else {
+          // On error: show error message with response message or generic error
+          var errorMsg = response && response.message ? response.message : 'Failed to add document to training';
+          console.error('Failed to add training document:', errorMsg);
+          showErrorNotification(errorMsg);
+        }
+      },
+      error: function (xhr, status, error) {
+        var errorMsg = 'An error occurred while adding document to training.';
+        
+        // Handle authentication errors (401) by redirecting to login
+        if (xhr.status === 401) {
+          errorMsg = 'Your session has expired. Please log in again.';
+          showErrorNotification(errorMsg);
+          setTimeout(function() {
+            window.location.href = '/login?returnurl=' + encodeURIComponent(window.location.pathname);
+          }, 2000);
+          return;
+        }
+        
+        // Handle authorization errors (403) by showing "MRC membership required" message
+        if (xhr.status === 403) {
+          errorMsg = 'MRC membership required. Please contact support if you believe this is an error.';
+          showErrorNotification(errorMsg);
+          return;
+        }
+        
+        // Handle other error scenarios
+        if (status === 'timeout') {
+          errorMsg = 'Request timed out. Please check your connection and try again.';
+        } else if (xhr.status === 400) {
+          errorMsg = 'Invalid request. Please refresh the page and try again.';
+        } else if (xhr.status >= 500) {
+          errorMsg = 'Server error. Please try again later.';
+        }
+        
+        console.error('Error adding document to training:', {
+          status: status,
+          error: error,
+          xhr: xhr
+        });
+        showErrorNotification(errorMsg);
+      },
+      complete: function () {
+        $button.removeData('processing');
+      }
+    });
+  });
+  
+  /**
+   * Show success notification
+   * Requirements: 7.1, 8.1
+   */
+  function showSuccessNotification(message) {
+    alert(message); // Using simple alert for now - can be enhanced with toast notifications
+  }
+  
+  /**
+   * Show error notification
+   * Requirements: 7.2, 8.2
+   */
+  function showErrorNotification(message) {
+    alert(message); // Using simple alert for now - can be enhanced with toast notifications
+  }
+  
+  // Add keyboard support for training button
+  $('.fa-graduation-cap[role="button"][tabindex="0"]').on('keydown', function(e) {
+    // Handle Enter (13) or Space (32) key press
+    if (e.which === 13 || e.which === 32) {
+      e.preventDefault(); // Prevent default action
+      $(this).click(); // Trigger the click event
+    }
+  });
+
+  $('.fa-heart').click(function (e) {
+    if (isMember === 1) {
+      trToggleFavorite(this);
+    }
+  });
+  
+  // Add keyboard support for favorite button
+  $('.fa-heart[role="button"][tabindex="0"]').on('keydown', function(e) {
+    // Handle Enter (13) or Space (32) key press
+    if (e.which === 13 || e.which === 32) {
+      e.preventDefault(); // Prevent default action
+      $(this).click(); // Trigger the click event
+    }
+  });
+ 
+ 
+ $(function () {
+   $('[data-toggle="tooltip"]').tooltip()
+ });
+</script>
+</main>
+
+
+<!-- FOOTER -->
+
+<footer class="container" id="footer">
+  <div class="row">
+    <div class="col-md-8">
+      <ul class="footernav">
+        <li><a href="/">HOME</a></li>
+        <li><a href="/technical-resources">TECHNICAL RESOURCES</a></li>
+        <li><a href="/assistance-center">ASSISTANCE CENTER</a></li>
+        <li>
+          <a href="/information-exchange">INFORMATION EXCHANGE</a>
+        </li>
+      </ul>
+    </div> <!-- Close class=col-md-9 -->
+    <div class="col-md-4">
+      <div class="feedbackLink"><a target="_blank" rel="noopener noreferrer" href="https://www.surveymonkey.com/s/ASPRTRACIEwebsite">Give Us Your Feedback</a></div>
+      <div class="social-icons clearfix">
+       <div class="sm-icon"><a href="https://www.facebook.com/ASPRgov" rel="noopener noreferrer" target="_blank"><img src="/images/facebook-square.png" width="42" height="42" alt="Facebook"></a></div>
+        <div class="sm-icon"><a href="https://x.com/asprgov" rel="noopener noreferrer" target="_blank"><img src="/images/x-sqaure.png" width="42" height="42" alt="X"></a></div>
+        <div class="sm-icon"><a href="https://www.linkedin.com/showcase/hhs-aspr" rel="noopener noreferrer" target="_blank"><img src="/images/linkedin-square.png" width="42" height="42" alt="Linkedin"></a></div>
+        <div class="sm-icon"><a href="https://www.instagram.com/asprgov" rel="noopener noreferrer" target="_blank"><img src="/images/instagram-square.png" width="42" height="42" alt="Instagram"></a></div>
+        <div class="sm-icon"><a href="https://www.youtube.com/c/ASPRgov" rel="noopener noreferrer" target="_blank"><img src="/images/youtube-square.png" width="42" height="42" alt="YouTube"></a></div>
+        <div class="sm-icon"><a href="https://www.flickr.com/photos/asprgov" rel="noopener noreferrer" target="_blank"><img src="/images/flickr-square.png" width="42" height="42" alt="Flickr"></a></div>
+
+      </div> <!-- Close class=social-icons -->
+    </div> <!-- Close class=col-md-3 -->
+  </div>
+
+  <div class="row">
+    <div id="footerLogo" class="col-xs-12 col-lg-2 logo-footer">
+      <a href="https://aspr.hhs.gov/" rel="noopener noreferrer" target="_blank">
+        <img src="/images/ASPRlogo.jpg" width="160" height="68.44" alt="ASPR logo. Administration for Strategic Preparedness and Response.">
+      </a>
+    </div> <!-- Close class=col-md-2 -->
+    <div id="hideforprintoffset" class="col-xs-12 col-lg-6 footer-links">
+      <div class="footer-links-1">
+        <a href="https://www.aspr.gov/privacy-policies" rel="noopener noreferrer" target="_blank">Privacy</a>,
+        <a href="https://www.aspr.gov/accessibility" rel="noopener noreferrer" target="_blank">Accessibility</a>,
+        <a href="https://www.aspr.gov/disclaimer" rel="noopener noreferrer" target="_blank">Disclaimer</a>,
+        <a href="https://www.hhs.gov/digital/resources/plugins/index.html" rel="noopener noreferrer" target="_blank">Viewers and Players</a>,
+        <a href="https://www.hhs.gov/open/plain-writing/index.html" rel="noopener noreferrer" target="_blank">Plain Language</a>,
+        <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" rel="noopener noreferrer" target="_blank">Vulnerability Disclosure Policy</a>
+      </div> <!-- Close class=footer-links-1 -->
+      <div class="footer-links-2">
+        <a href="https://www.hhs.gov" rel="noopener noreferrer" target="_blank">U.S. Department of Health & Human Services</a><br>
+        <address>400 7th St., SW, Washington, DC 20024</address>
+      </div><!-- Close class=footer-links-2 -->
+    </div> <!-- Close class=col-md-7 -->
+
+    <div class="col-xs-12 col-lg-4">
+      <div class="updated"><b>Last updated:</b> 22 November 2026</div>
+      <div class="published"><b>First published:</b> 15 September 2015</div>
+    </div>
+    <!-- Close class=col-md-3 -->
+    <a href="#" class="back-to-top noprint">Back to top <i class="fa fa-arrow-up backtotopicon"></i></a>
+  </div><!-- Close class=row -->
+</footer>
+
+
+<script src="/assets/js/scripts.min.js?v=7FXvJ7YnTb57wkIU-lS_WM_Zpd-Vm4Pi0gU0T-54BdI"></script>
+<script src="/assets/js/aws-waf-integration.js?v=rejGCwJlgUFLBv_3Qk2lORCHraDMa-0mJBdRdxN9qpg"></script>
+<script src="/assets/js/secure-messaging.js?v=j7efhwAezvgTyIMYuXE_3ypFDdbP4X9W8Pc0LWG5Wcs"></script>
+
+<script src="/js/popper-1.14.7.min.js"></script>
+<script src="/js/bootstrap-4.6.2.min.js"></script>
+
+
+</body>
+</html>

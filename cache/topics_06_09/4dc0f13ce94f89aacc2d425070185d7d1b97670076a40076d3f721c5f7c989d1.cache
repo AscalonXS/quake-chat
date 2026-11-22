@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/">
+
+<!-- Mirrored from www.tsunami.noaa.gov/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 16 Aug 2026 02:43:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELWDJG5Z1L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ELWDJG5Z1L');
+</script>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="/tsunami/sites/all/themes/pacific_marine/images/favicon-32.png" type="image/png" />
+<link rel="apple-touch-icon" href="/tsunami/sites/all/themes/pacific_marine/images/apple-touch-icon-152x152.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+  <title>NOAA Tsunami</title>  
+  <style type="text/css" media="all">
+@import url("/tsunami/modules/system/system.basef57a.css?tjubpo");
+@import url("/tsunami/modules/system/system.menusf57a.css?tjubpo");
+@import url("/tsunami/modules/system/system.messagesf57a.css?tjubpo");
+@import url("/tsunami/modules/system/system.themef57a.css?tjubpo");
+</style>
+<style type="text/css" media="all">
+@import url("/tsunami/sites/all/modules/views_slideshow/views_slideshowf57a.css?tjubpo");
+</style>
+<style type="text/css" media="all">
+@import url("/tsunami/sites/all/modules/calendar/css/calendar_multidayf57a.css?tjubpo");
+@import url("/tsunami/modules/field/theme/fieldf57a.css?tjubpo");
+@import url("/tsunami/sites/all/modules/scald/modules/fields/mee/css/editor-globalf57a.css?tjubpo");
+@import url("/tsunami/modules/node/nodef57a.css?tjubpo");
+@import url("/tsunami/sites/all/modules/scald_file/scald_filef57a.css?tjubpo");
+@import url("/tsunami/modules/search/searchf57a.css?tjubpo");
+@import url("/tsunami/modules/user/userf57a.css?tjubpo");
+@import url("/tsunami/sites/all/modules/views/css/viewsf57a.css?tjubpo");
+@import url("/tsunami/sites/all/modules/ckeditor/css/ckeditorf57a.css?tjubpo");
+</style>
+<style type="text/css" media="all">
+@import url("/tsunami/sites/all/modules/ctools/css/ctoolsf57a.css?tjubpo");
+@import url("/tsunami/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cyclef57a.css?tjubpo");
+@import url("/tsunami/sites/all/modules/custom_search/custom_searchf57a.css?tjubpo");
+</style>
+<style type="text/css" media="all">
+@import url("/tsunami/sites/all/themes/omega/alpha/css/alpha-resetf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/alpha/css/alpha-mobilef57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/alpha/css/alpha-alphaf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/omega/css/formalizef57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/omega/css/omega-textf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/omega/css/omega-brandingf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/omega/css/omega-menuf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/omega/css/omega-formsf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/omega/css/omega-visualsf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/pacific_marine/css/globalf57a.css?tjubpo");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("https://www.tsunami.noaa.gov/sites/all/themes/pacific_marine/css/pacific-marine-alpha-default.css?tjubpo");
+@import url("https://www.tsunami.noaa.gov/sites/all/themes/pacific_marine/css/pacific-marine-alpha-default-normal.css?tjubpo");
+@import url("https://www.tsunami.noaa.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?tjubpo");
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">
+@import url("/tsunami/sites/all/themes/pacific_marine/css/pacific-marine-alpha-defaultf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/pacific_marine/css/pacific-marine-alpha-default-narrowf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12f57a.css?tjubpo");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">
+@import url("/tsunami/sites/all/themes/pacific_marine/css/pacific-marine-alpha-defaultf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/pacific_marine/css/pacific-marine-alpha-default-normalf57a.css?tjubpo");
+@import url("/tsunami/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12f57a.css?tjubpo");
+</style>
+<!--<![endif]-->
+	
+	<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA"></script>
+	
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute=true;jQuery.migrateTrace=false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-migrate@3.5.2/dist/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/tsunami/misc/jquery-extend-3.4.0d734.js?v=3.7.1"></script>
+<script type="text/javascript" src="/tsunami/misc/jquery-html-prefilter-3.5.0-backportd734.js?v=3.7.1"></script>
+<script type="text/javascript" src="/tsunami/misc/jquery.once7839.js?v=1.2"></script>
+<script type="text/javascript" src="/tsunami/misc/drupalf57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/jquery_update/js/jquery_browser241d.js?v=0.0.1"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/views_slideshow/js/views_slideshowc619.js?v=1.0"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/carhartl/jquery-cookie@1.4.1/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/jquery-form/form@4.3.0/dist/jquery.form.min.js"></script>
+<script type="text/javascript" src="/tsunami/misc/form-single-submit6ac0.js?v=7.103"></script>
+<script type="text/javascript" src="/tsunami/misc/ajax6ac0.js?v=7.103"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/jquery_update/js/jquery_update241d.js?v=0.0.1"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/entityreference/js/entityreferencef57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/custom_search/js/custom_searchf57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/libraries/jquery.cycle/jquery.cycle.all.minf57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cyclef57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/views/js/basef57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/misc/progress6ac0.js?v=7.103"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/views/js/ajax_viewf57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/themes/pacific_marine/js/pacific_marinef57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/modules/jquery_update/js/jquery_position241d.js?v=0.0.1"></script>
+<script type="text/javascript" src="/tsunami/sites/all/themes/omega/omega/js/jquery.formalizef57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/themes/omega/omega/js/omega-mediaqueriesf57a.js?tjubpo"></script>
+<script type="text/javascript" src="/tsunami/sites/all/themes/omega/omega/js/omega-equalheightsf57a.js?tjubpo"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"pacific_marine","theme_token":"FhwWLm_LE-SI1I6589DoAKi3CLnMbZctVzIMIof9izU","jquery_version":"3.7.1","jquery_version_token":"4q1MNGHN9bNPR5n4CbWMWFamyV-o_as5OgzSS4c43yU","js":{"https:\/\/code.jquery.com\/jquery-3.7.1.js":1,"0":1,"https:\/\/cdn.jsdelivr.net\/npm\/jquery-migrate@3.5.2\/dist\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"https:\/\/cdn.jsdelivr.net\/gh\/carhartl\/jquery-cookie@1.4.1\/jquery.cookie.js":1,"https:\/\/cdn.jsdelivr.net\/gh\/jquery-form\/form@4.3.0\/dist\/jquery.form.min.js":1,"misc\/form-single-submit.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/entityreference\/js\/entityreference.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/pacific_marine\/js\/pacific_marine.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_position.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-equalheights.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/scald\/modules\/fields\/mee\/css\/editor-global.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/scald_file\/scald_file.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/pacific_marine\/css\/global.css":1,"ie::normal::sites\/all\/themes\/pacific_marine\/css\/pacific-marine-alpha-default.css":1,"ie::normal::sites\/all\/themes\/pacific_marine\/css\/pacific-marine-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/pacific_marine\/css\/pacific-marine-alpha-default.css":1,"narrow::sites\/all\/themes\/pacific_marine\/css\/pacific-marine-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/pacific_marine\/css\/pacific-marine-alpha-default.css":1,"normal::sites\/all\/themes\/pacific_marine\/css\/pacific-marine-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"custom_search":{"form_target":"_self","solr":0},"viewsSlideshow":{"pmel_themes-page_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"pmel_themes-page_1":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}}},"viewsSlideshowPagerFields":{"pmel_themes-page_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_pmel_themes-page_1":{"num_divs":6,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"pmel_themes-page_1","effect":"fade","transition_advanced":1,"timeout":4000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:60f724031aff54f0e74d0797c25e47de":{"view_name":"pmel_themes","view_display_id":"page","view_args":"","view_path":"home","view_base_path":"home","view_dom_id":"60f724031aff54f0e74d0797c25e47de","pager_element":0},"views_dom_id:85fffa8c377021d5808df0f85d84d26d":{"view_name":"what_s_new","view_display_id":"block","view_args":"","view_path":"home","view_base_path":"whats-new","view_dom_id":"85fffa8c377021d5808df0f85d84d26d","pager_element":0},"views_dom_id:623fa2dde7347cad381fedb25a77db4f":{"view_name":"pmel_in_the_media","view_display_id":"block","view_args":"","view_path":"home","view_base_path":"media\/pmel-in-the-news","view_dom_id":"623fa2dde7347cad381fedb25a77db4f","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/":true},"better_exposed_filters":{"views":{"pmel_themes":{"displays":{"page":{"filters":[]}}},"what_s_new":{"displays":{"block":{"filters":[]}}},"pmel_in_the_media":{"displays":{"block":{"filters":[]}}},"featured_publications":{"displays":{"block":{"filters":[]}}}}},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in page-home">
+  <div id="body-bg-top"></div>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-7 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="" class="active"><img src="/tsunami/sites/all/themes/pacific_marine/images/header-logo.png" alt="" id="logo" /></a>      </div>
+                </div>
+          </div>
+</div><div class="grid-5 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-block block-4 block-block-4 odd block-without-title" id="block-block-4">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="noaa-doc">
+<div class="logos">
+<div class="logo" id="doc-logo"><a href="https://www.commerce.gov/" target="_blank"><img alt="Department of Commerce logo" src="/tsunami/sites/all/themes/pacific_marine/images/doc_logo.png" style="width: 40px; height: 40px;" /></a></div>
+<div class="logo" id="noaa-logo"><a href="https://www.noaa.gov/" target="_blank"><img alt="National Oceanic and Atmospheric Administration logo" src="/tsunami/sites/all/themes/pacific_marine/images/noaa_logo.png" style="width: 40px; height: 40px;" /></a></div>
+</div>
+<div class="words">National Oceanic and<br />
+Atmospheric Administration<br /><span id="doc">United States Department of Commerce</span></div>
+</div>
+    </div>
+  </div>
+</div><div class="block block-search block-form block-search-form even block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form class="search-form" role="search" action="https://www.tsunami.noaa.gov/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search PMEL </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search Tsunami" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Zb4onZlkaeEl4C7aYI8gGj49KTo5PXkD73fBHqXEX40" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-system block-menu block-main-menu block-system-main-menu odd block-without-title" id="block-system-main-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/tsunami/pmel-theme/about-tsunami-program/">About</a></li>
+<li class="leaf"><a href="/tsunami/pmel-theme/research/">Research</a></li>
+<li class="leaf"><a href="/tsunami/pmel-theme/tsunami-detection/">Detection</a></li>
+<li class="leaf"><a href="/tsunami/pmel-theme/forecast-warning/">Forecast &amp; Warning</a></li>
+<li class="leaf"><a href="/tsunami/archive/">Archive</a></li>
+<li class="last leaf"><a href="/tsunami/pmel-theme/mitigation/">Mitigation</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-preface-wrapper" class="zone-wrapper zone-preface-wrapper clearfix">  
+  <div id="zone-preface" class="zone zone-preface clearfix equal-height-container container-12">
+    <div class="grid-3 region region-preface-first equal-height-element" id="region-preface-first">
+  <div class="region-inner region-preface-first-inner">
+      </div>
+</div><div class="grid-9 region region-preface-second equal-height-element" id="region-preface-second">
+  <div class="region-inner region-preface-second-inner">
+      </div>
+</div>  </div>
+</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix no-sidebar">  
+  <div id="zone-content" class="zone zone-content clearfix equal-height-container container-12">    
+        
+        <div class="grid-12 region region-content equal-height-element" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-pmel-themes view-id-pmel_themes view-display-id-page view-dom-id-60f724031aff54f0e74d0797c25e47de">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_pmel_themes-page_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_pmel_themes-page_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_pmel_themes-page_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_pmel_themes-page_1_0'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><a href="/tsunami/pmel-theme/about-tsunami-program/"><img typeof="foaf:Image" src="/tsunami/sites/default/files/styles/landing_page_banner/public/thumbnails/image/tsunamiProgram_wingsbc59.jpg?itok=uIyKTupQ&amp;c=2c2de987c8f3a1ba33fa33ce85527550" alt="Tsunami program" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_pmel_themes-page_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_pmel_themes-page_1_1'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><a href="/tsunami/pmel-theme/research/"><img typeof="foaf:Image" src="/tsunami/sites/default/files/styles/landing_page_banner/public/thumbnails/image/whirlpool_japan_tsunami_bannerimage3eba.jpg?itok=umIJy-cY&amp;c=a6dcb0a0dcafe13950309c18d90c6c28" alt="Whirlpool in tsunami in Japan 2011" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_pmel_themes-page_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_pmel_themes-page_1_2'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><a href="/tsunami/pmel-theme/tsunami-detection/"><img typeof="foaf:Image" src="/tsunami/sites/default/files/styles/landing_page_banner/public/thumbnails/image/dart-28c86.jpg?itok=3SG1RLsv&amp;c=203a56a320241f7a34e17ba0e093f35f" alt="DART buoy in ocean" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_pmel_themes-page_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_pmel_themes-page_1_3'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><a href="/tsunami/pmel-theme/forecast-warning/"><img typeof="foaf:Image" src="/tsunami/sites/default/files/styles/landing_page_banner/public/thumbnails/image/GRAPHIC-Tsunami-Alerts-from-govt-180321_tsunami-alert-infographic_banner2f7e.png?itok=5y1KdY7x&amp;c=88b452c65b1be06ff9609f2bb21f73bc" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_pmel_themes-page_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_pmel_themes-page_1_4'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><a href="/tsunami/archive/"><img typeof="foaf:Image" src="/tsunami/sites/default/files/styles/landing_page_banner/public/thumbnails/image/DART-map_508_comp_attr-2_04d45.png?itok=H1vPzbXs&amp;c=d0df898c7a20c7ffc77388e0e6516da2" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_pmel_themes-page_1_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-last views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_pmel_themes-page_1_5'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><a href="/tsunami/pmel-theme/mitigation/"><img typeof="foaf:Image" src="/tsunami/sites/default/files/styles/landing_page_banner/public/thumbnails/image/nthmpbe49.jpg?itok=38H5KPPH&amp;c=e262868829eb58567c151f9ca2c19f64" alt="Tsunami hazard sign" /></a></div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_pmel_themes-page_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_pmel_themes-page_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_pmel_themes-page_1_0">
+  <div class="views-field-field-slideshow-title">
+    <div class="views-content-field-slideshow-title">
+    <a href="/tsunami/pmel-theme/about-tsunami-program/">About</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_pmel_themes-page_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_pmel_themes-page_1_1">
+  <div class="views-field-field-slideshow-title">
+    <div class="views-content-field-slideshow-title">
+    <a href="/tsunami/pmel-theme/research/">Research</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_pmel_themes-page_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_pmel_themes-page_1_2">
+  <div class="views-field-field-slideshow-title">
+    <div class="views-content-field-slideshow-title">
+    <a href="/tsunami/pmel-theme/tsunami-detection/">Detection</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_pmel_themes-page_1_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_pmel_themes-page_1_3">
+  <div class="views-field-field-slideshow-title">
+    <div class="views-content-field-slideshow-title">
+    <a href="/tsunami/pmel-theme/forecast-warning/">Forecast &amp; Warning</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_pmel_themes-page_1_4" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_pmel_themes-page_1_4">
+  <div class="views-field-field-slideshow-title">
+    <div class="views-content-field-slideshow-title">
+    <a href="/tsunami/archive/">Archive</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_pmel_themes-page_1_5" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even views-row-last" aria-controls="views_slideshow_cycle_div_pmel_themes-page_1_5">
+  <div class="views-field-field-slideshow-title">
+    <div class="views-content-field-slideshow-title">
+    <a href="/tsunami/pmel-theme/mitigation/">Mitigation</a>  </div>
+</div>
+</div>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix equal-height-container container-12">
+    <div class="grid-7 region region-postscript-first equal-height-element" id="region-postscript-first">
+  <div class="region-inner region-postscript-first-inner">
+    <div class="block block-block block-10 block-block-10 odd block-without-title" id="block-block-10">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h1 style="text-align: center;">NOAA Tsunami Program</h1>
+<p><span style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">The NOAA Tsunami Program is a federal and state partnership dedicated to saving lives and protecting property before, during, and after tsunami impact through applied research, detection, forecasts, archive, mitigation, and international coordination. NOAA’s National Weather Service serves as Program administrator and supports the worldwide network of DART® systems, seismic station networks, and coastal and flooding detectors, activities to improve forecasts, data management, international hazard assessment, and the National Tsunami Hazard Mitigation Program. Taken together, these individual Program components constitute an end-to-end, forecast-to-community planning and recovery suite of efforts and capabilities to mitigate the impact of tsunami waves along US coastlines. </span></p>
+<p class="rtecenter"><span style="font-size:14px;"><strong><span style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; background-color: rgb(255, 255, 255);">For current tsunami information, visit <a href="http://tsunami.gov/">U.S. Tsunami Warning System</a>.</span></strong></span></p>
+<p class="rtecenter"><a href="/tsunami/pmel-theme/about-tsunami-program/"><img alt="" src="/tsunami/sites/default/files/u202/Venn_May31.png" style="width: 500px; height: 463px;" /></a></p>
+<p class="rtecenter"> </p>
+    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-5 region region-postscript-second equal-height-element" id="region-postscript-second">
+  <div class="region-inner region-postscript-second-inner">
+    <div class="block block-block block-11 block-block-11 odd block-without-title" id="block-block-11">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h2 class="home-title"><a href="http://nctr.pmel.noaa.gov/">Research</a></h2>
+<p>Current research improves measurement technology, increases the speed and accuracy of operational forecast models, and investigates methods to assess and predict tsunami impact on coastal communities and infrastructure.</p>
+<h2 class="home-title">Detection</h2>
+<p>Coastal <a href="https://tidesandcurrents.noaa.gov/">tide gauge stations</a> and thirty-nine (39) <a href="https://ndbc.gov/dart">deep-ocean stations</a> are maintained in waters where earthquakes are likely to cause tsunamis. Water level measurements are sent to shore by satellite regularly to check system health and sent from deep stations more often after a tsunami is generated.</p>
+<h2 class="home-title"><a href="http://tsunami.gov/">Forecast &amp; Warning</a></h2>
+<p>Tsunami warning centers in Alaska and Hawaii monitor the globe for earthquakes that might generate a tsunami and issue warning guidance to all coastal regions of the United States upon detection and evaluation.</p>
+<h2 class="home-title"><a href="https://www.ngdc.noaa.gov/hazard/hazards.shtml">Archive</a></h2>
+<p>Tsunami height, reach of water inland, personal accounts, and images are collected and archived to the Global Historical Database for forecast, research, and public reference. Time series of 'as recorded' and processed water levels are also archived and available to the public. </p>
+<h2 class="home-title"><a href="https://nws.weather.gov/nthmp/">Mitigation</a></h2>
+<p>All efforts that apply program components to prepare U.S. coastal communities for tsunami impact in order to reduce loss of life and property when tsunami waves strike.</p>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-8 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-block block-2 block-block-2 odd block-without-title" id="block-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a href="https://www.noaa.gov/">National Oceanic and Atmospheric Administration</a><br /><a href="/tsunami">NOAA Tsunami Program</a><br /><a href="mailto:oar.pmel.tsunami-webmaster@noaa.gov">oar.pmel.tsunami-webmaster@noaa.gov</a></p>
+    </div>
+  </div>
+</div><div class="block block-menu block-menu-footer-first-menu block-menu-menu-footer-first-menu even block-without-title" id="block-menu-menu-footer-first-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="https://www.commerce.gov/" title="The United States Department of Commerce" target="_blank">DOC</a></li>
+<li class="leaf"><a href="https://www.noaa.gov/" title="The National Oceanographic and Atmospheric Administration" target="_blank">NOAA</a></li>
+<li class="leaf"><a href="/tsunami" target="_blank" class="active">Tsunami</a></li>
+<li class="leaf"><a href="https://www.noaa.gov/protecting-your-privacy" target="_blank">Privacy Policy</a></li>
+<li class="last leaf"><a href="https://www.noaa.gov/disclaimer" target="_blank">Disclaimer</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-4 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-menu block-menu-footer-second-menu block-menu-menu-footer-second-menu odd block-without-title" id="block-menu-menu-footer-second-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first last leaf"><a href="/sitemap/" title="Title of Site map page">NOAA Tsunami Sitemap</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div>  <div id="body-bg-bottom"></div>
+</body>
+
+<!-- Mirrored from www.tsunami.noaa.gov/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 16 Aug 2026 02:44:51 GMT -->
+</html>

@@ -1,0 +1,48 @@
+Assessing earthquake risks to lifeline infrastructure systems in the United States
+March 24, 2025
+The security and economic stability of the United States rely heavily on robust lifeline infrastructure systems and yet the risks to such systems are seldom quantified at the national scale. For example, while earthquake risks to buildings in the United States have been investigated at the national scale regularly, such risks to gas pipelines have rarely been investigated nationally. In this paper, we use examples from two critical infrastructure sectors to demonstrate (1) the nature of earthquake risks to lifeline infrastructure systems, (2) complexities involved in regional seismic risk assessments, and (3) how such risks change with time. We found that bridge risks can be underestimated by at least 64 % when viewed from repair costs instead of traffic demands and that regional risks can be underestimated by 19 % when spatial correlations of ground motion are ignored. Further, exceedance of traffic demand can be 50 times more likely to occur when viewed at the regional scale than when viewed at an individual bridge. Similarly, exceedance of repairs can be 180 times more likely to occur when viewed at the pipeline network level than at a segment-specific level. Finally, sensitivity analyses with the 2018 and 2023 USGS National Seismic Hazard Models indicate an increase in bridge risk of at least 24 % and an increase in exposed gas pipeline mileage of 43 %. The evolution of risks, complexities involved in assessments, and limited resources jointly underscore the need for more routine updates to nationwide seismic risk assessments of lifeline systems in the United States.
+Citation Information
+Publication Year
+2025
+Title
+Assessing earthquake risks to lifeline infrastructure systems in the United States
+DOI
+10.1016/j.ijcip.2025.100758
+Authors
+N. Simon Kwong, Kishor S. Jaiswal
+Publication Type
+Article
+Publication Subtype
+Journal Article
+Series Title
+International Journal of Critical Infrastructure Protection
+Index ID
+70265967
+Record Source
+USGS Publications Warehouse
+USGS Organization
+Geologic Hazards Science Center - Seismology / Geomagnetism
+Related
+Connect
+Neal Simon Kwong, PhD (Former Employee)
+Research Structural Engineer
+Earthquake Hazards Program
+Kishor Jaiswal
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+kjaiswal@usgs.gov
+Phone
+303-273-8584
+Related
+Connect
+Neal Simon Kwong, PhD (Former Employee)
+Research Structural Engineer
+Earthquake Hazards Program
+Kishor Jaiswal
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+kjaiswal@usgs.gov
+Phone
+303-273-8584

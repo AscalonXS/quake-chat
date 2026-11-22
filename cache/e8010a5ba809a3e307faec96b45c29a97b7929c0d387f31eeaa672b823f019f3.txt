@@ -1,0 +1,742 @@
+Pharmacy
+Topic Collection
+April 14, 2025
+Topic Collection: Pharmacy
+Technical Resources
+Location-Specific Collections
+Pharmacy
+Prescription medications are a critical part of effective healthcare. Shortages can arise from manufacturing or distribution issues, an increase in demand, or, in a disaster situation, lack of available distribution locations, damage to storage/distribution locations, lack of refrigeration, or a patient’s inability to access their medications. Medication shortages can cause inadequate treatment, and may require rationing and crisis care strategies. These situations are occurring more frequently in non-disaster situations due to production and inventory factors. Hospitals and retail pharmacies face numerous challenges when attempting to prepare for these shortages, particularly during emergency situations.
+Community members with acute or chronic conditions may face challenges obtaining their medicine before, during, and after disasters due to insurance or access issues. These barriers can exacerbate their medical conditions, which can also increase the vulnerability of a population and the number of preventable medical care and emergency room visits. Community and hospital pharmacy staff may also be at risk of workplace violence (e.g., during community unrest, while working alone, and/or while working with potentially volatile patients).
+The resources in this Topic Collection can help pharmacists and healthcare providers prepare for and respond to shortages and other pharmaceutical-related challenges that may arise during and after a disaster, as well as during non-disaster situations requiring resource allocation and crisis care strategies. This Collection also includes resources related to the role of pharmacists in disaster response, workplace violence, and strategies for partnerships between pharmacists/pharmacies and public health for public health emergency response. It was refreshed in September 2022.
+Additional related resources may be found in the following ASPR TRACIE Topic Collections:
+Bioterrorism and High Consequence Biological Threats
+;
+Chemical Hazards
+;
+Emergency Operations Plans/ Emergency Management Program
+;
+Epidemic/ Pandemic Flu
+;
+Mass Distribution and Dispensing of Medical Countermeasures
+; and
+Radiological and Nuclear
+.
+Each resource in this Topic Collection is placed into one or more of the following categories (click on the category name to be taken directly to that set of resources). Resources marked with an asterisk (*) appear in more than one category.
+Sections Navigation
+Toggle Open/Close
+Must Reads
+Drug Shortages
+Education and Training
+Emergency Prescription Assistance Program (EPAP) Resources
+Evaluation and Studies: General
+Evaluation and Studies: Pandemic
+Guidelines and Protocols: General
+Legal/Regulatory Resources
+Lessons Learned
+Pharmacy Workplace Violence
+Plans, Tools, and Templates
+Agencies and Organizations
+Section Navigation
+Toggle Open/Close
+Must Reads
+Drug Shortages
+Education and Training
+Emergency Prescription Assistance Program (EPAP) Resources
+Evaluation and Studies: General
+Evaluation and Studies: Pandemic
+Guidelines and Protocols: General
+Legal/Regulatory Resources
+Lessons Learned
+Pharmacy Workplace Violence
+Plans, Tools, and Templates
+Agencies and Organizations
+Must Reads
+ASPR TRACIE. (2016).
+Emergency Prescription Assistance Program (EPAP): Overview Fact Sheet.
+U.S. Department of Health and Human Services, Office of the Assistant Secretary for Preparedness and Response.
+The Emergency Prescription Assistance Program (EPAP) is funded by the Stafford Act and designed to help disaster survivors access prescription medicines. EPAP can also be activated by the Public Health Service Act under the authority of the National Disaster Medical System (NDMS). The program utilizes normal business operations (e.g., electronic prescription claims processing, utilization of the normal pharmaceutical supply chain for distribution and dispensing) to pay for prescription medications for eligible persons.
+Login
+to favorite the article
+Favorite:
+3
+ASPR TRACIE. (2024).
+Intravenous Fluid Shortage Strategies.
+During shortages of sterile fluids for intravenous (IV) injection, hospitals and healthcare providers must modify usual practices for administration to conserve product. The information in this tip sheet is derived from existing published resources, based primarily on previous shortage experiences.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2025).
+Disaster Available Supplies in Hospitals (DASH) Tool.
+Disaster Available Supplies in Hospitals (DASH) is an interactive tool that can help hospital emergency planners and supply chain staff estimate supplies that may need to be immediately available during various mass casualty incidents and infectious disease emergencies based on hospital characteristics. Comprised of four modules (pharmacy, burn, trauma, and personal protective equipment), DASH recommends average par levels for specific supplies that acute care hospitals may need to have on hand to respond to a disaster in their community until resupplied. Recommendations are based on user inputs about the size of the hospital, risks in the community, regional role/designation of the hospital, and other factors.
+Login
+to favorite the article
+Favorite:
+Association of State and Territorial Health Officials. (2018).
+Memorandum of Understanding Toolkit for Collaborations Between Public Health and Pharmacies in Preparation for an Influenza Pandemic.
+This document provides guidance and templates for state and territorial health agencies charged with creating memoranda of understanding with pharmacies in response to influenza pandemics and other public health emergencies.
+Login
+to favorite the article
+Favorite:
+Association of State and Territorial Health Officials. (2022).
+Emergency Use Authorization Toolkit.
+The toolkit provides government officials, preparedness directors, and legal counsel with emergency use authorization-related educational, training, and planning resources to help prepare for and respond to emergencies. It provides information on the federal law that allows special uses for drugs, biologics, and devices during specified emergencies. It also includes information related to the storage, dispensing, and use of medical countermeasures. The EUA Toolkit is one of six toolkits in ASTHO’s Legal Preparedness Series: https://www.astho.org/advocacy/state-health-policy/legal-preparedness-series/.
+Login
+to favorite the article
+Favorite:
+Bell, C., and Daniel, S. (2014).
+Pharmacy Leader's Role in Hospital Emergency Preparedness Planning.
+Hospital Pharmacy. 49(4): 398–404.
+The objective of this article is to provide healthcare system pharmacy leaders with a practical approach in developing an emergency operations plan (EOP) that can be activated and help meet patient-centered needs in the event of a disaster. The authors address how pharmacy leaders should: 1) review government and community disaster responses and understand the movement of drug supply for each response; 2) create a pharmacy disaster plan; 3) list the essential medications and determine their inventory levels; and 4) establish a staff training program to enhance understanding and implementation of the EOP.
+Login
+to favorite the article
+Favorite:
+Brown, D.W., Young, S.L., Engelgau, M.M., and Mensah, G.A. (2012).
+Evidence-Based Approach for Disaster Preparedness Authorities to Inform the Contents of Repositories for Prescription Medications for Chronic Disease Management and Control.
+(Abstract only.) Prehospital and Disaster Medicine. 23(5):447-57.
+The authors of this study provide the first step in an evidence-based approach to inform the planning, periodic review, and revision of repositories of chronic disease medications, which would be helpful for rapid response to public health emergencies. The article identifies the most-prescribed medication classes of drugs as a start to outpatient planning.
+Login
+to favorite the article
+Favorite:
+Carameli, K.A., Eisenman, D.P., Blevins, J., et al. (2013).
+Planning for Chronic Disease Medications in Disaster: Perspectives from Patients, Physicians, Pharmacists, and Insurers.
+Disaster Medicine and Public Health Preparedness.
+The authors of this study discuss the imbalance between the high proportion of chronically ill Americans who depend on prescription medications and their lack of medication reserves for disaster preparedness. They examined barriers that Los Angeles County residents with chronic illness experience within the prescription drug procurement system to achieve recommended medication reserves.
+Login
+to favorite the article
+Favorite:
+Centers for Medicare and Medicaid Services. (2024).
+Getting Medical Care and Prescription Drugs in a Disaster or Emergency Area.
+This fact sheet is intended for Medicare patients and provides information about: how to see doctors and other providers; get prescription drugs and extended day supplies; pay Medicare premiums; and receive dialysis or chemotherapy in a disaster or emergency area. It also describes how to replace a Medicare card, or lost or damaged durable medical equipment or supplies that Medicare paid for.
+Login
+to favorite the article
+Favorite:
+Healthcare Ready (formerly Rx Response). (2025).
+Rx Open.
+This website helps emergency management teams and the general public locate operating pharmacies in areas affected by natural disasters or public health emergencies. The tool provides maps to identify the location of open and closed pharmacies using Google Maps. The website is free to the public when activated at the request of state or federal officials.
+Login
+to favorite the article
+Favorite:
+Jhung, M.A., Shehab, N., Rohr-Allegrini, C., et al. (2007).
+Chronic Disease and Disasters: Medication Demands of Hurricane Katrina Evacuees.
+American Journal of Preventive Medicine. 33(3):207-210.
+The authors of this study assess the relationship between actual medication demands and medical relief pharmaceutical supplies in a population of 18,000 evacuees relocated to San Antonio, TX after Hurricane Katrina struck the Gulf Coast in August 2005.
+Login
+to favorite the article
+Favorite:
+National Association of County and City Health Officials. (2014).
+Local Health Department and Pharmacy Partnerships for Enhancing Medication Dispensing During Emergencies: Statement of Policy.
+This document offers eight recommendations for local health departments on collaborating with pharmacy partners for public health emergency preparedness and response. It discusses how strong relationships between local health departments and pharmacy partners can increase the safe, fast, effective, and equitable distribution of medical countermeasures during a public health emergency, and are crucial to effective public health emergency response.
+Login
+to favorite the article
+Favorite:
+Pincock, L.L, Montello, M.J., Tarosky, M.J., et al. (2011).
+Pharmacist Readiness Roles for Emergency Preparedness.
+(Requires log in to Medscape). American Journal of Health-System Pharmacy. 68(7):620-623.
+The authors describe the various roles pharmacists could have in disaster readiness and divide them into two categories: "clinical" and "other." Clinical roles would primarily be fulfilled by ambulatory care readiness pharmacists, pharmacotherapy readiness pharmacists, and critical care readiness pharmacists. The "other" category includes specialized clinical roles and nonclinical activities carried out by weapons of mass destruction/pandemic readiness pharmacists, pharmacy readiness logisticians, and pharmacist readiness managers.
+Login
+to favorite the article
+Favorite:
+Drug Shortages
+American Society of Health-Systems Pharmacists. (2018).
+Drug Shortages as a Matter of National Security: Improving the Resilience of the Nation’s Healthcare Critical Infrastructure.
+This article includes suggestions made by attendees of a September 2018 summit focused on the issue of drug shortages as a matter of national security. The non-consensus recommendations include those pertaining to policy and marketplace changes to prevent and mitigate drug shortages.
+Login
+to favorite the article
+Favorite:
+American Society of Health-Systems Pharmacists. (2018).
+Drug Shortages Roundtable: Minimizing the Impact on Patient Care.
+American Journal of Health-System Pharmacy. 75(11): 816–820.
+This article details discussions held at a November 2017 roundtable on drug shortages organized by the American Society of Health-Systems Pharmacists. Topics included: the role of the Food and Drug Administration in addressing shortages; drug shortage trends and causes; compounding outsourcing facilities regulated under Section 503B of the Food, Drug, and Cosmetics Act; and recommendations for preventing and mitigating shortages.
+Login
+to favorite the article
+Favorite:
+American Society of Health-Systems Pharmacists and University of Utah Drug Information Service. (2017).
+Small-Volume Parenteral Solutions Shortages: Suggestions for Management and Conservation.
+U.S. Food and Drug Administration.
+This fact sheet “summarizes the status of the current acute shortage of small-volume parenteral solutions and provides an outline of potential actions for organizations to consider in managing the shortage.” Included are strategies to assist physicians with conserving resources; inventory control strategies; pharmacy operational strategies; informatics strategies; and safety information.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2024).
+Intravenous Fluid Shortage Strategies.
+During shortages of sterile fluids for intravenous (IV) injection, hospitals and healthcare providers must modify usual practices for administration to conserve product. The information in this tip sheet is derived from existing published resources, based primarily on previous shortage experiences.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2024).
+Partnering with the Healthcare Supply Chain During Disasters.
+This document provides an overview of the emergency planning and response considerations of healthcare supply chain owners, operators, and end users, as well as insights for healthcare coalitions (HCCs) working with healthcare supply chain partners on preparedness, response, and recovery. It aims to capture key changes during serious or catastrophic events, compared to normal supply chain operations, as well as planning and response contingencies.
+Login
+to favorite the article
+Favorite:
+1
+ASPR TRACIE. (2024).
+Shortage Strategies and Resources: Peritoneal Dialysis Solution.
+Medical product shortages and disaster-induced impacts from hurricanes and other extreme weather incidents can disrupt dialysis treatment and access to critical supplies. This tipsheet can help healthcare providers adapt to a shortage of peritoneal dialysis solution.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE and ASTHO. (2017).
+Clinicians and Coalitions: A Conversation about Finding Solutions for Medication Shortages.
+The speakers in this webinar: provided an overview of the medication shortages and their clinical impact; described coping strategies for scarce resources; and discussed the decision- making strategies states, coalitions, and healthcare facilities have used based on crisis standards of care principles. Speakers also responded to questions received from participants in a facilitated discussion (available here: https://asprtracie.hhs.gov/documents/aspr-tracie-medication-shortage-webinar-discussion-questions.pdf)."
+Login
+to favorite the article
+Favorite:
+Belisle, C.D., Anger, K., Kanaan, D., et al. (2021).
+Non-Sterile to Sterile Compounding: An Unconventional Response During the COVID-19 Pandemic.
+Journal of Pharmacy Practice.
+This article addresses the history, decision-making processes, and response to the critical medication shortages experienced during the COVID-19 pandemic. More specifically, it focuses on hydromorphone infusions and the steps taken to engage in non-sterile to sterile compounding.
+Login
+to favorite the article
+Favorite:
+Burry, L.D., Barletta, J.F., Williamson, D., et al. (2020).
+It Takes a Village... Contending with Drug Shortages During Disasters.
+Chest Journal. 158(6):2414-2424.
+The COVID-19 pandemic has emphasized the need for a coordinated, multi-pronged approach to optimize medication availability. This resource addresses various factors that contribute to drug shortages during pandemics including issues related to supply (e.g., manufacturing difficulties, supply chain breakdowns), and variables that influence demand (e.g., volatile prescribing practices, anecdotal or low-level data, and hoarding).
+Login
+to favorite the article
+Favorite:
+*
+Duke University Margolis Center for Health Policy. (2018).
+Identifying the Root Causes of Drug Shortages and Finding Enduring Solutions.
+This webpage includes links to the agenda, speaker biographies, and presentation slides from a 1-day seminar held in November 2018 focused on drug shortages. Topics included: federal efforts to address drug shortages; economics of drug shortages; health impacts of drug shortages; manufacturing and supply challenges; drug purchasing and demand challenges; and strategies to reduce clinical and economic consequences of drug shortages.
+Login
+to favorite the article
+Favorite:
+Erickson, A. (2016).
+Drug Shortages: Hospital Pharmacists Work Magic Behind the Scenes.
+Pharmacy Times. 22(5): 6-7.
+The author highlights strategies offered by hospital pharmacists for managing drug shortages. These include: working closely with pharmacy buyers to manage inventory; securing as much product as possible for each hospital within a network and then reallocating supply across hospitals as needed; using a Drug Use Policy team of pharmacists who review all of the literature and prepare pharmacy and therapeutic drug reviews to identify alternatives; triaging available supplies; and having pharmacists work closely with physicians on the floors to ensure available clinical data supports decision-making for use of alternative options.
+Login
+to favorite the article
+Favorite:
+Food and Drug Administration. (n.d.).
+FDA Drug Shortages: Current and Resolved Drug Shortages and Discontinuations Reported to FDA.
+(Accessed 7/20/2022).
+This page shows the status of past and current shortages of drugs available in the United States.
+Login
+to favorite the article
+Favorite:
+Food and Drug Administration. (2013).
+Strategic Plan for Preventing and Mitigating Drug Shortages Food and Drug Administration, October 2013.
+This document addresses the Food and Drug Administration’s plan for identifying, preventing, and mitigating drug shortages.
+Login
+to favorite the article
+Favorite:
+Fox, E., Sweet, B., and Jensen, V. (2014).
+Drug Shortages: A Complex Health Care Crisis.
+Mayo Clinic Proceedings. 89(3):361-373.
+This article provides an overview of the causes of drug shortages, and the effects that they have on clinical care. The authors call drug shortages “a form of health care rationing,” and note multiple examples of medication errors that have resulted from drug shortages.
+Login
+to favorite the article
+Favorite:
+Minnesota Department of Health. (2024).
+Recommendations for Ethical Allocation of Sterilized Fluids.
+In 2024, Hurricane Helene damaged a Baxter facility that produced intravenous fluids and related products. This document provides a voluntary framework for the ethical allocation of these products until the shortage is resolved.
+Login
+to favorite the article
+Favorite:
+National Academies of Sciences, Engineering, and Medicine. (2018).
+Medical Product Shortages During Disasters.
+This document summarizes a conference held in 2017 in response to a shortage of intravenous saline solution (made worse during that year's hurricane season) during which experts discussed predicting, preventing, and responding to drug shortages.
+Login
+to favorite the article
+Favorite:
+*
+Parenteral Drug Association. (2014).
+Drug Shortages.
+This webpage includes links to a technical report issued in 2014, “Risk-Based Approach for Prevention and Management of Drug Shortages.” Included with the report is a template for a Drug Shortage Prevention and Response Plan.
+Login
+to favorite the article
+Favorite:
+Pulk, R.A., Leber, M., Tran, L., et al. (2020).
+Dynamic Pharmacy Leadership during the COVID-19 Crisis. Optimizing Patient Care Through Formulary and Drug Shortage Management.
+American Journal of Health-System Pharmacy. 77(22):1874-1884.
+The authors describe their approach during the COVID-19 pandemic to adapting a pharmacy leadership structure that addresses critical medication shortages through innovative data analysis, procurement strategies, and rapid implementation of medication policy.
+Login
+to favorite the article
+Favorite:
+Scudder, L. and Jensen, V. (2014).
+Critical Intravenous Solution Shortages.
+Medscape.
+This interview of drug shortage staff from the Food and Drug Administration, addresses the 2014 saline shortage. It provides recommendations for substitution of normal saline with other solutions and alternatives for mixing and administering medications.
+Login
+to favorite the article
+Favorite:
+Shaban, H., Maurer, C., and Willborn, R. (2018).
+Impact of Drug Shortages on Patient Safety and Pharmacy Operation Costs.
+Federal Practitioner.
+The authors share the results of a descriptive study with the primary outcome of characterizing the impact of drug shortages on institutional cost and patient safety events among Veterans Health Administration facilities.
+Login
+to favorite the article
+Favorite:
+Supply Chain Security Steering Committee. (2018).
+Taking a Collaborative Approach to Secure Donated Medicines.
+(Registration necessary to download free report.) RX-360.
+The Committee shares the benefits, problems, gaps, challenges, best practices, and the ongoing efforts to strengthen the supply chain for donated product.
+Login
+to favorite the article
+Favorite:
+*
+U.S. Food and Drug Administration. (2014).
+Managing Drug Shortages.
+This webpage provides links to a video and written transcript addressing the U.S. Food and Drug Administration (FDA) Safety and Innovation Act. The Act was passed by Congress in 2012, and provides new authorities for the FDA to manage drug shortages. In the video, FDA Drug Info Rounds pharmacists discuss the management of drug shortages and how the FDA’s role has changed in recent years.
+Login
+to favorite the article
+Favorite:
+Ventola, C.L. (2011).
+The Drug Shortage Crisis in the United States: Causes, Impact, and Management Strategies.
+Pharmacy & Therapeutics. 36(11): 740-742, 749-757.
+This article reviews the causes of drug shortages, drugs most susceptible to shortages, the impacts of drug shortages, and strategies for managing drug shortages. In addition, recommendations from a drug shortage summit in November 2010 attended by representatives of pharmaceutical manufacturers, wholesalers, group-purchasing organizations, health care providers, trade groups, and the federal government, are also included.
+Login
+to favorite the article
+Favorite:
+Education and Training
+Capper, S., Hogue, M., and Thomas, C. (2007).
+The Pharmacist's Role in Disasters.
+South Central Preparedness and Emergency Response Learning Center.
+This training course addresses the changing role of pharmacists in the public health system, and their specific roles during a public health emergency response. The presenters also discuss experiences of the pharmacy community during the aftermath of Hurricane Katrina.
+Login
+to favorite the article
+Favorite:
+Centers for Medicare & Medicaid Services. (2022).
+Replacing DME & Prescription Drugs after a Disaster: Addressing the Needs of Medicare Beneficiaries.
+U.S. Department of Health and Human Services.
+This training discusses access to durable medical equipment and prescription drugs after a disaster. It provides information on prescription drug programs through Medicare during recovery and contact information for the Centers for Medicare & Medicaid Services. In the description, it also contains links to current Medicare information since policies can change. The full report is also available: https://www.cms.gov/files/document/replacing-dme-and-prescription-drugs-after-disaster-student-manual.pdf
+Login
+to favorite the article
+Favorite:
+Clark, P., Leman, R., Ramirez, J., and Miner, G. (2020).
+Emergency Preparedness, Response, and the Role of the Oregon Pharmacist.
+Oregon State University College of Pharmacy.
+This 3-hour online continuing education course reviews basic emergency preparedness information; personal and business preparedness; the legal framework for pharmacists to respond within Oregon; and specific ways pharmacists can help their communities during emergencies/disasters.
+Login
+to favorite the article
+Favorite:
+*
+Duke University Margolis Center for Health Policy. (2018).
+Identifying the Root Causes of Drug Shortages and Finding Enduring Solutions.
+This webpage includes links to the agenda, speaker biographies, and presentation slides from a 1-day seminar held in November 2018 focused on drug shortages. Topics included: federal efforts to address drug shortages; economics of drug shortages; health impacts of drug shortages; manufacturing and supply challenges; drug purchasing and demand challenges; and strategies to reduce clinical and economic consequences of drug shortages.
+Login
+to favorite the article
+Favorite:
+Gallegos, C. and Alstrup, G. (2017).
+Emergency Preparedness: Is Your Facility Prepared in the Event of a Disaster?
+University of New Mexico Hospitals.
+These slides are from a presentation on the potential emergency response roles of pharmacists in public health emergencies and mass casualty incidents, medications needed during such events, and steps that should be taken to prepare for such events. Though it includes some New Mexico-specific information, much of the content is generalizable to other hospital pharmacy departments.
+Login
+to favorite the article
+Favorite:
+U.S. Food and Drug Administration. (2016).
+Emergency Preparedness - Keeping Medications Safe.
+In this video, FDA Drug Info Rounds pharmacists discuss the importance of being prepared for emergency situations and discuss the resources that pharmacists can rely on when advising their patients about keeping medications safe during emergencies and disasters.
+Login
+to favorite the article
+Favorite:
+Woods, J. (2013).
+Emergency Preparedness: The Role of the Pharmacist.
+(Requires free registration.) South Central Preparedness and Emergency Response Learning Center.
+This course familiarizes pharmacists and pharmacy technicians with the basic components of public health emergency preparedness and the role pharmacists play in disaster events. It addresses basic policies and directives related to public health emergencies, and reviews the federal and state resources available, with a specific look at the organizations involved in responding to a public health event in Mississippi.
+Login
+to favorite the article
+Favorite:
+Emergency Prescription Assistance Program (EPAP) Resources
+ASPR TRACIE. (2016).
+Emergency Prescription Assistance Program (EPAP): Hurricane Gustav Data Fact Sheet.
+U.S. Department of Health and Human Services, Assistant Secretary for Preparedness and Response.
+This fact sheet provides a summary of the EPAP data collected and analyzed following Hurricane Gustav from September 2, 2008 to October 31, 2008.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2016).
+Emergency Prescription Assistance Program (EPAP): Hurricane Ike Data Fact Sheet.
+U.S. Department of Health and Human Services, Assistant Secretary for Preparedness and Response.
+This fact sheet provides a summary of the EPAP data collected and analyzed following Hurricane Ike from September 12, 2008 to December 15, 2008.
+Login
+to favorite the article
+Favorite:
+1
+ASPR TRACIE. (2016).
+Emergency Prescription Assistance Program (EPAP): Overview Fact Sheet.
+U.S. Department of Health and Human Services, Office of the Assistant Secretary for Preparedness and Response.
+The Emergency Prescription Assistance Program (EPAP) is funded by the Stafford Act and designed to help disaster survivors access prescription medicines. EPAP can also be activated by the Public Health Service Act under the authority of the National Disaster Medical System (NDMS). The program utilizes normal business operations (e.g., electronic prescription claims processing, utilization of the normal pharmaceutical supply chain for distribution and dispensing) to pay for prescription medications for eligible persons.
+Login
+to favorite the article
+Favorite:
+3
+ASPR TRACIE. (2016).
+Emergency Prescription Assistance Program (EPAP): Superstorm Sandy Data Fact Sheet.
+United States Department of Health and Human Services, Office of the Assistant Secretary for Preparedness and Response.
+This fact sheet provides a summary of the EPAP data collected and analyzed following Superstorm Sandy for New Jersey and New York through October 30, 2013.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2017).
+Emergency Prescription Assistance Program (EPAP) Louisiana Floods Data Fact Sheet.
+U.S. Department of Health and Human Services, Assistant Secretary for Preparedness and Response.
+This fact sheet provides a summary of the EPAP data collected and analyzed following the Louisiana flooding from August 19, 2016 to September 20, 2016.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2018).
+Emergency Prescription Assistance Program (EPAP): Hurricanes Irma and Maria, Puerto Rico Data Fact Sheet.
+This fact sheet provides a summary of the EPAP data collected and analyzed following Hurricanes Irma and Maria for Puerto Rico only from November 2, 2017 to May 18, 2018.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2018).
+Emergency Prescription Assistance Program (EPAP): Hurricanes Irma and Maria, USVI Data Factsheet.
+This fact sheet provides a summary of the EPAP data collected and analyzed following Hurricanes Irma and Maria for the U.S. Virgin Islands only from November 2, 2017 to September 15, 2018.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2019).
+Emergency Prescription Assistance Program (EPAP): Natural Disasters Activation 2018.
+This document provides a summary of the EPAP data collected and analyzed for the following natural disasters in 2018: Hurricanes Irma and Maria, U.S. Virgin Islands; Hurricane Michael, Florida; Typhoon Mangkhut and Yutu, Mariana Islands; and California Wildfires.
+Login
+to favorite the article
+Favorite:
+Office of the Assistant Secretary for Preparedness and Response. (2022).
+Emergency Prescription Assistance Program (EPAP).
+U.S. Department of Health and Human Services.
+The purpose of the EPAP is to perform the activities related to processing claims for prescription medications, vaccines, specific medical supplies and certain durable medical equipment for designated eligible individuals in a federally identified disaster area. The activation of EPAP is requested through the states' department of health in their emergency management agency. The program can then provide a 30-day supply of covered drugs and medical supplies that can be renewed every 30 days for as long as EPAP is active.
+Login
+to favorite the article
+Favorite:
+1
+Evaluation and Studies: General
+Alkhalili, M., Ma, J., and Grenier, S. (2017).
+Defining Roles for Pharmacy Personnel in Disaster Response and Emergency Preparedness.
+Disaster Medicine and Public Health Preparedness. 11(4):496-504.
+The authors conducted a literature review to characterize pharmacists' disaster preparedness and response experiences. They identified key activities that must be performed, and developed a classification scheme for pharmacy personnel “to enable pharmacy personnel working in diverse practice settings to identify and undertake essential actions that are necessary to ensure an effective emergency response.”
+Login
+to favorite the article
+Favorite:
+Arya, V., Medina, E., Scaccia, A., et al. (2016).
+Impact of Hurricane Sandy on Community Pharmacies in Severely Affected Areas of New York City: A Qualitative Assessment.
+(Abstract only.) American Journal of Disaster Medicine. 11(1):21-30.
+The authors of this study assessed the impact of Hurricane Sandy on both independently owned and chain pharmacies in New York City communities. They also proposed strategies to mitigate the effects of future storms and disasters on local pharmacies.
+Login
+to favorite the article
+Favorite:
+Bell, C., and Daniel, S. (2014).
+Pharmacy Leader's Role in Hospital Emergency Preparedness Planning.
+Hospital Pharmacy. 49(4): 398–404.
+The objective of this article is to provide healthcare system pharmacy leaders with a practical approach in developing an emergency operations plan (EOP) that can be activated and help meet patient-centered needs in the event of a disaster. The authors address how pharmacy leaders should: 1) review government and community disaster responses and understand the movement of drug supply for each response; 2) create a pharmacy disaster plan; 3) list the essential medications and determine their inventory levels; and 4) establish a staff training program to enhance understanding and implementation of the EOP.
+Login
+to favorite the article
+Favorite:
+Brown, D.W., Young, S.L., Engelgau, M.M., and Mensah, G.A. (2012).
+Evidence-Based Approach for Disaster Preparedness Authorities to Inform the Contents of Repositories for Prescription Medications for Chronic Disease Management and Control.
+(Abstract only.) Prehospital and Disaster Medicine. 23(5):447-57.
+The authors of this study provide the first step in an evidence-based approach to inform the planning, periodic review, and revision of repositories of chronic disease medications, which would be helpful for rapid response to public health emergencies. The article identifies the most-prescribed medication classes of drugs as a start to outpatient planning.
+Login
+to favorite the article
+Favorite:
+Carameli, K.A., Eisenman, D.P., Blevins, J., et al. (2013).
+Planning for Chronic Disease Medications in Disaster: Perspectives from Patients, Physicians, Pharmacists, and Insurers.
+Disaster Medicine and Public Health Preparedness.
+The authors of this study discuss the imbalance between the high proportion of chronically ill Americans who depend on prescription medications and their lack of medication reserves for disaster preparedness. They examined barriers that Los Angeles County residents with chronic illness experience within the prescription drug procurement system to achieve recommended medication reserves.
+Login
+to favorite the article
+Favorite:
+D’Arrigo, T. (2017).
+Disaster Strikes! Are You Ready to Help Your Community?
+Pharmacy Today. 24(8): 34-37.
+In this article, a pharmacist describes how his experience during Hurricane Andrew in 1992 inspired him to get involved with emergency preparedness and response within his community. Considerations for ensuring pharmacy preparedness for disasters are also discussed, including security of the facility and the need to maintain temperature control to avoid financial and time losses.
+Login
+to favorite the article
+Favorite:
+D’Arrigo, T. (2017).
+Hospital Pharmacists Have a Seat at the Table in Disaster Planning.
+Pharmacy Today. 23(8): 4.
+This brief article provides guidance for hospital pharmacists to help facilities prepare for emergencies. Pharmacists are encouraged to learn how to work within the Incident Command System; be part of the Emergency Management Committee; and prepare in advance by knowing what to order, in what quantities to order medications, and how extra medications will be stored.
+Login
+to favorite the article
+Favorite:
+Edwards, C.J., Miller, A., Cobb, J.P., et al. (2020).
+The Pharmacist’s Role in Disaster Research Response.
+American Journal of Health-System Pharmacy. Volume 77, Issue 13, Pages 1054–1059.
+This article describes the fourth workshop held in February 2019 by the National Institutes of Health Disaster Research Response (DR2) Program, which focused on opportunities for pharmacists to design, lead, and support disaster research in areas including clinical, operational, educational, and logistical aspects of pharmacy practice.
+Login
+to favorite the article
+Favorite:
+Ford, H., Trent, S., and Wickizer, S. (2016).
+An Assessment of State Board of Pharmacy Legal Documents for Public Health Emergency Preparedness.
+American Journal of Pharmaceutical Education. 80(2): 20.
+The authors conducted a quantitative content analysis to evaluate board of pharmacy legal documents (e.g., statutes, rules, and regulations) to determine how prepared states were to expedite an effective pharmaceutical response during a public health emergency based on the 2006 Rules for Public Health Emergencies (RPHE). The authors found low preparedness levels overall and suggested that the boards of pharmacy should consider adding the eight RPHE to their state pharmacy practice acts.
+Login
+to favorite the article
+Favorite:
+Henkel, P.J. and Marvanova, M. (2020).
+Basic Disaster Preparedness of Rural Community Pharmacies in 5 States.
+(Abstract only.) Disaster Medicine and Public Health Preparedness. 14(3):329-334.
+The authors of this study conducted a telephone survey with community pharmacies in three rural areas (North and South Dakota, West Virginia, and Southern Oregon/Northern California) regarding their level of disaster preparedness. Pharmacists in rural, low-income, or areas with higher levels of elderly residents reported lower levels of basic preparedness.
+Login
+to favorite the article
+Favorite:
+Lavery, A.M., Patel, A., Boehmer, T.K., et al. (2018).
+Notes from the Field: Pharmacy Needs After a Natural Disaster — Puerto Rico, September–October 2017.
+Centers for Disease Control and Prevention. Morbidity and Mortality Weekly Report. 67(13):402–403.
+This report provides pharmaceutical-related data from the Centers for Disease Control and Prevention after Hurricane Maria made landfall in Puerto Rico in 2017, such as the most prescribed drugs and the most common categories (cardiovascular, psychiatric, and analgesic). This information can help local pharmacists plan ahead and work with suppliers to ensure needs are met in the response and recovery phases.
+Login
+to favorite the article
+Favorite:
+Marks, K., Chung, S., Li, J., et al. (2022).
+Experience of Pharmacy Involvement in a Disaster Simulation Exercise Within a Pediatric Hospital Emergency Department: A Pilot Project.
+(Abstract only.) American Journal of Health-System Pharmacy. 79(9):e124-e134.
+The authors of this article conducted an observational study to examine pharmacist participation in multidisciplinary pediatric emergency department disaster simulation exercises. They used an evaluation tool to assess performance in the following areas: communication, pharmacotherapy, problem solving/decision making, and teamwork/organization. Results indicated that pharmacists were concise/prompt 66% of the time within the problem solving/decision making and communications domains, 88.8% of the time in the teamwork/organization domain, and 92.5% of the time in the pharmacotherapy domain.
+Login
+to favorite the article
+Favorite:
+Moss, A., Green, T., Moss, S., et al. (2021).
+Exploring Pharmacists’ Roles during the 2019-2020 Australian Black Summer Bushfires.
+Pharmacy (Basel). 9(3):142.
+The authors of this study conducted semi-structured phone interviews with ten community pharmacists who provided response efforts during the 2019-2022 Black Summer Bushfires in Australia. Analysis from these interviews were grouped into six main themes: collaboration; trauma and mental health; power and communication; acute presentations; triaging and emergency prescribing. Pharmacists worked closely with doctors and members of the local community, provided triaging services, timely health advice about chronic health problems, and managed acute issues, including wound and burn management and mental health support in traumatic conditions.
+Login
+to favorite the article
+Favorite:
+Raza, M.A., Aziz, S., Noreen, M., et al. (2021).
+Role of Pharmacist in Disaster Management: A Quantitative Content Analysis Approach.
+Innovations in Pharmacy. Vol. 12, No. 4, Article 9.
+The authors of this study discuss their analysis in reviewing existing literature that addresses pharmacists’ roles in disasters. They reviewed 106 reports and of those, only 20 were determined to meet their eligibility criteria. Table 3 depicts the summary of the proportion of literature that described pharmacist roles in disaster management including pharmaceutical supply (44%), patient management (20%), response integration (15%) and policy coordination (13%).
+Login
+to favorite the article
+Favorite:
+*
+Romolt, C., Melin, K., Hardie, K., et al. (2020).
+Community Pharmacy Operations in Puerto Rico During the 2017 Hurricane Season: A Descriptive Analysis of Rx Open Data.
+(Abstract only.) Disaster Medicine and Public Health Preparedness. DOI: 10.1017/dmp.2020.339.
+The authors examine the "Return to Open Pharmacy Operations" in Puerto Rico after Hurricane Maria and compare it to pharmacy recovery in Florida after Hurricane Irma.
+Login
+to favorite the article
+Favorite:
+Rosenthal, M.S., Klein, K., Cowling, K., et al. (2005).
+Disaster Modeling: Medication Resources Required for Disaster Team Response.
+Prehospital and Disaster Medicine. 20(5):309–315.
+The objective of this study was to develop a model that can help determine supply requirements for the National Disaster Medical System, Disaster Medical Assistance Teams, or other responding disaster medical teams in a civilian environment. Results proved that the model predicted the proportion of patient complaints and, therefore, the medicine and supplies needed for the management of these patients.
+Login
+to favorite the article
+Favorite:
+1
+*
+Rutkow, L., Vernick, J.S., Wissow, L.S., et al. (2011).
+Prescribing Authority during Emergencies Challenges for Mental Health Care Providers.
+The Journal of Legal Medicine. 32(3): 249–260.
+This article addresses the issues associated with the prescribing abilities of mental health providers after a disaster and the implications for acute and chronic management of behavioral health issues.
+Login
+to favorite the article
+Favorite:
+Schumacher, L., Senhaji, S., Gartner, B.A., et al. (2022).
+Full-scale Simulations to Improve Disaster Preparedness in Hospital Pharmacies.
+BMC Health Services Research. (1):853.
+Four Swiss hospital pharmacies conducted two full-scale simulation exercises each at least four months apart. Two scenarios were used—a major road accident and a terrorist attack—each involving approximately 50 casualties. The authors of this article assessed whether personnel were better prepared for disasters after each successive exercise. Results indicated that the four hospitals accomplished 69% (± 6%) of the actions expected of them during exercise one, which increased to 84% (± 7%) during the second exercise.
+Login
+to favorite the article
+Favorite:
+Tseregounis, I.E., Delcher, C., Stewart, S.L., et al. (2022).
+The Impact of California Wildfires on Patient Access to Prescription Opioids.
+Journal of the American Pharmacists Association. S1544-3191(22)00150-9.
+The authors of this article conducted a retrospective study using ZIP code tabulation areas to assess whether the Camp and Tubbs fires in California were associated with disrupted access to prescription opioids for patients receiving long-term opioid medications. Access to prescription opioids was greatly challenging for patients living in areas that were most affected by the Camp Fire; disruptions due to the Tubbs Fire were far less severe.
+Login
+to favorite the article
+Favorite:
+Watson, K.E., Singleton, J.A., Tippett, V., et al. (2019).
+Defining Pharmacists' Roles in Disasters: A Delphi Study.
+PLoS One. 14(12).
+The authors of this article conducted a Delphi study to obtain consensus from a panel of 24 expert leaders regarding the various roles of pharmacists in disaster health. Online survey panelists were asked to rank their opinions on 46 roles using a 5-point Likert scale. Results indicated that 43 of the 46 items presented were accepted as roles that pharmacists are capable of undertaking in the various phases of a disaster.
+Login
+to favorite the article
+Favorite:
+Evaluation and Studies: Pandemic
+Aruru, M., Truong, H., and Clark, S. (2021).
+Pharmacy Emergency Preparedness and Response (PEPR): A Proposed Framework for Expanding Pharmacy Professionals' Roles and Contributions to Emergency Preparedness and Response During the COVID-19 Pandemic and Beyond.
+Research in Social and Administrative Pharmacy. 17(1):1967-1977.
+The authors developed a Pharmacy Emergency Preparedness and Response Framework to include recommendations for pharmacy professionals to become fully integrated within public health emergency preparedness and response efforts, such as the COVID-19 pandemic. They address how the roles of pharmacists can be expanded upon to provide improved patient care and population health interventions and ensure healthcare worker and public health safety.
+Login
+to favorite the article
+Favorite:
+Fain, B.A., Koonin, L.M., Stoto, M.A., et al. (2014).
+Facilitating Access to Antiviral Medications and Information during an Influenza Pandemic: Engaging With the Public on Possible New Strategies.
+Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science. 12(1):8-19.
+The Institute of Medicine, with technical assistance from the Centers for Disease Control and Prevention, convened public engagement events in three demographically and geographically diverse communities to assess public perception of the alternative strategies for prescribing, distributing, and dispensing antivirals and disseminating information about influenza and its treatment. Participants at all three locations expressed high levels of acceptance for each of the proposed strategies, including pharmacists prescribing under Collaborative Practice Agreements with sponsoring physicians. Key findings from these sessions are discussed further in this article.
+Login
+to favorite the article
+Favorite:
+Fitzgerald, T., Kang, Y., Bridges, C., et al. (2016).
+Integrating Pharmacies into Public Health Program Planning for Pandemic Influenza Vaccine Response.
+Vaccine. 34(46):5643-5648.
+The authors analyzed reporting data from immunization and public health preparedness programs to assess their pandemic planning with pharmacies. They found that most jurisdictions include pharmacies in their pandemic vaccine distribution plans, nearly half have a process to recruit pharmacists as vaccinators, and nearly a third have formal relationships established with pharmacies.
+Login
+to favorite the article
+Favorite:
+Gessler, C.A., Richardson, R.M., Hall, D.L., et al. (2021).
+Operationalizing Pandemic Vaccinations at a Regional Supermarket Chain Pharmacy.
+Disaster Medicine and Public Health Preparedness. 1-6.
+During the 2009 H1N1 pandemic, community pharmacies were underutilized as vaccination locations. Pharmacies have since become a common place for seasonal influenza vaccinations. The authors of this article summarize the results of a strategic planning meeting conducted in 2017 that focused on operationalizing pandemic influenza vaccinations at a regional supermarket chain pharmacy.
+Login
+to favorite the article
+Favorite:
+Lambrou, A.S., Redd, J.T., Steward, M.A., et al. (2022).
+Implementation of SARS-CoV-2 Monoclonal Antibody Infusion Sites at Three Medical Centers in the United States: Strengths and Challenges Assessment to Inform COVID-19 Pandemic and Future Public Health Emergency Use.
+Disaster Medicine and Public Health Preparedness. 14;1-32.
+The authors of this article conducted a descriptive analysis from three sites at medical centers in the U.S. supported by the National Disaster Medical System to examine the monoclonal antibody infusion site process during the COVID-19 pandemic. The authors discuss several successes and challenges in implementing these sites.
+Login
+to favorite the article
+Favorite:
+O'Hagan, J., Wong, K., Campbell, A., et al. (2015).
+Estimating the United States Demand for Influenza Antivirals and the Effect on Severe Influenza Disease during a Potential Pandemic.
+Clinical Infectious Diseases. 60 (Suppl 1):S30-41.
+Following the detection of a novel influenza strain A (H7N9), the authors modeled the use of antiviral treatment in the U.S. to mitigate severe disease across a range of hypothetical pandemic scenarios. The model included estimates of attack rate, healthcare-seeking behavior, prescription rates, and other related data. Based on these inputs, the total antiviral regimens estimated to be available in the U.S. (as of April 2013) were deemed sufficient to meet treatment needs for the scenarios considered.
+Login
+to favorite the article
+Favorite:
+Rubin, S.E., Schulman, R.M., Roszak, A.R., et al. (2014).
+Leveraging Partnerships among Community Pharmacists, Pharmacies, and Health Departments to Improve Pandemic Influenza Response.
+Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science. 12(2):76-84.
+This article provides recommendations on how local health departments can most effectively develop and maintain relationships with community pharmacies. It also addresses how pharmacists can help provide a more coordinated and resourceful public health response to emergencies, specifically to pandemic influenza outbreaks.
+Login
+to favorite the article
+Favorite:
+Schwerzmann, J., Graitcer, S., Jester, B., et al. (2017).
+Evaluating the Impact of Pharmacies on Pandemic Influenza Vaccine Administration.
+(Abstract only.) Disaster Medicine and Public Health Preparedness. 11(5):587-593.
+The authors developed a model to estimate the effects of vaccine administration in retail pharmacies. They estimated that nationwide capacity to administer vaccines would increase to 25 million doses per week when retail pharmacies were included and that the time to achieve 80% nationwide vaccination coverage could be reduced by seven weeks.
+Login
+to favorite the article
+Favorite:
+Guidelines and Protocols: General
+*
+Association of State and Territorial Health Officials. (2018).
+Memorandum of Understanding Toolkit for Collaborations Between Public Health and Pharmacies in Preparation for an Influenza Pandemic.
+This document provides guidance and templates for state and territorial health agencies charged with creating memoranda of understanding with pharmacies in response to influenza pandemics and other public health emergencies.
+Login
+to favorite the article
+Favorite:
+Centers for Medicare and Medicaid Services. (2024).
+Getting Medical Care and Prescription Drugs in a Disaster or Emergency Area.
+This fact sheet is intended for Medicare patients and provides information about: how to see doctors and other providers; get prescription drugs and extended day supplies; pay Medicare premiums; and receive dialysis or chemotherapy in a disaster or emergency area. It also describes how to replace a Medicare card, or lost or damaged durable medical equipment or supplies that Medicare paid for.
+Login
+to favorite the article
+Favorite:
+Fox, E. and McLaughlin, M. (2018).
+ASHP Guidelines on Managing Drug Product Shortages.
+(Free registration required.) American Journal of Health-System Pharmacy. 75(21): 1742–1750.
+The authors present guidelines “to provide a framework for healthcare teams in patient care settings that can be used to develop policies and procedures that minimize the effects of drug shortages on quality of care.”
+Login
+to favorite the article
+Favorite:
+Maryland Department of Health, Maryland Board of Pharmacy. (n.d.).
+Emergency Preparedness Task Force.
+(Accessed 7/20/2022).
+This webpage provides an overview of Maryland’s Board of Pharmacy Emergency Preparedness Task Force and their missions. It includes a link to their more detailed emergency protocols and other useful information.
+Login
+to favorite the article
+Favorite:
+*
+National Association of Boards of Pharmacy. (2023).
+ASHP Foundation Pharmacy Forecast 2023: Strategic Planning Guidance for Pharmacy Departments in Hospitals and Health Systems.
+American Journal of Health-System Pharmacy. 80(2): 10–35.
+This guidance document was developed for the Boards of Pharmacy to assist them with developing robust emergency and disaster plans that complement local efforts. It includes sections on regaining trust, reliance on technology, and workforce planning and optimization.
+Login
+to favorite the article
+Favorite:
+National Association of County and City Health Officials. (2014).
+Local Health Department and Pharmacy Partnerships for Enhancing Medication Dispensing During Emergencies: Statement of Policy.
+This document offers eight recommendations for local health departments on collaborating with pharmacy partners for public health emergency preparedness and response. It discusses how strong relationships between local health departments and pharmacy partners can increase the safe, fast, effective, and equitable distribution of medical countermeasures during a public health emergency, and are crucial to effective public health emergency response.
+Login
+to favorite the article
+Favorite:
+Pincock, L.L, Montello, M.J., Tarosky, M.J., et al. (2011).
+Pharmacist Readiness Roles for Emergency Preparedness.
+(Requires log in to Medscape). American Journal of Health-System Pharmacy. 68(7):620-623.
+The authors describe the various roles pharmacists could have in disaster readiness and divide them into two categories: "clinical" and "other." Clinical roles would primarily be fulfilled by ambulatory care readiness pharmacists, pharmacotherapy readiness pharmacists, and critical care readiness pharmacists. The "other" category includes specialized clinical roles and nonclinical activities carried out by weapons of mass destruction/pandemic readiness pharmacists, pharmacy readiness logisticians, and pharmacist readiness managers.
+Login
+to favorite the article
+Favorite:
+*
+Rx Response. (2015).
+Stability of Refrigerated Drugs.
+This chart details the stability of the most commonly dispensed refrigerated drug products (based on the U.S. top 200 prescription medications in 2014), and over-the-counter insulin products. The chart includes proper storage data, allowable temperature excursions and the length of time such excursions are permitted, and contact information for product manufacturers.
+Login
+to favorite the article
+Favorite:
+U.S. Food and Drug Administration. (2015).
+Contact Information for Questions about Clinical Investigations Affected by Natural Disasters.
+During a disaster, studies may be disrupted, subjects and study staff dispersed, and records damaged or lost. This webpage provides information on where to direct questions related to clinical investigations affected by natural disasters.
+Login
+to favorite the article
+Favorite:
+U.S. Food and Drug Administration. (2017).
+Information Regarding Insulin Storage and Switching Between Products in an Emergency.
+Insulin from various manufacturers is often made available to patients in an emergency and may be different from a patient's usual insulin. After a disaster, patients in the affected area may not have access to refrigeration. This website provides information for patients and providers regarding those issues.
+Login
+to favorite the article
+Favorite:
+1
+U.S. Food and Drug Administration. (2018).
+Disposal of Contaminated Devices.
+This resource provides tips on checking medical devices for contamination and disposing of contaminated products in order to help pharmacies return to business as soon as possible following flooding or loss of power.
+Login
+to favorite the article
+Favorite:
+U.S. Food and Drug Administration. (2019).
+Safe Drug Use after a Natural Disaster.
+The Center for Drug Evaluation and Research (CDER) at the U.S. Food and Drug Administration offers information on the use of drugs that have been potentially affected by fire, flooding or unsafe water, and the use of temperature-sensitive drug products when refrigeration is temporarily unavailable.
+Login
+to favorite the article
+Favorite:
+Legal/Regulatory Resources
+Florida Senate. (2012).
+2012 Florida Statutes: 465.0275 – Emergency Prescription Refill.
+This Florida statute, which may be referenced by other jurisdictions to develop a similar statute, states: “In the event a pharmacist receives a request for a prescription refill and the pharmacist is unable to readily obtain refill authorization from the prescriber, the pharmacist may dispense a one-time emergency refill of up to a 72-hour supply of the prescribed medication.” However, in areas or counties included in an emergency order or proclamation of a state of emergency declared by the Governor, the pharmacist may dispense up to a 30-day supply given certain circumstances as indicated in this statute.
+Login
+to favorite the article
+Favorite:
+Healthcare Ready. (2018).
+Controlled Substances in Emergency Situations and the 2017 Protecting Patient Access to Emergency Medications Act (PPAEMA).
+This four-page fact sheet provides information about controlled substances in emergencies and the 2017 Protecting Patient Access to Emergency Medications Act (PPAEMA). It discusses how PPAEMA applies to Emergency Medical Services (EMS) Agencies, and Pharmacists and Patients, including how a pharmacist may dispense controlled substances during emergencies upon receipt of “oral authorization from a prescribing individual practitioner.”
+Login
+to favorite the article
+Favorite:
+National Alliance of State Pharmacy Associations. (2018).
+Pharmacist Statewide Protocols and Prescriptive Authority.
+This webpage provides links to resources that can help emergency planners understand the mechanisms by which states authorize pharmacists’ prescriptive authority (i.e., collaborative prescribing and autonomous prescribing). It focuses on autonomous prescribing, which primarily consists of statewide protocols (“conditions under which pharmacists are authorized to prescribe a specified medication or category of medications when providing a clinical service”).
+Login
+to favorite the article
+Favorite:
+New Jersey Board of Pharmacy. (n.d.).
+New Jersey Board of Pharmacy Guidance Regarding Emergency Prescription Dispensing for Puerto Rico Evacuees.
+(Accessed 7/20/2022).
+This document may serve as a reference for other jurisdictions in the development of guidance for pharmacists asked to fill refills for disaster evacuees from other states.
+Login
+to favorite the article
+Favorite:
+*
+Rutkow, L., Vernick, J.S., Wissow, L.S., et al. (2011).
+Prescribing Authority during Emergencies Challenges for Mental Health Care Providers.
+The Journal of Legal Medicine. 32(3): 249–260.
+This article addresses the issues associated with the prescribing abilities of mental health providers after a disaster and the implications for acute and chronic management of behavioral health issues.
+Login
+to favorite the article
+Favorite:
+Substance Abuse and Mental Health Services Administration. (2015).
+Federal Guidelines for Opioid Treatment Programs.
+This document describes the federal regulations standards opioid treatment programs must adhere to (e.g., “have current valid accreditation status, SAMHSA certification, and Drug Enforcement Administration registration prior to administering or dispensing opioid drugs for the treatment of opioid addiction”).
+Login
+to favorite the article
+Favorite:
+Substance Abuse and Mental Health Services Administration. (2022).
+Become a Buprenorphine Waivered Practitioner.
+This process allows physicians and other medical professionals to dispense or prescribe medications that are traditionally administered in the context of an opioid treatment program.
+Login
+to favorite the article
+Favorite:
+Substance Abuse and Mental Health Services Administration. (2022).
+Statutes, Regulations, and Guidelines.
+This webpage includes links to statutes, regulations, and guidelines on medication-assisted treatment.
+Login
+to favorite the article
+Favorite:
+Texas State Board of Pharmacy. (2017).
+Hurricane Harvey Emergency Dispensing 

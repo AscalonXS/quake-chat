@@ -1,0 +1,603 @@
+[PDF PAGE 1]
+ 
+Guidelines for Post-Earthquake 
+Repair and Retrofit of Buildings 
+Based on Assessment of 
+Performance-Critical Damage 
+FEMA P-2335 / May 2025 
+
+[PDF PAGE 2]
+
+[PDF PAGE 3]
+
+FEMA P-2335 / May 2025 
+Guidelines for Post-Earthquake Repair and 
+Retrofit of Buildings Based on Assessment of 
+Performance-Critical Damage 
+Prepared by 
+APPLIED TECHNOLOGY COUNCIL 
+201 Redwood Shores Parkway, Suite 240 
+Redwood City, California 94065 
+www.ATCouncil.org 
+Prepared for 
+FEDERAL EMERGENCY MANAGEMENT AGENCY 
+Christina Aronson, Project Officer 
+William T. Holmes, Subject Matter Expert 
+Washington, D.C. 
+APPLIED TECHNOLOGY COUNCIL PROJECT WORKING GROUP 
+Jon A. Heintz (Project Executive) Saman Abdullah 
+Chiara McKenney (Project Manager) Vishvendra (Jay) Bhanu 
+Justin Moresco (Project Manager) Raffael Hamblett 
+Ryo Kuwabara 
+PROJECT TECHNICAL COMMITTEE Donovan Llanes 
+Kenneth J. Elwood (Co-Project Tech. Director) Kai Marder 
+Abbie B. Liel (Co-Project Tech. Director) Gonzalo Munoz 
+Nicholas Brooke* Polly Murray 
+Gregory G. Deierlein Eyitayo Opabola 
+Jack P. Moehle Joseph Rodgers 
+Bill Tremayne Santiago Rodriguez Sanchez 
+John Wallace Matias Rojas Leon 
+Amir Safiey 
+PROJECT REVIEW PANEL Mehdi Sarrafzadeh 
+James O. Malley Prateek Shah 
+Santiago Pujol Debra Shearer 
+Tomomi Suzuki 
+*Support for participation provided by the Natural Hazards Commission Toka Tū Ake of New Zealand 
+
+[PDF PAGE 4]
+
+Notice 
+Any opinions, findings, conclusions, or recommendations expressed in this publication do not 
+necessarily reflect the views of the Applied Technology Council (ATC), the Department of 
+Homeland Security (DHS), or the Federal Emergency Management Agency (FEMA). 
+Additionally, neither ATC, DHS, FEMA, nor any of their employees, makes any warranty, 
+expressed or implied, nor assumes any legal liability or responsibility for the accuracy, 
+completeness, or usefulness of any information, product, or process included in this 
+publication. Users of information from this publication assume all liability arising from such 
+use. 
+Cover photograph – Older concrete building after the 2010 Maule Earthquake, previously damaged 
+and repaired following the 1985 Chile Earthquake, located in Vina del Mar, Chile 
+(photo credit: J. Heintz). 
+
+[PDF PAGE 5]
+
+Foreword 
+Repair of damaged buildings is critical for community recovery after earthquake disasters, and in 
+turn, for overall resilience. As part of its responsibilities under the National Earthquake Hazards 
+Reduction Program (NEHRP), and in accordance with the National Earthquake Hazards Reduction 
+Act of 1977 (PL 94-125, as amended), the Federal Emergency Management Agency (FEMA) originally 
+initiated a project on assessment and repair of earthquake damaged concrete and masonry wall 
+buildings after the 1994 Northridge Earthquake. This project resulted in three documents that were 
+published in 1998: (1) FEMA 306, Evaluation of Earthquake Damaged Concrete and Masonry Wall 
+Buildings, Basic Procedures Manual; (2) FEMA 307, Evaluation of Earthquake Damaged Concrete 
+and Masonry Wall Buildings, Technical Resources; and (3) FEMA 308, The Repair of Earthquake 
+Damaged Concrete and Masonry Wall Buildings. This series of documents provided a 
+groundbreaking framework for detailed engineering assessments of residual strength in earthquake-
+damaged concrete wall buildings and set the state of practice for seismic structural engineering in 
+the United States for more than 20 years. 
+Findings and research completed in New Zealand after the 2011 Christchurch Earthquake, as well 
+as new information and an evolving understanding of the effects of damage to structural 
+components that have experienced strong shaking and their residual capacities for future 
+earthquakes, prompted a review and update of the FEMA documents. This work, which started in 
+2018, was conducted by highly respected members of the structural engineering communities in the 
+United States and New Zealand, some of whom were also involved in the original project that 
+produced FEMA 306/307/308. This report presents the resulting next-generation guidance with 
+criteria for assessing and repairing earthquake-damaged buildings, including a new concept and 
+technical term, Performance-Critical Damage. This publication partly replaces the 
+FEMA 306/307/308 series addressing concrete wall buildings and expands the scope to concrete 
+frames. Unlike FEMA 306/307/308, this new publication does not include masonry buildings. It is 
+FEMA NEHRP’s intent to publish subsequent editions addressing masonry and steel buildings. 
+FEMA acknowledges the Applied Technology Council, the Project Technical Committee, Project 
+Review Panel, and Working Group members. FEMA also gratefully recognizes the Natural Hazards 
+Commission Toka Tū Ake of New Zealand, which provided funding for the involvement of Dr. Nicholas 
+Brooke, a New Zealand engineering practitioner with first-hand experience of the assessment and 
+repair challenges following the 2011 Christchurch Earthquake. Much of the new ground was 
+explored and developed across many time zones. The project was incredibly lucky to have 
+internationally recognized participants. Additionally, FEMA would like to thank the Trial Users, who 
+provided thoughtful feedback and reinforcing excitement for the new methodology. All who 
+participated in this project provided amazing creativity and patience. They are listed at the end of 
+this report. 
+FEMA P-2335 iii 
+
+[PDF PAGE 6]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+FEMA also recognizes Michael Mahoney, who retired from FEMA during this project, for setting this 
+project up for success and his incredible mentoring, as well as William T. Holmes for acting as FEMA 
+NEHRP’s Subject Matter Expert for this project. His quiet steadiness, dedication, and experience-
+based wisdom made a significant impact on the project. 
+Federal Emergency Management Agency 
+FEMA P-2335 iv 
+
+[PDF PAGE 7]
+
+Preface 
+In 2018, the Federal Emergency Management Agency awarded the Applied Technology Council the 
+first in a series of task orders under contract HSFE60-17-D-0002 to develop state-of-the-art 
+guidance for post-earthquake repair and retrofit decision-making. FEMA P-2335 is the result of this 
+work. 
+The report establishes a new methodology and procedures that will bring more consistency and 
+reliability to repair and retrofit decisions made by structural engineers following damaging 
+earthquakes. An essential concept in the methodology is Performance-Critical Damage, which is 
+damage that leads to a reduction in component and building strength, deformation capacity, or both 
+and, as a result, the future seismic performance of the building is impaired. 
+FEMA P-2335 addresses reinforced concrete frame and wall construction, but information on other 
+structural materials and building systems may be added in future editions. 
+ATC is indebted to the leadership of Ken Elwood and Abbie Liel, Co-Project Technical Directors, and 
+to the other members of the Project Technical Committee, including Nicholas Brooke, Greg Deierlein, 
+Jack Moehle, Bill Tremayne, and John Wallace, who managed and performed the technical 
+development effort. The participation of Nicholas Brooke was made possible with funding from the 
+Natural Hazards Commission Toka Tū Ake of New Zealand. The Project Review Panel, consisting of 
+Jim Malley and Santiago Pujol, provided technical review and advice at key stages of the work. 
+FEMA P-2335 was developed over six years and included contributions from 17 Project Working 
+Group members. The development effort included testing of the methodology and procedures, 
+review, and comment in a workshop setting. Eleven engineers participated as Trial Users, providing 
+valuable feedback that led to important enhancements. 
+ATC gratefully acknowledges Christina Aronson (FEMA Project Officer) and Bill Holmes (Subject 
+Matter Expert) for their leadership, input, and guidance in the preparation of this report. Chiara 
+McKenney managed the project during critical phases of its development. The names and affiliations 
+of all who contributed to this report are provided in the list of Project Participants at the end of this 
+report. 
+Justin Moresco Jon A. Heintz 
+ATC Director of Projects ATC Executive Director 
+FEMA P-2335 v 
+
+[PDF PAGE 9]
+
+Executive Summary 
+When the next large, damaging earthquake occurs in the United States, engineers, building owners. 
+and communities will face substantial uncertainty about what buildings need to be repaired, 
+retrofitted, or demolished. This uncertainty could result in buildings not being repaired that should 
+be, long delays in needed repairs and retrofits, and unnecessary demolition. Reducing this 
+uncertainty is essential for community resilience and recovery. 
+FEMA P-2335, Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on 
+Assessment of Performance-Critical Damage, provides guidelines that can be used after an 
+earthquake to identify buildings for which repair or repair and retrofit is critical. It also summarizes 
+information about repair strategies that can be used to achieve the necessary performance 
+objectives for repair. In doing so, the Guidelines update existing earthquake repair guidance 
+provided by FEMA for reinforced concrete wall buildings, as well as extend the scope to include 
+concrete frame systems, and ensure that this guidance is consistent with modern building practices 
+and understanding of seismic performance. The Guidelines do not establish policy related to post-
+earthquake assessment, repair, or retrofit of buildings. Rather, they provide technical criteria that 
+can be used to implement such policies, such as those articulated in the International Existing 
+Building Code (IEBC), which is the governing reference standard in many U.S. jurisdictions. The 
+intended users of FEMA P-2335 are engineers with experience in seismic design and assessment 
+and building officials with authority over such projects. 
+The purpose of FEMA P-2335 is to provide a procedure that can be used to determine the need for 
+post-earthquake repair or repair and retrofit. These procedures are intended to inform the 
+identification of damage, the evaluation of observed damage caused by earthquakes in terms of 
+their effects on building seismic performance, the determination of the need for repair or repair and 
+retrofit, and the identification of repair measures. 
+The goal of the procedures in FEMA P-2335 is to identify damage that leads to a reduction in 
+component and/or building strength and/or deformation capacity. This damage is referred to as 
+Performance-Critical Damage. As a result of such damage, the future seismic performance of the 
+building is impaired, leading to elevated collapse risk and amplified drift demands relative to the pre-
+earthquake condition. This damage therefore indicates the need for performance-critical repairs. The 
+definition of Performance-Critical Damage, which corresponds to component damage that meets or 
+exceeds the onset of strength loss, is the result of extensive background work, including the review 
+of experimental results and the completion of a suite of analytical studies. 
+The Guidelines are organized with five chapters, four appendices, and extensive electronic 
+resources. Chapter 1 through Chapter 4 outline the principles of post-earthquake repair decision-
+making, which apply regardless of building material and system. Chapter 5 provides extensive 
+qualitative and quantitative information defining criteria needed to apply these principles to 
+reinforced concrete buildings (wall and frame). 
+FEMA P-2335 vii 
+
+[PDF PAGE 10]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+In the Guidelines, Performance-Critical Damage to buildings is identified through inspection and 
+analysis (Chapter 3). The goal of this step is to identify all possible locations of potential 
+Performance-Critical Damage and to document this damage with sufficient detail such that this 
+damage can be subsequently evaluated. This identification emphasizes visual inspection. Three 
+different levels of inspection are described, which involve varying levels of disruption. For buildings 
+where detailed inspection of the structural components is impeded by architectural enclosures or 
+other obstructions, a structural analysis of the building under the damaging earthquake shaking may 
+be performed to help identify damage. 
+Once damage is identified, FEMA P-2335 provides evaluation procedures (Chapter 4) to determine 
+whether the earthquake-damaged building needs repair to restore strength and deformation 
+capacity (i.e., performance-critical repair). This process involves, first, classification of damage to 
+earthquake-damaged components identified through inspection. This damage classification is made 
+through reference to descriptions and images of Performance-Critical Damage for each component 
+type provided in FEMA P-2335; these materials are provided in Chapter 5 and in electronic resources 
+for reinforced concrete components and systems. 
+Component damage classifications provide the basis for the determination of the Building Repair 
+Outcome. Performance-critical repair is needed if any component has Performance-Critical Damage. 
+A building may also be found to need both repair and retrofit. In the IEBC, a determination if retrofit 
+is needed is made through evaluation of compliance with acceptable codes and standards, and 
+identification of substantial structural damage and disproportionate earthquake damage. 
+FEMA P-2335 provides guidance on the use of damage classifications to inform the determination as 
+to whether substantial structural damage or disproportionate earthquake damage has occurred. 
+If Performance-Critical Damage is found and repair is therefore warranted, FEMA P-2335 also 
+provides guidance on repair techniques. For reinforced concrete components, the Guidelines 
+document whether the repair techniques for concrete and reinforcement act as a repair to restore 
+appearance or durability, a performance-critical repair, or both. FEMA P-2335 also categorizes repair 
+types by damage type and provides descriptions of the major repair techniques. 
+These Guidelines are applicable to buildings in any seismic design category. The procedures 
+primarily focus on damage to building structures due to ground shaking, which is a critical source of 
+damage in an earthquake. 
+FEMA P-2335 viii 
+
+[PDF PAGE 11]
+
+Table of Contents 
+Foreword ...................................................................................................................................... iii 
+Preface ......................................................................................................................................... v 
+Executive Summary.................................................................................................................... vii 
+Chapter 1: Introduction............................................................................................................ 1-1 
+1.1 Introduction ........................................................................................................................ 1-1 
+1.2 Scope .................................................................................................................................. 1-1 
+1.3 Organization and Content .................................................................................................. 1-2 
+1.4 Policy Considerations......................................................................................................... 1-3 
+1.5 Related Documents ........................................................................................................... 1-4 
+1.6 Definitions and Notation .................................................................................................... 1-5 
+1.7 Limita tions.......................................................................................................................... 1-5 
+Chapter 2: Overview................................................................................................................. 2-1 
+2.1 Post-Earthquake Assessment Process .............................................................................. 2-1 
+2.1.1 Identification of Earthquake Damage .................................................................... 2-1 
+2.1.2 Evaluation of Earthquake Damage ........................................................................ 2-2 
+2.1.3 Material-Specific Chapters ...................................................................................... 2-2 
+2.2 Key Concepts ..................................................................................................................... 2-4 
+2.2.1 Structural Systems, Elements, and Components .................................................. 2-4 
+2.2.2 Performance-Critical Damage and Repair ............................................................. 2-6 
+2.2.3 Inspection .............................................................................................................. .. 2-7 
+2.2.4 Component Damage States and Damage Classes ............................................... 2-8 
+2.2.5 Determination of Component Damage Classes .................................................. 2-10 
+2.2.6 Building Repair Outcomes .................................................................................... 2-13 
+2.2.7 Structural Analysis ................................................................................................. 2-1 4 
+2.3 Reporting .......................................................................................................................... 2-16 
+FEMA P-2335 ix 
+
+[PDF PAGE 12]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+Chapter 3: Identification of Earthquake Damage................................................................... 3-1 
+3.1 Scope .................................................................................................................................. 3-1 
+3.2 General ............................................................................................................................... 3-1 
+3.3 Preliminary Inspection ....................................................................................................... 3-3 
+3.3.1 Earthquake Ch aracteristics .................................................................................... 3-3 
+3.3.2 Existing Building Data ............................................................................................. 3-4 
+3.3.3 Site Visit and Data Collection ................................................................................. 3-5 
+3.3.4 Pre-existing Conditions ............................................................................................ 3-6 
+3.3.5 Undamaged Structure ............................................................................................. 3-7 
+3.3.6 Detailed Inspection without Structural Analysis .................................................... 3-7 
+3.4 Structural Analysis of Building Response to Damaging Earthquake ................................ 3-9 
+3.4.1 Overview of Stru ctural Analysis for Guiding Inspection ........................................ 3-9 
+3.4.2 Structural Analysis Model ..................................................................................... 3-10 
+3.4.3 Seismic Demand Representation......................................................................... 3-11 
+3.4.4 Critical Earthquake Demands ............................................................................... 3-14 
+3.4.5 Undamaged Structure ........................................................................................... 3-14 
+3.5 Identification of Possible Damage Locations.................................................................. 3-15 
+3.5.1 General................................................................................................................. .. 3-15 
+3.5.2 Conditions Always Requiring Inspection .............................................................. 3-15 
+3.5.3 Inspection Locations Based on Mechanism Analysis ......................................... 3-16 
+3.5.4 Inspection Locations Based on Structural Irregularities ..................................... 3-16 
+3.5.5 Inspection Locations Based on Calculated Earthquake Demands .................... 3-17 
+3.6 Detailed Visual Inspection ............................................................................................... 3-22 
+3.6.1 Detailed Visual Inspection .................................................................................... 3-22 
+3.6.2 Reductions to Detailed Visual Inspections .......................................................... 3-22 
+3.7 Reconciliation of Inspection and Structural Analysis...................................................... 3-25 
+3.7.1 Comparison of Analysis with Observed Damage ................................................. 3-25 
+3.7.2 Reinspection .......................................................................................................... 3 -26 
+3.8 Intrusive Inspection...................................................................................................... .... 3-26 
+FEMA P-2335 x 
+
+[PDF PAGE 13]
+
+Table of Contents 
+Chapter 4: Evaluation of Earthquake Damage ....................................................................... 4-1 
+4.1 Scope .................................................................................................................................. 4-1 
+4.2 General ............................................................................................................................... 4-1 
+4.3 Component Damage Classification ................................................................................... 4-2 
+4.4 Building Repair Outcome ................................................................................................... 4-3 
+4.4.1 Compliance with Acce ptable Seismic Codes ......................................................... 4-4 
+4.4.2 Disproportionate Earthquake Damage .................................................................. 4-5 
+4.4.3 Substantial Stru ctural Damage .............................................................................. 4-7 
+4.4.4 Reduction in Lateral-Force-Resisting Capacity ...................................................... 4-8 
+4.5 Repair ................................................................................................................................. 4-8 
+4.5.1 Repair to Address Performance-Critical Damage .................................................. 4-9 
+4.5.2 Repair to Restore Appearance or Durability .......................................................... 4-9 
+4.5.3 Repair to Achieve Alternative Performance Objectives ......................................... 4-9 
+4.6 Retr ofit.............................................................................................................................. 4-10 
+Chapter 5: Reinforced Concrete.............................................................................................. 5-1 
+5.1 Scope and Organization ..................................................................................................... 5-1 
+5.2 Structural Systems Behavior ............................................................................................. 5-1 
+5.2.1 Considered Systems and Typical Damage Locations ........................................... 5-1 
+5.2.2 Structural Walls ....................................................................................................... 5-3 
+5.2.3 Beam-Column Frames ............................................................................................. 5-6 
+5.2.4 Slab-Column Frames ............................................................................................... 5-7 
+5.2.5 Diaphragms ............................................................................................................. 5-8 
+5.2.6 Foundations............................................................................................................. 5-9 
+5.2.7 Systems Not Explicitly Considered ....................................................................... 5-10 
+5.3 Inspection ......................................................................................................................... 5-11 
+5.3.1 Visual Inspection ................................................................................................... 5-1 1 
+5.3.2 Pre-existing Conditions .......................................................................................... 5-11 
+5.3.3 Intrusive Inspection ............................................................................................... 5-12 
+5.3.4 Conditions Always Requiring Inspection .............................................................. 5-13 
+5.4 Performance-Critical Force and Deformation Limits....................................................... 5-14 
+FEMA P-2335 xi 
+
+[PDF PAGE 14]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+5.4.1 Classification of Elements, Components, and Actions ........................................ 5-14 
+5.4.2 Performance-Critical Forc e-Controlled Limits ...................................................... 5-14 
+5.4.3 Performance-Critical Deform ation-Controlled Limits .......................................... 5-15 
+5.4.4 Exceptions to ASCE/SEI 41 Force- or Deformation-Controlled Limits ................ 5-16 
+5.5 Classification of Damage ................................................................................................. 5-21 
+5.5.1 Key Damage Characteristics Associated with DC2 ............................................. 5-21 
+5.5.2 Visual Damage States ........................................................................................... 5-30 
+5.5.3 Use of Structural Analysis to Classify Damage.................................................... 5-34 
+5.6 Low-Cycle Fatigue Damage Assessment ......................................................................... 5-34 
+5.6.1 Fatigue Categories and Required Actions ............................................................ 5-34 
+5.6.2 Low-Cycle Fatigue Assessment of Reinforcement Assigned to Category 2 or 
+Category 3.............................................................................................................. 5-37 
+5.7 Modeling Parameters for Damaged Components .......................................................... 5-41 
+5.7.1 Effective Stiffness and Effective Damping ........................................................... 5-41 
+5.8 Criteria to Define Substantial Structural Damage .......................................................... 5-43 
+5.9 Repair ............................................................................................................................... 5-44 
+5.9.1 General................................................................................................................. .. 5-44 
+5.9.2 Modeling Parameters for Repaired Components ................................................ 5-45 
+5.9.3 Summary of Repair Techniques ........................................................................... 5-46 
+5.9.4 Repair Techniques for Concrete........................................................................... 5-48 
+5.9.5 Repair Techniques for Steel Longitudinal Reinforcement .................................. 5-51 
+5.9.6 Repair Techniques for Steel Transverse Reinforcement .................................... 5-57 
+Appendix A: Quantification of Inspection Indicators and Performance-Critical Limits...........A-1 
+A.1 Overview .............................................................................................................................. A-1 
+A.2 Defining Performance-Critical Limits ..................................................................................A-1 
+A.3 Defining Inspection Indicators ............................................................................................A-3 
+Appendix B: Visual Damage States ......................................................................................... B-1 
+B.1 Introduction and Objectives ............................................................................................... B-1 
+B.2 Guidance on Database Usage ........................................................................................... B-3 
+B.2.1 Steps to Visually Determine the Component Damage Class ................................ B-3 
+FEMA P-2335 xii 
+
+[PDF PAGE 15]
+ 
+Table of Contents 
+B.2.2 Key Parameters to Identify Representative Test Specimens ............................... B-4 
+B.2.3 Additional Guidance to Determine the Component Damage Class ..................... B-6 
+B.2.4 Residual Diagonal Crack Width Indicative of DC2 ................................................ B-7 
+B.3 Description of Key Damage States .................................................................................... B-9 
+B.3.1 General De scription................................................................................................. B-9 
+B.3.2 An Example of Damage States and Information Provided .................................. B-11 
+B.4 VDS Databases ................................................................................................................ B-13 
+B.4.1 Conforming Flexure- Controlled Walls ................................................................... B-13 
+B.4.2 Nonconforming Flexure-Controlled Walls............................................................. B-16 
+B.4.3 Lap-Splice-Controlled Walls .................................................................................. B-18 
+B.4.4 Shear-Controlled Walls .......................................................................................... B-18 
+B.4.5 Shear-Friction-Controlled Walls ............................................................................ B-20 
+B.4.6 Coupling Beams ..................................................................................................... B-21 
+B.4.7 Slab-Column Connections ..................................................................................... B-22 
+B.4.8 Nonconforming Shear- Controlled Columns ......................................................... B-23 
+B.4.9 Nonconforming Flexure-Shea r-Controlled Columns ............................................ B-24 
+B.4.10 Conforming Ductile Columns ................................................................................ B-25 
+B.4.11 Lap-Splice-Controlled Columns ............................................................................. B-26 
+B.4.12 Conforming Du ctile Beams ................................................................................... B-27 
+B.4.13 Interior Beam-Column Joints: Beam-Yielding/Joint-Failure Controlled .............. B-28 
+B.4.14 Exterior Beam-Column Joints: Joint-Failure Controlled ....................................... B-29 
+Appendix C: Fatigue Capacity Models and Background ......................................................... C-1 
+C.1 Overview ............................................................................................................................. C-1 
+C.2 Basis of Fatigue Screening Check ..................................................................................... C-1 
+C.3 Estimation of Maximum Reinforcement Tensile Strain .................................................... C-3 
+C.4 Further Fatigue Check ....................................................................................................... C-5 
+C.4.1 Simplified Fatigue Life Assessment ........................................................................C-5 
+C.4.2 Recommendations fo r Detailed Fatigue Life Assessments ................................ C-10 
+FEMA P-2335 xiii 
+
+[PDF PAGE 16]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+Appendix D: Relation to the IEBC ............................................................................................ D-1 
+D.1 Context ............................................................................................................................... D-1 
+D.2 Substantial Structural Damage ......................................................................................... D-1 
+D.2.1 As Defined in the IEBC ............................................................................................ D-1 
+D.2.2 As Appears in These Guidelines ............................................................................. D-1 
+D.3 Disproportionate Earthquake Damage ............................................................................. D-5 
+D.3.1 As Defined in the IEBC ............................................................................................ D-5 
+D.3.2 As Appears in These Guidelines ............................................................................. D-5 
+Glossary .................................................................................................................................... E-1 
+Notation..................................................................................................................................... F-1 
+References ............................................................................................................................... G-1 
+Project Participants.................................................................................................................. H-1 
+FEMA P-2335 xiv 
+
+[PDF PAGE 17]
+
+Chapter 1: Introduction 
+1.1 Introduction 
+The purpose of these Guidelines is to guide the assessment of buildings to determine the need for 
+post-earthquake repair or repair and retrofit. The procedures in these Guidelines are intended to 
+inform the identification of damage, the evaluation of observed damage caused by earthquakes in 
+terms of their effects on building seismic performance, the determination of the need for repair or 
+repair and retrofit, and the identification of repair measures. 
+The intended users of this document are engineers with experience in seismic design and 
+assessment and building officials with authority over such projects. Information in these Guidelines 
+might also be useful to building owners, insurance adjusters, and government agencies. Such users 
+should consult with a qualified engineer for application or interpretation of the information contained 
+herein. 
+1.2 Scope 
+These Guidelines address building structures damaged by earthquake ground shaking. They provide 
+a framework for post-earthquake assessment applicable to buildings in general. Detailed criteria in 
+these Guidelines are limited to reinforced concrete frame and wall construction, including modern 
+and older existing buildings. Information on other structural materials and building systems may be 
+added in future editions. 
+These Guidelines are applicable to buildings in any seismic design category. They focus on damage 
+to building structures due to ground shaking, which is a critical source of damage in an earthquake. 
+Other earthquake effects, such as surface fault rupture, foundation settlement, liquefaction, lateral 
+spreading, and landslide, are not directly considered. However, the procedures herein can be used to 
+identify, evaluate, and determine necessary repair actions for damage to the superstructure from 
+these effects occurring alone, or in combination with, ground shaking. Fire-following earthquake is 
+not considered. 
+Earthquakes can cause damage to structural and nonstructural components, as well as contents, of 
+buildings. These Guidelines address damage to structural components, and do not provide direct 
+guidance for assessment, repair, or retrofit of secondary structures, nonstructural components, or 
+contents. However, the identification and evaluation procedures for structural components provided 
+herein can provide useful context for the assessment of damage to other components and systems. 
+These Guidelines focus on the identification and mitigation of Performance-Critical Damage. 
+Performance-Critical Damage is a concept defined herein that is damage that leads to a reduction in 
+component and building strength, deformation capacity, or both. As a result of such damage, the 
+future seismic performance of the building is impaired, implying elevated collapse risk and amplified 
+FEMA P-2335 1-1 
+
+[PDF PAGE 18]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+drift demands, relative to the pre-earthquake condition, and indicating the need for performance-
+critical repairs. These Guidelines also identify repair strategies that can address cosmetic, durability, 
+or serviceability concerns from the damaging earthquake. 
+These Guidelines cover post-earthquake assessment, repair, and retrofit, where: 
+▪ Post-earthquake assessment is the process of determining whether an earthquake has 
+negatively affected the performance of a building in terms of drift demands and collapse risk in 
+future earthquakes. It includes: identification of earthquake damage; structural analysis used to 
+guide inspection or damage assessment; classification of component damage; and 
+determination of necessary mitigation actions. Typically, assessment would occur after a rapid 
+post-earthquake safety evaluation, such the procedures found in ATC-20-1, Field Manual: 
+Postearthquake Safety Evaluation of Buildings, 2nd Edition (ATC, 2005), but it does not depend 
+on the outcome of such an evaluation. 
+▪ Post-earthquake repair corrects damage to a structural component, element, or system without 
+substantial increases in stiffness, strength, or deformation capacity, or changes to the load path. 
+Performance-critical repairs are repairs that restore component and building strength and 
+deformation capacity to return the pre-earthquake performance of a building in terms of drift 
+control and collapse risk. Other repairs might also be warranted to restore appearance, 
+durability, or serviceability conditions. 
+▪ Post-earthquake retrofit increases stiffness, strength, deformation capacity, energy dissipation 
+capacity, or a combination of these, for a system, or changes its load path relative to the pre-
+earthquake condition. A retrofit can be carried out along with repair. These Guidelines include 
+procedures for determining the necessity of seismic retrofit of an earthquake-damaged building, 
+but they do not include procedures for designing the seismic retrofit. These Guidelines refer to 
+ASCE/SEI 41, Seismic Evaluation and Retrofit of Existing Buildings (ASCE, 2023), for retrofit 
+provisions that can be applied to buildings evaluated in accordance with these Guidelines. 
+1.3 Organization and Content 
+These Guidelines outline procedures for post-earthquake identification of damage, performance 
+assessment, determination of the need for repair or repair and retrofit, and the identification of 
+repair measures for earthquake-damaged buildings. 
+▪ Chapter 2, Overview, provides an overview of the process for post-earthquake assessment, 
+repair and retrofit, showing how damage identification is used to determine damage 
+classifications for building components that are used to evaluate repair and retrofit needs. 
+▪ Chapter 3, Identification of Earthquake Damage, describes the process of identifying earthquake 
+damage through inspection and, in some cases, structural analysis. 
+FEMA P-2335 1-2 
+
+[PDF PAGE 19]
+
+Chapter 1: Introduction 
+▪ Chapter 4, Evaluation of Earthquake Damage, describes the classification of earthquake 
+damage to components and the determination of the need for repair or repair and retrofit. 
+▪ Chapter 5, Reinforced Concrete, contains the necessary material-specific criteria for assessment 
+of reinforced concrete frame and wall construction, including failure mode identification, 
+component damage limits, and guidance on the use of visual damage databases to classify 
+damage. This chapter also describes repair techniques for these components and their suitability 
+for addressing Performance-Critical Damage and other repair objectives. The criteria in Chapter 5 
+can be used for reinforced concrete frame and wall components even if some elements in the 
+building, such as a wood diaphragm, are not reinforced concrete. 
+Each of these chapters is written with guidelines text and commentary. The goal of this organization 
+is to provide streamlined guidelines and steps for the engineer, while providing commentary that 
+provides more details regarding the steps to be taken and their rationale. 
+These Guidelines are accompanied by extensive electronic resources, including visual damage state 
+databases and summaries of laboratory tests of repaired reinforced concrete components. 
+The appendices to these Guidelines provide additional information including background on the 
+development of various components of the procedures. A glossary, list of symbols used throughout 
+these Guidelines, references, and list of project participants are provided at the end. 
+1.4 Policy Considerations 
+The post-earthquake assessment, repair, and retrofit process outlined in these Guidelines is 
+prompted by the occurrence of a damaging earthquake followed by a request or requirement for 
+damage evaluation. The request or requirement for damage evaluation can be made by an individual 
+owner or by the Authority Having Jurisdiction. It is not the intent of these Guidelines to establish 
+policy related to post-earthquake evaluation, repair, or retrofit of buildings by specifying under what 
+conditions these requests or requirements should be made. Rather, they intend to provide guidance 
+to the responsible engineer in implementing post-earthquake assessment, repair, and retrofit for a 
+building that is identified for damage evaluation. The evaluating engineer should review all 
+regulations and requirements from the Authority Having Jurisdiction in performing a requested or 
+required damage evaluation. 
+Post-earthquake damage assessment, repair, and retrofit can occur as a voluntary mitigation action 
+or a triggered mitigation action. Voluntary mitigation is undertaken at the discretion of a building 
+owner or other stakeholder and may be driven by concerns about deficiencies in the structure that 
+existed before the earthquake or about continued building function after the earthquake. A key point 
+is that the mitigation is voluntary with respect to the Authority Having Jurisdiction, such that there 
+may be considerable leeway in determining the mitigation performance objectives. Triggered 
+mitigation is required by a standing regulation when certain pre-defined conditions, such as a 
+damaging earthquake, occur. Because triggered mitigation involves compliance with the standing 
+regulation or building code, the regulation or code mandates the triggering conditions, the scope of 
+FEMA P-2335 1-3 
+
+[PDF PAGE 20]
+
+Guidelines for Post-Earthquake Repair and Retrofit of Buildings Based on Assessment of Performance-Critical Damage 
+the triggered work, and the criteria for that work. In that case, the minimum performance objectives 
+may be more narrowly and precisely defined. Both voluntary and triggered mitigation actions may 
+then require other work as determined by the Authority Having Jurisdiction; these actions are not 
+addressed here. These Guidelines do not address decisions related to demolition in lieu of repair or 
+retrofit. In some cases, demolition may be the most prudent choice when considering the costs of 
+repair or retrofit and the expected future performance after repair or retrofit. 
+The applicable code for repair and retrofit in many places in the United States is an adopted version 
+of the International Existing Building Code (IEBC) (ICC, 2024a). These Guidelines are consistent with 
+the concepts outlined in the IEBC provisions, including substantial structural damage and 
+disproportionate earthquake damage, and provide guidance on how to use the damage identification 
+and assessments described herein to make these determinations. Interpretations of state and local 
+ordinances that modify model code upgrade requirements are outside the scope of these Guidelines. 
+1.5 Related Documents 
+This section briefly describes how these Guidelines relate to existing standards and post-earthquake 
+assessment documents. 
+▪ The FEMA 306/307/308 series on evaluation and repair of earthquake-damaged concrete and 
+masonry wall buildings (FEMA, 1999 a,b,c). These Guidelines update and supersede the 
+FEMA 306/307/308 series with respect to evaluation and repair of earthquake-damaged 
+concrete wall buildings. These Guidelines also extend the scope beyond the FEMA 306/307/308 
+series to include concrete frame systems. Guidance for masonry wall buildings may be added in 
+future editions of these Guidelines. 
+▪ ASCE/SEI 41, Seismic Evaluation and Retrofit of Existing Buildings. ASCE/SEI 41 contains 
+provisions for seismic retrofit that can be applied for buildings evaluated in accordance with 
+these Guidelines. These Guidelines include procedures for determining the necessity of seismic 
+retrofit of an earthquake-damaged building, but they do not include procedures for designing the 
+seismic retrofit. The Guidelines also refer to ASCE/SEI 41 for guidance on analysis and modeling 
+parameters. At the time of this writing, the latest version of ASCE/SEI 41 was published in 2023, 
+but future editions can and should be used. 
+▪ ATC-20-1, Field Manual: Postearthquake Safety Evaluation of Buildings, Second Edition. 
+ATC-20-1 provides rapid and detailed procedures for evaluating earthquake-damaged buildings 
+and posting them with INSPECTED (green), RESTRICTED USE (yellow), or UNSAFE (red) placards. 
+These placards indicate the occupancy that is permitted, given the current condition of the 
+building. While not required, the results of an ATC-20-1 evaluation, if available, may be useful in 
+informing preliminary inspections involved in the assessments in these Guidelines. 
+▪ International Existing Building Code. The IEBC covers repair, alteration, addition, and change of 
+occupancy for existing buildings, and provides criteria for retrofit and repair. These Guidelines 
+adopt concepts from the IEBC to ensure that assessments using the procedures herein can be 
+FEMA P-2335 1-4 
+
+[PDF PAGE 21]
+
+Chapter 1: Introduction 
+interpreted in the context of the IEBC, where adopted. Certain one and two-family dwellings may 
+comply with the International Residential Code (ICC, 2024b) rather than the IEBC. Nevertheless, 
+these Guidelines are considered applicable to such buildings, and dwellings are not excluded. At 
+the time of this writing, the most recent version of the IEBC is the 2024 edition. Because the 
+IEBC is published every three years, users should be cognizant of changes in the IEBC that may 
+affect how these Guidelines should be applied. 
+1.6 Definitions and Notation 
+These Guidelines use concepts and language that are familiar to many practicing engineers working 
+in the field of earthquake-resistant design and assessment. These Guidelines, however, introduce 
+some terms whose definitions are particular in their use in this document, or not in common use. 
+Such terms are defined in the Glossary. To the extent practicable, these Guidelines use familiar 
+symbols and notation. Symbols and notation are listed in the Notation appendix. 
+1.7 Limitations 
+The procedures and criteria herein have been developed based on the current state of the 
+knowledge on the behavior of building structures and structural components subjected to 
+earthquake ground shaking. This knowledge will expand over time, and the assessment, repair, and 
+retrofit procedures described herein should be adjusted over time to reflect new knowledge. 
+The interpretation of damage and the performance of buildings subjected to earthquakes necessarily 
+requires engineering judgment. These Guidelines provide a framework and specific methods through 
+which an engineer can apply experience and formulate judgments on the effects of earthquake 
+damage and methods to address the damage. The engineering procedures contained in these 
+Guidelines are intended for application by engineers with experience in seismic design and 
+assessment and should not be applied by non-engineering personnel (including, but not limited to, 
+inspectors, owners, contractors, insurance adjusters, and claims managers). 
+These Guidelines assess earthquake damage in the context of its implications for building seismic 
+performance. However, the absence of damage does not indicate that a building in its pre-
+earthquake condition does not have earthquake-performance deficiencies. The repair strategies 
+identified herein restore an earthquake to its pre-earthquake condition. Other documents, such as 
+ASCE/SEI 41, should be used to identify deficiencies that existed before the earthquake. 
+At the present time, the detailed criteria herein are applicable to reinforced concrete structures. Until 
+these Guidelines are extended to other structural materials and systems, other resources are 
+recommended. These include the FEMA 306/307/308 series for masonry structures and FEMA 352, 
+Recommended Postearthquake Evaluation and Repair Criteria for Welded Steel Moment-Frame 
+Buildings (FEMA, 2000), for steel moment-frame buildings. 
+FEMA 

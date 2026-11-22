@@ -1,0 +1,107 @@
+Chemical Spill Procedures
+Spill Response and Clean-up Procedures
+Developing a Spill Response Plan
+Recommended Spill Control Materials Inventory
+Spill Response and Clean-up Procedures
+In the event of a chemical spill, the individual(s) who caused the spill is responsible for prompt and proper clean-up. It is also their responsibility to have spill control and personal protective equipment appropriate for the chemicals being handled readily available. See
+Developing a Spill Response Plan
+for more information.
+All spill kits come with a
+Chemical Spill Response Protocol visual guide
+. Click on the image below or link provided to view the guide.
+The following are general guidelines to be followed for a chemical spill. More detailed procedures may be available in your
+Departmental Chemical Hygiene Plan
+or Spill Response Plan.
+Emergency Actions
+Immediately alert area occupants and supervisor, and evacuate the area, if necessary.
+If there is a fire or medical attention is needed, contact Public Safety at 609-258-3333.
+Attend to any people who may be contaminated. Contaminated clothing must be removed immediately and the skin flushed with water for no less than fifteen minutes. Clothing must be laundered before reuse. See First Aid for Chemical Exposures for more information.
+If a volatile, flammable material is spilled, immediately warn everyone, control sources of ignition and ventilate the area.
+Immediate Spill Response
+Don personal protective equipment, as appropriate to the hazards. Refer to the Material Safety Data Sheet or other references for information.
+Consider the need for
+respiratory protection
+. The use of a respirator or self-contained breathing apparatus requires specialized training and medical surveillance. Never enter a contaminated atmosphere without protection or use a respirator without training. If respiratory protection is needed and no trained personnel are available, call EHS at x8-5294 or Public Safety at 911. If respiratory protection is used, be sure there is another person outside the spill area in communication, in case of an emergency. If no one is available, contact Public Safety.
+Using the chart below, determine the extent and type of spill. If the spill is large, if there has been a release to the environment or if there is no one knowledgeable about spill clean-up available, contact EHS at 609-258-5294 from 8:30am-4:30pm. Outside those hours, contact Public Safety at 609-258-3333 and ask for EHS assistance.
+Category
+Size
+Response
+Treatment Materials
+Small
+up to 300mL
+chemical treatment or absorption
+neutralization or absorption spill kit
+Medium
+300mL to 5L
+absorption
+absorption spill kit
+Large
+more than 5L
+call Public Safety (609-258-3333)
+outside help
+Protect floor drains or other means for environmental release. Spill socks and absorbents may be placed around drains, as needed.
+Contain and clean-up the spill according to the table above.
+Loose spill control materials should be distributed over the entire spill area, working from the outside, circling to the inside. This reduces the chance of splash or spread of the spilled chemical. Bulk absorbents and many spill pillows do not work with hydrofluoric acid. POWERSORB® (by 3M) products and their equivalent will handle hydrofluoric acid. Specialized hydrofluoric acid kits also are available for purchase from lab safety suppliers. Many neutralizers for acids or bases have a color change indicator to show when the spill is neutralized.
+When spilled materials have been absorbed, use brush and scoop to place materials in an appropriate container. Polyethylene bags may be used for small spills. Five gallon pails or 20 gallon drums with polyethylene liners may be appropriate for larger quantities.
+Complete a hazardous waste sticker, identifying the material as Spill Debris involving XYZ Chemical, and affix onto the container. Spill control materials will probably need to be disposed of as hazardous waste. Contact
+EHS
+at 258-5294 for advice on storage and packaging for disposal.
+Decontaminate the surface where the spill occurred using a mild detergent and water, when appropriate.
+Report all spills to your supervisor or the Principal Investigator.
+Developing a Spill Response Plan (
+top
+)
+An effective spill response procedure should consider all of the items listed below. The complexity and detail of the plan will, of course depend upon the physical characteristics and volume of materials being handled, their potential toxicity, and the potential for releases to the environment.
+Review Safety Data Sheets (SDSs) or other references for recommended spill cleanup methods and materials, and the need for personal protective equipment (e.g., respirator*, gloves, protective clothing, etc.)
+Acquire sufficient quantities and types of appropriate spill control materials to contain any spills that can be reasonably anticipated. The need for equipment to disperse, collect and contain spill control materials (e.g., brushes, scoops, sealable containers, etc.) should also be reviewed. See Recommended Spill Control Materials Inventory for more details. EHS maintains EHS chemical spill control kits that can be used if no other materials are available. After use, please call EHS at 258-5294 to restock.
+Acquire recommended personal protective equipment and training in its proper use.
+*For example, if an air purifying respirator or self-contained breathing apparatus are needed, personnel must be enrolled in the Respiratory Protection Program and attend annual training and fit-testing.
+Place spill control materials and protective equipment in a readily accessible location within or immediately adjacent to the laboratory.
+Develop a spill response plan that includes:
+Names and telephone numbers of individuals to be contacted in the event of a spill.
+Evacuation plans for the room or building, as appropriate.
+Instructions for containing the spilled material, including potential releases to the environment (e.g., protect floor drains).
+Inventory of spill control materials and personal protective equipment.
+Means for proper disposal of cleanup materials (in most cases, as hazardous waste) including contaminated tools and clothing.
+Decontamination of the area following the cleanup.
+Discuss the spill response plans with all employees in the area. EHS offers training for employees who work directly with chemicals (see Chemical Spills and Waste Procedures) and who are expected to respond outside their work area to assist with spill cleanup (see Chemical Emergency Response (HAZWOPER) First Responder - Operations Level Training). Contact Steve Elwood at 258-6271to schedule a session for your area.
+Recommended Spill Control Material Inventory (
+top
+)
+Spill kits are located in major hallways, stairwells and near elevators.
+Note: For spills greater than 4 liters, call Public Safety at 609-258-3333.
+Chemical Spill Kits
+Each Chemical Spill Kit contains one Toolbox/ PPE Spill Kit and two Universal Spill Absorbent Kits.
+Part 1: Toolbox/ PPE Spill Kit
+Toolbox
+1 Pen, 1 Marker, 3 Twist Ties, and 4 Hazardous Waste Labels
+3 Waste Bags
+1 Dustpan Set
+Length of “Caution- Chemical Spill” Tape
+1 Spill Instructions
+PPE
+Hot Zone Bag
+4 Pairs L Disposable Nitrile Gloves and 2 Pairs of Tyvek Shoe Covers
+1 XL Disposable Apron with Sleeves and 1 Pair of Chemical Splash Goggles
+Warm Zone Bag
+4 Pairs L Disposable Nitrile Gloves and 2 Pairs of Tyvek Shoe Covers
+1 XL Disposable Apron without Sleeves and 1 Pair of Safety Glasses
+Part 2: Universal Spill Absorbent Kit
+1 3 in. x 10 ft. Absorbent Sock
+10 Universal Spill Pads
+7 lbs. Absorbent (absorbs 2 L of water)
+Food Oil Spill Kits
+1 Pair PVC Glove with Gauntlet (M)
+1 pair PVC Glove with Gauntlet (XL)
+1 x 12” Dustpan and Brush Set
+3 x Hazardous Materials Bag (4mil thickness)
+10 x Oil Only Absorbent Pad (18” x 16”)
+2 x Oil Absorbent Pillow (10 gallon capacity)
+1 x Xsorb Premium Granules Absorbent (30 lb. bag)
+2 x 10 ft. Universal Absorbent Sock (3” diameter)
+Resources
+Graphic: Chemical Spill Response Protocol
+Staff
+Steve Elwood
+Director For Research Safety
+609-258-6271

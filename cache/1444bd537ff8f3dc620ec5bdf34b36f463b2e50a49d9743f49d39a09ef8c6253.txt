@@ -1,0 +1,756 @@
+[PDF PAGE 1]
+Manual for 
+Tsunami 
+Vertical 
+Evacuation 
+Structures 
+2nd Edition, October 2024 
+
+[PDF PAGE 2]
+(this page intentionally left blank) 
+
+[PDF PAGE 3]
+Manual for Tsunami Vertical Evacuation Structures 
+1st edition: November 2018 
+2nd edition: October 2024 
+PREPARED FOR: 
+Washington State Emergency Management Division 
+ 
+PREPARED BY : 
+University of Washington Institute for Hazards Mitigation Planning and Research 
+Department of Urban Design and Planning 
+ 
+AND BY: 
+ 
+This item was funded by NOAA Awards #NA17NWS4670017 and #NA23NWS4670022. 
+This does not constitute an endorsement by NOAA. 
+ 
+Front Cover: Shoalwater Bay Indian Tribe’s tsunami vertical evacuation structure (Photo: Degenkolb Engineers); 
+Ocosta Elementary School groundbreaking ceremony, Ocosta Elementary School & vertical evacuation building, 
+Washington Paciﬁc coast beach (Photos: Washington State Emergency Management Division). 
+
+[PDF PAGE 4]
+Table of Contents 
+ 
+Introduction ....................................................................................................................................................... 8 
+Why a Manual? To reduce Washington state’s huge tsunami risk. ........................................................................... 8 
+What’s Inside .......................................................................................................................................................... 10 
+Behind the Scenes: A Continuum of Eﬀorts ............................................................................................................. 12 
+Section 1. The 8 Phase Process .......................................................................................................................... 13 
+Phase 1: Involve Emergency Management Partners ............................................................................................... 13 
+Phase 2: Assess Tsunami Risks and Current Evacuation Options ............................................................................ 14 
+Phase 3: Engage the Community ............................................................................................................................ 15 
+Phase 4: Identify and Evaluate Potential Sites ........................................................................................................ 17 
+Phase 5: Develop a Funding Plan with Alternatives ................................................................................................ 19 
+Phase 6. Assemble Project Team, Complete Design, and Conﬁrm Budget .............................................................. 21 
+Phase 7. Oversee Construction and Completion ..................................................................................................... 23 
+Phase 8. Operate and Maintain .............................................................................................................................. 24 
+Next Steps ............................................................................................................................................................... 25 
+8 Phase Process Quick-Reference Sheet .................................................................................................................. 26 
+Section 2. Community and Emergency Management Roles ................................................................................ 28 
+Community Leaders and Stakeholder Committee Members ................................................................................... 28 
+Community Leaders ........................................................................................................................................... 28 
+Stakeholder Committee Members ..................................................................................................................... 28 
+How These Roles Fit into the Overall Process .................................................................................................... 28 
+Internal Project Manager ........................................................................................................................................ 29 
+Role .................................................................................................................................................................... 29 
+How This Role Fits into the Overall Process ....................................................................................................... 30 
+State, County, and Tribal Emergency Managers ..................................................................................................... 30 
+Washington State Tsunami Program .................................................................................................................. 30 
+County or Tribal Emergency Manager ................................................................................................................ 31 
+How These Roles Fit into the Overall Process .................................................................................................... 31 
+State Hazard Mitigation Oﬃcer .............................................................................................................................. 32 
+Role .................................................................................................................................................................... 32 
+How This Role Fits into the Overall Process ....................................................................................................... 32 
+Section 3. Tsunami Experts and Project Team Roles ........................................................................................... 33 
+Geologist ................................................................................................................................................................. 33 
+Role .................................................................................................................................................................... 33 
+
+[PDF PAGE 5]
+How This Role Fits into the Overall Process ....................................................................................................... 34 
+Tsunami Modeler .................................................................................................................................................... 34 
+Role .................................................................................................................................................................... 34 
+How This Role Fits into the Overall Process ....................................................................................................... 34 
+Geotechnical Engineer ............................................................................................................................................ 35 
+Role .................................................................................................................................................................... 35 
+How This Role Fits into the Overall Process ....................................................................................................... 35 
+Structural Engineer ................................................................................................................................................. 35 
+Role .................................................................................................................................................................... 36 
+How This Role Fits into the Overall Process ....................................................................................................... 36 
+Architect .................................................................................................................................................................. 36 
+Role .................................................................................................................................................................... 36 
+How This Role Fits into the Overall Process ....................................................................................................... 37 
+Section 4. More Guidance for Planning Vertical Evacuation Structures ............................................................... 38 
+Structure Types and Considerations ........................................................................................................................ 38 
+Buildings ............................................................................................................................................................. 38 
+Towers ................................................................................................................................................................ 39 
+Berms (“artiﬁcial hills”) ...................................................................................................................................... 39 
+Hybrid ................................................................................................................................................................. 40 
+General Criteria for Assessing Vertical Evacuation Designs .................................................................................... 41 
+Building to Withstand a Tsunami: Technical Requirements .................................................................................... 42 
+Cascadia Earthquake Tsunami Scenario ............................................................................................................. 43 
+Tsunami Modeling .............................................................................................................................................. 44 
+Section 5. Educating the Community About Tsunamis ........................................................................................ 46 
+How to Respond to and Prepare for a Tsunami ....................................................................................................... 46 
+How to Respond to a Local Source Tsunami ....................................................................................................... 47 
+How to Respond to a Distant Source Tsunami ................................................................................................... 47 
+Tsunami Alerts .................................................................................................................................................... 47 
+Preparedness Eﬀorts .......................................................................................................................................... 48 
+Section 6. Engaging the Community in Vertical Evacuation Planning ................................................................... 50 
+Tips for Public Outreach and Engagement .............................................................................................................. 50 
+Project Safe Haven: Example of a Community Planning Process ............................................................................ 53 
+Model for a Public Engagement Meeting ............................................................................................................... 55 
+Section 7. Tools for Funding and Planning Vertical Evacuation Structures ........................................................... 57 
+Revenue Generating ................................................................................................................................................ 57 
+Municipal Bonds ................................................................................................................................................. 57 
+Regular Property Tax .......................................................................................................................................... 57 
+Regular Local Sales Tax ....................................................................................................................................... 58 
+Special Assessment and Local Improvement Districts ....................................................................................... 58 
+Excise Taxes ........................................................................................................................................................ 58 
+
+[PDF PAGE 6]
+Development Impact Fees ................................................................................................................................. 59 
+Partnerships and Other Strategies .......................................................................................................................... 59 
+Public Private Partnerships (P3) ......................................................................................................................... 59 
+Value-Capture Strategies .................................................................................................................................... 60 
+Infrastructure Project Integration ...................................................................................................................... 60 
+Grants ..................................................................................................................................................................... 60 
+FEMA Mitigation Grant Programs ...................................................................................................................... 60 
+Community Development Block Grant Program (CDBG) ................................................................................... 62 
+State Agency Funding ......................................................................................................................................... 62 
+State Funding for Vertical Evacuation Structures at Schools .............................................................................. 62 
+Foundations ....................................................................................................................................................... 63 
+Congressionally Directed Spending & Community Project Funding (Earmarks) ................................................ 63 
+Combine with Other Grants ............................................................................................................................... 63 
+Planning .................................................................................................................................................................. 64 
+General Comprehensive Plan ............................................................................................................................. 64 
+Capital Plan / Capital Improvement Plan (CIP) ................................................................................................... 64 
+Hazard Mitigation Plan (HMP) ............................................................................................................................ 65 
+Focused Public Investment Plan (FPIP) .............................................................................................................. 65 
+Purchase of Development Rights and Easements .............................................................................................. 65 
+Regulation ............................................................................................................................................................... 66 
+Building Codes .................................................................................................................................................... 66 
+Bonus and Incentive Zoning ............................................................................................................................... 67 
+Overlay Zoning ................................................................................................................................................... 67 
+Transfer of Development Rights (TDR) ............................................................................................................... 67 
+Density/Cluster Zoning ....................................................................................................................................... 67 
+Section 8. Maintaining & Operating Vertical Evacuation Structures .................................................................... 69 
+Deciding What Supplies and Equipment to Provide ................................................................................................ 69 
+Maintenance and Security Considerations .............................................................................................................. 71 
+Ongoing Public Education and Drills ....................................................................................................................... 72 
+Preparing for Use of the Structure in a Tsunami Event ........................................................................................... 73 
+Section 9. Tsunami Signage and Wayﬁnding ....................................................................................................... 76 
+Appendix A: Kinds of Tsunami Maps and Their Uses .......................................................................................... 80 
+Appendix B: Resources ...................................................................................................................................... 81 
+Washington State Contacts ..................................................................................................................................... 81 
+Organizations .......................................................................................................................................................... 83 
+Reports .................................................................................................................................................................... 85 
+Articles .................................................................................................................................................................... 87 
+Videos...................................................................................................................................................................... 87 
+
+[PDF PAGE 7]
+Appendix C: Glossary ........................................................................................................................................ 90 
+Appendix D: Acknowledgements ....................................................................................................................... 96 
+
+[PDF PAGE 8]
+Manual for Tsunami Vertical Evacuation Structures| 8 
+ 
+Introduction 
+An earthquake strikes. The ground shakes. Windows and doors rattle. Pictures fall oﬀ the wall. 
+Having practiced in drills like the Great ShakeOut, you drop, cover, and hold on. Books fall and 
+bookshelves topple. You hear car alarms go oﬀ. Windows break. The shaking seems to go on 
+forever. When it ﬁnally stops, you get up, check your surroundings to make sure it’s safe, and 
+help your family members. All of you immediately leave your house and follow your tsunami 
+evacuation route, just like you practiced, because you live in a tsunami hazard zone. The streets 
+are cracked and buckled. Trees and powerlines have fallen down, so you walk with caution. 
+Because your community invested in a tsunami vertical evacuation structure, you and your 
+family now have a safe place to go. When you get to the top of the evacuation structure, you 
+breathe a sigh of relief. As you look out towards the water, you see a powerful tsunami wave 
+racing to shore, the ﬁrst of several life-threatening waves. Thankfully, you, your family, and your 
+neighbors are safe. 
+Why a Manual? To Reduce Washington State’s 
+Huge Tsunami Risk 
+Earthquakes are a major source of tsunamis in Washington. Our 
+state has the second-highest earthquake risk in the United States. 
+Several active faults in western Washington impact coastal 
+communities. The Cascadia Subduction Zone (CSZ), just oﬀ the 
+state’s Paciﬁc coastline, runs from Northern California to British 
+Columbia and is capable of generating a magnitude 9 or larger 
+earthquake. A local tsunami caused by the subduction zone will 
+leave some outer-coast communities in Washington with as little as 
+10 to 20 minutes to evacuate and could result in tens of thousands 
+of fatalities. Distant tsunamis, coming from as far away as Alaska 
+and Japan, can also impact Washington’s coastal communities but 
+these are preceded by signiﬁcantly more warning time. 
+Coastal communities that lack suﬃcient natural or artiﬁcial high 
+ground are particularly vulnerable to a local tsunami. Residents, 
+employees, and visitors will have limited time to evacuate. For at-
+risk communities, tsunami vertical evacuation structures are a way 
+to save lives. These structures are designed to withstand an earth-
+quake, aftershocks, liquefaction, and multiple tsunami waves. They 
+can be built as part of a new building or as a standalone tower or 
+berm (artiﬁcial hill). 
+Photo: Washington State Emergency Management Division 
+Figure 1. Tsunami evacuation sign. 
+
+[PDF PAGE 9]
+Manual for Tsunami Vertical Evacuation Structures| 9 
+
+Tsunami vertical evacuation structures have performed successfully in Japan and have also 
+been built in New Zealand. T he ﬁrst tsunami vertical evacuation structure in North America 
+was built in 2016 as part of the new Ocosta Elementary School in Grays Harbor County, 
+Washington. A few years later, Oregon State University completed a vertical evacuation 
+building at the Hatfield Marine Science Center in Newport, Oregon. In 2022, the Shoalwater 
+Bay Indian Tribe dedicated Washington’s ﬁrst standalone vertical evacuation tower. Planning, 
+funding, and design work for additional structures in Washington is currently underway. These 
+exciting eﬀorts provide inspiration for at-risk coastal communities everywhere. 
+Tsunami vertical evacuation structures are complex, high-performance structures. Planning, 
+modeling, designing, and constructing them is diﬀerent from your typical building project. 
+Strong community involvement, support, and leadership are needed to evaluate the need for 
+evacuation structures, plan for potential locations, identify funding, and follow through to the 
+end of construction and beyond. To achieve this, communities must administer a robust public 
+engagement process. Also key to success are partnerships with local, state, and federal 
+agencies, universities, and a variety of experts. 
+Communities on Washington state’s Paciﬁc Ocean coastline have limited resources. Unlike 
+California and Oregon, Washington’s major ports, infrastructure, and associated funding 
+resources are concentrated in the Puget Sound and along the Columbia River and not along 
+Washington’s outer coast. Given all these factors, Washington State Emergency Management 
+Division (WA EMD) created this manual to provide coastal communities with practical guidance 
+that will help them navigate the process and protect their communities. 
+Whether you are a community leader, a concerned citizen, a staﬀ member of the planning and 
+construction department of a local government agency, a non-proﬁt manager, a business owner, 
+Figure 2. Ocosta Elementary School. The gymnasium was built to be a tsunami vertical 
+evacuation structure. (Photo: Washington State Emergency Management Division) 
+
+[PDF PAGE 10]
+Manual for Tsunami Vertical Evacuation Structures| 10 
+ 
+or other vital member of the community, we hope this manual will assist you in your eﬀorts to 
+make your community safer. 
+What’s Inside 
+Section 1 describes the 8 Phase Process that communities can use to guide their eﬀorts to plan, 
+design, build, and maintain tsunami vertical evacuation structures. Some of the phases, such as 
+community engagement, continue throughout the entire process. 
+• Phase 1: Involve Emergency Management Partners 
+• Phase 2: Assess Tsunami Risks and Current Evacuation Options 
+• Phase 3: Engage the Community 
+• Phase 4: Identify and Evaluate Potential Sites 
+• Phase 5: Develop a Funding Plan with Alternatives 
+• Phase 6: Assemble Project Team, Complete Design, and Conﬁrm Budget 
+• Phase 7: Oversee Construction and Completion 
+• Phase 8: Operate and Maintain 
+The subsequent sections and appendices of the manual are referenced throughout the 8 Phase 
+Process and provide a “deeper dive” into details, along with additional guidance and tips. 
+Section 2 and Section 3 describe the various roles of those involved in planning, design, and 
+construction of evacuation structures, including community representatives, emergency 
+management staﬀ, tsunami experts, and project team members. In addition to clarifying their 
+various roles and responsibilities, these sections suggest when to involve them in the process. 
+Sections 4–9 supplement and expand upon the 8 Phase Process outlined in Section 1: 
+• Section 4 (More Guidance for Planning Vertical Evacuation Structures) can assist 
+communities in understanding and making decisions about the siting and design of 
+evacuation structures. It provides an overview of the technical requirements and a brief 
+look at the scenario earthquake and what is involved in tsunami modeling. 
+• Section 5 (Educating the Community About Tsunamis) presents content for public 
+outreach and education aimed at informing the community about the hazard, 
+encouraging tsunami preparedness, and raising awareness of evacuation routes, 
+including the need for vertical evacuation. Topics include tsunami warning signs, alerts, 
+and recommended response actions. 
+• Section 6 (Engaging the Community in Vertical Evacuation Planning) provides tips and 
+models to help project planners shape a communication strategy and engage their 
+communities in the planning process for siting, designing, and building a tsunami vertical 
+evacuation structure. 
+
+[PDF PAGE 11]
+Manual for Tsunami Vertical Evacuation Structures| 11 
+ 
+• Section 7 (Tools for Funding and Planning Vertical Evacuation Structures) describes 
+various funding, planning, and regulatory tools that support eﬀorts to build evacuation 
+structures. 
+• Section 8 (Maintaining & Operating Vertical Evacuation Structures) oﬀers guidance on 
+what comes after the vertical evacuation structure is built, including suggestions for 
+supplies and equipment to stock within the refuge. Also presented are security and 
+maintenance decisions and planning, ongoing public education and drills, and use of the 
+refuge in the event of a tsunami. 
+• Section 9 (Tsunami Signage and Wayﬁnding) provides guidance on tsunami wayﬁnding 
+and includes examples of tsunami signage for vertical evacuation structures. 
+Finally, the manual concludes with four appendices. These provide descriptions of diﬀerent 
+kinds of tsunami maps and how each is used (Appendix A), a list of resources (Appendix B), a 
+glossary (Appendix C), and an acknowledgments section (Appendix D). 
+
+Figure 3. Staircase leading to the refuge platforms on the tsunami vertical evacuation tower built in Tokeland, 
+Washington, by the Shoalwater Bay Indian Tribe. (Photo: Washington State Emergency Management Division) 
+
+[PDF PAGE 12]
+Manual for Tsunami Vertical Evacuation Structures| 12 
+ 
+Behind the Scenes: A Continuum of Efforts 
+Many individuals and organizations have contributed to helping make coastal communities 
+more resilient to tsunamis. These eﬀorts go back decades and include the growing research in 
+mapping earthquake faults and modeling seismic and tsunami hazards. 
+• Particularly important to the planning and construction of tsunami vertical evacuation 
+structures are county and local emergency managers, local leaders, engineers, designers, 
+planners, and residents, who were involved in each phase of the process and without 
+whose contributions vertical evacuation refuges would not have been built. 
+• The National Tsunami Hazard Mitigation Program (NTHMP) provided funding for both 
+the original version of the manual and this update, as well as for other eﬀorts to support 
+community preparedness. 
+• The Federal Emergency Management Agency (FEMA) awards grants for tsunami 
+structures and publishes reports, like Guidelines for Design of Structures for Vertical 
+Evacuation from Tsunamis (FEMA P-646, 3rd edition), that provide guidance. 
+• The National Oceanic Atmospheric Administration (NOAA) and the University of 
+Washington (UW) develop tsunami models, and the United States Geological Survey 
+(USGS) generates research on tsunami evacuation models. 
+• The Washington State Emergency Management Division (WA EMD) works closely with 
+coastal communities to support preparedness, response, recovery, and mitigation 
+eﬀorts, including the siting and construction of tsunami vertical evacuation structures. 
+• The Washington State Department of Natural Resources (WA DNR) provides tsunami 
+inundation maps and assists with pedestrian evacuation mapping. 
+• A collaboration of the University of Washington’s Institute of Hazards Mitigation and 
+Planning, WA EMD, and various partners produced Project Safe Haven, the ﬁrst eﬀort to 
+help communities plan for evacuation structures. 
+• The Resilient Washington Subcabinet Project Team and WA EMD produced the 2017 
+Resilient Washington Subcabinet Report: Findings and Recommendations, which states 
+as Recommendation #9: “Improve life safety in communities at risk for local tsunamis.” 
+This manual ﬁts into the continuum of these many and diverse eﬀorts. The manual project 
+teams carried out a series of interviews with community representatives, experts, and 
+professionals involved in the vertical evacuation planning process. This included elected 
+oﬃcials, school district leaders, tribal leaders, emergency managers, engineers, architects, 
+geologists, tsunami modelers, coastal residents, and others. The manual was also informed by 
+the output of public meetings held in Ocean Shores and Aberdeen, and by published research 
+and guidance. It builds on the work of agencies, universities, and individuals to support 
+tsunami-resilient communities. 
+
+[PDF PAGE 13]
+Manual for Tsunami Vertical Evacuation Structures| 13 
+ 
+Section 1. The 8 Phase Process 
+The 8 Phase Process represents the practical experience and lessons learned of people actively 
+involved in planning, building, and maintaining tsunami vertical evacuation structures. It can 
+assist you in building such a structure in your community. The phases vary in length, and some 
+involve several parts. Some phases last the whole process while others may be shorter. 
+Additional sections in the manual are referenced in these phases to provide added detail. 
+The 8 Phase Process is intended to oﬀer guidance but not be overly prescriptive. You may follow 
+these phases in a diﬀerent order or emphasize diﬀerent aspects of a phase. How your 
+community implements it will be unique to your circumstances. Before undertaking your 
+tsunami vertical evacuation structure project, read through Section 1 from start to ﬁnish so that 
+you understand the full 8 Phase Process and will be able to adapt the phases to suit your needs. 
+Communities that work together and collaborate with their partners will be most successful. 
+Phase 1: Involve Emergency Management Partners 
+A key ﬁrst step is to contact vertical evacuation subject matter experts. Local emergency 
+managers are the initial point of contact. It is recommended that the local emergency manager 
+work in tandem with the Washington State Emergency Management Division (WA EMD). 
+Contact your county or tribal emergency manager and the WA EMD Tsunami Program. 
+Washington state is fortunate to have a strong network of local, tribal, and state partners to 
+help your community with tsunami evacuation planning. 
+Go to Appendix B: Resources for contact information 
+Ask your county emergency manager and WA EMD staﬀ to connect you with other relevant 
+state and federal partners. For example, partner agencies include the Washington State 
+Department of Natural Resources (WA DNR), the University of Washington’s tsunami modeling 
+team, the United States Geological Survey (USGS), the Federal Emergency Management Agency 
+(FEMA), and the National Oceanic and Atmospheric Administration (NOAA). 
+Go to Section 2: Community and Emergency Management Roles (p. 28), and Appendix B: Resources 
+Be prepared to work with a diverse range of partners and share information to achieve better 
+outcomes. Building tsunami vertical evacuation structures is a complex and challenging 
+undertaking. Unsurprisingly, close collaboration with partners is required during the entire 
+process. The Ocosta School Board and the ﬁve communities in the Ocosta School District in 
+
+[PDF PAGE 14]
+Manual for Tsunami Vertical Evacuation Structures| 14 
+ 
+Grays Harbor County, Washington, worked closely with a variety of partners to build the ﬁrst 
+oﬃcial tsunami vertical evacuation structure in North America. 
+Phase 2: Assess Tsunami Risks and Current Evacuation Options 
+It is essential for communities to evaluate their tsunami risk and evacuation options. Guidance 
+and resources are available to help you better understand your community’s speciﬁc risks and 
+opportunities. 
+Identify the types of tsunami events that may impact your community. If you are in a coastal 
+community in the state of Washington, including within the Puget Sound, you have a tsunami 
+risk. Work with your local emergency manager, WA EMD, and WA DNR to understand your 
+community’s tsunami risk. Washington state is at risk from two tsunami sources: local and 
+distant. Local source tsunamis will likely come from the Cascadia Subduction Zone (CSZ) just oﬀ 
+the Paciﬁc coast. Within the Puget Sound, a crustal earthquake on the Seattle Fault, Tacoma 
+Fault, or other faults could generate a local source tsunami. Distant source tsunamis can come 
+from as far away as Alaska (such as happened in 1964) and even Japan (such as in 2011). 
+However, usually only local source tsunamis generate the kind of immediate extreme ﬂooding 
+that necessitates vertical evacuation structures. 
+Go to Section 5 (How to Respond to and Prepare for a Tsunami, p. 46) 
+Assess ﬂooding impacts and current evacuation routes. In 2021, WA EMD completed the Outer 
+Coast Tsunami Vertical Evacuation Assessment, a comprehensive assessment of tsunami vertical 
+evacuation structure needs for Paciﬁc, Grays Harbor, and Clallam counties. This assessment, 
+conducted by the Institute for Hazards Mitigation Planning and Research at the University of 
+Washington, analyzed potential sites for vertical evacuation structures using walk-time 
+estimates based on a tsunami from a 9.0 magnitude earthquake along the Cascadia Subduction 
+Zone. The research team used their ﬁndings to develop four vertical evacuation options for each 
+community studied. These options range from no vertical evacuation structures to the highest 
+number needed to attain total coverage. 
+The study is accompanied by maps showing proposed tsunami refuge locations, photos of the 
+locations, the number of people within 15-25 minutes’ walk to high ground, and graphics 
+displaying the data in an easy-to-read format. Summary tables for each county identify the 
+minimum number of structures needed for the entire county and the percent/number of 
+people in the tsunami zone who would be within 15- or 25-minutes’ walking distance of high 
+ground if all those structures were built. 
+If your community is located within Paciﬁc, Grays Harbor, or Clallam County, check out the 
+Outer Coast Tsunami Vertical Evacuation Assessment ﬁrst to see if locations for vertical 
+evacuation structures have already been recommended. 
+
+[PDF PAGE 15]
+Manual for Tsunami Vertical Evacuation Structures| 15 
+ 
+If your community was not included in the assessment, the state oﬀers a variety of other helpful 
+resources. 
+• Washington State Department of Natural Resources (WA DNR) has published inundation 
+maps for the entirety of Washington’s coastline that show where and how deep the 
+ﬂooding may be in your community during a Cascadia Subduction Zone tsunami. 
+• WA DNR also publishes tsunami evacuation walk time maps that show designated 
+tsunami evacuation routes and the estimated time it will take from a given location to 
+walk out of the tsunami inundation zone. Areas where the walk time exceeds the 
+estimated tsunami wave arrival time may need one or more vertical evacuation 
+structures to reduce the amount of time needed to get to high ground. 
+• Washington State Emergency Management Division (WA EMD) provides tsunami hazard, 
+preparedness, mitigation, evacuation, and other guidance and resources. 
+Go to Appendix A: Kinds of Tsunami Maps and How They are Used for VES Planning 
+Go to Appendix B: Resources for links to WA DNR Maps and WA EMD resources 
+See Section 3 (Geologist, p. 33) for information about WA DNR 
+Determine if your community needs vertical evacuation. Your evacuation needs will become 
+clearer when you review the data with your partners. If your community already has suﬃcient 
+natural and artiﬁcial high ground that your whole community can reach before tsunami waves 
+arrive, you will not need to build vertical evacuation structures. Alternatively, you may discover 
+that even if you improve evacuation routes to high ground, your community needs one or more 
+vertical evacuation structures where high ground is simply too far away for people to reach it in 
+time. Some communities will need to build many vertical evacuation structures due to lack of 
+natural and artiﬁcial high ground and insuﬃcient time to evacuate. Whatever your community’s 
+situation, vertical evacuation structures should be seen as part of an overall tsunami evacuation 
+plan that includes improving bridges and identifying potential barriers such as landslides that 
+could block evacuation routes and access to evacuation structures. 
+Phase 3: Engage the Community 
+By this stage, it has been determined that your community needs tsunami vertical evacuation 
+structures. The organization that leads a vertical evacuation planning process may be the local 
+government, a school district, a ﬁre district, a private company such as a resort, or a local 
+champion. Strong community engagement throughout the process results in better project 
+outcomes. Critical steps going forward include identifying trusted community leaders and 
+creating a stakeholder committee to strengthen decision-making and project oversight. 
+Go to Section 2 (Community Leaders and Stakeholder Committee Members, p. 28) 
+
+[PDF PAGE 16]
+Manual for Tsunami Vertical Evacuation Structures| 16 
+ 
+Engage community members and key stakeholders often to support successful outcomes. Your 
+public process will be unique to your community. Public meetings, going door-to-door, and 
+using social media are all valuable ways to inform your community. 
+• Learn from past tsunami evacuation planning eﬀorts by your community and other 
+communities. Previous planning eﬀorts, such as Project Safe Haven, can provide insights 
+and models for engaging community members in tsunami vertical evacuation planning. 
+• Hold public meetings to discuss tsunami risk and mitigation options. Meetings should 
+include subject matter experts such as geologists, engineers, tsunami modelers, 
+planners, and emergency managers. Try to make the public meetings engaging with 
+humor, prizes, and food. Inform your community of the risk while maintaining a sense of 
+hope and opportunity. 
+Go to Section 6: Engaging the Community in Vertical Evacuation Planning, p. 50 
+ 
+In 2018, meetings were held in the cities of Ocean Shores and Aberdeen, Washington. At 
+the meeting in Ocean Shores (ﬁgure 4), nearly 90% of people who ﬁlled out survey cards 
+felt strongly that vertical evacuation structures could save their lives and the lives of 
+people in their community. 
+Half of participants at these meetings indicated that they looked to their local oﬃcials and 
+emergency managers to help lead the tsunami vertical evacuation planning process. 
+Figure 4. Public meeting in Ocean 
+Shores. (Photo: TVW screenshot) 
+
+[PDF PAGE 17]
+Manual for Tsunami Vertical Evacuation Structures| 17 
+ 
+Identify a trusted community leader who will 
+manage the overall process. A community leader 
+understands the threats posed to their com-
+munity by tsunamis and is willing to take the 
+initiative to get the process moving. They are 
+willing to be persistent, even relentless, in this 
+eﬀort. A community leader is a problem solver 
+who seeks to overcome barriers and identiﬁes 
+resources. A community leader will set a clear 
+direction that the entire community can under-
+stand. They will communicate regularly with all 
+partners involved in the project to identify goals 
+and achievable milestones. Enthusiastic, trust-
+worthy community leaders are the most vital part 
+of successful vertical evacuation structure 
+projects. 
+Manage an open process from start to ﬁnish. 
+Transparency builds community trust, welcomes 
+assistance, and helps achieve community 
+acceptance. If a process runs into complications, 
+the community is more likely to maintain their 
+support when they feel like they have been 
+consulted and updated. 
+Establish a stakeholder committee. The role of the committee is to discuss the community’s 
+tsunami risk, research and analyze the issue, and explore possible ways forward. The committee 
+can then develop consensus around recommendations and provide project oversight. The 
+committee and the community leader can work together to develop an outreach strategy and 
+build support. Identify people to join the committee that have credibility and inﬂuence and 
+know how to get things done. In most communities, things cannot get done without the right 
+people on board. The Ocosta Elementary School project strongly beneﬁted from a stakeholder 
+committee that included PTA members, teachers, senior groups, community service groups, 
+tribes, city government oﬃcials, the Chamber of Commerce, and realtors. 
+Phase 4: Identify and Evaluate Potential Sites 
+This phase might be challenging for communities, but selecting workable sites is critical to a 
+successful project. Identifying, evaluating, and testing support for potential sites requires 
+community involvement. 
+Figure 5. Lee Shipman (left) at the dedication of 
+the “Auntie Lee” vertical evacuation tower, which 
+was built by the Shoalwater Bay Indian Tribe and 
+named after Shipman, who was the tribe’s 
+former emergency manager and the driving force 
+behind the project. (Photo: Washington State 
+Emergency Management Division) 
+
+[PDF PAGE 18]
+Manual for Tsunami Vertical Evacuation Structures| 18 
+ 
+Explore potential sites for future vertical evacuation structures. Involve the community in 
+these discussions. Choosing sites on land already owned by the jurisdiction avoids the cost of 
+purchasing new sites. Also, evacuation structures with multiple uses, including community 
+amenities, can generate greater community support. 
+The following considerations may help you determine your ﬁrst site and/or overall strategy: 
+• If planning a tsunami vertical evacuation structure in Clallam County, Grays Harbor 
+County, or Paciﬁc County, refer to the 2021 Outer Coast Tsunami Vertical Evacuation 
+Assessment. Guides for each county identify options for tsunami vertical evacuation 
+sites. The guides are available on the Tsunami webpage of the Washington State 
+Emergency Management Division’s website. 
+• Evaluate opportunities for vertical evacuation within other planned projects: Your 
+community may need to build a new school, ﬁre tower, city hall, or parking garage; or 
+perhaps you anticipate the need for new or replacement facilities a few years down the 
+road. This could provide an opportunity to add a tsunami vertical evacuation component 
+to the project—which is what the Ocosta School District did when they needed to 
+replace their existing elementary school. If your community has an upcoming 
+opportunity like this, it might be a good place to start. 
+• Evaluate sensitivity/density sites: Vertical evacuation planning includes tough choices 
+about how your community wants to prioritize its eﬀorts and resources. For example, 
+your community may be most concerned about the safety of school children, as were 
+the residents in and near the city of Westport who voted to build the Ocosta Elementary 
+School. You might also begin with sites in busy commercial areas and/or community 
+gathering places. These sites may more easily garner the required broad public support. 
+• Evaluate neighborhood sites: Vertical evacuation structures in neighborhoods could be 
+larger or smaller depending on the number of residents served. These projects could 
+even be funded with a neighborhood tax district. Homebuyers who are aware of coastal 
+hazards may value properties that have access to vertical evacuation. 
+• Evaluate higher ground/inland sites: The location of these sites can reduce the required 
+height and associated costs of vertical evacuation structures. A tsunami wave is highest 
+just as it comes ashore and then gets smaller as it moves inland. 
+Explore potential structure-type options for the site. Site opportunities will likely favor 
+particular structure types such as buildings, towers, berms, and hybrid options. Sometimes, a 
+structure type will inﬂuence the selection of a site. 
+Go to Section 4 (Structure Types and Considerations, p. 38) 
+
+[PDF PAGE 19]
+Manual for Tsunami Vertical Evacuation Structures| 19 
+ 
+Hire a geotechnical engineer and tsunami modeler to assess the sites chosen by the 
+community. A tsunami vertical evacuation structure must resist an earthquake, aftershocks, 
+liquefaction, and multiple tsunami waves. Geotechnical site investigations are essential for 
+understanding site conditions and foundation requirements. Tsunami models are needed to 
+determine the forces that a structure must resist and how high the structure needs to be. An 
+architect and structural engineer may also be hired to do an initial conceptual design for grant 
+applications. Be ready to share with the design team any prior studies done on the site, such as 
+an environmental impact assessment. 
+Go to Section 3: Tsunami Experts and Project Team Roles, p. 33 
+Hire a project management consultant to help with facility planning, cost estimation, bond 
+planning, architect selection, and construction services. This step can occur at this point in the 
+process or later, depending on circumstances. The Ocosta School District beneﬁted from project 
+management assistance from the Washington State Educational Service District (ESD) for facility, 
+bond planning, and construction services. The Shoalwater Bay Tribe searched for a project 
+management consultant after they had been awarded a major FEMA grant. 
+Phase 5: Develop a Funding Plan with Alternatives 
+While grants are a desirable funding option for vertical evacuation structures, they are 
+competitive and will generally not cover all costs, so it is important to explore local funding 
+options and other possible sources as well. 
+Assess funding sources. By this point, your community has selected a potential site and struc-
+ture type and completed initial geotechnical and tsunami studies. You may also have completed 
+initial design. As a result, you are able to draft a budget working with your project management 
+consultant, architect, and structural engineer. A ﬂeshed-out proposal and budget is helpful 
+when reviewing funding options. Federal grants are available, but local funds are also needed. 
+Local funding mechanisms include bonds, property taxes, and special districts, among others. 
+Go to Section 7: Tools for Funding and Planning Vertical Evacuation Structures, p. 57 
+Apply for grants. It is best for projects to have funding 
+secured before major design starts. The grant process takes 
+time, so get started early by identifying what parts of your 
+project need grant funding, which grants may be used for that 
+purpose, and for which grants you intend to apply. Both 
+federal and state grants may be options, depending on your 
+project. State agencies such as WA EMD can assist you with 
+the application process, but grants are not guaranteed. 
+In 2018, the Shoalwater Bay 
+Indian Tribe was awarded a 
+federal Pre-Disaster Mitigation 
+Grant (PDM) to build a tsunami 
+evacuation tower in Tokeland, 
+Washington. The completed 
+tower was dedicated on August 
+5, 2022. 
+
+[PDF PAGE 20]
+Manual for Tsunami Vertical Evacuation Structures| 20 
+ 
+Some grants cover the cost of the initial site studies, tsunami modeling, and beneﬁt-cost 
+analyses needed to prepare larger construction grant applications. Others cover a project’s 
+design and construction costs. For example, the City of Westport ﬁrst applied for a grant to help 
+cover the costs of initial scoping for their tsunami vertical evacuation project. They then used 
+this funding to apply for a larger grant to cover the costs of designing and building the structure. 
+Standalone vertical evacuation towers are currently preferred—most grants can fund only the 
+tsunami evacuation component of a multi-use project (such as a parking garage or school) and 
+cannot be used for non-tsunami construction costs. Also, if construction on the project has 
+begun before you apply for grants, the project won’t be eligible for funding. The Washington 
+state Hazard Mitigation team can explain and help you to navigate the grant process. 
+Go to Section 2 (State Hazard Mitigation Oﬃcer, p. 32) and Section 7 (Grants, p. 60) 
+Prepare a backup plan if some funding sources do not come through. For example, the Ocosta 
+School District leadership and stakeholder committee made the decision, early on, to move 
+forward even if grant funding did not come through. They were turned down for grant funding 
+but went on to build a successful and internationally lauded project using local bonds. 
+Build public support for local funding initiatives through outreach by your community leaders 
+and stakeholder committee. This is part of your ongoing public engagement eﬀorts. Don’t 
+speak in terms of millions of dollars of total project cost; instead, speak to the amount each 
+household might need to pay each day. If community members see a beneﬁt to them and those 
+they care about, they will be more likely to support the project. Although your ﬁrst project will 
+likely cover only a portion of your community, it is a vital step toward eventually providing 
+everyone with safe evacuation options. Your community must start somewhere. 
+Maintain open and frequent communications with your community. Plan to go back to them 
+with another funding option or site alternative if the ﬁrst one does not succeed. Let them know 
+you will keep coming back until the evacuation structure gets built. Remember, this is a long-
+term project to save lives and will require multiple eﬀorts. Even if a grant application does not 
+succeed, it will serve as a strong foundation on 
+which to build for your next attempt. 
+Before you pursue a funding plan, consider 
+presenting recommendations to the community 
+and inviting feedback. For example, at two public 
+meetings in 2018 in the cities of Ocean Shores and 
+Aberdeen (ﬁgure 6) participants were asked to ﬁll 
+out survey cards to indicate their preferences for 
+various funding options. 
+Figure 6. Public 
+meeting in 
+Aberdeen. 
+Photo: UW Project Team 
+
+[PDF PAGE 21]
+Manual for Tsunami Vertical Evacuation Structures| 21 
+ 
+Phase 6. Assemble Project Team, Complete Design, and Confirm 
+Budget 
+It is essential to select a capable project team that maintains good communication. The project 
+will also beneﬁt from having a community leader in charge of overseeing the project from start 
+to ﬁnish. Other recommended actions include continually tracking the budget and scope, being 
+transparent about the project and sharing progress updates with the community, and 
+reassessing as the project proceeds. 
+Create a selection process to hire project team members. Select professionals for the project 
+team who have expertise in earthquake and tsunami projects and some local knowledge. 
+Professionals from Washington state, or nearby coastal states, will often have a better grasp of 
+local conditions. In making your selection, seek guidance from your partners, project 
+management consultant, and stakeholder committee. With the Ocosta Elementary School 
+project, prospective ﬁrms had to make presentations to the stakeholder committee, and 
+committee members visited ﬁrm oﬃces before making a ﬁnal decision. 
+Go to Section 3: Tsunami Experts and Project Team Roles, p. 33 
+Finalize the project team once funding is secured. Your project team will include an architect, 
+structural engineer, geotechnical engineer, tsunami modelers, and other professionals. A civil 
+engineer and landscape architect are often needed, particularly for berm design. Strong 
+coordination between all project team members is essential given that vertical evacuation 
+structures are relatively new and complex. Time should be budgeted for this coordination. 
+Conﬁrm your internal project manager. This person is often the community leader who has 
+been leading the process since the beginning. The internal project manager represents your 
+organization in the contractual relationship with the consultant project team and the 
+construction contractor. This person works in tandem with the project management consultant 
+and is the bridge between the stakeholder committee and the consultant project team. Given 
+the complexity of these projects, this is a job that should not be delegated down. 
+Go to Section 2 (Internal Project Manager, p. 29) 
+Conduct further tsunami modeling. As the architect and structural engineer design the 
+structure, site-speciﬁc tsunami modeling will be required. Any changes to the structure’s shape 
+or location must be brought to the attention of the tsunami modeler. Such changes can alter the 
+modeling results and require changes to the design. It is essential to have strong lines of 
+communication between the consultant project team—speciﬁcally, the structural engineer and 
+architect—and the tsunami modeler. 
+Go to Section 3: Tsunami Experts and Project Team Roles, p. 33 
+
+[PDF PAGE 22]
+Manual for Tsunami Vertical Evacuation Structures| 22 
+ 
+Exercise strong oversight of the project budget. The internal project manager and all project 
+team members must keep tabs on the project budget and scopes of work. Most communities 
+have limited funds and need to keep within a project budget, or the project won’t get built. Re-
+assess costs at appropriate milestones to limit signiﬁcant budget increases. The Ocosta 
+Elementary School project team did exhaustive cost studies and made adjustments as needed. 
+Conﬁrm the design, capacity, and accessibility considerations for the evacuation structure. 
+Features to consider may include, for example, ramps alongside stair access, emergency 
+lighting, and storage space for emergency supplies, water, and sanitation facilities. All of these 
+elements will impact costs. It is more than likely that trade-oﬀs will need to be made in order to 
+keep on budget. If you are designing a multi-use structure, you will need to consider the 
+impacts for the building as a whole. 
+Go to Section 4 (General Criteria for Assessing Vertical Evacuation Designs, p. 41) 
+Identify approaches that combine life safety and good design. You will want a tsunami vertical 
+evacuation structure that is attractive. The structure needs to ﬁt into its surroundings but also 
+be identiﬁable as a tsunami refuge. Working with your project team and community input, you 
+can identify a strategy to incorporate all of these key factors. An attractive and functional 
+structure will help build support for future projects. 
+Go to Section 4 (General Criteria for Assessing Vertical Evacuation Designs, p. 41) 
+Conduct a peer review during the 
+design phase of the project. The 
+building code requires peer review 
+for all tsunami vertical evacuation 
+structures to ensure that the design 
+meets building code requirements. 
+Peer review may also be required 
+for federal grants. The review team 
+will include a structural engineer, 
+geotechnical engineer, and tsunami 
+modeler. Choose qualiﬁed experts 
+who are not aﬃliated with the ﬁrms 
+hired to do the design. Hiring the 
+peer reviewers usually starts with a 
+request for qualiﬁcations (RFQ), 
+issued by the project’s planners or 
+their project management ﬁrm. 
+Figure 7. An early design concept for a 400-person tsunami 
+evacuation tower being planned for a Washington coastal 
+community. (Image: Rice Fergus Miller and Degenkolb Engineers) 
+
+[PDF PAGE 23]
+Manual for Tsunami Vertical Evacuation Structures| 23 
+ 
+Phase 7. Oversee Construction and Completion 
+The construction phase presents new challenges that can be successfully managed through 
+good communication and oversight. 
+Hire a construction contractor. Send out a Request for Proposals (RFP) when the design and 
+cost estimate for the project are ﬁnalized. Make sure that the RFP describes the unique nature 
+of constructing tsunami vertical evacuation structures, such as extensive foundation work. In 
+addition, as mentioned in Phase 4, this may also be a time to select a project management 
+consultant if one has not already been hired. The construction process itself will involve 
+unanticipated challenges. In the case of the Ocosta Elementary School, budget constraints 
+required that some project elements be eliminated—for example, the original design included 
+an elevator to the roof, but the superintendent and stakeholder committee decided to eliminate 
+it, because it would not be operable after an earthquake anyway. 
+Schedule regular project meetings and reviews during construction. Your community leaders/ 
+internal project manager, project management consultant, project team, and contractor will 
+meet regularly to discuss progress and resolve issues that may arise. Brief the stakeholder 
+committee and update the public on progress. 
+Celebrate your newly constructed tsunami vertical evacuation structure by having an open 
+house/ribbon cutting. Your community can and should take pride in this achievement. The 
+completed project is a valuable legacy and an inspiration to other communities around the 
+world. 
+Figure 8. Ribbon-cutting ceremony at the opening of the newly completed Ocosta Elementary School 
+and vertical evacuation structure. (Photo: Washington Emergency Management Division) 
+
+[PDF PAGE 24]
+Manual for Tsunami Vertical Evacuation Structures| 24 
+ 
+Phase 8. Operate and Maintain 
+The job is not done when the structure has been built. It is important to think through and plan 
+not only for maintenance and use of the structure, but also for ongoing public education so that 
+the community and visitors know what to do and where to go in the event of a tsunami. 
+Set up a maintenance plan and a security plan for your evacuation structure. What these plans 
+include will depend on whether your evacuation structure is a building, tower, or berm and 
+where it is located. Maintenance and security plans ensure that your evacuation structure will 
+be durable and used appropriately. 
+Go to Section 8: Maintaining & Operating Vertical Evacuation Structures, p. 69 
+Conduct community outreach and training. Ongoing community engagement and education 
+continue to be crucial once a tsunami vertical evacuation structure is built, ensuring that 
+residents understand how and when to use the structure. This includes: 
+• Conducting regular evacuation drills that involve the structure’s occupants (if the 
+structure is part of a multi-use building) and nearby residents. 
+• Regularly review

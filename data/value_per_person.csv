@@ -1,0 +1,218 @@
+iso3,iso2,name,region,income,year,gdp_pc,estimated,alpha,alpha_estimated,value_pc
+ABW,AW,Aruba,Latin America & Caribbean ,High income,2024.0,38590.5650288641,False,14.341,False,553427.29307894
+AFG,AF,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2024.0,416.871146273728,False,15.065,False,6280.1638186137125
+AGO,AO,Angola,Sub-Saharan Africa ,Lower middle income,2025.0,3129.47662331063,False,14.79,False,46284.95925876422
+ALB,AL,Albania,Europe & Central Asia,Upper middle income,2025.0,12998.147869552,False,14.591,False,189655.97556463323
+AND,AD,Andorra,Europe & Central Asia,High income,2025.0,54291.5026031052,False,18.268,False,991797.1695535257
+ARE,AE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024.0,50273.5126243239,False,14.702,False,739121.18260281
+ARG,AR,Argentina,Latin America & Caribbean ,Upper middle income,2025.0,14898.0885943842,False,18.087,False,269461.728406627
+ARM,AM,Armenia,Europe & Central Asia,Upper middle income,2025.0,9474.01849300368,False,14.702,False,139287.01988414009
+ASM,AS,American Samoa,East Asia & Pacific,High income,2022.0,18017.4589383973,False,21.363,False,384906.9753009815
+ATG,AG,Antigua and Barbuda,Latin America & Caribbean ,High income,2025.0,24819.2454680158,False,15.312,False,380032.2866062579
+AUS,AU,Australia,East Asia & Pacific,High income,2025.0,65129.7227990563,False,17.8,False,1159309.065823202
+AUT,AT,Austria,Europe & Central Asia,High income,2025.0,62930.0351324599,False,20.643,False,1299064.7152393698
+AZE,AZ,Azerbaijan,Europe & Central Asia,Upper middle income,2025.0,7410.72281660142,False,14.702,False,108952.44684967407
+BDI,BI,Burundi,Sub-Saharan Africa ,Low income,2025.0,233.823013385395,False,26.096,False,6101.845357305268
+BEL,BE,Belgium,Europe & Central Asia,High income,2025.0,60750.2735864647,False,19.852,False,1206014.4312384971
+BEN,BJ,Benin,Sub-Saharan Africa ,Lower middle income,2025.0,1658.27312662991,False,22.286,False,36956.274900074175
+BFA,BF,Burkina Faso,Sub-Saharan Africa ,Low income,2025.0,1147.57131635601,False,22.696,False,26045.278596016004
+BGD,BD,Bangladesh,South Asia,Lower middle income,2025.0,2597.34352335275,False,18.575,False,48245.65594627732
+BGR,BG,Bulgaria,Europe & Central Asia,High income,2025.0,20328.1667065538,False,16.048,False,326226.4193067753
+BHR,BH,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,30596.5794898885,False,14.702,False,449830.91166034073
+BHS,BS,"Bahamas, The",Latin America & Caribbean ,High income,2024.0,39455.4466548546,False,14.341,False,565830.5604772697
+BIH,BA,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2025.0,10381.8460703874,False,18.268,False,189655.56401383705
+BLR,BY,Belarus,Europe & Central Asia,Upper middle income,2025.0,10279.2547190723,False,19.934,False,204906.66356998723
+BLZ,BZ,Belize,Latin America & Caribbean ,Upper middle income,2025.0,7865.47937690933,False,16.007,False,125902.72838618766
+BMU,BM,Bermuda,North America,High income,2024.0,142250.433195123,False,14.434,False,2053242.7527384055
+BOL,BO,Bolivia,Latin America & Caribbean ,Lower middle income,2025.0,5147.81081955367,False,17.967,False,92490.71699492077
+BRA,BR,Brazil,Latin America & Caribbean ,Upper middle income,2025.0,10713.2856869511,False,23.482,False,251569.37450098572
+BRB,BB,Barbados,Latin America & Caribbean ,High income,2025.0,28364.8181499736,False,14.432,False,409361.055540419
+BRN,BN,Brunei Darussalam,East Asia & Pacific,High income,2025.0,32234.6428368582,False,15.561,False,501603.2771843504
+BTN,BT,Bhutan,South Asia,Lower middle income,2025.0,4492.78400306618,False,9.715,False,43647.39658978794
+BWA,BW,Botswana,Sub-Saharan Africa ,Upper middle income,2025.0,7778.1151090571,False,12.627,False,98214.25948206401
+CAF,CF,Central African Republic,Sub-Saharan Africa ,Low income,2025.0,556.131398031455,False,14.79,False,8225.18337688522
+CAN,CA,Canada,North America,High income,2025.0,55697.6639660837,False,13.757,False,766232.7631814135
+CHE,CH,Switzerland,Europe & Central Asia,High income,2025.0,114769.012314293,False,18.635,False,2138720.54447685
+CHI,JG,Channel Islands,Europe & Central Asia,High income,2023.0,74585.5224096294,False,16.5245,True,1232488.465057921
+CHL,CL,Chile,Latin America & Caribbean ,High income,2025.0,17994.5911957485,False,15.937,False,286779.7998866438
+CHN,CN,China,East Asia & Pacific,Upper middle income,2025.0,13861.970224368,False,9.795,False,135777.99834768457
+CIV,CI,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,2025.0,3050.10202257321,False,23.044,False,70286.55100817705
+CMR,CM,Cameroon,Sub-Saharan Africa ,Lower middle income,2025.0,1972.3815800786,False,18.369,False,36230.677244463805
+COD,CD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,2025.0,806.776000708534,False,3.315,False,2674.46244234879
+COG,CG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,2025.0,2514.73393584747,False,3.315,False,8336.342997334363
+COL,CO,Colombia,Latin America & Caribbean ,Upper middle income,2025.0,8561.62091854449,False,18.886,False,161694.77266763122
+COM,KM,Comoros,Sub-Saharan Africa ,Lower middle income,2025.0,2055.75921566281,False,21.954,False,45132.13782066134
+CPV,CV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,2025.0,5796.47207860911,False,26.817,False,155443.9917320605
+CRI,CR,Costa Rica,Latin America & Caribbean ,High income,2025.0,19970.0989059622,False,15.187,False,303285.8920848479
+CUB,CU,Cuba,Latin America & Caribbean ,Upper middle income,2020.0,9605.27914559614,False,14.341,False,137749.30822699424
+CUW,CW,Curacao,Latin America & Caribbean ,High income,2024.0,22832.895498987,False,16.5245,True,377302.1816730107
+CYM,KY,Cayman Islands,Latin America & Caribbean ,High income,2024.0,104292.900672109,False,14.341,False,1495664.488538715
+CYP,CY,Cyprus,Europe & Central Asia,High income,2025.0,41783.08984375,False,14.702,False,614294.9868828125
+CZE,CZ,Czechia,Europe & Central Asia,High income,2025.0,35917.2724081665,False,19.934,False,715974.9081843911
+DEU,DE,Germany,Europe & Central Asia,High income,2025.0,60496.4350820414,False,21.443,False,1297225.0574642138
+DJI,DJ,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025.0,3905.604954681,False,20.108,False,78533.90442872555
+DMA,DM,Dominica,Latin America & Caribbean ,Upper middle income,2025.0,10989.0431185083,False,14.834,False,163011.46561995213
+DNK,DK,Denmark,Europe & Central Asia,High income,2025.0,76970.1535217919,False,19.169,False,1475440.872859229
+DOM,DO,Dominican Republic,Latin America & Caribbean ,Upper middle income,2025.0,11059.2081531834,False,12.471,False,137919.38487835016
+DZA,DZ,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025.0,6051.00322704182,False,10.295,False,62295.07822239553
+ECU,EC,Ecuador,Latin America & Caribbean ,Upper middle income,2025.0,7125.27618527738,False,26.071,False,185763.0754263666
+EGY,EG,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025.0,3085.80712036204,False,15.415,False,47567.71676038085
+ERI,ER,Eritrea,Sub-Saharan Africa ,Low income,,915.328972645548,True,20.108,False,18405.434981956678
+ESP,ES,Spain,Europe & Central Asia,High income,2025.0,38627.2472148623,False,18.112,False,699616.7015555858
+EST,EE,Estonia,Europe & Central Asia,High income,2025.0,34417.6320815138,False,16.259,False,559596.280013333
+ETH,ET,Ethiopia,Sub-Saharan Africa ,Low income,2025.0,932.729352775179,False,15.872,False,14804.28028724764
+FIN,FI,Finland,Europe & Central Asia,High income,2025.0,56148.580949046,False,17.812,False,1000118.5238644074
+FJI,FJ,Fiji,East Asia & Pacific,Upper middle income,2025.0,6642.00449450523,False,21.363,False,141893.14201611522
+FRA,FR,France,Europe & Central Asia,High income,2025.0,48985.7307807924,False,21.439,False,1050205.0822094083
+FRO,FO,Faroe Islands,Europe & Central Asia,High income,2024.0,74175.2776311377,False,16.0,False,1186804.442098203
+FSM,FM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,2025.0,4414.00737137479,False,21.363,False,94296.43947467963
+GAB,GA,Gabon,Sub-Saharan Africa ,Upper middle income,2025.0,8263.03321595,False,10.439,False,86257.80374130205
+GBR,GB,United Kingdom,Europe & Central Asia,High income,2025.0,57601.9621201954,False,16.297,False,938739.1766728244
+GEO,GE,Georgia,Europe & Central Asia,Upper middle income,2025.0,9691.53472415196,False,20.227,False,196030.6728654217
+GHA,GH,Ghana,Sub-Saharan Africa ,Lower middle income,2025.0,3257.1588903576,False,40.645,False,132387.22309858465
+GIB,GI,Gibraltar,Europe & Central Asia,High income,,39041.34693485845,True,18.268,False,713207.3258059941
+GIN,GN,Guinea,Sub-Saharan Africa ,Lower middle income,2025.0,1877.2541220972,False,22.489,False,42217.567951843936
+GMB,GM,"Gambia, The",Sub-Saharan Africa ,Low income,2025.0,919.060423427951,False,10.584,False,9727.335521561434
+GNB,GW,Guinea-Bissau,Sub-Saharan Africa ,Low income,2025.0,1123.76679992349,False,24.045,False,27020.97270416032
+GNQ,GQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,2025.0,6615.25245207167,False,14.79,False,97839.58376613999
+GRC,GR,Greece,Europe & Central Asia,High income,2025.0,26948.0070432791,False,20.403,False,549820.1877040234
+GRD,GD,Grenada,Latin America & Caribbean ,Upper middle income,2025.0,12106.8790105068,False,13.031,False,157764.7403859141
+GRL,GL,Greenland,Europe & Central Asia,High income,2023.0,58498.9707973609,False,14.434,False,844374.1444891072
+GTM,GT,Guatemala,Latin America & Caribbean ,Upper middle income,2025.0,6598.18032988711,False,19.907,False,131349.9758270627
+GUM,GU,Guam,East Asia & Pacific,High income,2022.0,41833.1517132825,False,21.363,False,893681.620050854
+GUY,GY,Guyana,Latin America & Caribbean ,High income,2025.0,32413.7930757518,False,16.777,False,543806.206431888
+HKG,HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2025.0,56983.0663059906,False,11.828,False,673995.7082672567
+HND,HN,Honduras,Latin America & Caribbean ,Lower middle income,2025.0,3598.21450440452,False,10.026,False,36075.69862115972
+HRV,HR,Croatia,Europe & Central Asia,High income,2025.0,27103.9116109268,False,18.268,False,495134.2573084108
+HTI,HT,Haiti,Latin America & Caribbean ,Lower middle income,2025.0,2694.18969101404,False,20.262,False,54589.671519326475
+HUN,HU,Hungary,Europe & Central Asia,High income,2025.0,25907.4743259406,False,16.441,False,425944.78539278934
+IDN,ID,Indonesia,East Asia & Pacific,Upper middle income,2025.0,5059.62596411213,False,17.253,False,87293.72675882657
+IMN,IM,Isle of Man,Europe & Central Asia,High income,2023.0,90015.2074234398,False,16.0,False,1440243.3187750368
+IND,IN,India,South Asia,Lower middle income,2025.0,2702.47987141553,False,15.2,False,41077.69404551605
+IRL,IE,Ireland,Europe & Central Asia,High income,2025.0,131592.462547877,False,13.014,False,1712544.307598071
+IRN,IR,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025.0,3924.38017821898,False,15.615,False,61279.19648288937
+IRQ,IQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025.0,5409.67899716967,False,14.702,False,79533.10061638849
+ISL,IS,Iceland,Europe & Central Asia,High income,2025.0,98323.4849517418,False,16.0,False,1573175.7592278689
+ISR,IL,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,60336.8477964194,False,14.498,False,874763.6193524884
+ITA,IT,Italy,Europe & Central Asia,High income,2025.0,43308.6403060733,False,19.397,False,840057.6960169037
+JAM,JM,Jamaica,Latin America & Caribbean ,Upper middle income,2025.0,8002.92104076242,False,13.713,False,109744.05623197505
+JOR,JO,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025.0,5347.77731384797,False,18.096,False,96773.37827139287
+JPN,JP,Japan,East Asia & Pacific,High income,2025.0,35951.0449549304,False,13.39,False,481384.49194651813
+KAZ,KZ,Kazakhstan,Europe & Central Asia,Upper middle income,2025.0,14692.1331757237,False,15.615,False,229417.6595389256
+KEN,KE,Kenya,Sub-Saharan Africa ,Lower middle income,2025.0,2362.86091198611,False,16.486,False,38954.12499500301
+KGZ,KG,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2025.0,3080.96893823359,False,15.615,False,48109.32997051751
+KHM,KH,Cambodia,East Asia & Pacific,Lower middle income,2025.0,2872.42926639909,False,15.561,False,44697.87181443624
+KIR,KI,Kiribati,East Asia & Pacific,Lower middle income,2025.0,2558.66636011102,False,21.363,False,54660.789451051714
+KNA,KN,St. Kitts and Nevis,Latin America & Caribbean ,High income,2025.0,25223.0257622185,False,14.012,False,353425.0369802057
+KOR,KR,"Korea, Rep.",East Asia & Pacific,High income,2025.0,36226.9663637512,False,12.298,False,445519.2323414122
+KWT,KW,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,32312.3119953634,False,14.702,False,475055.6109558327
+LAO,LA,Lao PDR,East Asia & Pacific,Lower middle income,2025.0,2324.76353098791,False,15.561,False,36175.64530570287
+LBN,LB,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024.0,4473.27134441128,False,14.702,False,65766.03530553463
+LBR,LR,Liberia,Sub-Saharan Africa ,Low income,2025.0,915.328972645548,False,22.489,False,20584.833265825728
+LBY,LY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025.0,6448.82415074121,False,15.338,False,98912.06482406869
+LCA,LC,St. Lucia,Latin America & Caribbean ,Upper middle income,2025.0,14745.8184305461,False,14.705,False,216837.2600211804
+LIE,LI,Liechtenstein,Europe & Central Asia,High income,2024.0,220167.225473557,False,18.452,False,4062525.644438074
+LKA,LK,Sri Lanka,South Asia,Upper middle income,2025.0,5002.07904353724,False,16.538,False,82724.38322201888
+LSO,LS,Lesotho,Sub-Saharan Africa ,Lower middle income,2025.0,1088.96276223185,False,37.323,False,40643.35717477934
+LTU,LT,Lithuania,Europe & Central Asia,High income,2025.0,32958.6706396386,False,16.0,False,527338.7302342176
+LUX,LU,Luxembourg,Europe & Central Asia,High income,2025.0,147252.179121515,False,9.737,False,1433794.4681061914
+LVA,LV,Latvia,Europe & Central Asia,High income,2025.0,26311.9730706362,False,14.303,False,376340.1508293096
+MAC,MO,"Macao SAR, China",East Asia & Pacific,High income,2025.0,75901.7461294198,False,11.828,False,897765.8532187773
+MAF,MF,St. Martin (French part),Latin America & Caribbean ,High income,2021.0,21668.3776525323,False,14.341,False,310746.20391496574
+MAR,MA,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025.0,4672.46826171875,False,17.882,False,83553.0774560547
+MCO,MC,Monaco,Europe & Central Asia,High income,2024.0,288001.574856495,False,18.452,False,5314205.059252047
+MDA,MD,Moldova,Europe & Central Asia,Upper middle income,2025.0,8621.71721623786,False,27.914,False,240666.61437406362
+MDG,MG,Madagascar,Sub-Saharan Africa ,Low income,2025.0,599.265294255357,False,19.775,False,11850.471193899684
+MDV,MV,Maldives,South Asia,Upper middle income,2025.0,14614.7208116541,False,15.065,False,220170.769027569
+MEX,MX,Mexico,Latin America & Caribbean ,Upper middle income,2025.0,13889.2339628708,False,9.672,False,134336.67088888638
+MHL,MH,Marshall Islands,East Asia & Pacific,Upper middle income,2025.0,8489.05793506422,False,21.363,False,181351.74466677694
+MKD,MK,North Macedonia,Europe & Central Asia,Upper middle income,2025.0,10489.9255355525,False,18.268,False,191629.95968347308
+MLI,ML,Mali,Sub-Saharan Africa ,Low income,2025.0,1193.27601004701,False,20.769,False,24783.14945266635
+MLT,MT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,47906.9000057635,False,18.268,False,875163.2493052876
+MMR,MM,Myanmar,East Asia & Pacific,Lower middle income,2025.0,1488.87527836542,False,15.561,False,23168.3882066443
+MNE,ME,Montenegro,Europe & Central Asia,Upper middle income,2025.0,14816.8380299947,False,18.268,False,270673.9971319432
+MNG,MN,Mongolia,East Asia & Pacific,Upper middle income,2025.0,7108.22743246244,False,11.828,False,84076.11407116574
+MNP,MP,Northern Mariana Islands,East Asia & Pacific,High income,2022.0,23785.754590043,False,21.363,False,508135.0753070886
+MOZ,MZ,Mozambique,Sub-Saharan Africa ,Low income,2025.0,626.914419215727,False,17.919,False,11233.679477926613
+MRT,MR,Mauritania,Sub-Saharan Africa ,Lower middle income,2025.0,2197.51046251309,False,19.278,False,42363.60669632734
+MUS,MU,Mauritius,Sub-Saharan Africa ,Upper middle income,2025.0,12991.2935987166,False,15.718,False,204197.1527846275
+MWI,MW,Malawi,Sub-Saharan Africa ,Low income,2025.0,671.506847203876,False,25.614,False,17199.97638428008
+MYS,MY,Malaysia,East Asia & Pacific,Upper middle income,2025.0,13124.5554178269,False,11.585,False,152047.97451552463
+NAM,NA,Namibia,Sub-Saharan Africa ,Lower middle income,2025.0,4875.92558158247,False,17.223,False,83978.06629159488
+NCL,NC,New Caledonia,East Asia & Pacific,High income,2024.0,29213.1923192946,False,21.363,False,624081.4275170906
+NER,NE,Niger,Sub-Saharan Africa ,Low income,2025.0,775.353622143879,False,24.463,False,18967.47565850571
+NGA,NG,Nigeria,Sub-Saharan Africa ,Lower middle income,2025.0,1224.25410237743,False,7.396,False,9054.583341183472
+NIC,NI,Nicaragua,Latin America & Caribbean ,Lower middle income,2025.0,3173.33724815085,False,16.269,False,51627.02369016617
+NLD,NL,Netherlands,Europe & Central Asia,High income,2025.0,73683.917132794,False,17.416,False,1283279.1007847404
+NOR,NO,Norway,Europe & Central Asia,High income,2025.0,94594.1929573987,False,12.622,False,1193967.9035082865
+NPL,NP,Nepal,South Asia,Lower middle income,2025.0,1535.87781246307,False,14.957,False,22972.12444101014
+NRU,NR,Naoero,East Asia & Pacific,High income,2025.0,14639.5046929186,False,21.363,False,312743.73875482
+NZL,NZ,New Zealand,East Asia & Pacific,High income,2025.0,49591.0405731713,False,17.846,False,885001.710068815
+OMN,OM,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,19947.3966227092,False,14.702,False,293266.6251470706
+PAK,PK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025.0,1595.90912252837,False,14.858,False,23712.017742526525
+PAN,PA,Panama,Latin America & Caribbean ,High income,2025.0,19789.7308555826,False,14.642,False,289761.23918744037
+PER,PE,Peru,Latin America & Caribbean ,Upper middle income,2025.0,9684.41170314988,False,19.037,False,184362.14559286428
+PHL,PH,Philippines,East Asia & Pacific,Upper middle income,2025.0,4170.72347271451,False,19.804,False,82597.00765363814
+PLW,PW,Palau,East Asia & Pacific,High income,2025.0,19532.3557719527,False,21.363,False,417269.71635622554
+PNG,PG,Papua New Guinea,East Asia & Pacific,Lower middle income,2025.0,3019.5309140573,False,21.363,False,64506.2389170061
+POL,PL,Poland,Europe & Central Asia,High income,2025.0,28419.5777395638,False,19.934,False,566515.8626604648
+PRI,PR,Puerto Rico (US),Latin America & Caribbean ,High income,2025.0,40620.1526923687,False,14.341,False,582533.6097612595
+PRK,KP,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,,915.328972645548,True,11.828,False,10826.511088451542
+PRT,PT,Portugal,Europe & Central Asia,High income,2025.0,32081.8106150292,False,18.834,False,604228.82112346
+PRY,PY,Paraguay,Latin America & Caribbean ,Upper middle income,2025.0,7026.61906146401,False,26.844,False,188622.5620859399
+PSE,PS,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025.0,3171.10844621579,False,14.702,False,46621.63637626455
+PYF,PF,French Polynesia,East Asia & Pacific,High income,2024.0,22439.8838746025,False,21.363,False,479383.2392131332
+QAT,QA,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,72524.9066385222,False,14.702,False,1066261.1773995534
+ROU,RO,Romania,Europe & Central Asia,High income,2025.0,22537.9532108047,False,17.407,False,392318.1515404774
+RUS,RU,Russian Federation,Europe & Central Asia,High income,2025.0,17546.609375,False,21.86,False,383568.8809375
+RWA,RW,Rwanda,Sub-Saharan Africa ,Low income,2025.0,1123.73874633225,False,25.803,False,28995.830871611048
+SAU,SA,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025.0,34536.6555456551,False,14.702,False,507757.9098322213
+SDN,SD,Sudan,Sub-Saharan Africa ,Low income,2025.0,1164.53991699219,False,15.338,False,17861.71324682621
+SEN,SN,Senegal,Sub-Saharan Africa ,Lower middle income,2025.0,1954.71174194867,False,21.513,False,42051.71370454174
+SGP,SG,Singapore,East Asia & Pacific,High income,2025.0,98813.9788172877,False,10.948,False,1081815.4400916658
+SLB,SB,Solomon Islands,East Asia & Pacific,Lower middle income,2025.0,2086.18955928928,False,21.363,False,44567.26755509689
+SLE,SL,Sierra Leone,Sub-Saharan Africa ,Low income,2025.0,846.296172499617,False,22.489,False,19032.354623343886
+SLV,SV,El Salvador,Latin America & Caribbean ,Upper middle income,2025.0,5766.72574029107,False,16.511,False,95214.40869794585
+SMR,SM,San Marino,Europe & Central Asia,High income,2023.0,59871.3288101478,False,18.268,False,1093729.43470378
+SOM,SO,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,2025.0,661.173877723116,False,20.108,False,13294.884333256417
+SRB,RS,Serbia,Europe & Central Asia,Upper middle income,2025.0,15262.0464193413,False,18.268,False,278807.0639885269
+SSD,SS,South Sudan,Sub-Saharan Africa ,Low income,2015.0,1080.14718624765,False,16.5245,True,17848.892179149294
+STP,ST,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,2025.0,4084.40062145233,False,14.79,False,60408.28519127996
+SUR,SR,Suriname,Latin America & Caribbean ,Upper middle income,2025.0,7069.87230892274,False,23.276,False,164558.34786248568
+SVK,SK,Slovak Republic,Europe & Central Asia,High income,2025.0,28543.6653439813,False,19.934,False,568989.4249669233
+SVN,SI,Slovenia,Europe & Central Asia,High income,2025.0,37376.2216079138,False,18.268,False,682788.8163333694
+SWE,SE,Sweden,Europe & Central Asia,High income,2025.0,63133.2126736715,False,18.524,False,1169479.631567091
+SWZ,SZ,Eswatini,Sub-Saharan Africa ,Lower middle income,2025.0,4108.25221093363,False,19.664,False,80784.6714757989
+SXM,SX,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,2025.0,42978.1317407037,False,16.5245,True,710192.1379492582
+SYC,SC,Seychelles,Sub-Saharan Africa ,High income,2025.0,19449.3836346926,False,13.573,False,263986.4840736827
+SYR,SY,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2022.0,1056.78264718197,False,8.754,False,9251.075293430966
+TCA,TC,Turks and Caicos Islands,Latin America & Caribbean ,High income,2024.0,37506.7798431288,False,14.341,False,537884.7297303102
+TCD,TD,Chad,Sub-Saharan Africa ,Low income,2025.0,1022.33559390754,False,27.036,False,27639.86511688425
+TGO,TG,Togo,Sub-Saharan Africa ,Lower middle income,2025.0,1383.89974929887,False,28.826,False,39892.29417328922
+THA,TH,Thailand,East Asia & Pacific,Upper middle income,2025.0,8056.56359761558,False,18.215,False,146750.3059305678
+TJK,TJ,Tajikistan,Europe & Central Asia,Lower middle income,2025.0,1637.2542942547,False,15.615,False,25565.72580478714
+TKM,TM,Turkmenistan,Europe & Central Asia,Upper middle income,2025.0,6540.17876401136,False,15.615,False,102124.89140003739
+TLS,TL,Timor-Leste,East Asia & Pacific,Lower middle income,2025.0,1340.9640193437,False,15.561,False,20866.741105007317
+TON,TO,Tonga,East Asia & Pacific,Upper middle income,2025.0,6547.18646814228,False,21.363,False,139867.54451892353
+TTO,TT,Trinidad and Tobago,Latin America & Caribbean ,High income,2025.0,18967.2704636681,False,9.14,False,173360.85203792647
+TUN,TN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025.0,4656.63818386852,False,17.762,False,82711.20742187266
+TUR,TR,Turkiye,Europe & Central Asia,Upper middle income,2025.0,18599.4420922378,False,11.932,False,221928.54304458146
+TUV,TV,Tuvalu,East Asia & Pacific,Upper middle income,2025.0,6041.44908591428,False,21.363,False,129063.47682238676
+TZA,TZ,Tanzania,Sub-Saharan Africa ,Lower middle income,2025.0,1318.81921386719,False,20.108,False,26518.816752441457
+UGA,UG,Uganda,Sub-Saharan Africa ,Low income,2025.0,1206.30450825002,False,20.108,False,24256.371051891405
+UKR,UA,Ukraine,Europe & Central Asia,Upper middle income,2025.0,5865.884765625,False,19.934,False,116930.54691796875
+URY,UY,Uruguay,Latin America & Caribbean ,High income,2025.0,25215.8238152781,False,17.237,False,434645.1551039486
+USA,US,United States,North America,High income,2025.0,90026.5163005744,False,15.111,False,1360390.6878179798
+UZB,UZ,Uzbekistan,Europe & Central Asia,Lower middle income,2025.0,3968.2720079072,False,15.615,False,61964.56740347093
+VCT,VC,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,2025.0,12561.769166789,False,15.842,False,199003.54714027134
+VEN,VE,"Venezuela, RB",Latin America & Caribbean ,Lower middle income,2025.0,3494.8138870244,False,9.417,False,32910.662374108775
+VGB,VG,British Virgin Islands,Latin America & Caribbean ,High income,,39041.34693485845,True,14.341,False,559891.956392805
+VIR,VI,Virgin Islands (U.S.),Latin America & Caribbean ,High income,2022.0,44320.909185774,False,14.341,False,635606.1586331849
+VNM,VN,Viet Nam,East Asia & Pacific,Upper middle income,2025.0,5065.99091899299,False,15.561,False,78831.88469044992
+VUT,VU,Vanuatu,East Asia & Pacific,Lower middle income,2025.0,4038.73520713411,False,21.363,False,86279.500230006
+WSM,WS,Samoa,East Asia & Pacific,Upper middle income,2025.0,5872.78333308796,False,21.363,False,125460.27034475809
+XKX,XK,Kosovo,Europe & Central Asia,Upper middle income,2025.0,7899.41841135202,False,16.5245,True,130533.93953838645
+YEM,YE,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,2018.0,633.887202451545,False,14.702,False,9319.409650442614
+ZAF,ZA,South Africa,Sub-Saharan Africa ,Upper middle income,2025.0,6597.71450918774,False,20.136,False,132851.57935700432
+ZMB,ZM,Zambia,Sub-Saharan Africa ,Lower middle income,2025.0,1317.87771619597,False,21.216,False,27960.0936268137
+ZWE,ZW,Zimbabwe,Sub-Saharan Africa ,Lower middle income,2025.0,3021.43019873632,False,21.272,False,64271.863187519

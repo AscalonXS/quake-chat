@@ -1,0 +1,247 @@
+Browse Topics
+Topics A-Z
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Priority Populations
+Children/Adolescents
+Elderly
+Low-Income
+Racial/Ethnic Minorities
+Rural/Inner-City Residents
+Special Healthcare Needs
+Women
+Programs
+Featured
+Clinicians & Providers
+Data & Measures
+Digital Healthcare Research
+Education & Training
+Hospitals & Health Systems
+Prevention & Chronic Care
+Quality & Patient Safety
+Research
+Publications & Products
+AHRQ Publishing and Communications Guidelines
+Search Publications
+Research Findings & Reports
+Evidence-based Practice Center (EPC) Reports
+Grantee Final Reports: Patient Safety
+Making Healthcare Safer Report
+National Healthcare Quality and Disparities Reports
+Technology Assessment Program
+AHRQ Research Studies
+National Healthcare Quality and Disparities Report
+Latest available findings on quality of and access to healthcare
+Data & Analytics
+Data Infographics
+Data Visualizations
+Data Tools
+Data Innovations
+Consumer Assessment of Healthcare Providers and Systems (CAHPS®) Program
+Healthcare Cost and Utilization Project (HCUP)
+Medical Expenditure Panel Survey (MEPS)
+National Healthcare Quality and Disparities Report Data Tools
+Network of Patient Safety Databases
+AHRQ Quality Indicator Tools for Data Analytics
+Surveys on Patient Safety Culture
+United States Health Information Knowledgebase (USHIK)
+Search Data Sources Available From AHRQ
+Tools
+Featured
+Clinicians & Providers
+Hospitals & Health Systems
+Prevention & Chronic Care
+Quality & Patient Safety
+Funding & Grants
+Notice of Funding Opportunities
+Research Policies
+Notice of Funding Opportunity Guidance
+AHRQ Grants Policy Notices
+HHS Grants Policy Statement
+Federal Regulations & Authorities
+Federal Register Notices
+AHRQ Public Access Policy
+Protection of Human Subjects
+Funding Priorities
+Special Emphasis Notices
+Staff Contacts
+Training & Education Funding
+Grant Application, Review & Award Process
+Grant Application Basics
+Application Forms
+Application Deadlines & Important Dates
+AHRQ Tips for Grant Applicants
+Grant Mechanisms & Descriptions
+Application Receipt & Review
+Study Sections for Scientific Peer Review
+Award Process
+Post-Award Grant Management
+AHRQ Grantee Profiles
+Getting Recognition for Your AHRQ-Funded Study
+Grants by State
+No-Cost Extensions (NCEs)
+Contracts
+AHRQ Grants by State
+Searchable database of AHRQ Grants
+PCOR
+AHRQ Projects funded by the Patient-Centered Outcomes Research Trust Fund.
+News
+Newsroom
+Press Releases
+AHRQ Social Media
+AHRQ Stats
+Impact Case Studies
+Blog
+AHRQ Views
+Newsletter
+AHRQ News Now
+Events
+AHRQ Research Summit on Diagnostic Safety
+AHRQ Research Summit on Learning Health Systems
+National Advisory Council Meetings
+AHRQ Research Conferences
+About
+About AHRQ
+AHRQ's Mission
+Brief History
+Health Services Research
+Timeline
+Budget
+National Advisory Council
+Take the AHRQ Quizzes
+Careers at AHRQ
+Maps and Directions
+Other AHRQ Web Sites
+Other HHS Agencies
+Organization & Contacts
+Centers and Offices
+Organization Chart
+Key Contacts
+Careers
+Contact Us
+Español
+FAQs
+SHARE:
+More topics in this section
+Research
+Publications & Products
+Research Findings & Reports
+Grantee Final Reports: Patient Safety
+Evidence-based Practice Center Reports
+National Healthcare Quality & Disparities Reports
+Making Healthcare Safer Reports
+AHRQ Research Studies
+Hospital Evacuation Decision Guide
+Public Health Emergency Preparedness
+This resource was part of AHRQ's Public Health Emergency Preparedness program, and focused on post-event evacuations.
+Post-Event Evacuation Decision Guide
+Post-event evacuations have occurred either following Advanced Warning Events (i.e., if the decision was made to shelter-in-place during the event, but subsequent damage was sufficient to necessitate evacuation) or during No Advanced Warning Events. No Advanced Warning Events include, most notably, earthquakes, building fires, tornadoes, and explosions (both accidental and terrorist acts).
+Figure 2
+shows a flowchart that illustrates the post-event evacuation decision process. The steps in the flowchart are identical to the bottom half of
+Figure 1
+, the decision process for an Advanced Warning Event in which the decision team decides to shelter-in-place. There are several possible paths through the Figure 2 flowchart, as illustrated in the examples of pre-event evacuation decisions listed in
+Table 6
+. Some of the possible paths are determining there is an immediate threat to patients and ordering an immediate post-event evacuation; monitoring a potential/evolving threat to patient safety during a wait-and-reassess period, and then ultimately not evacuating the hospital; and monitoring a potential/evolving threat to patient safety during a wait-and-reassess period, and then deciding to evacuate the hospital.
+As soon as possible after the event occurs, building integrity, critical infrastructure, and other environmental factors must be assessed to determine whether the hospital can continue to provide appropriate medical care to patients or should instead be evacuated. As shown in
+Figure 2
+, the flowchart assumes that hospitals will be in one of three conditions following the event:
+No threat to patient/staff safety.
+In this situation, it is immediately clear that the hospital did not suffer any significant damage that would cause decision teams to order an evacuation. This is the usual outcome for hospitals that experience minor earthquakes or that shelter-in-place throughout a hurricane and suffer little or no significant damage.
+Immediate threat to patient/staff safety.
+At the other extreme are situations in which the event clearly causes an immediate life-threatening risk to patients and staff, and the hospital must be rapidly evacuated. The evacuation of major portions of Mt. Sinai (New York) hospital during a building fire in 2009 illustrates this situation. Similarly, six of eight hospitals damaged in the Northridge, California, earthquake evacuated within hours of the earthquake.
+3
+Potential/evolving threat to patient/staff safety.
+Between these two extremes are situations when it is not immediately obvious whether or not the hospital should be evacuated. Hurricane Katrina illustrates this situation; many decision teams chose to shelter-in-place, only to find that catastrophic damage from the subsequent flood necessitated evacuation. A careful assessment of the factors listed in
+Table 4
+—in particular the risks posed to the hospital's water, sewer, electricity, and heat supply, as well as the overall building integrity—is required in order to decide whether an evacuation should be ordered, or if the decision should be deferred and the situation reassessed.
+Wait and Reassess, or Evacuate?
+Faced with a potential/evolving threat to patient and staff safety, decision teams must consider whether to evacuate. As shown in
+Figure 2
+, this decision has two possible outcomes:
+Wait and reassess.
+Absent a compelling reason to evacuate, the decision should be deferred and reconsidered at a later point, at which time the situation could significantly improve (i.e., no threat to patient/staff safety), significantly worsen (i.e., immediate threat to patient/staff safety), or not change significantly and require further careful assessment. For example, several decision teams deferred the evacuation decision for a lengthy period of time in the aftermath of the Three Mile Island (Pennsylvania) incident, the Northridge (California) earthquake, and Hurricane Katrina (Louisiana).
+Start evacuation.
+The factors that should be considered in the pre-event evacuation decision (
+Table 6
+) are the same for post-event evacuations. Actual post-event evacuations are often delayed as long as possible and are sometimes unavoidable due to loss of critical resources.
+Three Mile Island and Hospital Evacuations
+Lacking information from local emergency management agencies for the first 3 days after the Three Mile Island (Pennsylvania) incident, hospital staff in the affected area triaged patients, reduced their censuses, and initiated contacts with other facilities outside the risk zone to coordinate patient transfers if needed. Some facilities also condensed patient units due to staffing shortages. The wait-and-reassess period continued for 5 days.
+2
+Hospitals Evacuate Following Hurricane Katrina
+In the aftermath of Hurricane Katrina, hospitals in New Orleans ultimately evacuated due to loss of power, city water, civil unrest, and flooding.
+6-9
+Although emergency power was maintained at the VA Medical Center of New Orleans, loss of city water caused administrators to order a full evacuation.
+8
+Charity Hospital evacuated for reasons related to loss of power and water loss—they had insufficient generator capacity to maintain their ventilator-dependent patients, and lost air conditioning.
+9
+When the city's water supply failed, impairing the air conditioning systems at Children's Hospital New Orleans
+7
+and ice machines at Kindred Healthcare,
+6
+both facilities evacuated.
+Evacuation Sequence in a Post-Event Evacuation
+If the decision is made to begin an evacuation after the event has occurred, a subsequent judgment must be made regarding the sequence in which to evacuate patients. As was the case with the sequence in pre-event evacuations, with many post-event evacuations the most resource-intensive patients were evacuated first.
+3,4
+,
+8,9
+,
+11
+,
+33
+,
+35
+For example, physicians at the VA Medical Center in New Orleans decided to evacuate ventilator-dependent patients after Hurricane Katrina, and eventually all other patients as well, when the hospital was forced to operate on generator power and its fuel line was submerged under several feet of water, threatening the ability to refuel the generators.
+8
+Decision teams at Memorial Hermann Hospital and Memorial Hermann Children's Hospital in Houston, Texas, decided to evacuate critically-ill patients after power, water, and telephone service were lost following landfall of Tropical Storm Allison in 2001.
+33
+In the neuroscience/trauma ICU (NTICU), "those who required essential services were evacuated to other hospitals" first and, when the situation was reassessed, all other inpatients were also transferred.
+55
+Columbus Regional Hospital Evacuates
+An unexpected and abnormally high rainfall during summer 2008 led to a levy break in southern Indiana, causing water to surge and breach riverbanks and dams.
+53
+Columbus Regional Hospital in Indiana was forced to immediately evacuate as the basement of the hospital quickly filled with water from the nearby Haw Creek and power was lost.
+53
+The full evacuation of 157 patients occurred within 3 hours. The main floor of the hospital was submerged under eight inches of water by the time the evacuation was complete.
+54
+Following Hurricane Katrina, there were limitations on medical transportation teams and equipment (e.g., ALS ambulances, medevac helicopters). At some hospitals, the decision was made to triage patients according to acuity and available transportation resources. For example, Charity Hospital's evacuation plan was to move ICU patients first, but because streets were flooded and these patients could not be moved in boats, they stayed in the hospital until 18-wheelers arrived, rolling through the floodwaters.
+9
+Children's Hospital New Orleans (CHNO) also prioritized patients by transportation requirements during their post-Katrina evacuation. With assistance from other children's hospitals that supplied equipment, teams, and coordination,
+56
+CHNO was able to evacuate each critical patient accompanied by "care teams that had clinical competencies in transporting critical kids."
+7
+Matching patients with properly trained staff and appropriate transport technology was considered more important than getting the sickest patients out first, due to the hazards inherent in moving these exceptionally fragile patients.
+Following the Northridge earthquake in California, staff at six hospitals immediately evacuated due to fears about structural damage. At five of these six, unit staff evacuated their sickest patients first, followed by those who were less fragile.
+3
+At the sixth hospital, staff feared an immediate building collapse and evacuated the most mobile patients first. Beginning on the ground floor and working upwards, ambulatory patients were escorted from the building first, followed by people who could not walk but were otherwise self-sufficient. The ICU patients were evacuated next, and when all other patients were in a safe area outside, trapped patients were rescued. This strategy was selected as the best approach to maximize the number of lives saved.
+3
+As this latter example illustrates, there are some circumstances when decision teams must focus on saving the greatest number of patients. As in Northridge, they may decide to move the most mobile patients (the majority in most hospitals) first, returning later for the less numerous ICU and ventilator-dependent patients, who are more difficult to move. This approach would be less useful for facilities like Kindred Hospital of New Orleans, where half of all patients are ventilator-dependent.
+Page last reviewed July 2018
+Page originally created June 2010
+Internet Citation:
+Hospital Evacuation Decision Guide . Content last reviewed July 2018. Agency for Healthcare Research and Quality, Rockville, MD.
+https://www.ahrq.gov/research/shuttered/hospevac4.html
+Back to Top

@@ -1,0 +1,510 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>Before a Tsunami</title>
+<meta name="DC.title" content="Before a Tsunami" />
+<meta name="DC.description" content="Before a Tsunami" />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="November 26th 2024 8:58 PM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="Before a Tsunami" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+        <script type="text/javascript" src="/js/ForecastSearch.js"></script>
+        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA&pua=G-736JJ6NL0V"></script>	
+        <script type="text/javascript" src="/js/topNavMenu.js"></script>
+        <script type="text/javascript" src="/js/NidsESRI.js"></script>
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-736JJ6NL0V"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+            gtag('config', 'G-736JJ6NL0V');
+            gtag('config', 'UA-40768555-2');
+    </script>
+
+    </head>
+
+    <body>
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            <div class="content">
+    <div class="topnav">
+        <ul id="topnav">
+            <li>
+                <script type="text/javascript">
+                    function goBack() {
+                        if (document.referrer.toLowerCase().indexOf("weather.gov") != -1) {
+                            history.back();
+                        } else {
+                            document.location.href = "https://www.weather.gov";
+                        }
+                    }
+                </script>
+                <div class="topMenuNavList home">
+                    <a href="#" onclick="goBack();">HOME</a>
+                </div>
+            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/forecastmaps/">FORECAST</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov">Local</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://digital.weather.gov">Graphical</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://aviationweather.gov">Aviation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/marine/">Marine</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://water.noaa.gov">Rivers and Lakes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.nhc.noaa.gov">Hurricanes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.spc.noaa.gov">Severe Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/fire/">Fire Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Sunrise/Sunset</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Long Range Forecasts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Climate Prediction</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.swpc.noaa.gov">Space Weather</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/climate">PAST WEATHER</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrh/climate">Past Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Astronomical Data</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table">Certified Weather Data</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/safety/">SAFETY</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/informationcenter">INFORMATION</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/briefing/">Daily Briefing</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/hazstat">Damage/Fatality/Injury Statistics</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="http://mag.ncep.noaa.gov">Forecast Models</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/gis/">GIS Data Portal</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/nwr">NOAA Weather Radio</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/publications/">Publications</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/skywarn/">SKYWARN Storm Spotters</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/stormready">StormReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/notification/">Service Change Notices</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/education/">EDUCATION</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/news">NEWS</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/search/">SEARCH</a>
+                    </div>
+                                            <div style="opacity: 0;" class="sub">
+                            <ul class="no-links">
+                            <li><!-- Begin search code -->
+                                <div id="site-search">
+                                    <form method="get" action="https://search.usa.gov/search" style="margin-bottom: 0; margin-top: 0;">
+                                        <input type="hidden" name="v:project" value="firstgov" />
+                                        <label for="query">Search For</label>
+                                        <input type="text" name="query" id="query" size="12" />
+                                        <input type="submit" value="Go" />
+                                        <p>
+                                            <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+                                            <label for="nws" class="search-scope">NWS</label>
+                                            <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+                                            <label for="noaa" class="search-scope">All NOAA</label>
+                                        </p>
+                                    </form>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                                    </li>
+                            <li class="last">
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/about/">ABOUT</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/about/">About NWS</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/organization">Organization</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://sites.google.com/a/noaa.gov/nws-insider/">For NWS Employees</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/ncep/">National Centers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/nws-careers">Careers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/contact">Contact Us</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://forecast.weather.gov/glossary.php">Glossary</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/socialmedia">Social Media</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/NWStransformation">NWS Transformation</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                    </ul>
+    </div>
+</div>
+
+
+            <div class="center-content">
+
+                
+                
+
+                <div class="full-width-border">
+                    <div class="partial-width-borderbottom">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+
+                        <div class="div-full">    
+                        <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">Safety</p>
+        <p class="sitename-class">National Program</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>Before a Tsunami</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/safety">Safety</a>
+                                &gt; Before a Tsunami
+                    </div>
+    </div>
+</div>
+
+                        
+                        
+                        
+                        <div class="div-full">
+<div class="cms-content"><div class="two-third-first">
+<div id="hmenu">&nbsp;</div>
+<img alt="" src="/images/safety/evacuationdrilltxt.png" style="float: left; margin-top: 15px; margin-bottom: 15px; width: 650px; height: 377px;" /></div>
+
+<div align="right" class="one-third-last"><a href="https://www.weather.gov/wrn/"><img alt="" src="/images/wrn/Icons/161022_wrn.png" style="width: 115px; margin-top: 8px; margin-bottom: 8px;" /></a>
+
+<p style="text-align: center;"><span style="color:#FF0000;"><strong>**</strong></span><strong><a href="http://www.tsunami.gov/"><span style="color:#FF0000;">Get Tsunami Alerts</span></a><span style="color:#FF0000;">*</span></strong><span style="color:#FF0000;"><strong>*</strong></span></p>
+
+<div style=" border-top-left-radius:10px; width: 250px; background: #1a2757; padding-bottom: 6px;
+    padding-top: 6px; text-align: center; border-bottom: 1px solid white;"><span style="font-size:16px;"><strong><span style="color:#FFFFFF;">Tsunami Resources</span></strong></span></div>
+
+<div id="id01">&nbsp;</div>
+</div>
+
+<div class="div-full">
+<p>Even though tsunamis happen infrequently, it is still important to prepare for one if you live, work or play on the coast. Many of the things you need to do to prepare for a tsunami are the same as those you need to do to prepare for the other hazards that may impact your community. But some actions are unique to tsunamis since response time may be limited. It is not hard, and it is not expensive. Here are some things you can do now to help protect yourself and your loved ones in case a tsunami ever strikes your community.</p>
+
+<h3 class="rsc" style="padding-left: 30px;"><a class="toggle" href="#" id="#fld01"><span class="control">+</span>Know Your Risk</a></h3>
+
+<div class="div-full toggle" id="fld01" style="display:none;">
+<div style=" width:890px; margin-left: 0px; margin-right:5px;margin-left:30px;">
+<ul>
+	<li>Find out if your home, school, workplace or other frequently visited places are in <a href="https://www.weather.gov/nthmp/tsunamimaps 
+">tsunami hazard or evacuation zones</a>&nbsp;and if your community has had <a href="http://www.ngdc.noaa.gov/hazard/tsu_db.shtml">tsunamis in the past</a>. Your local emergency management office, your state&#39;s geologic or tsunami hazard website and your local <a href="https://www.weather.gov/stormready/contact">National Weather Service Weather Forecast Office</a>&nbsp;are good resources for information about your risk.</li>
+	<li>Find out if your community is&nbsp;<a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>. Communities recognized by the National Weather Service as TsunamiReady are better prepared for tsunamis.</li>
+</ul>
+</div>
+</div>
+
+<h3 class="rsc" style="padding-left: 30px;"><a class="toggle" href="#" id="#fld02"><span class="control">+</span>Understand the Warnings</a></h3>
+
+<div class="div-full toggle" id="fld02">
+<div style=" width:890px; margin-left: 0px; margin-right:5px;margin-left:30px;">
+<p>There are two ways that you may be warned that a tsunami is coming: official tsunami warnings and natural tsunami warnings. Both are equally important. You may not get both. Be prepared to respond immediately to whatever you hear or see first.</p>
+
+<ul>
+	<li>An official tsunami warning will be broadcast through local radio and television, marine radio,&nbsp;<a href="https://www.weather.gov/media/wrn/WEATsunamiFactSheet.pdf">wireless emergency alerts</a>,&nbsp;<a href="http://www.nws.noaa.gov/nwr/">NOAA Weather Radio</a>&nbsp;and NOAA websites (like&nbsp;<a href="http://www.tsunami.gov/">Tsunami.gov</a>). It may also come through outdoor sirens, local officials, text message alerts and telephone notifications.</li>
+	<li>There may not always be time to wait for an official tsunami warning. A natural tsunami warning may your first, best or only warning that a tsunami is on its way. Natural tsunami warnings include strong or long earthquakes, a loud roar (like a train or an airplane) from the ocean, and unusual ocean behavior. The ocean could look like a fast-rising flood or a wall of water. Or, it could drain away suddenly, showing the ocean floor, reefs and fish like a very low, low tide. If you experience any of these warnings, even just one, a tsunami could be coming.</li>
+</ul>
+</div>
+</div>
+
+<h3 class="rsc" style="padding-left: 30px;"><a class="toggle" href="#" id="#fld03"><span class="control">+</span>Practice All-Hazards Preparedness</a></h3>
+
+<div class="div-full toggle" id="fld03">
+<div style=" width:890px; margin-left: 0px; margin-right:5px;margin-left:30px;">
+<ul>
+	<li>Get a battery-operated&nbsp;<a href="http://www.nws.noaa.gov/nwr/">NOAA Weather Radio</a>&nbsp;to receive official messages and other hazard information 24 hours a day, 7 days a week.</li>
+	<li>Sign up for email and text message alerts from your local emergency management office and make sure your mobile devices are set to receive&nbsp;<a href="http://www.weather.gov/wrn/wea">wireless emergency alerts</a>.</li>
+	<li>Make an&nbsp;<a href="http://www.ready.gov/make-a-plan">emergency plan</a>&nbsp;that includes a family communication plan and put together a portable&nbsp;<a href="http://www.ready.gov/build-a-kit">disaster supplies kit</a>&nbsp;that is easily accessible and contains basic items you and your family may need in any emergency. Include your&nbsp;<a href="http://www.ready.gov/caring-animals">pets</a>&nbsp;in all your preparedness efforts. Since you do not know where you will be when disaster strikes, prepare kits for work and your car, too.</li>
+	<li>Meet with your family to discuss the plan and why you need to prepare for a disaster.</li>
+	<li>Practice your plan and keep it up to date.</li>
+	<li>Be a role model. Share your knowledge and plans with friends and neighbors so they can prepare themselves and their loved ones.</li>
+</ul>
+</div>
+</div>
+
+<h3 class="rsc" style="padding-left: 30px;"><a class="toggle" href="#" id="#fld04"><span class="control">+</span>Plan for Evacuation</a></h3>
+
+<div class="div-full toggle" id="fld04">
+<div style=" width:890px; margin-left: 0px; margin-right:5px;margin-left:30px;">If your home, school, workplace or other frequently visited places are in tsunami hazard or evacuation zones, your emergency plan should include evacuation plans.
+<ul>
+	<li>Find out if there are evacuation routes and assembly areas identified for your community. This information may be on a&nbsp;<a href="https://www.weather.gov/nthmp/tsunamimaps">tsunami hazard or evacuation zone map</a>. If it is not, ask your local emergency management office.</li>
+	<li>If assembly areas are not identified, plan to evacuate to a safe place that is on high ground or inland (away from the water) and outside the tsunami hazard or evacuation zone. You may need to identify more than one safe place, depending on where you may be when you get a tsunami warning (e.g., home, work, etc.). You should plan to be able to reach your safe place on foot if you can because of possible road damage, closed roads and traffic jams. If you are concerned that you will not be able to reach a safe place in time, ask your local emergency management office about vertical evacuation. Some strong (e.g., reinforced concrete) and tall buildings may be able to provide protection if no other options are available.</li>
+	<li>Map out evacuation routes to your safe place(s) from your home, workplace or any other place you visit often that is in a tsunami hazard or evacuation zone.</li>
+	<li>Practice walking your evacuation routes, including at night and in bad weather. Familiarity with the routes will make evacuation quicker and easier if you ever need to evacuate for real.</li>
+	<li>If you have children that go to school in a tsunami hazard or evacuation zone, find out about the school&#39;s plans for evacuating and keeping the children safe. Find out where the assembly area is and where you should pick up your children after the danger has passed.</li>
+	<li>If you are visiting an area at risk for a tsunami, find out about local tsunami safety. Your hotel or campground may be able to provide you with tsunami warning and evacuation information. It is important to know this information before a warning is issued. You may not have a lot of time after a warning. You do not want to waste it figuring out what to do.</li>
+</ul>
+</div>
+</div>
+
+<h3 class="rsc" style="padding-left: 30px;"><a class="toggle" href="#" id="#fld05"><span class="control">+</span>Plan for Safe Boating</a></h3>
+
+<div class="div-full toggle" id="fld05">
+<div style=" width:890px; margin-left: 0px; margin-right:5px;margin-left:30px;">If you are on a boat and you get a tsunami warning, your response will depend on the size of the tsunami, the currents it produces, where you are, how much time you have before the first wave arrives and the weather at sea. If you are a boat owner or captain:
+<ul>
+	<li>Make sure you have a way to receive tsunami warnings when you are on the water. The U.S. Coast Guard will issue urgent marine information broadcasts on your marine VHF radio&#39;s channel 16. Additional information will be available from&nbsp;<a href="http://www.nws.noaa.gov/nwr/">NOAA Weather Radio</a>.</li>
+	<li>Find out what to do if you get a tsunami warning when you are on a boat in a harbor and what to do if you are at sea. In general, if you are in a harbor, you should plan to leave your boat and move quickly to a safe place on land (high ground or inland, away from the water). If you are at sea, you should plan to move to a safe depth (which varies by region) and stay away from harbors under warning until officials tell you the threat has passed. Your harbormaster, port captain, the U.S. Coast Guard and local and&nbsp;<a href="http://www.fema.gov/emergency-management-agencies">state emergency management offices</a>&nbsp;are the best sources for tsunami safety information and regulations for boaters in your area.</li>
+	<li>Make a plan and put together a&nbsp;<a href="http://www.ready.gov/build-a-kit">disaster supplies kit</a>&nbsp;to keep on board your boat. Be aware that shore facilities may be damaged, so if you are at sea during a tsunami, you may not be able to return to the harbor you left. Be prepared to remain at sea for a day or more.</li>
+</ul>
+</div>
+</div>
+
+<p>&nbsp;</p>
+<script type="text/javascript">
+					$(document).ready(function() {
+						function toggleBlock() {
+							$($(this).attr("id")).toggle();
+							if ($($(this).attr("id")).css("display") == "none" ) {
+								$(this).children(".control").html("&#43;");
+							}
+							else {
+								$(this).children(".control").html("&ndash;");
+							};
+							return false;
+						}						
+
+						$("div.toggle:gt(0)").css({'display':'none'});
+						$("a.toggle").attr("title","Click to expand and contract");
+						$("a.toggle").click(toggleBlock);
+						$(".atoggle").keypress(toggleBlock);						
+
+					});
+			</script></div>
+<link href="/source/safety/css/menuTs.css" rel="stylesheet" type="text/css" /><script src="/source/safety/js/menu.js">
+</script><script src="/source/safety/js/tsunamiMenu.js">
+</script><script src="/source/safety/js/tsunamiMenuRs.js"></script><script src="/source/safety/js/menuWrap.js"></script>
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+  
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+                </div><!-- <div class="full-width-border"> -->
+
+                <div class="partial-width-borderbottom feature-block">
+                    <!-- area for features, frontpage thumbs, and custom page -->
+                    
+                    
+                </div><!-- end of <div class="partial-width-borderbottom feature-block"> -->
+
+                <div class="full-width-first">
+                    
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                Safety<br />                1325 East West Highway<br />
+                                Silver Spring, MD 20910
+                <br /><br />
+                <br /><a href="mailto:wrn.feedback@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>

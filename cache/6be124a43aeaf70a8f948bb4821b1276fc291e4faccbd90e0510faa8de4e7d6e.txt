@@ -1,0 +1,313 @@
+Your browser does not fully support modern features. Please upgrade for a smoother experience.
+×
+Scholarly Community
+Encyclopedia
+Entries
+Videos
+Images
+Journal
+Reprints
+Insights
+About
+Sign in
+Submit
+Entry
+Video
+Image
+Submitted Successfully!
+Share to social media
++1 credit
+Thank you for your contribution!
+Create more entries
+and keep sharing your academic knowledge with our community.
+×
+×
+Version
+Summary
+Created by
+Modification
+Content Size
+Created at
+Operation
+1
+Kazue Oshiro
++ 1298 word(s)
+1298
+2022-01-26 02:52:39
+|
+2
+formating
+Jason Zhu
+-17 word(s)
+1281
+2022-03-11 02:25:08
+|
+|
+3
+add the link
+Jason Zhu
+-11 word(s)
+1287
+2022-03-11 02:30:44
+|
+×
+Video Upload Options
+We provide professional Academic Video Service to translate complex research into visually appealing presentations. Would you like to try it?
+No, upload directly
+Yes
+×
+Cite
+If you have any further questions, please contact
+Encyclopedia Editorial Office.
+Select a Style
+MDPI and ACS Style
+MDPI and ACS Style
+AMA Style
+Chicago Style
+APA Style
+MLA Style
+Oshiro, K. Hypothermia Caused by Earthquakes. Encyclopedia. Available online: https://encyclopedia.pub/entry/20435 (accessed on 22 November 2026).
+Oshiro K. Hypothermia Caused by Earthquakes. Encyclopedia. Available at: https://encyclopedia.pub/entry/20435. Accessed November 22, 2026.
+Oshiro, Kazue. "Hypothermia Caused by Earthquakes"
+Encyclopedia
+, https://encyclopedia.pub/entry/20435 (accessed November 22, 2026).
+Oshiro, K. (2022, March 10). Hypothermia Caused by Earthquakes. In
+Encyclopedia
+. https://encyclopedia.pub/entry/20435
+Oshiro, Kazue. "Hypothermia Caused by Earthquakes."
+Encyclopedia
+. Web. 10 March, 2022.
+Copy Citation
+×
+Hypothermia Caused by Earthquakes
+Edit
+0
+0
+0
+Natural disasters can destroy all personal belongings and infrastructure and can deprive humans of the possibility of protecting themselves from harsh environments. One consequence may be death from accidental hypothermia.
+Earthquakes
+Treatment
+Hypothermia
+Tsunamis
+1. Key Challenges of Large Earthquakes
+Earthquakes with associated tsunamis have killed more people than all other disasters combined. Millions of earthquakes occur every year
+[
+1
+]
+. Most are small and cause no damage. Over 80% of the fatalities from earthquakes have been in China, Japan, Pakistan, Turkey, countries of the former USSR, Peru, Chile, and Italy. Earthquakes and tsunamis are rapid-onset disasters. From 1994 to 2013, earthquakes were responsible for an estimated 1.35 million deaths and displacement of an estimated 218 million people
+[
+2
+]
+. In addition to tsunamis, earthquakes can cause snow or ice avalanches, as well as GLOFs. All these disasters have the potential to cause accidental hypothermia in the people who initially survive an earthquake. Most people who suffer from hypothermia in earthquakes associated with tsunamis become hypothermic by being caught in the tsunami. Data regarding hypothermia caused by earthquakes and associated disasters are very limited.
+2. Irpinia Earthquake 1980
+One report of accidental hypothermia after an earthquake concerned the 1980 Irpinia earthquake in southern Italy
+[
+3
+]
+. On 23 November 1980, this magnitude 6.9 earthquake killed almost 2500 people, injured at least 7700, and left 250,000 people homeless. Nine children were buried for 7 to 27 h before being rescued alive. All were wearing light pyjamas or flannels. The lowest temperature overnight was 7.7 °C. Seven of the nine children were buried and immobilised for longer than 12 h and were mildly hypothermic on arrival to the hospital. All were rewarmed without incident using radiant infant warmers.
+3. Kashmir Earthquake 2005
+The magnitude 9.0 South Asian earthquake struck Kashmir on 8 October 2005. The official death toll was over 73,000 in the part of Kashmir administered by Pakistan and almost 1400 in the part administered by India
+[
+4
+]
+. An estimated 3.3 million people were left homeless. Three months after the quake, most of the people left homeless were still living in tents. Night-time temperatures were below freezing. In mountain villages, temperatures fell to as low as −13 °C. Few of the tents were winterised or designed for arctic-type cold. Relief efforts were thwarted by landslides caused by heavy snow and rain. Supplies and personnel could not be airlifted because of fog. Although there was enough food, there was a shortage of warm clothing and blankets. Many tents collapsed under snow. A news report on 28 November 2005 estimated that more than 100 people had been brought to hospitals with hypothermia and respiratory diseases.
+4. Great East Japan Earthquake 2011
+Probably the best studied tsunami followed the Great East Japan earthquake on 11 March 2011. There were about 16,000 fatalities. Over 90% were caused by drowning
+[
+5
+]
+. The ratio of tsunami-related deaths to earthquake-related deaths was 9:1. The ratio of injuries to deaths was 1:3.9. If missing persons are included, the ratio was 1:3.3. This contrasts with a ratio of 1:0.15 injuries to deaths after the Great Hanshin earthquake of 1995
+[
+6
+]
+. The occurrence of a tsunami increased the number of fatalities. Causes of death were not investigated in any detail. Autopsies were not conducted. As with most natural disasters, corpses were examined primarily to identify the victims. Interviews with medical examiners suggested that diagnoses of ‘death by drowning’ may have included cases of death by hypothermia and cases in which victims developed hypothermia before drowning
+[
+7
+]
+. Hypothermia accounted for 0.2% of deaths reported in the three hardest hit prefectures
+[
+8
+]
+.
+Victims of hypothermia caused by earthquakes and tsunamis can be broadly divided into those who developed hypothermia after gradual exposure to cold, as a result of their homes collapsing or damage to infrastructure, and those who were caught in the tsunami. The average temperature during the 24 h after the earthquake was 0.8 °C. The lowest temperature was −1.3 °C. The average wind speed was 5.8 m/s, with a maximum wind speed of 9.7 m/s. During early March, the sea surface temperature is typically between 5.4 °C and 8.3 °C
+[
+9
+]
+. The likelihood that hypothermia will develop increases as ambient temperature decreases and is increased by convective heat loss caused by wind and evaporative heat loss from wet clothing
+[
+10
+]
+. The risk of hypothermia increases during immersion in water colder than 18 °C
+[
+11
+]
+[
+12
+]
+. According to a survey of 134 patients in the hardest hit prefecture who received medical care at a hospital within 72 h after the earthquake, hypothermia caused by the tsunami accounted for about three-fourths (45 of 59) of all admissions. Most patients arrived at the hospital within 24 h
+[
+13
+]
+. The number of hypothermia cases occurring indoors increased with time, especially in victims with underlying conditions and in victims requiring assistance for activities of daily living who were living in their own homes or in shelters after evacuating their homes
+[
+13
+]
+. Seventy-seven of 91 (85%) patients were cold stressed at presentation (core temperature 35–35.9 °C—32 of 91) or mildly hypothermic (core temperature 32–35 °C—45 of 91)
+[
+13
+]
+. The predominance of patients with cold stress or mild hypothermia likely reflects the limited number of victims taken to hospitals during the early phase of the disaster. Land approaches were blocked when roads collapsed and were submerged. Air rescue was the primary means of reaching survivors. Air rescue was limited during the night. In a large-scale disaster, there is very little chance that hypothermic victims without vital signs will be resuscitated or transferred to a hospital
+[
+14
+]
+[
+15
+]
+. When it is unclear if the cause of cardiac arrest is drowning or hypothermia, it is difficult to identify victims who might be candidates for extracorporeal life support (ECLS) rewarming
+[
+16
+]
+. Even if hypothermic victims are transferred, ECLS treatment may be impossible because of power outages. In the Great East Japan earthquake, about 80% of hospitals and 30% of clinics were damaged. Almost all medical facilities in coastal areas had limited capabilities. Water and power outages, including interruptions of natural gas pipelines, were widespread. It took several days before most medical facilities were able to operate normally.
+Only 4 of 91 (4%) hypothermic patients arriving at hospital within 72 h of the earthquake died. The low mortality likely reflects the high proportion of cold stressed and mildly hypothermic patients. Patients without vital signs were not transferred to hospitals and were not represented in this in-hospital study
+[
+13
+]
+. Hospital treatment is limited when infrastructure is compromised because of limited rewarming capabilities, problems in identifying patients with underlying conditions and injuries, and the difficulties of allocating available resources. Most medical facilities also had little experience treating hypothermic patients.
+The situation is different during a small-scale disaster with few casualties, in which the response capabilities of the area are not overwhelmed. A wider range of victims can access medical resources. Victims in hypothermic cardiac arrest might receive medical treatment with ECLS rewarming. The allocation of ECLS rewarming should be guided by outcome stratification using a validated tool, such as the Hypothermia Outcome Prediction after Extracorporeal Life Support (HOPE) score
+[
+17
+]
+.
+5. Treatment of Hypothermia after a Natural Disaster
+Treatment strategies should be established with the assumption that infrastructure will be partly or completely disrupted over a large area. Precautions should be taken so that as few victims as possible become cold stressed or hypothermic. In the Great East Japan earthquake, 500,000 blankets were distributed
+[
+18
+]
+. Patients with cold stress or mild hypothermia were passively rewarmed with blankets in hospitals. Hospital treatment should be limited initially to hypothermic patients with underlying conditions or associated injuries and to victims with moderate or severe hypothermia. Medical professionals experienced in treating hypothermia should be deployed to evacuation shelters to help victims with mild symptoms self-treat and to identify victims requiring care at medical facilities. Wet clothing should be removed as soon as possible. If a change of clothing is not available
+[
+14
+]
+[
+15
+]
+, victims should be insulated with blankets
+[
+14
+]
+. Heating systems will likely not be available at evacuation shelters. Without electricity, forced air warming devices will not function. Chemical or battery-powered heat packs that do not require an external source of electricity or hot water bottles should be stockpiled for active external rewarming.
+This entry is adapted from
+10.3390/ijerph19031098
+References
+Peleg, K.; Reuveni, H.; Stein, M. Earthquake Disasters–Lessons to be Learned. Isr. Med. Assoc. J. 2002, 4, 361–365.
+Auerbach, P.S.; Cushing, T.A.; Harris, N.S. Auerbach’s Wilderness Medicine, 7th ed.; Elsevier Health Sciences: Philadelphia, PA, USA, 2016; ISBN 978-0-323-39609-7.
+Risolo, E.; De Carlo, M.; Micillo, A.; Vetrella, M. Cold injuries in children. Experiences of the earthquake of November 1980 (author’s transl). Pediatria 1982, 90, 45–51.
+Mulvey, J.M.; Awan, S.U.; Qadri, A.A.; Maqsood, M.A. Profile of Injuries Arising from the 2005 Kashmir Earthquake: The First 72 h. Injury 2008, 39, 554–560.
+The National Police Agency. The Great East Japan Earthquake Police Activities and Damage. Available online: https://www.npa.go.jp/news/other/earthquake2011/pdf/higaijokyo.pdf (accessed on 14 June 2021).
+Disaster Management, Cabinet Office. About the Great Hanshin-Awaji Earthquake. Available online: http://www.bousai.go.jp/kyoiku/kyokun/hanshin_awaji/earthquake/index.html (accessed on 1 May 2021).
+Aoki, Y.; Iwase, H. Questionnaire Survey Report for Dispatched Doctors by the Japan Forensic Society Disaster Dead Body Examination Support Project in the Great East Japan Earthquake. Available online: http://www.jslm.jp/saigai/pdf/shinsai_23.pdf (accessed on 14 June 2021).
+Ministry of Health, Labour and Welfare. The Vital Statistics of Death of the Great East Japan Earthquake. Available online: https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei11/dl/14_x34.pdf (accessed on 14 June 2021).
+Japan Meteorological Agency. Search Past Weather Data. Available online: https://www.data.jma.go.jp/obd/stats/etrn/index.php?prec_no=&block_no=&year=&month=&day=&view= (accessed on 11 October 2021).
+Gagge, A.; Gonzalez, R. Mechanisms of Heat Exchange: Biophysics and Physiology. Compr. Physiol. 2011, 45–84.
+Xu, X.; Turner, C.A.; Santee, W.R. Survival Time Prediction in Marine Environments. J. Therm. Biol. 2011, 36, 340–345.
+Xu, X.; Giesbrecht, G.G. A New Look at Survival Times during Cold Water Immersion. J. Therm. Biol. 2018, 78, 100–105.
+Furukawa, H.; Kudo, D.; Nakagawa, A.; Matsumura, T.; Abe, Y.; Konishi, R.; Yamanouchi, S.; Ishibashi, S.; Kobayashi, M.; Narita, N.; et al. Hypothermia in Victims of the Great East Japan Earthquake: A Survey in Miyagi Prefecture. Disaster Med. Public Health Prep. 2014, 8, 379–389.
+Paal, P.; Gordon, L.; Strapazzon, G.; Brodmann Maeder, M.; Putzer, G.; Walpoth, B.; Wanscher, M.; Brown, D.; Holzer, M.; Broessner, G.; et al. Accidental Hypothermia-an Update: The Content of This Review Is Endorsed by the International Commission for Mountain Emergency Medicine (ICAR MEDCOM). Scand. J. Trauma. Resusc. Emerg. Med. 2016, 24, 111.
+Lott, C.; Truhlář, A.; Alfonzo, A.; Barelli, A.; González-Salvado, V.; Hinkelbein, J.; Nolan, J.P.; Paal, P.; Perkins, G.D.; Thies, K.-C.; et al. European Resuscitation Council Guidelines 2021: Cardiac Arrest in Special Circumstances. Resuscitation 2021, 161, 152–219.
+Swol, J.; Darocha, T.; Paal, P.; Brugger, H.; Podsiadło, P.; Kosiński, S.; Puślecki, M.; Ligowski, M.; Pasquier, M. Extracorporeal Life Support in Accidental Hypothermia with Cardiac Arrest-A Narrative Review. ASAIO J. 2021.
+Pasquier, M.; Rousson, V.; Darocha, T.; Bouzat, P.; Kosiński, S.; Sawamoto, K.; Champigneulle, B.; Wiberg, S.; Wanscher, M.C.J.; Brodmann Maeder, M.; et al. Hypothermia Outcome Prediction after Extracorporeal Life Support for Hypothermic Cardiac Arrest Patients: An External Validation of the HOPE Score. Resuscitation 2019, 139, 321–328.
+UN Office for the Coordination of Humanitarian Affairs. Japan: Earthquake & Tsunami, Situation Report No. 10—Japan. Available online: https://reliefweb.int/report/japan/japan-earthquake-tsunami-situation-report-no10 (accessed on 1 May 2021).
+More
+©Text is available under the terms and conditions of the
+Creative Commons-Attribution ShareAlike (CC BY-SA)
+license; additional terms may apply. By using this site, you agree to the
+Terms and Conditions
+and
+Privacy Policy
+.
+Upload a video for this entry
+Information
+Subjects:
+Public, Environmental & Occupational Health
+Contributor
+MDPI registered users' name will be linked to their SciProfiles pages. To register with us, please refer to
+https://encyclopedia.pub/register
+:
+Kazue Oshiro
+View Times:
+1.9K
+Revisions:
+3 times
+(View History)
+Update Date:
+11 Mar 2022
+Table of Contents
+Notice
+You are not a member of the advisory board for this topic. If you want to update advisory board member profile, please contact
+office@encyclopedia.pub
+.
+OK
+Confirm
+Only members of the Encyclopedia advisory board for this topic are allowed to note entries. Would you like to become an advisory board member of the Encyclopedia?
+Yes
+No
+${ textCharacter }/${ maxCharacter }
+Submit
+Cancel
+There is no comment~
+${ textCharacter }/${ maxCharacter }
+Submit
+Cancel
+${ selectedItem.replyTextCharacter }/${ selectedItem.replyMaxCharacter }
+Submit
+Cancel
+Confirm
+Are you sure to Delete?
+Yes
+No
+×
+Entries
+Videos
+Images
+Journal
+Books
+Insights
+About
+Sign in
+New Entry
+New Video
+New Images
+Write an Entry
+Feedback
+Top
+Feedback
+×
+Help Center
+Browse our user manual, frequently asked questions, author guidelines, and more.
+Rate Your Experience
+Let us know your experience and what we could improve.
+Report an Issue
+Is something wrong? Please let us know!
+Other Feedback
+Other feedback you would like to report.
+×
+Did you find what you were looking for?
+Love
+Like
+Neutral
+Dislike
+Hate
+0
+/500
+Email
+Do you agree to share your valuable feedback publicly on
+Encyclopedia
+’s homepage?
+Yes, I agree. Encyclopedia can post it.
+No, I do not agree. I would not like to post my testimonial.
+Webpage
+Upload a screenshot
+(Max file size 2MB)
+Submit
+Back
+Close
+×

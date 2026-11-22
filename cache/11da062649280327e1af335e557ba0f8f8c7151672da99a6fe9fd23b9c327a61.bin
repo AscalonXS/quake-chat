@@ -1,0 +1,3235 @@
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <style>
+        html {
+        visibility: hidden;
+        opacity: 0;
+        }
+    </style>
+    <link rel="shortcut icon" href="/Images/Favicon/AAP-Favicon-4_Black.png" type="image/x-icon">
+        <link rel="canonical" href="https://www.aap.org/Pediatric-First-Aid-and-Safety-Training-for-Teachers-and-Caregivers" />
+
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=11;IE=Edge,chrome=1" />
+
+    <meta name="referrer" content="always" />
+
+    <meta property="og:title" content="Pediatric First Aid and Safety Training for Teachers and Caregivers | AAP" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.aap.org/Pediatric-First-Aid-and-Safety-Training-for-Teachers-and-Caregivers" />
+    <meta property="og:image" content="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61827-pediatric-first-aid-product.png" />
+    <meta property="og:description" content="" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Pediatric First Aid and Safety Training for Teachers and Caregivers | AAP" />
+    <meta name="twitter:description" content="Pediatric first aid is the initial medical care provided to a child who is injured or suddenly becomes sick. Children and adolescents are particularly vuln" />
+    <meta name="twitter:image" content="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61827-pediatric-first-aid-product.png" />
+
+
+    <meta name="robots" content="" />
+    <meta name="description" content="Pediatric first aid is the initial medical care provided to a child who is injured or suddenly becomes sick. Children and adolescents are particularly vuln" />
+    <meta name="keywords" />
+
+                <meta name="generator" content="EPiServer">
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <meta name="creation_date" content="Mon, 31 Mar 2025 11:23:51 GMT">
+                <meta name="last-modified" content="Mon, 31 Mar 2025 15:26:00 GMT">
+                <meta name="revised" content="Mon, 31 Mar 2025 15:26:00 GMT">
+                <meta http-equiv="Content-Language" content="English">
+                <meta name="publish_date" content="2025-03-31">
+                <meta name="publish_image" content="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61827-pediatric-first-aid-product.png">
+                <meta name="vertex_type" content="product">
+                <meta name="vertex_keywords" content="Online Course">
+                <meta name="vertex_retail_price" content="25.00">
+                <meta name="vertex_member_price" content="25.00">
+                <meta name="vertex_product_code" content="61827">
+
+        <title>Pediatric First Aid and Safety Training for Teachers and Caregivers | shopAAP</title>
+
+     <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2RV28J');
+    </script>
+<!-- End Google Tag Manager -->
+
+<!-- Donate Widget Script -->
+<script>(function(w,d,s,n,a){if(!w[n]){var l='call,catch,on,once,set,then,track'.split(','),i,o=function(n){return'function'==typeof n?o.l.push([arguments])&&o:function(){return o.l.push([n,arguments])&&o}},t=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=!0;j.src='https://cdn.fundraiseup.com/widget/'+a;
+t.parentNode.insertBefore(j,t);o.s=Date.now();o.v=4;o.h=w.location.href;o.l=[];for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}})(window,document,'script','FundraiseUp','ADAHKUXY');</script>
+<!-- End Donate Widget Script -->
+
+<!-- UserCentrics -->
+<script src="https://web.cmp.usercentrics.eu/modules/autoblocker.js"></script>
+<script id="usercentrics-cmp" src="https://web.cmp.usercentrics.eu/ui/loader.js" data-ruleset-id="Mnc_lAuJDSzEm6" async></script>
+
+<!-- Doubleclick and ads -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type="text/javascript">
+
+googletag.cmd.push(function() {
+
+    var slotId = 'div-gpt-ad-1633540336787-0';
+    // Prevent duplicate slot registration
+    var existingSlot = googletag.pubads()
+        .getSlots()
+        .find(function(slot) {
+            return slot.getSlotElementId() === slotId;
+        });
+    if (!existingSlot) {
+        var AAPorg = googletag.sizeMapping()
+            .addSize([730, 0], [728, 90]) // desktop
+            .build();
+        googletag.defineSlot(
+            '/22410314033/aap_leadert',
+            [728, 90],
+            slotId
+        )
+        .defineSizeMapping(AAPorg)
+        .addService(googletag.pubads());
+    }
+    // Enable GPT services only once
+    if (!window.aapGPTInitialized) {
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+        window.aapGPTInitialized = true;
+    }
+});
+</script>
+
+<!-- share this script -->
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6480b01ae58f550012ea9faa&product=sop' async='async'></script>
+
+    
+
+    <script>
+        function mobileGlobalNav(elementName) {
+        var icon = document.getElementsByClassName(elementName)[0];
+        icon.classList.toggle('active');
+        }
+    </script>
+
+    <meta charset="utf-8" />
+
+    <meta name="theme-color" content="#00247F">
+    <link href="/Bundles/css/main.css?v=022b8bf9baa168c2cbfeefcac7c2019b28dd03580b7151e3e66b48dd89a21846" rel="stylesheet" />
+    <style>
+        .preload-hide {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #fff;
+        z-index: 900;
+        overflow: hidden;
+        }
+    </style>
+
+
+</head>
+<body class="theme-aap  " style="padding-top:0">
+        <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2RV28J"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<style>
+.search-bar-info-suggestions {
+    display: none;
+}
+
+</style>
+
+    
+
+
+
+    <div class="browser-message-container " data-browser-message-container>
+
+
+<div class="browser-alert ie">
+    <div class="browser-alert-inner">
+        <div class="browser-alert-title">
+            <svg class="svg-icon" aria-hidden="true" focusable="false">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-warning" />
+            </svg>
+            <p class="browser-alert-title-text">
+                Internet Explorer Alert
+            </p>
+        </div>
+        <div class="browser-alert-content">
+            
+<p>It appears you are using Internet Explorer as your web browser. Please note, Internet Explorer is no longer up-to-date and can cause problems in how this website functions<br />This site functions best using the latest versions of any of the following browsers: <strong>Edge, Firefox, Chrome, Opera, or Safari</strong>. <br />You can find the latest versions of these browsers at <a href="https://browsehappy.com/" target="_blank" rel="noopener">https://browsehappy.com</a></p>
+        </div>
+
+    </div>
+    <svg class="svg-icon" aria-hidden="true" focusable="false" data-browser-message-close="ie">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-close" />
+    </svg>
+</div>    </div>
+
+
+
+    <header>
+        
+    </header>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="mobile-header print-hide">
+	<div class="mobile-header-top">
+		<div class="mobile-header-left">
+
+			<div class="mobile-header-top-trigger">
+				<svg class="mobile-header-top-trigger-open">
+					<use xlink:href="#mobile-menu-open"></use>
+				</svg>
+				<svg class="mobile-header-top-trigger-close">
+					<use xlink:href="#mobile-menu-close"></use>
+				</svg>
+			</div>
+			<svg class="mobile-header-logo">
+				<use xlink:href="#Seal_Pos"></use>
+			</svg>
+		</div>
+
+		<div class="utility-nav">
+			<div class="utility-nav-item utility-nav-search">
+				<svg class="utility-nav-search-icon">
+					<use xlink:href="#info-magnifying-glass"></use>
+				</svg>
+				<svg class="utility-nav-close">
+					<use xlink:href="#mobile-menu-close"></use>
+				</svg>
+			</div>
+			<a class="utility-nav-item utility-nav-cart" data-cart-popup-button-mobile aria-expanded="false" href="javascript:;">
+				<svg>
+					<use xlink:href="#icon-cart"></use>
+				</svg>
+				<div class="utility-nav-cart-amount hidden" data-cart-amount-mobile></div>
+			</a>
+			<div class="utility-nav-item utility-nav-account">
+				<svg id="mobile-my-account-link">
+					<use xlink:href="#icon-profile"></use>
+				</svg>
+				<svg id="mobile-my-account-close" style="display: none;">
+					<use xlink:href="#mobile-menu-close"></use>
+				</svg>
+				
+
+
+
+<div id="mobile-my-account-menu" class="utility-my-account-menu">
+
+        <a class="utility-my-account-menu-logout" href="/en/my-account/login/">Login</a>
+</div>
+			</div>
+			<div class="utility-nav-item utility-nav-explore explore-aap-mobile" explore-nav-mobile>
+				<a href="javascript:;" class="explore-aap-mobile-trigger" explore-nav-button aria-controls="explore-aap-nav-mobile" aria-expanded="false">
+					<svg id="mobile-explore-aap-link" class="explore-icon">
+						<use xlink:href="#icon-explore"></use>
+					</svg>
+					<svg id="mobile-explore-close" class="close-icon">
+						<use xlink:href="#mobile-menu-close"></use>
+					</svg>
+				</a>
+				<div id="explore-aap-nav-mobile" class="explore-aap-links-wrap" explore-nav-menu aria-hidden="true">
+					<div class="explore-aap-links-wrap-inner">
+
+						<ul class="explore-aap-links">
+									<li class="explore-aap-links-list-item">
+										<a class="explore-aap-links-list-item-link" href="https://publications.aap.org/" target="_blank" onclick="">
+											Publications
+										</a>
+									</li>
+									<li class="explore-aap-links-list-item">
+										<a class="explore-aap-links-list-item-link" href="/en/shopaap/" target="" onclick="">
+											shopAAP
+										</a>
+									</li>
+									<li class="explore-aap-links-list-item">
+										<a class="explore-aap-links-list-item-link" href="/en/pedialink/" target="" onclick="">
+											PediaLink
+										</a>
+									</li>
+									<li class="explore-aap-links-list-item">
+										<a class="explore-aap-links-list-item-link" href="http://healthychildren.org/English/Pages/default.aspx" target="_blank" onclick="">
+											HealthyChildren.org
+										</a>
+									</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<a class="utility-nav-item mobile-header-donate" href="?form=donate">
+				<svg focusable="false" role="presentation">
+					<use xlink:href="#icon-heart"></use>
+				</svg><span class="sr-only">Donate</span>
+			</a>
+		</div>
+	</div>
+	<div class="popup-cart popup-cart-mobile" data-cart-popup-mobile aria-hidden="true">
+
+		<div class="popup-cart-header">
+			<div class="popup-cart-header-content">
+				<h3>Shopping cart</h3>
+				<p data-cart-popup-item-number></p>
+			</div>
+			<button class="unbutton" type="button" data-cart-popup-button-close-mobile>
+				<svg>
+					<use xlink:href="#icon-close"></use>
+				</svg>
+			</button>
+		</div>
+		<div class="popup-cart-warning popup-cart-warning-mobile" data-cart-validation-messages></div>
+		<div class="popup-cart-wrapper" data-cart-popup-cart>
+			<div class="popup-cart-buttons">
+				<a class="button-secondary" href="/en/shopaap/cart/"><svg><use xlink:href="#icon-cart"></use></svg>Go to Cart</a>
+				<a class="button-primary" id="cart-popup-checkout-cta-mobile" href="/en/shopaap/cart/shipping/">Checkout</a>
+			</div>
+			<div class="popup-cart-item-list" data-cart-popup-items></div>
+			<div class="popup-cart-more" data-cart-popup-overflow></div>
+			<div class="popup-cart-links">
+				<button type="button" class="unbutton button-link popup-cart-links-item" data-cart-clear-cart-cta id="cart-popup-clear-cart-cta-mobile">Clear Cart</button>
+				<a href="/en/shopaap/cart/print-items-in-cart/" target="_blank" class="unbutton button-link popup-cart-links-item">Print Items in Cart</a>
+			</div>
+			<div class="popup-cart-total"><p class="paragraph-large">Order Subtotal</p><p class="paragraph-large" data-cart-popup-subtotal></p></div>
+		</div>
+		<div data-cart-popup-empty class="popup-cart-empty active">
+			<svg>
+				<use xlink:href="#icon-cart"></use>
+			</svg>
+			<p class="popup-cart-empty-title">Your cart is empty.</p>
+			<p class="popup-cart-empty-subtitle">Looks like you haven&#x27;t added anything to your cart.</p>
+			<div class="popup-cart-buttons">
+				<a class="button-secondary" href="/en/shopaap/cart/">View Saved Items</a>
+				<a class="button-primary" href="https://www.aap.org/en/shopaap">Go Shopping</a>
+			</div>
+		</div>
+		<div data-cart-popup-loading class="popup-cart-empty active">
+			<p>Loading</p>
+			<div class="loader">
+				<div class="loader-circle">
+					<svg class="spin" viewBox="25 25 50 50">
+						<circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+					</svg>
+					<svg class="base" viewBox="25 25 50 50">
+						<circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+					</svg>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mobile-search-wrapper">
+		<div id="mobile-search-bar-component"></div>
+	</div>
+	<div class="mobile-global-nav">
+		<ul class="mobile-global-nav-menu unlisted" id="main-nav-menu-mobile">
+			
+
+
+        <li class="main-nav-menu-item aaphome  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/" target="" onclick="" data-testid="link-aaphome">
+                    AAP Home
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('aaphome')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/news-room/">
+        News
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/membership-application/join-aap/">
+        Membership
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/career-resources/">
+        Career Resources
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/research/">
+        Research
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/ways-to-give/">
+        Ways to Give
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/about-the-aap/">
+        About the AAP
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item policy  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/policy/" target="" onclick="" data-testid="link-policy">
+                    Policy
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('policy')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/news-room/news-releases-from-the-aap/">
+        News Releases
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://pediatrics.aappublications.org/collection">
+        Policy Collections
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item advocacy  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/advocacy/" target="" onclick="" data-testid="link-advocacy">
+                    Advocacy
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('advocacy')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/the-state-of-children-in-2020/">
+        The State of Children in 2020
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/healthy-children/">
+        Healthy Children
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/secure-families/">
+        Secure Families
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/strong-communities/">
+        Strong Communities
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/a-leading-nation-for-youth/">
+        A Leading Nation for Youth
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/transition-plan-2020/">
+        Transition Plan: Advancing Child Health in the Biden-Harris Administration
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/health-care-access-coverage/">
+        Health Care Access &amp; Coverage
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/immigrant-child-health/">
+        Immigrant Child Health
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/gun-violence-prevention/">
+        Gun Violence Prevention
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/tobacco-e-cigarettes/">
+        Tobacco &amp; E-Cigarettes
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/vaccines/">
+        Vaccines
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/child-nutrition/">
+        Child Nutrition
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/state-advocacy/assault-weapons-bans/">
+        Assault Weapons Bans
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/state-advocacy/childhood-immunizations/">
+        Childhood Immunizations
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/state-advocacy/flavored-e-cigarette-and-tobacco-products/">
+        E-Cigarette and Tobacco Products
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/childrens-health-care-coverage-fact-sheets/">
+        Children&#x2019;s Health Care Coverage Fact Sheets
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/opioid-fact-sheets/">
+        Opioid Fact Sheets
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/advocacy-training-modules/">
+        Advocacy Training Modules
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/my-account/login/Authenticate?returnurl=/globalassets/documents/academic-and-subspecialty-advocacy-washington-report_march-2020.pdf">
+        Subspecialty Advocacy Report
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/aap-advocacy-internship-program/">
+        AAP Washington Office Internship
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item pedialink  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/pedialink/" target="" onclick="" data-testid="link-pedialink">
+                    PediaLink
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('pedialink')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/professional-education/online-courses/">
+        Online Courses
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/professional-education/live-activities/">
+        Live and Virtual Activities
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://aapexperience.org/">
+        National Conference and Exhibition
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/professional-education/self-assessments/">
+        Prep&#xAE;- Pediatric Review and Education Programs
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/publications/journals/">
+        Journals and Publications
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/pedialink/neonatal-resuscitation-program/">
+        NRP
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://login.healthstream.com/hstmsts/login.aspx">
+        NRP LMS Login
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item patientcare  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/patient-care/" target="" onclick="" data-testid="link-patientcare">
+                    Patient Care
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item practicemanagement  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/practice-management/" target="" onclick="" data-testid="link-practicemanagement">
+                    Practice Management
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item getinvolved  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/get-involved/" target="" onclick="" data-testid="link-getinvolved">
+                    Get Involved
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('getinvolved')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/aap-committees/">
+        AAP Committees
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/aap-sections-and-councils/?page=1&amp;sortDirection=0&amp;sortField=Topic">
+        AAP Councils
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/aap-sections-and-councils/?page=1&amp;sortDirection=0&amp;sortField=Topic">
+        AAP Section and Councils
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://collaborate.aap.org/AAP-Volunteer-Network/Pages/Volunteer-Board-National.aspx">
+        Volunteer Network
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/join-your-chapter/">
+        Join a Chapter
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/chapter-websites/">
+        Chapter Websites
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/members/home/directories-and-rosters/chapter-district-leadership-rosters/chapter-and-district-executive-directors/">
+        Chapter Executive Directors
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/district-map/">
+        District Map
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item healthychildren  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="http://healthychildren.org/English/Pages/default.aspx" target="_blank" onclick="" data-testid="link-healthychildren">
+                    Healthy Children
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item shopaap main-nav-menu-item-mobile-only ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/" target="" onclick="" data-testid="link-shopaap">
+                    shopAAP
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+		</ul>
+	</div>
+
+</header>
+
+<header class="global-header ">
+    <div class="global-header-top">
+
+
+
+<div class="main-nav print-hide" id="main-nav">
+    <div class="main-nav-wrapper" id="main-nav-wrapper">
+        <div class="main-nav-left-wrapper">
+            <ul class="main-nav-menu unlisted" id="main-nav-menu">
+                
+
+
+        <li class="main-nav-menu-item aaphome  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/" target="" onclick="" data-testid="link-aaphome">
+                    AAP Home
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('aaphome')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/news-room/">
+        News
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/membership-application/join-aap/">
+        Membership
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/career-resources/">
+        Career Resources
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/research/">
+        Research
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/ways-to-give/">
+        Ways to Give
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/about-the-aap/">
+        About the AAP
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item policy  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/policy/" target="" onclick="" data-testid="link-policy">
+                    Policy
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('policy')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/news-room/news-releases-from-the-aap/">
+        News Releases
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://pediatrics.aappublications.org/collection">
+        Policy Collections
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item advocacy  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/advocacy/" target="" onclick="" data-testid="link-advocacy">
+                    Advocacy
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('advocacy')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/the-state-of-children-in-2020/">
+        The State of Children in 2020
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/healthy-children/">
+        Healthy Children
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/secure-families/">
+        Secure Families
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/strong-communities/">
+        Strong Communities
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/blueprint-for-children/a-leading-nation-for-youth/">
+        A Leading Nation for Youth
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/transition-plan-2020/">
+        Transition Plan: Advancing Child Health in the Biden-Harris Administration
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/health-care-access-coverage/">
+        Health Care Access &amp; Coverage
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/immigrant-child-health/">
+        Immigrant Child Health
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/gun-violence-prevention/">
+        Gun Violence Prevention
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/tobacco-e-cigarettes/">
+        Tobacco &amp; E-Cigarettes
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/vaccines/">
+        Vaccines
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/child-nutrition/">
+        Child Nutrition
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/state-advocacy/assault-weapons-bans/">
+        Assault Weapons Bans
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/state-advocacy/childhood-immunizations/">
+        Childhood Immunizations
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/state-advocacy/flavored-e-cigarette-and-tobacco-products/">
+        E-Cigarette and Tobacco Products
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/childrens-health-care-coverage-fact-sheets/">
+        Children&#x2019;s Health Care Coverage Fact Sheets
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/opioid-fact-sheets/">
+        Opioid Fact Sheets
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/advocacy-training-modules/">
+        Advocacy Training Modules
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/my-account/login/Authenticate?returnurl=/globalassets/documents/academic-and-subspecialty-advocacy-washington-report_march-2020.pdf">
+        Subspecialty Advocacy Report
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/advocacy/aap-advocacy-internship-program/">
+        AAP Washington Office Internship
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item pedialink  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/pedialink/" target="" onclick="" data-testid="link-pedialink">
+                    PediaLink
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('pedialink')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/professional-education/online-courses/">
+        Online Courses
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/professional-education/live-activities/">
+        Live and Virtual Activities
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://aapexperience.org/">
+        National Conference and Exhibition
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/professional-education/self-assessments/">
+        Prep&#xAE;- Pediatric Review and Education Programs
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://shop.aap.org/publications/journals/">
+        Journals and Publications
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/pedialink/neonatal-resuscitation-program/">
+        NRP
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://login.healthstream.com/hstmsts/login.aspx">
+        NRP LMS Login
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item patientcare  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/patient-care/" target="" onclick="" data-testid="link-patientcare">
+                    Patient Care
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item practicemanagement  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/practice-management/" target="" onclick="" data-testid="link-practicemanagement">
+                    Practice Management
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item getinvolved  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/get-involved/" target="" onclick="" data-testid="link-getinvolved">
+                    Get Involved
+                </a>
+                    <div class="mobile-header-trigger">
+                        <svg onclick="mobileGlobalNav('getinvolved')" class="mobile-header-trigger-open">
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/aap-committees/">
+        AAP Committees
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/aap-sections-and-councils/?page=1&amp;sortDirection=0&amp;sortField=Topic">
+        AAP Councils
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/aap-sections-and-councils/?page=1&amp;sortDirection=0&amp;sortField=Topic">
+        AAP Section and Councils
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="https://collaborate.aap.org/AAP-Volunteer-Network/Pages/Volunteer-Board-National.aspx">
+        Volunteer Network
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/join-your-chapter/">
+        Join a Chapter
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/chapter-websites/">
+        Chapter Websites
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/members/home/directories-and-rosters/chapter-district-leadership-rosters/chapter-and-district-executive-directors/">
+        Chapter Executive Directors
+    </a>
+</li>
+
+<li class="mobile-nav-context-link">
+    <a class="" href="/en/get-involved/district-map/">
+        District Map
+    </a>
+</li>
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item healthychildren  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="http://healthychildren.org/English/Pages/default.aspx" target="_blank" onclick="" data-testid="link-healthychildren">
+                    Healthy Children
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item shopaap main-nav-menu-item-mobile-only ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/" target="" onclick="" data-testid="link-shopaap">
+                    shopAAP
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+            </ul>
+            <div class="main-nav-dropdown" id="main-nav-dropdown">
+                <div class="main-nav-dropdown-button" id="main-nav-dropdown-button">
+                    <span>More</span>
+                    <svg>
+                        <use xlink:href="#arrow-down"></use>
+                    </svg>
+                </div>
+                <ul class="main-nav-dropdown-menu unlisted" id="main-nav-dropdown-menu"></ul>
+            </div>
+        </div>
+        <ul class="main-nav-menu unlisted" id="main-nav-menu-utility">
+            <li class="main-nav-menu-item main-nav-menu-item-right utility-nav-item utility-nav-cart " id="li-shop-link">
+                <a href="https://www.aap.org/en/shopaap">shopAAP</a>
+            </li>
+                <li class="main-nav-menu-item main-nav-menu-item-right utility-nav-item utility-nav-cart" id="li-shop-cart">
+                    <a class="utility-nav-item utility-nav-cart" data-cart-popup-button aria-expanded="false" href="javascript:;">
+                        <svg>
+                            <use xlink:href="#icon-cart"></use>
+                        </svg>
+                        <div class="utility-nav-cart-amount hidden" data-cart-amount></div>
+                    </a>
+                    <div class="popup-cart" data-cart-popup aria-hidden="true">
+                        <div class="popup-cart-header">
+                            <div class="popup-cart-header-content">
+                                <h3>Shopping cart</h3>
+                                <p data-cart-popup-item-number></p>
+                            </div>
+                            <button class="unbutton" type="button" data-cart-popup-button-close>
+                                <svg>
+                                    <use xlink:href="#icon-close"></use>
+                                </svg>
+                            </button>
+                        </div>
+                        <div class="popup-cart-warning" data-cart-validation-messages></div>
+                        <div class="popup-cart-wrapper" data-cart-popup-cart>
+                            <div class="popup-cart-buttons">
+                                <a class="button-secondary" href="/en/shopaap/cart/"><svg><use xlink:href="#icon-cart"></use></svg>Go to Cart</a>
+                                <a class="button-primary" id="cart-popup-checkout-cta" href="/en/shopaap/cart/shipping/">Checkout</a>
+                            </div>
+                            <div class="popup-cart-item-list" data-cart-popup-items></div>
+                            <div class="popup-cart-more" data-cart-popup-overflow></div>
+                            <div class="popup-cart-links">
+                                <button type="button" class="unbutton button-link popup-cart-links-item" data-cart-clear-cart-cta id="cart-popup-clear-cart-cta">Clear Cart</button>
+                                <a href="/en/shopaap/cart/print-items-in-cart/" target="_blank" class="popup-cart-print popup-cart-links-item">Print Items in Cart</a>
+                            </div>
+                            <div class="popup-cart-total"><p class="paragraph-large">Order Subtotal</p><p class="paragraph-large" data-cart-popup-subtotal></p></div>
+                        </div>
+                        <div data-cart-popup-empty class="popup-cart-empty active">
+                            <svg>
+                                <use xlink:href="#icon-cart"></use>
+                            </svg>
+                            <p class="popup-cart-empty-title">Your cart is empty.</p>
+                            <p class="popup-cart-empty-subtitle">Looks like you haven&#x27;t added anything to your cart.</p>
+                            <div class="popup-cart-buttons">
+                                <a class="button-secondary" href="/en/shopaap/cart/">View Saved Items</a>
+                                <a class="button-primary" href="https://www.aap.org/en/shopaap">Go Shopping</a>
+                            </div>
+                        </div>
+                        <div data-cart-popup-loading class="popup-cart-empty active">
+                            <p>Loading</p>
+                            <div class="loader">
+                                <div class="loader-circle">
+                                    <svg class="spin" viewBox="25 25 50 50">
+                                        <circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+                                    </svg>
+                                    <svg class="base" viewBox="25 25 50 50">
+                                        <circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="main-nav-menu-item main-nav-menu-item-right utility-nav-item utility-nav-cart" id="li-utilitynav-create-account-link">
+                    <a href="/en/my-account/create-account-landing-page/">Create Account</a>
+                </li>
+                <li class="main-nav-menu-item main-nav-menu-item-right-bullet utility-nav-item utility-nav-cart" id="li-utilitynav-login-link">
+                    <a href="/en/my-account/login/?ReturnUrl=https://www.aap.org/Pediatric-First-Aid-and-Safety-Training-for-Teachers-and-Caregivers">
+                        Login
+                    </a>
+                </li>
+            <!--Explore AAP Button -->
+            <div class="explore-aap-wrap" explore-nav>
+                <a href="javascript:;" class="explore-aap-trigger" explore-nav-button aria-controls="explore-aap-nav" aria-expanded="false">
+                    <span class="explore-icon">
+                        <svg class="icon-explore"><use xlink:href="#icon-explore"></use></svg><span class="explore-aap-text">Explore AAP</span>
+                    </span>
+                    <span class="explore-aap-close">
+                        <i class="icon-general-close">
+                            <span class="screen-reader-only">Close</span>
+                        </i>
+                    </span>
+                </a>
+
+                <div id="explore-aap-nav" class="explore-aap-links-wrap" explore-nav-menu aria-hidden="true">
+                    <div class="explore-aap-links-wrap-inner">
+
+                        <ul class="explore-aap-links">
+                                    <li class="explore-aap-links-list-item">
+                                        <a class="explore-aap-links-list-item-link" href="https://publications.aap.org/" target="_blank" onclick="">
+                                            Publications
+                                        </a>
+                                    </li>
+                                    <li class="explore-aap-links-list-item">
+                                        <a class="explore-aap-links-list-item-link" href="/en/shopaap/" target="" onclick="">
+                                            shopAAP
+                                        </a>
+                                    </li>
+                                    <li class="explore-aap-links-list-item">
+                                        <a class="explore-aap-links-list-item-link" href="/en/pedialink/" target="" onclick="">
+                                            PediaLink
+                                        </a>
+                                    </li>
+                                    <li class="explore-aap-links-list-item">
+                                        <a class="explore-aap-links-list-item-link" href="http://healthychildren.org/English/Pages/default.aspx" target="_blank" onclick="">
+                                            HealthyChildren.org
+                                        </a>
+                                    </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </ul>
+
+    </div>
+</div>
+
+
+
+<div class="global-search-wrapper">
+		<a href="https://www.aap.org">
+			<div class="global-logo-aap">
+				<svg class="icon icon-AAP-Logo_1-Line_Black">
+					<use xlink:href="#icon-AAP-Logo_2-Line_Black"></use>
+				</svg>
+			</div>
+		</a>
+	<div class="global-header-search-bar-inner">
+		<div id="search-bar-component"></div>
+
+		<a class="button-primary global-header-donate-button" href="?form=donate">
+			<svg focusable="false" role="presentation" class="nav-menu-trigger-icon nav-menu-trigger-close">
+				<use xlink:href="#icon-heart"></use>
+			</svg>Donate
+		</a>
+	</div>
+</div>
+
+    </div>
+
+    
+
+
+<div data-nav-sticky>			<div class="global-header-contextual-nav shop-header-contextual-nav">
+				<div class="global-header-wrapper">
+					<a class="global-header-contextual-nav-current" href="/link/b5c1d88acc2342f081929757e70cfcfc.aspx">
+							<img class="global-header-contextual-nav-logo" alt="shopAAP" src="/globalassets/shopaap_logo-1.png" />
+					</a>
+					<ul class="global-header-contextual-nav-links unlisted">
+						
+
+
+
+
+    <li class="main-nav-menu-item shopbyproduct  "
+        onmouseenter="onMegaNavHover('shopbyproduct')" onmouseleave="onMegaNavLeave()">
+        <div class="main-nav-menu-item-top">
+            <a class="" href="#" >
+                Shop By Product
+            </a>
+        </div>
+        <div class="mega-nav">
+            <div class="mega-nav-inner" >
+                <div class="mega-nav-inner-item mega-nav-inner-item-content">
+
+                    <div class="title">Shop By Product</div>
+                    <div class="description">Browse AAP product collections by type and learning format.</div>
+                            <div class="cta">
+                                <a href="/en/shopaap/shop-by-product/">
+                                    Shop By Product
+                                </a>
+                            </div>
+                </div>
+                <div class="mega-nav-inner-item mega-nav-inner-item-links">
+                    <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list title"></div>
+                            <div class="mega-nav-link-list title"></div>
+                    </div>
+
+                <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/shopaap/shop-by-product/books/" title="Books">Books</a>
+        </li>
+        <li>
+            <a href="https://publications.aap.org/pages/aap-library/" target="_blank" title="Institutional Licensing">Institutional Licensing</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/journals/" title="Journals">Journals</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/live-activities/" title="Live &amp; Virtual Education">Live &amp; Virtual Education</a>
+        </li>
+        <li>
+            <a href="https://www.aapexperience.org/" target="_blank" title="National Conference &amp; Exhibition">National Conference &amp; Exhibition</a>
+        </li>
+</ul>
+                        </div>
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/shopaap/shop-by-product/parenting-resources/" title="Parenting Resources">Parenting Resources</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/patient-education/" title="Patient Education">Patient Education</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/online-courses/" title="PediaLink&#xAE; &amp; EQIPP Courses">PediaLink&#xAE; &amp; EQIPP Courses</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/self-assessments/" title="PREP&#xAE; Self Assessments">PREP&#xAE; Self Assessments</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/solutions-toolkits/" title="Solutions &amp; Toolkits">Solutions &amp; Toolkits</a>
+        </li>
+</ul>
+                        </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </li>
+
+
+
+
+
+
+    <li class="main-nav-menu-item shopbytopic  "
+        onmouseenter="onMegaNavHover('shopbytopic')" onmouseleave="onMegaNavLeave()">
+        <div class="main-nav-menu-item-top">
+            <a class="" href="#" >
+                Shop By Topic
+            </a>
+        </div>
+        <div class="mega-nav">
+            <div class="mega-nav-inner" >
+                <div class="mega-nav-inner-item mega-nav-inner-item-content">
+
+                    <div class="title">Shop By Topic</div>
+                    <div class="description">Browse AAP product collections by pediatrics-focused topic.</div>
+                            <div class="cta">
+                                <a href="/en/shopaap/shop-by-topic/">
+                                    Shop By Topic
+                                </a>
+                            </div>
+                </div>
+                <div class="mega-nav-inner-item mega-nav-inner-item-links">
+                    <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list title"></div>
+                            <div class="mega-nav-link-list title"></div>
+                    </div>
+
+                <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/bright-futures/" title="Bright Futures">Bright Futures</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/coding/" title="Coding">Coding</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/hospital-medicine/" title="Hospital Medicine">Hospital Medicine</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/infectious-disease-resources/" title="Infectious Disease Resources">Infectious Disease Resources</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/mental-health-resources/" title="Mental Health">Mental Health</a>
+        </li>
+</ul>
+                        </div>
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/Neonatal-Perinatal/" title="Neonatal-Perinatal">Neonatal-Perinatal</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/neonatal-resuscitation-program/" title="Neonatal Resuscitation Program&#xAE; (NRP&#xAE;)">Neonatal Resuscitation Program&#xAE; (NRP&#xAE;)</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/nutrition/" title="Nutrition">Nutrition</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/pediatric-collections/" title="Pediatric Collections">Pediatric Collections</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-topic/school-health-and-child-care/" title="School Health and Child Care">School Health and Child Care</a>
+        </li>
+</ul>
+                        </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </li>
+
+
+
+
+        <li class="main-nav-menu-item specialoffers  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/special-offers/" target="_blank" onclick="" data-testid="link-specialoffers">
+                    Special Offers
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+
+
+    <li class="main-nav-menu-item membership  "
+        onmouseenter="onMegaNavHover('membership')" onmouseleave="onMegaNavLeave()">
+        <div class="main-nav-menu-item-top">
+            <a class="" href="#" >
+                Membership
+            </a>
+        </div>
+        <div class="mega-nav">
+            <div class="mega-nav-inner" >
+                <div class="mega-nav-inner-item mega-nav-inner-item-content">
+
+                    <div class="title">Membership</div>
+                    <div class="description">There&#x2019;s a place for you in the Academy no matter where you are in your career. Learn more about all our membership categories.</div>
+                            <div class="cta">
+                                <a href="/en/membership-application/join-aap/">
+                                    Membership
+                                </a>
+                            </div>
+                </div>
+                <div class="mega-nav-inner-item mega-nav-inner-item-links">
+                    <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list title">Be a Part of the AAP</div>
+                            <div class="mega-nav-link-list title"></div>
+                    </div>
+
+                <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/membership-application/join-aap/" title="Join the AAP">Join the AAP</a>
+        </li>
+        <li>
+            <a href="/en/membership-application/join-aap/join-the-aap-enterprise-membership/">Join the AAP &#x2013; Enterprise Membership</a>
+        </li>
+        <li>
+            <a href="/en/members/home/" title="Exclusive for Members">Exclusive for Members</a>
+        </li>
+        <li>
+            <a href="/en/membership-application/join-aap/aap-membership-categories/" title="Membership Categories">Membership Categories</a>
+        </li>
+        <li>
+            <a href="/en/membership-application/faq/" title="Membership FAQs">Membership FAQs</a>
+        </li>
+        <li>
+            <a href="/en/members/home/directories-and-rosters/" title="AAP Membership Directory">AAP Membership Directory</a>
+        </li>
+        <li>
+            <a href="/en/members/home/member-advantage-programs/" title="Member Advantage Programs">Member Advantage Programs</a>
+        </li>
+        <li>
+            <a href="/en/shopaap/shop-by-product/getredbook/?utm_source=aap-ecommerce&amp;utm_medium=link&amp;utm_campaign=getredbook-membership-dropdown-menu&amp;utm_content=2024-04-09" title="Red Book Member Benefit">Red Book Member Benefit</a>
+        </li>
+</ul>
+                        </div>
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/my-account/my-membership/" target="_blank" title="My Membership">My Membership</a>
+        </li>
+        <li>
+            <a href="/en/get-involved/aap-sections-and-councils/?page=1&amp;sortDirection=0&amp;sortField=Topic" title="Join a Section or Council">Join a Section or Council</a>
+        </li>
+        <li>
+            <a href="/en/get-involved/join-your-chapter/" title="Join a Chapter">Join a Chapter</a>
+        </li>
+        <li>
+            <a href="/en/members/home/national-aap-election-center/" title="National Election Center">National Election Center</a>
+        </li>
+        <li>
+            <a href="/en/members/home/lead-at-aap/">LEAD @ AAP</a>
+        </li>
+</ul>
+                        </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </li>
+
+
+
+
+
+
+    <li class="main-nav-menu-item myaccount  "
+        onmouseenter="onMegaNavHover('myaccount')" onmouseleave="onMegaNavLeave()">
+        <div class="main-nav-menu-item-top">
+            <a class="" href="#" >
+                My Account
+            </a>
+        </div>
+        <div class="mega-nav">
+            <div class="mega-nav-inner" >
+                <div class="mega-nav-inner-item mega-nav-inner-item-content">
+
+                    <div class="title">My Account</div>
+                    <div class="description">Log in and access your online content, manage your learning activities, review your membership and your subscriptions, and much more.</div>
+                            <div class="cta">
+                                <a href="/en/my-account/">
+                                    My Account
+                                </a>
+                            </div>
+                </div>
+                <div class="mega-nav-inner-item mega-nav-inner-item-links">
+                    <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list title"></div>
+                            <div class="mega-nav-link-list title"></div>
+                    </div>
+
+                <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/my-account/" title="Access your account dashboard.">Account Hub</a>
+        </li>
+        <li>
+            <a href="/en/my-account/products-subscriptions/library/" title=" Access your subscriptions, courses, e-books and other online content">Access Your Library</a>
+        </li>
+        <li>
+            <a href="/en/my-account/products-subscriptions/order-history/" target="_top" title="See your purchase history, print receipts, and initiate returns. ">Order History</a>
+        </li>
+        <li>
+            <a href="/en/my-account/education/" title="Keep track of your learning activities, claim credits, and print transcripts.">Education Activities &amp; Credit Management</a>
+        </li>
+        <li>
+            <a href="/en/my-account/my-membership/" title="Access membership information, view benefits, and manage groups including sections, councils, and Chapters.">My Membership</a>
+        </li>
+</ul>
+                        </div>
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/my-account/products-subscriptions/product-activation-center/" title="Have an activation code? Activate products here.">Product Activation Center</a>
+        </li>
+        <li>
+            <a href="/en/my-account/profile/" title="Edit Profile, Address and Contact Information">Edit Profile, Address and Contact Information</a>
+        </li>
+        <li>
+            <a href="/en/my-account/products-subscriptions/library/" title="Browse your subscription library, and check for your upcoming subscription renewals.">View &amp; Renew Your Subscriptions</a>
+        </li>
+        <li>
+            <a href="/en/my-account/products-subscriptions/order-history/return-form/" title="Have an issue with an order? Submit a form to return or report missing items.">Return &amp; Report Missing Items</a>
+        </li>
+</ul>
+                        </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </li>
+
+
+
+
+
+
+    <li class="main-nav-menu-item help  "
+        onmouseenter="onMegaNavHover('help')" onmouseleave="onMegaNavLeave()">
+        <div class="main-nav-menu-item-top">
+            <a class="" href="#" >
+                Help
+            </a>
+        </div>
+        <div class="mega-nav">
+            <div class="mega-nav-inner" >
+                <div class="mega-nav-inner-item mega-nav-inner-item-content">
+
+                    <div class="title">Help</div>
+                    <div class="description">Instructions to help you find answers to commonly-asked questions.</div>
+                            <div class="cta">
+                                <a href="/en/support-center/">
+                                    Support Center
+                                </a>
+                            </div>
+                </div>
+                <div class="mega-nav-inner-item mega-nav-inner-item-links">
+                    <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list title"></div>
+                            <div class="mega-nav-link-list title"></div>
+                    </div>
+
+                <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/support-center/shopaap-faq/" target="_blank">shopAAP FAQ</a>
+        </li>
+        <li>
+            <a href="/en/support-center/" target="_blank" title="Find answers to commonly-asked account and technical support questions.">Support Center</a>
+        </li>
+        <li>
+            <a href="/en/my-account/my-account-faq/" target="_blank" title="My Account FAQ">My Account FAQ</a>
+        </li>
+</ul>
+                        </div>
+                        <div class="mega-nav-link-list">
+                            
+<ul>
+        <li>
+            <a href="/en/membership-application/faq/" target="_blank" title="Membership FAQ">Membership FAQ</a>
+        </li>
+        <li>
+            <a href="/en/pedialink/neonatal-resuscitation-program/nrp-frequently-asked-questions/" target="_blank" title="Neonatal Resuscitation Program (NRP) FAQ">Neonatal Resuscitation Program (NRP) FAQ</a>
+        </li>
+</ul>
+                        </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </li>
+
+
+
+
+
+
+    <li class="main-nav-menu-item contact  "
+        onmouseenter="onMegaNavHover('contact')" onmouseleave="onMegaNavLeave()">
+        <div class="main-nav-menu-item-top">
+            <a class="" href="#" >
+                Contact
+            </a>
+        </div>
+        <div class="mega-nav">
+            <div class="mega-nav-inner" >
+                <div class="mega-nav-inner-item mega-nav-inner-item-content">
+
+                    <div class="title">Contact</div>
+                    <div class="description">Reach out to AAP Member &amp; Customer Experience when you need assistance.</div>
+                            <div class="cta">
+                                <a href="/en/support-center/">
+                                    Contact Us
+                                </a>
+                            </div>
+                </div>
+                <div class="mega-nav-inner-item mega-nav-inner-item-links">
+                    <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-link-list title"></div>
+                    </div>
+
+                <div class="mega-nav-inner-item-links-wrapper">
+                        <div class="mega-nav-wysiwyg">
+                            
+<p><strong>Member &amp; Customer Experience</strong><br />866-843-2271 Toll Free US &amp; Canada<br />630-626-6000 Outside US &amp; Canada</p>
+<p><strong>Hours of Operation</strong><br />8:00AM-4:30PM CT Monday thru Friday</p>
+<p><strong><a href="/en/support-center/" target="_blank" rel="noopener">Visit the AAP Support Center</a></strong></p>
+                        </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </li>
+
+
+
+							<li>
+								<a href="/en/shopaap/cart/" class="periodicity-btn rounded-btn-primary">Cart</a>
+							</li>
+					</ul>
+				</div>
+			</div>
+			<div class="shop-header-search-bar-component" id="shop-search-bar-component"></div>
+
+			<div class="global-header-contextual-mobile-nav shop-header-contextual-mobile-nav">
+				<div class="global-header-contextual-mobile-wrapper" data-horizontal-scroll-container>
+					<nav class="sub-nav">
+						<ul class="global-header-contextual-mobile-nav-links unlisted tabbed sub-nav-contents" data-horizontal-scroll-content>
+								<li>
+									<a href="/en/shopaap/cart/" class="periodicity-btn rounded-btn-primary">Cart</a>
+								</li>
+							
+
+
+
+
+        <li class="main-nav-menu-item shopbyproduct">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/shop-by-product/" >
+                    Shop By Product
+                </a>
+            </div>
+        </li>
+
+
+
+
+
+
+        <li class="main-nav-menu-item shopbytopic">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/shop-by-topic/" >
+                    Shop By Topic
+                </a>
+            </div>
+        </li>
+
+
+
+
+        <li class="main-nav-menu-item specialoffers">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/special-offers/" target="_blank" onclick="" data-testid="link-specialoffers">
+                    Special Offers
+                </a>
+        </div>
+    </li>
+
+
+
+
+        <li class="main-nav-menu-item membership">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/membership-application/join-aap/" >
+                    Membership
+                </a>
+            </div>
+        </li>
+
+
+
+
+
+
+        <li class="main-nav-menu-item myaccount">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/my-account/" >
+                    My Account
+                </a>
+            </div>
+        </li>
+
+
+
+
+
+
+        <li class="main-nav-menu-item help">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/support-center/" >
+                    Help
+                </a>
+            </div>
+        </li>
+
+
+
+
+
+
+        <li class="main-nav-menu-item contact">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/support-center/" >
+                    Contact
+                </a>
+            </div>
+        </li>
+
+
+
+						</ul>
+					</nav>
+					<button id="subNavAdvancerLeft" class="sub-nav-advancer sub-nav-advancer-left" type="button">
+						<svg class="sub-nav-advancer-icon sub-nav-advancer-icon-left" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 1024"><path d="M445.44 38.183L-2.53 512l447.97 473.817 85.857-81.173-409.6-433.23v81.172l409.6-433.23L445.44 38.18z"></path></svg>
+					</button>
+					<button id="subNavAdvancerRight" class="sub-nav-advancer sub-nav-advancer-right" type="button">
+						<svg class="sub-nav-advancer-icon sub-nav-advancer-icon-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 1024"><path d="M105.56 985.817L553.53 512 105.56 38.183l-85.857 81.173 409.6 433.23v-81.172l-409.6 433.23 85.856 81.174z"></path></svg>
+					</button>
+				</div>
+			</div>
+</div>	<script type="text/javascript">
+		// Get all links inside of the mega-nav and add onclick listeners
+		var links = document.querySelectorAll(".mega-nav-inner * a");
+
+		if (links && links.length > 0) {
+			links.forEach(function (link, index, list) {
+				link.addEventListener("click", () => onMegaNavLinkClick(link));
+			});
+		}
+
+		// Send tag for clicking mega-nav links
+		onMegaNavLinkClick = (link) => {
+
+			var dataLayer = window.dataLayer || [];
+			const event = "MegaNavLinkClickEvent";
+			const tag = {
+				event,
+				megaNavLinkName: link.innerText,
+				magaNavLinkUrl: link.href
+			};
+			console.log(`Sending tag to data layer: ${JSON.stringify(tag)}`);
+			dataLayer.push(tag);
+		}
+
+
+		var hoverTimer;
+		var waitTime = 500;
+
+		// Using timer to weed out momentary/incidental mouse enter events
+		onMegaNavHover = (name) => {
+			hoverTimer = setTimeout(function() {
+				var dataLayer = window.dataLayer || [];
+				const event = "MegaNavHoverEvent";
+				const tag = {
+					event,
+					megaNavItem: name,
+				};
+				console.log(`Sending tag to data layer: ${JSON.stringify(tag)}`);
+				dataLayer.push(tag);
+			}, waitTime);
+		}
+
+		onMegaNavLeave = () => {
+			clearTimeout(hoverTimer);
+		}
+	</script>
+
+		<script>
+			// add view_shop_page event to data layer
+			var dataLayer = window.dataLayer || [];
+			dataLayer.push({
+			'event': 'view_shop_page',
+			'url': '/Pediatric-First-Aid-and-Safety-Training-for-Teachers-and-Caregivers'
+			});
+
+		</script>
+
+
+    
+
+
+
+
+    
+
+
+</header>
+                   
+
+    <div class="preload-hide"></div>
+
+    <div class="container main-body " id="main-body">
+        
+
+
+
+        
+
+<div class="pdp-event product-detail-page">
+
+
+<div class="breadcrumbs">
+            <a href="/PediaLink-EQIPP-Courses">PediaLink &amp; EQIPP Courses</a>
+            <span class="breadcrumbs-divider"> &nbsp;/&nbsp; </span>
+    <span class="breadcrumb-page-name">Pediatric First Aid and Safety Training for Teachers and Caregivers</span>
+</div><div class="pdp-cart-error">
+<div data-add-cart-error class="alert-message alert-message-error closed" role="dialog">
+
+    <div class="alert-message-icon">
+        <svg>
+            <use xlink:href="#icon-error"></use>
+        </svg>
+    </div>
+    <div class="alert-message-text" data-add-cart-error-text>
+        Add to cart failed. Please try again. If problem continues please Contact Member and Customer Care at 866-843-2271 or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="80ede3e3c0e1e1f0aeeff2e7">[email&#160;protected]</a>.
+    </div>
+    <div class="alert-message-close" onclick="javascript:document.querySelector('[data-add-cart-error]').classList.add('closed')">
+        <svg>
+            <use xlink:href="#icon-close"></use>
+        </svg>
+    </div>
+</div>
+</div>    <div class="pdp-intro">
+
+
+<div class="pdp-intro-feature">
+    <div class="pdp-feature" data-product-detail-feature data-unique-id="">
+                        <div class="pdp-feature-thumbnails" pdp-feature-pagination>
+                                        <div class="pdp-feature-thumb" data-thumb-id="">
+                                            <img class="pdp-feature-thumbnail" src="/globalassets/catalogs/imagefile/6/1/61827-pediatric-first-aid-lightbox.png" alt="" data-thumbnail-id="2b359dfb-07a8-4322-94cb-06da4f6b9bfa" />
+                                        </div>
+                        </div>
+        <div class="swiper-container" data-product-swiper data-total-slides="1">
+
+
+
+            <div class="pdp-feature-wrap swiper-wrapper">
+                                            <div class="pdp-feature-wrap-img swiper-slide">
+                                                <img class="pdp-feature-img" src="/globalassets/catalogs/imagefile/6/1/61827-pediatric-first-aid-lightbox.png" alt=""
+                                     data-thumbnail-id="2b359dfb-07a8-4322-94cb-06da4f6b9bfa"
+                                     data-is-featured-video="False"
+                                     data-is-featured-image="True"
+                                     imagesharp-width="464"
+                                     imagesharp-height="567"
+                                     imagesharp-rmode="ResizeMode.Pad"
+                                     imagesharp-rcolor="ffffff" />
+                                            </div>
+            </div>
+            <div class="pdp-feature-navigation">
+                <button type="button" class="adage-gallery-btn-prev swiper-button-prev">
+                    <svg class="svg-icon" aria-hidden="true" focusable="false">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-next" />
+                    </svg>
+                    <span class="visually-hidden">Go to previous slide.</span>
+                </button>
+                <div class="pdp-feature-bullets"></div>
+                <button type="button" class="adage-gallery-btn-next swiper-button-next">
+                    <svg class="svg-icon" aria-hidden="true" focusable="false">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-next" />
+                    </svg>
+                    <span class="visually-hidden">Go to next slide.</span>
+                </button>
+            </div>
+           
+
+        </div>
+        <div class="pdp-feature-links-wrap">
+
+<div class="pdp-feature-buttons">
+
+
+
+
+</div>        </div>
+    </div>
+</div>
+
+        <div class="pdp-intro-details">
+
+<h1>Pediatric First Aid and Safety Training for Teachers and Caregivers</h1>
+
+
+
+        <p class="paragraph-large">Available: 03/31/2025-03/30/2028</p>
+
+            <div data-intersection-observer="info-cart" class="pdp-pricing">
+                <div class="pdp-format">
+                <p class="paragraph-large">Format</p>
+                    <div class="pdp-pricing-buttons">
+                                <button class="button-pdp button-primary" selected="selected" type="button">Online Course</button>
+                    </div>
+                    </div>
+
+
+<div>
+    <div class="price">
+            <div class="base-price">
+                <span class="price-title">Price:</span>
+                <span class="price-number">$25.00</span>
+            </div>
+
+            <div class="member-price">
+                <span class="price-title">Member Price:</span>
+                <span class="price-number">$25.00</span>
+            </div>
+    </div>
+
+
+
+        <p class="price-subtitle"><a class="log-in" href="/en/my-account/login/?returnUrl=https://www.aap.org/Pediatric-First-Aid-and-Safety-Training-for-Teachers-and-Caregivers">
+            Log in to see pricing
+        </a></p>
+</div>
+
+
+
+
+    <button type="button" 
+        class="button-primary pdp-pricing-cart-button button-loader " 
+        id="addToCartCta"
+        data-add-to-cart-price="25.00"
+        data-add-to-cart-title="Pediatric First Aid and Safety Training for Teachers and Caregivers"
+        data-add-to-cart-category="PediaLink  EQIPP Courses"
+        data-add-to-cart-key="4dadf466-19eb-4537-b592-0d8050c42a05"
+        data-vertex-commerce-visitor-id="1a4f1285-d600-6f96-d732-6225c927fabb"
+        data-vertex-shouldSendCloudRetailAddToCartScriptToGTM="True">
+        <span>Register</span><div data-add-cart-load class="loader">
+            <div class="loader-circle">
+                <svg class="spin" viewBox="25 25 50 50">
+                    <circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+                </svg>
+                <svg class="base" viewBox="25 25 50 50">
+                    <circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+                </svg>
+            </div>
+        </div>
+    </button>
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="pdp-info" data-intersection-observer="pdp-info">
+        <div class="row pdp-product-information" data-accordion-list="pdp-productinformation">
+            <div class="pdp-accordion-header">
+                <button class="adage-accordion-trigger" type="button" aria-controls="accordion-panel-pdp-productinformation" aria-expanded="true" data-epi-property-name="Title">
+                    Description and Learning Objectives
+                </button>
+            </div>
+
+
+<div class="pdp-accordion-panel" aria-hidden="false" id="accordion-panel-pdp-productinformation">
+    <div class="pdp-accordion-panel-content" data-accordion-content-id="accordion-panel-pdp-productinformation" data-epi-property-name="AccordionContent">
+        <div class="col-sm-12 col-xxl-6">
+            <h3 class="h4-styled">Description</h3>
+            
+<p>Pediatric first aid is the initial medical care provided to a child who is injured or suddenly becomes sick. Children and adolescents are particularly vulnerable to injury due to their size, immature development, natural curiosity, and inexperience. Additionally, young children&rsquo;s immune systems are still developing, making them less resistant to infection than older children and adults. As a result, children commonly experience injuries and medical emergencies. In fact, approximately 30 million pediatric emergency department visits occur in the United States each year. Because medical emergencies and injuries can happen anywhere, knowing how to respond when an emergency happens ensures the best possible outcome.&nbsp;</p>
+<p>This course will prepare anyone who cares for children to recognize everyday medical emergencies and care for an injury or illness until professional help arrives.&nbsp;</p>
+<p>The American Academy of Pediatrics developed this course for individuals who are not healthcare providers or professional rescuers but are caregivers with a duty to provide pediatric first aid and emergency responses.&nbsp;</p>
+<p>Caregivers include parents, grandparents, guardians, family, friends, babysitters, school personnel (i.e., teachers, bus drivers, coaches), seasonal leaders (i.e., camp counselors, lifeguards, youth group leaders), and anyone else working with infants and children (i.e., foster care workers, social workers).</p>
+<p>This course consists of 6 units and will prepare the target audience to recognize everyday medical emergencies and care for an injury or illness until professional help arrives.&nbsp;</p>
+<p>Expect to spend approximately 1 hour to complete each unit. If you exit prior to completion, your place will be bookmarked to continue where you left off once you return to the content.</p>
+<p>Upon completion of Unit 1, you will be able to&nbsp;</p>
+<ul>
+<li>Assess and manage first aid emergencies.</li>
+<li>Administer mental health first aid.</li>
+<li>Capture and interpret vital signs.</li>
+<li>Effectively communicate with emergency responders.</li>
+<li>Build and maintain a first aid kit.</li>
+</ul>
+<p>Upon completion of Unit 2, you will be able to&nbsp;</p>
+<ul>
+<li>Identify how germs are spread.</li>
+<li>Take action to help prevent the spread of germs.</li>
+<li>Effectively recognize and address injuries and illnesses.</li>
+<li>Develop an understanding of disaster planning.</li>
+</ul>
+<p>Upon completion of Unit 3, you will be able to&nbsp;</p>
+<ul>
+<li>Identify and manage common pediatric medical emergencies.</li>
+<li>Implement prevention strategies to avoid pediatric medical emergencies.</li>
+<li>Determine when and how to seek medical attention.</li>
+<li>Assess symptoms and determine the appropriate intervention</li>
+<li>Administer emergency medications and provide specialized care.</li>
+</ul>
+<p>Upon completion of Unit 4, you will be able to&nbsp;</p>
+<ul>
+<li>Identify and manage common pediatric injuries.</li>
+<li>Implement prevention strategies to avoid pediatric injuries.</li>
+<li>Interpret signs and symptoms indicative of pediatric injuries.&nbsp;</li>
+<li>Apply appropriate first aid techniques to treat pediatric injuries.</li>
+<li>Determine appropriate prevention strategies for common pediatric injuries.</li>
+</ul>
+<p>Upon completion of Unit 5, you will be able to&nbsp;</p>
+<ul>
+<li>Identify actions that can be performed to improve survival in an emergency.</li>
+<li>Utilize first aid equipment in timely and informed ways.</li>
+<li>Apply child-specific procedures of cardiopulmonary resuscitation (CPR).</li>
+<li>Recognize and facilitate the proper use of an Automated External Defibrillator (AED).</li>
+<li>Develop proficiency administering emergency medications.</li>
+</ul>
+<p>Upon completion of Unit 6, you will be able to&nbsp;</p>
+<ul>
+<li>Identify strategies used by school health services to encourage wellness.</li>
+<li>Discuss a school&rsquo;s role in the mental health care of children.</li>
+<li>Advocate for community partnerships that support behavioral health in schools.</li>
+<li>Implement positive behavioral interventions.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+        </div>
+        <div class="col-sm-12 col-xxl-6">
+
+    <h3 class="h4-styled">Course Details</h3>
+    <ul>
+            <li><span class="bold">Start Date:</span> March 31, 2025</li>
+            <li><span class="bold">Online Access Expires:</span> March 30, 2028</li>
+            <li><span class="bold">Credit Expires:</span> March 30, 2028</li>
+            <li><span class="bold">Course ID:</span> 61827</li>
+    </ul>
+
+
+                    <h3 class="h4-styled">Acknowledgements</h3>
+
+<p><em>This course was made possible by the AAP Pediatric First Aid &amp; Safety Programs Steering Committee.</em></p>                    <h3 class="h4-styled">Faculty</h3>
+
+<ul>
+<li>Nakia Gaines, MD, FAAP</li>
+<li>Kathryn Giordano, DO, FAAP</li>
+<li>Justin Assioun, MD</li>
+<li>Katherine Mandeville, MD, MSc, FAAP</li>
+<li>Leticia Manning Ryan, MD, MPH, FAAP</li>
+<li>Brooke Redmond, MD, CHSE, FAAP</li>
+<li>Katherine Leaming-Van Zandt, MD, FAAP</li>
+<li>Lori Haapala, RN, BSN, NCSN</li>
+<li>Alissa Mwenelupembe, EdD</li>
+<li>Nicole Garro, MPH</li>
+<li>Vidya Raghavan, MD, FAAP</li>
+<li>Stuart Bradin, DO, FAAP, FACEP</li>
+</ul>
+<p>Reviewers</p>
+<ul>
+<li>Issa Hanna, MD, FAAP&nbsp;</li>
+</ul>        </div>
+    </div>
+</div>        </div>
+
+            <div class="row pdp-registration-fee" data-accordion-list="pdp-registrationfee">
+                <div class="pdp-accordion-header">
+                    <button class="adage-accordion-trigger" type="button" aria-controls="accordion-panel-pdp-registrationfee" aria-expanded="true" data-epi-property-name="Title">
+                        Registration Fees
+                    </button>
+                </div>
+                <div class="pdp-accordion-panel" aria-hidden="false" id="accordion-panel-pdp-registrationfee">
+                    <div class="pdp-accordion-panel-content" data-accordion-content-id="accordion-panel-pdp-registrationfee" data-epi-property-name="AccordionContent">
+                        <div class="col-sm-12 col-md-12 col-xxl-12">
+                            
+<p>AAP Member Registration Fee: $25</p>
+<p>Non-AAP Member Registration Fee: $25</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+    <div class="row pdp-credit-info" data-accordion-list="pdp-credit-info">
+        <div class="pdp-accordion-header">
+            <button class="adage-accordion-trigger" type="button" aria-controls="accordion-panel-pdp-credit-info" aria-expanded="true" data-epi-property-name="Title">
+                Credit Information
+            </button>
+        </div>
+        <div class="pdp-accordion-panel" aria-hidden="false" id="accordion-panel-pdp-credit-info">
+            <div class="pdp-accordion-panel-content" data-accordion-content-id="accordion-panel-pdp-credit-info" data-epi-property-name="AccordionContent">
+                <ul class="pdp-credit-info-list unlisted">
+<li class="pdp-credit-info-item ">
+                                    <div class="title-section">
+                                        <h4 class="title " aria-describedby="other-0">Other</h4>
+                                    </div>
+                                    
+
+
+                                   
+                                    </li>
+<li class="pdp-credit-info-item pdp-credit-info-item-sub">
+                                    <div class="title-section">
+                                        <p class="subtitle "  aria-describedby="contacthour-1">Contact Hour</p>
+                                    </div>
+                                    
+
+                                        <div class="credit">6.00</div>
+
+                                   
+                                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        <div class="row pdp-credit-statements" data-accordion-list="pdp-credit-statements">
+            <div class="pdp-accordion-header">
+                <button class="adage-accordion-trigger" type="button" aria-controls="accordion-panel-pdp-credit-statements" aria-expanded="true" data-epi-property-name="Title">
+                    Credit Statements
+                </button>
+            </div>
+            <div class="pdp-accordion-panel" aria-hidden="false" id="accordion-panel-pdp-credit-statements">
+                <div class="pdp-accordion-panel-content" data-accordion-content-id="accordion-panel-pdp-credit-statements" data-epi-property-name="AccordionContent">
+                                <p>Physician - Pediatric First Aid and Safety Training for Teachers and Caregivers</p>
+<p>The American Academy of Pediatrics (AAP) is accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide continuing medical education for physicians.</p><p>The AAP designates this enduring material for a maximum of 0.00 <em>AMA PRA Category 1 Credit(s)&#8482;</em>. Physicians should claim only the credit commensurate with the extent of their participation in the activity.</p><p>This activity is acceptable for a maximum of 0.00 AAP credits. These credits can be applied toward the AAP CME/CPD Award available to Fellows and Candidate Members of the AAP.</p>
+<br />Allied Health Professional - Pediatric First Aid and Safety Training for Teachers and Caregivers<p>The American Academy of Pediatrics (AAP) is accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide continuing medical education for physicians.</p>
+<p>This program is accredited for 0.00 NAPNAP CE contact hours of which 0.00 contain pharmacology (Rx) content, (0.00 related to psychopharmacology) (0.00 related to controlled substances), per the National Association of Pediatric Nurse Practitioners (NAPNAP) Continuing Education Guidelines. The AAP is designated as Agency #A17. Upon completion of the program, each participant desiring NAPNAP contact hours must send a completed certificate of attendance to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="afcccaefc1cedfc1cedf81c0ddc8">[email&#160;protected]</a>. Payment of $15 for NAPNAP members and nonmembers is required via credit card for all NAPNAP contact hour requests. Keep this certificate for your records for six (6) years. Requests for duplicate certificates should be made to the AAP.</p><p>&nbsp;</p>                </div>
+            </div>
+        </div>
+
+            <div class="row pdp-technical-requirements" data-accordion-list="pdp-technicalrequirements">
+                <div class="pdp-accordion-header">
+                    <button class="adage-accordion-trigger" type="button" aria-controls="accordion-panel-pdp-technicalrequirements" aria-expanded="true" data-epi-property-name="Title">
+                        Technical Requirements
+                    </button>
+                </div>
+                <div class="pdp-accordion-panel" aria-hidden="false" id="accordion-panel-pdp-technicalrequirements">
+                    <div class="pdp-accordion-panel-content" data-accordion-content-id="accordion-panel-pdp-technicalrequirements" data-epi-property-name="AccordionContent">
+                        <div class="col-sm-12 col-md-12 col-xxl-12">
+                            
+<p><strong>Recommended Browsers:</strong></p>
+<ul>
+<li>Microsoft Edge</li>
+<li>Google Chrome</li>
+<li>Firefox 2.0 and above</li>
+<li>Opera 7.5 and above</li>
+<li>Safari 1.3.2 and above</li>
+</ul>
+<p><strong>Recommended Browser Settings:</strong></p>
+<ul>
+<li>JavaScript enabled</li>
+<li>Cookie enabled</li>
+<li>SSL 2.0 &amp; 3.0 enabled</li>
+<li>Adobe Reader Plug-in (version 6.0+)</li>
+</ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src='/Bundles/js/shop-google-analytics-bundle.js?v=345c89d86898d5df4b8252a78a110359e35eb44aa3106a117ba6888ff7db83b0'></script>
+
+
+    <section class="adage-block">
+        <div class="shop-carousel">
+            <div class="shop-carousel-container swiper-container swiper" data-product-carousel
+                 data-total-slides=10
+                data-unique-id="5341you-may-also-like" data-total-slides="">
+                <div class="shop-carousel-header">
+                    <div class="shop-carousel-header-wrap">
+                            <h2 class="adage-block-heading shop-carousel-title" data-product-carousel-title >
+                                You May Also Like
+                            </h2>
+                    </div>
+                    <div class="shop-carousel-button-wrap">
+                        <button type="button" class="swiper-button-prev">
+                            <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-next" />
+                            </svg>
+                            <span class="visually-hidden">Go to previous slide.</span>
+                        </button>
+                        <button type="button" class="swiper-button-next">
+                            <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-next" />
+                            </svg>
+                            <span class="visually-hidden">Go to next slide.</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="swiper-wrapper">
+
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='3-in-1 First Aid, Choking, CPR Chart - 100/pk' 
+    data-product-carousel-item-id="83496ac9-a8ce-48b3-850c-ccd7002af9f0"
+    data-product-carousel-item-price="55.00"
+    data-product-carousel-item-category="Safety and Injury PreventionPatient EducationSchool Health and Child CareLife SupportPrimary Care">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/3-in-1-First-Aid-Choking-CPR-Chart-100pk" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/h/e/he0540_firstaid_choking_cpr_sidea_0826-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Forms and Charts</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/3-in-1-First-Aid-Choking-CPR-Chart-100pk" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, '83496ac9-a8ce-48b3-850c-ccd7002af9f0', '3-in-1 First Aid, Choking, CPR Chart - 100/pk', '55.00', 'Safety and Injury PreventionPatient EducationSchool Health and Child CareLife SupportPrimary Care', '5341you-may-also-like', 'You May Also Like')">
+                3-in-1 First Aid, Choking, CPR Chart - 100/pk
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Published: 2026</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$55.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$49.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Safe Infant Sleep in Early Care and Education' 
+    data-product-carousel-item-id="b8080bf4-eeca-4a79-aee8-0e1ce9c85cfb"
+    data-product-carousel-item-price="5.00"
+    data-product-carousel-item-category="PediaLink  EQIPP CoursesSleepParenting ResourcesSchool Health and Child Care">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Safe-Infant-Sleep-in-Early-Care-and-Education" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/0/60463-safe-infant-sleep-in-early-care-and-education-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Safe-Infant-Sleep-in-Early-Care-and-Education" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, 'b8080bf4-eeca-4a79-aee8-0e1ce9c85cfb', 'Safe Infant Sleep in Early Care and Education', '5.00', 'PediaLink  EQIPP CoursesSleepParenting ResourcesSchool Health and Child Care', '5341you-may-also-like', 'You May Also Like')">
+                Safe Infant Sleep in Early Care and Education
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 03/02/2023-03/01/2027</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$5.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$5.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Autism Identification and Collaborative Care' 
+    data-product-carousel-item-id="0641d833-dfb3-428a-b262-e3790cb86e6c"
+    data-product-carousel-item-price="0.00"
+    data-product-carousel-item-category="PediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Autism-Identification-and-Collaborative-Care" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61588-autism-rev80624-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+                    <li class="tag-carousel">MOC</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Autism-Identification-and-Collaborative-Care" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, '0641d833-dfb3-428a-b262-e3790cb86e6c', 'Autism Identification and Collaborative Care', '0.00', 'PediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                Autism Identification and Collaborative Care
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 07/31/2024-07/30/2027</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$0.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$0.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Talking to Parents and Patients about Using the Nutrition Facts Label to Make Healthy Food Choices - 2023' 
+    data-product-carousel-item-id="a780f3bf-54dc-4867-b8df-ebabe7b8c7c8"
+    data-product-carousel-item-price="0.00"
+    data-product-carousel-item-category="Nutrition ResourcesPediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Talking-to-Parents-and-Patients-about-Using-the-Nutrition-Facts-Label-to-Make-Healthy-Food-Choices-2023" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/0/60541-nutrition-facts-label-course-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Talking-to-Parents-and-Patients-about-Using-the-Nutrition-Facts-Label-to-Make-Healthy-Food-Choices-2023" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, 'a780f3bf-54dc-4867-b8df-ebabe7b8c7c8', 'Talking to Parents and Patients about Using the Nutrition Facts Label to Make Healthy Food Choices - 2023', '0.00', 'Nutrition ResourcesPediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                Talking to Parents and Patients about Using the Nutrition Facts Label to Make Healthy Food Choices - 2023
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 12/21/2023-12/20/2026</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$0.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$0.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Keeping Children Safe: Injury Prevention in Early Care and Education Settings - 2026' 
+    data-product-carousel-item-id="cb98df72-3cc0-4a25-9fe2-4c3b78862e3d"
+    data-product-carousel-item-price="5.00"
+    data-product-carousel-item-category="PediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Keeping-Children-Safe-Injury-Prevention-in-Early-Care-and-Education-Settings-2026" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/2/62494-keeping-children-safe-2026-course-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Keeping-Children-Safe-Injury-Prevention-in-Early-Care-and-Education-Settings-2026" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, 'cb98df72-3cc0-4a25-9fe2-4c3b78862e3d', 'Keeping Children Safe: Injury Prevention in Early Care and Education Settings - 2026', '5.00', 'PediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                Keeping Children Safe: Injury Prevention in Early Care and Education Settings - 2026
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 04/29/2026-04/28/2029</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$5.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$5.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Visual Otitis Media - Recognizing Middle Ear Infections and Complications' 
+    data-product-carousel-item-id="dfd85cb1-7ecb-4c87-ac57-2dadaf99dcac"
+    data-product-carousel-item-price="89.00"
+    data-product-carousel-item-category="PediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Visual-Otitis-Media-Recognizing-Middle-Ear-Infections-and-Complications" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61723-visual-otitis-media-enduring-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+                    <li class="tag-carousel">MOC</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Visual-Otitis-Media-Recognizing-Middle-Ear-Infections-and-Complications" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, 'dfd85cb1-7ecb-4c87-ac57-2dadaf99dcac', 'Visual Otitis Media - Recognizing Middle Ear Infections and Complications', '89.00', 'PediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                Visual Otitis Media - Recognizing Middle Ear Infections and Complications
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 02/11/2025-02/10/2028</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$89.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$49.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Managing Infectious Diseases in Early Care and Education Settings' 
+    data-product-carousel-item-id="98907587-30d9-4992-b1b2-daced73078f0"
+    data-product-carousel-item-price="5.00"
+    data-product-carousel-item-category="PediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Managing-Infectious-Diseases-in-Early-Care-and-Education-Settings" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61860-managing-infectious-diseases-in-early-care-and-education-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Managing-Infectious-Diseases-in-Early-Care-and-Education-Settings" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, '98907587-30d9-4992-b1b2-daced73078f0', 'Managing Infectious Diseases in Early Care and Education Settings', '5.00', 'PediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                Managing Infectious Diseases in Early Care and Education Settings
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 06/30/2025-06/29/2028</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$5.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$5.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='Basic PREP for Medical Students' 
+    data-product-carousel-item-id="9500831b-aec3-458d-9614-95b35d78a2af"
+    data-product-carousel-item-price="50.00"
+    data-product-carousel-item-category="PediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Basic-PREP-for-Medical-Students" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/6/1/61829-prep-medical-students-basic-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Course</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Basic-PREP-for-Medical-Students" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, '9500831b-aec3-458d-9614-95b35d78a2af', 'Basic PREP for Medical Students', '50.00', 'PediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                Basic PREP for Medical Students
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date">Available: 04/10/2025-04/09/2028</p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$50.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$0.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='PediaLink' 
+    data-product-carousel-item-id="22b0c706-2bbf-43a2-bd88-640de1cc06e2"
+    data-product-carousel-item-price="145.00"
+    data-product-carousel-item-category="PediaLink  EQIPP Courses">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/Pedialink-Subscribe" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/p/d/pdlk-rev112223-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Online Only</li>
+                    <li class="tag-carousel">Member Benefit</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/Pedialink-Subscribe" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, '22b0c706-2bbf-43a2-bd88-640de1cc06e2', 'PediaLink', '145.00', 'PediaLink  EQIPP Courses', '5341you-may-also-like', 'You May Also Like')">
+                PediaLink
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date"></p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$145.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$0.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>
+<div class="data-wrapper swiper-slide" data-product-carousel-item 
+    data-product-carousel-item-title='2027 PREP Blocks Plus: Hospital Medicine' 
+    data-product-carousel-item-id="18a4ea2c-782f-48e5-aca2-c886f349ec3b"
+    data-product-carousel-item-price="270.00"
+    data-product-carousel-item-category="PREP Self Assessments">
+    <div class="carousel-image" carousel-image>
+                <a class="carousel-link" href="https://www.aap.org/2027-PREP-Blocks-Plus-Hospital-Medicine" target="_self">
+                    <img src="https://www.aap.org/globalassets/catalogs/imagefile/2/7/27prephmbd-rev072726-product.png" class="carousel-image" />
+                </a>
+    </div>
+    <div class="medium">
+            <ul class="unlisted">
+                    <li class="tag-carousel">Package</li>
+            </ul>
+    </div>
+    <div class="title-click">
+            <a class="carousel-title" href="https://www.aap.org/2027-PREP-Blocks-Plus-Hospital-Medicine" target="_self" onclick="sendSelectItemAnalyticsScriptToGTM(this, '18a4ea2c-782f-48e5-aca2-c886f349ec3b', '2027 PREP Blocks Plus: Hospital Medicine', '270.00', 'PREP Self Assessments', '5341you-may-also-like', 'You May Also Like')">
+                2027 PREP Blocks Plus: Hospital Medicine
+            </a>
+    </div>
+    <div class="publish-dates">
+        <p class="publish-date"></p>
+    </div>
+
+        <div class="retail-price">
+            <span class="priceLabel">Price:</span>
+            <span class="price cash">$270.00</span>
+        </div>
+        <div class="member-price">
+            <span class="priceLabel">Member Price:</span>
+            <span class="price cash">$180.00</span>
+        </div>
+    <div style="display: none" class="id-carousel-js" id-carousel-js"></div>
+</div>                </div>
+            </div>
+        </div>
+    </section>
+
+<script src='/Bundles/js/shop-google-analytics-bundle.js?v=345c89d86898d5df4b8252a78a110359e35eb44aa3106a117ba6888ff7db83b0'></script>
+
+
+
+
+<div data-intersection-observer="mini-cart" class="pdp-fixed-cart row">
+    <div class="pdp-fixed-cart-header">
+        <h2 class="pdp-fixed-cart-title">Pediatric First Aid and Safety Training for Teachers and Caregivers</h2>
+        <p class="pdp-fixed-cart-price">
+            Price::
+            25.00
+        </p>
+    </div>
+
+            <button type="button" 
+                class="button-primary button-loader " 
+                id="miniSummaryAddToCartCta"
+                    data-add-to-cart-price="25.00"
+                    data-add-to-cart-title="Pediatric First Aid and Safety Training for Teachers and Caregivers"
+                    data-add-to-cart-category="PediaLink  EQIPP Courses"
+                    data-add-to-cart-key="4dadf466-19eb-4537-b592-0d8050c42a05"
+                    data-vertex-commerce-visitor-id="1a4f1285-d600-6f96-d732-6225c927fabb"
+                    data-vertex-shouldSendCloudRetailAddToCartScriptToGTM="True">
+                <span>Register</span><div data-add-cart-load class="loader">
+                    <div class="loader-circle">
+                        <svg class="spin" viewBox="25 25 50 50">
+                            <circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+                        </svg>
+                        <svg class="base" viewBox="25 25 50 50">
+                            <circle class="path" cx="50" cy="50" r="20" fill="none" strokeWidth="3" strokeMiterlimit="10" />
+                        </svg>
+                    </div>
+                </div>
+            </button>
+</div>    </div>
+</div>
+
+<script>
+    window.productDetailPageBootstrap = {
+        currentContentCode: '4DADF466-19EB-4537-B592-0D8050C42A05',
+    }
+</script>
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "Product",
+            "name": "Pediatric First Aid and Safety Training for Teachers and Caregivers",
+            "gtin13": "",
+            "image": ["https://www.aap.org/globalassets/catalogs/imagefile/6/1/61827-pediatric-first-aid-product.png"],
+            "sku": "4DADF466-19EB-4537-B592-0D8050C42A05",
+            "description" : "Pediatric first aid is the initial medical care provided to a child who is injured or suddenly becomes sick. Children and adolescents are particularly vulnerable to injury due to their size,&#x2026;",
+            "offers": {
+                "@type": "AggregateOffer",
+                "url": "https://www.aap.org/en/catalog/categories/pedialink-eqipp-courses/pediatric-first-aid-and-safety-training-for-teachers-and-caregivers/",
+                "priceCurrency": "USD",
+                "lowPrice": 25,
+                "highPrice": 25,
+                "offerCount": 1,
+                "availability": "https://schema.org/InStock"
+            },
+            "brand": {
+                "@type": "Organization",
+                "name": "American Academy of Pediatrics"
+            }
+        }
+    </script>
+
+
+        <div class="back-to-top" tabindex="0" id="backToTop">
+    <svg class="back-to-top-arrow">
+        <use xlink:href="#back-to-top-arrow"></use>
+    </svg>
+</div>
+
+    </div>
+    <script type="text/javascript">
+        window.searchBox = {
+            searchBoxText: 'Search All AAP',
+            searchButtonText: 'Search',
+            findIndexUrl: 'https://es-us-api01.episerver.com/3fu1nB75NF5xwBMuzJdHOF0KFePbaflM/aaop_index00214/',
+            vertexSearchPageUrl: '/en/search/',
+            shopSearchBoxText: 'Search shopAAP'
+        };
+    </script>
+    
+
+    <script>
+        window.errorText = {
+            dismissButtonText: 'Dismiss',
+            requiredErrorText: 'This is a required field',
+            invalidErrorText: 'This field is invalid',
+            invalidPasswordText: 'Password must be at least 10 characters long',
+            passwordMatchErrorText: 'Passwords must match',
+        }
+
+        window.passwordValidation = {
+            passwordRequiredLength: 10,
+            passwordRequireNonLetterOrDigit: false,
+            passwordRequireDigit: false,
+            passwordRequireUpperCase: false,
+            passwordRequireLowerCase: false,
+        }
+    </script>
+
+    <script>
+        window.loginInfo = {
+            loginUrl: '/en/my-account/login/'
+        }
+    </script>
+
+
+<footer class="footer" id="footer">
+    <div class="footer-top">
+        <div class="footer-top-wrapper">
+            <div class="footer-aap-logo">
+                <svg>
+                    <use xlink:href="#Seal_Pos"></use>
+                </svg>
+            </div>
+            <div class="row">
+                <div class="col-xxl-6 col-sm-12">
+                    <div class="footer-top-about">
+                        We&#x27;re 67&#x200B;,000 pediatricians committed to the optimal physical, mental, and social health and well-being for all infants, children, adolescents, and young adults.
+                    </div>
+                </div>
+                <div class="col-xxl-6 col-sm-12">
+                    <div class="footer-top-nav">
+                        <div class="row">
+                            <ul class="col-xxl-4 unlisted">
+                                
+
+
+        <li class="main-nav-menu-item aaphome  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/" target="" onclick="" data-testid="link-aaphome">
+                    AAP Home
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item policy  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/policy/" target="" onclick="" data-testid="link-policy">
+                    Policy
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item advocacy  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/advocacy/" target="" onclick="" data-testid="link-advocacy">
+                    Advocacy
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+                            </ul>
+                            <ul class="col-xxl-4 unlisted">
+                                
+
+
+        <li class="main-nav-menu-item pedialink  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/pedialink/" target="" onclick="" data-testid="link-pedialink">
+                    PediaLink
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item practicemanagement  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/practice-management/" target="" onclick="" data-testid="link-practicemanagement">
+                    Practice Management
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item patientcare  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/patient-care/" target="" onclick="" data-testid="link-patientcare">
+                    Patient Care
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+                            </ul>
+                            <ul class="col-xxl-4 unlisted">
+                                
+
+
+        <li class="main-nav-menu-item getinvolved  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/get-involved/" target="" onclick="" data-testid="link-getinvolved">
+                    Get Involved
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item healthychildren  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="http://healthychildren.org/English/Pages/default.aspx" target="" onclick="" data-testid="link-healthychildren">
+                    Healthy Children
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item shopaap  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/shopaap/" target="" onclick="" data-testid="link-shopaap">
+                    shopAAP
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer-top-mobile-nav">
+                        <div class="row">
+                            <ul class="col-sm-6 unlisted">
+                                
+
+                            </ul>
+                            <ul class="col-sm-6 unlisted">
+                                
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-links-wrapper">
+        <div class="footer-links" id="footer-links">
+            <div class="footer-links-main">
+                <ul class="unlisted col-sm-6">
+                    
+
+
+        <li class="main-nav-menu-item privacystatement  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/pages/privacy-statement/" target="" onclick="" data-testid="link-privacystatement">
+                    Privacy Statement
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item termsofuse  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/pages/terms-of-use/" target="" onclick="" data-testid="link-termsofuse">
+                    Terms of Use
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item auto-renewterms  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/my-account/settings-preferences/auto-renew/aap-subscription-auto-renewal-terms-and-conditions/" target="" onclick="" data-testid="link-auto-renewterms">
+                    Auto-Renew Terms
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item supportcenter  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/support-center/" target="" onclick="" data-testid="link-supportcenter">
+                    Support Center
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item contactus  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/pages/contact-us/" target="" onclick="" data-testid="link-contactus">
+                    Contact Us
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item codeofconduct  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="/en/about-the-aap/american-academy-of-pediatrics-equity-and-inclusion-efforts/code-of-conduct/" target="" onclick="" data-testid="link-codeofconduct">
+                    Code of Conduct
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+
+        <li class="main-nav-menu-item cookiemanagement  ">
+            <div class="main-nav-menu-item-top">
+                <a class="" href="#" target="" onclick="__ucCmp.showSecondLayer();" data-testid="link-cookiemanagement">
+                    Cookie Management
+                </a>
+        </div>
+
+        <ul class="mobile-header-context-link-list">
+            
+
+        </ul>
+
+
+    </li>
+                </ul>
+                <ul class="unlisted col-sm-6">
+                    
+
+                </ul>
+            </div>
+            <ul class="footer-links-social unlisted">
+                    <li class="main-nav-menu-item">
+                        <a href="https://www.linkedin.com/company/american-academy-of-pediatrics" target="_blank">
+                        <svg>
+                            <use xlink:href="#linkedin-icon"></use>
+                        </svg>
+                    </a>
+                </li>                    <li class="main-nav-menu-item">
+                        <a href="https://www.instagram.com/ameracadpeds/" target="_blank">
+                        <svg>
+                            <use xlink:href="#instagram-icon"></use>
+                        </svg>
+                    </a>
+                </li>                    <li class="main-nav-menu-item">
+                        <a href="https://www.facebook.com/AmerAcadPeds" target="_blank">
+                        <svg>
+                            <use xlink:href="#facebook-icon"></use>
+                        </svg>
+                    </a>
+                </li>                    <li class="main-nav-menu-item">
+                        <a href="https://www.youtube.com/channel/UClR8YIQX5Fb8J2wmsUKLhvQ" target="_blank">
+                        <svg>
+                            <use xlink:href="#youtube-icon"></use>
+                        </svg>
+                    </a>
+                </li>                    <li class="main-nav-menu-item">
+                        <a href="https://www.threads.net/@ameracadpeds" target="_blank">
+                        <svg>
+                            <use xlink:href="#threads-icon"></use>
+                        </svg>
+                    </a>
+                </li>                    <li class="main-nav-menu-item">
+                        <a href="https://twitter.com/AmerAcadPeds" target="_blank">
+                        <svg>
+                            <use xlink:href="#x-icon"></use>
+                        </svg>
+                    </a>
+                </li>            </ul>
+        </div>
+    </div>
+    <div class="footer-copyright-wrapper">
+        <div class="footer-copyright">
+            <p class="paragraph-caption">&#xA9; Copyright 2026 American Academy of Pediatrics. All rights reserved, including those for text and data mining, AI training, and similar technologies.</p>
+        </div>
+
+    </div>
+</footer>
+        <a class="feedback-form-link" target="_blank" href="/en/forms/feedback-form/">
+            Feedback Form
+        </a>
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+        WebFont.load({
+            google: {
+                families: ['Alegreya Sans:400,400italic,700,700italic', 'Alegreya:400,400italic,700,700italic']
+            }
+        });
+    </script>
+    <script src="https://players.brightcove.net/6056665225001/default_default/index.js"></script>
+    <script src='/Bundles/js/common-bundle.js?v=08beea614d82574d5cec5dd905525e59e15216dfaf2665c85d645a34fa5876c2'></script>
+    <script src='/Bundles/js/global-bundle.js?v=d67784056939376f7ec78e77dd849c92dc24a20c9c04c05681d9c337dc744744'></script>
+    <script src='/Bundles/js/date-picker-bundle.js?v=116c5e9b33ec94d6a08bd63041124238e53adf2bb8d5cf152a7d71b642d79711'></script>
+    <script src='/Bundles/js/shop-carousel-bundle.js?v=1c256e38a55f2fc4d373f70b5d71581b7021187d10912946ca69bc8354e1e277'></script>
+    
+    <script  type="text/javascript"> window.dataLayer = window.dataLayer || []; dataLayer.push({'event': 'view_item', 'ecommerce': { 'currency': 'USD', 'value': 0.00, 'items': [{'item_id' : '4dadf466-19eb-4537-b592-0d8050c42a05', 'item_name' : 'Pediatric First Aid and Safety Training for Teachers and Caregivers', 'price' : 25.00, 'item_category' : 'PediaLink  EQIPP Courses' }]}});  </script>
+    <script  type="text/javascript"> window.dataLayer = window.dataLayer || []; dataLayer.push({'event': 'cloud_retail_detail_page_view', 'cloud_retail': { 'eventType': 'detail-page-view', 'visitorId': '1a4f1285-d600-6f96-d732-6225c927fabb', 'productDetails': [{ 'product': { 'id': '4dadf466-19eb-4537-b592-0d8050c42a05' }}]}}); </script>
+
+
+    
+    <script src='/Bundles/js/product-detail-page-bundle.js?v=0a7455f6181f321b4ec0c0693706861604fe7a9661d3d8b939d3c8e3d8610a60'></script>
+
+
+    <footer>
+        
+    </footer>
+
+    <!-- Custom Lucky Orange User Data -->
+      
+    
+    <script async src="//www.instagram.com/embed.js"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"52ed78f4545b427c93e2a6cf57480168","spa":2}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5e6853dbac08a36',t:'MTc5NTMzNTY4NA=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5e6853dbac08a36',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

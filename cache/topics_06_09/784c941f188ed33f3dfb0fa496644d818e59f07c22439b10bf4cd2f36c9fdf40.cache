@@ -1,0 +1,1445 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>Vertical Evacuation Guidance</title>
+<meta name="DC.title" content="Vertical Evacuation Guidance" />
+<meta name="DC.description" content="Vertical Evacuation Guidance" />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="May 7th 2025 12:22 AM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="Vertical Evacuation Guidance" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+        <script type="text/javascript" src="/js/ForecastSearch.js"></script>
+        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA&pua=G-736JJ6NL0V"></script>	
+        <script type="text/javascript" src="/js/topNavMenu.js"></script>
+        <script type="text/javascript" src="/js/NidsESRI.js"></script>
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+        
+    </head>
+
+    <body>
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            <div class="content">
+    <div class="topnav">
+        <ul id="topnav">
+            <li>
+                <script type="text/javascript">
+                    function goBack() {
+                        if (document.referrer.toLowerCase().indexOf("weather.gov") != -1) {
+                            history.back();
+                        } else {
+                            document.location.href = "https://www.weather.gov";
+                        }
+                    }
+                </script>
+                <div class="topMenuNavList home">
+                    <a href="#" onclick="goBack();">HOME</a>
+                </div>
+            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/forecastmaps/">FORECAST</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov">Local</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://digital.weather.gov">Graphical</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://aviationweather.gov">Aviation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/marine/">Marine</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://water.noaa.gov">Rivers and Lakes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.nhc.noaa.gov">Hurricanes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.spc.noaa.gov">Severe Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/fire/">Fire Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Sunrise/Sunset</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Long Range Forecasts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Climate Prediction</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.swpc.noaa.gov">Space Weather</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/climate">PAST WEATHER</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrh/climate">Past Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Astronomical Data</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table">Certified Weather Data</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/safety/">SAFETY</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/informationcenter">INFORMATION</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/briefing/">Daily Briefing</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/hazstat">Damage/Fatality/Injury Statistics</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="http://mag.ncep.noaa.gov">Forecast Models</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/gis/">GIS Data Portal</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/nwr">NOAA Weather Radio</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/publications/">Publications</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/skywarn/">SKYWARN Storm Spotters</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/stormready">StormReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/notification/">Service Change Notices</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/education/">EDUCATION</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/news">NEWS</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/search/">SEARCH</a>
+                    </div>
+                                            <div style="opacity: 0;" class="sub">
+                            <ul class="no-links">
+                            <li><!-- Begin search code -->
+                                <div id="site-search">
+                                    <form method="get" action="https://search.usa.gov/search" style="margin-bottom: 0; margin-top: 0;">
+                                        <input type="hidden" name="v:project" value="firstgov" />
+                                        <label for="query">Search For</label>
+                                        <input type="text" name="query" id="query" size="12" />
+                                        <input type="submit" value="Go" />
+                                        <p>
+                                            <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+                                            <label for="nws" class="search-scope">NWS</label>
+                                            <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+                                            <label for="noaa" class="search-scope">All NOAA</label>
+                                        </p>
+                                    </form>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                                    </li>
+                            <li class="last">
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/about/">ABOUT</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/about/">About NWS</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/organization">Organization</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://sites.google.com/a/noaa.gov/nws-insider/">For NWS Employees</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/ncep/">National Centers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/nws-careers">Careers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/contact">Contact Us</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://forecast.weather.gov/glossary.php">Glossary</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/socialmedia">Social Media</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/NWStransformation">NWS Transformation</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                    </ul>
+    </div>
+</div>
+
+
+            <div class="center-content">
+
+                <div class="one-sixth-first">
+    <div id="forecast-lookup">
+        <form name="getForecast" id="getForecast" action="https://forecast.weather.gov/zipcity.php" method="get">
+            <label for="inputstring">Local forecast by <br />"City, St" or ZIP code</label>
+            <input id="inputstring" name="inputstring" type="text" value="Enter location ..." onclick="this.value=''" />
+            <input name="btnSearch" id="btnSearch" type="submit" value="Go" />
+            <div id="txtError">
+                <div id="errorNoResults" style="display:none;">Sorry, the location you searched for was not found. Please try another search.</div>
+                <div id="errorMultipleResults" style="display:none">Multiple locations were found. Please select one of the following:</div>
+                <div id="errorChoices" style="display:none"></div>
+                <input id="btnCloseError" type="button" value="Close" style="display:none" />
+            </div>
+            <div id="txtHelp"><a style="text-decoration: underline;" href="javascript:void(window.open('https://www.weather.gov/ForecastSearchHelp.html','locsearchhelp','status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,scrollbars=1,height=500,width=530').focus());">Location Help</a></div>
+        </form>
+    </div>
+</div>
+
+                    <div class="five-sixth-last">
+                    <style type="text/css">
+                #topnews.important {
+                    background-color: #d2d2d2;
+                    height: 100%;
+                    margin-bottom: 5px;
+                    position: relative;
+                }
+
+                #topnews .icon {
+                    display: none;
+                }
+
+                #topnews.important .icon {
+                    background-color: #135997;
+                    display: table-cell;
+                    height: 100%;
+                    text-align: center;
+                    vertical-align: middle;
+                    width: 80px;
+                }
+
+                #topnews.important .body {
+                    color: #141414;
+                    display: table-cell;
+                    padding: 10px;
+                }
+            </style>
+            <div id="topnews">
+                <div class="icon"><img src="/bundles/templating/images/top_news/important.png"></div>
+                <div class="body">
+                    <h1 style="font-size: 11pt;">Heavy to Excessive Rainfall and Flooding in East Florida; Monitoring for Storm Potential Near the Southeast Coast</h1>
+                    <p>
+                        Heavy to excessive rainfall will continue to threaten considerable flash and urban flooding impacts over the east central Florida coast from Palm Coast to near Melbourne through today. A subtropical or tropical storm may form near or offshore of the southeast U.S. coast this weekend. Regardless of development, strong winds, rough surf, coastal flooding, and heavy rain are likely.
+                                                                            <a href="http://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd" target="_blank">Read More &gt;</a>
+                                            </p>
+                </div>
+            </div>
+            </div>
+
+
+                <div class="full-width-border">
+                    <div class="partial-width-borderbottom">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+
+                        <div class="div-full">    
+                        <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">Int. Tsunami Information Center Caribbean Office</p>
+        <p class="sitename-class">National Program</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>Vertical Evacuation Guidance</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/itic-car">Int. Tsunami Information Center Caribbean Office</a>
+                                &gt; Vertical Evacuation Guidance
+                    </div>
+    </div>
+</div>
+
+                        <div class="div-full">
+    <div class="subMenuNav">
+        <ul id="subMenuNav">
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Sea Level Stations</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://www.ioc-sealevelmonitoring.org/"> IOC Sea Level Monitoring Facility</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/stations"> Caribbean Status of Sea Level Data Availability</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/effectofhurricaneirma"> Effect of Hurricane Irma across the northern caribbean and adjacent regions</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Seismic Stations</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://www.iris.edu/gmap/_CARIBE-EWS"> IRIS CARIBE EWS Virtual Seismic Network</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.prsn.uprm.edu/English/EstacionesV3/seismometers.php"> Caribbean PRSN Station Monitoring System</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/seismic"> Caribbean Status of Seismic Data Availability</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">CARIBE EWS</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://unesdoc.unesco.org/ark:/48223/pf0000259725.locale=en"> PTWC Enhanced Products - User&#039;s Guide</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/media/itic-car/ICG-CARIBE-EWS-XI.pdf"> Regional Tsunami Service Provider Document </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tsunami.ioc.unesco.org/en"> IOC Tsunami Programme Home</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/media/itic-car/CARIBE EWS ICG ORGANIZATIONAL STRUCTURE AND GOVERNANCE-20250220.docx"> Organizational Structure &amp; Governance</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://unesdoc.unesco.org/ark:/48223/pf0000395713?posInSet=1&amp;queryId=45526598-c1b2-429d-a324-42a1d25462fa"> Tsunami Watch Operations Global Service Definition Document</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Events/Preparedness</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="tsunami_events"> Tsunami Events</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/tsunami_awareness_materials"> ITIC Tsunami Awareness</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/itic_training"> ITIC Training</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/marine_ports_guidance"> ITIC Marine Ports</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/vertical_evacucation_guidance"> ITIC Vertical Evacuation</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/preparedness"> ITIC-CAR Preparedness</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.tsunami.noaa.gov/"> NOAA Tsunami Program</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://nws.weather.gov/nthmp/guide/nthmptsunamiinfoguide.pdf"> NTHMP Tsunami Information Guide</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.ngdc.noaa.gov/hazard/tsu.shtml"> Tsunami Database</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.meted.ucar.edu/training_course.php?id=38"> COMET: Warning Systems</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/communication"> Comunication Systems</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">ITIC</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://tsunami.gov/?page=itic"> About ITIC</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/itic_staff"> Staff</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/hawaii"> Hawaiʻi</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/american_samoa"> American Samoa</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">ITIC-CAR</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/itic-car/staff"> Staff</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                    </ul>
+    </div>
+</div>
+
+                        
+                        
+                        <div class="div-full">
+<div class="cms-content"><h2 style="font-style:italic;">Vertical Evacuation Guidance</h2>
+
+<p>&nbsp;</p>
+
+<p style="text-align: justify;">In some locations, high ground may not exist, or tsunamis triggered by local events may not allow sufficient warning time to evacuate to high ground. A potential solution is vertical evacuation above rising waters into buildings and other structures that have the strength and resilience necessary to resist the effects of tsunami waves. A&nbsp;<em>vertical evacuation&nbsp;<img alt="tsunami evacuation building" src="/images/itic-car/vertical_evac/tsunami_evacuation_building.gif" style="width: 150px; height: 150px; float: left; margin-left: 25px; margin-right: 25px;" />refuge&nbsp;</em>is a structure or earthen mound designated as a place of refuge in the event of a tsunami. The refuge is designed for short-term protection (12-24 hours), has sufficient height to elevate evacuees above the tsunami inundation level, and has been designed and constructed to withstand an earthquake and resist tsunami load effects. An evacuation shelter is designed for longer-term use; it provides a safe, sanitary, and secure environment and life-sustaining services to disaster survivors displaced from their primary residences due to natural or man-made disasters.</p>
+
+<p style="text-align: justify;">Tsunami design was incorporated by reference into the 2018 International Building Code for structures in risk category III and IV (large occupancy, such as for shelters, and essential facilities). The reference is Chapter 6, &ldquo;Tsunami Loads and Effects,&rdquo; of the ASCE/SEI 7-16 standard,&nbsp;<em>Minimum Design Loads and Associated Criteria For Building and Other&nbsp;<a href="https://legacy.itic.ioc-unesco.org/legacy.itic.ioc-unesco.org/images/stories/vertical_evac/MinamiSanriku_EvacSign_KongITIC_dsc03699_1000x1240_crop.jpg" target="_blank" title="MinamiSanriku_EvacSign"><img alt="MinamiSanriku EvacSign KongITIC dsc03699 1000x1240 crop" src="/images/itic-car/vertical_evac/MinamiSanriku_EvacSign_KongITIC_dsc03699_1000x1240_crop.jpg" style="width: 225px; height: 201px; float: right; margin-left: 25px; margin-right: 25px;" /></a>Structure</em></p>
+
+<p style="text-align: justify;">During the 2011&nbsp;Japan tsunami, vertical evacuation structures saved many lives. Based on lesssons learned,&nbsp;<em>Guidelines on Structural Requirements for Tsunami Evacuation Buildings Considering the Great East Japan Earthquake&nbsp;</em>were issued by the Ministry of Land, Infrastructure, Transportation and Tourism (MLIT).</p>
+
+<p style="text-align: justify;">Vertical evacuation should not be chosen over safe, solid, nearby high ground that is out above the tsunami hazard zone. However, if you cannot evacuate inland and there are no multi-story, reinforced concrete or steel refuge structures nearby, then you should find the tallest, sturdy structure and climb up and cling to it until the wave passes. In some cases, this might only be a strong tree or utility pole.If you are swept up by a tsunami, look for something to help you stay afloat, and to protect you from dangerous floating debris such as houses, cars, and trees.</p>
+
+<p><strong>OVERVIEW: &nbsp;Tsunami Vertical Evacuation Guidance (ITIC,&nbsp;<a href="/media/itic-car/vertical_evac/VerticalEvacuation_practices_ITIC_20200831_TsuInfo.pdf" target="_blank" title="Vertical Evacuation Good Practices">PDF</a>, 3.7 MB)</strong>&nbsp;&nbsp;</p>
+
+<p><strong><a name="Back_to_links">RESOURCE MATERIALS</a></strong><br />
+KEYWORDS: &nbsp;Engineering Assessment, Building Code, Mitigation, Response</p>
+
+<p>For a complete list of all available resources on tsunami vertical evacuation, click&nbsp;<a href="/media/itic-car/vertical_evac/Vert%20Evac%20Endnote_20200817_draft.pdf" target="_blank" title="Vertical Evacuation - references">here</a>&nbsp;to download.&nbsp;Currently, this list contains 117 references.</p>
+
+<p>&nbsp;</p>
+
+<table cellpadding="2" cellspacing="1" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td style="border: 1px solid #000000; margin-left: 40px; padding: 5px;">
+			<p><strong>COUNTRIES</strong> (Click a link below to go to a highlights)</p>
+
+			<p><a href="#General">GENERAL</a> &nbsp;(9 references): &nbsp; <a href="#BuildingCode">BUILDING CODE</a> (6), <a href="#Countries">COUNTRIES</a> (3)</p>
+
+			<p><a href="#Pacific_ocean">PACIFIC OCEAN</a> &nbsp;(79 references): <a href="#Australia">AUSTRALIA</a> &nbsp;(1), <a href="#Canada">CANADA</a> &nbsp;(3), <a href="#Chile">CHILE</a> &nbsp;(6), <a href="#China">CHINA</a> &nbsp;(4), <a href="#Ecuador">ECUADOR</a> &nbsp;(1), <a href="#Japan">JAPAN</a> &nbsp;(12), <a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/Vert_Evac_Endnote.pdf" target="_blank" title="Vertical Evacuation References">SOUTH KOREA</a> (2),&nbsp; <a href="#New_Zealand">NEW ZEALAND</a> &nbsp;(8), <a href="#USA">USA</a> &nbsp;(41), <a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/Vert_Evac_Endnote.pdf" target="_blank" title="Vertical Evacuation references">VIETNAM</a> (1)</p>
+
+			<p><a href="#Indian_ocean">INDIAN OCEAN</a> &nbsp;(26 references): <a href="#India">INDIA</a> &nbsp;(3), <a href="#Indonesia">INDONESIA</a> &nbsp;(20), <a href="#SriLanka">SRI LANKA</a> &nbsp;(1)</p>
+
+			<p><a href="#North_Atlantic_Mediterranean">NORTH ATLANTIC AND MEDITERRANEAN</a> &nbsp;(3 references): <a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/Vert_Evac_Endnote.pdf" target="_blank" title="Vertical Evacuation references"> MOROCCO</a> ,&nbsp; <a href="#Turkey">TURKEY</a> &nbsp;(1)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: justify;"><br />
+<strong><strong><a name="General">GENERAL</a> </strong> </strong></p>
+
+<table cellpadding="2" cellspacing="1" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; width: 80%; margin-left: 40px; padding: 5px;"><strong>Document Title</strong></td>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000;  margin-left: 40px; padding: 5px;"><strong>Format/Size</strong></td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="BuildingCode"> <strong>BUILDING CODE</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>ASCE. (2020). ASCE Library. Retrieved from https://ascelibrary.org. Summary: Search ASCE website to find tsunami design for a specific country. Contains Journals, books, proceedings, and standards. Keyword: Building Code</li>
+				<li style="margin-left: 30px;">Technical Reports</li>
+				<li style="margin-left: 30px;">ASCE 7-16 Standard</li>
+				<li style="margin-left: 30px;">Proceedings</li>
+				<li>I. Robertson (2016). International Building Code: ASCE 7-16 Loads and Effects. Presentation at ITIC TTraining Programme - Hawaii 2016. Summary: Tsunami background, Tohoku tsunami lessons, ASCE 7-16 Tsunami Loads and Effects, and tsunami design examples. Keyword: Engineering Assessment, Building Code</li>
+				<li>Chock, G. (2015). <em>The New Chapter 6 on Tsunami Loads and Effects in ASCE 7-16.</em> Paper presented at the 2015 NSCEA Structural Engineering Summit. Summary: Background on ASCE 7-16. Keyword: Engineering Assessment, Building Code</li>
+				<li>Chock, G., &amp; Luco, N. (2014). <em>Reliability Analysis of Structures Designed in Accordance with ASCE 7, when Subjected to Tsunami and Earthquake Effects.</em> Retrieved from Workshop, Fairmont Orchid Hotel Kohala Coast, Island of Hawaii, December 2014: Summary: This presentation provides background information on development of ASCE 7-16 and associated forces, policies, and reliabilities. Keyword: Engineering Assessment, Building Code</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top"><br />
+			<br />
+			<a href="https://ascelibrary.org/" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<a href="https://ascelibrary.org/page/books/s-techreports" rel="noopener" target="_blank">Website</a><br />
+			<a href="https://ascelibrary.org/doi/book/10.1061/9780784414248" rel="noopener" target="_blank">Website</a><br />
+			<a href="https://ascelibrary.org/proceedings" rel="noopener" target="_blank">Website</a><br />
+			<a href="/media/itic-car/vertical_evac/ITIC-ASCE%207-16_2016.pdf" target="_blank">PDF</a>&nbsp;(3.5 MB)<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/The%20New%20Chapter%206%20on%20Tsunami%20Loads%20and%20Effects%20in%20ASCE%207-16%20Chock_2015.pdf" target="_blank">PDF</a>&nbsp;(9.5 MB)<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/Session4_Presentation4_CHOCK.pdf" rel="noopener" target="_blank">PDF</a>&nbsp;(2.4 MB)</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Countries"> <strong>COUNTRIES</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Pannier, R. (2016). Ensuring safety of people in case of severe floods: feasibility and relevance of vertical evacuation strategies in high population density areas. <em>E3S web of conferences, 7.</em> doi:10.1051/e3sconf/20160719004 Summary: When vertical evacuation is preferred over horizontal evacuation and how to prepare a vertical evacuation plan. Keywords: Mitigation</li>
+				<li>Intergovernmental Oceanographic Commission. (2012). A Guide to tsunamis for hotels: tsunami evacuation procedures IOC. Manuals and guides, 69. Summary: Steps to guide hotels to prepare for tsunami hazards. Keyword: Mitigation, Response</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/e3sconf_flood2016_19004.pdf" rel="noopener" target="_blank">PDF</a>&nbsp;(792 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/A_guide_to_tsunamis_for_hotels_EN.pdf" rel="noopener" target="_blank">PDF</a> (928 KB)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align: justify;"><a name="Pacific_ocean"> <strong> <span style="text-decoration: underline;"> <strong>PACIFIC OCEAN</strong> </span> </strong> </a></p>
+
+<p>&nbsp;</p>
+
+<table cellpadding="2" cellspacing="1" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; margin-left: 40px; padding: 5px;"><strong>Document Title</strong></td>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; margin-left: 40px; padding: 5px;"><strong>Format/Size</strong></td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Australia"> <strong>AUSTRALIA</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Dall&#39;Osso, F., &amp; Dale, D.-H. (2010). Public assessment of the usefulness of &ldquo;draft&rdquo; tsunami evacuation maps from Sydney, Australia &ndash; implications for the establishment of formal evacuation plans. Natural Hazards and Earth System Science, 10. Summary: Tsunami evacuation maps were drafted for Manly, Sydney, Australia to identify vertical evacuation structure locations and received positive survey results from Manly residents. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://nhess.copernicus.org/articles/10/1739/2010/nhess-10-1739-2010.pdf" rel="noopener" target="_blank">PDF</a> (5.8 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Canada"> <strong>CANADA - BRITISH COLUMBIA</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>St-Germain, P., &amp; Valk, J. V. d. (2019). <em>Chesterman Beach Tsunami Vertical Evacuation Scoping Study.</em> Retrieved from<br />
+				https://tofino.civicweb.net/filepro/document/99031/NHC%20TVE<br />
+				%20Scoping%20Study%20-%20Final%20Report.pdf<br />
+				Summary: A scoping study evaluates the need for a single-purpose Tsunami Vertical Evacuation structure for Chesterman Beach residents. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p>&nbsp;</p>
+
+			<p><a href="https://tofino.civicweb.net/filepro/document/99031/NHC TVE Scoping Study - Final Report.pdf" rel="noopener" target="_blank">PDF</a> (16 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Chile"> <strong>CHILE</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Edge, B. L. (2013). <em>Chile Earthquake and Tsunami of 2010.</em></li>
+				<li>Chile Oficina Nacional de Emergencia del Ministerio del Interior (ONEMI). (Spanish 2014, English 2012). Inter-institutional roundtable on tsunami preparation and response recommendations. <em>Tsunami preparation and response recommendations.&nbsp;</em> Summary: See section 3.4. Keywords: Mitigation, Response<br />
+				<em>3.4. Immediate Response, Vertical Evacuation, pg. 18<br />
+				If you live in a building with eight floors or more located within a Tsunami Risk Zone, practice your vertical evacuation Emergency Plan. There may&nbsp;be people outside who need to evacuate vertically. Remember that mutual help and solidarity among citizens can save lives. </em></li>
+				<li>J. Le&oacute;n, N. Zamora, S. Castro, R. J&uuml;nemann, A. Gubler, and R. Cienfuegos. CIGIDEN (2019). Evacuaci&oacute;n vertical como medida de mitigaci&oacute;n del riesgo de tsunamis en Chile. Summary: Defined criteria, regulations, or standards to vertically evacuate in Chile. Keywords: Mitigation, Response</li>
+				<li>Chile Ministerio de Vivienda y Urbanismo. (2013). Norma T&eacute;cnica 007 Dise&ntilde;o estructural para edificaciones en &aacute;reas de riesgo de inundaci&oacute;n por tsunami o seiche. Summary: Scope, general requirements and criteria, tsunami flood protection methods, and structural requirements of NTM 007 standard. Keywords: Building Code</li>
+				<li>L&oacute;pez, J. J. O., Reyes, L. V., &amp; Vera, C. O. (2017). Structural health assessment of a R/C building in the coastal area of Concepci&oacute;n, Chile. In (Vol. 199, pp. 2214-2219): Elsevier Ltd. Summary: A structural assessment was conducted on a fourteen-story reinforced concrete building located in Concepci&oacute;n (Chile) to examine the feasibility of vertical evacuation during a tsunami. Keywords: Engineering Assessmen</li>
+				<li>&Aacute;lvarez, G., Quiroz, M., Le&oacute;n, J., &amp; Cienfuegos, R. (2018). Identification and classification of urban micro-vulnerabilities in tsunami evacuation routes for the city of Iquique, Chile. <em>Natural hazards and earth system sciences, 18</em> (7), 2027-2039. doi:10.5194/nhess-18-2027-2018 Summary: A methodology to identify and classify urban micro-vulnerabilities that reduces evacuation route capacity and hinders evacuees&rsquo; safety. Vertical evacuation is recommended for evacuating workers from the port of Iquique. Keywords: Mitigation, Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://ascelibrary.org/doi/book/10.1061/9780784412794" rel="noopener" target="_blank">Website</a><br />
+			<a href="/media/itic-car/vertical_evac/ManualTsunami2014.pdf" target="_blank">PDF</a>&nbsp;(4.7 MB, Spanish)<br />
+			<br />
+			<br />
+			<a href="https://siac.onemi.gov.cl/documentos/docs/difusion/MANUALDETSUNAMI_in.pdf" rel="noopener" target="_blank">PDF</a> (81 MB, English)<br />
+			<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/PPCIGIDEN_EvacVert_digital.pdf" target="_blank">PDF</a> (3.0 MB)<br />
+			<br />
+			<br />
+			<a href="https://www.normativaconstruccion.cl/normas_tecnicas/Norma_Tecnica_Minvu_007.pdf" rel="noopener" target="_blank">PDF</a> (298 KB, Spanish)<br />
+			<br />
+			<br />
+			<a href="https://www.sciencedirect.com/science/article/pii/S1877705817336263" rel="noopener" target="_blank">PDF</a> (692 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://nhess.copernicus.org/articles/18/2027/2018/nhess-18-2027-2018.pdf" rel="noopener" target="_blank">PDF</a> (5.3 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="China"> <strong>CHINA</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Hou, J., Wang, P., Ren, Z., &amp; Li, X. (2017). Development of a decision support system for tsunami evacuation: application to the Jiyang District of Sanya city in China. <em>Natural hazards and earth system sciences, 17</em> (3), 335-343. doi:10.5194/nhess-17-335-2017. Summary: This article provides evacuation cost maps (Fig. 7) and congestion-prone roads (Fig. 8) for Jiyang District, and service areas of vertical shelters for the Luhuitou Community (Fig. 9). Keywords: Engineering Assessment, Mitigation</li>
+				<li>Hou, J., Yuan, Y., Li, T., &amp; Ren, Z. (2020). Tsunami hazard analysis for Chinese coast from potential earthquakes in the western North Pacific. Geomatics, <em>Natural Hazards and Risk, 11</em> (1), 979. doi:10.1080/19475705.2020.1766579. Summary: This article recommends vertical evacuation if a tsunami can arrive within 3 hours for provinces such as Jiangsu, Zhejiang, and Guangdong. Keywords: Engineering Assessment, Response</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://nhess.copernicus.org/articles/17/335/2017/nhess-17-335-2017.pdf" rel="noopener" target="_blank">PDF</a> (15 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.tandfonline.com/doi/epub/10.1080/19475705.2020.1766579?needAccess=true&amp;" rel="noopener" target="_blank" title="New Zealand Vertical Evacuation">PDF</a>&nbsp;(4.2 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Ecuador"> <strong>ECUADOR</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Andres Sebastian Matheus, M., Mario Cruz, D. h., Oswaldo Padilla, A., Theofilos, T., &amp; Ana Gabriela, H. (2016). ENHANCED VERTICAL EVACUATION APPLICATION WITH GEOMATIC TOOLS FOR TSUNAMIS IN SALINAS, ECUADOR. <em>Science of tsunami hazards, 35</em> (3), 189-213. Summary: This article presents modeled tsunami evacuation times in Salinas and potential vertical evacuation shelters on seismic resistant buildings in Salinas, Ecuador. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="http://www.tsunamisociety.org/353ToulkeridisEtAl.pdf" rel="noopener" target="_blank">PDF</a> (9.6 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Japan"> <strong>JAPAN</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Fukuyama, H., Kato, H., Ishihara, T., Tajiri, S., Tani, M., &amp; Nakano, Y. (2012). <em>Structural Design Requirement on the Tsunami Evacuation Buildings.</em> Paper presented at the 14th U.S.-Japan Workshop on the Improvement of Structural Design and Construction Practices, ATC-15-13. Summary: Introduction to structural design method of tsunami evacuation buildings. Keywords: Building Code</li>
+				<li>Nakano, Y. (2014). <em>Structural Design Requirements for Tsunami Evacuation Buildings in Japan.</em> Paper presented at the Proceedings of First ACI/JCI Joint Seminar. Summary: Outline of structural requirements for tsunami evacuation buildings based on new Japanese interim guidelines 2011. Keywords: Engineering Assessment, Building Code</li>
+				<li>Japan MLIT/Ministry of Land, Infrastructure, Transportation and Tourism (2011). &ldquo;Interim Guidelines on Structural Requirements for Tsunami Evacuation Buildings Considering the Great East Japan Earthquake. <em>Annex to the Technical Advice, MLIT, Housing Bureau, Building Guidance Division, No. 2570, Nov. 17, 2011.</em> Summary: Best practice example of practical and reliable tsunami evacuation maps. Keywords: Mitigation</li>
+				<li><em>Excerpt from English translation (ITIC, UNESCO IOC), Report from Study Group for Promoting Guidelines for Tsunami Evacuation Countermeasures. Fire and Disaster Management Agency (FDMA) Civil Protection and Disaster Management Department March 2013, pg 20.</em> Summary: Criteria of tsunami vertical evacuation building. Keywords: Building Code
+				<p>(2) Tsunami evacuation buildings</p>
+				</li>
+			</ul>
+
+			<p style="text-align: justify;">Mayors should select public or private facilities in evacuation areas as tsunami evacuation buildings for evacuees of difficult-to-evacuate areas or people failing to evacuate smoothly.</p>
+
+			<table cellpadding="2" cellspacing="1" style="border: 1px solid #000000;">
+				<tbody>
+					<tr>
+						<td style="border: 1px solid #000000; margin-left: 40px; padding: 5px;">
+						<p>The safety of a tsunami evacuation buildings</p>
+						</td>
+						<td style="border: 1px solid #000000; margin-left: 40px; padding: 5px;">
+						<p>The structure must be RC or SRC (reinforced concrete or steel reinforced concrete). Generally, the buildings must be 2 stories or higher than the expected inundation depths.<br />
+						They must not face to the ocean.<br />
+						They must be earthquake-resistant<br />
+						It is desirable for the building to front to evacuation routes.<br />
+						It is desirable for the building to have stairs on the outside.</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 1px solid #000000; margin-left: 40px; padding: 5px;">
+						<p>The functionality of a tsunami evacuation building</p>
+						</td>
+						<td style="border: 1px solid #000000; margin-left: 40px; padding: 5px;">
+						<p>Generally, enough space must be available for each evacuee (at least, 1 m2 per evacuee).<br />
+						It is desirable for it to be furnished with lights and communication equipment.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p style="text-align: justify;"><br />
+			Residential apartments, hotels, factories, warehouses and so on can be tsunami evacuation buildings. IT is essential for the owners or managers of designated buildings to fully understand fully what is needed. Their cooperation is necessary for formulating the regional plan. Designating as many tsunami evacuation buildings as possible are is desirable.</p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>If there is no high building in the tsunami inundation areas, construction of artificial high ground or a tsunami evacuation tower should be considered.</li>
+				<li>When evacuating, each evacuee should be flexible. For example, sometimes it is safer to evacuate to upper level of building than to outside of the building.</li>
+				<li>If there are only residences on high ground or there are private lands that can be appropriate emergency evacuation points, it will be necessary to get the agreement of the owner and evacuation stairs may need to be constructed.</li>
+				<li>It is recommended to identify areas where residents should evacuate to&nbsp;tsunami evacuation buildings, especially if the evacuation distance and the capacity of the tsunami evacuation routes make it more difficult than to evacuate to an evacuation building.<br />
+				<br />
+				<strong>EXAMPLES </strong><br />
+				Vertical Evacuation Buildings<br />
+				Vertical Evacuation Refuges<br />
+				Vertical Evacuation Platforms<br />
+				&nbsp;</li>
+			</ul>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Robertson, I. N. (2020). Efficacy of Vertical Evacuation Refuge from Tsunamis (VERT), EGU General Assembly 2020, Online, 4&ndash;8 May 2020, EGU2020-4349, https://doi.org/10.5194/egusphere-egu2020-4349 Summary: This presentation discusses the effect of tsunami design, cost, and recent VERT design and construction projects. Keywords: Engineering Assessment, Building Code</li>
+				<li>Japan, City of Sendai Crisis Management Department Disaster-resilient City Promotion Section. (March 2015). Development of tsunami evacuation facilities in Sendai city. Sendai, Japan. Summary: Vertical evacuation facilities in Sendai. Keywords: Building Code</li>
+				<li>Japan, City of Sendai Crisis Management Department Disaster-resilient City Promotion Section. (2015). Development of tsunami evacuation facilities in Sendai city. In. Sendai, Japan. Summary: Vertical Evacuation facilities in Sendai (Page 6). Keywords: Building Code</li>
+				<li>Fraser, S., Leonard, G. S., Murakami, H., Matsuo, &amp; Ichiro. (2012). Tsunami Vertical Evacuation Buildings &ndash; Lessons for International Preparedness Following the 2011 Great East Japan Tsunami. <em>Journal of Disaster Research</em> , 446-457. doi:10.20965/jdr.2012.p0446. Summary: This paper discusses observations of buildings in connection with themes that arose during semi-structured interviews with local disaster prevention and emergency services officials. Keywords: Building Code</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/05_FUKUYAMApaper.pdf" target="_blank" title="Japan Vertical Evacuation">PDF</a> (354 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/Nakano_ACI-JCI_Joint_01.pdf" target="_blank" title="Japan Vertical Evacuation">PDF</a> (577 KB)<br />
+			<br />
+			<br />
+			<a href="http://www.jci-net.or.jp/e/publish/others/ACI_JCI_Joint_Seminar/img/ACI-JCI_Joint_01.pdf">PDF</a><br />
+			<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/FDMA_Chapter2_en_20170127.pdf" target="_blank">PDF</a> (2.6 MB, English)<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/FDMA_Chapter2_en_20170123_ES_IPR_2017.02.07.pdf" target="_blank">PDF</a> (2.6 MB, Spanish)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br />
+			<br />
+			<br />
+			<a href="https://meetingorganizer.copernicus.org/EGU2020/EGU2020-4349.html" rel="noopener" target="_blank">Website </a><br />
+			<br />
+			<br />
+			<br />
+			<a href="https://sendai-resilience.jp/en/efforts/government/development/evacuation_facilities.html" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/Evacuation_facilities_in_Sendai.pptx" target="_blank">PPT</a> (1.8 MB)<br />
+			<a href="https://www.city.sendai.jp/kankyo/shise/gaiyo/soshiki/sesakukyoku/link/suishin/documents/bosai_panf_eng_fix.pdf" rel="noopener" target="_blank">PDF</a>&nbsp;(8.3 MB)<br />
+			<br />
+			<a href="https://www.fujipress.jp/jdr/dr/dsstr000700070446/" rel="noopener" target="_blank">Website</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="New_Zealand"> <strong>NEW ZEALAND</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li><em>NZ MCDEM. (2018). Assessment and Planning for Tsunami Vertical Evacuation, Director&rsquo;s Guideline for Civil Defence Emergency Management Groups DGL 21/18. Ministry of Civil Defence Emergency Management Groups, New Zealand</em> . Summary: New Zealand Phase One guidance on assessment and planning for tsunami vertical evacuation. Guidance intended for Civil Defense &amp; Emergency Management Groups. Keywords: Mitigation</li>
+				<li><em>NZ MBIE. (May 2020). Tsunami Loads and Effects on Vertical Evacuation Structures &ndash;Technical Information. Ministry of Business, Innovation and Employment, New Zealand</em> . Summary: Phase two guidance on design criteria for tsunami vertical evacuation structures. Keywords: Building Code</li>
+				<li>NZ MBIE, &amp; NZ MCDEM. (2018). <em>Development of Planning and Design Guidance for Tsunami Vertical Evacuation Structures in New Zealand</em> . Paper presented at the 17th U.S.-Japan-New Zealand Workshop on the Improvement of Structural Engineering and Resilience. New Zealand Ministry of Business, Innovation and Employment &amp; New Zealand Ministry of Civil Defence and Emergency Management. Wellington, New Zealand. Summary: Overview of Phase One guidance and update on Phase two technical guidance. Keywords: Mitigation, Building Code</li>
+				<li>Fraser, S., Leonard, G. S., Murakami, H., Matsuo, &amp; Ichiro. (2012). Tsunami Vertical Evacuation Buildings &ndash; Lessons for International Preparedness Following the 2011 Great East Japan Tsunami. GNS Science Report 2012/17. 89. Summary: Report shows examples of hazard and evacuation maps and signs in Tōhoku region. Report also gives recommendations for tsunami mitigation activities based on interviews. Keywords: Engineering Assessment</li>
+				<li>New Zealand Ministry of Civil Defence &amp; Emergency Management (MCDEM), Department of the Prime Minister and Cabinet, Ministry of Business, Innovation &amp; Employment.(2018). New Zealand Tsunami Vertical Evacuation National guidance, best practice and design criteria. <em>2-6 Tipler</em> . Summary: This article reports New Zealand tsunami vertical evacuation national guidance, best practice, and design criteria. See New Zealand building code requirements section B1.3.3 for tsunamis. Keywords: Mitigation, Engineering Assessment, Building Code</li>
+				<li>Wellington Region Emergency Management Office, New Zealand. (2020). Tsunamis - vertical evacuation advice. Retrieved from https://wremo.nz/hazards/tsunamis/vertical-evacuation/. Summary: The Wellington Region Emergency Management Office of New Zealand gives Tsunami vertical evacuation advice. Keywords: Response</li>
+				<li>Orpin, A., Rickard, G., &amp; Gerring, P. (2016). Tsunami hazard potential for the equatorial southwestern Pacific atolls of Tokelau from scenario-based simulations. <em>Natural hazards and earth system sciences, 16</em> (5), 1239-1257. doi:10.5194/nhess-16-1239-2016. Summary: Recommended minimum evacuation heights above local sea level were gathered for Tokelau, a territory of New Zealand. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/DGL-21-18-Assessment-and-Planning-for-Tsunami-Vertical-Evacuation.pdf" target="_blank">PDF</a> (1.6 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.building.govt.nz/assets/Uploads/building-code-compliance/geotechnical-education/tsunami-vertical-evacuation-structures.pdf" rel="noopener" target="_blank">PDF</a> (2 MB)<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/P2-06_Tipler.pdf" target="_blank" title="New Zealand Vertical Evacuation">PDF</a> (1.5 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/GNS-SR-2012-017.pdf" target="_blank">PDF</a> (5.6 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.atcouncil.org/docman/atc-15-16-presentations/219-2-6-tipler/file" rel="noopener" target="_blank">PDF</a> (1.8 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://wremo.nz/hazards/tsunamis/vertical-evacuation/" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://nhess.copernicus.org/articles/16/1239/2016/nhess-16-1239-2016.pdf" rel="noopener" target="_blank">PDF</a> (5.9 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000; width: 80%" valign="top">
+			<p><a name="USA"> <strong>USA</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>ASCE. (2020). ASCE 7-16 Tsunami Design Zone Maps for Selected Locations. Retrieved from https://ascelibrary.org/doi/book/10.1061/9780784480748</li>
+				<li>ASCE. (2017). Probabilistic Tsunami Design Maps for the ASCE 7-16 Standard. In ASCE 7-16 Tsunami Design Zone Maps for Selected Locations (pp. 1-17).</li>
+				<li>US FEMA. (2019). <em>Guidelines for Design of Structures for Vertical Evacuation from Tsunamis</em> . FEMA P646, 3rd ed., USA. (original 2008). A revised guide for community resource planning, and background, guidance, and commentary on technical design provisions in ASCE/SEI 7-16. Keywords: Mitigation, Building Code</li>
+				<li>Wood, N., Jones, J., &amp; Peters, J. (2017). Pedestrian Evacuation Analyst Tool. Retrieved from https://www.usgs.gov/software/pedestrian-evacuation-analyst-tool Summary: Evacuation Analyst (which includes ability to model proposed VE sites). Keywords: Engineering Assessment</li>
+				<li>Yeh, H., Robertson, I., &amp; Preuss, J. (2005). <em>Development of Design Guidelines for Structures that Serve as Tsunami Vertical Evacuation Sites</em> . USA Summary: An exploratory study on building safely against seismic-tsunami loads. Keywords: Building Code</li>
+				<li>National Weather Service. (2018). <em>National Tsunami Hazard Mitigation Program Strategic Plan 2018 - 2023</em> . Department of Commerce: 8-10. Retrieved from https://nws.weather.gov/nthmp/documents/<br />
+				NTHMPStrategicPlan.pdf. Summary: The National Tsunami Hazard Mitigation Program 2018-2023 Strategy 2.2.2 aims to help high-risk communities develop vertical evacuation plans. Keywords: Mitigation<br />
+				&nbsp;</li>
+			</ul>
+
+			<p><strong>USA - AMERICAN SAMOA</strong></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Wood, N., Jones, J., Yamazaki, Y., Cheung, K.-F., Brown, J., Jones, J., &amp; Abdollahian, N. (2019). Population vulnerability to tsunami hazards informed by previous and projected disasters: a case study of American Samoa. <em>Natural Hazards, 95</em> (3), 505-528. doi:10.1007/s11069-018-3493-7. Summary: Vertical evacuation structures may be considered in areas of lengthy pedestrian travel time. Figure 13 shows estimated pedestrian travel times for American Samoa villages of Leone, Nu&rsquo;uuli, and Aunu&rsquo;u. Keywords: Engineering Assessment</li>
+			</ul>
+
+			<p>&nbsp;</p>
+
+			<p><strong>USA - CALIFORNIA</strong></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Miller, K., LaDuke, Y., Wilson, R., &amp; Pridmore, C. (2019). <em>Application of Probabilistic Tsunami Products. 2019 National Tsunami Hazard Mitigation Program Winter Meetings, Topical Workshops</em> . Retrieved from https://nws.weather.gov/nthmp/2019annualmeeting/<br />
+				ApplicationProbablistic.pdf. Summary: CalOES identifies inundation maps, evacuation planning, and assists communities with vertical evacuation structure plans. Keywords: Engineering Assessment</li>
+			</ul>
+
+			<p>&nbsp;</p>
+
+			<p><strong>USA - GUAM</strong></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Hawaii Emergency Management Agency. (2015). Retrieved from https://dod.hawaii.gov/hiema/public-resources/tsunami-evacuation-zone/ Summary: Guam tsunami evacuation map. Keyword: Response</li>
+			</ul>
+
+			<p>&nbsp;</p>
+
+			<p><strong>USA - HAWAII</strong></p>
+
+			<p style="text-align: justify;">Hawaii has had a policy of vertical evacuation for Waikiki, Oahu, since the 1990s.&nbsp;On any day, it is estimated that on any day there are more than 50,000 tourists (many non-English speakers), workers, school children, shoppers, beachgoers, and residents crammed into a three square mile area that has just 4 evacuation routes inland.&nbsp;The situation presents a nightmare for safe evacuation within a 3-hour tsunami warning window before the nearest tsunami hits from the Aleutian Islands. As result, the City &amp; County of Honolulu implemented a vertical evacuation policy for Waikiki, and this has been extended for the island of Oahu and other islands.&nbsp;The policy permits evacuation to the fourth floor or higher in structural steel or reinforced concrete or buildings 10 stories or higher.</p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>ASCE. (2017). Oahu: Waikiki to Honolulu International Airport. Retrieved from https://ascelibrary.org/doi/10.1061/9780784480748.047 Summary: ASCE PDF of ASCE 7-16 Tsunami Design Zone for Waikiki to Honolulu International Airport on Oahu Island, Hawaii. Keyword: Mitigation</li>
+				<li>Carden, Lyle &amp; Yu, Guangren &amp; Chock, G. &amp; Robertson, Ian. (2016). Tsunami-Resilient Building Designs for Hawaii and Other High Hazard Regions. Summary: Research article encourages Risk Category II buildings to be designed for tsunami loads. Keyword: Mitigation</li>
+				<li>Department of Emergency Management. (2020). Tsunami. Retrieved from http://www.honolulu.gov/site-dem-sitearticles/35781-tsunami.html Summary: Homepage with links to descriptions and maps of tsunami evacuation routes and arrival times. Keyword: Response</li>
+				<li style="margin-left: 30px;">Oahu Tsunami Evacuation Map</li>
+				<li style="margin-left: 30px;">Tsunami Facts Frequently asked questions</li>
+				<li style="margin-left: 30px;">Safe Room Planning</li>
+				<li>Hwang, D. O., Darren K. (2019). <em>Homeowner&rsquo;s handbook to prepare for natural hazards</em> . Retrieved from University of Hawai&rsquo;i Sea Grant College Program Fourth Edition, Version 4.0: 46-53. https://seagrant.soest.hawaii.edu/homeowners-handbook-to-prepare-for-natural-hazards/. Summary: This handbook helps homeowners prepare for a natural hazard to reduce risks to property and family. Keywords: Response</li>
+				<li>State of Hawaii Department of Accounting and General Services State Buliding Code Council. (2018). State Building Code Adoption. Summary: Per November 13, 2018 report, all Hawaii counties adopt reference section 1615 Tsunami loads and effects.</li>
+				<li>Wood, N., Jones, J., Peters, J., &amp; Richards, K. (2018). Pedestrian evacuation modeling to reduce vehicle use for distant tsunami evacuations in Hawaiʻi. <em>International Journal of Disaster Risk Reduction, 28</em> , 271-283. doi:10.1016/j.ijdrr.2018.03.009 Summary: Oahu Tsunami Evacuation Map references</li>
+			</ul>
+
+			<p>&nbsp;</p>
+
+			<p><strong>USA - OREGON</strong></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Gabel, L., et al. (2020). Beat the Wave Maps. Retrieved from https://www.oregongeology.org/tsuclearinghouse/<br />
+				beatthewave.htm. Summary: Beat the wave tsunami evacuation map modeling that include evaluation of potential vertical evacuation structure locations for various Oregon communities. Warrenton and Clatsop Spit, Clatsop County, Oregon, O-16-08. Rockaway Beach, Tillamook County, Oregon, O-17-06. Port Orford, Curry County, Oregon, O-20-05. Newport, Lincoln County, Oregon, O-19-05. Lincoln City and unincorporated Lincoln County, Oregon, O-19-06. Keywords: Response</li>
+				<li>Hatfield Marine Science Center. (2020). Retrieved from https://hmsc.oregonstate.edu/marine-studies-building#Engineering%20Model. Summary: Example tsunami vertical evacuation building with video on foundation construction. Keywords: Building Code</li>
+				<li>Wang, Y. (2010). Tsunami Evacuation Building Workshop, September 28-29, 2009, Cannon Beach, Seaside, and Portland, Oregon. DOGAMI Open-File Report O-10-02. Summary: The Cascadia Region Earthquake Workgroup (CREW) held the first regional workshop that addressed tsunami vertical evacuation as a new means to protect people and improve community recovery. Keywords: Response</li>
+			</ul>
+
+			<p>&nbsp;</p>
+
+			<p><strong>USA - WASHINGTON</strong></p>
+
+			<p>Washington Emergency Management Division. (2018). Manual for Tsunami Vertical Evacuation Structures. Retrieved from Camp Murray, WA: https://mil.wa.gov/asset/5cffea88adefb. Summary: Documentation and media to support vertical evacuation structures in Washington. Keywords: Mitigation, Response, Building Code</p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Manual for Tsunami Vertical Evacuation Structures, 2018.</li>
+				<li>Executive Summary</li>
+				<li>Checklist. 7 steps</li>
+				<li>Ocosta Elementary School, 1st US Vertical Evacuation&nbsp;Structure, 2016</li>
+				<li style="margin-left: 30px;">Poster, T. Walsh, J. Schelling C. Ash, R. LaVeque, L. Adams, and&nbsp;F. Gonzales, Geological Soc. Amer, 2014</li>
+				<li style="margin-left: 30px;">&lsquo;It will happen here&rsquo;: Washington Coast school builds nation&rsquo;s first&nbsp;tsunami refuge, Seattle Times, June 9, 2016</li>
+				<li style="margin-left: 30px;">Stronger than Waves, video, NOAA</li>
+				<li>Wood, N., Jones, J., Schelling, J., &amp; Schmidtlein, M. (2014). Tsunami vertical-evacuation planning in the U.S. Pacific Northwest as a geospatial, multi-criteria decision problem. <em>International Journal of Disaster Risk Reduction, 9</em> , 68-83. doi:10.1016/j.ijdrr.2014.04.009. Summary: A case study of tsunami-vertical evacuation sitting in Ocean Shores, Washington. Keywords: Engineering Assessment</li>
+				<li>Adams, L. M., Gonz&aacute;lez, F. I., &amp; LeVeque, R. J. (2020). UW Tsunami Modeling Group Modeling Projects and Reports. Retrieved from http://depts.washington.edu/ptha/projects/index.html. Summary: A link to continually updated University of Washington&rsquo;s tsunami modeling group website. See documents &ldquo;Modeling for Aberdeen School District (2020)&rdquo;, &ldquo;Modeling for Shoalwater Bay Tribe (2020)&rdquo;, and &ldquo;Issues Encountered with ASCE Compatibility Criteria (2019)&rdquo;. Keywords: Engineering Assessment</li>
+				<li>Farley, G. (2020). Washington lab gets NASA grant for earthquake and tsunami warnings. Retrieved from https://www.king5.com/article/weather/earthquakes/pnw-organization-gets-grant-from-nasa-to-create-early-tsunami-warnings/281-1ba418db-775a-4bfc-b166-56f1b0500ae5 Summary: Report on new NASA grant. Keyword: Mitigation</li>
+				<li>Yeh, Harry, Robertson, Ian, &amp; Preuss, Jane (2005) Development of design guidelines for structures that serve as tsunami vertical evacaution sites. Washington Division of Geology and Earth Resources Open File Report 2005-4, 34 p. http://www.dnr.wa.gov/Publications/ger_ofr2005-4_tsunami_evac_site_design_guidelines.zip</li>
+				<li>Jones, J.M., Ng, P., Wood, N.J., 2014, The pedestrian evacuation analyst&mdash;Geographic information systems software for modeling hazard evacuation potential: U.S. Geological Survey Techniques and Methods, book 11, chap. C9, 25 p., http://dx.doi.org/10.3133/tm11C9.</li>
+				<li>Mostafizi, Alireza, Wang, Haizhong, Cox, Dan, &amp; Dong, Shangjia (2019) An agent-based vertical evacuation model for a near-field tsunami: Choice behavior, logical shelter locations, and life safety. International Journal of Disaster Risk Reduction, v. 34, p. 467-479, https://doi.org/10.1016/j.ijdrr.2018.12.018.</li>
+				<li>Park, Sangki, van de Lindt, J. W., Gupta, Rakesh, &amp; Cox, Daniel (2012) Method to determine the locations of tsunami vertical evacuation shelters. Natural Hazards, v. 63, p. 891-908, DOI 10.1007/s11069-012-0196-3.</li>
+				<li>Chock, G. Y. K., Carden, Lyle, Robertson, Ian, Wei, Yong, Wilson, Rick, &amp; Hooper, John (2018) Tsunami-Resilient Building Design Considerations for Coastal Communities of Washington, Oregon, and California. Journal of Structural Engineering, 144(8), https://doi.org/10.1061/(ASCE)ST.1943-541X.0002068.</li>
+				<li>Wang, Haizong, Mostafizi, Alireza, Cramer, L. A., Cox, Dan, Park, hyoungsu (2016) An agent-based model of a multimodal near-field tsunami evacuation: Decision-making and life safety. Transportation Research Part C: Emerging Technologies, v. 64, p. 86-100, https://doi.org/10.1016/j.trc.2015.11.010.</li>
+				<li>Cawley, Jessica Grace (2014) Review of Guidelines for the Design of Tsunami Vertical Evacuation Buildings. Oregon State University Master of Science thesis, 81 p., https://ir.library.oregonstate.edu/concern/graduate_thesis_<br />
+				or_dissertations/dn39x412j.</li>
+				<li>Chock, Gary, Yu, Guangren, Thio, Hong Kie, &amp; Lynett, P. J. (2016) Target Structural Reliability Analysis for Tsunami Hydrodynamic Loads of the ASCE 7 Standard. Journal of Structural Engineering, 142(11), https://doi.org/10.1061/(ASCE)ST.1943-541X.0001499.</li>
+				<li>Adams, L. M., Gonzalez, F. I., &amp; LeVeque, R. J. (2020) Preliminary Modeling Study of a Vertical Evacuation Structure Site for the Aberdeen School District. University of Washington Department of Earth and Space Sciences Faculty Report, 32 p., https://digital.lib.washington.edu/researchworks/handle/<br />
+				1773/45387.</li>
+				<li>Adams, L. M., Gonzalez, F. I., &amp; LeVeque, R. J. (2020) Modeling Study of a Proposed Vertical Evacuation Structure Site for the Shoalwater Bay Tribe Final Project Report. University of Washington Department of Earth and Space Sciences Faculty Report, 36 p., https://digital.lib.washington.edu/researchworks/handle/<br />
+				1773/45287.</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://ascelibrary.org/doi/book/10.1061/9780784480748" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<a href="https://ascelibrary.org/doi/pdf/10.1061/9780784480748.001" rel="noopener" target="_blank">PDF</a> (1.7 MB)<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/FEMAP646_ThirdEdition_508.pdf" target="_blank">PDF</a>&nbsp;(23 MB)<br />
+			<br />
+			<br />
+			<a href="https://www.usgs.gov/software/pedestrian-evacuation-analyst-tool" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/ofr05-4.pdf" target="_blank">PDF</a> (5.9 MB)<br />
+			<br />
+			<br />
+			<a href="https://nws.weather.gov/nthmp/documents/NTHMPStrategicPlan.pdf" rel="noopener" target="_blank">PDF</a>&nbsp;(2.3 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://link.springer.com/content/pdf/10.1007/s11069-018-3493-7.pdf" rel="noopener" target="_blank">PDF</a> (1.7 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://nws.weather.gov/nthmp/2019annualmeeting/ApplicationProbablistic.pdf" rel="noopener" target="_blank">Website </a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;</p>
+			&nbsp;
+
+			<p>&nbsp;</p>
+
+			<p><br />
+			<a href="https://dod.hawaii.gov/hiema/public-resources/tsunami-evacuation-zone/" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://ascelibrary.org/doi/pdf/10.1061/9780784480748.047" rel="noopener" target="_blank">PDF</a> (20 MB)<br />
+			<br />
+			<br />
+			<a href="https://www.researchgate.net/publication/307578298_Tsunami-Resilient_Building_Designs_for_Hawaii_and_Other_High_Hazard_Regions" rel="noopener" target="_blank">Website</a></p>
+
+			<p>&nbsp;</p>
+
+			<p><a href="http://www.honolulu.gov/site-dem-sitearticles/35781-tsunami.html" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="http://cchnl.maps.arcgis.com/apps/webappviewer/index.html?id=39a9e07068a14d01a85b437adcf50beb" rel="noopener" target="_blank">Website</a><br />
+			<a href="http://www.honolulu.gov/rep/site/dem/dem_imgs/2019_English_TsuFacts.pdf" rel="noopener" target="_blank">PDF</a> (2.6MB)<br />
+			<a href="http://www.honolulu.gov/rep/site/dem/dem_imgs/2019.09.13_SafeRoom_ENGLISH_FINAL.pdf" rel="noopener" target="_blank">PDF</a> (1.6MB)<br />
+			<a href="https://seagrant.soest.hawaii.edu/wp-content/uploads/2019/12/Hawaii-Homeowners-Handbook-Fourth-Ed.-final1.pdf" rel="noopener" target="_blank">PDF</a> (6.5 MB)<br />
+			<br />
+			&nbsp;</p>
+
+			<p><a href="https://ags.hawaii.gov/wp-content/uploads/2018/12/Hawaii_State_Building_Code_20181113.pdf" rel="noopener" target="_blank">PDF</a> (23 MB)<br />
+			<br />
+			<br />
+			<a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/2018_-_IJDRR_-_Oahu_evacuations.pdf" target="_blank">PDF</a> (2 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.oregongeology.org/tsuclearinghouse/beatthewave.htm" rel="noopener" target="_blank">Website </a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://hmsc.oregonstate.edu/marine-studies-building#Engineering%20Model" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/WA_VertEvacStructures_manual_5cffea88adefb.pdf" target="_blank">PDF</a> (15 B)<br />
+			<a href="/media/itic-car/vertical_evac/tsunami-vertical-executive-summary-111218.pdf" target="_blank">PDF</a> (1.7MB)<br />
+			<a href="/media/itic-car/vertical_evac/tsunami-vertical-checklist.pdf" target="_blank">PDF</a> (89KB)<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/Walsh_et_al_GSA_2014_final_reduced.pdf" target="_blank">PDF</a>&nbsp;(6.0MB)<br />
+			<a href="/media/itic-car/vertical_evac/It%20will%20happen%20here-%20Washington%20Coast%20school%20builds%20nations%20first%20tsunami%20refuge%20_%20The%20Seattle%20Ti.pdf" target="_blank">PDF</a> (689KB)<br />
+			<a href="https://www.youtube.com/watch?list=PLBDwPnveHho-lAbv8l0-lNLEJkXnPS2UP&amp;time_continue=1&amp;v=jwKed3RMb_g&amp;feature=emb_title" rel="noopener" target="_blank">YouTube</a><br />
+			<a href="https://www.sciencedirect.com/science/article/pii/S2212420914000387" rel="noopener" target="_blank">PDF</a> (3.5 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="http://depts.washington.edu/ptha/projects/index.html" rel="noopener" target="_blank">Website </a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.king5.com/article/weather/earthquakes/pnw-organization-gets-grant-from-nasa-to-create-early-tsunami-warnings/281-1ba418db-775a-4bfc-b166-56f1b0500ae5" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="http://www.dnr.wa.gov/Publications/ger_ofr2005-4_tsunami_evac_site_design_guidelines.zip" rel="noopener" target="_blank">ZIP</a><br />
+			<br />
+			<br />
+			<a href="https://doi.org/10.3133/tm11C9" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://doi.org/10.1016/j.ijdrr.2018.12.018" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://www.researchgate.net/publication/257632872_Method_to_determine_the_locations_of_tsunami_vertical_evacuation_shelters" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<a href="https://doi.org/10.1061/(ASCE)ST.1943-541X.0002068" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://doi.org/10.1016/j.trc.2015.11.010" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/dn39x412j" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://ascelibrary.org/doi/10.1061/(ASCE)ST.1943-541X.0001499" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<a href="https://digital.lib.washington.edu/researchworks/handle/1773/45387" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<br />
+			<a href="https://digital.lib.washington.edu/researchworks/handle/1773/45287" rel="noopener" target="_blank">Website</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align: justify;"><a name="Indian_ocean"> <strong> <span style="text-decoration: underline;"> <strong>INDIAN OCEAN</strong> </span> </strong> </a></p>
+
+<p>&nbsp;</p>
+
+<table cellpadding="2" cellspacing="1" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; width: 80%; margin-left: 40px; padding: 5px;"><strong>Document Title</strong></td>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; margin-left: 40px; padding: 5px;"><strong>Format/Size</strong></td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Intergovernmental Oceanographic Commission. (2018). Capacity assessment of tsunami preparedness in the Indian Ocean: status report, 2018 and Supplement 1 IOC. Technical series 143. In: UNESCO/IOC. Summary: The 2018 capacity assessment reviews high-level strategic documents and progress in tsunami warning and mitigation in Indian Ocean Member States. Keywords: Mitigation</li>
+				<li>Suppasri, A., Goto, K., Muhari, A., Ranasinghe, P., Riyaz, M., Affan, M., . . . Imamura, F. (2015). A Decade After the 2004 Indian Ocean Tsunami: The Progress in Disaster Preparedness and Future Challenges in Indonesia, Sri Lanka, Thailand and the Maldives. <em>Pure and Applied Geophysics, 172</em> (12), 3313-3341. doi:10.1007/s00024-015-1134-6. Summary: This article reports on and discusses the vulnerabilities found during field visits to the tsunami-affected countries-namely, Indonesia, Sri Lanka, Thailand, and the Maldives. Future challenges based on evacuation facilities are explained. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<a href="https://reliefweb.int/sites/reliefweb.int/files/resources/373680eng.pdf" rel="noopener" target="_blank">PDF</a> (8.5 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://link.springer.com/content/pdf/10.1007/s00024-015-1134-6.pdf" rel="noopener" target="_blank">PDF</a> (6.1 MB)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><strong><a name="India">INDIA</a> </strong></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Chandramohan, P., Anu, A. P., Vaigaiarasi, V., &amp; Dharmalingam, K. (2017). Environmental management and emergency preparedness plan for Tsunami disaster along Indian coast. The International Journal of Ocean and Climate Systems, 8(3), 144-152. doi:10.1177/1759313117708253. Summary: Emergency preparedness plan and disaster management plan in natural disasters. Figure 4 shows a conceptual layout of an Emergency Tsunami Rescue Shelter. Keywords: Building Code</li>
+				<li>Odisha Tsunami Cyclone shelter images. Summary: Identifies possible tsunami vertical evacuation shelters. Keyword: Response</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://journals.sagepub.com/doi/pdf/10.1177/1759313117708253" rel="noopener" target="_blank">PDF</a> (1.8 MB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="/media/itic-car/vertical_evac/Odisha_India_SrinivasaKumar.zip" target="_blank">Images</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><strong><a name="Indonesia">INDONESIA</a> </strong></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>McCaughey, J. W., Mundir, I., Daly, P., Mahdi, S., &amp; Patt, A. (2017). Trust and distrust of tsunami vertical evacuation buildings: Extending protection motivation theory to examine choices under social influence. <em>International Journal of Disaster Risk Reduction, 24</em> , 462-473. doi:https://doi.org/10.1016/j.ijdrr.2017.06.016. Summary: This article measures social trust and distrust of vertical evacuation structures among residents of Banda Aceh, Indonesia. Keywords: Engineering Assessment</li>
+				<li>Muhari, A., Koshimura, S., &amp; Imamura, F. (2012). Performance evaluation of pedestrian bridge as vertical evacuation site during the 2011 tsunami in Japan. <em>Natural Disaster Science, 34</em> , 79-90. Retrieved from https://www.jsnds.org/jnds/34_1_5.pdf. Summary: Vertical evacuation using pedestrian bridges in Indonesia. Keywords: Engineering Assessment</li>
+				<li>Indian Ocean Tsunami Information Centre, U. I. (2015). <em>Pembangunan Tempat Evakusai Sementara (TES) Tahun Anggaran 2015</em> . Retrieved from https://iowave.org/data-regarding-tsunami-vertical-evacuation-centres-indonesia/. Summary: This document shows engineering drawings, satellite images, and field pictures of vertical evacuation structures in Indonesia. Keywords: Engineering Assessment</li>
+				<li>Usman, F., &amp; Sari, I. C. (2019). <em>Determining the Location of Shelters for Tsunami Evacuation Based on Service Area Analysis in Paseban Village, Kencong Sub-District, Jember District</em> . Paper presented at the 4rd International Conference in Planning in the 2019 Era of Uncertainty. doi:https://dog.org/10.1088/1755-1315/328/1/012039. Summary: This article determines vertical evacuation shelters based on building parameters. Keywords: Engineering Assessment</li>
+				<li>Syukri, A., &amp; Sari, D. (2020). <em>Accessibility Analysis of Potential Vertical Evacuation Site (PVES) from Tsunami of West Sumatra Governor&rsquo;s Office Escape Building in Padang</em> . Summary: The study determines travel time vulnerability, evacuation ratio, and capacity for a West Sumatra Governors Escape Building, the first building constructed as a potential vertical evacuation site in Padang City, West Sumatra. Keywords: Engineering Assessment</li>
+				<li>Anas Ismail, F., Sunaryati, J., &amp; Sahputra Deded, E. (2020). Optimum Structural Design of Self-Supported Shelter for Tsunami Evacuation in Padang City. <em>E3S web of conferences, 156</em> , 05013. doi:10.1051/e3sconf/202015605013. Summary: This article analysis tsunami vertical evacuation shelters in Padang City. Table 3 lists potential vertical shelters in Padang city. Keywords: Engineering Assessment</li>
+				<li>Ashar, F., Amaratunga, D., &amp; Haigh, R. (2014). The Analysis of Tsunami Vertical Shelter in Padang City. <em>Procedia Economics and Finance, 18</em> (C), 916-923. doi:10.1016/S2212-5671(14)01018-1. Summary: This article analysis tsunami vertical evacuation shelters in Padang City. Table 3 lists potential vertical shelters in Padang city. Keywords: Engineering Assessment</li>
+				<li>Billy, R. (2018). Assessment of Vulnerability of Escape Building against Earthquake and Tsunami at Padang City. <em>Journal of the civil engineering forum (Online), 4</em> (3), 253-264. doi:10.22146/jcef.34034. Summary: This study evaluates and maps vulnerability potentials of all escape buildings for earthquake and tsunami hazards. Keywords: Engineering Assessment</li>
+				<li>Fauzan, Hakam, A., Yuliet, R., &amp; Vincensius Osman, J. (2019). Structural evaluation of Ikhwatun shelter building constructed on liquefaction potential area in Padang city, Indonesia. <em>MATEC Web of Conferences, 276</em> , 01019. doi:10.1051/matecconf/201927601019. Summary: This study evaluates the tsunami load resistance of Ikhwatun shelter building located in Koto Tangah Subdistrict of Padang City. Keywords: Engineering Assessment</li>
+				<li>Kurniati, T., Sy, A., &amp; Purnawan, P. (2020). The accessibility of tsunami prone areas society towards potential shelters: a case study in Padang Barat sub-district. <em>E3S web of conferences, 156</em> , 04001. doi:10.1051/e3sconf/202015604001. Summary: This study determines level of accessibility to possible shelters based on travel time and road widths. Section 2.2 discusses vertical evacuation. Keywords: Engineering Assessment</li>
+				<li>Siregar, N. (2019). The effect of tsunami loads on Pasar Raya Inpres Block III building in Padang City based on FEMA P-646. <em>MATEC Web of Conferences, 258</em> . doi:10.1051/matecconf/201925803020. Summary: This article modeled the structural failure of Pasar Raya Inpres Block III building in Padang City due to tsunami loads that was planned for use as a vertical evacuation structure. Keywords: Building Code, Engineering Assessment</li>
+				<li>Tanjung, J., Maidiawati, &amp; Nugroho, F. (2019). Seismic Performance Evaluation of a Multistory RC Building in Padang City. <em>MATEC Web of Conferences, 258</em> , 03018. doi:10.1051/matecconf/201925803018. Summary: This article recommends an existing multistory reinforced concrete building in Padang city to be used as a vertical evacuation structure excellent seismic performance. Keywords: Engineering Assessment</li>
+				<li>Husna, M., Faisal, F., &amp; Teuku, A. (2019). Location Mapping And Tsunami Disaster Evacuation Pathway Using Dijkstra Algorithm In Kota Sigli District, Pidie District. <em>International journal of multicultural and multireligious understanding, 6</em> (2), 748-759. doi:10.18415/ijmmu.v6i2.763. Summary: This article recommends 24 buildings in 7 villages in Sigli City Sub District for vertical evacuation assuming structural feasibility and access standards are met. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://www.sciencedirect.com/science/article/pii/S2212420917302108" rel="noopener" target="_blank">PDF</a> (602 KB)<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.jsnds.org/jnds/34_1_5.pdf" rel="noopener" target="_blank">PDF</a> (921 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="http://iowave.org/wp-content/uploads/2016/09/tsunami-vertical-evacuation-centres-data.pdf" rel="noopener" target="_blank">PDF</a> (1.9 MB, Indonesian)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://iopscience.iop.org/article/10.1088/1755-1315/328/1/012039/pdf" rel="noopener" target="_blank">PDF</a> (619 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://iopscience.iop.org/article/10.1088/1757-899X/846/1/012035/pdf" rel="noopener" target="_blank">PDF</a> (855 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/16/e3sconf_iceedm2020_05013.pdf" rel="noopener" target="_blank">PDF</a> (1.7 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.sciencedirect.com/science/article/pii/S2212567114010181" rel="noopener" target="_blank">PDF</a> (602 KB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://jurnal.ugm.ac.id/jcef/article/view/34034/22149" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2019/25/matecconf_icancee2019_01019.pdf" rel="noopener" target="_blank">PDF</a> (1.8 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/16/e3sconf_iceedm2020_04001.pdf" rel="noopener" target="_blank">PDF</a> (2 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2019/07/matecconf_scescm2019_03020.pdf" rel="noopener" target="_blank">PDF</a> (1.9 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2019/07/matecconf_scescm2019_03018.pdf" rel="noopener" target="_blank">PDF</a> (2.3 MB)<br />
+			<br />
+			<br />
+			<br />
+			<a href="https://ijmmu.com/index.php/ijmmu/article/view/763/559" rel="noopener" target="_blank">Website</a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="SriLanka"> <strong>SRI LANKA</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Woharika Kaumudi, W., Akihiko, H., &amp; Yuko, I. (2011). Tsunami Risk Mitigation Through Strategic Land-Use Planning and Evacuation Procedures for Coastal Communities in Sri Lanka. <em>Science of tsunami hazards, 30</em> (3), 163-177. Summary: This paper introduces post disaster coastal villages/settlements with a future coastline hazard risk in a future tsunami. Keywords: Engineering Assessment, Mitigation</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="http://tsunamisociety.org/303WeerasingheEtAlc.pdf" rel="noopener" target="_blank">PDF</a> (363 KB) <a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/The New Chapter 6 on Tsunami Loads and Effects in ASCE 7-16 Chock_2015.pdf" target="_blank"> </a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align: justify;"><a name="North_Atlantic_Mediterranean"> <strong> <span style="text-decoration: underline;"> <strong>NORTH ATLANTIC AND MEDITERRANEAN</strong> </span> </strong> </a></p>
+
+<p>&nbsp;</p>
+
+<table cellpadding="2" cellspacing="1" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; width: 80%; margin-left: 40px; padding: 5px;"><strong>Document Title</strong></td>
+			<td style="background-color: #C5E5F5; border: 1px solid #000000; margin-left: 40px; padding: 5px;"><strong>Format/Size</strong></td>
+		</tr>
+		<tr>
+			<td style="padding: 10px; border: 1px solid #000000;">
+			<p><a name="Turkey"> <strong>TURKEY</strong> </a></p>
+
+			<ul style="list-style-position: outside; margin-left: 15px;">
+				<li>Cankaya, Z., Suzen, M., Yalciner, A., Kolat, C., Zaytsev, A., &amp; Aytore, B. (2016). A new GIS-based tsunami risk evaluation: MeTHuVA (METU tsunami human vulnerability assessment) at Yenikapi, Istanbul. <em>Earth, Planets and Space (Online), 68</em> (1), 1-22. doi:10.1186/s40623-016-0507-0. Summary: This article provides evacuation resilience analysis at Yenikapi Region, Istanbul. Keywords: Engineering Assessment</li>
+			</ul>
+			</td>
+			<td style="padding: 10px; border: 1px solid #000000; margin-left: 40px;" valign="top">
+			<p><br />
+			<br />
+			<a href="https://earth-planets-space.springeropen.com/track/pdf/10.1186/s40623-016-0507-0" rel="noopener" target="_blank">PDF</a> (6.8 MB) <a href="https://legacy.itic.ioc-unesco.org/images/stories/vertical_evac/The New Chapter 6 on Tsunami Loads and Effects in ASCE 7-16 Chock_2015.pdf" target="_blank"> </a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+  
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+                </div><!-- <div class="full-width-border"> -->
+
+                <div class="partial-width-borderbottom feature-block">
+                    <!-- area for features, frontpage thumbs, and custom page -->
+                    
+                    
+                </div><!-- end of <div class="partial-width-borderbottom feature-block"> -->
+
+                <div class="full-width-first">
+                    <div class="full-width-first communication-links">
+                <div class ="one-half-last nopad">
+        <span class="txt-rt myforecast-current">
+            <div class="myforecast-current">
+                <a href="/rss_page.php?site_name=itic-car" target="_blank" style="text-decoration:none;font-size:11px;">
+                    <img src="/bundles/templating/images/social/rss.png" width="16" height="16" alt="ITIC-CAR RSS Feed" />&nbsp;&nbsp;ITIC-CAR RSS Feed
+                </a>
+            </div>
+        </span>
+    </div>
+</div>
+<div style="clear:both;"></div>
+
+
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            <style type="text/css">
+    .footer-column-head a:link, .footer-column-head a:visited {
+        color: #ED7A08;
+    }
+</style>
+<div class="footer-content">
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+    </div>
+
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                Int. Tsunami Information Center Caribbean Office<br />                c/o Puerto Rico Seismic Network, Building D<br />
+                259 Boulevard Alfonso Valdés<br />                Mayagüez, PR 00680
+                <br />787-832-4040<br />
+                <br /><a href="mailto:Christa.vonH@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>

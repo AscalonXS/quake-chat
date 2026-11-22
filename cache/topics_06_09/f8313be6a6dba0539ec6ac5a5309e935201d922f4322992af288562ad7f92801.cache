@@ -1,0 +1,1249 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="h-100">
+  <head>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-GY6PZWRQKK"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-GY6PZWRQKK');
+		</script>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/live/s3fs-public/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://blog.response.restoration.noaa.gov/tsunamis-know-signs-hear-stories-and-get-prepared" />
+<link rel="shortlink" href="https://blog.response.restoration.noaa.gov/node/553" />
+
+    <title>Tsunamis: Know the Signs, Hear the Stories, and Get Prepared! | NOAA&#039;s Office of Response &amp; Restoration Blog</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/normalize-css/normalize.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/back_to_top/css/back_to_top.css?togltv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_style.css?togltv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/css/extlink.css?togltv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media/css/social_media.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/base/elements.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/layout.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/action-links.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/breadcrumb.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/button.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/collapse-processed.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/container-inline.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/details.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/exposed-filters.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/field.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/form.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/icons.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/inline-form.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/item-list.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/link.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/links.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/menu.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/more-link.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/pager.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tabledrag.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tableselect.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tablesort.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tabs.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/textarea.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/ui-dialog.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/messages.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/node.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/block.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/book.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/breadcrumb.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/captions.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/comments.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/container-inline.module.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/contextual.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/demo-block.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/dropbutton.component.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/featured-top.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/feed-icon.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/field.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/form.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/forum.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/header.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/help.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/highlighted.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/item-list.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/list-group.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/list.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/main-content.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/menu.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/messages.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/node.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/node-preview.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/page-title.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/pager.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/panel.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/primary-menu.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/search-form.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/search-results.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/secondary-menu.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/shortcut.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/skip-link.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/sidebar.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/site-branding.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/site-footer.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/table.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/tablesort-indicator.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/tabs.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/text-formatted.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/toolbar.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/featured-bottom.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/password-suggestions.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/ui.widget.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/vertical-tabs.component.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/views.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/buttons.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/image-button.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/ui-dialog.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/colors.css?togltv" />
+<link rel="stylesheet" media="print" href="/themes/contrib/bartik/css/print.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/custom/child_of_bartik/css/child_of_bartik_orr_blog.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/custom/child_of_bartik/css/responsive_child_of_bartik_orr_blog.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/custom/child_of_bartik/css/components/site-footer.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/custom/child_of_bartik/css/components/sidebar.css?togltv" />
+<link rel="stylesheet" media="all" href="/themes/custom/child_of_bartik/css/components/main-content.css?togltv" />
+
+    
+		<script src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA" id="_fed_an_ua_tag"></script>
+  </head>
+  <body class="layout-one-sidebar layout-sidebar-second path-node page-node-type-blog-post    bg- d-flex flex-column h-100">
+        <div class="visually-hidden focusable skip-link p-3 container">
+      <a href="#main-content" class="p-2">
+        Skip to main content
+      </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+      <div class="section layout-container clearfix">
+        
+          <div class="clearfix region region-header">
+    <div id="block-child-of-bartik-branding" class="clearfix site-branding block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-branding__logo">
+      <img src="/themes/custom/child_of_bartik/css/images/orrHeaderPlaceholder160h.jpg" alt="Home" />
+    </a>
+    </div>
+
+  </div>
+
+        
+      </div>
+    </header>
+          <div class="highlighted">
+        <aside class="layout-container section clearfix" role="complementary">
+            <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div id="main" class="layout-main clearfix">
+          <div class="region region-breadcrumb">
+    <div id="block-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+        </ol>
+  </nav>
+
+    </div>
+  </div>
+
+  </div>
+
+        <main id="content" class="column main-content" role="main">
+          <section class="section">
+            <a id="main-content" tabindex="-1"></a>
+              <div class="region region-content">
+    <div id="block-child-of-bartik-page-title" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+
+  <h1 class="title page-title"><span class="field field--name-title field--type-string field--label-hidden">Tsunamis: Know the Signs, Hear the Stories, and Get Prepared!</span>
+</h1>
+
+
+    </div>
+  </div>
+<div id="block-child-of-bartik-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article data-history-node-id="553" class="node node--type-blog-post node--promoted node--view-mode-full clearfix">
+  <header>
+    
+        
+          <div class="node__meta">
+        
+        <span>
+          Posted <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2021-12-02T18:26:39-05:00" title="Thursday, December 2, 2021 - 18:26" class="datetime">Thu, 12/02/2021 - 18:26</time>
+</span>
+        </span>
+        
+      </div>
+      </header>
+  <div class="node__content clearfix">
+    
+            <div class="field field--name-field-blog-author field--type-string field--label-hidden field__item">By Kim Albins, Office of Response and Restoration Disaster Preparedness Program</div>
+      
+      <div class="field field--name-field-blog-bricks field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">
+<div class="eck-entity">
+    
+            <div class="clearfix text-formatted field field--name-field-blog-text field--type-text-long field--label-hidden field__item"><p dir="ltr"><img src="/live/s3fs-public/inline-images/unnamed%20%2862%29.png" data-entity-uuid="ac5869c5-89e2-4c69-aeb9-adf831dfaf6f" data-entity-type="file" alt="A graphic for &quot;World Tsunami Day.&quot;" width="438" height="443" class="align-right" loading="lazy">Imagine this: you are sitting on a beautiful beach enjoying a lovely day, when out of the blue an alarm blasts from your phone and reads “Tsunami warning.” Do you know where you would go and what to do? What if you aren’t in the U.S. and there are no alarms, would you know the signs of an approaching tsunami?</p><p dir="ltr">Tsunamis are the stuff of nightmares! While they don’t occur very often, when they do they can be devastating and deadly. Have you thought about the actions you can take immediately after an alert is received to ensure the safety of yourself and others? Is your coastal town <a href="https://www.weather.gov/tsunamiready/#" data-saferedirecturl="https://www.google.com/url?q=https://www.weather.gov/tsunamiready/%23&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw0dQiIKnjj-PQJUHp5oP1Fz" target="_blank">TsunamiReady</a>® and taking the threat of a tsunami into consideration for coastal development and planning? Nov. 5 was <a href="https://tsunamiday.undrr.org/" data-saferedirecturl="https://www.google.com/url?q=https://tsunamiday.undrr.org/&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw20tCIbBiRZzH7hPuRQn8LZ" target="_blank">World Tsunami Awareness Day</a> and we in the Disaster Preparedness Program believe that preparedness begins with knowledge and understanding.</p><p dir="ltr"><strong>What exactly is a tsunami?</strong>&nbsp;A <a href="https://www.tsunami.noaa.gov/tsunami-story" data-saferedirecturl="https://www.google.com/url?q=https://www.tsunami.noaa.gov/tsunami-story&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw3JE1OeaFDZ47ln13jdFKi2" target="_blank">tsunami </a>is a series of long period ocean waves that can cause severe flooding and unusually strong currents created by a large and sudden displacement of the ocean, most often caused by an earthquake.&nbsp;</p><p dir="ltr"><strong>What are the natural signs of an approaching tsunami?</strong> Depending on where you are located and the source of the tsunami, the following are natural signs that could indicate an approaching tsunami:</p><ol dir="ltr"><li role="presentation">A long earthquake lasting 20-seconds or more.&nbsp;</li><li role="presentation">A very strong earthquake that knocks you off your feet.</li><li role="presentation">A rapid, unusual rise or fall in the water level.&nbsp;</li><li role="presentation">A loud roar from the ocean</li></ol><p dir="ltr"><strong>How do I know the risk of a tsunami?</strong></p><p dir="ltr"><strong><img src="/live/s3fs-public/inline-images/unnamed_4.jpeg" data-entity-uuid="e366d713-66e5-4447-8db9-cab352043787" data-entity-type="file" alt="A &quot;Tsunami Hazard&quot; sign." width="474" height="359" class="align-right" loading="lazy"></strong>Tsunami expert, Dr. Walter Dudley, in a recent lecture on our <a href="https://response.restoration.noaa.gov/lecture-series" data-saferedirecturl="https://www.google.com/url?q=https://response.restoration.noaa.gov/lecture-series&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw1hkEa2v07F0ttQITNircBk" target="_blank">You Don't Know What You Don't Know Lecture Series</a>, reminded us that a tsunami can happen on any coast! &nbsp;However, they are more likely to occur in the Pacific and in the Caribbean. There are a few ways to know if the area you live, work or are vacationing at is at risk of a tsunami.</p><ol dir="ltr"><li role="presentation">Notice the signs! NOAA, in partnership with local and state governments as part of the <a href="https://nws.weather.gov/nthmp/about_program.html" data-saferedirecturl="https://www.google.com/url?q=https://nws.weather.gov/nthmp/about_program.html&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw2u4B-sMiyMSha2AZrLGJJu" target="_blank">National Tsunami Hazard Mitigation Program</a>, has adopted signs that indicate when you are entering a Tsunami Hazard Zone and also along tsunami evacuation routes.</li><li role="presentation">Map it! Depending on your location there are detailed <a href="https://nws.weather.gov/nthmp/maps.html" data-saferedirecturl="https://www.google.com/url?q=https://nws.weather.gov/nthmp/maps.html&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw0OMbN6xX9kn2oIrrTxtTMe" target="_blank">maps</a> indicating the tsunami hazard <a href="https://www.tsunamizone.org/knowyourzone/" data-saferedirecturl="https://www.google.com/url?q=https://www.tsunamizone.org/knowyourzone/&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw1NpEmmD2Ob-tld5gG5Y-BH" target="_blank">zone</a>.&nbsp;</li><li role="presentation">Know the risk of <a href="https://www.usgs.gov/media/images/2018-long-term-national-seismic-hazard-map" data-saferedirecturl="https://www.google.com/url?q=https://www.usgs.gov/media/images/2018-long-term-national-seismic-hazard-map&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw02k_eEaIC_49U5yafnNN4R" target="_blank">earthquake activity</a> and location of seismic gaps. Earthquakes are not <a href="https://www.usgs.gov/faqs/can-you-predict-earthquakes?qt-news_science_products=0#qt-news_science_products" data-saferedirecturl="https://www.google.com/url?q=https://www.usgs.gov/faqs/can-you-predict-earthquakes?qt-news_science_products%3D0%23qt-news_science_products&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw229zyXS5Nuyjw549E1_y_e" target="_blank">predictable</a>. However, scientists continually seek to better understand the probability of an earthquake occurring. <a href="https://www.usgs.gov/publications/earthquake-recurrence-and-risk-assessment-circum-pacific-seismic-gaps" data-saferedirecturl="https://www.google.com/url?q=https://earthquake.usgs.gov/learn/glossary/?term%3Dseismic%2520gap&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw2_H5iO6iI0K5VUoImu4Fpn" target="_blank">Seismic gaps</a> are areas that typically experience earthquake/ seismic activity, but have not in a long period of time. Therefore, there is potential that stored stress will at some point slip, producing a large earthquake. Scientists look for areas that have seismic gaps in order to determine potential risk of large earthquakes that could result in tsunamis.&nbsp;</li></ol><p dir="ltr"><strong>Is someone watching for potential tsunamis?&nbsp;</strong></p><p dir="ltr">Yes! NOAA’s Tsunami program has you covered! NOAA operates <a href="https://www.tsunami.gov/?page=info" data-saferedirecturl="https://www.google.com/url?q=https://www.tsunami.gov/?page%3Dinfo&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw3uV3mWCUPYWIPbqEkB1LFR" target="_blank">two Tsunami Warning Centers</a> that monitor for tsunamis and earthquakes that may cause them around the clock. They also forecast tsunami impacts and issue tsunami messages and warnings. The two warning centers serve the continental United States, Alaska, Canada, the Hawaiian Islands, the U.S. Pacific and Caribbean territories, and the British Virgin Islands. NOAA also works internationally with the United Nations to provide detection and threat advice across the <a href="http://itic.ioc-unesco.org/index.php" data-saferedirecturl="https://www.google.com/url?q=http://itic.ioc-unesco.org/index.php&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw2DiVnHIgCU-RltGVLf0i7m" target="_blank">globe</a>.</p><img src="/live/s3fs-public/inline-images/unnamed%20%2863%29.png" data-entity-uuid="8235b608-73b3-41b5-a45f-747608432c7f" data-entity-type="file" alt="A tsunami alert graphic." class="align-center" width="512" height="295" loading="lazy"><p dir="ltr"><strong>What do I do when an alarm sounds or I see signs of a possible tsunami?</strong></p><p dir="ltr">If you are in a hazard zone and you feel a long, strong earthquake (one that lasts for 20 seconds or more) and/or receive a tsunami warning, it is important to:</p><ol dir="ltr"><li role="presentation">Remain Calm.</li><li role="presentation">If there is an earthquake, drop, cover, and hold on during the earthquake.</li><li role="presentation">Quickly walk or run to higher ground (100’ above sea level) or inland (1 mile) outside of the Tsunami Hazard Zone.</li><li role="presentation">If you are not able to move that distance, move to the fourth floor or higher in a sturdy building.</li><li role="presentation">Once you are in a secure place, do not return to the coastal zone until after you get an all clear message from authorities. Tsunami waves can continue for hours. The first wave may not be the largest.</li></ol><p dir="ltr"><strong>How do I prepare for a tsunami?</strong></p><p dir="ltr">Many people live, work, or go to school in a tsunami hazard zone. If you do, it is important to identify where your closest safezone is and plan out the quickest, walkable route there. Once you have a plan, practice it! One way to do this is by conducting a <a href="https://www.tsunamizone.org/wp-content/themes/tsunami/downloads/Tsunami_Walk_Template.pdf" data-saferedirecturl="https://www.google.com/url?q=https://www.tsunamizone.org/wp-content/themes/tsunami/downloads/Tsunami_Walk_Template.pdf&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw0Vzvbnt1ZukKCvHjXK_01l" target="_blank">Tsunami Walk</a>. A tsunami walk is a drill in which participants walk their evacuation route and compare the time it takes to the potential arrival time of tsunami waves. If safety zones are not accessible, talk with your local officials. Make sure your community is <a href="https://www.weather.gov/tsunamiready/#" data-saferedirecturl="https://www.google.com/url?q=https://www.weather.gov/tsunamiready/%23&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw0dQiIKnjj-PQJUHp5oP1Fz" target="_blank">TsunamiReady®</a>.</p><p dir="ltr"><strong>Learn from survivors</strong></p><p dir="ltr">Because tsunamis don’t happen frequently, it is important to keep the stories of survivors and the history of tsunami events alive. This reminds us of the very real impact tsunamis can have on ordinary lives. Places like the <a href="http://www.tsunami.org/" data-saferedirecturl="https://www.google.com/url?q=http://www.tsunami.org/&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw3vs-11vwcnH6WGhp_kTxSE" target="_blank">Pacific Tsunami Museum</a> in Hilo, Hawaii have taken great effort to record the oral history of tsunami survivors. The United Nations has also worked to record <a href="https://tsunamiday.undrr.org/learn" data-saferedirecturl="https://www.google.com/url?q=https://tsunamiday.undrr.org/learn&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw1X1soowgqeZjgh3AGEDmMK" target="_blank">videos of survivor accounts</a> from across the globe. <a href="https://www.youtube.com/watch?v=4cSPVnusdrE" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4cSPVnusdrE&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw3GwqnnLlC9RxnrZWNbcqKX" target="_blank">The Alaska Department of Homeland Security</a> has recorded stories from the 1964 earthquake and tsunami survivors. Even some of our NOAA colleagues, like Dwayne Meadows, are tsunami survivors. It is worthwhile to take time to <a href="https://www.weather.gov/media/news/DwayneMeadowsSurvivalStory.pdf" data-saferedirecturl="https://www.google.com/url?q=https://www.weather.gov/media/news/DwayneMeadowsSurvivalStory.pdf&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw1XW5ujrA8GmrmemCO0mZjr" target="_blank">read </a>or <a href="https://www.youtube.com/watch?v=LU7BVDKnbFc" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLU7BVDKnbFc&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw2ynWU2xIdeQC4Iz1gp1gqt" target="_blank">watch </a>accounts like Dwayne’s. They are not only touching, they also bring to life what seems unimaginable. No one wants to imagine a life altering disaster, but lives can be saved if we prepare. Take action and get prepared!&nbsp;</p><p dir="ltr"><strong>Tsunami References and Resources:</strong></p><ul dir="ltr"><li>NOAA’s Tsunami Program: <a href="https://tsunami.gov/?page=info" data-saferedirecturl="https://www.google.com/url?q=https://tsunami.gov/?page%3Dinfo&amp;source=gmail&amp;ust=1638554341954000&amp;usg=AOvVaw0roL9eZngMO8nws0-K9GB6" target="_blank">https://tsunami.gov</a></li><li>NOAA’s Tsunami Ready Program: <a href="https://www.weather.gov/tsunamiready/" data-saferedirecturl="https://www.google.com/url?q=https://www.weather.gov/tsunamiready/&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw3K1b37_w7laRQLN_B_BGCh" target="_blank">https://www.weather.gov/</a><wbr><a href="https://www.weather.gov/tsunamiready/" data-saferedirecturl="https://www.google.com/url?q=https://www.weather.gov/tsunamiready/&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw3K1b37_w7laRQLN_B_BGCh" target="_blank">tsunamiready/</a></li><li>NOAA’s Center for Tsunami Research: <a href="https://nctr.pmel.noaa.gov/index.html" data-saferedirecturl="https://www.google.com/url?q=https://nctr.pmel.noaa.gov/index.html&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw3h7qRDYHAzTzU6s61NK0Cx" target="_blank">https://nctr.pmel.noaa.gov/</a><wbr><a href="https://nctr.pmel.noaa.gov/index.html" data-saferedirecturl="https://www.google.com/url?q=https://nctr.pmel.noaa.gov/index.html&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw3h7qRDYHAzTzU6s61NK0Cx" target="_blank">index.html</a></li><li>NOAA’s National Center For Environmental Information, Tsunami Data and Information: <a href="https://www.ngdc.noaa.gov/hazard/tsu.shtml" data-saferedirecturl="https://www.google.com/url?q=https://www.ngdc.noaa.gov/hazard/tsu.shtml&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw1mTLMJLyvGEAAfLoG7Ck16" target="_blank">https://www.ngdc.noaa.gov/</a><wbr><a href="https://www.ngdc.noaa.gov/hazard/tsu.shtml" data-saferedirecturl="https://www.google.com/url?q=https://www.ngdc.noaa.gov/hazard/tsu.shtml&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw1mTLMJLyvGEAAfLoG7Ck16" target="_blank">hazard/tsu.shtml</a></li><li>Ocean Today Tsunami Awareness Film: <a href="https://oceantoday.noaa.gov/tsunamiawareness/" data-saferedirecturl="https://www.google.com/url?q=https://oceantoday.noaa.gov/tsunamiawareness/&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw0R4PPqDkKhxIaJV6aFTa1J" target="_blank">https://oceantoday.noaa.gov/</a><wbr><a href="https://oceantoday.noaa.gov/tsunamiawareness/" data-saferedirecturl="https://www.google.com/url?q=https://oceantoday.noaa.gov/tsunamiawareness/&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw0R4PPqDkKhxIaJV6aFTa1J" target="_blank">tsunamiawareness/</a></li><li>The National Tsunami Hazard Mitigation Program: <a href="https://nws.weather.gov/nthmp/about_program.html" data-saferedirecturl="https://www.google.com/url?q=https://nws.weather.gov/nthmp/about_program.html&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw1AoN-8RWbNXFLV9l4pILVB" target="_blank">https://nws.weather.gov/nthmp/</a><wbr><a href="https://nws.weather.gov/nthmp/about_program.html" data-saferedirecturl="https://www.google.com/url?q=https://nws.weather.gov/nthmp/about_program.html&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw1AoN-8RWbNXFLV9l4pILVB" target="_blank">about_program.html</a></li><li>FEMA’s Ready Program: <a href="https://www.ready.gov/tsunamis" data-saferedirecturl="https://www.google.com/url?q=https://www.ready.gov/tsunamis&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw2Lyfn2XfVfCRRgGU2jZd-n" target="_blank">https://www.ready.gov/tsunamis</a><wbr>&nbsp;</li><li>The Tsunami Zone: <a href="https://www.tsunamizone.org/" data-saferedirecturl="https://www.google.com/url?q=https://www.tsunamizone.org/&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw2owTZDIFTpbX5kuEvurQSm" target="_blank">https://www.tsunamizone.org/</a></li><li>International Tsunami Information Center: <a href="http://itic.ioc-unesco.org/index.php" data-saferedirecturl="https://www.google.com/url?q=http://itic.ioc-unesco.org/index.php&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw2L1-cdTLmhX6ZAA87DKGDF" target="_blank">http://itic.ioc-unesco.org/</a><wbr><a href="http://itic.ioc-unesco.org/index.php" data-saferedirecturl="https://www.google.com/url?q=http://itic.ioc-unesco.org/index.php&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw2L1-cdTLmhX6ZAA87DKGDF" target="_blank">index.php</a></li><li>UN Tsunami Day: <a href="https://tsunamiday.undrr.org/" data-saferedirecturl="https://www.google.com/url?q=https://tsunamiday.undrr.org/&amp;source=gmail&amp;ust=1638554341955000&amp;usg=AOvVaw2kv5z5rABc-K03ur8bQeON" target="_blank">https://tsunamiday.undrr.org/</a></li></ul></div>
+      
+</div>
+</div>
+          </div>
+  
+  </div>
+</article>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockview-blog-content-after-slideshow-block-1" id="block-views-block-view-blog-content-after-slideshow-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-view-blog-content-after-slideshow view-id-view_blog_content_after_slideshow view-display-id-block_1 js-view-dom-id-1c83f7c1d81880efd3593f4a789e86aabc9c2c0f3b916e71856c70729b76c0f4">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">
+<article data-history-node-id="553" class="node node--type-blog-post node--promoted node--view-mode-blog-content-after-slideshow clearfix">
+  <header>
+    
+          <h2 class="node__title">
+        <a href="/tsunamis-know-signs-hear-stories-and-get-prepared" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Tsunamis: Know the Signs, Hear the Stories, and Get Prepared!</span>
+</a>
+      </h2>
+        
+          <div class="node__meta">
+        
+        <span>
+          Posted <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2021-12-02T18:26:39-05:00" title="Thursday, December 2, 2021 - 18:26" class="datetime">Thu, 12/02/2021 - 18:26</time>
+</span>
+        </span>
+        
+      </div>
+      </header>
+  <div class="node__content clearfix">
+    
+  <div class="field field--name-field-blog-tags field--type-entity-reference field--label-inline clearfix">
+    <div class="field__label">Tags</div>
+          <div class="field__items">
+              <div class="field__item"><a href="/tags/tsunami" hreflang="en">tsunami</a></div>
+          <div class="field__item"><a href="/disaster-preparedness" hreflang="en">disaster preparedness</a></div>
+          <div class="field__item"><a href="/tags/natural-disasters" hreflang="en">Natural Disasters</a></div>
+              </div>
+      </div>
+
+  </div>
+</article>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+          </section>
+        </main>
+                          <div id="sidebar-second" class="column sidebar">
+            <aside class="section" role="complementary">
+                <div class="region region-sidebar-second">
+    <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-child-of-bartik-search" role="search">
+  
+      <h2>Search Blog</h2>
+    
+      <div class="content container-inline">
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+    </div>
+  </div>
+<div id="block-emaillistrequest" class="block block-block-content block-block-contente5ddbb22-04df-45b0-992b-550e6623c815">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://response.restoration.noaa.gov/" target="_blank">Office of Response and Restoration Website</a></p>
+
+<h2 style="font-size:16px;">Email List Request</h2>
+
+<p>Provide your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+
+<p style="text-align: center"><a href="https://public.govdelivery.com/accounts/USNOAANOS/subscriber/new?topic_id=USNOAANOS_140" onclick="window.open('https://public.govdelivery.com/accounts/USNOAANOS/subscriber/new?topic_id=USNOAANOS_140&amp;pop=t', '_blank', 'scrollbars=1,toolbar=0,menubar=0,resizable=1,width=800,height=450');return false;">Subscribe or manage account</a>&nbsp;</p>
+</div>
+      
+    </div>
+  </div>
+<div id="block-socialsharingblock" class="block block-social-media block-social-sharing-block">
+  
+      <h2>Share This Page</h2>
+    
+      <div class="content">
+      
+
+<div class="social-media-sharing">
+  <ul class="">
+                    <li>
+        <a    target="_blank"  rel="nooopener noreffer"  class="facebook-share share"   href="https://www.facebook.com/share.php?u=https://blog.response.restoration.noaa.gov/tsunamis-know-signs-hear-stories-and-get-prepared&amp;title=Tsunamis: Know the Signs, Hear the Stories, and Get Prepared!"
+          title="Facebook">
+                      <img alt="Facebook" src="https://blog.response.restoration.noaa.gov/modules/contrib/social_media/icons/facebook_share.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a    target="_blank"  rel="nooopener noreffer"  class="linkedin share"   href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.response.restoration.noaa.gov/tsunamis-know-signs-hear-stories-and-get-prepared&amp;title=Tsunamis: Know the Signs, Hear the Stories, and Get Prepared!&amp;source=https://blog.response.restoration.noaa.gov/tsunamis-know-signs-hear-stories-and-get-prepared"
+          title="Linkedin">
+                      <img alt="Linkedin" src="https://blog.response.restoration.noaa.gov/modules/contrib/social_media/icons/linkedin.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a    target="_blank"  rel="nooopener noreffer"  class="twitter share"   href="https://twitter.com/intent/tweet?url=https://blog.response.restoration.noaa.gov/tsunamis-know-signs-hear-stories-and-get-prepared&amp;text=Tsunamis: Know the Signs, Hear the Stories, and Get Prepared! - @NOAACleanCoasts "
+          title="Twitter">
+                      <img alt="Twitter" src="https://blog.response.restoration.noaa.gov//themes/custom/child_of_bartik/inline-images/black_x_logo_30on40.png">
+                  </a>
+
+      </li>
+                <li>
+        <a      class="print share"   onclick="window.print()"
+          title="Print">
+                      <img alt="Print" src="https://blog.response.restoration.noaa.gov/modules/contrib/social_media/icons/print.svg">
+                  </a>
+
+      </li>
+      </ul>
+</div>
+
+
+    </div>
+  </div>
+<div id="block-socialmedia" class="block block-block-content block-block-contentd5759a5b-4a99-4333-bc53-4e27d2751cd8">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div style="border:1px solid #ddd;margin-bottom:2em;max-width:300px;padding:1em;"><div class="heading-f">Find us on social media</div><ul class="md-special-body-list-inline"><li><a href="http://www.facebook.com/noaaresponserestoration" id rel target="_blank" title="Facebook"><img src="/live/s3fs-public/inline-images/icon-facebook_0.png" data-entity-uuid="d3e9fb5f-c1fc-4882-8070-7b30d24b7ab1" data-entity-type="file" alt="Facebook." width="24" height="24" loading="lazy"></a></li><li><a href="http://www.twitter.com/noaacleancoasts" id rel target="_blank" title="Twitter"><img src="/live/s3fs-public/inline-images/black_x_logo_30x40.png" data-entity-uuid="958aa12f-8c1e-4389-9d01-caea29118be9" data-entity-type="file" alt="X Logo (Twitter)." width="30" height="40" loading="lazy"></a></li><li><a href="http://www.flickr.com/photos/noaa_response_restoration/" id rel target="_blank" title="Flickr"><img src="/live/s3fs-public/inline-images/icon-flickr_0.png" data-entity-uuid="c9d18270-a740-4bfc-abb9-2dfa6a64d76a" data-entity-type="file" alt="Flickr." width="24" height="24" loading="lazy"></a></li><li><a href="http://www.youtube.com/usoceangov" id rel target="_blank" title="YouTube"><img src="/live/s3fs-public/inline-images/icon-youtube_0.png" data-entity-uuid="fea34c53-c8d0-4f83-a31c-97eb87cc969a" data-entity-type="file" alt="YouTube." width="24" height="24" loading="lazy"></a></li></ul></div></div>
+      
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockstatistics-blog-views-block-1" id="block-child-of-bartik-views-block-statistics-blog-views-block-1">
+  
+      <h2>Most Popular Stories</h2>
+    
+      <div class="content">
+      <div><div class="view view-statistics-blog-views view-id-statistics_blog_views view-display-id-block_1 js-view-dom-id-61262a359f07a9902d1de6e6c7df1387e6726998445b4195c150352b58a8c769">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/tsunamis-know-signs-hear-stories-and-get-prepared" hreflang="en">Tsunamis: Know the Signs, Hear the Stories, and Get Prepared!</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/great-alaska-earthquake-and-tsunami-better-prepared-today" hreflang="en">The Great Alaska Earthquake and Tsunami: Better Prepared Today</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/when-atlantic-hurricane-season" hreflang="en">When is the Atlantic Hurricane Season?</a></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockblog-archives-block-1" id="block-views-block-blog-archives-block-1">
+  
+      <h2>Blog Archives</h2>
+    
+      <div class="content">
+      <div><div class="view view-blog-archives view-id-blog_archives view-display-id-block_1 js-view-dom-id-cf079e374c2961159753ceb07dd0f7fcfad2c4b5a446feefe7c735019862d248">
+  
+    
+      
+      <div class="view-content">
+        <h3><a href="/blog-by-month/202611">November 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202611">November 2026</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202611">November 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202610">October 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202610">October 2026</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202610">October 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202609">September 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202609">September 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202608">August 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202608">August 2026</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202608">August 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202606">June 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202606">June 2026</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202606">June 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202605">May 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202605">May 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202603">March 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202603">March 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202602">February 2026</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202602">February 2026</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202602">February 2026</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202602">February 2026</a></span></div></div>
+  <h3><a href="/blog-by-month/202512">December 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202512">December 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202512">December 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202512">December 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202512">December 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202508">August 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202508">August 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202508">August 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202507">July 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202507">July 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202507">July 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202506">June 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202506">June 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202505">May 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202505">May 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202504">April 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202504">April 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202503">March 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202503">March 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202503">March 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202501">January 2025</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202501">January 2025</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202501">January 2025</a></span></div></div>
+  <h3><a href="/blog-by-month/202412">December 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202412">December 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202412">December 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202412">December 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202411">November 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202411">November 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202411">November 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202410">October 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202410">October 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202409">September 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202409">September 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202408">August 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202408">August 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202407">July 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202407">July 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202407">July 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202407">July 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202407">July 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202407">July 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202406">June 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202406">June 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202405">May 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202405">May 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202403">March 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202403">March 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202403">March 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202402">February 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202402">February 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202402">February 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202402">February 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202401">January 2024</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202401">January 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202401">January 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202401">January 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202401">January 2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202401">January 2024</a></span></div></div>
+  <h3><a href="/blog-by-month/202312">December 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202312">December 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202311">November 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202311">November 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202310">October 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202310">October 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202310">October 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202308">August 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202308">August 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202308">August 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202308">August 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202307">July 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202307">July 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202306">June 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202306">June 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202305">May 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202305">May 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202304">April 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202304">April 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202304">April 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202304">April 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202304">April 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202303">March 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202303">March 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202302">February 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202302">February 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202301">January 2023</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202301">January 2023</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202301">January 2023</a></span></div></div>
+  <h3><a href="/blog-by-month/202212">December 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202212">December 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202211">November 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202211">November 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202211">November 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202211">November 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202210">October 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202210">October 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202210">October 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202210">October 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202209">September 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202209">September 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202209">September 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202209">September 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202208">August 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202208">August 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202208">August 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202208">August 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202207">July 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202207">July 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202206">June 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202206">June 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202206">June 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202206">June 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202205">May 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202205">May 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202205">May 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202205">May 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202205">May 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202204">April 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202204">April 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202203">March 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202203">March 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202203">March 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202203">March 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202202">February 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202202">February 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202202">February 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202201">January 2022</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202201">January 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202201">January 2022</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202201">January 2022</a></span></div></div>
+  <h3><a href="/blog-by-month/202112">December 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202112">December 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202111">November 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202111">November 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202111">November 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202111">November 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202110">October 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202110">October 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202110">October 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202110">October 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202109">September 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202109">September 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202109">September 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202109">September 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202109">September 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202109">September 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202108">August 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202108">August 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202108">August 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202108">August 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202107">July 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202107">July 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202106">June 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202106">June 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202106">June 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202106">June 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202105">May 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202105">May 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202105">May 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202104">April 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202104">April 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202103">March 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202103">March 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202103">March 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202103">March 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202103">March 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202103">March 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202102">February 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202102">February 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202102">February 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202102">February 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202102">February 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202101">January 2021</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202101">January 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202101">January 2021</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202101">January 2021</a></span></div></div>
+  <h3><a href="/blog-by-month/202012">December 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202012">December 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202012">December 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202012">December 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202012">December 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202012">December 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202011">November 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202011">November 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202011">November 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202010">October 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202010">October 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202010">October 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202010">October 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202010">October 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202010">October 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202010">October 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202009">September 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202009">September 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202009">September 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202009">September 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202009">September 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202009">September 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202008">August 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202008">August 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202007">July 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202007">July 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202007">July 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202007">July 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202007">July 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202007">July 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202007">July 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202006">June 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202006">June 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202005">May 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202005">May 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202005">May 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202005">May 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202005">May 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202005">May 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202004">April 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202004">April 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202003">March 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202003">March 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202003">March 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202003">March 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202003">March 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202002">February 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202002">February 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/202001">January 2020</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202001">January 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202001">January 2020</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/202001">January 2020</a></span></div></div>
+  <h3><a href="/blog-by-month/201912">December 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201912">December 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201911">November 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201911">November 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201910">October 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201910">October 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201910">October 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201910">October 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201910">October 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201910">October 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201909">September 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201909">September 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201908">August 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201908">August 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201908">August 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201908">August 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201908">August 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201908">August 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201908">August 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201907">July 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201907">July 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201907">July 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201907">July 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201907">July 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201907">July 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201906">June 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201906">June 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201906">June 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201906">June 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201906">June 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201906">June 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201905">May 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201905">May 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201904">April 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201904">April 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201904">April 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201904">April 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201904">April 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201903">March 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201903">March 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201903">March 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201903">March 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201903">March 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201903">March 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201902">February 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201902">February 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201902">February 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201902">February 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201902">February 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201902">February 2019</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201902">February 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201901">January 2019</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201901">January 2019</a></span></div></div>
+  <h3><a href="/blog-by-month/201812">December 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201812">December 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201812">December 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201812">December 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201811">November 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201811">November 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201811">November 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201811">November 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201811">November 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201811">November 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201811">November 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201810">October 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201810">October 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201810">October 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201810">October 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201810">October 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201810">October 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201810">October 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201809">September 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201809">September 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201809">September 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201809">September 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201809">September 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201809">September 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201809">September 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201808">August 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201808">August 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201808">August 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201808">August 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201808">August 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201808">August 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201807">July 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201807">July 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201807">July 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201807">July 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201807">July 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201806">June 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201806">June 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201805">May 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201805">May 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201804">April 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201804">April 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201803">March 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201803">March 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201802">February 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201802">February 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201801">January 2018</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201801">January 2018</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201801">January 2018</a></span></div></div>
+  <h3><a href="/blog-by-month/201712">December 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201712">December 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201712">December 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201712">December 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201712">December 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201712">December 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201711">November 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201711">November 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201710">October 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201710">October 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201710">October 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201708">August 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201708">August 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201707">July 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201707">July 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201707">July 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201707">July 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201706">June 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201706">June 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201705">May 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201705">May 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201704">April 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201704">April 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201704">April 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201704">April 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201704">April 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201703">March 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201703">March 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201703">March 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201703">March 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201703">March 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201702">February 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201702">February 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201701">January 2017</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201701">January 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201701">January 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201701">January 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201701">January 2017</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201701">January 2017</a></span></div></div>
+  <h3><a href="/blog-by-month/201612">December 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201612">December 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201611">November 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201611">November 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201611">November 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201611">November 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201611">November 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201610">October 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201610">October 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201610">October 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201610">October 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201610">October 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201610">October 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201610">October 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201609">September 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201609">September 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201609">September 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201609">September 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201609">September 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201608">August 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201608">August 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201608">August 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201608">August 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201608">August 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201608">August 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201607">July 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201607">July 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201607">July 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201607">July 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201606">June 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201606">June 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201606">June 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201606">June 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201606">June 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201606">June 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201606">June 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201605">May 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201605">May 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201605">May 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201605">May 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201605">May 2016</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201605">May 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201604">April 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201604">April 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201601">January 2016</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201601">January 2016</a></span></div></div>
+  <h3><a href="/blog-by-month/201508">August 2015</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201508">August 2015</a></span></div></div>
+  <h3><a href="/blog-by-month/201501">January 2015</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201501">January 2015</a></span></div></div>
+  <h3><a href="/blog-by-month/201306">June 2013</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201306">June 2013</a></span></div></div>
+  <h3><a href="/blog-by-month/201207">July 2012</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201207">July 2012</a></span></div></div>
+  <h3><a href="/blog-by-month/201206">June 2012</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201206">June 2012</a></span></div></div>
+  <h3><a href="/blog-by-month/201204">April 2012</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201204">April 2012</a></span></div></div>
+  <h3><a href="/blog-by-month/201003">March 2010</a></h3>
+    <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><a href="/blog-by-month/201003">March 2010</a></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blocktag-cloud-block-1" id="block-views-block-tag-cloud-block-1">
+  
+      <h2>Blog Categories</h2>
+    
+      <div class="content">
+      <div><div class="view-blog-tags view view-tag-cloud view-id-tag_cloud view-display-id-block_1 js-view-dom-id-5a1b0cab3142ae70bdc0ddd176750795d0bc96f57b56a14e760d12c926c3acac">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/oil-spill" hreflang="en">oil spill</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(192)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/emergency-response-division-erd" hreflang="en">Emergency Response Division (ERD)</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(157)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/restoration" hreflang="en">Restoration</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(57)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/assessment-and-restoration-division" hreflang="en">Assessment and Restoration Division</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(56)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/natural-disasters" hreflang="en">Natural Disasters</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(50)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/marine-debris" hreflang="en">Marine Debris</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(49)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/emergency-response" hreflang="en">emergency response</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(44)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/disaster-preparedness" hreflang="en">disaster preparedness</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(41)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/response" hreflang="en">response</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(39)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/preparedness" hreflang="en">preparedness</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(36)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/deepwater-horizon" hreflang="en">Deepwater Horizon</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(33)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/natural-resource-damage-assessment" hreflang="en">Natural Resource Damage Assessment</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(31)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/science" hreflang="en">science</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(30)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/noaa" hreflang="en">NOAA</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(28)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/ocean" hreflang="en">ocean</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(27)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/pollution" hreflang="en">pollution</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(22)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/mapping" hreflang="en">Mapping</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(21)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/us-coast-guard" hreflang="en">U.S. Coast Guard</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(19)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/natural-resources" hreflang="en">natural resources</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(16)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/oil" hreflang="en">oil</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(16)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/coasts" hreflang="en">coasts</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(15)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/erma" hreflang="en">ERMA</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(15)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/hurricanes" hreflang="en">Hurricanes</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(14)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/marine-mammals" hreflang="en">marine mammals</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(14)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/rivers" hreflang="en">Rivers</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(13)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/sea-grant" hreflang="en">Sea Grant</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(13)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/noaas-marine-debris-program" hreflang="en">NOAA’s Marine Debris Program</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(12)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/ship-groundings" hreflang="en">ship groundings</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(12)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/chemicals" hreflang="en">chemicals</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(11)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/abandoned-vessels" hreflang="en">Abandoned Vessels</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(9)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/arctic" hreflang="en">Arctic</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(9)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/exxon-valdez-oil-spill" hreflang="en">Exxon Valdez oil spill</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(9)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/research" hreflang="en">research</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(9)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/superfund-sites" hreflang="en">Superfund sites</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(9)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/coral-reefs" hreflang="en">Coral Reefs</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(8)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/deepwater-horizonbp" hreflang="en">Deepwater Horizon/BP</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(8)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/modeling" hreflang="en">modeling</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(8)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/scientific-support" hreflang="en">scientific support</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(8)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/alaska" hreflang="en">Alaska</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(7)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/national-marine-sanctuaries" hreflang="en">National Marine Sanctuaries</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(7)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/chemical-spills" hreflang="en">Chemical Spills</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(6)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/great-lakes" hreflang="en">Great Lakes</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(6)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/new-jersey" hreflang="en">New Jersey</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(6)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/nrda" hreflang="en">NRDA</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(6)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/prevention" hreflang="en">prevention</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(6)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/marsh" hreflang="en">marsh</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(5)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/response-0" hreflang="en">Response</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(5)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/shipwrecks" hreflang="en">Shipwrecks</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(5)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/washington" hreflang="en">Washington</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(5)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/microplastics" hreflang="en">microplastics</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(4)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/oil-spill-ecology" hreflang="en">oil spill ecology</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(4)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/california" hreflang="en">California</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(3)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/container-ships" hreflang="en">Container ships</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(3)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/fish" hreflang="en">fish</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(3)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/safety" hreflang="en">safety</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(3)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/uas" hreflang="en">UAS</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(3)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/beaches" hreflang="en">beaches</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/canada" hreflang="en">Canada</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/cleanup" hreflang="en">cleanup</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/diesel-spill" hreflang="en">diesel spill</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/endangered-species" hreflang="en">endangered species</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/fishing" hreflang="en">Fishing</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/gulf-america" hreflang="en">Gulf of America</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/history" hreflang="en">History</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/mystery-spill" hreflang="en">mystery spill</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/pacific-northwest" hreflang="en">Pacific Northwest</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/pacific-ocean" hreflang="en">Pacific Ocean</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/puget-sound" hreflang="en">Puget Sound</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/tsunami" hreflang="en">tsunami</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/wildlife" hreflang="en">wildlife</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(2)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/advs" hreflang="en">ADVs</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/amphipod" hreflang="en">amphipod</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/car-carrier" hreflang="en">car carrier</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/clean-vessel-act" hreflang="en">Clean Vessel Act</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/dolphin" hreflang="en">dolphin</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/education" hreflang="en">education</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/essential-functions" hreflang="en">Essential Functions</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/florida-caribbean" hreflang="en">Florida &amp; the Caribbean</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/hawaii" hreflang="en">Hawaii</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/hurricane-idalia" hreflang="en">hurricane idalia</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/icc" hreflang="en">ICC</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/mobile" hreflang="en">Mobile</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/mobile-baykeeper" hreflang="en">Mobile Baykeeper</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/mv-x-press-pearl" hreflang="en">MV X-Press Pearl</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/national-ocean-service" hreflang="en">National Ocean Service</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/new-york" hreflang="en">New York</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/noaa-corps" hreflang="en">noaa corps</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/non-petroleum-oil-spill" hreflang="en">non-petroleum oil spill</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/northeast" hreflang="en">Northeast</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/nurdles" hreflang="en">nurdles</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/oil-slick-thickness" hreflang="en">oil slick thickness</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/one-mile-creek" hreflang="en">One Mile Creek</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/pacific-islands" hreflang="en">Pacific Islands</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/plastics" hreflang="en">plastics</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/sewage" hreflang="en">sewage</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/ship-collision" hreflang="en">ship collision</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/software-technology" hreflang="en">Software Technology</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/training" hreflang="en">training</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/uncrewed-aerial-system" hreflang="en">uncrewed aerial system</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/tags/watersheds" hreflang="en">watersheds</a></span></div><div class="views-field views-field-uuid"><span class="field-content">(1)</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+            </aside>
+          </div>
+              </div>
+    </div>
+        <footer class="site-footer">
+      <div class="layout-container">
+                          <div class="site-footer__bottom">
+						
+              <div class="region region-footer-fifth">
+    <div class="views-element-container block block-views block-views-blockrecently-revised-block-1" id="block-views-block-recently-revised-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-recently-revised view-id-recently_revised view-display-id-block_1 js-view-dom-id-8582a0c1cea84b3b8c969e853a530d3e463f94b4aacebbffcedb4697a57c1c22">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-views-conditional-field"><span class="field-content">Blog Updated  <time datetime="2026-11-13T15:54:54-05:00" class="datetime">November 13, 2026  3:54pm</time></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div id="block-nosfooter" class="block block-block-content block-block-content2adb4dc9-596d-49bb-9925-cf71917a2abf">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://response.restoration.noaa.gov/about/contact-us.html">Contact Us</a> | <a href="https://response.restoration.noaa.gov/disclaimer.html">Disclaimer</a> | <a href="https://response.restoration.noaa.gov/privacy-policy.html" target="_self">Privacy Policy</a> | <a href="http://www.cio.noaa.gov/services_programs/info_quality.html" target="_blank">Information Quality</a> | <a href="https://response.restoration.noaa.gov/about/accessibility-website.html">Accessibility</a> | <a href="http://www.noaa.gov/foia-freedom-of-information-act" target="_blank" title="Freedom of Information Act">FOIA</a> | <a href="https://touchpoints.app.cloud.gov/touchpoints/d1084227/submit">Website Feedback</a></p><p>Website owner: <a href="https://response.restoration.noaa.gov" target="_blank">Office of Response and Restoration</a> | <a href="https://oceanservice.noaa.gov/" target="_blank">NOAA's Ocean Service</a> | <a href="https://www.noaa.gov" target="_blank">National Oceanic and Atmospheric Administration</a> | <a href="https://www.commerce.gov" target="_blank">US Department of Commerce</a> | <a href="https://www.USA.gov" target="_blank">USA.gov</a></p></div>
+      
+    </div>
+  </div>
+<div id="block-child-of-bartik-linktomainwebsite" class="block block-block-content block-block-contentb733f320-e464-4e1c-878c-119ee8440a4f">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://response.restoration.noaa.gov/" target="_blank">Office of Response and Restoration Website</a></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+              </div>
+    </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/553","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":false,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"colorbox":{"transition":"elastic","speed":350,"opacity":0.85,"slideshow":false,"slideshowAuto":true,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":false,"maxWidth":"98%","maxHeight":"98%","initialWidth":"90%","initialHeight":"90%","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"https:\\\/\\\/rr-blog-s3fs\\.s3\\.us-west-2\\.amazonaws\\.com\\\/s3fs-public\\\/","extInclude":"","extCssExclude":".field--name-field-blog-2-images\r\n.field--name-field-blog-2-images\r\n.field--name-field-blog-3-images\r\n.field--name-field-blog-4-images\r\n.field--name-field-blog-5-images\r\n.field--name-field-blog-6-images\r\n.field--name-field-blog-text .file--application-pdf\r\n.caption-img","extCssInclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"This link will take you to a site that is not hosted by the National Oceanic and Atmospheric Administration. You may be subject to different privacy and other policies than those in place on this site.","extHideIcons":false,"mailtoClass":"mailto","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"after","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":["https:\/\/rr-blog-s3fs.s3.us-west-2.amazonaws.com\/s3fs-public","rr-blog-s3fs.s3.us-west-2.amazonaws.com\/s3fs-public","blog.response.restoration.noaa.gov","public.govdelivery.com\/accounts\/USNOAANOS\/subscriber"],"extExcludeNoreferrer":""}},"ajaxTrustedUrl":{"\/search\/node":true},"statistics":{"data":{"nid":"553"},"url":"\/modules\/contrib\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"fd12ca641feead7684919c4d79a1dec6f1b76f03a9d42c1cf8243fe83647ff98"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.20"></script>
+<script src="/core/misc/drupal.js?v=10.6.20"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.20"></script>
+<script src="/modules/contrib/back_to_top/js/back_to_top.js?v=10.6.20"></script>
+<script src="/themes/custom/child_of_bartik/js/blog-scripts.js?v=1.0.3"></script>
+<script src="/libraries/colorbox/jquery.colorbox.js?v=10.6.20"></script>
+<script src="/modules/contrib/colorbox/js/colorbox.js?v=10.6.20"></script>
+<script src="/modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_style.js?v=10.6.20"></script>
+<script src="/libraries/colorbox/jquery.colorbox-min.js?v=10.6.20"></script>
+<script src="/modules/contrib/colorbox_inline/js/colorbox_inline.js?togltv"></script>
+<script src="/modules/contrib/extlink/js/extlink.js?togltv"></script>
+<script src="/modules/contrib/statistics/statistics.js?v=10.6.20"></script>
+
+		<!-- Touchpoints form:  --> 
+    <script src="https://touchpoints.app.cloud.gov/touchpoints/d1084227.js" async></script>
+		<script async src="https://siteimproveanalytics.com/js/siteanalyze_6294131.js"></script>
+  </body>
+</html>
+

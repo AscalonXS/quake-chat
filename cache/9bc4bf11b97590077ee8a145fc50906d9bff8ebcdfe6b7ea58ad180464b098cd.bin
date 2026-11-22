@@ -1,0 +1,3091 @@
+
+
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en">
+    <head>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+        <title itemprop="name">
+            Dislocations - First Aid Advice &amp; Guidance        </title>
+
+        <meta name="title" content="Dislocations - First Aid Advice &amp; Guidance" />
+        <meta name="keywords" content="Dislocations" />
+        <meta name="description" content="Understanding Dislocations: Causes, Symptoms, and Treatment Options. Learn how to help if you encounter a dislocated bone or joint." />
+                <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",                "@type": "WebPage",
+    "url": "https\u003A\/\/www.sjacymru.org.uk\/en\/page\/dislocations",
+    "name": "Dislocations\u0020\u002D\u0020First\u0020Aid\u0020Advice\u0020\u0026\u0020Guidance\u0020\u002D\u0020St\u0020John\u0020Ambulance\u0020Cymru\u0020\u002D\u0020The\u0020first\u0020aid\u0020charity\u0020for\u0020Wales",
+    "image": "https\u003A\/\/www.sjacymru.org.uk\/image\/Logo\/New\u0020Logo_Twitter\u0020Profile\u0020img.png",
+    "dateCreated": "2020\u002D08\u002D12T12\u003A22\u003A26\u002B01\u003A00",
+    "dateModified": "2023\u002D11\u002D07T15\u003A49\u003A46\u002B00\u003A00",
+    "datePublished": "2020\u002D08\u002D12T12\u003A21\u003A00\u002B01\u003A00",
+    "description": "How\u0020to\u0020Perform\u0020First\u0020Aid\u0020for\u0020Dislocations\u0020A\u0020dislocated\u0020joint\u0020happens\u0020when\u0020bones\u0020are\u0020partly\u0020or\u0020completely\u0020pulled\u0020out\u0020of\u0020their\u0020normal\u0020position.\u0020Joints\u0020can\u0020dislocate\u0020when\u0020a\u0020strong\u0020force\u0020wrenches\u0020or\u0020pulls..."            }
+        </script>
+
+        <meta property="og:description" content="Understanding Dislocations: Causes, Symptoms, and Treatment Options. Learn how to help if you encounter a dislocated bone or joint." />
+<meta property="og:image" content="https://www.sjacymru.org.uk/image/Logo/New Logo_Twitter Profile img.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="864" />
+<meta property="og:image:height" content="486" />
+<meta property="og:title" content="Dislocations - First Aid Advice &amp; Guidance - St John Ambulance Cymru - The first aid charity for Wales" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.sjacymru.org.uk/en/page/dislocations" />
+
+        <meta property="twitter:card" content="summary" />
+<meta property="twitter:description" content="Understanding Dislocations: Causes, Symptoms, and Treatment Options. Learn how to help if you encounter a dislocated bone or joint." />
+<meta property="twitter:image" content="https://www.sjacymru.org.uk/image/Logo/New%20Logo_Twitter%20Profile%20img.png" />
+<meta property="twitter:title" content="Dislocations - First Aid Advice &amp; Guidance - St John Ambulance Cymru - The first aid charity for Wales" />
+<meta property="twitter:url" content="https://www.sjacymru.org.uk/en/page/dislocations" />
+
+                            <meta name="theme-color" content="#fbb900" />
+        
+        <script>
+
+            
+function initKlaro() {
+    const config = {
+        version: 2,
+        htmlTexts: true,
+        default: false, // Defines the default state for services (true=enabled by default).
+        acceptAll: true,
+        hideDeclineAll: true,
+        hideLearnMore: false,
+        disablePoweredBy: true,
+        additionalClass: 'c-consent c-consent-force',
+        elementID: 'c-consent',
+        cookieName: 'c-consent',
+        translations: {
+            en: {
+                acceptAll: "Allow all",
+                acceptSelected: "Allow selected",
+                close: "Close",
+                consentModal: {
+                    title: 'Our Cookies',
+                    description: '<p>We use cookies, which are small text files, to improve your experience on our website, track how you engage with our website and track where users are accessing our website from.<br></br>We also use cookies to serve you relevant personalised ads using data collected from previous browsing activity. You can refine the data you’re happy for us to track.</p><p>To find out more information about the cookies we use, please view our <a href="/en/page/privacy-policy" target="_blank">Privacy Policy</a>.<br/><br/> You can always change your preferences later by visiting our <a href="/en/page/privacy-policy" target="_blank">Cookie Policy</a></p>',
+                },
+                consentNotice: {
+                    changeDescription: "There were changes since your last visit, please renew your consent.",
+                    description: '<h3>Our Cookies</h3><p>We use cookies, which are small text files, to improve your experience on our website, track how you engage with our website and track where users are accessing our website from.<br/><br/>We also use cookies to serve you relevant personalised ads using data collected from previous browsing activity. You can refine the data you’re happy for us to track. By using our site, you agree to our <a href="/en/page/privacy-policy" target="_blank">Privacy Policy</a><br/><br/>You can always change your preferences later by visiting our <a href="/en/page/privacy-policy" target="_blank">Privacy Policy</a></p>',
+                    learnMore: 'Settings',
+                    testing: "Testing mode!",
+                },
+                contextualConsent: {
+                    acceptAlways: "Always",
+                    acceptOnce: "Yes",
+                    description: "Do you want to load external content supplied by {title}?",
+                },
+                decline: "Decline all",
+                ok: "Allow all",
+                privacyPolicy: {
+                    name: " ",
+                    text: " ",
+                },
+                purposeItem: { service: "service", services: "services" },
+                purposes: {
+                    advertising: {
+                        description: "These services process personal information to show you personalized or interest-based advertisements.",
+                        title: "Advertising",
+                    },
+                    analytics: {
+                        description: "We use analytical cookies to optimize the website experience for our users. We use Google Analytics cookies to get insights in the usage of our website. View <a href='https://policies.google.com/technologies/partner-sites' target='_blank'>Google's Privacy and Terms policy</a>",
+                        title: "Analytical",
+                    },
+                    functional: {
+                        description: "These cookies ensure that certain parts of the website work properly and that your user preferences remain known, eg user logins and shopping carts. These cookies cannot be disabled.",
+                        title: "Functional",
+                    },
+                    marketing: {
+                        description: "Marketing/Tracking cookies are cookies or any other form of local storage, used to create user profiles to display advertising or to track the user on this website or across several websites for similar marketing purposes.",
+                        title: "Marketing",
+                    },
+                    performance: {
+                        description: "These services process personal information to optimize the service that this website offers.\n",
+                        title: "Performance Optimization",
+                    },
+                },
+                save: "Save",
+                service: {
+                    disableAll: {
+                        description: "Use this switch to enable or disable all services.",
+                        title: "Enable or disable all services",
+                    },
+                    optOut: {
+                        description: "This services is loaded by default (but you can opt out)",
+                        title: "(opt-out)",
+                    },
+                    purpose: "purpose",
+                    purposes: "purposes",
+                    required: {
+                        description: "This services is always required",
+                        title: "(always required)",
+                    },
+                },
+            },
+        },
+        callback: function() {
+            setTimeout(function() {
+                window.dispatchEvent(new Event('consentLoaded'));
+            }, 250);
+        },
+        services: [
+            {
+                name: 'functional',
+                purposes: ['functional'],
+                required: true,
+                cookies: [
+                    ['_GRECAPTCHA'], // Google ReCaotcha
+                    [/^wordpress(_.*)?/], // WordPress
+                    [/^wp-(_.*)?/], // WordPress
+                    ['tk_ai'], // WordPress/Jetpack
+                    ['c-consent', '/', 'www.sjacymru.org.uk'], // Cookie consent
+                ],
+            },
+            {
+                name: 'google-tag-manager',
+                purposes: ['functional'],
+                required: true,
+                onAccept: `
+                    // we notify the tag manager about all services that were accepted. You can define
+                    // a custom event in GTM to load the service if consent was given.
+                    // for(let k of Object.keys(opts.consents)){
+                    //    if (opts.consents[k]){
+                    //        let eventName = 'accept-'+k;
+                    //        dataLayer.push({'event': eventName});
+                    //    }
+                    // }
+
+                    dataLayer.push({'event': 'accept-functional'});
+                    dataLayer.push({'event': 'accept-google-tag-manager'});
+                `,
+                onInit: `
+                    // initialization code here (will be executed only once per page-load)
+                    window.dataLayer = window.dataLayer || [];
+                    window.gConsent = function(){dataLayer.push(arguments)}
+                    gConsent('consent', 'default', {'ad_storage': 'denied', 'analytics_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'security_storage': 'granted', 'functionality_storage': 'granted'})
+                    gConsent('set', 'ads_data_redaction', true)
+                `,
+            },
+            {
+                name: 'google-analytics', // This includes Google Analytics and HotJar
+                purposes: ['analytics'],
+                onAccept: `
+                    gConsent('consent', 'update', {
+                        'analytics_storage': 'granted',
+                    });
+                    dataLayer.push({'event': 'accept-google-analytics'});
+                `,
+                onDecline: `
+                    gConsent('consent', 'update', {
+                        'analytics_storage': 'denied',
+                    });
+                `,
+                cookies: [
+                    [/^_ga(_.*)?/, '/', '.sjacymru.org.uk'],
+                    [/^_gid(_.*)?/, '/', '.sjacymru.org.uk'],
+                ],
+            },
+            {
+                name: 'hotjar-tracking',
+                purposes: ['analytics'],
+                description: "We use Hotjar tracking to monitor how you interact and use our website. We use this data to improve your user experience. View <a href='https://www.hotjar.com/legal/policies/privacy/' target='_blank'>Hotjar's Privacy and Terms policy</a>",
+                onAccept: `
+                    dataLayer.push({'event': 'accept-hotjar-tracking'});
+                `,
+                onDecline: `
+                `,
+                cookies: [
+                    [/^_hj(_.*)?/],
+                ],
+            },
+            {
+                name: 'facebook-marketing',
+                purposes: ['marketing'],
+                description: "We use Facebook pixel to gather data about the users activity on our website. View <a href='https://en-gb.facebook.com/business/m/privacy-and-data' target='_blank'>Facebook's Privacy and Terms policy here</a>",
+                onAccept: `
+                    dataLayer.push({'event': 'accept-facebook-marketing'});
+                `,
+                onDecline: `
+                `,
+                cookies: [
+                    [/^fr(_.*)?/, '/', '.facebook.com'],
+                    [/^datr(_.*)?/, '/', '.facebook.com'],
+                    [/^sb(_.*)?/, '/', '.facebook.com'],
+                ],
+            },
+            {
+                name: 'google-ads',
+                purposes: ['marketing'],
+                description: "We use Google Ads Remarketing to serve relevant and tailored ads based on your previous website activity. View <a href='https://policies.google.com/technologies/partner-sites' target='_blank'>Google's Privacy and Terms policy</a>",
+                onAccept: `
+                    gConsent('consent', 'update', {
+                        'ad_storage': 'granted',
+                        'ad_user_data': 'granted',
+                        'ad_personalization': 'granted'
+                    });
+                    dataLayer.push({'event': 'accept-google-ads'});
+                `,
+                onDecline: `
+                    gConsent('consent', 'update', {
+                        'ad_storage': 'denied',
+                        'ad_user_data': 'denied',
+                        'ad_personalization': 'denied'
+                    });
+                `,
+                cookies: [
+                    [/^IDE(_.*)?/, '/', '.doubleclick.net'],
+                ],
+            }
+        ],
+    };
+
+    window.klaroConfig = config;
+
+    // Fire Klaro up
+    window.klaro = klaro;
+    klaro.setup(window.klaroConfig);
+}
+
+   /* window.CookieConsent.init({
+        modalMainTextMoreLink: '/en/page/privacy-policy',
+        barTimeout: 0,
+        language: {
+            // Current language
+            current: 'en',
+            locale: {
+                en: {
+                    barMainTitle: 'Our Cookies',
+                    barMainText: 'We and our partners use cookies. These are small text files that collect data to improve your experience on our website, and show you personalised content. You can allow all or manage them individually.',
+                    barLinkSetting: 'Manage cookies',
+                    barBtnAcceptAll: 'Allow all',
+                    modalMainTitle: ' Cookie Policy',
+                    modalMainText: 'We and our partners use cookies. These are small text files that collect data to improve your experience on our website, and show you personalised content. You can allow all or manage them individually.',
+                    modalMoreText: 'To find out more information about the cookies we use, please ',
+                    modalBtnSave: 'Save preferences',
+                    modalBtnAcceptAll: 'Accept all',
+                    modalAffectedSolutions: ``,
+                    learnMore: 'Learn More',
+                }
+            }
+        },
+        categories: {
+            necessary: {
+                needed: false,
+                wanted: true,
+                checked: true,
+                language: {
+                    current: 'en',
+                    locale: {
+                        en: {
+                            name: 'Essential',
+                            description: 'These cookies ensure that certain parts of the website work properly and that your user preferences remain known, eg user logins and shopping carts. These cookies cannot be disabled.',
+                        }
+                    }
+                }
+            },
+            analytics: {
+                needed: false,
+                wanted: false,
+                checked: false,
+                language: {
+                    current: 'en',
+                    locale: {
+                        en: {
+                            name: 'Analytics & Marketing',
+                            description: 'We use analytical cookies to optimize the website experience for our users. With these analytical cookies we get insights in the usage of our website. Marketing/Tracking cookies are cookies or any other form of local storage, used to create user profiles to display advertising or to track the user on this website or across several websites for similar marketing purposes.',
+                        }
+                    }
+                }
+            },
+            addthis: {
+                needed: false,
+                wanted: false,
+                checked: false,
+                language: {
+                    current: 'en',
+                    locale: {
+                        en: {
+                            name: 'AddThis',
+                            description: 'AddThis displays a small social widget on some pages. It is used to share pages to social media platforms. AddThis will install cookies on your device in order to function and collect analytical data.',
+                        }
+                    }
+                }
+            }
+        },
+        // List actual services here
+        services: {
+            tagmanager: {
+                category: 'analytics',
+                type: 'dynamic-script',
+                search:'googletagmanager',
+                language: {
+                    locale: {
+                        en: {
+                            name: ''
+                        }
+                    }
+                }
+            },
+            addthis: {
+                category: 'addthis',
+                type: 'dynamic-script',
+                search: 'addthis',
+                cookies: [
+                    {
+                        name: 's_cc',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'loc',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 's_fid',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 's_nr',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'gpw_e24',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'sshs',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'ssh',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'notice_preferences',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'ssc',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'notice_gdpr_prefs',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'uvc',
+                        domain: '.addthis.com'
+                    },
+                    {
+                        name: 'uid',
+                        domain: '.addthis.com'
+                    },
+                ],
+                language: {
+                    locale: {
+                        en: {
+                            name: 'Add This'
+                        }
+                    }
+                }
+            },
+            moatads: {
+                category: 'addthis',
+                type: 'dynamic-script',
+                search: 'moatads',
+                language: {
+                    locale: {
+                        en: {
+                            name: 'Moat Ads'
+                        }
+                    }
+                }
+            }
+        }
+    });
+
+    setTimeout(function() {
+        let ccModalButtons = document.querySelectorAll('#cconsent-bar button, #cconsent-bar a.ccb__edit, #cconsent-modal button');
+        if (ccModalButtons.length) {
+            ccModalButtons.forEach(btn => {
+                btn.innerHTML = '<span>' + btn.innerHTML + '</span>';
+            })
+
+        }
+    }, 1000);*/
+
+</script>
+
+<script defer src="/libs/klaro/klaro.min.js" onload="initKlaro();"></script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        
+                            <link rel="stylesheet" type="text/css" href="/css/front.min.css" />
+            
+        
+
+        <link rel="icon shortcut" type="image/png" href="/image/site/stjohnwales_logoiconfav.png" />
+        <link rel="apple-touch-icon" type="image/png" href="/image/site/stjohnwales_logoiconfav.png" />
+        <link rel="apple-touch-icon-precomposed" type="image/png" href="/image/site/stjohnwales_logoiconfav.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="72x72" href="/image_cache/b/3/8/1/8/b38189f15697b3d8865a71216e6c4a7b1cb653c8.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="76x76" href="/image_cache/5/a/0/f/0/5a0f00c1484247c6dfca9c8ea8b9c41e29f62fc7.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="114x114" href="/image_cache/6/b/5/2/3/6b52368ab577e56a250fdc9b6cc0e09131b3de00.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="120x120" href="/image_cache/c/f/4/d/b/cf4dbb20e78f98457d0aead7a8b1a1f42879949c.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="144x144" href="/image_cache/7/5/1/7/6/75176d3f6bf332abbb3199ee46c4161c97d68f9f.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="152x152" href="/image_cache/9/3/7/6/8/93768e223f0b9e2bd5443a49808c86c6bbd5c682.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="180x180" href="/image_cache/1/7/f/8/1/17f81d7421c4b8c2b2a09f27017b3bf391626e14.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="192x192" href="/image_cache/d/e/b/7/2/deb7296761728f43236e7830c2ee0967ac2dccc7.png" />
+                    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="256x256" href="/image_cache/7/a/e/4/c/7ae4c07f4415163fd549374cbe0580577aeb8010.png" />
+        
+                    <!-- Google Tag Manager -->
+            <script type="application/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NCCCNGP');</script>
+            <!-- End Google Tag Manager -->
+        
+        
+        <!-- TrustBox script -->
+        <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+
+            </head>
+
+    <body class="html page page--index theme--green">
+                    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCCCNGP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        
+
+         
+        <div class="progress-container">
+            <div class="progress-bar" id="myBar"></div>
+        </div>
+
+        <header class="header" style="position: relative;">
+            <div class="pallette__1 header__topbar d-none d-lg-block">
+                <div class="container-wide">
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-end align-items-center">
+                            
+                            <div class="mr-4 header__topbar-search">
+                                <span id="topbar__search" class="header__search"><i class="fal fa-search"></i></span>
+
+                                <a href="/en/cart" class="header__search__cart">
+                                                                            <span class="cart-count" data-cart-item-count="0">0</span>
+                                                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.713" height="29.335" viewBox="0 0 36.713 29.335">
+    <defs>
+      <clipPath id="clip-path">
+        <path id="Clip_4" data-name="Clip 4" d="M0,0H36.713V6.065H0Z" transform="translate(0 0.02)" fill="none"/>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <path id="Clip_21" data-name="Clip 21" d="M0,0H9.68V14.339H0Z" transform="translate(0.053 0.26)" fill="none"/>
+      </clipPath>
+    </defs>
+    <g id="Group_23" data-name="Group 23" transform="translate(0 -0.406)">
+      <path id="Fill_1" data-name="Fill 1" d="M26.286,16.617H5.813A2.994,2.994,0,0,1,2.955,14.27L.02.984A.81.81,0,1,1,1.6.636l2.939,13.3A1.388,1.388,0,0,0,5.813,15H26.282a1.387,1.387,0,0,0,1.269-1.042L30.494.636a.81.81,0,1,1,1.581.349l-2.943,13.3a2.979,2.979,0,0,1-2.846,2.331" transform="translate(2.307 13.123)" fill="#1c1c1b"/>
+      <g id="Group_5" data-name="Group 5" transform="translate(0 8.659)">
+        <path id="Clip_4-2" data-name="Clip 4" d="M0,0H36.713V6.065H0Z" transform="translate(0 0.02)" fill="none"/>
+        <g id="Group_5-2" data-name="Group 5" clip-path="url(#clip-path)">
+          <path id="Fill_3" data-name="Fill 3" d="M33.681,6.065H3.032A3.032,3.032,0,0,1,3.032,0h8.319a.811.811,0,0,1,0,1.622H3.032a1.411,1.411,0,0,0,0,2.822H33.681a1.411,1.411,0,1,0,0-2.822H18.543a.811.811,0,0,1,0-1.622H33.681a3.032,3.032,0,1,1,0,6.065" transform="translate(0 0.02)" fill="#1c1c1b"/>
+        </g>
+      </g>
+      <path id="Fill_6" data-name="Fill 6" d="M16.318,1.622H.811A.811.811,0,0,1,.811,0H16.318a.811.811,0,0,1,0,1.622" transform="translate(9.803 8.68)" fill="#1c1c1b"/>
+      <path id="Fill_8" data-name="Fill 8" d="M1.289,7.3a.406.406,0,0,1-.4-.353L0,.462A.407.407,0,0,1,.81.352l.88,6.49a.409.409,0,0,1-.349.458.211.211,0,0,1-.053,0" transform="translate(8.907 17.765)" fill="#1c1c1b"/>
+      <path id="Fill_10" data-name="Fill 10" d="M.816,7.3a.41.41,0,0,1-.405-.381L0,.43A.4.4,0,0,1,.378,0a.409.409,0,0,1,.43.377l.409,6.491A.4.4,0,0,1,.84,7.3s-.016,0-.024,0" transform="translate(13.442 17.768)" fill="#1c1c1b"/>
+      <path id="Fill_12" data-name="Fill 12" d="M.409,7.3a.262.262,0,0,1-.057,0A.407.407,0,0,1,0,6.842L.883.352A.407.407,0,0,1,1.69.462L.81,6.952a.4.4,0,0,1-.4.353" transform="translate(26.109 17.765)" fill="#1c1c1b"/>
+      <path id="Fill_14" data-name="Fill 14" d="M.4,7.3H.378A.4.4,0,0,1,0,6.868L.411.378A.4.4,0,0,1,1.217.43L.807,6.917A.4.4,0,0,1,.4,7.3" transform="translate(22.049 17.772)" fill="#1c1c1b"/>
+      <path id="Fill_16" data-name="Fill 16" d="M.405,7.306A.407.407,0,0,1,0,6.9V.405a.405.405,0,0,1,.811,0V6.9a.4.4,0,0,1-.405.41" transform="translate(17.947 17.764)" fill="#1c1c1b"/>
+      <path id="Fill_18" data-name="Fill 18" d="M.809,14.338a.828.828,0,0,1-.422-.118A.811.811,0,0,1,.12,13.105L7.912.388a.811.811,0,0,1,1.382.847L1.5,13.952a.806.806,0,0,1-.689.385" transform="translate(6.979 0.407)" fill="#1c1c1b"/>
+      <g id="Group_22" data-name="Group 22" transform="translate(20.27 0.146)">
+        <path id="Clip_21-2" data-name="Clip 21" d="M0,0H9.68V14.339H0Z" transform="translate(0.053 0.26)" fill="none"/>
+        <g id="Group_22-2" data-name="Group 22" clip-path="url(#clip-path-2)">
+          <path id="Fill_20" data-name="Fill 20" d="M8.87,14.339a.811.811,0,0,1-.685-.377L.125,1.244A.811.811,0,0,1,1.5.377L9.555,13.094A.812.812,0,0,1,9.3,14.213a.8.8,0,0,1-.433.126" transform="translate(0.053 0.26)" fill="#1c1c1b"/>
+        </g>
+      </g>
+    </g>
+</svg>
+                                </a>
+                            </div>
+
+                            <div class="d-flex">
+
+                                <ul class="list-unstyled" id="menu-top_bar_menu_account">
+                                    <li>
+                                                                                    <a href="/account/login" class="liner"><span itemprop="name">Log In/Register</span></a>
+                                                                            </li>
+                                                                    </ul>
+
+                                <ul id="menu-top_bar_menu" class="list-unstyled" data-name="Top Bar Menu" data-tag="top_bar_menu"><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/contact" itemprop="url"><span itemprop="name">Contact Us</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/blog/wall" itemprop="url"><span itemprop="name">News</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="https://www.sjacymru.org.uk/en/page/careers" itemprop="url"><span itemprop="name">Vacancies</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="https://www.sja.org.uk/first-aid-supplies/?utm_source=SJACymru%2Futm_medium%3Dshort%20url%2Futm_campaign%3DSJAC-Supplies" itemprop="url"><span itemprop="name">Shop</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="https://sjacymrulottery.co.uk/play-now?utm_source=SJAC_WebHomePlayButton2024&amp;utm_medium=Website&amp;utm_campaign=WebHomeButton24&amp;utm_id=Web002&amp;utm_term=Lottery&amp;utm_content=WebHomeButton24" itemprop="url"><span itemprop="name">Play Our Lottery</span></a></li></ul>
+                            </div>
+
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header__main-content">
+                <div class="container-wide">
+                    <div class="row">
+                        <div class="col-auto header__logo d-flex align-items-center mr-auto">
+                            <a href="https://www.sjacymru.org.uk/" class="d-flex">
+                                                                
+                                                                    <img type="image/svg+xml" srcset="/image/site/logo.svg" alt="logo.svg" }}>
+                                                            </a>
+                        </div>
+
+                        <div class="col-lg d-none d-lg-flex align-items-center mr-xl-3" style="position: unset;">
+                                                        <nav class="nav--header-menu d-none d-lg-block" data-name="Header" data-tag="top_menu"><ul class="nav__list d-flex justify-content-between"><li class="nav-item nav-item--home " itemscope itemtype="http://schema.org/WebPage"><a class="nav-link liner" href="/" itemprop="url"><span itemprop="name"><svg enable-background="new 0 0 63 55" height="55px" id="Layer_1" version="1.1" viewBox="0 0 63 55" width="63px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polygon fill="#231F20" points="32,-0.32 0.68,31 11,31 11,55 25,55 25,41 38,41 38,55 52,55 52,31 63.319,31 "/></svg></span></a></li><li class="nav-item megamenu dropdown" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link dropdown-toggle liner" href="#" data-toggle="dropdown" itemprop="url"><span itemprop="name">First aid advice <i class="fal fa-chevron-down"></i></span></a><ul class="dropdown-menu megamenu__container "><div class="container-wide"><div class="row"><div class="d-none d-lg-block col-lg-3"><h3 class="yellow"><span>First aid advice</span><img data-src="/image_cache/b/d/5/9/4/bd5942fd90d424e29cd8953683f1d4ce3571468e.png" class="lazy item-icon d-none d-xl-inline" alt="First aid advice"/></h3></div></div><div class="row"><div class="d-none d-lg-block col-lg-12 col-xl-3 mb-lg-5 mb-xl-0"><p>Whether you&#039;re looking for first aid advice, medical cover at your event or to learn more on a course, you&#039;ve come to the right place!</p><a href="/en/page/first-aid" class="btn btn--light"><span>Learn More</span></a></div><div class="col-12 col-xl-9 link-section--yellow"><div class="row"><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/first-aid-advice"><span>First Aid for Adults</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/cpr" itemprop="url" ><span itemprop="name">CPR for Adults</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/choking" itemprop="url" ><span itemprop="name">Choking in Adults</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/bleeding" itemprop="url" ><span itemprop="name">Severe Bleeding First Aid</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/advice" itemprop="url" ><span itemprop="name">More first aid advice</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/child-and-infant-first-aid"><span>First Aid for Children and Infants</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/baby-cpr" itemprop="url" ><span itemprop="name">CPR for Infants</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/cpr-child" itemprop="url" ><span itemprop="name">CPR for Children</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/child-and-infant-first-aid" itemprop="url" ><span itemprop="name">More advice</span></a></li></ul></li></ul></li></div></div></div></div></ul></li><li class="nav-item megamenu dropdown" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link dropdown-toggle liner" href="#" data-toggle="dropdown" itemprop="url"><span itemprop="name">Services <i class="fal fa-chevron-down"></i></span></a><ul class="dropdown-menu megamenu__container "><div class="container-wide"><div class="row"><div class="d-none d-lg-block col-lg-3"><h3 class="green"><span>Services</span><img data-src="/image_cache/5/d/0/6/f/5d06f0d96877f89027e76933cb20f6423a1b8dc8.png" class="lazy item-icon d-none d-xl-inline" alt="Services"/></h3></div></div><div class="row"><div class="d-none d-lg-block col-lg-12 col-xl-3 mb-lg-5 mb-xl-0"><p>Our mission is to enhance the health and wellbeing of communities in Wales, and some of the ways we do that is through our healthcare services.</p><a href="/en/page/healthcare-services" class="btn btn--light"><span>Learn More</span></a></div><div class="col-12 col-xl-9 link-section--green"><div class="row"><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/patient-transport-services"><span>Bookable Services</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/page/patient-transport-services" itemprop="url" ><span itemprop="name">Patient Transport Service</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/page/event-medical-cover" itemprop="url" ><span itemprop="name">Event Medical Cover</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/falls-assistance"><span>Contract Services</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/page/falls-assistance" itemprop="url" ><span itemprop="name">Falls Response</span></a></li></ul></li></ul></li></div></div></div></div></ul></li><li class="nav-item megamenu dropdown" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link dropdown-toggle liner" href="#" data-toggle="dropdown" itemprop="url"><span itemprop="name">Training <i class="fal fa-chevron-down"></i></span></a><ul class="dropdown-menu megamenu__container "><div class="container-wide"><div class="row"><div class="d-none d-lg-block col-lg-3"><h3 class="yellow"><span>Training Courses</span><img data-src="/image_cache/f/c/8/1/b/fc81bc324f996f755e0194c1b36205cb4fd52357.png" class="lazy item-icon d-none d-xl-inline" alt="Training Courses"/></h3></div></div><div class="row"><div class="d-none d-lg-block col-lg-12 col-xl-3 mb-lg-5 mb-xl-0"><p>We offer first aid courses for community groups and workplaces.</p><a href="/en/page/training" class="btn btn--light"><span>Learn more</span></a></div><div class="col-12 col-xl-9 link-section--yellow"><div class="row"><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/courses/list/GPC"><span>Community Training</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/list/ELA" itemprop="url" ><span itemprop="name">Free e-learning</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/training"><span>Workplace Courses</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/FAWC" itemprop="url" ><span itemprop="name">First Aid at Work</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/FAWE" itemprop="url" ><span itemprop="name">Emergency First Aid at Work</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/FIRM" itemprop="url" ><span itemprop="name">Fire Marshal</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/MHFA" itemprop="url" ><span itemprop="name">Mental Health First Aid</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/HSIM" itemprop="url" ><span itemprop="name">IOSH Managing Safely</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href=""><span>New courses </span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/EFAB" itemprop="url" ><span itemprop="name">Blended Emergency First Aid at Work</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/courses/FALC" itemprop="url" ><span itemprop="name">Falls Confidence Training</span></a></li></ul></li></ul></li></div></div></div></div></ul></li><li class="nav-item megamenu dropdown" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link dropdown-toggle liner" href="#" data-toggle="dropdown" itemprop="url"><span itemprop="name">Get involved <i class="fal fa-chevron-down"></i></span></a><ul class="dropdown-menu megamenu__container "><div class="container-wide"><div class="row"><div class="d-none d-lg-block col-lg-3"><h3 class="yellow"><span>Get involved</span><img data-src="/image_cache/7/4/5/0/8/74508789a044702208d79171ed6c1e0dce62c0d6.png" class="lazy item-icon d-none d-xl-inline" alt="Get involved"/></h3></div></div><div class="row"><div class="d-none d-lg-block col-lg-12 col-xl-3 mb-lg-5 mb-xl-0"><p>You can get involved with St John Ambulance Cymru in so many different ways. Whether you want to take part in an event, fundraise your own way, remember us when you&#039;re gone, or donate your time by volunteering, there&#039;s always something you can do. </p><a href="/en/page/fundraising" class="btn btn--light"><span>Learn More</span></a></div><div class="col-12 col-xl-9 link-section--yellow"><div class="row"><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="https://www.sjacymru.org.uk/en/page/volunteer"><span>Volunteer</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/page/volunteer" itemprop="url" ><span itemprop="name">Volunteer with us</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://sjacymru.rosterfy.uk/register" itemprop="url" ><span itemprop="name">Sign up</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="https://www.sjacymru.org.uk/young-people"><span>Children and young people</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/badgers" itemprop="url" ><span itemprop="name">Badgers (5-11 year olds)</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/cadets" itemprop="url" ><span itemprop="name">Cadets (11-15 year olds)</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/youth-leaders" itemprop="url" ><span itemprop="name">Youth Leaders</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/fundraising"><span>Fundraise &amp; donate</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/fundraise-at-school" itemprop="url" ><span itemprop="name">Get involved at school</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/corporate-support" itemprop="url" ><span itemprop="name">Corporate Support</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/organising-your-own-event" itemprop="url" ><span itemprop="name">Organising your own event</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/clubs-and-groups" itemprop="url" ><span itemprop="name">Clubs and Groups</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/take-on-a-charity-challenge" itemprop="url" ><span itemprop="name">Take on a charity challenge</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href=""><span>Other ways to support</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://sjacymrulottery.co.uk/play-now?utm_source=SJAC_Weblink2024&amp;utm_medium=Website&amp;utm_campaign=Weblink24&amp;utm_id=Web001&amp;utm_term=Lottery&amp;utm_content=Weblink24" itemprop="url" ><span itemprop="name">Play Our Lifesaving Lottery</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/leave-a-gift-in-your-will" itemprop="url" ><span itemprop="name">Leave a gift in your will</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/in-memory-of" itemprop="url" ><span itemprop="name">In memory giving</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/recycle-and-donate" itemprop="url" ><span itemprop="name">Recycle and Donate</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/page/st-john-of-jerusalem-eye-hospital" itemprop="url" ><span itemprop="name">St John of Jerusalem Eye Hospital</span></a></li></ul></li></ul></li></div></div></div></div></ul></li><li class="nav-item megamenu dropdown" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link dropdown-toggle liner" href="#" data-toggle="dropdown" itemprop="url"><span itemprop="name">About us <i class="fal fa-chevron-down"></i></span></a><ul class="dropdown-menu megamenu__container "><div class="container-wide"><div class="row"><div class="d-none d-lg-block col-lg-3"><h3 class="yellow"><span>About us</span><img data-src="/image_cache/4/2/c/0/4/42c045c941792485f2b315ff32320e1f255fa430.png" class="lazy item-icon d-none d-xl-inline" alt="About us"/></h3></div></div><div class="row"><div class="d-none d-lg-block col-lg-12 col-xl-3 mb-lg-5 mb-xl-0"><p>We&#039;re St John Ambulance Cymru and we are the first aid charity for Wales. With a rich history, we&#039;ve been there for the people of Wales for over 100 years. Whilst we may have changed over the years our work is as important now as it was 100 years ago.</p><a href="/en/page/who-we-are" class="btn btn--light"><span>Learn More</span></a></div><div class="col-12 col-xl-9 link-section--yellow"><div class="row"><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="https://www.sjacymru.org.uk/en/blog/wall"><span>Latest News</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/strategy" itemprop="url" ><span itemprop="name">Strategy 2025-30</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/impact-report" itemprop="url" ><span itemprop="name">Impact Report</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/blog/wall" itemprop="url" ><span itemprop="name">News &amp; Updates</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="https://www.sjacymru.org.uk/en/page/annual-reports" itemprop="url" ><span itemprop="name">Annual Report</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><a class="liner" href="/en/page/our-history"><span>Our History</span></a><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/the-order-of-st-john" itemprop="url" ><span itemprop="name">The Order of St John</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/pro-fide-for-the-faith" itemprop="url" ><span itemprop="name">Pro Fide – For the Faith</span></a></li></ul></li></ul></li><li class="megamenu__section-container column-1"><ul class="megamenu_list"><li><span>Our People</span><ul class="megamenu__section-row"><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/senior-management-team" itemprop="url" ><span itemprop="name">Leadership Team</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/our-volunteers" itemprop="url" ><span itemprop="name">Our Volunteers</span></a></li><li class="megamenu__section-col column-1 "><a class="nav-link liner" href="/en/page/our-board" itemprop="url" ><span itemprop="name">Meet Our Board</span></a><ul class="dropdown-menu"><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link liner" href="/en/page/board-minutes" itemprop="url"><span itemprop="name">Board Minutes</span></a></li></ul></li></ul></li></ul></li></div></div></div></div></ul></li></ul></nav>
+                        </div>
+
+                        <div class="col-auto align-items-center header__main-search">
+                            <span id="header__search" class="header__search"><i class="fal fa-search"></i></span>
+                        </div>
+
+                        <div class="col-auto align-items-center header__main-search">
+
+                            <a href="/en/cart">
+                                                                    <span class="cart-count d-none" data-cart-item-count="0">0</span>
+                                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.713" height="29.335" viewBox="0 0 36.713 29.335">
+    <defs>
+      <clipPath id="clip-path">
+        <path id="Clip_4" data-name="Clip 4" d="M0,0H36.713V6.065H0Z" transform="translate(0 0.02)" fill="none"/>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <path id="Clip_21" data-name="Clip 21" d="M0,0H9.68V14.339H0Z" transform="translate(0.053 0.26)" fill="none"/>
+      </clipPath>
+    </defs>
+    <g id="Group_23" data-name="Group 23" transform="translate(0 -0.406)">
+      <path id="Fill_1" data-name="Fill 1" d="M26.286,16.617H5.813A2.994,2.994,0,0,1,2.955,14.27L.02.984A.81.81,0,1,1,1.6.636l2.939,13.3A1.388,1.388,0,0,0,5.813,15H26.282a1.387,1.387,0,0,0,1.269-1.042L30.494.636a.81.81,0,1,1,1.581.349l-2.943,13.3a2.979,2.979,0,0,1-2.846,2.331" transform="translate(2.307 13.123)" fill="#1c1c1b"/>
+      <g id="Group_5" data-name="Group 5" transform="translate(0 8.659)">
+        <path id="Clip_4-2" data-name="Clip 4" d="M0,0H36.713V6.065H0Z" transform="translate(0 0.02)" fill="none"/>
+        <g id="Group_5-2" data-name="Group 5" clip-path="url(#clip-path)">
+          <path id="Fill_3" data-name="Fill 3" d="M33.681,6.065H3.032A3.032,3.032,0,0,1,3.032,0h8.319a.811.811,0,0,1,0,1.622H3.032a1.411,1.411,0,0,0,0,2.822H33.681a1.411,1.411,0,1,0,0-2.822H18.543a.811.811,0,0,1,0-1.622H33.681a3.032,3.032,0,1,1,0,6.065" transform="translate(0 0.02)" fill="#1c1c1b"/>
+        </g>
+      </g>
+      <path id="Fill_6" data-name="Fill 6" d="M16.318,1.622H.811A.811.811,0,0,1,.811,0H16.318a.811.811,0,0,1,0,1.622" transform="translate(9.803 8.68)" fill="#1c1c1b"/>
+      <path id="Fill_8" data-name="Fill 8" d="M1.289,7.3a.406.406,0,0,1-.4-.353L0,.462A.407.407,0,0,1,.81.352l.88,6.49a.409.409,0,0,1-.349.458.211.211,0,0,1-.053,0" transform="translate(8.907 17.765)" fill="#1c1c1b"/>
+      <path id="Fill_10" data-name="Fill 10" d="M.816,7.3a.41.41,0,0,1-.405-.381L0,.43A.4.4,0,0,1,.378,0a.409.409,0,0,1,.43.377l.409,6.491A.4.4,0,0,1,.84,7.3s-.016,0-.024,0" transform="translate(13.442 17.768)" fill="#1c1c1b"/>
+      <path id="Fill_12" data-name="Fill 12" d="M.409,7.3a.262.262,0,0,1-.057,0A.407.407,0,0,1,0,6.842L.883.352A.407.407,0,0,1,1.69.462L.81,6.952a.4.4,0,0,1-.4.353" transform="translate(26.109 17.765)" fill="#1c1c1b"/>
+      <path id="Fill_14" data-name="Fill 14" d="M.4,7.3H.378A.4.4,0,0,1,0,6.868L.411.378A.4.4,0,0,1,1.217.43L.807,6.917A.4.4,0,0,1,.4,7.3" transform="translate(22.049 17.772)" fill="#1c1c1b"/>
+      <path id="Fill_16" data-name="Fill 16" d="M.405,7.306A.407.407,0,0,1,0,6.9V.405a.405.405,0,0,1,.811,0V6.9a.4.4,0,0,1-.405.41" transform="translate(17.947 17.764)" fill="#1c1c1b"/>
+      <path id="Fill_18" data-name="Fill 18" d="M.809,14.338a.828.828,0,0,1-.422-.118A.811.811,0,0,1,.12,13.105L7.912.388a.811.811,0,0,1,1.382.847L1.5,13.952a.806.806,0,0,1-.689.385" transform="translate(6.979 0.407)" fill="#1c1c1b"/>
+      <g id="Group_22" data-name="Group 22" transform="translate(20.27 0.146)">
+        <path id="Clip_21-2" data-name="Clip 21" d="M0,0H9.68V14.339H0Z" transform="translate(0.053 0.26)" fill="none"/>
+        <g id="Group_22-2" data-name="Group 22" clip-path="url(#clip-path-2)">
+          <path id="Fill_20" data-name="Fill 20" d="M8.87,14.339a.811.811,0,0,1-.685-.377L.125,1.244A.811.811,0,0,1,1.5.377L9.555,13.094A.812.812,0,0,1,9.3,14.213a.8.8,0,0,1-.433.126" transform="translate(0.053 0.26)" fill="#1c1c1b"/>
+        </g>
+      </g>
+    </g>
+</svg>
+                            </a>
+                        </div>
+
+                        <div class="col-auto d-flex align-items-center d-lg-flex">
+                            
+                            <div class="d-none d-lg-flex">
+                                <a class="btn btn--primary btn--banner d-none d-xl-block mr-2" href="/en/page/donate"><span>Please Donate</span></a>
+                                <a class="btn btn--primary btn--banner d-none d-lg-block" href="/en/page/training"><span>Book Courses</span></a>
+                            </div>
+
+                            <div class="mobile-links d-lg-none">
+
+                                
+                                
+
+                                <button id="menu-open" class="hamburger" type="button">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header__group header__mobile d-lg-none">
+                                <nav class="nav--mobile-menu" data-name="Header" id="nav--mobile-menu" data-tag="top_menu"><div class="nav--mobile-menu__header d-flex justify-content-between align-items-center"><div class="d-flex"><span id="header__search--mobile" class="header__search"><i class="fal fa-search"></i></span><div class="header__cart-mobile"><a href="/en/cart"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.923" height="21.512" viewBox="0 0 26.923 21.512"><defs><clipPath id="clip-path"><path id="Clip_4" data-name="Clip 4" d="M0,0H26.923V4.448H0Z" transform="translate(0 0)" fill="#fff"/></clipPath><clipPath id="clip-path-2"><path id="Clip_21" data-name="Clip 21" d="M0,0H7.1V10.515H0Z" transform="translate(0 0)" fill="#fff"/></clipPath></defs><g id="Group_3273" data-name="Group 3273" transform="translate(-187.828 -15)"><path id="Fill_6" data-name="Fill 6" d="M11.966,1.189H.595A.595.595,0,0,1,.595,0H11.966a.595.595,0,0,1,0,1.189" transform="translate(195.018 21.068)" fill="#fff"/><g id="Group_3272" data-name="Group 3272"><path id="Fill_1" data-name="Fill 1" d="M19.276,12.186H4.263a2.2,2.2,0,0,1-2.1-1.721L.014.722A.594.594,0,1,1,1.174.466l2.155,9.754A1.018,1.018,0,0,0,4.263,11H19.273a1.017,1.017,0,0,0,.931-.764L22.362.466a.594.594,0,1,1,1.159.256l-2.158,9.754a2.185,2.185,0,0,1-2.087,1.709" transform="translate(189.52 24.326)" fill="#fff"/><g id="Group_5" data-name="Group 5" transform="translate(187.828 21.068)" clip-path="url(#clip-path)"><path id="Fill_3" data-name="Fill 3" d="M24.7,4.448H2.224A2.224,2.224,0,0,1,2.224,0h6.1a.595.595,0,0,1,0,1.189h-6.1a1.035,1.035,0,0,0,0,2.069H24.7a1.035,1.035,0,1,0,0-2.069H13.6A.595.595,0,0,1,13.6,0H24.7a2.224,2.224,0,0,1,0,4.448" transform="translate(0 0)" fill="#fff"/></g><path id="Fill_8" data-name="Fill 8" d="M.945,5.357A.3.3,0,0,1,.651,5.1L0,.338A.3.3,0,0,1,.594.258l.645,4.759a.3.3,0,0,1-.256.336.154.154,0,0,1-.039,0" transform="translate(194.361 27.73)" fill="#fff"/><path id="Fill_10" data-name="Fill 10" d="M.6,5.355a.3.3,0,0,1-.3-.279L0,.316A.294.294,0,0,1,.277,0,.3.3,0,0,1,.592.277l.3,4.76a.294.294,0,0,1-.276.315s-.012,0-.018,0" transform="translate(197.688 27.732)" fill="#fff"/><path id="Fill_12" data-name="Fill 12" d="M.3,5.357a.192.192,0,0,1-.042,0A.3.3,0,0,1,0,5.018L.648.258a.3.3,0,0,1,.592.08L.594,5.1A.3.3,0,0,1,.3,5.357" transform="translate(206.977 27.73)" fill="#fff"/><path id="Fill_14" data-name="Fill 14" d="M.295,5.352H.277A.3.3,0,0,1,0,5.036L.3.277A.3.3,0,0,1,.893.316l-.3,4.757a.3.3,0,0,1-.3.279" transform="translate(203.998 27.736)" fill="#fff"/><path id="Fill_16" data-name="Fill 16" d="M.3,5.358a.3.3,0,0,1-.3-.3V.3A.3.3,0,0,1,.595.3v4.76a.3.3,0,0,1-.3.3" transform="translate(200.99 27.73)" fill="#fff"/><path id="Fill_18" data-name="Fill 18" d="M.593,10.514a.607.607,0,0,1-.309-.086.594.594,0,0,1-.2-.818L5.8.284A.595.595,0,0,1,6.816.906L1.1,10.232a.591.591,0,0,1-.505.282" transform="translate(192.945 15)" fill="#fff"/><g id="Group_22" data-name="Group 22" transform="translate(202.732 15)" clip-path="url(#clip-path-2)"><path id="Fill_20" data-name="Fill 20" d="M6.5,10.515a.594.594,0,0,1-.5-.276L.092.912a.595.595,0,0,1,1-.636L7.007,9.6a.6.6,0,0,1-.184.821.589.589,0,0,1-.318.092" transform="translate(0 0)" fill="#fff"/></g></g></g></svg></a></div></div><button id="menu-close"><i class="fal fa-times"></i></button></div><ul class="nav__list "><li class="nav-item" itemscope="" itemtype="http://schema.org/WebPage"><a class="nav-link" href="/" itemprop="url"><span>Home</span></a></li><li class="nav-item " itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/first-aid" itemprop="url"><span itemprop="name">First aid advice</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/first-aid-advice" itemprop="url"><span itemprop="name">First Aid for Adults</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/cpr" itemprop="url"><span itemprop="name">CPR for Adults</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/choking" itemprop="url"><span itemprop="name">Choking in Adults</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/bleeding" itemprop="url"><span itemprop="name">Severe Bleeding First Aid</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/advice" itemprop="url"><span itemprop="name">More first aid advice</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/child-and-infant-first-aid" itemprop="url"><span itemprop="name">First Aid for Children and Infants</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/baby-cpr" itemprop="url"><span itemprop="name">CPR for Infants</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/cpr-child" itemprop="url"><span itemprop="name">CPR for Children</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/child-and-infant-first-aid" itemprop="url"><span itemprop="name">More advice</span></a></li></ul></li></ul></li><li class="nav-item " itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/healthcare-services" itemprop="url"><span itemprop="name">Services</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/patient-transport-services" itemprop="url"><span itemprop="name">Bookable Services</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/patient-transport-services" itemprop="url"><span itemprop="name">Patient Transport Service</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/event-medical-cover" itemprop="url"><span itemprop="name">Event Medical Cover</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/falls-assistance" itemprop="url"><span itemprop="name">Contract Services</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/falls-assistance" itemprop="url"><span itemprop="name">Falls Response</span></a></li></ul></li></ul></li><li class="nav-item " itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/training" itemprop="url"><span itemprop="name">Training Courses</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/courses/list/GPC" itemprop="url"><span itemprop="name">Community Training</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/list/ELA" itemprop="url"><span itemprop="name">Free e-learning</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/training" itemprop="url"><span itemprop="name">Workplace Courses</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/FAWC" itemprop="url"><span itemprop="name">First Aid at Work</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/FAWE" itemprop="url"><span itemprop="name">Emergency First Aid at Work</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/FIRM" itemprop="url"><span itemprop="name">Fire Marshal</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/MHFA" itemprop="url"><span itemprop="name">Mental Health First Aid</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/HSIM" itemprop="url"><span itemprop="name">IOSH Managing Safely</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><span>New courses </span><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/EFAB" itemprop="url"><span itemprop="name">Blended Emergency First Aid at Work</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/courses/FALC" itemprop="url"><span itemprop="name">Falls Confidence Training</span></a></li></ul></li></ul></li><li class="nav-item " itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/fundraising" itemprop="url"><span itemprop="name">Get involved</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/volunteer" itemprop="url"><span itemprop="name">Volunteer</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/volunteer" itemprop="url"><span itemprop="name">Volunteer with us</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://sjacymru.rosterfy.uk/register" itemprop="url"><span itemprop="name">Sign up</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/young-people" itemprop="url"><span itemprop="name">Children and young people</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/badgers" itemprop="url"><span itemprop="name">Badgers (5-11 year olds)</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/cadets" itemprop="url"><span itemprop="name">Cadets (11-15 year olds)</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/youth-leaders" itemprop="url"><span itemprop="name">Youth Leaders</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/fundraising" itemprop="url"><span itemprop="name">Fundraise &amp; donate</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/fundraise-at-school" itemprop="url"><span itemprop="name">Get involved at school</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/corporate-support" itemprop="url"><span itemprop="name">Corporate Support</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/organising-your-own-event" itemprop="url"><span itemprop="name">Organising your own event</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/clubs-and-groups" itemprop="url"><span itemprop="name">Clubs and Groups</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/take-on-a-charity-challenge" itemprop="url"><span itemprop="name">Take on a charity challenge</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><span>Other ways to support</span><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://sjacymrulottery.co.uk/play-now?utm_source=SJAC_Weblink2024&amp;utm_medium=Website&amp;utm_campaign=Weblink24&amp;utm_id=Web001&amp;utm_term=Lottery&amp;utm_content=Weblink24" itemprop="url"><span itemprop="name">Play Our Lifesaving Lottery</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/leave-a-gift-in-your-will" itemprop="url"><span itemprop="name">Leave a gift in your will</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/in-memory-of" itemprop="url"><span itemprop="name">In memory giving</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/recycle-and-donate" itemprop="url"><span itemprop="name">Recycle and Donate</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/st-john-of-jerusalem-eye-hospital" itemprop="url"><span itemprop="name">St John of Jerusalem Eye Hospital</span></a></li></ul></li></ul></li><li class="nav-item " itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/who-we-are" itemprop="url"><span itemprop="name">About us</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/blog/wall" itemprop="url"><span itemprop="name">Latest News</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/strategy" itemprop="url"><span itemprop="name">Strategy 2025-30</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/impact-report" itemprop="url"><span itemprop="name">Impact Report</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/blog/wall" itemprop="url"><span itemprop="name">News &amp; Updates</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="https://www.sjacymru.org.uk/en/page/annual-reports" itemprop="url"><span itemprop="name">Annual Report</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/our-history" itemprop="url"><span itemprop="name">Our History</span></a><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/the-order-of-st-john" itemprop="url"><span itemprop="name">The Order of St John</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/pro-fide-for-the-faith" itemprop="url"><span itemprop="name">Pro Fide – For the Faith</span></a></li></ul></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><span>Our People</span><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/senior-management-team" itemprop="url"><span itemprop="name">Leadership Team</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/our-volunteers" itemprop="url"><span itemprop="name">Our Volunteers</span></a></li><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><ul class=""><li class="nav-item" itemscope itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/board-minutes" itemprop="url"><span itemprop="name">Board Minutes</span></a></li></ul></li></ul></li></ul></li><li class="nav-item" itemscope="" itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/blog/wall" itemprop="url"><span>News</span></a></li><li class="nav-item" itemscope="" itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/contact" itemprop="url"><span>Contact Us</span></a></li><li class="nav-item" itemscope="" itemtype="http://schema.org/WebPage"><a class="nav-link" href="/en/page/training" itemprop="url"><span>Book Courses</span></a></li></ul><div class="nav--mobile-menu__footer"><a href="/account/login">Login/Register</a></div></nav>
+            </div>
+        </header>
+
+        <main role="content">
+            <div id="flash-messages" class="flashbag">
+                <div class="wrapper">
+                    
+                                    </div>
+            </div>
+
+                            <div class="page__breadcrumbs d-none d-md-inline-block">
+                    <div class="container-wide">
+                        <div class="row">
+                            <div class="col-12">
+                                <a class="liner" href="/"><span>Home</span></a>
+                                                        &gt; <a class="liner" href="/en/category/first-aid"><span>First Aid</span></a>
+            &gt; <span>First Aid for Dislocations</span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+                            <section class="page__header padding__sm i-v">
+                                        <header class="container-wide">
+                        <div class="row">
+                            <div class="col-12 text-center">
+                                                            </div>
+                        </div>
+                    </header>
+                </section>
+            
+                <div id="column-main">
+            <div class="container padding__lg pt-0">
+        <div class="row">
+            <div class="col-12">
+                <article>
+                                                                    <div class="page__image page__image--sm mb-4 mb-sm-0">
+                            <div class="resp-img resp-img--material">
+                                <div class="resp-img__inner i-v in-viewport-once was-in-viewport in-viewport">
+                                    <div class="image-slide"></div>
+                                        
+                                            
+        
+        <picture>
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 300px)" data-srcset="/image_cache/b/5/3/e/9/b53e950bcd967129be84a158b8a6859cfc4fbd19.webp" type="image/webp">
+                    <source media="(min-width: 300px)" data-srcset="/image_cache/b/5/3/e/9/b53e950bcd967129be84a158b8a6859cfc4fbd19.jpeg" type="image/jpeg">
+                
+            
+                            <source media="(min-width: 0px)" data-srcset="/image_cache/b/5/3/e/9/b53e950bcd967129be84a158b8a6859cfc4fbd19.webp" type="image/webp">
+                <source media="(min-width: 0px)" data-srcset="/image_cache/b/5/3/e/9/b53e950bcd967129be84a158b8a6859cfc4fbd19.jpeg" type="image/jpeg">
+            
+            <img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Learn how to administer sports-related first aid with St John Ambulance Cymru" class="lazy">
+        </picture>
+
+            
+                                </div>
+                            </div>
+                        </div>
+                                        <h1 style="text-align:justify">How to Perform First Aid for Dislocations</h1>
+
+<p style="text-align:justify">A dislocated joint happens when bones are partly or completely pulled out of their normal position. Joints can dislocate when a strong force wrenches or pulls the bone into an abnormal position. &nbsp;</p>
+
+<h4 style="text-align:justify">What to look for&nbsp;</h4>
+
+<ul>
+	<li style="text-align:justify">complain of a severe, sickening pain &nbsp;</li>
+	<li style="text-align:justify">be unable to move the joint &nbsp;</li>
+	<li style="text-align:justify">have&nbsp;swelling and bruising around the joint and it may look shorter, bent or deformed.&nbsp;</li>
+</ul>
+
+<hr />
+<p class="text--small" style="text-align:justify">&nbsp;</p>
+
+<h4 class="text--small" style="text-align:justify">What to do</h4>
+
+<p>Follow the steps below:</p>
+
+<h5 style="text-align:justify">Step 1&nbsp;</h5>
+
+<p style="text-align:justify">Advise the casualty to stay still. Help them to support their dislocated joint in&nbsp;the most comfortable position.&nbsp;Do not try to put the dislocated bone back into its socket, as&nbsp;this may cause further injury.&nbsp;&nbsp;</p>
+
+<h5 style="text-align:justify">Step 2</h5>
+
+<p style="text-align:justify">Stop the joint from moving.&nbsp;If you think they have dislocated their shoulder or elbow, support the injured arm using a sling. To give extra support, tie a broad-fold bandage (wide bandage) around the chest and the sling. If a hand or arm is injured, remove any rings or watches in case of swelling.&nbsp;</p>
+
+<p style="text-align:justify">If you think they have dislocated their ankle, knee or hip joint, support the injured leg using padding and broad-fold bandages.&nbsp;</p>
+
+<h5 style="text-align:justify">Step 3&nbsp;</h5>
+
+<p style="text-align:justify">Send the casualty to hospital. Call 999 or 112 for emergency help if you can&rsquo;t take them yourself.&nbsp;</p>
+
+<h5 style="text-align:justify">Step 4</h5>
+
+<p style="text-align:justify">While waiting for help, treat for <a href="https://sjacymru.org.uk/en/page/shock">shock </a>if necessary. Monitor their level of response.&nbsp;Do not raise an injured leg. Only raise the uninjured leg.&nbsp;</p>
+
+<h5 style="text-align:justify">Step 5&nbsp;</h5>
+
+<p style="text-align:justify">Check the circulation beyond any bandages every 10 minutes and loosen if necessary.&nbsp;</p>
+                </article>
+            </div>
+
+            
+            <div class="col-12">
+                <div class="page__footer text-left mt-4 mt-lg-5 d-flex align-items-center">
+                    <div class="addthis_inline_share_toolbox"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                                <section class="content__section pallette__2 padding__lg">
+            <div class="container">
+                <div class="row">
+                    <header class="col-12 text-center">
+                        <h3>Useful Links</h3>
+                    </header>
+                </div>
+                <div class="row">
+                    <div class="col-12 p-0">
+                        <div class="main-carousel slider--three">
+                                                                                                                                    <div class="">
+                                        			
+	<a href="/en/page/training">	<div class="block d-flex flex-column block--basic block--useful-link" data-title="">
+		<div class="block__image resp-img ">
+			<div class="resp-img__inner">
+
+													
+													
+									    
+                                            
+        
+        <picture>
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 992px)" data-srcset="/image_cache/9/5/d/2/9/95d29ea49d87d17e7a95fb975ac9a3513d22c6e7.webp" type="image/webp">
+                    <source media="(min-width: 992px)" data-srcset="/image_cache/9/5/d/2/9/95d29ea49d87d17e7a95fb975ac9a3513d22c6e7.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 768px)" data-srcset="/image_cache/d/0/5/d/a/d05da8fb814954a0198ed430a08268331ac64158.webp" type="image/webp">
+                    <source media="(min-width: 768px)" data-srcset="/image_cache/d/0/5/d/a/d05da8fb814954a0198ed430a08268331ac64158.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 640px)" data-srcset="/image_cache/7/9/e/9/a/79e9af3c294b07cd7872ecd5e62b07388d7e6618.webp" type="image/webp">
+                    <source media="(min-width: 640px)" data-srcset="/image_cache/7/9/e/9/a/79e9af3c294b07cd7872ecd5e62b07388d7e6618.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 400px)" data-srcset="/image_cache/b/a/8/5/9/ba85971665281184f1c43a3a3c8e609377eecccc.webp" type="image/webp">
+                    <source media="(min-width: 400px)" data-srcset="/image_cache/b/a/8/5/9/ba85971665281184f1c43a3a3c8e609377eecccc.jpeg" type="image/jpeg">
+                
+            
+                            <source media="(min-width: 0px)" data-srcset="/image_cache/b/a/8/5/9/ba85971665281184f1c43a3a3c8e609377eecccc.webp" type="image/webp">
+                <source media="(min-width: 0px)" data-srcset="/image_cache/b/a/8/5/9/ba85971665281184f1c43a3a3c8e609377eecccc.jpeg" type="image/jpeg">
+            
+            <img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="A woman perforing CPR during workplace first aid training" class="lazy">
+        </picture>
+
+            
+							</div>
+		</div>
+
+		<div class="block__content flex-grow-1 ">
+			
+			
+			
+												<h3>Training</h3>
+							
+			
+							<span class="d-block mt-3 "><i class='fal fa-long-arrow-right'></i></span>
+			
+			
+			
+		</div>
+	</div>
+	</a>
+                                    </div>
+                                                                                                                                                                    <div class="">
+                                        			
+	<a href="https://sjacymrulottery.co.uk/?utm_source=SJAC_WebHomeUsefulLink&amp;utm_medium=Website&amp;utm_campaign=WebHomepageBanner&amp;utm_id=Website&amp;utm_term=Lotter&amp;utm_content=HomepageBanner">	<div class="block d-flex flex-column block--basic block--useful-link" data-title="">
+		<div class="block__image resp-img ">
+			<div class="resp-img__inner">
+
+													
+													
+									    
+                                            
+        
+        <picture>
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 992px)" data-srcset="/image_cache/4/c/f/0/7/4cf07c99eb2ca67111f8492d74d57112b242d85e.webp" type="image/webp">
+                    <source media="(min-width: 992px)" data-srcset="/image_cache/4/c/f/0/7/4cf07c99eb2ca67111f8492d74d57112b242d85e.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 768px)" data-srcset="/image_cache/9/e/9/7/6/9e9765c79ddeac13ba5b03327d66c39bc68ee136.webp" type="image/webp">
+                    <source media="(min-width: 768px)" data-srcset="/image_cache/9/e/9/7/6/9e9765c79ddeac13ba5b03327d66c39bc68ee136.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 640px)" data-srcset="/image_cache/a/a/9/d/5/aa9d57fac90ef5f02b3432f047782b6410f644bc.webp" type="image/webp">
+                    <source media="(min-width: 640px)" data-srcset="/image_cache/a/a/9/d/5/aa9d57fac90ef5f02b3432f047782b6410f644bc.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 400px)" data-srcset="/image_cache/f/1/a/1/6/f1a162b458c88328a750bb12172925214a7fb30a.webp" type="image/webp">
+                    <source media="(min-width: 400px)" data-srcset="/image_cache/f/1/a/1/6/f1a162b458c88328a750bb12172925214a7fb30a.jpeg" type="image/jpeg">
+                
+            
+                            <source media="(min-width: 0px)" data-srcset="/image_cache/f/1/a/1/6/f1a162b458c88328a750bb12172925214a7fb30a.webp" type="image/webp">
+                <source media="(min-width: 0px)" data-srcset="/image_cache/f/1/a/1/6/f1a162b458c88328a750bb12172925214a7fb30a.jpeg" type="image/jpeg">
+            
+            <img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="play our lottery st john ambulance cymru" class="lazy">
+        </picture>
+
+            
+							</div>
+		</div>
+
+		<div class="block__content flex-grow-1 ">
+			
+			
+			
+												<h3>Play Our Lottery</h3>
+							
+			
+							<span class="d-block mt-3 "><i class='fal fa-long-arrow-right'></i></span>
+			
+			
+			
+		</div>
+	</div>
+	</a>
+                                    </div>
+                                                                                                                                                                    <div class="">
+                                        			
+	<a href="https://www.sjacymru.org.uk/en/page/volunteer">	<div class="block d-flex flex-column block--basic block--useful-link" data-title="">
+		<div class="block__image resp-img ">
+			<div class="resp-img__inner">
+
+													
+													
+									    
+                                            
+        
+        <picture>
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 992px)" data-srcset="/image_cache/e/0/a/c/3/e0ac308f3c4b87e04dd7963dc5a76056f9c6b94d.webp" type="image/webp">
+                    <source media="(min-width: 992px)" data-srcset="/image_cache/e/0/a/c/3/e0ac308f3c4b87e04dd7963dc5a76056f9c6b94d.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 768px)" data-srcset="/image_cache/0/1/b/2/e/01b2e328cbfade03d2d2a2ea137df83f3f425431.webp" type="image/webp">
+                    <source media="(min-width: 768px)" data-srcset="/image_cache/0/1/b/2/e/01b2e328cbfade03d2d2a2ea137df83f3f425431.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 640px)" data-srcset="/image_cache/1/0/b/1/a/10b1a5c94d9d347d2f1c0c86aa8b127d8c8f9fab.webp" type="image/webp">
+                    <source media="(min-width: 640px)" data-srcset="/image_cache/1/0/b/1/a/10b1a5c94d9d347d2f1c0c86aa8b127d8c8f9fab.jpeg" type="image/jpeg">
+                
+                            
+                                
+                                                                                
+                                    
+                                    <source media="(min-width: 400px)" data-srcset="/image_cache/b/b/4/4/9/bb449dc36840613fad883ab37bcdbf876fb5953f.webp" type="image/webp">
+                    <source media="(min-width: 400px)" data-srcset="/image_cache/b/b/4/4/9/bb449dc36840613fad883ab37bcdbf876fb5953f.jpeg" type="image/jpeg">
+                
+            
+                            <source media="(min-width: 0px)" data-srcset="/image_cache/b/b/4/4/9/bb449dc36840613fad883ab37bcdbf876fb5953f.webp" type="image/webp">
+                <source media="(min-width: 0px)" data-srcset="/image_cache/b/b/4/4/9/bb449dc36840613fad883ab37bcdbf876fb5953f.jpeg" type="image/jpeg">
+            
+            <img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Two volunteers stood in front of an ambulance as event first aiders" class="lazy">
+        </picture>
+
+            
+							</div>
+		</div>
+
+		<div class="block__content flex-grow-1 ">
+			
+			
+			
+												<h3>Volunteering</h3>
+							
+			
+							<span class="d-block mt-3 "><i class='fal fa-long-arrow-right'></i></span>
+			
+			
+			
+		</div>
+	</div>
+	</a>
+                                    </div>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </div>
+        </main>
+
+                            
+    <section class="home__section padding__lg pallette__3 volunteer-banner">
+        <div class="volunteer-banner__inner d-flex align-items-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg mr-lg-auto">
+                        <header>
+                                                            <h3 class="mb-2">Looking for other ways to get involved?</h3>
+                                                                                        <p>Whatever you enjoy doing and however much time you can commit, there&rsquo;s a volunteer role for you.</p>
+                                                    </header>
+                    </div>
+
+                    <div class="col-12 col-lg-auto d-flex align-items-center flex-wrap mt-4 mt-lg-0">
+                        <a id="cta_btn" class="btn btn--primary btn--xl" href="https://www.sjacymru.org.uk/en/page/volunteer" rel="" target=""><span>Volunteer today</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+        <footer class="footer padding__md">
+            <section class="container">
+                <div class="row">
+                    <div class="col-6 col-md-12 col-xl-9 order-1 mb-4 text-left text-md-center text-lg-left">
+                        <ul id="menu-footer_menu_1" class="list-unstyled" data-name="Footer Menu 1" data-tag="footer_menu_1"><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/first-aid" itemprop="url"><span itemprop="name">First Aid Resources</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/get-involved" itemprop="url"><span itemprop="name">Get involved</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/training" itemprop="url"><span itemprop="name">Training</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/healthcare-services" itemprop="url"><span itemprop="name">Healthcare services</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="https://sjacymru.org.uk/en/page/young-people" itemprop="url"><span itemprop="name">Children & young people</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/who-we-are" itemprop="url"><span itemprop="name">Our History in Wales</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/careers" itemprop="url"><span itemprop="name">Careers</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/feedback" itemprop="url"><span itemprop="name">Feedback</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/press-centre" itemprop="url"><span itemprop="name">Press centre</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="https://sjacymru.rosterfy.uk/register" itemprop="url"><span itemprop="name">Volunteer app</span></a></li></ul>
+                    </div>
+
+                    <div class="col-12 col-xl-3 order-3 order-xl-2 mb-4 mb-xl-5 d-xl-flex justify-content-end text-center text-lg-left">
+                                                    <ul class="footer__social ">
+                                                                    <li>
+                                        <a href="https://www.facebook.com/SJACymru/" target="_blank" rel="noopener nofollow noreferrer" aria-label="Natural Talent facebook-f page"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://twitter.com/sjacymru" target="_blank" rel="noopener nofollow noreferrer" aria-label="Natural Talent twitter page"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.instagram.com/sjacymru" target="_blank" rel="noopener nofollow noreferrer" aria-label="Natural Talent instagram page"><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.youtube.com/channel/UCW5Zgx6HxbkCPOpRgnwBhkA" target="_blank" rel="noopener nofollow noreferrer" aria-label="Natural Talent youtube page"><i class="fab fa-youtube"></i></a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://uk.linkedin.com/company/sjacymru" target="_blank" rel="noopener nofollow noreferrer" aria-label="Natural Talent linkedin page"><i class="fab fa-linkedin"></i></a>
+                                    </li>
+                                                            </ul>
+                                            </div>
+
+                    <div class="col-6 col-md-12 order-2 order-xl-3 mb-4 text-left text-md-center text-lg-left">
+                        <ul id="menu-footer_menu_2" class="list-unstyled" data-name="Footer Menu 2" data-tag="footer_menu_2"><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/privacy-policy" itemprop="url"><span itemprop="name">Privacy policy</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/booking-terms" itemprop="url"><span itemprop="name">Terms & Conditions - Bookings</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/cookie-policy" itemprop="url"><span itemprop="name">Cookie policy</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/terms-of-use" itemprop="url"><span itemprop="name">Terms of use</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/accessibility" itemprop="url"><span itemprop="name">Accessibility</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="/en/page/safeguarding" itemprop="url"><span itemprop="name">Safeguarding</span></a></li><li itemscope itemtype="http://schema.org/WebPage"><a class="liner" href="https://sjacymru-publicfundraising.raiselysite.com/" itemprop="url"><span itemprop="name">Fundraising Locations</span></a></li></ul>
+                    </div>
+
+                    <div class="col-12 order-4 text-center text-lg-left">
+                        <div class="row">
+                            <div class="col-12 col-xl-8 mb-5 mb-lg-4 mb-xl-0">
+                                <div class="mb-3 mb-lg-0">
+                                    <span class="d-inline">&copy; Copyright</span>
+                                    <span class="d-inline">St John Ambulance Cymru.</span>
+                                    <span class="d-block d-lg-inline">All rights reserved.</span>
+                                </div>
+                                <div>
+                                    <span class="d-block d-lg-inline">Registered in England and Wales.</span>
+                                    <span class="d-block d-lg-inline">Charity number 250523.</span>
+                                    <span class="d-block d-lg-inline">Company number 05071073.</span>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-4 text-center text-lg-left text-xl-right">
+                                                                                                                                                                                                                                        <picture>
+                                                                                                <source type="image/jpeg" data-srcset="/image_cache/e/f/c/d/1/efcd14bfba51600dc33a0c457214026cc6633008.png" />
+                                                <img data-srcset="/image_cache/e/f/c/d/1/efcd14bfba51600dc33a0c457214026cc6633008.png" alt="fundraising-reg-logo.png" class="lazy" />
+                                            </picture>
+                                                                                                                                        </div>
+
+                            <div class="col-12 mt-5 mt-lg-4 mt-xl-0">
+                                <p class="footer__agency">
+                                                                                                            Website by
+                                                                                                            <a href="https://www.webbox.digital/" target="_blank" rel="nofollow">
+                                        WebBox
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <div class="mobile__bar d-flex justify-contentbetween d-sm-none">
+            <a href="/en/page/donate">Donate</a>
+            <a href="/en/page/volunteer">Volunteer</a>
+        </div>
+
+        
+        <div id="modal" class="modal fade">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">
+                            <span></span>
+                            <i class="fal"></i>
+                        </h5>
+                        <p></p>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn--primary js-ok">OK</button>
+                        <button type="button" class="btn btn--secondary btn--cancel js-cancel">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+                <div id="return-to-donation-modal" class="modal modal--half modal--rounded modal--anim fade" tabindex="-1" role="dialog" aria-labelledby="modalFullscreenLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content d-flex flex-wrap flex-row">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-image d-none d-lg-block bg-cover" style="background-image:url(/image_cache/e/1/4/d/d/e14dd6e48dcc12108671217b931e2a48a09c5a9d.jpeg);"></div>
+                    <div class="modal-body">
+                        <h3 class="modal-title mb-4" id="modalFullscreenLabel">Your donation could be the difference</h3>
+                        <article class="modal-article"><p>We noticed you didn&#39;t complete your donation.&nbsp;</p></article>
+                        <div class="modal-footer mt-4">
+                            <a href="#" class="btn btn--primary btn--block btn--lg js-resume-donation" id="return-to-donation-url"><span>Resume donation</span></a>
+                            <a class="btn btn--primary btn--block btn--lg" href="/en/donate/cancel_current_donation" id="return-to-donation-url"><span>Cancel donation</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                                    
+        <div id="toast-container"></div>
+
+        <div id="morphsearch" class="morphsearch d-flex align-items-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <form id="header-search-form" autocomplete="off" class="morphsearch-form" action="/search" method="GET">
+                            <input autocomplete="false" name="hidden" type="text" style="display:none;">
+                            <input type="hidden" id="header-search-type" name="type" value="" />
+                            <label class="sr-only" for="header-search-keyword" aria-label="Search keyword">Search keyword</label>
+                            <input type="search" id="header-search-keyword" class="morphsearch-input" name="keywords" placeholder="Search..."/>
+                            <button class="morphsearch-submit" role="button" aria-label="Search" type="submit"><i class="fal fa-search"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <span class="morphsearch-close"></span>
+        </div>
+
+        <a href="#0" class="cd-top js-cd-top mds-back-to-top"><i class="fal fa-chevron-up"></i></a>
+
+        <div id="overlay">
+            <div class="overlay-body">
+                <i class="fad fa-spinner fa-spin"></i>
+            </div>
+        </div>
+
+        
+                             <script id="javascript" async type="text/javascript" src="/js/front.min.js" onload="window.scriptLoaded = true; console.log('JavaScript loaded.');"></script>
+            
+        
+                
+                        
+                            <script id="javascript-vanilla" type="text/javascript" src="/js/front-vanilla.min.js"></script>
+        
+
+        <script type="text/javascript"><!--
+            
+
+
+
+
+window.loadScriptAsync = function(elementId, scriptHref, callback, innerHTML){
+
+    if (typeof elementId !== "string" || (elementId = elementId.trim()).length < 1) {
+        console.error("loadScriptAsync: Unspecified or empty element ID.");
+        return null;
+    }
+
+    if (typeof scriptHref !== "string" || (scriptHref = scriptHref.trim()).length < 1) {
+        console.error("loadScriptAsync: Unspecified or empty HREF.");
+        return null;
+    }
+
+    var script = document.getElementById(elementId);
+
+    if (script) {
+        console.warn("loadScriptAsync: Element with ID \"" + elementId + "\" already exists in the DOM. (Script being called more than once?)");
+
+        if (typeof callback === "function") {
+            callback();
+        }
+
+        return script;
+    }
+
+    script          = document.createElement("script");
+    script.id       = elementId;
+    script.type     = "text/javascript";
+    script.async    = true;
+    script.defer    = true;
+    script.src      = scriptHref;
+
+    if (typeof innerHTML == "string" && (innerHTML = innerHTML.trim()).length >= 1) {
+        script.innerHTML = "\n" + innerHTML + "\n";
+    }
+
+    document.body.appendChild(script);
+
+    if (typeof callback === "function") {
+        script.addEventListener('load', function(){
+            callback();
+        });
+    }
+
+    return script;
+
+};
+
+
+
+window.scriptMain = document.getElementById('javascript');
+if (window.scriptMain) {
+    window.scriptInitAttempts = 0;
+    window.scriptInitInterval = null;
+
+    var scriptInit = function(isViaInterval){
+
+        isViaInterval = isViaInterval ? true : false;
+
+        window.scriptInitAttempts++;
+        if (window.scriptInitAttempts >= 5) {
+            console.error("Waited too long for required libraries to become available (" + window.scriptInitAttempts + "), not waiting any longer.");
+
+            if (isViaInterval) {
+                clearInterval(window.scriptInitInterval);
+            }
+
+            window.scriptInited = false;
+        } else {
+            var libsRequired    = ["jQuery", "sprintf"];
+            var libsReady       = 0;
+
+            for (var l = 0; l < libsRequired.length; l++) {
+                var lib = libsRequired[l];
+
+                if (typeof window[lib] === "undefined" || !window[lib]) {
+                    console.warn(lib + " is not ready yet.");
+                    continue;
+                }
+
+                libsReady++;
+            }
+
+            if (libsReady < libsRequired.length) {
+                return false;
+            }
+
+            if (isViaInterval) {
+                clearInterval(window.scriptInitInterval);
+            }
+
+            window.scriptInited = true;
+        }
+
+                
+window._escapeHtml = function(s){
+
+    var chars = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;',
+        '/': '&#x2F;',
+        '`': '&#x60;',
+        '=': '&#x3D;',
+    };
+
+    return String(s).replace(/[&<>"'`=]/gi, function(c){
+        return chars[c];
+    });
+
+};
+
+window._encodeHtmlEntities = function(s){
+
+    if (typeof s != "string") {
+        return s;
+    }
+
+    let buf = [];
+    for (let i = s.length - 1; i >= 0; i--) {
+        buf.unshift(["&#", s[i].charCodeAt(), ";"].join(""));
+    }
+
+    return buf.join("");
+
+};
+
+window._decodeHtmlEntities = function(s){
+
+    if (typeof s != "string") {
+        return s;
+    }
+
+    return s.replace(/&#(\d+);/g, function(match, c) {
+        return String.fromCharCode(c);
+    });
+
+};
+
+window._roundNumber = function(value, precision, toFixed, mode){
+
+    var v   = value;
+    var p   = precision;
+    var tf  = toFixed;
+    var m   = mode;
+
+    if (typeof v != "number") {
+        v = Number(v);
+        if (isNaN(v)) {
+            return value;
+        }
+    }
+
+    if (typeof p != "number") {
+        p = Number(p);
+        if (isNaN(p)) {
+            p = 0;
+        }
+    }
+    p = Math.max(0, Math.round(p));
+
+    if (true === tf) {
+        tf = p;
+    }
+
+    if (typeof tf != "number") {
+        tf = Number(tf);
+        if (isNaN(tf)) {
+            tf = 0;
+        }
+    }
+    tf = Math.max(0, Math.round(tf));
+    toFixed = toFixed ? true : false;
+
+    if (typeof m == "string") {
+        m = m.trim().toLowerCase();
+    } else {
+        m = undefined;
+    }
+
+    if (p < 1) {
+        return Math.round(v);
+    }
+
+    var e   = Math.pow(10, p);
+    var r   = v * e;
+    switch (m) {
+        case "floor":   r = Math.floor(r);  break;
+        case "ceil":    r = Math.ceil(r);   break;
+        default:        r = Math.round(r);  break;
+    }
+    r = r / e;
+
+    return tf >= 1 ? r.toFixed(tf) : r;
+
+};
+
+window._formatCurrency = function(currencyEntityAsJson, value){
+
+    if (typeof currencyEntityAsJson != "string" || (currencyEntityAsJson = currencyEntityAsJson.trim()).length < 1) {
+        return value;
+    }
+
+    currency = JSON.parse(currencyEntityAsJson);
+    if (typeof currency != "object" || currency === null) {
+        return value;
+    }
+
+    if (!currency.hasOwnProperty("symbolLeft") || typeof currency.symbolLeft != "string") {
+        currency.symbolLeft = "";
+    }
+
+    if (!currency.hasOwnProperty("symbolRight") || typeof currency.symbolRight != "string") {
+        currency.symbolRight = "";
+    }
+
+    if (
+        !currency.hasOwnProperty("symbolLeft")      || typeof currency.symbolLeft       != "string" ||
+        !currency.hasOwnProperty("symbolRight")     || typeof currency.symbolRight      != "string" ||
+        !currency.hasOwnProperty("decimalPlaces")   || typeof currency.decimalPlaces    != "number"
+    ) {
+        return value;
+    }
+
+    return sprintf("%s%s%s", currency.symbolLeft, String(_roundNumber(value, currency.decimalPlaces, true)), currency.symbolRight);
+
+};
+
+window._updateCkEditors = function(){
+
+    if (typeof CKEDITOR == "undefined" || CKEDITOR === undefined) {
+        return;
+    }
+
+    for (var i in CKEDITOR.instances) {
+        CKEDITOR.instances[i].updateElement();
+    }
+
+};
+
+
+
+
+window._alertParams = function(params){
+
+    // Container
+    if (typeof params != "object") {
+        console.error("Not an object.");
+        return false;
+    }
+
+    // << Message
+    if (!params.hasOwnProperty("message") || typeof params.message != "string" || params.message.trim().length < 1) {
+        console.error("Tried to display an alert with no content.");
+        return false;
+    }
+
+    params.message = _decodeHtmlEntities(params.message.trim());
+    // >> Message
+
+    // << Type
+    if (!params.hasOwnProperty("type") || typeof params.type != "string" || params.type.trim().length < 1) {
+        console.warn(sprintf("Invalid type \"%s\" used. Assuming \"info\", but please correct your code.", params.type));
+        params.type = "info";
+    }
+
+    params.type = params.type.trim();
+
+    // Title & icon
+    params.title   = "Alert";
+    params.icon    = "fa-bell";
+
+    // Type specifics
+    switch (params.type) {
+        case "info":    params.title = "Message";   params.icon = "fa-info-circle";             break;
+        case "success": params.title = "Success";   params.icon = "fa-check-circle";            break;
+        case "warning": params.title = "Warning";   params.icon = "fa-exclamation-triangle";    break;
+        case "danger":  params.title = "Error";     params.icon = "fa-times-circle";            break;
+
+        case "error":
+            console.warn(sprintf("Incorrect type \"%s\" used. Assuming \"danger\", but please correct your code.", params.type));
+            params.type     = "danger";
+            params.title    = "Error";
+            params.icon     = "fa-times-circle";
+            break;
+
+        case "input":
+            params.title    = "Input";
+            params.icon     = "fa-question-circle";
+            params.required = params.hasOwnProperty("required") && params.required ? true : false;
+            break;
+
+        default:
+            params.type     = "info";
+            params.title    = "Alert";
+            params.icon     = "fa-bell";
+    }
+    // >> Type
+
+    // << Callback functions
+    if (!params.hasOwnProperty("callbackOk") || typeof params.callbackOk != "function") {
+        params.callbackOk = null;
+    }
+
+    if (!params.hasOwnProperty("callbackCancel") || typeof params.callbackCancel != "function") {
+        params.callbackCancel = null;
+    }
+    // >> Callback functions
+
+    // << Initial value
+    if (params.hasOwnProperty("value") && params.value !== null && params.value !== undefined) {
+        params.value = params.value.toString();
+    } else {
+        params.value = null;
+    }
+    // >> Initial value
+
+    // Log message
+    params.logMessage = "[" + params.type.toUpperCase() + "] " + params.message;
+    console.log(params.logMessage);
+
+    return true;
+
+};
+
+window._showAlert = function(message, type){
+
+    // Prepare
+    var params = {message: message, type: type};
+    if (!_alertParams(params)) {
+        return false;
+    }
+
+    var $toastContainer = $('#toast-container');
+    if ($toastContainer.length == 1) {
+        //var $alert = $('<div class="alert alert-' + params.type + '">' + params.message + ' <button type="button" class="close" aria-hidden="true" data-dismiss="alert">&times;</button></div>');
+        //$alert.appendTo('#flash-messages');
+
+        _quickToast(title, message);
+        return true;
+    } else {
+        console.error("_showAlert(): Flash messages container missing.");
+    }
+
+    // JS standard
+    alert(params.logMessage);
+
+};
+
+window._modalAlert = function(message, type, callbackOk){
+
+    // Prepare
+    var params = {message: message, type: type, callbackOk: callbackOk};
+    if (!_alertParams(params)) {
+        return false;
+    }
+
+    var hasConfirmFunction  = params.hasOwnProperty("callbackOk") && typeof params.callbackOk == "function";
+
+    // Sweet Alert
+    if (window.swal) {
+        if (params.type == "danger") {
+            params.type = "error"; // Because SweetAlert doesn't follow Bootstrap's standard.
+        }
+
+        return swal({
+            title: params.title,
+            text: params.message,
+            type: params.type,
+            allowEscapeKey: true,
+            allowOutsideClick: true,
+            showConfirmButton: true,
+            showCancelButton: false,
+            confirmButtonText: "OK",
+            html: false,
+            showLoaderOnConfirm: false,
+            closeOnConfirm: true,
+        }, function(){
+            if (hasConfirmFunction) {
+                return params.callbackOk();
+            }
+
+            return true;
+        });
+    }
+
+    // jQuery/Bootstrap
+    if (window.jQuery) {
+        var $modal              = $("#modal-alert");
+        var $modalDialog        = $modal.find(">div.modal-dialog");
+        var $modalContent       = $modalDialog.find(">div.modal-content");
+        var $modalTitle         = $modalContent.find(">div.modal-header >.modal-title");
+        var $modalTitleIcon     = $modalTitle.find(">i.fa");
+        var $modalTitleText     = $modalTitle.find(">span");
+        var $modalBody          = $modalContent.find(">div.modal-body");
+        var $modalBodyContent   = $modalContent.find(">div.modal-body.modal-body-alert");
+        var $modalFooter        = $modalContent.find(">div.modal-footer");
+        var $modalButtonOk      = $modalFooter.find(".js-ok");
+        var $modalButtonCancel  = $modalFooter.find(".js-cancel");
+
+        var modalDialogClass    = "modal-dialog";
+        var modalButtonOkClass  = "btn btn-primary js-ok";
+
+        if (1 !== $modal.length || 1 !== $modalDialog.length || 1 !== $modalContent.length || 1 !== $modalTitle.length || 1 !== $modalTitleIcon.length || 1 !== $modalTitleText.length || $modalBody.length < 1 || 1 !== $modalBodyContent.length || 1 !== $modalFooter.length || 1 !== $modalButtonOk.length || 1 !== $modalButtonCancel.length) {
+            console.error("_modalAlert(): Modal template missing or incomplete.");
+            return;
+        }
+
+        if (type) {
+            modalDialogClass    = sprintf("modal-dialog modal-%s", params.type);
+            modalButtonOkClass  = sprintf("btn btn-%s js-ok", params.type);
+        }
+
+        params.message = params.message.trim().replace(/\n/, "<br />\n");
+
+        $modalDialog.prop('class', modalDialogClass);
+        $modalTitleIcon.prop('class', sprintf("fa %s", params.icon));
+        $modalTitleText.html(params.title);
+        $modalBody.html('');
+        $modalBody.addClass('d-none');
+        $modalBodyContent.html(sprintf("<p>%s</p>", params.message));
+        $modalBodyContent.removeClass('d-none');
+        $modalButtonOk.prop("class", modalButtonOkClass);
+        $modalButtonCancel.addClass('d-none');
+
+        if (hasConfirmFunction) {
+            $modalButtonOk.click(function(e){
+                params.callbackOk();
+            });
+        }
+
+        $modal.modal('show');
+        return $modal;
+    }
+
+    // JS standard
+    var pressed = alert(params.logMessage);
+
+    if (hasConfirmFunction) {
+        return params.callbackOk();
+    }
+
+    return pressed;
+
+};
+
+window._modalConfirm = function(message, type, callbackOk, callbackCancel){
+
+    // Prepare
+    var params = {message: message, type: type, callbackOk: callbackOk, callbackCancel: callbackCancel};
+    if (!_alertParams(params)) {
+        return false;
+    }
+
+    var hasConfirmFunction  = params.hasOwnProperty("callbackOk") && typeof params.callbackOk == "function";
+    var hasCancelFunction   = params.hasOwnProperty("callbackCancel") && typeof params.callbackCancel == "function";
+
+    // Sweet Alert
+    if (window.swal) {
+        if (params.type == "danger") {
+            params.type = "error"; // Because SweetAlert doesn't follow Bootstrap's standard.
+        }
+
+        return swal({
+            title: params.title,
+            text: params.message,
+            type: params.type,
+            allowEscapeKey: false,
+            allowOutsideClick: false,
+            showConfirmButton: true,
+            showCancelButton: true,
+            confirmButtonText: "OK",
+            cancelButtonText: "Cancel",
+            html: false,
+            showLoaderOnConfirm: false,
+            closeOnConfirm: !hasConfirmFunction,
+            closeOnCancel: !hasCancelFunction,
+        }, function(confirmed){
+            confirmed = confirmed ? true : false;
+
+            if (true === confirmed) {
+                if (hasConfirmFunction) {
+                    var ret = params.callbackOk();
+                    if (ret) {
+                        swal.close();
+                    }
+
+                    return ret;
+                }
+            } else {
+                if (hasCancelFunction) {
+                    var ret = params.callbackCancel();
+                    if (ret) {
+                        swal.close();
+                    }
+
+                    return ret;
+                }
+            }
+
+            swal.close();
+            return confirmed;
+        });
+    }
+
+    // JS standard
+    var confirmed = confirm(params.message) ? true : false;
+    if (confirmed) {
+        if (hasConfirmFunction) {
+            return params.callbackOk();
+        }
+    } else {
+        if (hasCancelFunction) {
+            return params.callbackCancel();
+        }
+    }
+
+    return confirmed;
+
+};
+
+window._modalPrompt = function(message, required, initialValue, callbackOk, callbackCancel){
+
+    // Prepare
+    var params = {message: message, type: "input", required: required, value: initialValue, callbackOk: callbackOk, callbackCancel: callbackCancel};
+    if (!_alertParams(params)) {
+        return false;
+    }
+
+    var hasConfirmFunction  = params.hasOwnProperty("callbackOk") && typeof params.callbackOk == "function";
+    var hasCancelFunction   = params.hasOwnProperty("callbackCancel") && typeof params.callbackCancel == "function";
+
+    // Sweet Alert
+    if (window.swal) {
+        if (params.type == "danger") {
+            params.type = "error"; // Because SweetAlert doesn't follow Bootstrap's standard.
+        }
+
+        return swal({
+            title: params.title,
+            text: params.message,
+            type: params.type,
+            allowEscapeKey: !params.required,
+            allowOutsideClick: !params.required,
+            showConfirmButton: true,
+            showCancelButton: !params.required,
+            confirmButtonText: "OK",
+            cancelButtonText: "Cancel",
+            html: false,
+            showLoaderOnConfirm: false,
+            closeOnConfirm: !hasConfirmFunction,
+            closeOnCancel: !hasCancelFunction,
+            input: "text",
+            inputValue: params.value,
+        }, function(value){
+            if (params.required && (false === value || "" === value)) {
+                swal.showInputError("Please\u0020enter\u0020your\u0020response.");
+                return false;
+            }
+
+            if (false === value) {
+                if (hasCancelFunction) {
+                    var ret = params.callbackCancel();
+                    if (ret) {
+                        swal.close();
+                    }
+
+                    return ret;
+                }
+            } else {
+                if (hasConfirmFunction) {
+                    var ret = params.callbackOk(value);
+                    if (ret) {
+                        swal.close();
+                    }
+
+                    return ret;
+                }
+            }
+
+            swal.close();
+            return value;
+        });
+    }
+
+    // JS standard
+    var value = prompt(params.message);
+    if (params.required) {
+        while (false === value || "" === value) {
+            value = prompt(sprintf("%s\n\nPlease\u0020enter\u0020your\u0020response.", params.message));
+        }
+    }
+
+    if (false === value) {
+        if (hasCancelFunction) {
+            return params.callbackCancel();
+        }
+    } else {
+        if (hasConfirmFunction) {
+            return params.callbackOk(value);
+        }
+    }
+
+    return value;
+
+};
+
+
+
+
+window._verifyAjaxResponse = function(data, textStatus, xhr, noAlert){
+
+    noAlert = noAlert ? true : false;
+
+    if (typeof data != "object" || typeof xhr != "object") {
+        if (!noAlert) {
+            _modalAlert("Unexpected\u0020response\u0020from\u0020server.", "warning");
+        }
+
+        return false;
+    }
+
+    if (data.hasOwnProperty("error") && data.error !== null) {
+        if (typeof data.error != "string" || (data.error = data.error.trim()).length < 1) {
+            data.error = "Unknown\u0020error.";
+        }
+
+        if (!noAlert) {
+            _modalAlert(data.error, "danger");
+        }
+
+        return false;
+    }
+
+    if (data.hasOwnProperty("redirect") && typeof data.redirect == "string" && (data.redirect = data.redirect.trim()).length >= 1) {
+        window.location.href = data.redirect;
+        return true;
+    }
+
+    if (data.hasOwnProperty("success")) {
+        return data.success ? true : false;
+    }
+
+    if (!noAlert) {
+        _modalAlert("No\u0020response\u0020from\u0020server. (Your\u0020request\u0020may\u0020have\u0020still\u0020completed\u0020successfully.)", "warning");
+    }
+
+    return false;
+
+};
+
+window._handleAjaxError = function(xhr, textStatus, errorThrown, noAlert){
+
+    noAlert = noAlert ? true : false;
+    var error       = null;
+    var redirect    = null;
+    var code        = 0;
+
+    if (typeof xhr == "object" && xhr !== null) {
+        if (xhr.hasOwnProperty("status") && typeof xhr.status == "number" && !isNaN(xhr.status)) {
+            code = Math.floor(xhr.status);
+        }
+
+        if (
+            (!xhr.hasOwnProperty("responseJSON") || typeof xhr.responseJSON != "object" || xhr.responseJSON === null)
+            && typeof xhr.responseText == "string"
+        ) {
+            try {
+                xhr.responseJSON = JSON.parse(xhr.responseText.trim());
+            } catch (e) {
+                console.error("XHR object has invalid JSON. Cannot look for friendly error message.");
+            }
+        }
+
+        if (xhr.hasOwnProperty("responseJSON") && typeof xhr.responseJSON == "object" && xhr.responseJSON !== null) {
+            if (xhr.responseJSON.hasOwnProperty("error") && typeof xhr.responseJSON.error == "string") {
+                error = xhr.responseJSON.error.trim();
+            }
+
+            if (xhr.responseJSON.hasOwnProperty("redirect") && typeof xhr.responseJSON.redirect == "string") {
+                redirect = xhr.responseJSON.redirect.trim();
+            }
+        }
+    }
+
+    if (!error) {
+        error = "An\u0020unknown\u0020error\u0020occurred\u0020preventing\u0020this\u0020action\u0020from\u0020completing. Please\u0020contact\u0020the\u0020site\u0020administrator\u0020for\u0020assistance.";
+    }
+
+    console.error(sprintf("%s [%d: %s]", error, code, errorThrown));
+
+    if (!noAlert) {
+        _modalAlert(error, "danger", function(){
+
+            if (typeof redirect == "string" && (redirect = redirect.trim()).length >= 1) {
+                window.location.href = redirect;
+            }
+            return true;
+
+        });
+    } else {
+        if (typeof redirect == "string" && (redirect = redirect.trim()).length >= 1) {
+            var redirectTimeout = setTimeout(function(){
+                _overlay("Redirecting...");
+                window.location.href = redirect;
+            }, 3000);
+        }
+    }
+
+    return error;
+
+};
+
+
+
+
+if (window.jQuery) {
+
+        $.fn.once = function(events, selector, handler){
+
+        if (typeof selector == "function") {
+            handler = selector;
+            selector = null;
+        }
+
+        if (typeof selector != "string") {
+            selector = null;
+        }
+
+        return this.each(function(){
+            $(this).on(events, selector, myHandler);
+
+            function myHandler(e){
+                $(this).off(events, selector, myHandler);
+                handler.call(this, e);
+            }
+
+        });
+
+    };
+
+
+
+        $.fn.only = function(events, selector, handler){
+
+        if (typeof selector == "function") {
+            handler = selector;
+            selector = null;
+        }
+
+        if (typeof selector != "string") {
+            selector = null;
+        }
+
+        var $this = $(this).on(events, selector, myHandler);
+
+        function myHandler(e){
+            $this.off(events, selector, myHandler);
+            handler.call(this, e);
+        }
+
+        return this;
+
+    };
+
+
+
+        $.fn.serializeObject = function(){
+
+        var o = {};
+        var a = this.serializeArray();
+
+        $.each(a, function(){
+            if (o[this.name]) {
+                if (!o[this.name].push) {
+                    o[this.name] = [o[this.name]];
+                }
+
+                o[this.name].push(this.value || '');
+            } else {
+                o[this.name] = this.value || '';
+            }
+
+        });
+
+        return o;
+
+    };
+
+
+
+        jQuery.each(["patch", "put", "delete"], function(i, method){
+        jQuery[method] = function(url, data, callback, type){
+            if (jQuery.isFunction(data)){
+                type      = type || callback;
+                callback  = data;
+                data      = undefined;
+            }
+
+            return jQuery.ajax({
+                url: url,
+                type: method,
+                dataType: type,
+                data: data,
+                success: callback
+            });
+        };
+    });
+
+
+
+        $.fn.sortSelect = function(options){
+
+        var OPTIONS_DEFAULT = {
+            recursive:      true,   // Recurse into <optgroup>
+            reverse:        false,  // Reverse order
+            useValues:      false,  // Use values instead of text for <option> (<optgruop> is always label based)
+            blankFirst:     true,   // Force placeholder <option> with empty value first, ignores reverse
+        }
+
+        if (typeof options != "object") {
+            options = OPTIONS_DEFAULT;
+        }
+
+        var sortOptions = function($root, $node, options){
+
+            if ($node.length != 1) {
+                return false;
+            }
+
+            if ($node[0].tagName != "SELECT" && $node[0].tagName != "OPTGROUP") {
+                return false;
+            }
+
+            if (options.recursive) {
+                $node.children('optgroup').each(function(k, v){
+                    return sortOptions($root, $(v), options);
+                });
+            }
+
+            var $options        = $node.children('option, optgroup');
+            var $optionsSorted  = $options.sort(function(a, b){
+
+                if (options.blankFirst) {
+                    if (a.tagName == "OPTION" && a.value == "") {
+                        return -1;
+                    }
+
+                    if (b.tagName == "OPTION" && b.value == "") {
+                        return 1;
+                    }
+                }
+
+                var textA = (a.tagName == "OPTION" ? (options.useValues ? a.value : a.text) : a.label);
+                var textB = (b.tagName == "OPTION" ? (options.useValues ? a.value : b.text) : b.label);
+
+                if (textA > textB) {
+                    return options.reverse ? -1 : 1;
+                }
+
+                if (textA < textB) {
+                    return options.reverse ? 1 : -1;
+                }
+
+                return 0;
+
+            });
+
+            $options.remove();
+            $optionsSorted.appendTo($node);
+
+            return true;
+
+        };
+
+                // {...OPTIONS_DEFAULT, ...options}
+        var optionsMerged = OPTIONS_DEFAULT;
+        for (var k in options) {
+            optionsMerged[k] = options[k];
+        }
+
+        var selected = $(this).val();
+        var sorted = sortOptions($(this), $(this), optionsMerged);
+        $(this).val(selected);
+
+        return sorted;
+
+    };
+
+
+
+        window._overlay = function(text, icon){
+
+        var $overlay        = $('#overlay');
+
+        if ($overlay.length >= 2) {
+            $overlay.remove();
+        }
+
+        if ($overlay.length != 1) {
+            $overlay = $('<div id="overlay"><div class="overlay-wrap"><div class="overlay-body"><i class="fa fa-spin fa-spinner"></i><p></p></div></div></div>');
+            $('body').prepend($overlay);
+        }
+
+        var $overlayWrap    = $overlay.find('>div.overlay-wrap');
+        var $overlayBody    = $overlayWrap.find('>div.overlay-body');
+        var $icon           = $overlayBody.find('>i.fa');
+        var $message        = $overlayBody.find('>p');
+
+        if (typeof text != "string" || text.trim().length < 1) {
+            if (Number($overlay.css('opacity')) > 0.875) {
+                $overlay.fadeTo(200, 0, function(){
+                    $overlay.remove();
+
+                    $overlay.css('display', 'none');
+                    $icon.prop('class', 'fa');
+                    $message.html("");
+                });
+            } else {
+                $overlay.remove();
+            }
+
+            return;
+        }
+
+        text = text.trim();
+
+        if (typeof icon != "string" || icon.trim().length < 1) {
+            icon = "fa fa-spin fa-spinner";
+        } else {
+            icon = "fa " + icon.trim();
+        }
+
+        $icon.prop('class', icon);
+        $message.html(text);
+
+        if (Number($overlay.css('opacity')) <= 0.1) {
+            $overlay.fadeTo(500, 1, function(){
+                $overlay.css('display', 'block');
+            });
+        }
+
+    };
+
+
+
+        window._renderCaptchaCallback = function(){
+
+        $('.g-recaptcha').each(function(k, v) {
+            grecaptcha.render(v, {'sitekey': "6Len6_oUAAAAAMQjSJoCadFHcuIFp4GNEVSSOnme"});
+        });
+
+    };
+
+
+
+        $('table.table-sortable').each(function(k, v){
+
+        var $table      = $(v);
+        var $tableHead  = $table.find('>thead').first();
+        var $tableBody  = $table.find('>tbody').first();
+        var $tableFoot  = $table.find('>tfoot').first();
+
+        if ($tableHead.length != 1 || $tableBody.length != 1) {
+            return;
+        }
+
+        var initalSortColumn    = undefined;
+        var initialSortBy       = $table.attr('data-sort-by');
+        var initialSortOrder    = $table.attr('data-sort-order');
+
+        $tableHead.find('>tr >th').each(function(k, v){
+
+            var $th = $(v);
+
+            var $sortButton = $('<i class="js-table-sortable-control fa fa-sort"></i>')
+                .appendTo($th)
+                .click(function(e){
+
+                    e.preventDefault();
+                    sortTableBy(k, ($sortButton.hasClass('fa-sort-asc') ? "desc" : "asc"));
+
+                })
+            ;
+
+            var thSortKey = $th.attr('data-sort-key');
+            if (typeof thSortKey == "string" && (thSortKey = thSortKey.trim()).length >= 1) {
+                if (thSortKey == initialSortBy) {
+                    initalSortColumn = k;
+                }
+            }
+
+        });
+
+        function sortTableBy(column, order)
+        {
+            if (isNaN(column) || column < 0) {
+                return;
+            }
+
+            if (typeof order != "string" || (order = order.trim().toLowerCase()).length < 1) {
+                return;
+            }
+
+            var $ths = $tableHead.find('>tr >th');
+            if ($ths.length < 1 || $ths.length <= column) {
+                return;
+            }
+
+            var $th = $($ths[column]);
+
+            var reverse         = (order === "desc" ? true : false);
+            var swappingRows    = true;
+            var swapRow         = false;
+            var swapCount       = 0;
+
+            var sortOverlayTimeout = setTimeout(function(){
+                _overlay("Sorting...");
+            }, 1000);
+
+            while (swappingRows) {
+                swappingRows = false;
+
+                var $trs = $tableBody.find('>tr');
+                if ($trs.length < 1) {
+                    break;
+                }
+
+                for (var i = 0; i < ($trs.length - 1); i++) {
+                    var $tr         = $($trs[i]);
+                    var $trOther    = $($trs[i + 1]);
+
+                    var $tds        = $tr.find('>td, >th');
+                    var $tdsOther   = $trOther.find('>td, >th');
+
+                    if ($tds.length < 1 || $tds.length <= column) {
+                        return;
+                    }
+
+                    if ($tdsOther && ($tdsOther.length < 1 || $tdsOther.length <= column)) {
+                        return;
+                    }
+
+                    var $td         = $($tds[column]);
+                    var $tdOther    = $($tdsOther[column]);
+
+                    var tdVal       = $td.attr('data-sort-value');
+                    var tdOtherVal  = $tdOther.attr('data-sort-value');
+
+                    if (typeof tdVal != "string") {
+                        tdVal = $td.text();
+                    }
+
+                    if (typeof tdOtherVal != "string") {
+                        tdOtherVal = $tdOther.text();
+                    }
+
+                    if (!isNaN(Number(tdVal))) {
+                        tdVal = Number(tdVal);
+                    } else {
+                        tdVal = String(tdVal).toLowerCase();
+                    }
+
+                    if (!isNaN(Number(tdOtherVal))) {
+                        tdOtherVal = Number(tdOtherVal);
+                    } else {
+                        tdOtherVal = String(tdOtherVal).toLowerCase();
+                    }
+
+                    swapRow = false;
+                    if (!reverse) {
+                        if (tdVal > tdOtherVal) {
+                            swapRow = true;
+                            break;
+                        }
+                    } else {
+                        if (tdVal < tdOtherVal) {
+                            swapRow = true;
+                            break;
+                        }
+                    }
+                }
+
+                if (swapRow) {
+                    $($trs[i]).insertAfter($($trs[i + 1]));
+                    swappingRows = true;
+                    swapCount++;
+                }
+            }
+
+            clearTimeout(sortOverlayTimeout);
+            _overlay();
+
+            var $controlActive = $th.find('.js-table-sortable-control');
+            $tableHead.find('.js-table-sortable-control').each(function(k, v){
+
+                var $control = $(v);
+
+                if ($controlActive.length == 1 && $control.is($controlActive)) {
+                    $control
+                        .addClass('active')
+                        .addClass(reverse ? 'fa-sort-desc' : 'fa-sort-asc')
+                        .removeClass(reverse ? 'fa-sort-asc' : 'fa-sort-desc')
+                        .removeClass('fa-sort')
+                    ;
+                    return;
+                }
+
+                $control
+                    .removeClass('active fa-sort-asc fa-sort-desc')
+                    .addClass('fa-sort')
+                ;
+
+            });
+        }
+
+        if (
+            typeof initialSortBy == "string" && (initialSortBy = initialSortBy.trim()).length >= 1 &&
+            typeof initialSortOrder == "string" && (initialSortOrder = initialSortOrder.trim()).length >= 1 &&
+            typeof initalSortColumn == "number" && !isNaN(initalSortColumn) && initalSortColumn >= 0
+        ) {
+            sortTableBy(initalSortColumn, initialSortOrder);
+        }
+
+    });
+
+
+
+        jQuery(document).ready(function($){
+
+                $('html').removeClass('hidden');
+
+        $(window).on('load', function(){
+            $('html').removeClass('hidden');
+        });
+
+
+
+                window._createDatePicker = function($elements){
+
+            if (!($elements instanceof jQuery)) {
+                return;
+            }
+
+            if ($elements.length < 1) {
+                return;
+            }
+
+            $elements.each(function(k, v){
+
+                var $input = $(v);
+                if ($input.length != 1) {
+                    return;
+                }
+
+                $input.datepicker({
+                    dateFormat:     "yy-mm-dd",
+                    onSelect:       function(dateText, datePicker){
+                        if (dateText !== datePicker.lastVal) {
+                            $(this).change();
+                        }
+                    },
+                });
+
+            });
+
+        };
+
+        window._createTimePicker = function($elements){
+
+            if (!($elements instanceof jQuery)) {
+                return;
+            }
+
+            if ($elements.length < 1) {
+                return;
+            }
+
+            $elements.each(function(k, v){
+
+                var $input = $(v);
+                if ($input.length != 1) {
+                    return;
+                }
+
+                var value           = $input.val();
+                var valueRaw        = $input[0].value;
+
+                var step            = Number($input.attr('step'));
+                var stepHour        = 1;
+                var stepMinute      = 1;
+                var stepSecond      = 1;
+                var stepMillisec    = 1;
+                var stepMicrosec    = 1;
+
+                if (typeof step == "number" && !isNaN(step) && step >= 1) {
+                    stepHour        = Math.max(1, Math.floor(step / 60 / 60));
+                    stepMinute      = Math.max(1, Math.floor(step / 60));
+                    stepSecond      = Math.max(1, step % 60);
+                } else {
+                    step = 60;
+                }
+
+                var hourMin         = Number($input.attr('data-hour-min'));
+                var minuteMin       = Number($input.attr('data-minute-min'));
+                var secondMin       = Number($input.attr('data-second-min'));
+                var millisecMin     = Number($input.attr('data-millisec-min'));
+                var microsecMin     = Number($input.attr('data-microsec-min'));
+
+                var hourMax         = Number($input.attr('data-hour-max'));
+                var minuteMax       = Number($input.attr('data-minute-max'));
+                var secondMax       = Number($input.attr('data-second-max'));
+                var millisecMax     = Number($input.attr('data-millisec-max'));
+                var microsecMax     = Number($input.attr('data-microsec-max'));
+
+                var showHour        = (step < 86400);
+                var showMinute      = (step < 3600);
+                var showSecond      = (step < 60);
+                var showMillisec    = (step < 1);
+                var showMicrosec    = (step < 0.001);
+
+                var timeFormat      = "HH";
+
+                if (showMinute) {
+                    timeFormat += ":mm";
+                }
+
+                if (showSecond) {
+                    timeFormat += ":ss";
+                }
+
+                if (showMillisec) {
+                    timeFormat += ".l";
+
+                    if (showMicrosec) {
+                        timeFormat += "c";
+                    }
+                }
+
+                $input.timepicker({
+                    timeFormat:     timeFormat,
+
+                    stepHour:       stepHour,
+                    stepMinute:     stepMinute,
+                    stepSecond:     stepSecond,
+                    stepMillisec:   stepMillisec,
+                    stepMicrosec:   stepMicrosec,
+
+                    hourMin:        !isNaN(hourMin)     ? hourMin       : 0,
+                    minuteMin:      !isNaN(minuteMin)   ? minuteMin     : 0,
+                    secondMin:      !isNaN(secondMin)   ? secondMin     : 0,
+                    millisecMin:    !isNaN(millisecMin) ? millisecMin   : 0,
+                    microsecMin:    !isNaN(microsecMin) ? microsecMin   : 0,
+
+                    hourMax:        !isNaN(hourMax)     ? hourMax       : 23,
+                    minuteMax:      !isNaN(minuteMax)   ? minuteMax     : 59,
+                    secondMax:      !isNaN(secondMax)   ? secondMax     : 59,
+                    millisecMax:    !isNaN(millisecMax) ? millisecMax   : 999,
+                    microsecMax:    !isNaN(microsecMax) ? microsecMax   : 999,
+
+                    showHour:       showHour,
+                    showMinute:     showMinute,
+                    showSecond:     showSecond,
+                    showMillisec:   showMillisec,
+                    showMicrosec:   showMicrosec,
+
+                    currentText:    "Now",
+                    closeText:      "Done",
+                    timeOnlyTitle:  "Choose\u0020Time",
+                    timeText:       "Time",
+                    hourText:       "Hour",
+                    minuteText:     "Minute",
+                    secondText:     "Second",
+                    millisecText:   "Millisecond",
+                    microsecText:   "Microsecond",
+                    timezoneText:   "Timezone",
+
+                    onSelect:       function(timeText, timePicker){
+                        if (timeText !== timePicker.lastVal) {
+                            $(this).change();
+                        }
+                    },
+                });
+
+            });
+
+        };
+
+
+
+                window._prepareChosen = function($elements){
+
+            if (!($elements instanceof jQuery)) {
+                return;
+            }
+
+            if ($elements.length < 1) {
+                return;
+            }
+
+            $elements.each(function(k, v){
+
+                var $dropDown = $(v);
+                if ($dropDown.length != 1) {
+                    return;
+                }
+
+                var placeholderAttr = $dropDown.attr('placeholder');
+                if (typeof placeholderAttr != "string" || (placeholderAttr = placeholderAttr.length()) < 1) {
+                    placeholderAttr = null;
+                }
+
+                var required        = $dropDown.attr('required') ? true : false;
+                var placeholder     = (placeholderAttr ? placeholderAttr : (required ? "Please\u0020choose" : " "));
+
+                /* $dropDown.attr('data-placeholder', placeholder).chosen({
+                    allow_single_deselect:      !required,
+                    placeholder_text_single:    placeholder,
+                    placeholder_text_multiple:  placeholder,
+                    no_results_text:            "No\u0020matches\u0020found:",
+                }); */
+
+                var $chosen = $dropDown.siblings('.chosen-container').first();
+                if ($chosen.length == 1 && !$dropDown.hasClass('chosen-fixed')) {
+                    $chosen.css('width', $dropDown.css('width'));
+                }
+
+            });
+
+        };
+
+        window._prepareChosen($('select.chosen'));
+
+
+
+        
+
+
+                $(document).on('click', '.popout .js-close', function(e){
+
+            e.preventDefault();
+
+            var $popout = $(this).parents('.popout');
+            if ($popout.length != 1) {
+                return;
+            }
+
+            $popout.fadeOut(600, function(){
+                $popout.remove();
+            });
+
+        });
+
+
+
+                window._quickToast = function(title, html, type){
+            if (typeof html != "string" || (html = html.trim()).length < 1) {
+                console.error("HTML not specified.");
+                return;
+            }
+
+            // Switch title to something friendlier
+            if (title == 'Danger') {
+                title = 'Error';
+            }
+
+            var $toastContainer = $('#toast-container');
+            if ($toastContainer.length != 1) {
+                console.error("Toast container DOM not found.");
+                return;
+            }
+
+            var $toastCount = $toastContainer.children().length;
+            var $toastID = "toast-" + $toastCount;
+            var $toast = String("<div id=\"___ID___\" class=\"toast\" role=\"alert\" aria-live=\"assertive\" aria-atomic=\"true\" data-delay=\"10000\"><div class=\"toast-header\"><strong class=\"mr-auto\"></strong><button type=\"button\" class=\"ml-2 close\" data-dismiss=\"toast\" aria-label=\"Close\"><span aria-hidden=\"true\"><i class=\"fal fa-times\";</span></button></div><div class=\"toast-body\"></div></div>").replace(/___ID___/g, $toastID);
+
+            $( $toast ).appendTo( $toastContainer );
+
+            var $currentToast = $("#" + $toastID);
+            var $toastTitle = $currentToast.find('.toast-header strong');
+            var $toastBody = $currentToast.find('.toast-body');
+
+            $currentToast.addClass(type);
+            $toastTitle.html(title);
+            $toastBody.html(html);
+            $("#" + $toastID).toast('show');
+        }
+
+
+
+                window._quickModal = function(html, params){
+
+            if (typeof html != "string" || (html = html.trim()).length < 1) {
+                console.error("HTML not specified.");
+                return;
+            }
+
+            // << Parameters
+            if (typeof params != "object" || params === null) {
+                params = {
+                    size:                   null,
+                    type:                   null,
+                    title:                  null,
+                    subtitle:               null,
+                    icon:                   null,
+                    canClose:               true,
+                    callbackOnUpdateParams: null,
+                    callbackOnUpdateHtml:   null,
+                    callbackOk:             null,
+                    callbackCancel:         null,
+                    buttonTextOk:           "OK",
+                    buttonTextCancel:       "Cancel",
+                    classes:                null,
+                };
+            }
+
+            // Size
+            params.size     = (params.hasOwnProperty("size") && typeof params.size == "string") ? params.size.trim() : null;
+            switch (params.size) {
+                case null:
+                    params.size = "md";
+                    break;
+
+                case "xs":
+                case "sm":
+                case "md":
+                case "lg":
+                case "xl":
+                    break;
+
+                default:
+                    console.warn(sprintf("Unknown size \"%s\" used. Assuming regular.", params.size));
+                    params.size = "md";
+            }
+
+            // Type
+            params.type     = (params.hasOwnProperty("type") && typeof params.type == "string") ? params.type.trim() : null;
+            switch (params.type) {
+                case null:
+                case "info":
+                case "success":
+                case "warning":
+                case "danger":
+                    break;
+
+                case "error":
+                    console.warn(sprintf("Incorrect type \"%s\" used. Assuming \"danger\", but please correct your code.", params.type));
+                    params.type = "danger";
+                    break;
+
+                default:
+                    console.warn(sprintf("Unknown type \"%s\" used. Assuming regular.", params.type));
+                    params.type = null;
+            }
+
+            // Header
+            params.classes = (params.hasOwnProperty("classes") && typeof params.classes == "string") ? params.classes.trim() : null;
+
+            params.title    = (params.hasOwnProperty("title") && typeof params.title == "string") ? params.title.trim() : null;
+            params.subtitle = (params.hasOwnProperty("subtitle") && typeof params.subtitle == "string") ? params.subtitle.trim() : null;
+            params.icon     = (params.hasOwnProperty("icon") && typeof params.icon == "string") ? params.icon.trim() : null;
+            params.canClose = (!params.hasOwnProperty("canClose") || params.canClose) ? true : false;
+
+            // Button text
+            if (!params.hasOwnProperty("buttonTextOk") || typeof params.buttonTextOk != "string" || (params.buttonTextOk = params.buttonTextOk.trim()).length < 1) {
+                params.buttonTextOk = null;
+            }
+
+            if (!params.hasOwnProperty("buttonTextCancel") || typeof params.buttonTextCancel != "string" || (params.buttonTextCancel = params.buttonTextCancel.trim()).length < 1) {
+                params.buttonTextCancel = null;
+            }
+
+            // Callback functions
+            if (!params.hasOwnProperty("callbackOnUpdateParams") || typeof params.callbackOnUpdateParams != "function") {
+                params.callbackOnUpdateParams = null;
+            }
+
+            if (!params.hasOwnProperty("callbackOnUpdateHtml") || typeof params.callbackOnUpdateHtml != "function") {
+                params.callbackOnUpdateHtml = null;
+            }
+
+            if (!params.hasOwnProperty("callbackOk") || typeof params.callbackOk != "function") {
+                params.callbackOk = null;
+            }
+
+            if (!params.hasOwnProperty("callbackCancel") || typeof params.callbackCancel != "function") {
+                params.callbackCancel = null;
+            }
+
+            // >> Parameters
+
+
+
+            // DOM
+            var $modal = $('#modal');
+            if ($modal.length != 1) {
+                console.error("Modal DOM not found.");
+                return;
+            }
+
+            var $modalDialog        = $modal.find('>.modal-dialog');
+            var $modalContent       = $modalDialog.find('>.modal-content');
+            var $modalHeader        = $modalContent.find('>.modal-header');
+            var $modalTitle         = $modalHeader.find('.modal-title');
+            var $modalTitleIcon     = $modalTitle.find('>i.fal');
+            var $modalTitleText     = $modalTitle.find('>span');
+            var $modalSubtitleText  = $modalHeader.find('p');
+            var $modalClose         = $modalHeader.find('.close');
+            var $modalBody          = $modalContent.find('>.modal-body');
+            var $modalFooter        = $modalContent.find('>.modal-footer');
+            var $modalButtonOk      = $modalFooter.find('.js-ok');
+            var $modalButtonCancel  = $modalFooter.find('.js-cancel');
+
+            // Function: Update the modal's parameters
+            $modal._quickModalParams = function(params){
+
+                // Main
+                $modalDialog.prop('class', "modal-dialog");
+
+                if (typeof params.size == "string" && (size = params.size.trim()).length >= 1) {
+                    $modalDialog.addClass(sprintf("modal-%s", size));
+                }
+
+                if (typeof params.type == "string" && (type = params.type.trim()).length >= 1) {
+                    $modalDialog.addClass(sprintf("modal-%s", type));
+                }
+
+                if (typeof params.classes == "string" && (classes = params.classes.trim()).length >= 1) {
+                    $modal.addClass(classes);
+                }
+
+                // Title
+                $modalTitle.addClass('d-none');
+                $modalSubtitleText.addClass('d-none');
+                $modalTitleText.html("");
+                $modalTitleIcon.prop('class', "fal");
+                $modalTitleIcon.addClass('d-none');
+                $modalClose.addClass('d-none');
+
+                if (typeof params.title == "string" && (title = params.title.trim()).length >= 1) {
+                    $modalTitleText.html(title);
+                    $modalTitle.removeClass('d-none');
+                }
+
+                if (typeof params.subtitle == "string" && (subtitle = params.subtitle.trim()).length >= 1) {
+                    $modalSubtitleText.html(subtitle);
+                    $modalSubtitleText.removeClass('d-none');
+                }
+
+                if (typeof params.icon == "string" && (icon = params.icon.trim()).length >= 1) {
+                    $modalTitleIcon.prop('class', sprintf("fal %s", icon));
+                    $modalTitleIcon.removeClass('d-none');
+                    $modalTitle.removeClass('d-none');
+                }
+
+                if (params.canClose) {
+                    $modalClose.removeClass('d-none');
+                    $modalTitle.removeClass('d-none');
+                }
+
+                // Body
+                html = html.replace(/\\u0020/g, " ");
+                $modalBody.html(html);
+
+                // Footer
+                $modalFooter.addClass('d-none');
+                $modalButtonOk.off('click');
+                $modalButtonOk.addClass('d-none');
+                $modalButtonCancel.off('click');
+                $modalButtonCancel.addClass('d-none');
+
+                if (typeof params.buttonTextOk == "string") {
+                    $modalButtonOk.html(params.buttonTextOk);
+                }
+
+                if (typeof params.callbackOk == "function") {
+                    $modalButtonOk.on('click', function(e){
+
+                        e.preventDefault();
+
+                        if ($(this).hasClass('disabled')) {
+                            return;
+                        }
+
+                        $(this).addClass('disabled');
+                        if (params.callbackOk(e, $modal) === true) {
+                            $modal.modal('hide');
+                        }
+                        $(this).removeClass('disabled');
+
+                    });
+
+                    $modalButtonOk.removeClass('d-none');
+                    $modalFooter.removeClass('d-none');
+                }
+
+                if (typeof params.buttonTextCancel == "string") {
+                    $modalButtonCancel.html(params.buttonTextCancel);
+                }
+
+                if (typeof params.callbackCancel == "function") {
+                    $modalButtonCancel.on('click', function(e){
+
+                        e.preventDefault();
+
+                        if ($(this).hasClass('disabled')) {
+                            return;
+                        }
+
+                        $(this).addClass('disabled');
+                        if (params.callbackCancel(e, $modal) === true) {
+                            $modal.modal('hide');
+                        }
+                        $(this).removeClass('disabled');
+
+                    });
+
+                    $modalButtonCancel.removeClass('d-none');
+                    $modalFooter.removeClass('d-none');
+                }
+
+                // Callback
+                if (typeof params.callbackOnUpdateParams == "function") {
+                    params.callbackOnUpdateParams($modal);
+                }
+
+            };
+
+            // Function: Update the modal's body HTML
+            $modal._quickModalHtml = function(html){
+
+                // Body
+                $modalBody.html(html);
+
+                // Callback
+                if (typeof params.callbackOnUpdateHtml == "function") {
+                    params.callbackOnUpdateHtml($modal);
+                }
+
+            };
+
+            // Show
+            $modal._quickModalParams(params);
+            $modal._quickModalHtml(html);
+            $modal.modal('show');
+
+            return $modal;
+
+        };
+
+
+
+                window.validateManagedFormInput = function($input, str, callback){
+
+            if (!($input instanceof jQuery) || $input.length !== 1) {
+                return true;
+            }
+
+            if ($input.data('isValidating')) {
+                return true;
+            }
+
+            if ($input.prop('tagName') == "INPUT" && $input.attr('type') == "file") {
+                return true;
+            }
+
+            var $formGroup = $input.parents('.form-group');
+            if ($formGroup.length != 1) {
+                return true;
+            }
+
+            var form    = $input.parents('form[data-validate-form]').first();
+            var $form   = $(form);
+            if ($form.length != 1) {
+                return true;
+            }
+
+            var ignore = false;
+            $input.parentsUntil($form).each(function(k, v){
+
+                if (Number($(v).attr('data-validate-ignore')) == 1) {
+                    ignore = true;
+                }
+
+            });
+
+            if (
+                Number($form.attr('data-validate-ignore')) == 1 ||
+                Number($input.attr('data-validate-ignore')) == 1 ||
+                ignore
+            ) {
+                return true;
+            }
+
+            var postData = {
+                class:      null,
+                form:       null,
+                formKey:    null,
+                data:       null,
+                field:      null,
+                groups:     null,
+                isCms:      0,
+                options:    {},
+            }
+
+            postData.class = $form.attr('data-validate-form');
+            if (typeof postData.class != "string" || postData.class.trim().length < 1) {
+                return true;
+            }
+            postData.class = postData.class.trim();
+
+            postData.form = $form.attr('name');
+            if (typeof postData.form != "string" || postData.form.trim().length < 1) {
+                postData.form = null;
+            } else {
+                postData.form = postData.form.trim();
+            }
+
+            postData.formKey = $form.attr('data-validate-form-key');
+            if (typeof postData.formKey != "string" || postData.formKey.trim().length < 1) {
+                postData.formKey = null;
+            } else {
+                postData.formKey = postData.formKey.trim();
+            }
+
+            postData.data = $form.serialize();
+            if (typeof postData.data != "string" || postData.data.trim().length < 1) {
+                return true;
+            }
+
+            postData.field = $input.attr('name');
+            if (typeof postData.field != "string" || postData.field.trim().length < 1) {
+                return true;
+            }
+            postData.field = postData.field.trim();
+
+            var fieldRegex  = /^([a-zA-Z0-9\-\_]+)\[([a-zA-Z0-9\-\_]+)\](\[\])?$/;
+            var fieldBits   = fieldRegex.exec(postData.field);
+            if (fieldBits !== null && Array.isArray(fieldBits) && fieldBits.length >= 3) {
+                if (fieldBits[1] == postData.form && typeof fieldBits[2] == "string" || fieldBits[2].trim().length >= 1) {
+                    postData.field = fieldBits[2].trim();
+                }
+            }
+
+            postData.groups = $form.attr('data-validate-groups');
+            if (typeof postData.groups != "string" || postData.groups.trim().length < 1) {
+                postData.groups = "";
+            }
+            postData.groups = postData.groups.trim();
+
+            postData.options = $form.attr('data-validate-options');
+            if (typeof postData.options != "string" || postData.options.trim().length < 1) {
+                postData.options = "";
+            }
+            postData.options = postData.options.trim();
+
+            $input.data('isValidating', true);
+            $.post('\/validate\/form\u002Dfield', postData, function(data, textStatus, xhr){
+
+                if (str === 'ok') {
+                    callback(true);
+                }
+
+                $input.data('isValidating', false);
+
+                if (!_verifyAjaxResponse(data, textStatus, xhr)) {
+                    return;
+                }
+
+                $input.removeClass("invalid");
+                $input.siblings('ul.errors').remove();
+
+                if (!data.hasOwnProperty("valid") || data.valid) {
+                    return;
+                }
+
+                if (data.hasOwnProperty("problems") && Array.isArray(data.problems) && data.problems.length >= 1) {
+                    var problems        = 0;
+                    var $problemList    = $('<ul class="errors"></ul>');
+
+                    for (var i in data.problems) {
+                        var problem = data.problems[i];
+
+                        if (typeof problem != "string" || problem.trim().length < 1) {
+                            continue;
+                        }
+
+                        $('<li></li>').html(problem.trim()).appendTo($problemList);
+                        problems++;
+                    }
+
+                    if (problems >= 1) {
+                        $input.addClass("invalid");
+                        $problemList.insertAfter($input);
+                    }
+                }
+
+            }).fail(function(xhr, textStatus, errorThrown){
+
+                $input.data('isValidating', false);
+                _handleAjaxError(xhr, textStatus, errorThrown);
+
+            });
+
+            return true;
+
+        };
+
+        $(document).on('form[data-validate-form]').on('blur change dblclick', 'input:not(.hasDatepicker), select, textarea', function(e){
+            return validateManagedFormInput($(e.target));
+        });
+
+        $(document).on('form[data-validate-form]').on('change', 'input.hasDatepicker', function(e){
+            return validateManagedFormInput($(e.target));
+        });
+
+    });
+
+} else {
+    console.error("jQuery unavailable!");
+}
+
+
+                jQuery(document).ready(function($){
+
+            window._createDatePicker($('input.datepicker'));
+            window._createTimePicker($('input.timepicker'));
+
+
+                                                    setTimeout(function() {
+                    $.ajax({
+                        url: "\/en\/donate\/get_active_donation",
+                        method: "post",
+                        data: null,
+                        success: function(response) {
+
+                            // Found an active donation?
+                            if(response.success && response.donation) {
+
+                                var $returnDonationModal = $('#return-to-donation-modal');
+
+                                // Update return to donation url and show modal
+                                $returnDonationModal.find('#return-to-donation-url').attr('href', response.donation.return_url);
+                                $returnDonationModal.modal();
+                            }
+
+                        }, error: function(response) {
+                            console.error("Unable to get an active donation", response.responseText);
+                        }
+                    });
+                }, 5000);
+                        
+                        function rememberWarningSeen(warningName)
+            {
+                if (!warningName || typeof warningName != "string" || warningName.trim().length < 1) {
+                    return;
+                }
+
+                sessionStorage.setItem(sprintf("seenWarningFor%s", warningName.trim()), 1);
+            }
+
+            function getWarningSeen(warningName)
+            {
+                if (!warningName || typeof warningName != "string" || warningName.trim().length < 1) {
+                    return false;
+                }
+
+                return (Number(sessionStorage.getItem(sprintf("seenWarningFor%s", warningName.trim()))) === 1);
+            }
+
+            $('div.modal.modal-for-warning').on('hidden.bs.modal', function(e){
+
+                var rememberName = $(this).attr('data-remember');
+                if (rememberName && rememberName.length > 0) {
+                    rememberWarningSeen(rememberName);
+                }
+
+            });
+
+                        var $flashContainer = $('#flash-messages');
+            if ($flashContainer.length >= 1) {
+                $.get('\/flashes', function(data, textStatus, xhr){
+
+                    if (!_verifyAjaxResponse(data, textStatus, xhr)) {
+                        return;
+                    }
+
+                    if (!data.hasOwnProperty("messages") || typeof data.messages != "object" || null === data.messages || Array.isArray(data.messages)) {
+                        return;
+                    }
+
+                    for (var t in data.messages) {
+                        t = t.trim();
+                        var title = t.charAt(0).toUpperCase() + t.slice(1);
+
+                        if (!Array.isArray(data.messages[t]) || data.messages[t].length < 1) {
+                            continue;
+                        }
+
+                        for (var i = 0; i < data.messages[t].length; i++) {
+                            var f = data.messages[t][i];
+
+                            if (typeof f != "string" || f.trim().length < 1) {
+                                continue;
+                            }
+                            f = f.trim();
+
+                            _quickToast(title, f, t);
+
+                            
+                        }
+                    }
+
+                }).fail(function(xhr, textStatus, errorThrown){
+                    _handleAjaxError(xhr, textStatus, errorThrown);
+                });
+            }
+
+                        
+        });
+
+        // Fix for IE errors var scriptsReadyEvent = new CustomEvent('scriptsReady');
+        var scriptsReadyEvent = document.createEvent("CustomEvent");
+        scriptsReadyEvent.initCustomEvent('scriptsReady', false, false, {});
+
+        console.log(sprintf("Dispatching event \"%s\".", scriptsReadyEvent.type));
+        document.dispatchEvent(scriptsReadyEvent);
+
+        return window.scriptInited;
+
+    };
+
+    if (window.scriptLoaded) {
+        scriptInit(false);
+    } else {
+        window.scriptMain.addEventListener('load', function(e){
+
+            if (!scriptInit(false)) {
+                window.scriptInitInterval = setInterval(function(){
+                    scriptInit(true);
+                }, 1000);
+            }
+
+        });
+    }
+
+}
+
+        --></script>
+
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                                <script type="text/plain" data-type="application/javascript" data-name="analytics" >
+            _linkedin_partner_id = "4994962";
+            window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+            window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+        </script>
+        <script type="text/plain" data-type="application/javascript" data-name="analytics">
+            (function(l) {
+            if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+            window.lintrk.q=[]}
+            var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript";b.async = true;
+            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+            s.parentNode.insertBefore(b, s);})(window.lintrk);
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none;" alt="LI Tracking Pixel" src="https://px.ads.linkedin.com/collect/?pid=4994962&fmt=gif" />
+        </noscript>
+
+        <script id="javascript-fa" async defer type="text/javascript" src="https://kit.fontawesome.com/ce0a6e0a68.js" crossorigin="anonymous"></script>
+                    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=_renderCaptchaCallback&amp;render=explicit" async defer></script>
+            <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5e664cb4f98c8e2',t:'MTc5NTMzNDM1NQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5e664cb4f98c8e2',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

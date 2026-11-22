@@ -1,0 +1,439 @@
+Engineering and Risk
+Active
+By
+Earthquake Hazards Program
+July 8, 2025
+Overview
+Multimedia
+Publications
+Software
+Connect
+FAQ
+The well-known statement "Earthquakes don't kill people, buildings do" highlights the need to make our communities more earthquake resilient. The impact of earthquakes on public safety and the national economy can be reduced through improvement of the built environment to resist earthquake effects such as ground shaking. Extending natural hazards science to risk involves (1) conducting research to develop and improve seismic hazard information and associated uncertainties for various building code applications, and (2) assessing seismic risk to the Nation’s buildings and other infrastructure to better communicate with stakeholders and promote seismic safety. Of the three broad areas of work prioritized by the Engineering and Risk Project (ERP), namely (1) earthquake monitoring, (2) hazard assessments, and (3) targeted research (Hayes and others, 2024), the ERP provides unique expertise to enhance the first two activities and plays a central role in targeted engineering research for earthquake risk reduction.
+The Engineering and Risk Project (ERP) is part of the Hazards, Impact, and Risk (HIR) sub-committee of Science Coordination Committee (SCC) of the USGS Earthquake Hazards Program (EHP). Two ERP tasks are currently identified to extend hazard science to engineering mitigation and risk reduction (i.e., improve ability of built environment to resist hazards). They both have research and outreach elements and are consisted of:
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Map of the United States and its territories showing 2024 International Building Code Seismic Design Categories and Risk Categories.
+Task 1: Collaboration with external engineers and National Seismic Hazard Model (NSHM) project on earthquake ground motions for construction codes; with five current subtasks:
+Research on earthquake ground motion maps for construction codes
+Adoption of USGS earthquake hazard assessments into construction codes
+Development of web services and data releases for dissemination of earthquake ground motion maps for construction codes
+Simulation, validation, and utilization of earthquake ground motion time-series for building codes
+Alternative ground motion intensity measures
+Task 2: Extending natural hazards to risk; with five subtasks:
+Seismic risk to critical infrastructure
+Earthquake-induced ground failure forecasts
+Earthquake ground-motion and impact scenarios
+Multi-hazard risk assessment
+Seismic safety of tall buildings and other long-period structures
+These tasks and subtasks have been designed to collaborate with the internal community (e.g., the USGS NSHM Project, the USGS National Earthquake Information Center (NEIC)) to develop requisite data, methods, and tools for assessing risks to building and non-building infrastructure systems. The goals are achieved by collaborating with the external community (e.g., Building Seismic Safety Council (BSSC), Federal Emergency Management Agency (FEMA)) to assess design loads and mitigate seismic risk.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Map of the United States and its territories showing the distribution of average annualized earthquake losses by region (modified from Jaiswal and others, 2023). Economic losses from earthquakes in these nine regions are estimated to average \$14.7 billion dollars per year.
+For More Information
+Design Ground Motions
+Earthquake Scenarios
+National Earthquake Hazards Reduction Program
+References:
+Hayes, G.P., Baltay Sundstrom, A.S., Barnhart, W.D., Blanpied, M.L., Davis, L.A., Earle, P.S., Field, N., Franks, J.M., Given, D.D., Gold, R.D., Goulet, C.A., Guy, M.M., Hardebeck, J.L., Luco, N., Pollitz, F., Ringler, A.T., Scharer, K.M., Sobieszczyk, S., Thomas, V.I., and Wolfe, C.J., 2024, U.S. Geological Survey Earthquake Hazards Program decadal science strategy, 2024–33: U.S. Geological Survey Circular 1544, 55 p.,
+Link
+Federal Emergency Management Agency [FEMA], 2020b, NEHRP recommended seismic provisions—Seismic design category maps for 2024 International Residential Code (IRC) and International Building Code (IBC): Federal Emergency Management Agency report no. FEMA P-2192-4, 32 p.,
+Link
+Jaiswal, K., Rozelle, J.,Tong, M.,Sheehan, A.,McNabb, S.,Kelly, M.,Zuzak, C.,Bausch, D., and Sims, J., 2023, Hazus estimated annualized earthquake losses for the United States: Federal Emergency Management Agency report no. FEMA P-366, 98 p.,
+Link
+Jaiswal, K.S., Rezaeian, S., Luco, N., Kwong, N.S., Makdisi, A.J., Mason, H.B., Chase, R.E., and Kortum, Z.A., 2025, Engineering and risk research—A strategic vision for extending USGS earthquake science to risk assessment and mitigation: U.S. Geological Survey Circular 1555, 19 p.,
+Link
+Media
+Sources/Usage: Public Domain.
+View Media Details
+USGS FEMA Earthquake Loss/Risk Map
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Engineering and Risk Project Team: from left to right, Kishor Jaiswal, N. Simon Kwong, Rob Chase, Ben Mason, David Wald, Sanaz Rezaeian, Nico Luco, Andrew Makdisi, Eric Thompson, Zachary Kortum, Mark Peterson.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Engineering and Risk Research—A Strategic Vision for Extending USGS Earthquake Science to Risk Assessment and Mitigation
+December 8, 2022
+Engineering and Risk Project Team
+Engineering and Risk Project Team: from left to right, Kishor Jaiswal, N. Simon Kwong, Rob Chase, Ben Mason, David Wald, Sanaz Rezaeian, Nico Luco, Andrew Makdisi, Eric Thompson, Zachary Kortum, Mark Peterson.
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+February 19, 2025
+Implications of physics-based M9 ground motions on liquefaction-induced damage in the Cascadia Subduction Zone: Looking forward and backward
+Implications of physics-based M9 ground motions on liquefaction-induced damage in the Cascadia Subduction Zone: Looking forward and backward
+Given the likelihood of future M9 Cascadia Subduction Zone (CSZ) earthquakes, various estimates of the resulting, regional ground motions have been made, including a suite of 30 physics-based simulations that reflect key modeling uncertainties. However, because the last CSZ interface rupture occurred in 1700 CE, the shaking expected in such an event is especially uncertain, as are the...
+Authors
+Ryan A. Rasanen, Alex R. Grant, Andrew James Makdisi, Brett W. Maurer, Erin A. Wirth
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Earthquake Science Center
+December 1, 2024
+Effective site coefficients for the 2024 International Building Code (IBC)
+Effective site coefficients for the 2024 International Building Code (IBC)
+The U.S. National Seismic Hazard Models (NSHMs), developed by the U.S. Geological Survey (USGS), have long been the scientific foundation of seismic design guidelines and have been used to compute design ground motions for construction of new buildings and retrofit of existing buildings in the United States and its territories. The 2018 NSHM is adopted by the 2024 International Building...
+Authors
+Sanaz Rezaeian, Nico Luco, Andrew James Makdisi, Henry Mason
+By
+Geologic Hazards Science Center
+September 27, 2024
+Framework for mapping liquefaction hazard–Targeted design ground motions
+Framework for mapping liquefaction hazard–Targeted design ground motions
+Liquefaction-induced ground failure poses substantial challenges to geotechnical earthquake engineering design. Current approaches for designing against liquefaction hazards, as specified in most seismic provisions, focus on estimating a liquefaction factor of safety (𝐹⁢𝑆𝐿) and typically characterize earthquake loading using design parameters based on probabilistic or deterministic...
+Authors
+Andrew James Makdisi, Steven L. Kramer
+By
+Geologic Hazards Science Center
+July 30, 2024
+Quantitative risk of earthquake disruption to global copper and rhenium supply
+Quantitative risk of earthquake disruption to global copper and rhenium supply
+Earthquakes have the potential to substantially affect mining operations, potentially leading to supply chain disruptions and adversely affecting the global economy. This study explores the quantification of earthquake risk to copper and rhenium commodity supply by examining the spatial concentration of high earthquake hazard areas and the commodity-specific mining, smelting, and...
+Authors
+Kishor S. Jaiswal, Nico Luco, Emily K. Schnebele, Nedal T. Nassar, Donya Otarod
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+,
+National Minerals Information Center
+July 1, 2024
+Effects of stochastically-simulated near-fault ground motions on soil liquefaction
+Effects of stochastically-simulated near-fault ground motions on soil liquefaction
+The scarcity of historically recorded near-fault ground motions poses a challenge to systematically understanding the influence of near-fault effects on various types of seismic demands for engineering purposes. In particular, the current state of knowledge of the influence of ground-shaking intensity on soil liquefaction and its consequences does not specifically account for the effects...
+Authors
+Andrew James Makdisi, Mayssa Dabaghi, Lianne Brito Silveira, Sanaz Rezaeian, Kirstie Lafon Haynie, Henry Mason
+By
+Geologic Hazards Science Center
+December 29, 2023
+The 2023 US 50-State National Seismic Hazard Model: Overview and implications
+The 2023 US 50-State National Seismic Hazard Model: Overview and implications
+The US National Seismic Hazard Model (NSHM) was updated in 2023 for all 50 states using new science on seismicity, fault ruptures, ground motions, and probabilistic techniques to produce a standard of practice for public policy and other engineering applications (defined for return periods greater than ∼475 or less than ∼10,000 years). Changes in 2023 time-independent seismic hazard...
+Authors
+Mark D. Petersen, Allison M. Shumway, Peter M. Powers, Edward H. Field, Morgan P. Moschetti, Kishor S. Jaiswal, Kevin R. Milner, Sanaz Rezaeian, Arthur D. Frankel, Andrea L. Llenos, Andrew J. Michael, Jason M. Altekruse, Sean Kamran Ahdi, Kyle B. Withers, Charles Mueller, Yuehua Zeng, Robert E. Chase, Leah M. Salditch, Nico Luco, Kenneth S. Rukstales, Julie A. Herrick, Demi Leafar Girot, Brad T. Aagaard, Adrian Bender, Michael L. Blanpied, Richard W. Briggs, Oliver S. Boyd, Brandon S. Clayton, Christopher B. DuRoss, Eileen L. Evans, Peter J. Haeussler, Alexandra Elise Hatem, Kirstie Lafon Haynie, Elizabeth H. Hearn, Kaj M. Johnson, Zachary Alan Kortum, N. Simon Kwong, Andrew James Makdisi, Henry Mason, Daniel McNamara, Devin McPhillips, P. Okubo, Morgan T. Page, Frederick Pollitz, Justin L. Rubinstein, Bruce E. Shaw, Zheng-Kang Shen, Brian Shiro, James Andrew Smith, William J. Stephenson, Eric M. Thompson, Jessica A. Thompson Jobe, Erin A. Wirth, Robert C. Witter
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+,
+Supplemental Appropriations for Disaster Recovery Activities
+November 3, 2023
+Improved computational methods for probabilistic liquefaction hazard analysis
+Improved computational methods for probabilistic liquefaction hazard analysis
+Current procedures for analysis of and design against liquefaction hazards focus primarily on the use of probabilistic ground motions at a single ground-shaking hazard level, with the cyclic loading represented by a peak ground acceleration (PGA) corresponding to a target return period and a single representative moment magnitude Mw. These parameters are typically used in conjunction...
+Authors
+Andrew James Makdisi, Steven L. Kramer
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+March 18, 2023
+Uses of epistemic uncertainties in the USGS National Seismic Hazard Models
+Uses of epistemic uncertainties in the USGS National Seismic Hazard Models
+The need for US Geological Survey (USGS) National Seismic Hazard Models (NSHMs) to report estimates of epistemic uncertainties in the hazard (e.g. fractile hazard curves) in all forthcoming releases is increasing. With fractile hazard curves as potential new outputs from the USGS 2023 NSHM, a simultaneous need is to help end-users better understand these epistemic uncertainties and...
+Authors
+N. Simon Kwong, Kishor S. Jaiswal
+By
+Natural Hazards Mission Area
+,
+Geologic Hazards Science Center
+October 12, 2021
+Hazard characterization for alternative intensity measures using the total probability theorem
+Hazard characterization for alternative intensity measures using the total probability theorem
+Since their inception in the 1980s, simplified procedures for the analysis of liquefaction hazards have typically characterized seismic loading using a combination of peak ground acceleration and earthquake magnitude. However, more recent studies suggest that certain evolutionary intensity measures (IMs) such as Arias intensity or cumulative absolute velocity may be more efficient and...
+Authors
+Michael W. Greenfield, Andrew James Makdisi
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+May 21, 2024
+Python Source Code for USGS Risk-Targeted Ground Motion Calculator
+Python Source Code for USGS Risk-Targeted Ground Motion Calculator
+Python library and associate web services implementation that allows users to compute collapse risk-targeted design ground motions in accordance with the minimum design requirements of two commonly-used U.S. seismic provisions: the American Society of Civil Engineers "Minimum Design Loads and Associated Criteria for Buildings and Other Structures" (ASCE7) and American Association of...
+By
+Geologic Hazards Science Center
+Engineering and Risk Group:
+Kishor Jaiswal
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+kjaiswal@usgs.gov
+Phone
+303-273-8584
+Nicolas Luco
+Research Civil Engineer
+Earthquake Hazards Program
+Email
+nluco@usgs.gov
+Phone
+303-273-8683
+Andrew J Makdisi, PhD, PE
+Research Civil Engineer
+Earthquake Hazards Program
+Email
+amakdisi@usgs.gov
+Phone
+303-273-8500
+Sanaz Rezaeian
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+srezaeian@usgs.gov
+Phone
+303-273-8565
+What are the earthquake hazards/risks where I live?
+What are the earthquake hazards/risks where I live?
+Determining your risk with regard to earthquakes, or more precisely shaking from earthquakes, isn't as simple as finding the nearest fault. The chances of experiencing shaking from an earthquake and/or having property damage is dependent on many different factors. The National Hazard Maps use all available data to estimate the chances of shaking (of different strengths and frequencies) across the...
+What are the earthquake hazards/risks where I live?
+What are the earthquake hazards/risks where I live?
+Determining your risk with regard to earthquakes, or more precisely shaking from earthquakes, isn't as simple as finding the nearest fault. The chances of experiencing shaking from an earthquake and/or having property damage is dependent on many different factors. The National Hazard Maps use all available data to estimate the chances of shaking (of different strengths and frequencies) across the...
+Learn More
+How do I decide whether or not to get earthquake insurance?
+How do I decide whether or not to get earthquake insurance?
+You should consider the following factors when deciding whether or not to get earthquake insurance: proximity to active earthquake faults seismic history of the region (frequency of earthquakes) time since last earthquake building construction (type of building and foundation) architectural layout materials used quality of workmanship extent to which earthquake resistance was considered by the...
+How do I decide whether or not to get earthquake insurance?
+How do I decide whether or not to get earthquake insurance?
+You should consider the following factors when deciding whether or not to get earthquake insurance: proximity to active earthquake faults seismic history of the region (frequency of earthquakes) time since last earthquake building construction (type of building and foundation) architectural layout materials used quality of workmanship extent to which earthquake resistance was considered by the...
+Learn More
+How do earthquakes affect buildings?
+How do earthquakes affect buildings?
+Ground shaking is the primary cause of earthquake damage to man-made structures. Many factors influence the strength of earthquake shaking at a site including the earthquake's magnitude, the site's proximity to the fault, the local geology, and the soil type. More than 250 structures throughout the United States have been outfitted with seismic sensors by the USGS National Strong Motion Project...
+How do earthquakes affect buildings?
+How do earthquakes affect buildings?
+Ground shaking is the primary cause of earthquake damage to man-made structures. Many factors influence the strength of earthquake shaking at a site including the earthquake's magnitude, the site's proximity to the fault, the local geology, and the soil type. More than 250 structures throughout the United States have been outfitted with seismic sensors by the USGS National Strong Motion Project...
+Learn More
+Overview
+The well-known statement "Earthquakes don't kill people, buildings do" highlights the need to make our communities more earthquake resilient. The impact of earthquakes on public safety and the national economy can be reduced through improvement of the built environment to resist earthquake effects such as ground shaking. Extending natural hazards science to risk involves (1) conducting research to develop and improve seismic hazard information and associated uncertainties for various building code applications, and (2) assessing seismic risk to the Nation’s buildings and other infrastructure to better communicate with stakeholders and promote seismic safety. Of the three broad areas of work prioritized by the Engineering and Risk Project (ERP), namely (1) earthquake monitoring, (2) hazard assessments, and (3) targeted research (Hayes and others, 2024), the ERP provides unique expertise to enhance the first two activities and plays a central role in targeted engineering research for earthquake risk reduction.
+The Engineering and Risk Project (ERP) is part of the Hazards, Impact, and Risk (HIR) sub-committee of Science Coordination Committee (SCC) of the USGS Earthquake Hazards Program (EHP). Two ERP tasks are currently identified to extend hazard science to engineering mitigation and risk reduction (i.e., improve ability of built environment to resist hazards). They both have research and outreach elements and are consisted of:
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Map of the United States and its territories showing 2024 International Building Code Seismic Design Categories and Risk Categories.
+Task 1: Collaboration with external engineers and National Seismic Hazard Model (NSHM) project on earthquake ground motions for construction codes; with five current subtasks:
+Research on earthquake ground motion maps for construction codes
+Adoption of USGS earthquake hazard assessments into construction codes
+Development of web services and data releases for dissemination of earthquake ground motion maps for construction codes
+Simulation, validation, and utilization of earthquake ground motion time-series for building codes
+Alternative ground motion intensity measures
+Task 2: Extending natural hazards to risk; with five subtasks:
+Seismic risk to critical infrastructure
+Earthquake-induced ground failure forecasts
+Earthquake ground-motion and impact scenarios
+Multi-hazard risk assessment
+Seismic safety of tall buildings and other long-period structures
+These tasks and subtasks have been designed to collaborate with the internal community (e.g., the USGS NSHM Project, the USGS National Earthquake Information Center (NEIC)) to develop requisite data, methods, and tools for assessing risks to building and non-building infrastructure systems. The goals are achieved by collaborating with the external community (e.g., Building Seismic Safety Council (BSSC), Federal Emergency Management Agency (FEMA)) to assess design loads and mitigate seismic risk.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Map of the United States and its territories showing the distribution of average annualized earthquake losses by region (modified from Jaiswal and others, 2023). Economic losses from earthquakes in these nine regions are estimated to average \$14.7 billion dollars per year.
+For More Information
+Design Ground Motions
+Earthquake Scenarios
+National Earthquake Hazards Reduction Program
+References:
+Hayes, G.P., Baltay Sundstrom, A.S., Barnhart, W.D., Blanpied, M.L., Davis, L.A., Earle, P.S., Field, N., Franks, J.M., Given, D.D., Gold, R.D., Goulet, C.A., Guy, M.M., Hardebeck, J.L., Luco, N., Pollitz, F., Ringler, A.T., Scharer, K.M., Sobieszczyk, S., Thomas, V.I., and Wolfe, C.J., 2024, U.S. Geological Survey Earthquake Hazards Program decadal science strategy, 2024–33: U.S. Geological Survey Circular 1544, 55 p.,
+Link
+Federal Emergency Management Agency [FEMA], 2020b, NEHRP recommended seismic provisions—Seismic design category maps for 2024 International Residential Code (IRC) and International Building Code (IBC): Federal Emergency Management Agency report no. FEMA P-2192-4, 32 p.,
+Link
+Jaiswal, K., Rozelle, J.,Tong, M.,Sheehan, A.,McNabb, S.,Kelly, M.,Zuzak, C.,Bausch, D., and Sims, J., 2023, Hazus estimated annualized earthquake losses for the United States: Federal Emergency Management Agency report no. FEMA P-366, 98 p.,
+Link
+Jaiswal, K.S., Rezaeian, S., Luco, N., Kwong, N.S., Makdisi, A.J., Mason, H.B., Chase, R.E., and Kortum, Z.A., 2025, Engineering and risk research—A strategic vision for extending USGS earthquake science to risk assessment and mitigation: U.S. Geological Survey Circular 1555, 19 p.,
+Link
+Media
+Sources/Usage: Public Domain.
+View Media Details
+USGS FEMA Earthquake Loss/Risk Map
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Engineering and Risk Project Team: from left to right, Kishor Jaiswal, N. Simon Kwong, Rob Chase, Ben Mason, David Wald, Sanaz Rezaeian, Nico Luco, Andrew Makdisi, Eric Thompson, Zachary Kortum, Mark Peterson.
+Media
+Sources/Usage: Public Domain.
+View Media Details
+Engineering and Risk Research—A Strategic Vision for Extending USGS Earthquake Science to Risk Assessment and Mitigation
+Multimedia
+December 8, 2022
+Engineering and Risk Project Team
+Engineering and Risk Project Team: from left to right, Kishor Jaiswal, N. Simon Kwong, Rob Chase, Ben Mason, David Wald, Sanaz Rezaeian, Nico Luco, Andrew Makdisi, Eric Thompson, Zachary Kortum, Mark Peterson.
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+Publications
+February 19, 2025
+Implications of physics-based M9 ground motions on liquefaction-induced damage in the Cascadia Subduction Zone: Looking forward and backward
+Implications of physics-based M9 ground motions on liquefaction-induced damage in the Cascadia Subduction Zone: Looking forward and backward
+Given the likelihood of future M9 Cascadia Subduction Zone (CSZ) earthquakes, various estimates of the resulting, regional ground motions have been made, including a suite of 30 physics-based simulations that reflect key modeling uncertainties. However, because the last CSZ interface rupture occurred in 1700 CE, the shaking expected in such an event is especially uncertain, as are the...
+Authors
+Ryan A. Rasanen, Alex R. Grant, Andrew James Makdisi, Brett W. Maurer, Erin A. Wirth
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Earthquake Science Center
+December 1, 2024
+Effective site coefficients for the 2024 International Building Code (IBC)
+Effective site coefficients for the 2024 International Building Code (IBC)
+The U.S. National Seismic Hazard Models (NSHMs), developed by the U.S. Geological Survey (USGS), have long been the scientific foundation of seismic design guidelines and have been used to compute design ground motions for construction of new buildings and retrofit of existing buildings in the United States and its territories. The 2018 NSHM is adopted by the 2024 International Building...
+Authors
+Sanaz Rezaeian, Nico Luco, Andrew James Makdisi, Henry Mason
+By
+Geologic Hazards Science Center
+September 27, 2024
+Framework for mapping liquefaction hazard–Targeted design ground motions
+Framework for mapping liquefaction hazard–Targeted design ground motions
+Liquefaction-induced ground failure poses substantial challenges to geotechnical earthquake engineering design. Current approaches for designing against liquefaction hazards, as specified in most seismic provisions, focus on estimating a liquefaction factor of safety (𝐹⁢𝑆𝐿) and typically characterize earthquake loading using design parameters based on probabilistic or deterministic...
+Authors
+Andrew James Makdisi, Steven L. Kramer
+By
+Geologic Hazards Science Center
+July 30, 2024
+Quantitative risk of earthquake disruption to global copper and rhenium supply
+Quantitative risk of earthquake disruption to global copper and rhenium supply
+Earthquakes have the potential to substantially affect mining operations, potentially leading to supply chain disruptions and adversely affecting the global economy. This study explores the quantification of earthquake risk to copper and rhenium commodity supply by examining the spatial concentration of high earthquake hazard areas and the commodity-specific mining, smelting, and...
+Authors
+Kishor S. Jaiswal, Nico Luco, Emily K. Schnebele, Nedal T. Nassar, Donya Otarod
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+,
+National Minerals Information Center
+July 1, 2024
+Effects of stochastically-simulated near-fault ground motions on soil liquefaction
+Effects of stochastically-simulated near-fault ground motions on soil liquefaction
+The scarcity of historically recorded near-fault ground motions poses a challenge to systematically understanding the influence of near-fault effects on various types of seismic demands for engineering purposes. In particular, the current state of knowledge of the influence of ground-shaking intensity on soil liquefaction and its consequences does not specifically account for the effects...
+Authors
+Andrew James Makdisi, Mayssa Dabaghi, Lianne Brito Silveira, Sanaz Rezaeian, Kirstie Lafon Haynie, Henry Mason
+By
+Geologic Hazards Science Center
+December 29, 2023
+The 2023 US 50-State National Seismic Hazard Model: Overview and implications
+The 2023 US 50-State National Seismic Hazard Model: Overview and implications
+The US National Seismic Hazard Model (NSHM) was updated in 2023 for all 50 states using new science on seismicity, fault ruptures, ground motions, and probabilistic techniques to produce a standard of practice for public policy and other engineering applications (defined for return periods greater than ∼475 or less than ∼10,000 years). Changes in 2023 time-independent seismic hazard...
+Authors
+Mark D. Petersen, Allison M. Shumway, Peter M. Powers, Edward H. Field, Morgan P. Moschetti, Kishor S. Jaiswal, Kevin R. Milner, Sanaz Rezaeian, Arthur D. Frankel, Andrea L. Llenos, Andrew J. Michael, Jason M. Altekruse, Sean Kamran Ahdi, Kyle B. Withers, Charles Mueller, Yuehua Zeng, Robert E. Chase, Leah M. Salditch, Nico Luco, Kenneth S. Rukstales, Julie A. Herrick, Demi Leafar Girot, Brad T. Aagaard, Adrian Bender, Michael L. Blanpied, Richard W. Briggs, Oliver S. Boyd, Brandon S. Clayton, Christopher B. DuRoss, Eileen L. Evans, Peter J. Haeussler, Alexandra Elise Hatem, Kirstie Lafon Haynie, Elizabeth H. Hearn, Kaj M. Johnson, Zachary Alan Kortum, N. Simon Kwong, Andrew James Makdisi, Henry Mason, Daniel McNamara, Devin McPhillips, P. Okubo, Morgan T. Page, Frederick Pollitz, Justin L. Rubinstein, Bruce E. Shaw, Zheng-Kang Shen, Brian Shiro, James Andrew Smith, William J. Stephenson, Eric M. Thompson, Jessica A. Thompson Jobe, Erin A. Wirth, Robert C. Witter
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+,
+Supplemental Appropriations for Disaster Recovery Activities
+November 3, 2023
+Improved computational methods for probabilistic liquefaction hazard analysis
+Improved computational methods for probabilistic liquefaction hazard analysis
+Current procedures for analysis of and design against liquefaction hazards focus primarily on the use of probabilistic ground motions at a single ground-shaking hazard level, with the cyclic loading represented by a peak ground acceleration (PGA) corresponding to a target return period and a single representative moment magnitude Mw. These parameters are typically used in conjunction...
+Authors
+Andrew James Makdisi, Steven L. Kramer
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+March 18, 2023
+Uses of epistemic uncertainties in the USGS National Seismic Hazard Models
+Uses of epistemic uncertainties in the USGS National Seismic Hazard Models
+The need for US Geological Survey (USGS) National Seismic Hazard Models (NSHMs) to report estimates of epistemic uncertainties in the hazard (e.g. fractile hazard curves) in all forthcoming releases is increasing. With fractile hazard curves as potential new outputs from the USGS 2023 NSHM, a simultaneous need is to help end-users better understand these epistemic uncertainties and...
+Authors
+N. Simon Kwong, Kishor S. Jaiswal
+By
+Natural Hazards Mission Area
+,
+Geologic Hazards Science Center
+October 12, 2021
+Hazard characterization for alternative intensity measures using the total probability theorem
+Hazard characterization for alternative intensity measures using the total probability theorem
+Since their inception in the 1980s, simplified procedures for the analysis of liquefaction hazards have typically characterized seismic loading using a combination of peak ground acceleration and earthquake magnitude. However, more recent studies suggest that certain evolutionary intensity measures (IMs) such as Arias intensity or cumulative absolute velocity may be more efficient and...
+Authors
+Michael W. Greenfield, Andrew James Makdisi
+By
+Natural Hazards Mission Area
+,
+Earthquake Hazards Program
+,
+Geologic Hazards Science Center
+Software
+May 21, 2024
+Python Source Code for USGS Risk-Targeted Ground Motion Calculator
+Python Source Code for USGS Risk-Targeted Ground Motion Calculator
+Python library and associate web services implementation that allows users to compute collapse risk-targeted design ground motions in accordance with the minimum design requirements of two commonly-used U.S. seismic provisions: the American Society of Civil Engineers "Minimum Design Loads and Associated Criteria for Buildings and Other Structures" (ASCE7) and American Association of...
+By
+Geologic Hazards Science Center
+Connect
+Engineering and Risk Group:
+Kishor Jaiswal
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+kjaiswal@usgs.gov
+Phone
+303-273-8584
+Nicolas Luco
+Research Civil Engineer
+Earthquake Hazards Program
+Email
+nluco@usgs.gov
+Phone
+303-273-8683
+Andrew J Makdisi, PhD, PE
+Research Civil Engineer
+Earthquake Hazards Program
+Email
+amakdisi@usgs.gov
+Phone
+303-273-8500
+Sanaz Rezaeian
+Research Structural Engineer
+Earthquake Hazards Program
+Email
+srezaeian@usgs.gov
+Phone
+303-273-8565
+FAQ
+What are the earthquake hazards/risks where I live?
+What are the earthquake hazards/risks where I live?
+Determining your risk with regard to earthquakes, or more precisely shaking from earthquakes, isn't as simple as finding the nearest fault. The chances of experiencing shaking from an earthquake and/or having property damage is dependent on many different factors. The National Hazard Maps use all available data to estimate the chances of shaking (of different strengths and frequencies) across the...
+What are the earthquake hazards/risks where I live?
+What are the earthquake hazards/risks where I live?
+Determining your risk with regard to earthquakes, or more precisely shaking from earthquakes, isn't as simple as finding the nearest fault. The chances of experiencing shaking from an earthquake and/or having property damage is dependent on many different factors. The National Hazard Maps use all available data to estimate the chances of shaking (of different strengths and frequencies) across the...
+Learn More
+How do I decide whether or not to get earthquake insurance?
+How do I decide whether or not to get earthquake insurance?
+You should consider the following factors when deciding whether or not to get earthquake insurance: proximity to active earthquake faults seismic history of the region (frequency of earthquakes) time since last earthquake building construction (type of building and foundation) architectural layout materials used quality of workmanship extent to which earthquake resistance was considered by the...
+How do I decide whether or not to get earthquake insurance?
+How do I decide whether or not to get earthquake insurance?
+You should consider the following factors when deciding whether or not to get earthquake insurance: proximity to active earthquake faults seismic history of the region (frequency of earthquakes) time since last earthquake building construction (type of building and foundation) architectural layout materials used quality of workmanship extent to which earthquake resistance was considered by the...
+Learn More
+How do earthquakes affect buildings?
+How do earthquakes affect buildings?
+Ground shaking is the primary cause of earthquake damage to man-made structures. Many factors influence the strength of earthquake shaking at a site including the earthquake's magnitude, the site's proximity to the fault, the local geology, and the soil type. More than 250 structures throughout the United States have been outfitted with seismic sensors by the USGS National Strong Motion Project...
+How do earthquakes affect buildings?
+How do earthquakes affect buildings?
+Ground shaking is the primary cause of earthquake damage to man-made structures. Many factors influence the strength of earthquake shaking at a site including the earthquake's magnitude, the site's proximity to the fault, the local geology, and the soil type. More than 250 structures throughout the United States have been outfitted with seismic sensors by the USGS National Strong Motion Project...
+Learn More

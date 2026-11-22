@@ -1,0 +1,11 @@
+Ground Failure
+Earthquake-triggered landslides and liquefaction, collectively referred to as ground failure, can be a significant contributor to earthquake losses. The USGS Ground Failure (GF) earthquake product provides near-real-time spatial estimates of earthquake-triggered landslide and liquefaction hazard following significant earthquakes worldwide.
+Ground Failure, Past 7 Days
+View Map and List of Ground Failure Events
+Past 24 Hours
+Past 7 Days
+Past 30 Days
+Search Ground Failure Archives
+Search for events that include the Ground Failure (GF) earthquake product. The Search form link from here is already configured to return only events with GF products. You enter additional search parameters. The default time window is the past 30 days.
+Ground Failure Scientific Background
+How to use the Ground Failure product, how it works, and how the alert levels are determined.

@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TKQR8KP');</script>
+  <!-- End Google Tag Manager -->
+  
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="css/haz-index.css?v=1792613542"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+    <link rel="stylesheet" href="js/lib/uswds/css/styles.css">
+
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+    <link href="css/common.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen" />
+
+    <link rel="stylesheet" href="css/index.css"/>
+    <link rel="stylesheet" href="css/styles.css?v=1792613542"/>
+
+    <link rel="stylesheet" href="css/userhome_map.css?v=1792613542"/>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="js/lib/leaflet-0.7.7/leaflet-draw/leaflet.draw.css"/>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/esri-leaflet@3.0.14/dist/esri-leaflet.js"></script>
+    <script src="https://unpkg.com/esri-leaflet-vector@4.2.8/dist/esri-leaflet-vector.js"></script>
+
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" href="css/jquery.qtip.min.css"/>
+
+    <script src="js/lib/jquery/jquery.min.js"></script>
+    <script src="js/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="js/lib/jquery/jquery-ui.min.js"></script>
+
+    <script src="js/lib/jquery.plugins.js"></script>
+    <script src="js/lib/jquery.validate.min.js"></script>
+    <script src="js/lib/jquery.blockUI.js"></script>
+    <script src="js/lib/jquery.qtip.min.js"></script>
+
+    <script src="js/lib/leaflet-0.7.7/leaflet-draw/leaflet.draw.js"></script>
+
+    <script src="js/lib/ens.js?v=1792613542"></script>
+    <script src="inc/request.js"></script>
+
+    <script src="js/lib/uswds/js/uswds-init.min.js"></script>
+    <script src="js/lib/pagination-2.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paginationjs/2.6.0/pagination.min.css">
+  
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body> <!-- opening div for body -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe sandbox src="https://www.googletagmanager.com/ns.html?id=GTM-TKQR8KP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <section
+    class="usa-banner"
+    aria-label="Official website of the United States government"
+  >
+    <div class="usa-accordion">
+      <header class="usa-banner__header">
+        <div class="usa-banner__inner">
+          <div class="grid-col-auto">
+            <img
+              aria-hidden="true"
+              class="usa-banner__header-flag"
+              src="js/lib/uswds/img/us_flag_small.png"
+              alt=""
+            />
+          </div>
+          <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+            <p class="usa-banner__header-text">
+              An official website of the United States government
+            </p>
+            <p class="usa-banner__header-action">Here’s how you know</p>
+          </div>
+          <button
+            type="button"
+            class="usa-accordion__button usa-banner__button"
+            aria-expanded="false"
+            aria-controls="gov-banner-default"
+          >
+            <span class="usa-banner__button-text">Here’s how you know</span>
+          </button>
+        </div>
+      </header>
+      <div
+        class="usa-banner__content usa-accordion__content"
+        id="gov-banner-default"
+      >
+        <div class="grid-row grid-gap-lg">
+          <div class="usa-banner__guidance tablet:grid-col-6">
+            <img
+              class="usa-banner__icon usa-media-block__img"
+              src="js/lib/uswds/img/icon-dot-gov.svg"
+              role="img"
+              alt=""
+              aria-hidden="true"
+            />
+            <div class="usa-media-block__body">
+              <p>
+                <strong>Official websites use .gov</strong><br />A
+                <strong>.gov</strong> website belongs to an official government
+                organization in the United States.
+              </p>
+            </div>
+          </div>
+          <div class="usa-banner__guidance tablet:grid-col-6">
+            <img
+              class="usa-banner__icon usa-media-block__img"
+              src="js/lib/uswds/img/icon-https.svg"
+              role="img"
+              alt=""
+              aria-hidden="true"
+            />
+            <div class="usa-media-block__body">
+              <p>
+                <strong>Secure .gov websites use HTTPS</strong><br />A
+                <strong>lock</strong> (
+                <span class="icon-lock"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="52"
+                    height="64"
+                    viewBox="0 0 52 64"
+                    class="usa-banner__lock-image"
+                    role="img"
+                    aria-labelledby="banner-lock-description-default"
+                    focusable="false"
+                  >
+                    <title id="banner-lock-title-default">Lock</title>
+                    <desc id="banner-lock-description-default">Locked padlock icon</desc>
+                    <path
+                      fill="#000000"
+                      fill-rule="evenodd"
+                      d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                    />
+                  </svg> </span
+                >) or <strong>https://</strong> means you’ve safely connected to
+                the .gov website. Share sensitive information only on official,
+                secure websites.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>    
+
+  <!-- BEGIN USGS Applications Header Template -->
+  <header id="navbar" class="header-nav"  role="banner">
+    <div class="tmp-container">
+        <!-- primary navigation bar -->
+        <!-- search bar-->
+        <div class="header-search">
+         <a class="logo-header" href="https://www.usgs.gov/" title="Home">
+            <img class="img"  src="images/logo.png"  alt="Home" />
+          </a>
+          <form action="https://www.usgs.gov/science-explorer-results" method="GET" id="search-box">
+           <div class="fa-wrapper"><label for="se_search" class="only">Search</label>
+            <input id="se_search" type="search" name="es" placeholder="Search">
+            <button class="fa fa-search" type="submit">
+              <span class="only">Search</span>
+         </button></div>
+          </form>
+        </div>
+        <!-- end search bar-->
+    </div> 
+    <!-- end header-container-->
+  </header>
+  <!-- END USGS Applications Header Template -->
+  
+  <main role="main" class="page" aria-labelledby="page-header">
+    <header class="page-header" id="page-header">
+      <h1></h1>
+    </header>
+
+    <div class="page-content">
+      
+<div id="main">
+    <div class="page-content">
+        <header class="page-header" id="page-header">
+            <h1>Earthquake Notification Service</h1>
+        </header>
+        
+        <div class='ens-info-wrapper'>
+            <div class='ens-login-info-row'>
+                <div class="ens-login-info-column col">
+                    <p>
+                        The Earthquake Notification Service (ENS) <strong>sends users free email or text messages when
+                        earthquakes occur</strong>.
+                    </p>
+                    <p>                    
+                        Users <strong>customize</strong> ENS messaging <strong>based on where and how large</strong> the
+                        earthquake is.
+                        That might be:
+                    </p>
+                    <ul>
+                        <li>Large earthquakes anywhere,</li>
+                        <li>Moderate earthquakes in the U.S., or </li>
+                        <li>Earthquakes of any size in a region of interest.</li>
+                    </ul>   
+                    <p>
+                        Users can have multiple email addresses. ENS can also text your cell phone if your carrier 
+                        supports email-to-text functionality.
+                        <br>
+                        <br>
+                        <strong>ENS messages </strong>provide a<strong> short text summary plus a link</strong> to more
+                        details. 
+                        List of <a href="#ens_products">available message products.</a>
+                    </p>
+                    <br>
+                    <p><a href="help" target="_blank" rel="noopener noreferrer">Instructions and More Information</a></p>
+                </div>
+                <div class="ens-login-form-column col">
+                    <form  method="post" action="/ens/" id="frmLogin" >
+                        <h2>Manage Your Account</h2>
+                        <fieldset>
+                            <input type="hidden" name="initlogin" value="1" />
+                            <input type="hidden" name="jsEnabled" value="false" id="jsEnabled" />
+                            <input type="hidden" name="page" value="userhome_map" />
+                            <label for="username">Username:</label>
+                            <input id="username" name="username" type="text" autocomplete="username" />
+                            <label for="textpass">Password:</label>
+                            <input id="textpass" name="textpass" type="password" autocomplete="current-password" />
+                            <input type="hidden" id="ens_login_token" name="ens_login_token" value="7bfc278d08767deaa3520917792952dc279e3c84eab940b7d79c12c3487874d3" >
+                            <button class="ens_btn" type="submit" name="login">Login</button>
+                        </fieldset>
+                    <input type="hidden" name="__ncforminfo" value="7k9bj5ZeaeApYi-vGAGPhQ9S2e3flv9qKkJX7hjoAbDvH00M1FWOuCD7SGqnL9nyWRR8uIOxo5JTHVFWh4jUBQjFJT1FmZNaSravXGNeUS3xMB-EegE4lp8BxOFM1vfUsB8RAgCULibrOeWJ7njquzqvNz1UN9JV"/></form>
+
+
+                                        <div>
+                        <p><a href="/ens/recover">Forgot username/password</a></p>
+                        <p><a href="/ens/register">Sign up for ENS</a></p>
+                        <p><a href="/ens/unsubscribe">Unsubscribe from ENS</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ens-login-width">
+            <h3>News and Notifications</h3>
+            <ul class="end-font-medium">
+                <li style="margin-bottom: 20px;">
+                    <img src="images/new-icon.png" alt="New announcement">
+                    <strong>Shaking at Points</strong> - <strong>a new message type</strong> that reports shaking
+                    intensity estimates from ShakeMap <strong>for points of interest to the user</strong>.
+                </li>
+
+                <li>                    
+                    Earthquake Notification Service <strong>can also deliver messages summarizing PAGER, ShakeMap, 
+                    ShakeAlert&reg;, and Aftershock Forecast:</strong>
+                    <br>
+                    <ul>
+                        <li>PAGER - Estimated earthquake impact on people and property.</li>
+                        <li>Aftershock Forecast - Expected number of aftershocks and the probability of larger earthquakes. 
+                            Available for larger earthquakes in the U.S. and its territories, and selected consequential international earthquakes</li>
+                        <li>ShakeMap - Message that a ShakeMap has been made, and the peak estimated shaking intensity.</li>
+                        <li>ShakeAlert&reg; - Message that a new ShakeAlert&reg; earthquake early warning system performance report is available.</li>
+                    </ul>
+                    <br />
+                    <strong>Each message is sent separately</strong>, so one earthquake can generate up to five notifications.
+
+                    Current users will continue to receive Event messages that fit their applicable magnitude and region settings.
+                </li>
+                
+                <br>
+                
+                <li>
+                    <strong>Inactive users</strong>:  Some ENS account holders have no method on file to send notifications.
+                    We have no way to contact you!  To keep your ENS account, please log in and add your email or SMS information.
+                    Accounts with no contact information will be removed.
+                </li>
+            </ul>
+        </div>
+        
+        <div class="ens-login-width">
+            <h3><a name="ens_products" style="color: inherit;">Available Message Products:</a></h3>
+        </div>        
+        
+
+        <div class="ens-card-container">
+            <div class="ens-card">
+                <div class="ens-card-title">Event Report</div>
+                <div class="ens-card-description">Earliest report of magnitude and location</div>
+                <div class="ens-card-image">
+                    <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquakes" target="_blank" rel="noopener noreferrer">
+                        <img src="images/login/fig_event_report_small.png" alt="Event report">
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquakes" target="_blank" rel="noopener noreferrer">Event Report Home</a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a class="thickbox" href="#TB_inline?height=500&width=790&inlineId=event-message">Example Event Message</a>
+                </div>
+            </div> 
+            
+            <div class="ens-card">
+                <div class="ens-card-title">PAGER Summary</div>
+                <div class="ens-card-description">Estimated impacts to people and property</div>
+                <div class="ens-card-image">
+                    <a href="https://earthquake.usgs.gov/data/pager/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/login/fig_pager_small.png" alt="PAGER">
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a href="https://earthquake.usgs.gov/data/pager/" target="_blank" rel="noopener noreferrer">PAGER Home</a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a class="thickbox" href="#TB_inline?height=500&width=790&inlineId=pager-message">Example PAGER Message</a>
+                </div>
+            </div> 
+
+            <div class="ens-card">
+                <div class="ens-card-title">Aftershock Forecast</div>
+                <div class="ens-card-description">Aftershock probabilities for U.S. earthquakes</div>
+                <div class="ens-card-image">
+                    <a href="https://earthquake.usgs.gov/data/oaf/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/login/fig_oaf_small.png" alt="Aftershock Forecast">
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a href="https://earthquake.usgs.gov/data/oaf/" target="_blank" rel="noopener noreferrer">Aftershock Project Home</a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a class="thickbox" href="#TB_inline?height=300&width=790&inlineId=oaf-message">Example Aftershock Message</a>
+                </div>
+            </div> 
+            
+            <div class="ens-card">
+                <div class="ens-card-title">ShakeMap Text Summary</div>
+                <div class="ens-card-description">Brief summary of peak shaking intensity</div>
+                <div class="ens-card-image">
+                    <a href="https://earthquake.usgs.gov/data/shakemap/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/login/fig_shakemap_small.png" alt="ShakeMap">
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a href="https://earthquake.usgs.gov/data/shakemap/" target="_blank" rel="noopener noreferrer">ShakeMap Home</a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a class="thickbox" href="#TB_inline?height=150&width=790&inlineId=shakemap-message">Example ShakeMap Message</a>
+                </div>
+            </div>             
+			            
+            <div class="ens-card">
+                <div class="ens-card-title">ShakeAlert&reg; system Performance Report</div>
+                <div class="ens-card-description">Post ShakeAlert&reg; Message Summary</div>
+                <div class="ens-card-image">
+                    <a href="https://www.usgs.gov/ShakeAlert" target="_blank" rel="noopener noreferrer">
+                        <img src="images/login/fig_Shakealert_small.png" alt="ShakeAlert">
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a href="https://www.usgs.gov/ShakeAlert" target="_blank" rel="noopener noreferrer">ShakeAlert&reg; Home</a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a class="thickbox" href="#TB_inline?height=150&width=790&inlineId=shakealert-message">Example ShakeAlert&reg; Message</a>
+                </div>
+            </div>             
+
+            <div class="ens-card">
+                <div class="ens-card-title">Shaking at Points</div>
+                <div class="ens-card-description">Shaking intensity at user-selected points</div>
+                <div class="ens-card-image">
+                    <a href="https://www.usgs.gov/ShakeAlert" target="_blank" rel="noopener noreferrer">
+                        <img src="images/helpdoc/saap_27_map_table.png" width="200" alt="Shaking at Points map showing 
+                        sample user-placed markers in southern California, with a My Points table below listing details 
+                        for 4 of 5 user points.">
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a href="https://earthquake.usgs.gov/data/shakemap/" target="_blank" rel="noopener noreferrer">
+                        ShakeMap Home
+                    </a>
+                </div>
+                <hr class="separator">
+                <div class="ens-card-description">
+                    <a class="thickbox" href="#TB_inline?height=464&width=790&inlineId=shakingatapoint-message">Example 
+                        Shaking at Points Message
+                    </a>
+                </div>
+            </div>
+        </div>     
+        
+        <div id="event-message" style="display:none">
+            <img src="images/msg/event_message.png" alt="Event message">
+        </div>    
+        <div id="event-short-message" style="display:none">
+            <img src="images/msg/event_short.png" alt="Event short message">
+        </div>    
+
+        <div id="pager-message" style="display:none">
+            <img src="images/msg/pager_message.png" alt="PAGER message">
+        </div>    
+        <div id="pager-short-message" style="display:none">
+            <img src="images/msg/pager_short.png" alt="PAGER short message">
+        </div>    
+
+        <div id="oaf-message" style="display:none">
+            <img src="images/msg/oaf_message.png" alt="Aftershock Forecast message">
+        </div>    
+        <div id="oaf-short-message" style="display:none">
+            <img src="images/msg/oaf_short.png" alt="Aftershock Forecast short message">
+        </div>    
+
+        <div id="shakemap-message" style="display:none">
+            <img src="images/msg/shakemap_message.png" alt="ShakeMap message">
+        </div>    
+        <div id="shakemap-short-message" style="display:none">
+            <img src="images/msg/shakemap_short.png" alt="ShakeMap short message">
+        </div>    
+
+        <div id="shakealert-message" style="display:none">
+            <img src="images/msg/shakealert_message.png" alt="ShakeAlert message">
+        </div>    
+        <div id="shakealert-short-message" style="display:none">
+            <img src="images/msg/shakealert_short.png" alt="ShakeAlert short message">
+        </div>    
+
+        <div id="shakingatapoint-message" style="display: none;">
+            <p><strong>Subject: </strong>User points in ShakeMap for M 6.7 - 1km NNW of Reseda, CA</p>
+            <pre style="overflow: auto;">
+One or more of your ENS points is in the bounds of a new ShakeMap centered on 34.213N, 
+118.537W, 2026-06-02 12:46 UT, version 1, 
+https://earthquake.usgs.gov/earthquakes/eventpage/ci3144585/shakemap.
+
+Number of user points in ShakeMap: 1
+
+Peak shaking intensity estimate among user points: 5.9
+
+User Points:
+
+Intensity  Name Lat, Lon
+
+5.9, Amusement Park, 33.8121, -117.919
+
+
+See https://earthquake.usgs.gov/data/shakemap for how shaking intensities are estimated by 
+ShakeMap. Shaking estimates are preliminary and based on information available at the time the 
+message is sent. Please check the USGS Web site for updates. Shaking estimates are uncertain 
+so care is required if using for decision-making.
+            </pre>
+        </div>
+ 
+        
+    </div>
+</div>
+<script type="text/javascript">
+$(document).ready( function() {
+	$(".thickbox").each( function(i) {
+
+		var href = $(this).attr("href");
+		$(this).attr("href", href + "&ajax=true");
+	});
+
+	// Use jquery to set the value of jsEnabled hidden field
+	// This allows us to check that the user has javascript enabled and that jquery is working
+	$("#jsEnabled").val("true");
+    
+    $('#frmLogin').on('submit', function(e) {
+        var username = $.trim($('#username').val());
+        var password = $('#textpass').val();
+      
+        if (!isValidString(username)) {
+            e.preventDefault();
+            ensAlert("Invalid Username", "Your username contains forbidden characters. Please change and try again.");            
+        } else if (!isValidString(password)) {
+            e.preventDefault();
+            ensAlert("Invalid Password", "Your password contains forbidden characters. Please change and try again.");
+        }
+    });
+    
+});
+
+</script>
+    </div>
+      
+  </main>  
+  
+  <nav class="site-footer" aria-label="Navigation">
+    <section id="site-sectionnav" class="site-sectionnav" aria-label="Section Navigation"><section><header><a href="/ens/login">Login</a></header><a href="/ens/help" target="_blank" rel="noopener noreferrer">Help</a></section></section><section class="site-sitenav" aria-label="Site Navigation"><a href="https://earthquake.usgs.gov/">Home</a><a href="https://www.usgs.gov/programs/earthquake-hazards/earthquakes">Earthquakes</a><a href="https://www.usgs.gov/programs/earthquake-hazards/hazards">Hazards</a><a href="https://www.usgs.gov/programs/earthquake-hazards/science">Science</a><a href="https://www.usgs.gov/programs/earthquake-hazards/monitoring">Monitoring</a><a href="https://www.usgs.gov/programs/earthquake-hazards/education">Education</a><a href="https://www.usgs.gov/programs/earthquake-hazards/data">Data</a><a href="https://www.usgs.gov/programs/earthquake-hazards/maps">Maps</a><a href="https://www.usgs.gov/programs/earthquake-hazards/multimedia">Multimedia</a><a href="https://www.usgs.gov/programs/earthquake-hazards/publications">Publications</a><a href="https://www.usgs.gov/programs/earthquake-hazards/tools">Web Tools</a><a href="https://www.usgs.gov/programs/earthquake-hazards/software">Software</a><a href="https://www.usgs.gov/programs/earthquake-hazards/news">News</a><a href="https://www.usgs.gov/programs/earthquake-hazards/connect">Connect</a><a href="https://www.usgs.gov/programs/earthquake-hazards/partners">Partners</a><a href="https://www.usgs.gov/programs/earthquake-hazards/about">About</a></section>
+  </nav>
+
+  
+  
+  <div style="clear:both;margin-bottom:5px;"></div><!--[if lte IE 9]><script src="/theme/js/classList.js"></script><![endif]--><script src="/theme/js/index.js"></script>
+    <script src="js/lib/uswds/js/uswds.min.js"></script>
+
+    <script src="inc/js/utilities.js?v=1792613542"></script>
+    <script src="inc/js/maps_functions.js?v=1792613542"></script>
+  	<script src="inc/js/Map_Controls.js?v=1792613542"></script>
+    <script src="inc/js/Profile.js?v=1792613542"></script>
+  	<script src="inc/js/Shape.js"></script>
+  	<script src="inc/js/Rectangle.js"></script>
+  	<script src="inc/js/Circle.js"></script>
+  	<script src="inc/js/Polygon.js?v=1792613542"></script>
+  	<script src="inc/js/Marker.js?v=1792613542"></script>
+  	<script src="inc/js/points.js?v=1792613542"></script>
+    
+
+<!-- BEGIN USGS Footer Template -->
+<footer class="footer" style="line-height:1.3;">
+    <div class="tmp-container">
+        <!-- .footer-wrap -->
+            <!-- .footer-doi -->
+            <div class="footer-doi">
+                <!-- footer nav links -->
+                <ul class="menu nav">
+                    <li class="first leaf menu-links menu-level-1"><a href="https://www.doi.gov/privacy">DOI Privacy Policy</a></li>
+                    <li class="leaf menu-links menu-level-1"><a href="https://www.usgs.gov/policies-and-notices">Legal</a></li>
+                    <li class="leaf menu-links menu-level-1"><a href="https://www.usgs.gov/accessibility-and-us-geological-survey">Accessibility</a></li>
+                    <li class="leaf menu-links menu-level-1"><a href="https://www.usgs.gov/sitemap">Site Map</a></li>
+                    <li class="last leaf menu-links menu-level-1"><a href="https://answers.usgs.gov/">Contact USGS</a></li>
+                </ul>
+                <!--/ footer nav links -->      
+            </div>
+            <!-- /.footer-doi -->
+
+            <hr style="color:revert;">
+
+        <!-- .footer-utl-links -->
+        <div class="footer-doi">
+            <ul class="menu nav">
+                <li class="first leaf menu-links menu-level-1"><a href="https://www.doi.gov/">U.S. Department of the Interior</a></li>
+                <li class="leaf menu-links menu-level-1"><a href="https://www.doioig.gov/">DOI Inspector General</a></li>
+                <li class="leaf menu-links menu-level-1"><a href="https://www.whitehouse.gov/">White House</a></li>
+                <li class="leaf menu-links menu-level-1"><a href="https://www.whitehouse.gov/omb/management/egov/">E-gov</a></li>
+                <li class="leaf menu-links menu-level-1"><a href="https://www.doi.gov/pmb/eeo/no-fear-act">No Fear Act</a></li>
+                <li class="last leaf menu-links menu-level-1"><a href="https://www.usgs.gov/about/organization/science-support/foia">FOIA</a></li>
+            </ul>
+            </div>			
+        <!-- /.footer-utl-links -->
+        <!-- .footer-social-links -->
+        <div class="footer-social-links">
+            <ul class="social">
+                <li class="follow">Follow</li>
+                <li class="twitter">
+                    <a href="https://twitter.com/usgs" target="_blank">
+                        <i class="fa fa-twitter-square"><span class="only">Twitter</span></i>
+                    </a>
+                </li>
+                <li class="facebook">
+                    <a href="https://facebook.com/usgeologicalsurvey" target="_blank">
+                        <i class="fa fa-facebook-square"><span class="only">Facebook</span></i>
+                    </a>
+                </li>
+                <li class="github">
+                    <a href="https://github.com/usgs" target="_blank">
+                        <i class="fa fa-github"><span class="only">GitHub</span></i>
+                    </a>
+                </li>
+                <li class="flickr">
+                    <a href="https://flickr.com/usgeologicalsurvey" target="_blank">
+                        <i class="fa fa-flickr"><span class="only">Flickr</span></i>
+                    </a>
+                </li>
+                <li class="youtube">
+                    <a href="http://youtube.com/usgs" target="_blank">
+                        <i class="fa fa-youtube-play"><span class="only">YouTube</span></i>
+                    </a>
+                </li>
+                <li class="instagram">
+                    <a href="https://instagram.com/usgs" target="_blank">
+                        <i class="fa fa-instagram"><span class="only">Instagram</span></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.footer-social-links -->
+    </div>
+        <!-- /.footer-wrap -->	
+</footer>
+
+<!-- END USGS Footer Template- -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKQR8KP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+</body>
+</html>

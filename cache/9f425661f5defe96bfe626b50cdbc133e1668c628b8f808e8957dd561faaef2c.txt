@@ -1,0 +1,104 @@
+Tsunami evacuation zones
+Ngā rohe wātea i te wā ngaru taitoko
+Search your home, work or school address to find out if it is in a tsunami evacuation zone.
+Search your address or click on the map
+Tsunami warnings will not be displayed on this map
+This map shows the location of tsunami evacuation zones. It does not provide information about current tsunami warnings.
+During a tsunami, warnings and advisories are provided at
+www.civildefence.govt.nz
+(external link)
+and shared on radio and TV. You may also receive advice from your local civil defence emergency management group and receive an
+Emergency Mobile Alert
+.
+The colours of the tsunami evacuation zones relate to the areas that would need to be evacuated depending on the potential size of a tsunami.
+Red:
+This area could be affected even by a small tsunami. It typically covers beach and marine areas and is the most likely area to be evacuated in a tsunami event.
+Orange:
+This area could be affected by a large tsunami.
+Yellow:
+This area could be affected by a very large tsunami.
+Blue:
+For areas that use a single blue zone, this covers the area that could be affected by a tsunami of any size.
+Purple:
+For areas that use a purple zone (Taranaki), this area could be affected by a very large tsunami.
+Get updates
+Sign up to receive email updates about any changes to tsunami evacuation zones in your region.
+Give us feedback
+Send us feedback about how we can make the tsunami evacuation zone map better.
+Learn about tsunami
+Find out what to do before, during and after a tsunami. Knowing the warning signs and the right action can save lives.
+Disclaimer
+This map shows where your tsunami evacuation zones are. It does not have any information about current tsunami warnings.
+During a tsunami, the National Emergency Management Agency shares warnings and advisories on
+www.civildefence.govt.nz
+(external link)
+and through on radio and TV.Your local Civil Defence Emergency Management (CDEM) Group might also contact you and you might get an
+Emergency Mobile Alert
+.
+CDEM Groups and councils gave tsunami evacuation data to the National Emergency Management Agency for this map. The map might not be accurate because of uncertainty.
+The National Emergency Management Agency makes no representations or warranties for the data. The National Emergency Management Agency is not liable to anyone who uses or relies on the data or this map, on any ground, for any loss, damage or expense from the use or reliance.
+There are differences between regions as each region commissioned risk assessment independently.
+The National Emergency Management Agency and
+CDEM Groups (www.civildefence.govt.nz)
+(external link)
+are working towards national consistency.
+Terms and conditions for each region
+Use the data source credited in the map for the full terms and conditions for each region.
+Northland –
+Northland Regional Council Online maps terms of use (nrc.govt.nz)
+(external link)
+Auckland –
+Auckland Council Open Data (arcgis.com)
+(external link)
+Waikato –
+Waikato
+Regional Hazards Portal Terms of use (
+(external link)
+(external link)
+waikatoregion.govt.nz)
+(external link)
+Tairāwhiti –
+Tairāwhiti
+GDC Geoportal Data Hub (arcgis.com)
+(external link)
+Hawke's Bay –
+Hawke's Bay Regional Council Open Data (arcgis.com)
+(external link)
+Wellington –
+Greater Wellington Regional Council Open Data Portal (arcgis.com)
+(external link)
+Nelson/Tasman –
+Nelson Tasman Tsunami Evacuation Zones Dataset (data.govt.nz)
+(external link)
+Marlborough –
+Marlborough Tsunami Evacuation Zones Dataset (data.govt.nz)
+(external link)
+West Coast –
+Tsunami Hazards | West Coast Natural Hazards (experience.arcgis.com)
+(external link)
+Canterbury –
+Canterbury Maps Open Data (canterburymaps.govt.nz)
+(external link)
+Otago –
+Otago Tsunami Evacuation Zones (arcgis.com)
+(external link)
+Southland –
+Environment Southland Open GIS Data (arcgis.com)
+(external link)
+Chatham Islands –
+Chatham Islands Canterbury Maps Open Data (canterburymaps.govt.nz)
+(external link)
+For all other regions, please contact the source credited in the map.
+Types of hazards |
+Ngā momo matepā
+In New Zealand we have a lot of natural hazards. Find out what to do before, during and after each type of emergency.
+Earthquakes
+Floods
+Heat
+Landslides
+Space weather
+Storms
+Tsunami
+Volcanic activity
+Wildfires
+Other hazards

@@ -1,0 +1,1369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Aid Skills Everyone Should Know for Earthquakes: Complete Guide 2026</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+        content="Comprehensive guide to earthquake first aid skills. Learn how to treat traumatic injuries, bleeding, fractures, crush syndrome, shock, and when to evacuate vs shelter in place after earthquakes.">
+    <meta name="keywords"
+        content="earthquake first aid, earthquake injuries, trauma first aid, earthquake medical care, bleeding control, fracture treatment, crush syndrome, earthquake triage, disaster first aid">
+    <meta name="author" content="Earthquake Radar">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="First Aid Skills Everyone Should Know for Earthquakes: Complete Guide 2026">
+    <meta property="og:description"
+        content="Master critical first aid skills for earthquake emergencies. Learn life-saving techniques for bleeding, fractures, crush injuries, and shock.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://earthquakeradar.io/blog/first-aid-skills-earthquakes.html">
+    <meta property="og:image" content="https://earthquakeradar.io/assets/earthquake-radar-preview.jpg">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@EarthquakeRDR">
+    <meta name="twitter:title" content="First Aid Skills Everyone Should Know for Earthquakes: Complete Guide 2026">
+    <meta name="twitter:description"
+        content="Master critical first aid skills for earthquake emergencies. Learn life-saving techniques for bleeding, fractures, crush injuries, and shock.">
+    <meta name="twitter:image" content="https://earthquakeradar.io/assets/earthquake-radar-preview.jpg">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://earthquakeradar.io/blog/first-aid-skills-earthquakes.html">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+            background: #f8f9fa;
+            color: #2c3e50;
+            line-height: 1.6;
+        }
+
+        .header {
+            background: #ffffff;
+            padding: 1.5rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            text-decoration: none;
+        }
+
+        .logo-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 0.2rem;
+        }
+
+        .logo-subtitle {
+            font-size: 0.85rem;
+            color: #6c757d;
+        }
+
+        nav {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        nav a {
+            color: #2c3e50;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #fd7e14;
+        }
+
+        .theme-toggle-btn {
+            background: #495057;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .theme-toggle-btn:hover {
+            background: #fd7e14;
+        }
+
+        .hamburger-btn {
+            display: none;
+            flex-direction: column;
+            justify-content: space-around;
+            width: 30px;
+            height: 24px;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            padding: 0;
+        }
+
+        .hamburger-btn span {
+            width: 100%;
+            height: 3px;
+            background: #2c3e50;
+            border-radius: 2px;
+            transition: all 0.3s ease;
+        }
+
+        article {
+            max-width: 800px;
+            margin: 3rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+            line-height: 1.2;
+        }
+
+        .meta {
+            color: #6c757d;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid #e9ecef;
+            font-size: 0.9rem;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin-top: 2rem;
+            margin-bottom: 0.8rem;
+            color: #495057;
+        }
+
+        p {
+            margin-bottom: 1.2rem;
+            color: #2c3e50;
+        }
+
+        ul,
+        ol {
+            margin-bottom: 1.5rem;
+            margin-left: 2rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        .warning-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+        }
+
+        .info-box {
+            background: #d1ecf1;
+            border-left: 4px solid #17a2b8;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+        }
+
+        .danger-box {
+            background: #f8d7da;
+            border-left: 4px solid #dc3545;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+        }
+
+        .success-box {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+        }
+
+        .related-posts {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #e9ecef;
+        }
+
+        .related-posts h3 {
+            margin-bottom: 1rem;
+        }
+
+        .related-posts ul {
+            list-style: none;
+            margin-left: 0;
+        }
+
+        .related-posts li {
+            margin-bottom: 0.8rem;
+        }
+
+        .related-posts a {
+            color: #495057;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .related-posts a:hover {
+            color: #fd7e14;
+        }
+
+        .footer {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 3rem 2rem 2rem;
+            margin-top: 4rem;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .footer-left {
+            max-width: 400px;
+        }
+
+        .footer-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .footer-right {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .footer-block-title {
+            font-weight: 600;
+            margin-bottom: 0.8rem;
+            font-size: 1rem;
+        }
+
+        .footer-block-links {
+            display: flex;
+            gap: 0.8rem;
+            flex-direction: column;
+        }
+
+        .support-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .paypal-btn {
+            background: #0070ba;
+            color: white;
+            border: 2px solid #0070ba;
+        }
+
+        .paypal-btn:hover {
+            background: #005ea6;
+            transform: translateY(-2px);
+        }
+
+        .patreon-btn {
+            background: #ff424d;
+            color: white;
+            border: 2px solid #ff424d;
+        }
+
+        .patreon-btn:hover {
+            background: #e13d47;
+            transform: translateY(-2px);
+        }
+
+        .store-btn {
+            background: #3f3f3f;
+            color: white !important;
+        }
+
+        .store-btn:hover {
+            background: #2f2f2f;
+            transform: translateY(-2px);
+        }
+
+        .x-btn {
+            background: #000000;
+            color: white;
+            border: 2px solid #000000;
+        }
+
+        .x-btn:hover {
+            background: #1a1a1a;
+            transform: translateY(-2px);
+        }
+
+        /* Dark Mode */
+        body.dark-mode {
+            background: #1a1a1a;
+            color: #e0e0e0;
+        }
+
+        body.dark-mode .header {
+            background: #2d2d2d;
+            border-bottom: 1px solid #444;
+        }
+
+        body.dark-mode .logo-title {
+            color: #e0e0e0;
+        }
+
+        body.dark-mode nav a {
+            color: #e0e0e0;
+        }
+
+        body.dark-mode nav a:hover {
+            color: #fd7e14;
+        }
+
+        body.dark-mode article {
+            background: #2d2d2d;
+            color: #e0e0e0;
+        }
+
+        body.dark-mode h1,
+        body.dark-mode h2,
+        body.dark-mode h3 {
+            color: #e0e0e0;
+        }
+
+        body.dark-mode p {
+            color: #e0e0e0;
+        }
+
+        body.dark-mode .meta {
+            color: #adb5bd;
+            border-bottom-color: #444;
+        }
+
+        body.dark-mode .warning-box {
+            background: rgba(255, 193, 7, 0.2);
+            border-left-color: #ffc107;
+        }
+
+        body.dark-mode .info-box {
+            background: rgba(23, 162, 184, 0.2);
+            border-left-color: #17a2b8;
+        }
+
+        body.dark-mode .danger-box {
+            background: rgba(220, 53, 69, 0.2);
+            border-left-color: #dc3545;
+        }
+
+        body.dark-mode .success-box {
+            background: rgba(40, 167, 69, 0.2);
+            border-left-color: #28a745;
+        }
+
+        body.dark-mode .related-posts {
+            border-top-color: #444;
+        }
+
+        body.dark-mode .related-posts a {
+            color: #87CEEB;
+        }
+
+        body.dark-mode .hamburger-btn span {
+            background: #e0e0e0;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 900px) {
+            nav {
+                display: none;
+                position: absolute;
+                top: 100%;
+                right: 1rem;
+                background: #ffffff;
+                flex-direction: column;
+                padding: 1rem 1.5rem;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+                border-radius: 8px;
+                gap: 0.75rem;
+                min-width: 180px;
+            }
+
+            nav.active {
+                display: flex;
+            }
+
+            body.dark-mode nav {
+                background: #2d2d2d;
+                border: 1px solid #444;
+            }
+
+            .hamburger-btn {
+                display: flex;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            article {
+                padding: 1.5rem;
+                margin: 1.5rem;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                gap: 2rem;
+            }
+
+            .footer-right {
+                flex-direction: column;
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.75rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            article {
+                margin: 1rem;
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-content">
+            <a href="../index.html" class="logo">
+                <div class="logo-title">Earthquake Radar</div>
+                <div class="logo-subtitle">Real-time seismic monitoring</div>
+            </a>
+            <nav id="mainNav">
+                <a href="../index.html">Home</a>
+                <a href="../blog.html">Blog</a>
+                <a href="../about.html">About</a>
+                <a href="../faq.html">FAQ</a>
+                <a href="https://earthquake-radar-shop.fourthwall.com" target="_blank" rel="noopener">Store</a>
+                <button class="theme-toggle-btn" onclick="toggleTheme()" title="Toggle Dark Mode">
+                    <span id="themeIcon">🌙</span>
+                </button>
+            </nav>
+            <button class="hamburger-btn" onclick="toggleMobileMenu()" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </div>
+
+    <article>
+        <h1>First Aid Skills Everyone Should Know for Earthquakes: Complete Guide 2026</h1>
+        <div class="meta">Published: January 18, 2026 • 47 min read</div>
+
+        <p>Earthquakes cause injuries that normal daily life doesn't prepare people for: crushing trauma from collapsed
+            structures, massive bleeding from shattered glass and metal, compound fractures from falling debris, shock
+            from multiple injuries, and situations where professional medical help is hours or days away. After the 1994
+            Northridge earthquake, hospitals were overwhelmed with 1,600 injured patients within the first 24 hours.
+            After the 2010 Haiti earthquake, medical systems collapsed entirely and bystander first aid was the only
+            care available for hundreds of thousands of victims.</p>
+
+        <p>Standard first aid training focused on minor cuts, sprains, and choking doesn't adequately prepare people for
+            earthquake trauma scenarios. Earthquake first aid requires knowledge of severe bleeding control, fracture
+            stabilization, crush syndrome recognition, mass casualty triage, and the judgment to know when attempting
+            rescue causes more harm than waiting for professionals. These skills save lives when professional medical
+            care is delayed, overwhelmed, or completely unavailable.</p>
+
+        <p>This comprehensive guide covers the critical first aid skills everyone in earthquake-prone regions should
+            know: immediate life threats and how to address them, severe bleeding control techniques, fracture and
+            spinal injury management, crush syndrome and compartment syndrome, shock recognition and treatment, when to
+            move injured people versus when to wait, basic triage for multiple casualties, and what supplies to
+            stockpile for earthquake medical scenarios.</p>
+
+        <h2>Understanding Earthquake-Specific Injuries</h2>
+
+        <h3>Most Common Earthquake Injuries</h3>
+
+        <p>Earthquake injuries differ significantly from typical accidents:</p>
+
+        <p><strong>Blunt Force Trauma:</strong></p>
+        <ul>
+            <li>Caused by falling debris, toppling furniture, structural collapse</li>
+            <li>Can affect head, chest, abdomen, limbs</li>
+            <li>May cause internal bleeding without visible wounds</li>
+            <li>High risk of fractures and crush injuries</li>
+        </ul>
+
+        <p><strong>Lacerations and Puncture Wounds:</strong></p>
+        <ul>
+            <li>Shattered glass causes deep cuts</li>
+            <li>Sharp metal edges from damaged structures</li>
+            <li>Exposed nails, rebar, building materials</li>
+            <li>High contamination risk from debris</li>
+        </ul>
+
+        <p><strong>Fractures:</strong></p>
+        <ul>
+            <li>Broken bones from falls, crushing, or impact</li>
+            <li>Open fractures where bone punctures skin</li>
+            <li>Spinal fractures from structural collapse</li>
+            <li>Multiple simultaneous fractures common</li>
+        </ul>
+
+        <p><strong>Crush Injuries and Crush Syndrome:</strong></p>
+        <ul>
+            <li>Prolonged compression of limbs or body parts</li>
+            <li>Toxic buildup in compressed tissue</li>
+            <li>Life-threatening when pressure released</li>
+            <li>Requires specific medical management</li>
+        </ul>
+
+        <p><strong>Head and Spinal Injuries:</strong></p>
+        <ul>
+            <li>Concussions from falling objects</li>
+            <li>Skull fractures</li>
+            <li>Traumatic brain injuries</li>
+            <li>Spinal cord damage from structural collapse</li>
+        </ul>
+
+        <h3>The ABC Priority System</h3>
+
+        <p>When encountering injured people, always assess in this order:</p>
+
+        <p><strong>A - Airway:</strong></p>
+        <ul>
+            <li>Is the airway open and clear?</li>
+            <li>Can the person breathe?</li>
+            <li>Is there obstruction (blood, debris, vomit)?</li>
+            <li><strong>Priority: Clear airway immediately or person dies in minutes</strong></li>
+        </ul>
+
+        <p><strong>B - Breathing:</strong></p>
+        <ul>
+            <li>Is the person breathing?</li>
+            <li>Is breathing adequate (rate, depth)?</li>
+            <li>Are there chest injuries affecting breathing?</li>
+            <li><strong>Priority: Restore breathing or person dies in minutes</strong></li>
+        </ul>
+
+        <p><strong>C - Circulation:</strong></p>
+        <ul>
+            <li>Is there severe bleeding?</li>
+            <li>Is heart beating?</li>
+            <li>Is person in shock?</li>
+            <li><strong>Priority: Stop severe bleeding or person dies in minutes to hours</strong></li>
+        </ul>
+
+        <p><strong>Everything Else Comes After ABC:</strong></p>
+        <ul>
+            <li>Fractures, burns, minor wounds wait until ABCs secured</li>
+            <li>A person with broken leg but breathing/circulating will survive</li>
+            <li>A person bleeding out will die regardless of other injuries treated</li>
+        </ul>
+
+        <div class="danger-box">
+            <strong>🚨 Critical Rule: Scene Safety First:</strong> Before providing any first aid, ensure the scene is
+            safe. Don't become a victim yourself. Check for ongoing hazards: unstable structures, gas leaks, electrical
+            dangers, fire, aftershocks. If scene unsafe, wait for professional rescuers with proper equipment. You
+            cannot help anyone if you're injured or killed.
+        </div>
+
+        <h2>Severe Bleeding Control</h2>
+
+        <p>Uncontrolled bleeding kills faster than almost any other injury. Arterial bleeding can cause death in 3-5
+            minutes.</p>
+
+        <h3>Recognizing Severe Bleeding</h3>
+
+        <p><strong>Arterial Bleeding (Most Dangerous):</strong></p>
+        <ul>
+            <li>Bright red blood</li>
+            <li>Spurting or pulsing with heartbeat</li>
+            <li>High volume, rapid flow</li>
+            <li>Quickly soaks through clothing</li>
+            <li><strong>Life-threatening within minutes</strong></li>
+        </ul>
+
+        <p><strong>Venous Bleeding (Serious but Less Urgent):</strong></p>
+        <ul>
+            <li>Dark red blood</li>
+            <li>Steady flow without spurting</li>
+            <li>Moderate to high volume</li>
+            <li><strong>Life-threatening within 10-30 minutes if severe</strong></li>
+        </ul>
+
+        <p><strong>Capillary Bleeding (Minor):</strong></p>
+        <ul>
+            <li>Oozing blood</li>
+            <li>Slow flow</li>
+            <li>Low volume</li>
+            <li>Not immediately life-threatening</li>
+        </ul>
+
+        <h3>Direct Pressure (First Response)</h3>
+
+        <p><strong>Immediate Action for Severe Bleeding:</strong></p>
+        <ol>
+            <li><strong>Expose the wound</strong>—remove or cut away clothing to see injury clearly</li>
+            <li><strong>Apply direct pressure</strong>—use clean cloth, gauze, or bare hands if nothing else available
+            </li>
+            <li><strong>Press HARD</strong>—use significant force, this will hurt but saves life</li>
+            <li><strong>Hold pressure for 3-5 minutes minimum</strong>—don't lift to "check" if bleeding stopped</li>
+            <li><strong>Add more dressings if blood soaks through</strong>—don't remove blood-soaked dressings, just add
+                more on top</li>
+            <li><strong>Elevate injured limb above heart level if possible</strong>—reduces blood flow to area</li>
+        </ol>
+
+        <p><strong>If Direct Pressure Doesn't Stop Bleeding:</strong></p>
+        <ul>
+            <li>Apply MORE pressure—you're not pressing hard enough</li>
+            <li>Ensure you're applying pressure directly over wound, not adjacent tissue</li>
+            <li>If limb injury, consider tourniquet (see below)</li>
+            <li>Consider wound packing for deep wounds (see below)</li>
+        </ul>
+
+        <h3>Tourniquets (Life-Saving for Limb Injuries)</h3>
+
+        <p><strong>When to Use a Tourniquet:</strong></p>
+        <ul>
+            <li>Severe arterial bleeding from arm or leg that direct pressure doesn't stop</li>
+            <li>Multiple casualties and you need to move to next victim</li>
+            <li>Amputation or near-amputation of limb</li>
+            <li>Bleeding from area impossible to apply direct pressure (armpit, groin)</li>
+            <li>Your safety requires leaving victim before bleeding controlled</li>
+        </ul>
+
+        <p><strong>How to Apply Commercial Tourniquet (CAT, SOFT-T):</strong></p>
+        <ol>
+            <li><strong>Place 2-3 inches above wound</strong>—never place directly on wound, never place on joint</li>
+            <li><strong>Pull tight around limb</strong>—secure velcro or clip</li>
+            <li><strong>Twist windlass rod</strong>—keep twisting until bleeding stops completely</li>
+            <li><strong>Secure windlass</strong>—lock in place so it doesn't unwind</li>
+            <li><strong>Note the time</strong>—write time of application on tourniquet with marker if available</li>
+            <li><strong>Do NOT remove tourniquet</strong>—only medical professionals should remove, removal can cause
+                shock and death</li>
+        </ol>
+
+        <p><strong>Improvised Tourniquet (If No Commercial Available):</strong></p>
+        <ol>
+            <li><strong>Use wide, strong material</strong>—belt, torn shirt folded into 2-3 inch wide band, never rope
+                or wire (too narrow, damages tissue)</li>
+            <li><strong>Wrap around limb 2-3 inches above wound</strong></li>
+            <li><strong>Tie knot, place stick on knot, tie another knot over stick</strong></li>
+            <li><strong>Twist stick</strong>—keep twisting until bleeding stops</li>
+            <li><strong>Secure stick</strong>—tie or tape in place</li>
+            <li><strong>Note time</strong></li>
+        </ol>
+
+        <p><strong>Tourniquet Myths Debunked:</strong></p>
+        <ul>
+            <li><strong>MYTH: Tourniquets cause automatic amputation</strong>—FALSE. Military data shows tourniquets can
+                stay on 2-3 hours with no permanent damage</li>
+            <li><strong>MYTH: Should only use tourniquets as absolute last resort</strong>—FALSE. Use whenever limb
+                bleeding not controlled by direct pressure</li>
+            <li><strong>MYTH: Must loosen tourniquet every 20 minutes</strong>—FALSE. Once applied, NEVER remove or
+                loosen until medical facility</li>
+            <li><strong>MYTH: Tourniquets are too dangerous for civilians</strong>—FALSE. Proper tourniquet application
+                saves lives, studies show benefit far outweighs risk</li>
+        </ul>
+
+        <h3>Wound Packing (For Deep Wounds)</h3>
+
+        <p><strong>When to Pack a Wound:</strong></p>
+        <ul>
+            <li>Deep wound (knife-like puncture, impalement injury after object removed)</li>
+            <li>Wound in area where tourniquet can't be applied (neck, shoulder, groin, armpit)</li>
+            <li>Direct pressure alone not controlling bleeding</li>
+        </ul>
+
+        <p><strong>How to Pack a Wound:</strong></p>
+        <ol>
+            <li><strong>Use sterile gauze if available</strong>—hemostatic gauze (QuikClot, Celox) best, plain gauze
+                acceptable, clean cloth last resort</li>
+            <li><strong>Stuff gauze directly into wound</strong>—push deep, fill wound cavity completely</li>
+            <li><strong>Pack tightly</strong>—use significant force, this stops bleeding through compression</li>
+            <li><strong>Keep packing until wound full</strong>—may need entire roll of gauze for deep wound</li>
+            <li><strong>Apply direct pressure over packed wound for 3 minutes</strong></li>
+            <li><strong>Bandage over packing</strong>—secure with wrap bandage</li>
+        </ol>
+
+        <div class="warning-box">
+            <strong>⚠️ Hemostatic Agents:</strong> QuikClot and Celox gauze contain chemicals that promote rapid
+            clotting. These are excellent for severe bleeding but expensive ($15-30 per package). For emergency kits,
+            include at least 2-3 packages. Plain gauze works too but takes longer to achieve clotting.
+        </div>
+
+        <h2>Fracture Management</h2>
+
+        <h3>Recognizing Fractures</h3>
+
+        <p><strong>Definite Signs of Fracture:</strong></p>
+        <ul>
+            <li>Bone visibly broken or protruding through skin</li>
+            <li>Limb at unnatural angle</li>
+            <li>Bone ends grating against each other (crepitus)</li>
+            <li>Heard or felt bone break during injury</li>
+        </ul>
+
+        <p><strong>Probable Signs of Fracture:</strong></p>
+        <ul>
+            <li>Severe pain at injury site</li>
+            <li>Swelling and bruising</li>
+            <li>Inability to move or bear weight</li>
+            <li>Deformity or abnormal appearance</li>
+            <li>Tenderness when touched</li>
+        </ul>
+
+        <p><strong>When in Doubt, Treat as Fracture:</strong></p>
+        <ul>
+            <li>Better to immobilize non-fracture than fail to immobilize fracture</li>
+            <li>Movement of fractured bone causes severe pain, tissue damage, bleeding</li>
+            <li>Improper movement can convert closed fracture to open fracture</li>
+        </ul>
+
+        <h3>Closed Fractures (Bone Broken, Skin Intact)</h3>
+
+        <p><strong>Management Steps:</strong></p>
+        <ol>
+            <li><strong>Do NOT try to realign bone</strong>—this causes extreme pain and can damage nerves/blood vessels
+            </li>
+            <li><strong>Immobilize in position found</strong>—splint supports limb in current position</li>
+            <li><strong>Check circulation below injury</strong>—feel for pulse, check skin color and temperature, ask if
+                they feel numbness/tingling</li>
+            <li><strong>Apply splint</strong>—immobilize joint above and below fracture</li>
+            <li><strong>Recheck circulation after splinting</strong>—if pulse lost or limb becomes cold/blue, splint too
+                tight</li>
+            <li><strong>Elevate if possible</strong>—reduces swelling</li>
+            <li><strong>Apply ice if available</strong>—reduces pain and swelling, don't apply directly to skin</li>
+        </ol>
+
+        <p><strong>Splinting Principles:</strong></p>
+        <ul>
+            <li><strong>Immobilize joint above and below fracture</strong>—broken forearm requires immobilizing wrist
+                AND elbow</li>
+            <li><strong>Pad splint</strong>—cloth between splint and skin prevents pressure sores</li>
+            <li><strong>Secure splint</strong>—ties above and below fracture, not directly over break</li>
+            <li><strong>Don't tie too tight</strong>—should fit snugly but not cut off circulation</li>
+        </ul>
+
+        <p><strong>Improvised Splint Materials:</strong></p>
+        <ul>
+            <li>Rigid: boards, rolled newspaper/magazine, cardboard, straight tree branches, umbrellas, canes</li>
+            <li>Padding: towels, clothing, blankets</li>
+            <li>Ties: belts, torn sheets, shoelaces, rope, duct tape</li>
+            <li>Slings: triangular bandage, torn sheet, belt</li>
+        </ul>
+
+        <h3>Open Fractures (Bone Protruding Through Skin)</h3>
+
+        <p><strong>CRITICAL: Open fractures are medical emergencies due to massive infection risk and severe
+                bleeding.</strong></p>
+
+        <p><strong>Management Steps:</strong></p>
+        <ol>
+            <li><strong>Control bleeding first</strong>—direct pressure around (not on) protruding bone</li>
+            <li><strong>Do NOT push bone back into wound</strong>—extreme infection risk</li>
+            <li><strong>Cover wound with sterile dressing</strong>—use clean cloth if sterile unavailable</li>
+            <li><strong>Build padding around protruding bone</strong>—doughnut bandage supports and protects bone</li>
+            <li><strong>Splint as for closed fracture</strong>—immobilize in position found</li>
+            <li><strong>Seek professional medical care URGENTLY</strong>—open fractures require surgical cleaning and
+                antibiotics within hours to prevent life-threatening infection</li>
+        </ol>
+
+        <h2>Spinal Injury Management</h2>
+
+        <h3>When to Suspect Spinal Injury</h3>
+
+        <p><strong>Spinal injuries can cause permanent paralysis or death if handled improperly. Always suspect spinal
+                injury if:</strong></p>
+
+        <ul>
+            <li>Person fell from height (more than their own height)</li>
+            <li>Person struck by falling debris on head, neck, or back</li>
+            <li>Person found unconscious (assume spinal injury until proven otherwise)</li>
+            <li>Vehicle-related injury</li>
+            <li>Diving injury or head-first impact</li>
+            <li>Severe blunt trauma to torso</li>
+        </ul>
+
+        <p><strong>Signs of Possible Spinal Injury:</strong></p>
+        <ul>
+            <li>Neck or back pain</li>
+            <li>Numbness or tingling in extremities</li>
+            <li>Weakness or inability to move arms or legs</li>
+            <li>Loss of bowel or bladder control</li>
+            <li>Unconsciousness</li>
+            <li>Difficulty breathing</li>
+            <li>Odd positioning of head or neck</li>
+        </ul>
+
+        <h3>Spinal Injury Protocol</h3>
+
+        <p><strong>If you suspect spinal injury:</strong></p>
+
+        <ol>
+            <li><strong>Do NOT move person unless IMMEDIATE life threat</strong>—fire, building collapse, dangerous
+                location</li>
+            <li><strong>Stabilize head and neck</strong>—hold head still in position found, support on both sides with
+                hands</li>
+            <li><strong>Tell person not to move</strong>—explain they may have spinal injury and must remain still</li>
+            <li><strong>If alone, stay with victim and call for help</strong>—don't leave to get help unless no other
+                option</li>
+            <li><strong>If must move due to immediate danger:</strong>
+                <ul>
+                    <li>Support entire spine as single unit</li>
+                    <li>Requires minimum 3-4 people to move safely</li>
+                    <li>Keep head, neck, and back in straight line</li>
+                    <li>Move as if person is rigid board</li>
+                </ul>
+            </li>
+        </ol>
+
+        <div class="danger-box">
+            <strong>🚨 Spinal Injury Movement Rule:</strong> The ONLY reasons to move someone with suspected spinal
+            injury: (1) Immediate fire danger, (2) Building actively collapsing, (3) Person in roadway with active
+            traffic, (4) Person not breathing and needs CPR, (5) Severe bleeding that requires position change to
+            control. Otherwise, WAIT for professional help with proper spinal immobilization equipment.
+        </div>
+
+        <h2>Crush Syndrome and Compartment Syndrome</h2>
+
+        <h3>Understanding Crush Syndrome</h3>
+
+        <p>Crush syndrome occurs when body parts are compressed for extended periods (typically 1+ hours). When pressure
+            released, toxic buildup from crushed tissue enters bloodstream and can cause kidney failure, cardiac arrest,
+            and death.</p>
+
+        <p><strong>Mechanism:</strong></p>
+        <ul>
+            <li>Prolonged compression damages muscle tissue</li>
+            <li>Damaged tissue releases myoglobin, potassium, phosphorus, acids</li>
+            <li>While compressed, toxins trapped in compressed area</li>
+            <li>When compression released, toxins flood into circulation</li>
+            <li>High potassium can stop heart</li>
+            <li>Myoglobin clogs kidneys causing failure</li>
+        </ul>
+
+        <h3>Crush Syndrome Management</h3>
+
+        <p><strong>CRITICAL RULE: If someone trapped more than 1 hour and you don't have IV fluids and advanced medical
+                training, DO NOT REMOVE CRUSHING OBJECT. Wait for professional rescue.</strong></p>
+
+        <p><strong>Why This Rule Exists:</strong></p>
+        <ul>
+            <li>Person may be stable while crushed</li>
+            <li>Removing pressure without medical preparation can kill within minutes</li>
+            <li>Professional rescuers will start IV fluids BEFORE releasing pressure to dilute toxins</li>
+            <li>Hospitals can provide emergency dialysis if needed</li>
+        </ul>
+
+        <p><strong>If Person Trapped Less Than 1 Hour:</strong></p>
+        <ul>
+            <li>Safer to remove crushing object (toxin buildup minimal)</li>
+            <li>After removing pressure, monitor closely for shock</li>
+            <li>Transport to hospital as soon as possible</li>
+            <li>Inform medical providers how long person was crushed</li>
+        </ul>
+
+        <p><strong>If You Must Remove Crushing Object Despite Long Entrapment (Life Threat):</strong></p>
+        <ol>
+            <li>Apply tourniquet to crushed limb BEFORE removing crushing object if possible</li>
+            <li>Have someone ready to perform CPR—cardiac arrest possible</li>
+            <li>Remove crushing object</li>
+            <li>Monitor closely for cardiac arrest, provide CPR if needed</li>
+            <li>Immediate transport to hospital critical</li>
+        </ol>
+
+        <h3>Compartment Syndrome</h3>
+
+        <p>Compartment syndrome is pressure buildup within muscle compartments that cuts off blood flow. Can develop
+            hours after injury.</p>
+
+        <p><strong>Signs of Compartment Syndrome:</strong></p>
+        <ul>
+            <li><strong>The "5 P's":</strong>
+                <ul>
+                    <li><strong>Pain:</strong> Severe, out of proportion to injury, worsening over time</li>
+                    <li><strong>Pressure:</strong> Limb feels tight, swollen, hard</li>
+                    <li><strong>Pallor:</strong> Limb pale or bluish</li>
+                    <li><strong>Paresthesia:</strong> Tingling, numbness, "pins and needles"</li>
+                    <li><strong>Paralysis:</strong> Inability to move fingers/toes (late sign)</li>
+                </ul>
+            </li>
+        </ul>
+
+        <p><strong>Management:</strong></p>
+        <ul>
+            <li>Remove all tight bandages, splints, jewelry</li>
+            <li>Elevate limb to heart level (not above—reduces blood flow)</li>
+            <li>Do NOT apply ice (worsens blood flow)</li>
+            <li>Seek emergency surgical care—compartment syndrome requires surgical release of pressure within hours to
+                save limb</li>
+        </ul>
+
+        <h2>Shock Recognition and Treatment</h2>
+
+        <h3>Understanding Shock</h3>
+
+        <p>Shock is circulatory system failure—inadequate blood flow to organs. Can develop from severe bleeding,
+            trauma, pain, fear, or other injuries. Untreated shock leads to organ failure and death.</p>
+
+        <p><strong>Types of Shock in Earthquakes:</strong></p>
+        <ul>
+            <li><strong>Hypovolemic shock:</strong> Blood or fluid loss (most common)</li>
+            <li><strong>Cardiogenic shock:</strong> Heart can't pump effectively</li>
+            <li><strong>Neurogenic shock:</strong> Spinal injury disrupts blood flow regulation</li>
+            <li><strong>Psychogenic shock:</strong> Extreme emotional stress causes fainting</li>
+        </ul>
+
+        <h3>Recognizing Shock</h3>
+
+        <p><strong>Early Signs:</strong></p>
+        <ul>
+            <li>Rapid pulse (over 100 beats per minute)</li>
+            <li>Rapid breathing (over 20 breaths per minute)</li>
+            <li>Pale, cool, clammy skin</li>
+            <li>Weakness, dizziness</li>
+            <li>Anxiety, restlessness</li>
+            <li>Thirst</li>
+        </ul>
+
+        <p><strong>Late Signs (Medical Emergency):</strong></p>
+        <ul>
+            <li>Confusion, altered mental status</li>
+            <li>Weak or absent pulse</li>
+            <li>Gasping or labored breathing</li>
+            <li>Blue lips and fingernails</li>
+            <li>Unconsciousness</li>
+        </ul>
+
+        <h3>Shock Treatment</h3>
+
+        <p><strong>Management Steps:</strong></p>
+        <ol>
+            <li><strong>Treat underlying cause</strong>—stop bleeding, stabilize injuries</li>
+            <li><strong>Lay person flat on back</strong>—unless head/chest injury or difficulty breathing</li>
+            <li><strong>Elevate legs 12 inches</strong>—helps return blood to core (skip if leg fractures or spinal
+                injury suspected)</li>
+            <li><strong>Keep warm</strong>—cover with blanket, prevent heat loss to ground</li>
+            <li><strong>Do NOT give food or water</strong>—person may need surgery, anything by mouth increases
+                aspiration risk</li>
+            <li><strong>Reassure and calm</strong>—emotional support reduces anxiety-driven shock worsening</li>
+            <li><strong>Monitor constantly</strong>—check pulse, breathing, consciousness every few minutes</li>
+            <li><strong>Seek professional medical care urgently</strong></li>
+        </ol>
+
+        <h2>When to Move Injured People</h2>
+
+        <h3>Move Immediately (Immediate Danger)</h3>
+
+        <p><strong>Move person immediately if:</strong></p>
+        <ul>
+            <li>Fire or smoke</li>
+            <li>Building actively collapsing</li>
+            <li>Gas leak with explosion risk</li>
+            <li>Rising water/flooding</li>
+            <li>Active roadway with traffic</li>
+            <li>Aftershock causing ongoing structural failure</li>
+        </ul>
+
+        <p><strong>Emergency Moves (When Scene Unsafe):</strong></p>
+        <ul>
+            <li><strong>Clothes drag:</strong> Grab shirt/jacket behind head, drag backward protecting head and neck
+            </li>
+            <li><strong>Blanket drag:</strong> Roll person onto blanket, drag blanket</li>
+            <li><strong>Arm drag:</strong> From behind, reach under armpits, grab one forearm, drag backward</li>
+            <li><strong>Two-person carry:</strong> Each person supports under arms and knees, move together</li>
+        </ul>
+
+        <h3>DO NOT Move (Wait for Professional Help)</h3>
+
+        <p><strong>Do NOT move person if:</strong></p>
+        <ul>
+            <li>Suspected spinal injury (unless immediate danger)</li>
+            <li>Crush injury where person trapped more than 1 hour</li>
+            <li>Multiple severe injuries</li>
+            <li>Impaled object in body</li>
+            <li>Severe bleeding not yet controlled</li>
+            <li>Person in shock and no immediate danger</li>
+            <li>Moving would cause severe pain or further injury</li>
+        </ul>
+
+        <p><strong>Wait for Professional Rescuers Who Have:</strong></p>
+        <ul>
+            <li>Spinal immobilization equipment</li>
+            <li>Lifting/extrication tools</li>
+            <li>IV fluids for crush syndrome</li>
+            <li>Trained personnel for complex moves</li>
+            <li>Oxygen and advanced airway equipment</li>
+        </ul>
+
+        <h2>Mass Casualty Triage</h2>
+
+        <p>When multiple people injured and limited resources, triage determines treatment order. This is emotionally
+            difficult but mathematically necessary to save maximum lives.</p>
+
+        <h3>START Triage System (Simple Triage And Rapid Treatment)</h3>
+
+        <p><strong>Takes 60 seconds per victim to categorize:</strong></p>
+
+        <p><strong>Step 1: Can person walk?</strong></p>
+        <ul>
+            <li><strong>YES:</strong> Tag GREEN (Minor) → treat last</li>
+            <li><strong>NO:</strong> Continue to Step 2</li>
+        </ul>
+
+        <p><strong>Step 2: Is person breathing?</strong></p>
+        <ul>
+            <li><strong>NO:</strong> Position airway (head tilt-chin lift)</li>
+            <ul>
+                <li>Still not breathing after airway positioned: Tag BLACK (Deceased/Expectant) → provide comfort care
+                    only</li>
+                <li>Breathing after airway positioned: Continue to Step 3</li>
+            </ul>
+            <li><strong>YES:</strong> Continue to Step 3</li>
+        </ul>
+
+        <p><strong>Step 3: Breathing rate over 30 per minute?</strong></p>
+        <ul>
+            <li><strong>YES:</strong> Tag RED (Immediate) → treat first</li>
+            <li><strong>NO:</strong> Continue to Step 4</li>
+        </ul>
+
+        <p><strong>Step 4: Check circulation - can they follow simple commands?</strong></p>
+        <ul>
+            <li><strong>NO (altered mental status):</strong> Tag RED (Immediate) → treat first</li>
+            <li><strong>YES:</strong> Tag YELLOW (Delayed) → treat second</li>
+        </ul>
+
+        <p><strong>Triage Categories:</strong></p>
+        <ul>
+            <li><strong>RED (Immediate):</strong> Life-threatening but survivable with immediate treatment (severe
+                bleeding, airway compromise, respiratory distress, shock)</li>
+            <li><strong>YELLOW (Delayed):</strong> Serious injuries but can wait hours (fractures, moderate bleeding,
+                burns)</li>
+            <li><strong>GREEN (Minor):</strong> Walking wounded, minor injuries (cuts, bruises, sprains)</li>
+            <li><strong>BLACK (Expectant/Deceased):</strong> Dead or injuries incompatible with survival given available
+                resources (no breathing despite airway positioned, massive traumatic injuries)</li>
+        </ul>
+
+        <div class="warning-box">
+            <strong>⚠️ Triage is Not Giving Up:</strong> Categorizing someone as BLACK/Expectant is NOT abandoning
+            them—it's acknowledging that in mass casualty situations with limited resources, treating those who can be
+            saved must take priority. This is one of the hardest aspects of disaster response but necessary to maximize
+            survival.
+        </div>
+
+        <h2>Essential First Aid Supplies for Earthquakes</h2>
+
+        <h3>Trauma-Focused First Aid Kit</h3>
+
+        <p>Standard first aid kits for minor injuries inadequately prepared for earthquake trauma. Build
+            earthquake-specific kit:</p>
+
+        <p><strong>Bleeding Control:</strong></p>
+        <ul>
+            <li>2-3 CAT tourniquets or SOFT-T tourniquets ($25-30 each)</li>
+            <li>4-6 packs hemostatic gauze (QuikClot, Celox) ($15-25 each)</li>
+            <li>20+ 4x4 gauze pads (sterile)</li>
+            <li>5-10 trauma dressings/Israeli bandages ($8-12 each)</li>
+            <li>4-6 rolls gauze wrap (various widths)</li>
+            <li>2-3 rolls elastic bandages (ACE wraps)</li>
+            <li>Medical tape (several rolls)</li>
+            <li>Chest seals for penetrating chest wounds (2 packs)</li>
+        </ul>
+
+        <p><strong>Fracture and Splinting:</strong></p>
+        <ul>
+            <li>SAM splints (moldable aluminum) 2-3 different sizes</li>
+            <li>Triangular bandages (4-6 for slings)</li>
+            <li>Padding materials (towels, rolled gauze)</li>
+            <li>Duct tape or medical tape</li>
+        </ul>
+
+        <p><strong>Airway and Breathing:</strong></p>
+        <ul>
+            <li>CPR face shield or pocket mask</li>
+            <li>Nasopharyngeal airway (if trained)</li>
+            <li>Rescue breathing barrier device</li>
+        </ul>
+
+        <p><strong>Medications and Supplies:</strong></p>
+        <ul>
+            <li>Pain relievers (ibuprofen, acetaminophen)—over-the-counter</li>
+            <li>Antibiotic ointment (triple antibiotic)</li>
+            <li>Antihistamines (Benadryl for allergic reactions)</li>
+            <li>Aspirin (for suspected heart attack)</li>
+            <li>Burn gel or dressings</li>
+            <li>Eye wash solution</li>
+            <li>Nitrile gloves (multiple pairs—bloodborne pathogen protection)</li>
+            <li>Hand sanitizer</li>
+            <li>Scissors (trauma shears that cut through clothing)</li>
+            <li>Tweezers</li>
+            <li>Safety pins</li>
+            <li>Thermometer</li>
+            <li>Flashlight with extra batteries</li>
+            <li>Permanent marker (for marking tourniquets, triage tags)</li>
+            <li>Emergency blanket (mylar space blanket)</li>
+        </ul>
+
+        <p><strong>Documentation:</strong></p>
+        <ul>
+            <li>First aid manual or quick reference cards</li>
+            <li>Notepad and pencil (document injuries and treatment)</li>
+            <li>Triage tags if available</li>
+        </ul>
+
+        <p><strong>Total Cost for Comprehensive Earthquake First Aid Kit: $200-400</strong></p>
+
+        <h3>Medications to Stockpile</h3>
+
+        <p><strong>Prescription Medications:</strong></p>
+        <ul>
+            <li>Maintain 30-day supply of all regular medications</li>
+            <li>Keep medications in original labeled containers</li>
+            <li>Rotate regularly to prevent expiration</li>
+            <li>Include list of medications, dosages, and prescribing doctors</li>
+        </ul>
+
+        <p><strong>Over-the-Counter Medications (Earthquake-Specific):</strong></p>
+        <ul>
+            <li>Pain relievers: Ibuprofen 200mg (reduce inflammation), Acetaminophen 500mg (pain and fever)</li>
+            <li>Antihistamines: Diphenhydramine (Benadryl) for allergic reactions</li>
+            <li>Antidiarrheal: Loperamide (Imodium) for contaminated water exposure</li>
+            <li>Antacids: For stress-related stomach issues</li>
+            <li>Electrolyte packets: For dehydration</li>
+        </ul>
+
+        <h2>Training and Certification</h2>
+
+        <p>Reading this guide provides knowledge, but hands-on training builds competence and confidence.</p>
+
+        <h3>Recommended Training Courses</h3>
+
+        <p><strong>Basic Level:</strong></p>
+        <ul>
+            <li><strong>American Red Cross First Aid/CPR/AED:</strong> 4-6 hours, covers basic skills, $70-110,
+                recertification every 2 years</li>
+            <li><strong>Stop the Bleed:</strong> Free 1-hour course focused on bleeding control and tourniquet use</li>
+        </ul>
+
+        <p><strong>Intermediate Level:</strong></p>
+        <ul>
+            <li><strong>Wilderness First Aid:</strong> 2-day course, covers extended care when help delayed, $200-300
+            </li>
+            <li><strong>Community Emergency Response Team (CERT):</strong> Free 20-hour course covering disaster
+                response including medical, offered by local fire departments</li>
+        </ul>
+
+        <p><strong>Advanced Level:</strong></p>
+        <ul>
+            <li><strong>Wilderness First Responder:</strong> 8-10 day course, comprehensive backcountry medicine,
+                $800-1200</li>
+            <li><strong>Tactical Combat Casualty Care (TCCC):</strong> Military-derived trauma care, various civilian
+                adaptations available</li>
+            <li><strong>EMT Basic:</strong> 120-150 hour course, professional-level emergency care, $1000-1500</li>
+        </ul>
+
+        <h3>Practice and Skill Maintenance</h3>
+
+        <ul>
+            <li>Skills degrade without practice—review annually minimum</li>
+            <li>Practice with your actual supplies (know how to use your tourniquet BEFORE emergency)</li>
+            <li>Conduct scenario-based drills with family</li>
+            <li>Join or form neighborhood disaster response team</li>
+            <li>Recertify courses before expiration</li>
+        </ul>
+
+        <h2>Conclusion: Preparedness Saves Lives</h2>
+
+        <p>After major earthquakes, professional medical help is overwhelmed, delayed, or completely unavailable. The
+            difference between life and death often depends on what bystanders know and can do in the first critical
+            minutes and hours. A person bleeding from severed artery has 3-5 minutes before death. Professional help may
+            be 3-5 hours away or longer. Knowing how to apply a tourniquet transforms that person's prognosis from
+            certain death to likely survival.</p>
+
+        <p>First aid skills aren't just for helping strangers—they're for protecting your family when you're the only
+            medical help available. The skills in this guide—bleeding control, fracture stabilization, shock management,
+            appropriate movement decisions—are teachable, learnable, and lifesaving. They don't require medical school
+            or years of training. They require a day or two of focused learning and periodic practice.</p>
+
+        <p>Take a Stop the Bleed course this month (free, 1 hour). Take a First Aid/CPR course this quarter ($70-110,
+            4-6 hours). Build a trauma-focused first aid kit ($200-400). Practice with your supplies. Review these
+            skills quarterly. When the earthquake strikes and someone you love is bleeding or broken, you'll have the
+            knowledge and tools to help rather than helplessly watching.</p>
+
+        <p><strong>Learn first aid now. Practice these skills regularly. When seconds matter and help is hours away,
+                you'll be ready.</strong></p>
+
+        <div class="related-posts">
+            <h3>Related Articles</h3>
+            <ul>
+                <li><a href="earthquake-preparedness-checklist.html">How to Prepare for an Earthquake: Complete
+                        Checklist</a></li>
+                <li><a href="help-neighbors-after-earthquake.html">How to Help Neighbors After an Earthquake</a></li>
+                <li><a href="earthquake-safety-disabilities.html">Earthquake Safety for People with Disabilities</a>
+                </li>
+                <li><a href="water-storage-earthquake-emergencies.html">Water Storage for Earthquake Emergencies</a>
+                </li>
+            </ul>
+        </div>
+
+        <div
+            style="margin-top: 3rem; padding: 2rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #fd7e14;">
+            <h3 style="margin-top: 0;">Support Earthquake Radar</h3>
+            <p>Earthquake Radar provides free, real-time earthquake monitoring and comprehensive safety guides to help
+                communities prepare for seismic events. If you found this guide helpful, please consider supporting our
+                mission:</p>
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1rem;">
+                <a href="https://www.paypal.com/donate/?hosted_button_id=DGBW9877JPQEG" class="support-btn paypal-btn"
+                    target="_blank" rel="noopener">
+                    Donate via PayPal
+                </a>
+                <a href="https://www.patreon.com/cw/EarthquakeRadar" class="support-btn patreon-btn" target="_blank"
+                    rel="noopener">
+                    Support on Patreon
+                </a>
+                <a href="https://earthquake-radar-shop.fourthwall.com" class="support-btn store-btn" target="_blank"
+                    rel="noopener">
+                    Visit Our Store
+                </a>
+            </div>
+            <p style="margin-top: 1rem; font-size: 0.9rem; color: #6c757d;">Your support helps us maintain free
+                earthquake monitoring services and create more comprehensive safety resources for communities worldwide.
+            </p>
+        </div>
+    </article>
+
+    <div class="footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <div class="footer-logo">Earthquake Radar</div>
+                <p style="margin-bottom: 1rem; opacity: 0.8;">Real-time seismic monitoring and earthquake safety
+                    information</p>
+                <div style="font-size: 0.85rem; opacity: 0.7;">
+                    © 2026 AC3 Holdings, LLC. All rights reserved.
+                </div>
+            </div>
+            <div class="footer-right">
+                <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+                    <div>
+                        <div class="footer-block-title">Follow Us</div>
+                        <div class="footer-block-links">
+                            <a href="https://x.com/EarthquakeRDR" class="support-btn x-btn" target="_blank"
+                                rel="noopener">
+                                <img src="https://pngdownloads.wordpress.com/wp-content/uploads/2023/08/x-logo.jpg"
+                                    alt="X Logo" style="height: 18px; width: 18px;"> Twitter/X
+                            </a>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="footer-block-title">Support This Project</div>
+                        <div class="footer-block-links">
+                            <a href="https://www.paypal.com/donate/?hosted_button_id=DGBW9877JPQEG"
+                                class="support-btn paypal-btn" target="_blank" rel="noopener">PayPal</a>
+                            <a href="https://www.patreon.com/cw/EarthquakeRadar" class="support-btn patreon-btn"
+                                target="_blank" rel="noopener">Patreon</a>
+                            <a href="https://earthquake-radar-shop.fourthwall.com" class="support-btn store-btn"
+                                target="_blank" rel="noopener">Store</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Dark mode toggle functionality
+        function toggleTheme() {
+            document.body.classList.toggle('dark-mode');
+            const isDark = document.body.classList.contains('dark-mode');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            document.getElementById('themeIcon').textContent = isDark ? '☀️' : '🌙';
+        }
+
+        // Load saved theme preference
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'dark') {
+                document.body.classList.add('dark-mode');
+                document.getElementById('themeIcon').textContent = '☀️';
+            }
+        }
+
+        // Mobile menu toggle
+        function toggleMobileMenu() {
+            const nav = document.getElementById('mainNav');
+            nav.classList.toggle('active');
+        }
+
+        // Load theme on page load
+        loadTheme();
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', function (event) {
+            const nav = document.getElementById('mainNav');
+            const hamburger = document.querySelector('.hamburger-btn');
+
+            if (!nav.contains(event.target) && !hamburger.contains(event.target)) {
+                nav.classList.remove('active');
+            }
+        });
+    </script>
+</body>
+
+</html>

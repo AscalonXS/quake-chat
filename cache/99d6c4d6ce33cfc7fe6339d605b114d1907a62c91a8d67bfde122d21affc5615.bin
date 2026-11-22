@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<script src="/Portals/144/JS/LoD-navDropDown2.0.js"></script><title>
+	Mass Casualty Management: A Guide for Standardizing Mass Casualty Response
+</title><meta id="MetaDescription" name="description" content="Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders." /><meta id="MetaKeywords" name="keywords" content="mass casualty management, MASCAL, tactical combat casualty care, TCCC, triage, casualty collection point, CCP, prehospital care, prolonged casualty care, PCC, lifesaving interventions, casualty response system, CRS, end-of-life care, military medicine, nonmedical responders, damage control surgery, hemorrhage control" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/dod2/skin.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DOD2/container.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Portals/144/portal.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/dod2/resources/css/header-inset.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/dod2/assets/dist/css/full-width.min.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/portals/144/CSS/lod-global-css.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/DesktopModules/SharedLibrary/ValidatedPlugins/aos/aos.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/smartmenus/css/sm-core-css.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/all.min.css?cdv=4056" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/v4-shims.min.css?cdv=4056" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=4056" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_04_01/jquery-migrate.js?cdv=4056" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_13_03/jquery-ui.min.js?cdv=4056" type="text/javascript"></script><script src="/Resources/libraries/HoverIntent/01_10_01/jquery.hoverIntent.min.js?cdv=4056" type="text/javascript"></script><link id="RobotoSlab" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab" /><script src="/Portals/144/JS/Audio-player-offset.js"></script>
+
+<!-- Basic SEO -->
+<meta name="description" content="Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders." />
+<meta name="keywords" content="mass casualty management, MASCAL, tactical combat casualty care, TCCC, triage, casualty collection point, CCP, prehospital care, prolonged casualty care, PCC, lifesaving interventions, casualty response system, CRS, end-of-life care, military medicine, nonmedical responders, damage control surgery, hemorrhage control" />
+<meta name="author" content="SGM Michael Remley, COL Steve Rush, SGM Jake Brown, LTC Andrew Schaffrinna, MSG Christopher Hutchison, Mrs. Shelia Savell, COL (retired) Stacy A. Shackelford, COL (retired) Russ Kotwal" />
+<meta name="robots" content="index,follow" />
+
+<!-- Open Graph -->
+<meta property="og:title" content="Mass Casualty Management: A Guide for Standardizing Mass Casualty Response" />
+<meta property="og:description" content="Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders." />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/" />
+<meta property="og:image" content="https://www.lineofdeparture.army.mil/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026%20E-Edition/MCM/image2.jpg" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Mass Casualty Management: A Guide for Standardizing Mass Casualty Response" />
+<meta name="twitter:description" content="Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders." />
+<meta name="twitter:image" content="https://www.lineofdeparture.army.mil/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026%20E-Edition/MCM/image2.jpg" />
+
+<!-- Dublin Core -->
+<meta name="dc.title" content="Mass Casualty Management: A Guide for Standardizing Mass Casualty Response" />
+<meta name="dc.description" content="Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders." />
+<meta name="dc.subject" content="mass casualty management, MASCAL, tactical combat casualty care, TCCC, triage, casualty collection point, CCP, prehospital care, prolonged casualty care, PCC, lifesaving interventions, casualty response system, CRS, end-of-life care, military medicine, nonmedical responders, damage control surgery, hemorrhage control" />
+<meta name="dc.date" content="2026-05-01" />
+<meta name="dc.date.created" content="2026-05-01" />
+<meta name="dc.type" content="Article" />
+<meta name="dc.language" content="en" />
+
+<!-- Dublin Core Terms (DCTerms) -->
+<meta name="dcterms.title" content="Mass Casualty Management: A Guide for Standardizing Mass Casualty Response" />
+<meta name="dcterms.keywords" content="mass casualty management, MASCAL, tactical combat casualty care, TCCC, triage, casualty collection point, CCP, prehospital care, prolonged casualty care, PCC, lifesaving interventions, casualty response system, CRS, end-of-life care, military medicine, nonmedical responders, damage control surgery, hemorrhage control" />
+<meta name="dcterms.subject" content="mass casualty management, MASCAL, tactical combat casualty care, TCCC, triage, casualty collection point, CCP, prehospital care, prolonged casualty care, PCC, lifesaving interventions, casualty response system, CRS, end-of-life care, military medicine, nonmedical responders, damage control surgery, hemorrhage control" />
+<meta name="dcterms.description" content="Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders." />
+<meta name="dcterms.created" content="2026-05-01" />
+<meta name="dcterms.type" content="Article" />
+<meta name="dcterms.audience" content="Military Professionals, Defense Analysts, Scholars, General Public" />
+
+<!-- Article Metadata -->
+<meta property="article:published_time" content="2026-05-01" />
+<meta property="article:modified_time" content="2026-05-01" />
+<meta property="article:tag" content="Military, Warfighting, U.S. Army, Basic Combat Training" />
+<meta property="article:section" content="Military Insights, Training, Operational Readiness" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/"
+      },
+      "headline": "Mass Casualty Management",
+      "alternativeHeadline": "A Guide for Standardizing Mass Casualty Response",
+      "description": "Evidence-based framework for military mass casualty management (MASCAL), covering triage methodology, casualty collection points, end-of-life care, communication, security, and training recommendations for medical and nonmedical responders.",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "SGM Michael Remley",
+          "description": "SGM Mike Remley serves as the Deputy Enlisted Corps Chief and Corps Specific Branch Proponent Officer for the Enlisted Corps, U.S. Army Medical Department."
+        },
+        {
+          "@type": "Person",
+          "name": "COL Steve Rush",
+          "description": "COL Stephen Rush is a US Air Force Reserve Special Warfare Flight Surgeon, and a Radiation Oncologist on the Faculty of New York University Medical Center with dual appointments and Radiation Oncology and Neurosurgery."
+        },
+        {
+          "@type": "Person",
+          "name": "SGM Jake Brown",
+          "description": "SGM Jake Brown currently serves as Medical Squadron SGM, USASOC."
+        },
+        {
+          "@type": "Person",
+          "name": "LTC Andrew Schaffrinna",
+          "description": "LTC Andrew Michael Schaffrinna is an Emergency Medicine Physician with a focus on operational medicine and medical education. During his 15-year Army career he has had the privilege to serve on multiple deployments in support of Special Operations as part of forward deployed surgical teams."
+        },
+        {
+          "@type": "Person",
+          "name": "MSG Christopher Hutchison",
+          "description": "MSG Christopher W. Hutchison is currently serving as the Senior Enlisted Advisor for the Army Special Operations Aviation Command."
+        },
+        {
+          "@type": "Person",
+          "name": "Mrs. Shelia Savell",
+          "description": "Shelia Savell, PhD, RN, Nurse Scientist for the En route Care Research Center, 59MDW/DHA for 10 years in support of combat casualty care research."
+        },
+        {
+          "@type": "Person",
+          "name": "COL (retired) Stacy A. Shackelford",
+          "description": "COL (Ret) Stacy Shackelford, MD (USAF) is a Research Professor for the Departments of Surgery and Emergency Medicine at the University of Colorado and Professor of Surgery for the Uniformed Services University of Health Sciences."
+        },
+        {
+          "@type": "Person",
+          "name": "COL (retired) Russ Kotwal",
+          "description": "COL (Ret.) Russ S. Kotwal, MD, served over 29 years in the U.S. Army to include 15 years in operational assignments with the 25th Infantry Division, 75th Ranger Regiment, and U.S. Army Special Operations Command. He deployed to combat twelve times with the Rangers, nine to Afghanistan and three to Iraq. He is a Family Medicine and Aerospace Medicine physician. He currently works on Strategic Projects for the Joint Trauma System, Defense Health Agency."
+        }
+      ],
+      "datePublished": "2026-05-01",
+      "dateModified": "2026-05-01",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Line of Departure",
+        "url": "https://www.lineofdeparture.army.mil/"
+      },
+      "isPartOf": [
+        {
+          "@type": "Periodical",
+          "name": "Pulse of Army Medicine"
+        },
+        {
+          "@type": "PublicationIssue",
+          "name": "2026 E-Edition",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Pulse of Army Medicine"
+          }
+        }
+      ],
+      "articleSection": "Pulse of Army Medicine",
+      "keywords": [
+        "mass casualty management",
+        "MASCAL",
+        "tactical combat casualty care",
+        "TCCC",
+        "triage",
+        "casualty collection point",
+        "CCP",
+        "prehospital care",
+        "prolonged casualty care",
+        "PCC",
+        "lifesaving interventions",
+        "casualty response system",
+        "CRS",
+        "end-of-life care",
+        "military medicine",
+        "nonmedical responders",
+        "damage control surgery",
+        "hemorrhage control"
+      ],
+      "timeRequired": "PT31M",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www.lineofdeparture.army.mil/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026%20E-Edition/MCM/image2.jpg"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Mass casualty management"
+        },
+        {
+          "@type": "Thing",
+          "name": "Triage"
+        },
+        {
+          "@type": "Thing",
+          "name": "Casualty collection point"
+        },
+        {
+          "@type": "Thing",
+          "name": "End of life care"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Line of Departure",
+          "item": "https://www.lineofdeparture.army.mil/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pulse of Army Medicine",
+          "item": "https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pulse of Army Medicine Archive",
+          "item": "https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "2026 E-Edition",
+          "item": "https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mass Casualty Management"
+        }
+      ]
+    }
+  ]
+}
+</script>
+<link rel='icon' href='/Portals/144/army_star_ico.ico?ver=-Nmk7P1H0NE_PX_WEnMbUQ%3d%3d' type='image/x-icon' /><meta name='host' content='DWIA Public Web' /><meta name='contact' content='dma.WebSD@mail.mil' /><link rel="stylesheet" type="text/css" href="/DesktopModules/SharedLibrary/Controls/Banner/CSS/usa-banner.css" /><script  src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-8.7.js?agency=DOD&subagency=ARMY&sitetopic=dma.web&dclink=true"  id="_fed_an_ua_tag" ></script><style type="text/css">/*Start Dynamic Skin Css*/
+.header-inset .skin-header-background { background-image: none !important; }
+.header-inset .mobile-search-popup, .header-inset .mobile-search .search-icon.open:before {background-color: rgb(47, 55, 47)}
+.header-inset .skin-header-background { background-color: #221f20 !important; }
+.base-container.block-title .title  { background-color: #221f20; }
+.header-inset .skin-header-background *:not(.no-skin-override) { color: rgb(255, 255, 255) !important; }
+.base-container.block-title .title  { color: rgb(255, 255, 255); }
+footer.footer-centerstacked .skin-footer-background { background-image: none !important; }
+footer.footer-centerstacked .skin-footer-background { background-color: rgb(34, 31, 32) !important; }
+footer.footer-centerstacked .skin-footer-banner { background-color: rgb(34, 31, 32) !important; }
+footer.footer-centerstacked .social-item span { color: rgb(34, 31, 32); }
+footer.footer-centerstacked .social-item span { background-color: rgb(255, 255, 255); }
+footer.footer-centerstacked .social-item span:hover { background-color: rgb(255, 204, 1); }
+.otnav { background: rgb(34, 31, 32) !important; }
+.otnav ul ul, .otnav ul li a:hover, .otnav ul li:hover, .otnav ul li a:focus, .otnav ul li:focus { background-color: rgb(47, 55, 47) !important; }
+.otnav ul ul li a:hover, .otnav ul ul li:hover { background-color: rgb(34, 31, 32) !important; }
+.otnav ul li a, .otnav ul li a:hover { color: rgb(255, 204, 1) !important; }
+.otnav ul li a .sub-arrow { color: rgb(255, 204, 1) !important; opacity: .6; }
+.header-inset .skin-nav-toggle  { color: rgb(255, 204, 1); }
+.header-inset .skin-header-right .skin-search .mobile-search .mobile-search-link a  { color: rgb(255, 204, 1); }
+.header-inset .skin-header-right .skin-search .mobile-search .mobile-search-popup  a.skin-search-go  { color: rgb(255, 204, 1); }
+#main-nav > li > a { font-size: 18px !important; }
+footer .skin-footer-background,footer .skin-footer-background h1,footer .skin-footer-background h2,footer .skin-footer-background h3,footer .skin-footer-background h4,footer .skin-footer-background h5,footer .skin-footer-background h6,footer .skin-footer-background li,footer .skin-footer-background .Normal,footer .skin-footer-background p,footer .skin-footer-background .skin-social .stay-connected-header { color: rgb(255, 255, 255) !important; }
+footer .skin-footer-background a:not(.no-skin-override) { color: rgb(255, 255, 255) !important; }
+footer .skin-footer-background a:not(.no-skin-override):hover { color: rgb(255, 204, 1) !important; }
+.skin-title {display:none !important}
+.skin-title .subtitle-text { color: rgb(255, 255, 255) !important; }
+</style><meta name="viewport" content="width=device-width,initial-scale=1" /></head>
+<body id="Body">
+
+    <form method="post" action="/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yXW3fU4phSmDchdUrDNiQhQAYhbgWYmI5241gVnxdCFmhqUL/QLT6tmnaKtApEIIauFfJr7WTu7Gicmw1muqapz9m42tpJfb+k31NluzX1tPATvGIkFx0MLucEumKlt97NDUQkDBci5aHr62dHv1+rWXhHnpRy4D6kGBFfoN4SL4VXce7m8Wots4wtnVVzbMGLCP+Aa7ORdLNos7L2uNjbxhtu6wcMEjouMK8G42VVudFORQT2QalNcyFnHdN6xSz5px9oEWvCtdZUX3SjKkZ93B/PFcCmlws7HHkPw33Uf3hN45AzoFyQkYHA5IOCXbe77Bf+HcSh8HijuXguRI9YzhuL2cke8cECupNMK2js7a01Srzo06TBEHgCjtDGxeYbnoK6LNxRipEYgr8vh6+4FZLelbHu1+RnxVGJ84R4TKB0nz6Dvhq8EWUi2ZCMKrZu6/eMK/moOgcKa+lSwljWYiRpbmrXCmuJNit4b0UFoUZgPoKfiGM5AhkS9/BKhY+CB5cD2WktnM+Qnq6wDQmOnjJnwDoM+FMEsqxjdQnkJ0M0Xb+mZTdogOSn/+QjNCutn0aw7aLG76aAYoOj7eEptOF8Z/u/W9MX/WskmTcRxOah5Z9XzPsUQ02oxHATTkLla4Te3eXHl2M1yDT8VsAmzD9VHLGoxE4Ii6SuzyzHdv8tAZ+LMSZ4VjQfvvckPmKa0EZtwJF4+fA36MaH3+wZLCKeGtP5WBDyofhj8BIcDdKWPKMbfgshglCUAiwrhf5gtIt03XFXBKEIY3h4KULqYXitG9Y6sBG5MxydLBNxNPBqbGBOgCdQy/c9Ugn9Nx/u5QztqxEWrf3gR51ye7NjAIEWFW7klURJMEm9MA5hhXdmZ+doafs5M0HNuS83rfZ2Ta1w4yrlWyDHDybLB0tYd8Pu0PD4RKUpLme1V0aZLJeRSJUP7SHts0dPLi6pJDFa6ezFP8rIfyGdHar3EWr7x8bv0v4BEwh3h+TFkzJTc1uLeKc1ff1pa21NJ/jLV35rzEWtCwoN2iWdnJxzfNCl40rw6iIqhHZw0MIqTwa8cKWkDTR+WLhKjrr8QYf/TyqlCs3VO85uPrySmgQ2DCKokvj/cP46SFHEZ729sAM5RI3/l8iEWU9u8Z6PeqPLxf8cvFS1FPTJ3aQEkdIxH1ML4rz/DVffTMlgg65+lbxu63RM9NWp0Zc37km9i+6r9SLfucd9DtEy+ZkdJWakzGaLkYsV1GYmMFAaXeTY+JKRd+pc09mnw45uzWjjLox3Pnwcabe1hXeMj2g4HINpAbdNv6skUP43bKUTYsDpdCudd8cJT4AG9TbMmyfbJgXAzm/BC87zPI9Sp6USTdDJydpmRKwVSyvxmPrZQp52CT1crjplwYUXTAiRdCtg0dfEqt8bljS2g3ylRnZcGMYNSkYjNxxDmta6Du3a3W/ejnnK5TvU6uidiGOTK4FeS6zywjrYxKu4ykLyACGo1oAFeTYJLeA+ImoqMKlsc+Mm1zZbJfOAe4Q+cUF35hEH6YyC+A7qVHQkhjP0tmyfSLyXLbt8KTP4dR8ESzgh3fKWifTh7+eQwa2sy7nNUw4D9V1f8E2rLNBDsN52g8NzRYVkYn62K+nDxdOIeqM+OdrOt/JJDk7585SouCbMPU28IDfqrSrWGNKZ7/SURT0vrA9KWePN7PhKgFVL7pXG+PDrOE/Du6vjCjAbexObCsC489VIES+fiJPhr8902GbQtXHeqyzPYq4UwGQkf10XGgTADeXqyZXqSIIbN781xm9Mjtom6qndQU+W92Rc83vlGqIwdUwL2ZhkaW76N0wisa7LFLXyDlSHhjEuJgDxEYrDflIMnl/p8D0mqUFXe92h3Btj1h8y7jLpoCHpIz8vQCWUgygEdDFH19kxJFa1wQjnnUk8lj3CTBYl4NVjzHFkZIq5g324p3yrClHwroEAOxXRY1vn16OS4jNKHchLiYRnAfgAPBPK4B4SEmFecYXj1OlsJ4IxR/Dxe5QWXbxAqjhcSECd4aaojuIIsFMKq2s2VAwMFlZTs4DtANQNHivi6UgVCuYMgOCyNZj51ZuUdK0qZxEI6UCAQv1RUXCxqVFLWfkV+Fi1NH7WXzX38JyjbzEhjUHymayR0hgvW83mNJSZ0s+0RUnk38uqzX9LvucDK3ZLri6565h2jFsiRmS2ANEkrfI1t5Y+bIN3UUUILTzc3+XP4+r+0VpWr7yy11j+F/Xb+ErsxoQyIzAEuEpGca13E7g2TlvUOQBkoJUoFNVXVkC5Gu9SF889vj+pt4bnzrHRpZ/cvqGhIKhT/EvBhPHXUyQ/DpNHpYwRhgmdGf2Rdda7i8pcpXGRLbG9hJcCp804Q4+LfSZZOAAgP0EgE+1COY943ECoL0HcC1dnlwBAfzF8XzwrhTD/dWtKDJCWTWv4BLBHT+dQ==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV3CCrPMGlUsHxjUGpW3WyTusIei5wnKPcbKIgqIQyD_GfQBhPk1&amp;t=639191829026372022" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IoASieOHaJmyYFTUz6Cq0r2l1Sy07_VT5Yw0VD7gnCDO9BxN2OTjLQLvpELqq0JRh4SiS3YQDskkW6ND1424MEpgCFIuUFPSXsM2L6mGgY6GeDN5Dfw4RK-kuXohg2&amp;t=fffffffff7f39b88" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoLHx-HtE2TIHCKS28gzObfyL67HPOEbbj1OVN5Jqga7H-6b2a9Pa9e4CtPu0iqfSkd0Xq9bBbppoLORtoEw1FCFrgXwud_oHdx1Wu_CdpWMpZlefg_F-4keKLt_TIbdAdrR6Wul0&amp;t=fffffffff7f39b88" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="e4v2LQlqJaNhNqWPFtP4OCO+/vhAV6nEVDsMDL33xd3XT9dFUadWgAv6+gb54aloV23K4+mg23ZCBTQG0HYBQ9805WEHQeVp7skSLJZdj9QQDab3" />
+</div><script src="/js/dnn.modalpopup.js?cdv=4056" type="text/javascript"></script><script src="/Portals/_default/skins/dod2/resources/js/skin.js?cdv=4056" type="text/javascript"></script><script src="/js/dnncore.js?cdv=4056" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=4056" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/ValidatedPlugins/aos/aos.js?cdv=4056" type="text/javascript"></script><script src="/portals/_default/Skins/DOD2/resources/js/menu-width-detection.js?cdv=4056" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=4056" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+
+<!--CDF(Javascript|/Portals/_default/skins/dod2/resources/js/skin.js?cdv=4056|DnnBodyProvider|100)-->
+<!--CDF(Css|/Portals/_default/skins/dod2/assets/dist/css/full-width.min.css?cdv=4056|DnnPageHeaderProvider|100)-->
+
+
+<script type="text/javascript">
+$('#personaBar-iframe').load(function() {$('#personaBar-iframe').contents().find("head").append($("<style type='text/css'>.personabar .personabarLogo {}</style>")); });
+</script>
+<div id="dnn_ctl04_header_banner_container" class="header_banner_container">
+    <span class="header_banner_inner">
+        <div class="header_banner_flag">
+            An official website of the United States government 
+        <div class="header_banner_accordion" tabindex="0" role="button" aria-expanded="false"><u>Here's how you know 
+        <span class="expand-more-container"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path class="expand-more" d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
+            </svg></span></u></div>
+        </div>
+        <div class="header_banner_panel" style="">
+            <div class="header_banner_panel_item">
+                <span class="header_banner_dotgov"></span>
+                <div id="dnn_ctl04_bannerContentLeft" class="header_banner_content"><p class="banner-contentLeft-text"><strong> Official websites use .mil </strong></p>A <strong>.mil</strong> website belongs to an official U.S. Department of Defense organization in the United States.</div>
+            </div>
+            <div class="header_banner_panel_item https">
+                <span class="header_banner_https"></span>
+                <div id="dnn_ctl04_bannerContentRight" class="header_banner_content"><p class="banner-contentRight-text"><strong>Secure .mil websites use HTTPS</strong></p><div> A <strong>lock (<span class='header_banner_icon_lock'><svg xmlns = 'http://www.w3.org/2000/svg' width='52' height='64' viewBox='0 0 52 64'><title>lock </title><path class='icon_lock' fill-rule='evenodd' d='M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z' /> </svg></span>)</strong> or <strong> https://</strong> means you’ve safely connected to the .mil website. Share sensitive information only on official, secure websites.</div></div>
+            </div>
+
+        </div>
+    </span>
+</div><style> .header_banner_container{ background-color: #15263b; color: #FFF; } .icon_lock { fill: #FFF;} .header_banner_container .header_banner_content .banner-contentLeft-text, .header_banner_container .header_banner_content .banner-contentRight-text { color: #FFF;} </style>
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+newLegacySkinInit();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"Line of Departure","SiteShortName":"Line of Departure","SiteSubTitle":"","aid":"army_auplod","IsSecureConnection":true,"IsBackEnd":false,"DisableShrink":true,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"https://www.lineofdeparture.army.mil/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":false,"PiwikSiteID":-1,"SocialLinks":{"Facebook":{"Url":"","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"","Window":"_blank","Relationship":"noopener"},"Flickr":{"Url":"","Window":"_blank","Relationship":"noopener"},"Pintrest":{"Url":"","Window":"_blank","Relationship":"noopener"},"Instagram":{"Url":"","Window":"_blank","Relationship":"noopener"},"Blog":{"Url":"","Window":"_blank","Relationship":"noopener"},"RSS":{"Url":"https://www.lineofdeparture.army.mil/Special-Features/Branch-Journal-RSS-Feeds/","Window":"_blank","Relationship":"noopener"},"Podcast":{"Url":"","Window":"_blank","Relationship":"noopener"},"Email":{"Url":"","Window":"","Relationship":""},"LinkedIn":{"Url":"","Window":"_blank","Relationship":"noopener"},"Snapchat":{"Url":"","Window":"_blank","Relationship":"noopener"}},"SiteLinks":null,"LogoffTimeout":3300000,"SiteAltLogoText":""};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"https://www.lineofdeparture.army.mil/Portals/144/lod-logo-with-byline-tiny.jpg?ver=rSfMOYR0XM6FrtQUmD2vHg%3d%3d","name":"Line of Departure","url":"https://www.lineofdeparture.army.mil/","sameAs":[]}</script>
+
+
+
+<div class="dma-full-width v2-template  ">
+    <!--CDF(Css|/Portals/_default/skins/dod2/resources/css/header-inset.css?cdv=4056|DnnPageHeaderProvider|100)-->
+
+
+<div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+
+<header id="main-header" role="banner" class="header-inset">
+    <div class="skin-header skin-header-background">
+        <div class="container-flex">
+            <div class="inset-container">
+                <div class="skin-header-left">
+                    <div>
+                        <div class="skin-logo">
+                            <a href="https://www.lineofdeparture.army.mil/" rel="" target="">
+                                <img src="/Portals/144/lod-logo-with-byline-tiny.jpg?ver=rSfMOYR0XM6FrtQUmD2vHg%3d%3d" alt="Home Logo: Line of Departure" title="Line of Departure" class="img-responsive" /></a>
+                        </div>
+                        <div class="skin-title">
+                            <div class="hidden-xs">
+                                
+                                <span class="title-text">Line of Departure</span>
+                                
+                            </div>
+                            <div class="visible-xs title-text">
+                                Line of Departure
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <button type="button" class="navbar-toggle pull-right skin-nav-toggle no-skin-override" id="navbar-toggle-button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="main-nav-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="fa fa-bars no-skin-override"></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="skin-header-right">
+                    <div class="navbar-collapse nav-main-collapse collapse otnav nopad" id="main-nav-collapse" aria-expanded="false">
+                    <div class="nopad menu container-fluid new-menu" data-autoexpand="true">
+                            <nav class="nav-main" aria-label="Main Navigation. Use the Tab or Arrow keys to navigate the menu, the Enter key to go to links, and the spacebar to open and close submenus.">
+<ul class="nav nav-main sm" id="main-nav" role="menu" data-sm-options="{showTimeout: 0, showFunction: null, hideTimeout: 0, hideFunction: null, subMenusMaxWidth: '90em'}">
+	
+    <li class="dropdown  top-level " role="none">
+    
+        <a href="javascript:void(0)" role="menuitem" class="dropdown-toggle" aria-disabled="true" aria-haspopup="true" aria-expanded="false">Journals</a> 
+        <ul class="dropdown-menu" role="menu" >
+        
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Air-Defense-Artillery/" role="menuitem" >Air Defense Artillery</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Armor/" role="menuitem" >Armor</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-AL-T/" role="menuitem" >Army AL-T</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-Chemical-Review/" role="menuitem" >Army Chemical Review</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-Civilian-Journal/" role="menuitem" >Army Civilian Journal</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-Communicator/" role="menuitem" >Army Communicator</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-History/" role="menuitem" >Army History</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-Lawyer/" role="menuitem" >Army Lawyer</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Army-Sustainment/" role="menuitem" >Army Sustainment</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Aviation-Digest/" role="menuitem" >Aviation Digest</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Engineer/" role="menuitem" >Engineer</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Gray-Space/" role="menuitem" >Gray Space</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Field-Artillery/" role="menuitem" >Field Artillery</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Infantry/" role="menuitem" >Infantry</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Military-Chaplaincy-Review/" role="menuitem" >Military Chaplaincy Review</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Military-Intelligence/" role="menuitem" >Military Intelligence</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Military-Police/" role="menuitem" >Military Police</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/Military-Review/" role="menuitem" target="_blank" rel="noopener noreferrer">Military Review</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://tjaglcs.army.mil/Home/nsl-quarterly" role="menuitem" target="_blank" rel="noopener noreferrer">National Security Law</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/Journals/NCO-Journal/" role="menuitem" target="_blank" rel="noopener noreferrer">NCO Journal</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Protection/" role="menuitem" >Protection</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/" role="menuitem" >Pulse of Army Medicine</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Special-Warfare/" role="menuitem" >Special Warfare</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Journals/Warrant-Officer-Journal/" role="menuitem" >Warrant Officer Journal</a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level " role="none">
+    
+        <a href="javascript:void(0)" role="menuitem" class="dropdown-toggle" aria-disabled="true" aria-haspopup="true" aria-expanded="false">Writer&#39;s Compass</a> 
+        <ul class="dropdown-menu" role="menu" >
+        
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Writers-Compass/How-to-Get-Published/" role="menuitem" >How to Get Published</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/Professional-Military-Writing/" role="menuitem" target="_blank" rel="noopener noreferrer">Professional Military Writing Special Edition</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/Films/PME/#professional-writing" role="menuitem" target="_blank" rel="noopener noreferrer">Professional Writing Video Series</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Harding/" role="menuitem" >Harding Fellowship</a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level " role="none">
+    
+        <a href="javascript:void(0)" role="menuitem" class="dropdown-toggle" aria-disabled="true" aria-haspopup="true" aria-expanded="false">Special Features</a> 
+        <ul class="dropdown-menu" role="menu" >
+        
+    <li class=" dm  " role="none">
+        
+			<a href="https://combatchronicles.vantage.army.mil/" role="menuitem" target="_blank" rel="noopener noreferrer">Search Combat Chronicles (CAC Required)</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/Resources/Recommended-Articles-of-the-Month/" role="menuitem" target="_blank" rel="noopener noreferrer">Recommended Articles of the Month</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Special-Features/Podcasts/" role="menuitem" >Podcasts</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/Journals/NCO-Journal/Muddy-Boots/" role="menuitem" target="_blank" rel="noopener noreferrer">Muddy Boots</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.dvidshub.net/video/961694/harding-project-strengthening-army-profession" role="menuitem" target="_blank" rel="noopener noreferrer">The Harding Project Overview Video</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.armyupress.army.mil/" role="menuitem" target="_blank" rel="noopener noreferrer">Army University Press</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://juniorofficer.army.mil/" role="menuitem" target="_blank" rel="noopener noreferrer">Center for Junior Officers</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://mwi.westpoint.edu/" role="menuitem" target="_blank" rel="noopener noreferrer">Modern War Institute</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://ssi.armywarcollege.edu/" role="menuitem" target="_blank" rel="noopener noreferrer">Strategic Studies Institute</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://press.armywarcollege.edu/parameters/" role="menuitem" target="_blank" rel="noopener noreferrer">US Army War College Quarterly: Parameters</a>
+        
+    </li>
+
+    <li class=" dm  " role="none">
+        
+			<a href="https://www.lineofdeparture.army.mil/Special-Features/Branch-Journal-RSS-Feeds/" role="menuitem" >Branch Journal RSS Feeds</a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" top-level " role="none">
+    
+        <a href="https://www.lineofdeparture.army.mil/About/" role="menuitem" >About</a>
+    
+    </li>
+
+</ul>
+</nav>
+
+
+
+
+
+                            <div class="skin-search">
+                                <div class="mobile-search">
+                                    <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                                        <span class="sr-only">Search</span>
+                                    </a>
+                                    <div class="mobile-search-popup">
+                                        <label for="mobileSearch" class="visuallyhidden">Search Line of Departure: </label>
+                                        <input type="text" id="mobileSearch" class="skin-search-input no-skin-override usagov-search-autocomplete" maxlength="255" aria-label="Search Line of Departure" />
+                                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                                            <span class="sr-only">Search</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="dnn_ctl05_socialLinks" class="social header-links hidden-xs" style="display: none">
+        <ul class=""><li class=""><a href="https://www.facebook.com/LDUSArmyJournals" title="Visit the LOD Facebook Page"><span class="social-icon fa-brands fa-square-facebook social-link-989"></span></a></li><li class=""><a href="https://www.instagram.com/ldusarmyjournals/" target="_blank" rel="noopener noreferrer" aria-label="Visit the LOD Instagram page opens in a new window" title="Visit the LOD Instagram page"><span class="social-icon fa-brands fa-square-instagram social-link-995"></span></a></li><li class=""><a href="https://x.com/LDUSArmyJournal" target="_blank" rel="noopener noreferrer" aria-label="Visit the LOD X Page opens in a new window" title="Visit the LOD X Page"><span class="social-icon fa-brands fa-square-x-twitter social-link-990"></span></a></li><li class=""><a href="https://www.linkedin.com/showcase/ldusarmyjournals" target="_blank" rel="noopener noreferrer" aria-label="Visit the LOD LinkedIn Page opens in a new window" title="Visit the LOD LinkedIn Page"><span class="social-icon fa-brands fa-linkedin social-link-996"></span></a></li></ul><style>
+header .skin-header-right li.hover .social-link-989 { color:#ffcc01 }
+header .skin-header-right li.hover .social-link-995 { color:#ffcc01 }
+header .skin-header-right li.hover .social-link-990 { color:#ffcc01 }
+header .skin-header-right li.hover .social-link-996 { color:#ffcc01 }
+</style>
+
+    </div>
+    
+
+</header>
+
+    <p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1"></a></p>
+
+    <div id="content" role="main">
+
+        <div class="container-fluid nopad">
+            <div class="flex-row flex-row-fw">
+                <div id="dnn_ContentPane" class="flex-row-col-md backend-cp-collapsible"><div class="DnnModule DnnModule-DNN_HTML DnnModule-122594"><a name="122594"></a>
+<div class="empty-container">
+    <div id="dnn_ctr122594_ContentPane"><!-- Start_Module_122594 --><div id="dnn_ctr122594_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr122594_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">
+        /* Custom CSS if needed */
+        .banner {
+            text-align: center;
+            padding: 4px 0;
+        }
+
+        .banner img {
+            max-width: 100%;
+            height: auto;
+            display: inline-block;
+        }
+
+        .navbar-default .navbar-toggle {
+            border-color: transparent;
+        }
+
+        .navbar-default {
+            background-color: #BFB8A6;
+        }
+
+        #myNavbar>ul>li>a,
+        .navbar-default .navbar-brand {
+            color: #000000;
+        }
+
+        #myNavbar>ul>li>a:hover,
+        #myNavbar>ul>li>a:focus,
+        .navbar-default .navbar-brand:focus,
+        .navbar-default .navbar-brand:hover {
+            background-color: #F1E4C7;
+        }
+
+        @media (min-width: 768px) {
+
+            /* Targets screens wider than 768px (desktops) */
+            .navbar-default {
+                float: none;
+                margin: 0 auto;
+                display: inline-flex;
+                width: 100%;
+                justify-content: center;
+            }
+        }
+    </style>
+    <div class="container-fluid"> <!-- Changed from container to container-fluid -->
+        <div class="row">
+            <div class="col-xs-12 banner"><a href="/Journals/Pulse-of-Army-Medicine/"><img alt="Medical Journal Logo"
+                        class="img-responsive" fetchpriority="high"
+                        src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/the-pulse-header.png"> </a></div>
+        </div>
+        <nav class="navbar navbar-default">
+            <div class="navbar-header"> <button class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse"
+                    type="button" aria-label="Mobile Toggle Navigation"><i class="fa fa-th"></i></button> </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li><a href="/Journals/Pulse-of-Army-Medicine/Archive">Archive <i class="fa fa-archive"></i></a>
+                    </li>
+                    <li><a href="/Journals/Pulse-of-Army-Medicine/Writers-Guide/">Writer's Guide <i
+                                class="fa fa-pencil"></i></a></li>
+                    <li><a href="/Journals/Pulse-of-Army-Medicine/Whats-Trending/">What's Trending <i
+                                class="fa fa-star"></i></a></li>
+                    <li><a href="/Journals/Pulse-of-Army-Medicine/Audio-Articles/">Audio Articles <i
+                                class="fa fa-headphones"></i></a></li>
+                    <li><a href="/Journals/Pulse-of-Army-Medicine/About">About <i class="fa fa-info-circle"></i></a>
+                    </li>
+                    <li><a href="https://www.army.mil/armymedicine#org-tsg-reading-list" target="_blank">TSG Reading
+                            List <i class="fa fa-book"></i></a></li>
+                    <li><a href="https://medcoe.army.mil/the-pulse-of-army-medicine" target="_blank">Pulse of Army
+                            Medicine Journal Home Page</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+
+</div><!-- End_Module_122594 --></div>
+    <div class="clearfix"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-122593"><a name="122593"></a>
+<div class="empty-container">
+    <div id="dnn_ctr122593_ContentPane"><!-- Start_Module_122593 --><div id="dnn_ctr122593_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr122593_HtmlModule_lblContent" class="Normal">
+	<div class="article-container">
+  <nav id="articleNav" aria-label="Article actions">
+    <ul class="nav-left">
+      <li>
+        <a aria-label="Previous Article" href="/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Hold-Capacity/"><i aria-hidden="true" class="fa fa-chevron-left"></i></a>
+      </li>
+      <li>
+        <a aria-label="Table of Contents" href="/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition"><i aria-hidden="true" class="fa fa-list-alt"></i></a>
+      </li>
+      <li>
+        <a aria-label="Next Article" href="/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/From-Caregiver-to-Combat-Multiplier/"><i aria-hidden="true" class="fa fa-chevron-right"></i></a>
+      </li>
+      <li>
+        <a aria-label="Print Article" href="#" onclick="window.print()"><i aria-hidden="true" class="fa fa-print"></i></a>
+      </li>
+      <li>
+        <a aria-label="Download Article PDF" target="_blank" href="/Portals/144/PDF/Journals/Pulse-of-Army-Medicine/2026%20E-Edition/mass-casualty-management.pdf"><i aria-hidden="true" class="fa fa-download"></i> PDF</a>
+      </li>
+      <li>
+        <a aria-label="Jump to audio player" href="#audioPlayer"><i aria-hidden="true" class="fa fa-headphones"></i></a>
+      </li>
+    </ul>
+    <ul class="nav-right">
+      <li>
+        <a aria-label="Share on Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/"><i aria-hidden="true" class="fab fa-facebook"></i></a>
+      </li>
+      <li>
+        <a aria-label="Share on X" target="_blank" href="https://twitter.com/intent/tweet?url=https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/&amp;text=Check%20out%20this%20article%20on%20Mass%20Casualty%20Management"><i aria-hidden="true" class="fab fa-x-twitter"></i></a>
+      </li>
+      <li>
+        <a aria-label="Share on LinkedIn" target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/"><i aria-hidden="true" class="fab fa-linkedin"></i></a>
+      </li>
+      <li>
+        <a aria-label="Share on Email" target="_blank" href="mailto:?subject=Mass%20Casualty%20Management&amp;body=Check%20out%20this%20article:%20https://www.lineofdeparture.army.mil/Journals/Pulse-of-Army-Medicine/Archive/2026-E-Edition/Mass-Casualty-Management/"><i aria-hidden="true" class="fa fa-envelope"></i></a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<article id="article" class="article-container">
+  <style>
+    .abstract-box {
+      background-color: #e3e3e0 !important;
+      padding: 30px !important;
+      margin-bottom: 25px;
+    }
+    .abstract-heading {
+      color: #95193a !important;
+      margin-top: 0;
+      font-weight: bold;
+    }
+    .table-mcm {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .table-mcm th {
+      background-color: #2f372f;
+      color: #ffcc01;
+      padding: 12px;
+      font-size: 1.6rem;
+      border: 2px solid #221f20 !important;
+    }
+    .table-mcm td {
+      padding: 12px;
+      border: 1px solid #ddd !important;
+      font-size: 1.5rem;
+    }
+    .table-eol {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .table-eol td {
+      padding: 12px;
+      border: 1px solid #ddd !important;
+      font-size: 1.5rem;
+    }
+    .table-eol tr td:first-child {
+      font-weight: bold;
+      vertical-align: top;
+      white-space: nowrap;
+      background-color: #f8f9fa;
+      width: 15%;
+    }
+  </style>
+
+  <h1>Mass Casualty Management</h1>
+  <h2>A Guide for Standardizing Mass Casualty Response</h2>
+  <p class="lead">
+    By SGM Michael Remley, COL Steve Rush, SGM Jake Brown, LTC Andrew Schaffrinna, MSG Christopher Hutchison, Mrs. Shelia Savell, COL (retired) Stacy A. Shackelford, COL (retired) Russ Kotwal
+  </p>
+  <p>
+    <strong>Article published on:</strong> <span><time datetime="2026-05-01">May 1, 2026</time> in the 2026 E-Edition of Pulse of Army Medicine</span>
+  </p>
+  <p>
+    <span class="label label-asw">Read Time:</span> <span class="article-time">&lt; <span>31</span> mins</span>
+  </p>
+
+  <figure class="image-container full-width-img">
+    <img src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026 E-Edition/MCM/image2.jpg" alt="Two U.S. Army soldiers in full combat gear loading a casualty wrapped in a hypothermia blanket onto a litter while a third casualty is treated in the background">
+    <figcaption class="cutline">
+      Spc. Hannah Atteberry and Spc. Zachary Duke, both assigned to Headquarters and Headquarters Company, 2nd Battalion, 124th Infantry Regiment, Task Force Seminole, 53rd Infantry Brigade Combat Team, Florida Army National Guard, place a simulated casualty on a litter for evacuation during a mass casualty validation exercise at Fort Bliss, Texas, Feb. 16, 2026. (U.S. Army photo by Capt. Dakota Burr)
+    </figcaption>
+  </figure>
+
+  <audio class="scrolled-into-view" controls id="audioPlayer" aria-label="Audio narration of article" preload="none">
+    <source type="audio/mpeg" src="/portals/144/MP3/Pulse-of-Army-Medicine/mass-casualty-management.mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <div class="abstract-box callout">
+    <h2 class="abstract-heading">Abstract</h2>
+    <p>
+      This article presents a comprehensive framework to guide medical and nonmedical personnel in managing military mass‑casualty (MASCAL) events through an evidence‑based, command‑directed approach. Military MASCAL management (MCM) is defined as a leader‑driven system that synchronizes planning, rehearsal, and execution of the collective tasks required to preserve combat power and optimize casualty outcomes. In a combat theater, all have the potential to be a casualty, and all have the potential to be a first responder. Because nonmedical responders often serve as the first link between point of injury and definitive care, the framework emphasizes their critical part in triage, lifesaving interventions, and casualty movement. This article outlines principles for scalable response, acknowledging that MASCAL definitions are relative and that catastrophic events may exceed the capacity for rapid lifesaving treatment. It highlights the necessity of training, realistic expectations, and preparation for prolonged casualty care operations, end of life care, and human‑remains management. By integrating leadership, medical, and nonmedical personnel into holistic, standardized training, MCM enhances operational reach, lethality, and mission success in complex, chaotic environments.
+    </p>
+  </div>
+
+  <p>
+    A military mass‑casualty (MASCAL) is an event in which the number and type of casualties exceed planned medical and logistical capabilities or capacity, requiring the implementation of triage and other procedures and standards specific to caring for the wounded that may be different than caring for a single casualty. It is a complex problem inundated with tactical, medical, and logistical challenges that non‑medical and medical responders must overcome to complete the mission.
+  </p>
+  <p>
+    Defining a MASCAL is dynamic since one casualty may overwhelm nonmedical responders, but three experienced medical responders may be able to care for many casualties without burden.
+  </p>
+  <p>
+    Hence, the term MASCAL is relative and used for the incident based on multiple factors from the mechanism of injury to evacuation platforms to a communication plan.
+  </p>
+  <p>
+    Because MASCALs are chaotic, unique, and complex, there are no perfect solutions. Educating planners and responders with general principles, training on how to implement these recommendations into command‑directed casualty response systems, and rehearsing MASCAL actions at regular intervals constitute military mass casualty management (MCM) best practices.
+  </p>
+  <p>
+    MCM relies upon a well-rehearsed casualty response system (CRS). CRS describes a leader‑driven system designed to synchronize the planning, rehearsal, and execution of the individual and collective tasks required to complete the mission while optimizing casualty outcomes. A command-directed CRS that provides oversight and direction concerning the management of combined nonmedical and medical individual and collective tasks will conserve combat power, enhance lethality, and extend operational reach during MCM. It also enables commanders to synchronize, oversee, and enforce how all warfighting functions respond to casualties during MCM. Therefore, commanders own CRS and MCM and must take responsibility for institutionalizing a unit CRS. That responsibility includes training leaders to navigate the complexities of MCM situations; assessing and validating all service members on tactical combat casualty care (TCCC) and prolonged casualty care (PCC); incorporating casualty response into battle drills, standard operating procedures, and all training events; and continuously evaluating indicators to drive tactical and medical performance improvement.
+  </p>
+
+  <h2>MCM Response</h2>
+  <p>
+    The objective of MCM is to manage the event. MASCAL casualty numbers can range from a dozen to hundreds or thousands. Therefore, MCM response should be scaled based on the number of injured personnel, threat (enemy and environmental), time on the target, time to a military or civilian treatment facility, resources, personnel, and capacity to evacuate. Considerations include rapid sorting of casualties by acuity and needs (triage), performance of lifesaving interventions (LSIs), and optimization of limited resources while managing the safety and security of the responders and the casualties. Because MASCALs are infrequent, specific focus should be placed on incorporating MCM into appropriate individual and team events.
+  </p>
+
+  <h2>MASCAL Truths:</h2>
+  <ol class="listitem">
+    <li>MASCALs can happen anytime and anywhere causing mayhem and death.</li>
+    <li>Scene safety and security always supersede medical treatment.</li>
+    <li>MCM is intuitive and reactive and relies on familiar terminology, skills, and principles.</li>
+    <li>Medical interventions should be scaled based on resources and time to surgery.</li>
+    <li>A team approach to MCM including triage, treatment, and casualty movement should be trained and rehearsed frequently to institutionalize automatic response.</li>
+  </ol>
+  <p>
+    The team approach must include non‑medical responders. These individuals, who may have limited medical training, are often the first to respond to emergencies. They conduct triage, provide initial LSIs, and coordinate casualty or medical evacuation. Therefore, nonmedical responders are an essential part of MCM as they serve as a crucial link between the point of injury and definitive medical care. If the casualty does not survive this first interaction, they will not have the opportunity to benefit from the remainder of the trauma system. Because their actions will significantly impact casualty and mission outcomes, their ability to quickly understand the situation, make informed decisions, and take appropriate action, given the tactical situation, is paramount to maintaining combat power, operational reach, and mission accomplishment.
+  </p>
+
+  <table class="table table-bordered table-striped table-mcm">
+    <thead>
+      <tr>
+        <th>To improve casualty outcomes, non-medical and medical leaders should:</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Conduct a thorough analysis and anticipate the most likely medical contingencies based on potential threats or historical information while also planning for worst case scenarios.</td>
+      </tr>
+      <tr>
+        <td>Communicate the MASCAL plan to every member of the team and ensure rehearsals are routinely conducted to assess and validate MASCAL preparedness.</td>
+      </tr>
+      <tr>
+        <td>Include forecasted MASCAL limitations and risk mitigation factors into risk assessment decision-making processes.</td>
+      </tr>
+      <tr>
+        <td>Adjust the plans based on the mission, enemy, environment, terrain, time, civilian considerations, and personnel available.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>
+    Leaders and responders should understand that in large‑scale catastrophic events, the sheer number of casualties may exceed the ability to provide lifesaving care to all, and some individuals will die or suffer despite best efforts. Preparing responders for this reality can help reduce adverse psychological effects. Therefore, Unit Ministry Teams (UMTs) must also be part of the team approach. The UMTs should understand the triage system and integrate into it providing spiritual care for the wounded and dying. The Chaplain may provide care to individual casualties while the chaplain assistant moves among the other service members to identify those in greatest need and provide care when able. Neither the chaplain nor chaplain assistant should provide medical care, pull security, or be a litter bearer until all spiritual needs are met. UMT members should not hesitate to do first aid and/or other medical care that they are trained to do following spiritual triage and care.
+  </p>
+  <p>
+    In many situations, rapid lifesaving treatment may not be possible for some or most casualties due to scale, response time, blood product availability or surgical capacity. In such cases, medical efforts will focus on wound care, pain control, basic survival needs and evacuation.
+  </p>
+  <blockquote>
+    <p>"Time is a tyrant. All responders fight against the tyranny of time. Time of injury, time of response, to treatment and time of death."</p>
+  </blockquote>
+  <p>
+    Time to a required capability is paramount for survival. Critically injured casualties who do not receive essential interventions, such as tourniquets, blood transfusions, damage‑control surgery or neurosurgery, within a specific time window are unlikely to survive. Timely interventions delivered as soon as possible after severe injury have the greatest impact on survival.
+  </p>
+
+  <h2>Timeline of effective interventions:</h2>
+  <ol class="listitem">
+    <li>External hemorrhage control techniques (e.g., tourniquets) within seconds to minutes after injury have the greatest potential to save lives.</li>
+    <li>Relieving airway obstruction (preventing suffocation) and ensuring breathing within minutes after injury has the second greatest potential to save lives but is much less frequent.</li>
+    <li>Starting blood transfusion within 30 min and accessing damage control surgery (DCS) within 1 hour after injury are associated with improved survival, while the same interventions initiated later have a reduced impact on survival.</li>
+    <li>Some surviving casualties may still benefit from advanced resuscitation and DCS initiated between 1 to 4 hours after injury.</li>
+    <li>Most casualties who have survived 4 or more hours after injury with only prehospital care will likely survive with ongoing care.</li>
+  </ol>
+
+  <h2>Triage Methodology</h2>
+  <p>
+    All military members should use the prehospital triage methodology outlined by the committee on tactical combat casualty care guidelines (TCCC) triage working group. However, for situations that have large-scale casualty volumes, at higher roles of medical care with delayed or denied evacuation, use of traditional triage methods may be more appropriate.
+  </p>
+
+  <figure class="image-container full-width-img">
+    <img src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026 E-Edition/MCM/image3.jpg" alt="Infographic titled Timeline of Effective Interventions showing four time-based treatment windows: control massive external bleeding and clear airway at time of injury, transfuse blood within 30 minutes, handoff to damage control surgery team within the golden hour, and use prolonged care capabilities at 4 hours, with a note that chances of survival stabilize after 4 hours of ongoing care">
+  </figure>
+
+  <h2>Triage In Action</h2>
+  <figure class="image-container small-img-right">
+    <img src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026 E-Edition/MCM/image5.jpg" alt="Circular diagram illustrating a continuously re-triage process with two passes: First Pass Rapid Triage identifying Urgent casualties requiring immediate life-saving interventions, and Second Pass Deliberate Triage sorting casualties into Urgent, Priority, and Routine categories">
+  </figure>
+
+  <ul class="listitem">
+    <li>
+      Conduct first pass triage to provide immediate lifesaving care and identify urgent and nonurgent categories.
+      <ul class="listitem">
+        <li>Urgent category: Casualties that are dying now and require immediate lifesaving interventions to survive.</li>
+        <li>Nonurgent category: Casualties that do not need immediate lifesaving interventions but will require medical care.</li>
+      </ul>
+    </li>
+    <li>
+      Conduct second pass triage and sort casualties based upon priority of medical and evacuation needs into three categories: urgent, priority, and routine.
+      <ul class="listitem">
+        <li>Urgent: High priority casualty with severe or critical life-threatening injury or illness who will only survive with immediate surgery, rapid damage control resuscitation, or advanced medical treatment.</li>
+        <li>Priority: Medium priority casualty with serious injury or illness who will require surgery or advanced medical treatment at a delayed time (may include limb and eyesight threatening injuries).</li>
+        <li>Routine: Low priority casualty with minimal injury or illness who will require additional medical treatment, or catastrophically injured casualties for whom survival is not expected.</li>
+      </ul>
+    </li>
+    <li>Establish casualty count by precedence and patient type to determine resource allocation and accountability.</li>
+    <li>Communicate casualty status and situation reports with leaders and responders to inform tactical, logistical, and medical decision-making processes during TCCC.</li>
+    <li>Continually reassess and communicate casualty evacuation categories during all TCCC phases of care.</li>
+    <li>Casualties with an altered mental status, secondary to injury, illness, or mind-altering analgesia, should have weapons and communication equipment disabled or removed.</li>
+  </ul>
+
+  <p>Additionally, when in PCC, consider the following:</p>
+  <ul class="listitem">
+    <li>Tactical, logistical, and medical limitations or constraints relevant to the PCC situation. Casualties may die when lifesaving interventions cannot be delivered, as such time should be used as a triage tool. Always seek opportunities for casualty evacuation and movement.</li>
+    <li>On command, be prepared to re-triage casualties with minor injuries or illnesses for rapid treatment to facilitate return to duty based on changes within the operational environment.</li>
+    <li>Casualties with an altered mental status, secondary to injury, illness, or mind-altering analgesia, should have weapons and communication equipment disabled or removed.</li>
+    <li>Communicate casualty status and situation reports with leaders and responders to inform tactical, logistical, and medical decision-making processes during PCC.</li>
+  </ul>
+  <p>
+    MCM, in PCC, may require a triage methodology that shifts away from medical criteria to balancing logistical, tactical, or operational outcomes. The process of Triage should be simple and field expedient, there is no such thing as reverse triage. Triage is dynamic and requires frequent re-evaluation. The category may change with an injury worsening or improving with treatment. In combat, the assumption is that all casualties with minimal injuries will stay armed and engaged if no narcotics are given.
+  </p>
+  <p>
+    The goal of prehospital triage and MCM is evacuation or return to duty. As such, medical and non-medical personnel should expect to move, treat, and transport the casualty as soon as tactically feasible. Therefore, the casualty collection point (CCP) location should be constantly reassessed for efficiency during MCM.
+  </p>
+
+  <h2>End of Life Care Considerations</h2>
+  <p>
+    Triage in action during MCM and PCC should anticipate a moral complexity of transitioning to end of life (EoL) care while seeking to prioritize and optimize casualty survival. However, casualties with severe and critical injuries may require EoL care. These casualties should be identified and communicated to all responders. EoL care should focus on reducing suffering and preserving dignity. Continually monitor the casualty’s condition and operational situation to reassess and retriage, especially when opportunities arise to provide resupply or evacuation. EoL care will include medical, emotional, psychological, and spiritual components. EoL care may also be characterized as pharmacological and non pharmacological (nursing, splinting, etc.). Examples of each are below:
+  </p>
+
+  <table class="table table-bordered table-eol">
+    <tbody>
+      <tr>
+        <td>Minimum</td>
+        <td>
+          <ul class="listitem">
+            <li>
+              Assessment of basic vital signs
+              <ul class="listitem">
+                <li>HR</li>
+                <li>RR</li>
+              </ul>
+            </li>
+            <li>Mental status</li>
+            <li>Pain levels</li>
+            <li>Judicious use of medications to reduce suffering</li>
+            <li>Positioning in most comfortable position</li>
+            <li>Routine visiting and reassurance</li>
+            <li>Food and drink as tolerated</li>
+            <li>Assigning a watcher to provide compassionate</li>
+            <li>Non-medical care</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Better</td>
+        <td>
+          <ul class="listitem">
+            <li>Continuous reassessment or monitoring</li>
+            <li>Extended-duration analgesics or pain-control drips</li>
+            <li>Adjunctive anti-anxiety medications</li>
+            <li>Padded bedding</li>
+            <li>Deliberate splinting</li>
+            <li>Psychological first aid</li>
+            <li>
+              Patient comfort items
+              <ul class="listitem">
+                <li>Oral hygiene</li>
+                <li>Tobacco products</li>
+                <li>Etc.</li>
+              </ul>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Best</td>
+        <td>
+          <ul class="listitem">
+            <li>Dedicated EoL-trained team to administer ongoing care to any expectant casualties to include spiritual support when needed.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>
+    An episode of EoL may affect all members of the care team-medical, non-medical, and leadership. Everyone may process the same episode very differently based on a variety of factors, including personal values, prior experiences, and medical training. Deliberate recognition of acute and longer-term stress reactions may require informal or formal individualized assessment, which is planned and executed by leadership, medical personnel, and behavioral health-trained individuals.
+  </p>
+
+  <h2>MASCAL Classification</h2>
+  <p>
+    Medical care is one aspect of MCM and is part of a larger strategic view of the event .The ultimate goal is security, force protection, and casualty evacuation. Triage and treatment are part of this overall response. The demands of MCM can vary widely. At one end of the spectrum, a single medic may be treating a dozen casualties during a firefight, where life-saving interventions are the priority. At the other end, a large-scale attack may require a response from other bases or assets outside of theater, shifting the focus to wound care, analgesia, and survival needs. Effective planning and response must account for this full range of possibilities. Varying degrees of LSIs on the objective, X, CCP medical treatment, and movement of unstable patients to surgeons depends entirely on MASCAL factors. A MASCAL may be classified into three broad categories presented here with the corresponding criteria for each class:
+  </p>
+
+  <figure class="image-container full-width-img">
+    <img src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026 E-Edition/MCM/image4.jpg" alt="Table titled Concepts in Consideration of MASCAL Classification comparing Class 1, Class 2, and Class 3 MASCAL events across five criteria: total casualty estimate, threat level, resource limitations, medical personnel arrival time, and evacuation possibility">
+    <figcaption class="cutline">This table should not be interpreted literally but used as a guide to plan for and respond to various levels of MASCAL events that exist on a continuum of the above criteria.</figcaption>
+  </figure>
+
+  <p>
+    MASCALs are chaotic, and when combined with other operations (tactical, recovery, etc.), the likely degradation of the available assets may become overwhelming. For this reason, integrating realistic casualty response and MASCAL operations into other organizational training is essential to increasing MASCAL preparedness. Organization, accountability, communication, resource management, and leadership are the tenets of managing the chaos that a MASCAL presents in an all-hazards setting. Overall, MCM, specifically prehospital MCM, should be simple, achievable, and realistic.
+  </p>
+
+  <h2>MASCAL Positions and Responsibilities</h2>
+  <p>
+    To complete a successful MASCAL operation, all personnel present, including medical and non-medical responders, will need to communicate their position and complete their assigned tasks. There are five primary positions. The most senior medical responder will take charge and perform the duties of a Triage Leader, delegating tasks and casualty movement. The Triage Leader will communicate with tactical team leaders and ensure accountability of all personnel, including casualties, is completed as well as determine if searching for more casualties is warranted. If personnel are severely lacking in medical skill, beyond tourniquet placement or simple airway positioning, available personnel should be used to consolidate and prepare living casualties for evacuation first and then collect the deceased afterward.
+  </p>
+
+  <p>Five Primary Positions:</p>
+  <ul class="listitem">
+    <li>Medical responders (Triage Leader = Senior Medic) = delegates work to triage and move casualties; informs TL of accountability (# of casualties and team members); determines if further search is warranted; divides large areas into sectors and delegate work teams to each sector</li>
+    <li>Nonmedical responders</li>
+    <li>Medical Leadership (Triage Leader)</li>
+    <li>Nonmedical Leadership (Team Leader)</li>
+    <li>Communicators</li>
+  </ul>
+  <p><em>*Positions may be combined due to personnel availability</em></p>
+
+  <h2>Communication in MASCAL</h2>
+  <p>
+    Communication is key to any successful MASCAL operation. Therefore, it is imperative to ensure there is an experienced communicator on the team and integrated into the response plan. This individual will work alongside key leaders to relay significant actions and pertinent information, including between MASCAL personnel and operations centers and with incoming evacuation platforms. For all external communication, casualty report brevity codes or nine lines should be used for clear, concise communication of the casualties, including numbers, disposition, and resupply to name a few. Routine updates describing what is on hand and what is needed, such as personnel, resources, and time, may be provided as feasible and vital for decision-making. For internal communication, including the security team and MASCAL responders, the use of established triage and evacuation categories (urgent, priority, routine) is necessary. Network frequencies must remain open to allow the relay of information between leaders and members of the team. Using different frequencies for security and medical personnel, but maintain the ability to quickly switch between frequencies when necessary. Hands free communication devices, such as tactical headsets and earpieces, are preferred to allow for problem resolution while simultaneously monitoring the communication platform. Regardless of type, all training and rehearsal must be conducted using the same communication equipment personnel intend to use during a MASCAL.
+  </p>
+  <p>
+    Medical planning is pivotal to MASCAL preparedness and is a challenging topic on its own. Several key components are essential for planning purposes including the use of non-medical personnel and medical personnel, the location of Casualty Collection Points (CCPs), the dispersion of supplies, the evacuation process, the chain of survival, casualty reporting, and search and rescue capabilities.
+  </p>
+  <p>
+    Considerations inherent to medical planning for MASCAL are known as common MASCAL decision points. Preparedness includes incorporating these decision points into planning.
+  </p>
+
+  <h2>Common MASCAL decision points</h2>
+  <ul class="listitem">
+    <li>Casualty Collection Point Locations (CCP)</li>
+    <li>Patient Movement Techniques (Non-Standard)</li>
+    <li>Organizational management of MASCAL operations</li>
+    <li>Logistics (resources, and resupply timelines)</li>
+    <li>Contingency Plan Coordination</li>
+    <li>Crisis Care Standards</li>
+    <li>Evacuation routes</li>
+  </ul>
+  <p>
+    During MCM planning, non-medical leaders are responsible for security, comms, and accountability. Medical leaders are responsible for collecting casualties, managing the CCP, triage, treatment and evacuation loading. Nonmedical personnel may be used to support command and control (C2), security, accountability, casualty movement, documentation of care, and to provide TCCC or PCC treatment as needed.
+  </p>
+
+  <h2>Security in MASCAL</h2>
+  <p>
+    Security takes priority over casualty care. MASCAL training must include external and internal security aspects. External perimeter security must be maintained within the team or with the partner force. The most commonly used method for establishing a secure perimeter standard is 5 meters and 25 meters out. These distances may be adjusted as required. Call Signs, challenge questions and passcodes should be pre-determined and disseminated to all members of the team. This helps establish and maintain perimeter security. All involved in the MASCAL should be able to move freely between security and casualty response teams. Internal security considerations include maintaining situational awareness and accountability regarding who is inside the perimeter; the use of a choke point is recommended. Areas and casualties must be inspected for threats, including unexploded ordnance, hazardous terrain, structural instability, environmental hazards, smoke and fire, etc. In addition, casualties must be searched before entering the CCP. Severely injured or disoriented casualties are searched, as appropriate, for weapons or sensitive items. A best practice for maintaining internal security is to leverage the role of supporting personnel, including Explosive Ordnance Disposal, Multipurpose K9s, and other personnel who provide necessary non-medical skills.
+  </p>
+  <p>
+    Medical Personnel should be included as assigned providers, supporting elements, specialty capabilities, and any unexpected medical resources available. Casualty Collection Points (CCPs) should be planned for in base operations with PACE (Primary, Alternate, Contingency, Emergency) locations identified to ensure redundancy. Supplies should be dispersed among 2-4 locations to prevent total loss in case the primary gets destroyed. If responding to an event on the X, leadership needs to strategically choose a CCP for security, accessibility, casualty flow, and proximity to evacuation platforms. Evacuation planning requires a PACE plan for both evacuation assets and destination sites, considering available assets, patient capacity, asset response times, as well as time of travel to the next role of care. The chain of survival should also be addressed, beginning with buddy care and supported by TCCC training for all personnel. Planners need to balance resuscitative and surgical capabilities, available en route care, specialty requirements such as chemical biological, radiological, nuclear, and explosives (CBRNE) or K9 support, return-to-duty options, telemedical options, PCC, EoL care and the management of deceased personnel. Casualty reporting must be standardized so that medical, operational, and intelligence elements use the same triage lexicon: urgent, priority, routine. Trauma names should be developed in advance to support casualty tracking and documentation, and a PACE plan should be established for submitting records to the Department of War Trauma Registry. Search and rescue planning should also include PACE structure that identifies which assets can provide this capability and the criteria for launching them. Resource management must account for the movement of personnel and equipment to and from the point of need. Standard Operating Procedures (SOPs) and Tactics, Techniques, and Procedures (TTPs) should be developed to include clear Casualty Collection Point (CCP) procedures and detailed planning for walking blood bank operations like donor pre-screening, training, supplies, and activation steps.
+  </p>
+
+  <h2>Casualty Movement Considerations</h2>
+  <p>
+    If MCM operations extend for many hours or days, survival needs will eventually affect all casualties and must be incorporated into planning. If on the ground for a prolonged period, planners must devise a system to swap out teams, positions, and responsibilities to mitigate fatigue. Planning must also include EoL care, and the management of human remains. These casualties should be anticipated during training, contingency, or combat operations. Therefore, casualty movement must also be considered in MASCAL planning. Casualties should be moved using practiced techniques, including standard litters or improvised methods like drags, carries, or webbing. Ambulatory casualties are directed off the X to the CCP if they are not required to assist. Medical and non-medical personnel should focus on removing casualties from danger, treating immediate life-threatening conditions as able, and preparing them for transport to higher roles of care as soon as the situation permits. Evacuation planning includes establishing an evacuation timeline, packaging and lining up casualties for evacuation by medical precedence, determining whether sending medical personnel on evacuation platforms is justified given the impact on the remaining team, and optimizing load plans to include ambulatory patients when space allows. When preparing the deceased for movement to the CCP, personnel should cover the head and torso with materials such as space blankets and tape when body bags are not available to ensure protection and dignity for both the individual and the team.
+  </p>
+
+  <figure class="image-container full-width-img">
+    <img src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026 E-Edition/MCM/image6.jpg" alt="Infographic showing the MASCAL Move Treat Transport framework with three arrows representing moving casualties out of danger treating as able and transporting to a higher role of care each with corresponding bullet points of key actions">
+  </figure>
+
+  <h2>Shared Understanding of Triage</h2>
+  <p>
+    Non‑medical personnel often rely on simplified, action‑oriented cues while medical providers interpret triage data through a clinical lens; therefore, understanding these differing perspectives is critical to ensuring a coordinated and accurate response. Creating a shared understanding of how to act during triage in TCCC is paramount to optimizing casualty and mission outcomes. The following examples illustrate the differences in understanding reported triage information between nonmedical and medical responders:
+  </p>
+
+  <figure class="image-container full-width-img">
+    <img src="/portals/144/Images/Journals/Pulse-of-Army-Medicine/2026 E-Edition/MCM/image7.jpg" alt="Table comparing medical interpretation and nonmedical team leader interpretation for the three triage categories of Urgent Priority and Routine with descriptions of casualty condition and recommended actions for each category">
+  </figure>
+
+  <h2>Casualty Collection Point Considerations:</h2>
+  <p>
+    The CCP is a location, usually selected prior to a MASCAL, that is meant to bring structure and predictability to the chaos a MASCAL presents. CCPs are only effective if predetermined standards, processes, positions and responsibilities are well planned and rehearsed. In unplanned events such as an aircraft crash, the CCP will be designated by the ground force commander or team leader. CCPs will vary by location and number of casualties, and be influenced by enemy forces, environmental conditions (snow, maritime, altitude), and other threats (CBRNE, downed aircraft, collapsed structure); however, there are guiding principles that should be observed during planning and execution. First, every attempt should be made to consolidate and maintain an inventory of existing resources, typically in the center of the CCP. However, due to the numerous CCP options available, it is best to refer to SOPs/TTPs established during the planning process and agreed upon in real time. The key point is that all personnel know where to get needed supplies.
+  </p>
+  <p>
+    Second, medical care in a CCP may be limited and dependent upon fluctuating ratios of non-medical and medical responders, number of casualties, available resources and time to evacuation. In fact, it is possible that no medical care can be provided within the CCP given the situation. It may simply serve as a triage and evacuation point when capabilities are greatly exceeded. Therefore, it is important to continuously reassess and re-triage all casualties. Establish an entry and exit control point with the non-medical CCP team leaders to control ingress and egress and maintain accountability of litter and ambulatory patients as well as track triage and evacuation categories. The non-medical leader in this position should be accompanied by communication personnel to expedite reporting and requests for additional security or aid and litter personnel to help move casualties into and out of the CCP. If the CCP exit point is in a different location than the entry site, every attempt should be made to position the most critical casualties there. This will expedite their departure from the CCP. If litter patients can be brought to the CCP, place unstable patients on the right, stable litters on the left, and ambulatory in the back or put to work. Casualties receiving EoL Care should be kept separate from those receiving active resuscitation; however, these casualties still require comfort measures and periodic re-triage. The deceased should be placed out of sight whenever possible and covered appropriately with body bags or space blankets secured with duct tape to maintain dignity. Overall, the principles of TCCC need to be consistently emphasized, and security and environmental threats continuously evaluated. Depending on the number of casualties and evacuation platforms, personnel should be prepared for MASCAL ambulatory casualties to self-evacuate if they have a place to go or stay in the fight. This may cause confusion during the accountability phase of the MASCAL, so planners need to account for this inevitability.
+  </p>
+  <p>
+    Third, there are several considerations concerning CCP site selection. The site should be reasonably close to the incident or near areas expected to receive large casualty numbers yet far enough from threats to ensure safety. It should also be close in proximity to a landing strip, helicopter landing zone (HLZ) or arrival location of ground vehicles for evacuation. The site should be adjacent to incident entry and exit control points and be accessible to evacuation routes and assets by foot, vehicle, or aircraft. Considerations must also include drainage, wind protection, and other environmental conditions and a location upwind from smoke, fire, or CBRN events. In addition, personnel should establish the CCP adjacent to recognizable landmarks when possible and use a structure or hardstand because a distinguishable structure reduces confusion. Passive security should be planned in and around the CCP perimeter. Passive security refers to measures that protect the CCP and responders in it without engaging in active defensive actions. These measures include site selection, barriers, signs, camouflage, concealment, and access points. Opposition forces or enemy combatants may look for and target locations determined to be suitable for establishing CCPs. They often have secondary attacks and look for weak spots with the most casualties. If such a situation is anticipated, then planning may also require multiple CCPs. Multiple small CCPs will most likely be established during the initial wave of casualties during a MASCAL event anyway. These smaller CCPs may be combined, as feasible, to consolidate resources, medical personnel, and security efforts. Multiple CCPs should also be considered in planning for fixed or large bases for redundancy if there are large casualty numbers possible. Planners need to expect to expand or move the CCP depending on the situation and casualty volume.
+  </p>
+
+  <h2>MCM Training Recommendations</h2>
+  <p>
+    Standardized training with defined objectives is invaluable when preparing teams for the possibility of MCM in the deployed environment. MASCALs are by their very nature unpredictable, and while no training event can capture every possible outcome, high quality simulations can provide a foundation for success. MCM requires coordinated, synchronous effort from medical and non-medical personnel to optimize casualty outcomes and ensure ongoing mission success. As such, training should not be performed as an isolated ‘medical’ event but rather a ‘casualty’ event inclusive of nonmedical leadership and personnel. Therefore, we make the following recommendations:
+  </p>
+  <ul class="listitem">
+    <li><strong>Include the full spectrum of MCM Tasks:</strong> Training goals for MCM should be well defined and encompassing across the spectrum of MCM tasks. These include but are not limited to leadership/command, communication, security, triage, treatment, and patient movement. Training events which focus only on medicine and/or triage is akin to building a chair with only two legs.</li>
+    <li><strong>Have well defined training goals / objectives:</strong> Rather than focus on specific individual treatments, critical actions/objectives should consider whole patient population outcomes. For example, be able to answer questions like: Were life threatening injuries identified in all patients during first pass triage? Did all patients with hemorrhagic shock receive blood product transfusion within 30 minutes? Did command have accountability/ communication of all patient movement? Without well-defined standards and objectives, training events are often little more than stress inoculation.</li>
+    <li><strong>Include non-medical leadership and personnel:</strong> MCM in the military prehospital setting is often thrust upon teams in the middle of ongoing missions/ combat actions. As such, leadership and non-medical personnel are, by necessity, integrated into the MCM response and should be included in training events.</li>
+    <li><strong>When possible, make MCM part of a larger nonmedical command level exercise:</strong> It is often most convenient and effective to include MCM events as part of larger exercises. When possible, these should include command level training exercises. If not possible, include command support for outbound communication. The more combat-focused training objectives, (movement, shooting, communication), are congruent and integrated with holistic MCM training objectives (evacuation, security, communication), the stronger both sets of training will be.</li>
+    <li><strong>Mobile Patient Models:</strong> Patient model selection must consider training goals for MCM, which include triage, treatment, communication, security, movement, and logistics. They should be amenable to standard (stretcher) and non-standard patient movement. Many high-fidelity mannequins provide simulated vitals and limited procedure simulation at the expense of flexible patient movement. Given the importance of maintaining a holistic approach to MCM, these limitations are often not worth the gains over other patient model choices.</li>
+    <li><strong>Self Sufficient Patient Models:</strong> We recommend patient role models that are self-sufficient or have as close as 1:1 supervision as possible given training and resource constraints. In the chaos of MASCAL exercises, fidelity on individual patient treatments is often lost by overwhelmed proctors. An ideal scenario is live human role players who are experienced medics.</li>
+  </ul>
+
+  <div style="border: 2px solid #b6332e; padding: 15px; margin-bottom: 20px;">
+    <p><strong>Logistical Resources:</strong></p>
+    <p>MASCAL assemblages should include:</p>
+    <table style="width: 100%">
+      <tbody>
+        <tr>
+          <td style="vertical-align: top; width: 50%">
+            <ul class="listitem">
+              <li>Box of gloves</li>
+              <li>Contractor bags</li>
+              <li>Hemostatic or compressed gauze</li>
+              <li>Duct tape rolls</li>
+              <li>Cravats (slings, pressure dressings, securing splints or buddy splinting legs, etc.)</li>
+              <li>Betadine bottles</li>
+            </ul>
+          </td>
+          <td style="vertical-align: top; width: 50%">
+            <ul class="listitem">
+              <li>Washcloths to wipe dirt off patients and wipe all wounds on a patient</li>
+              <li>Space blankets</li>
+              <li>Energy bars or gels</li>
+              <li>TCCC Casualty Cards</li>
+              <li>Rubber bands</li>
+              <li>Sharpies</li>
+              <li>Pill packs</li>
+              <li>Possibly tarps and cord</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Manage the Incident</h2>
+  <ul class="listitem">
+    <li>Security, comms, CCP</li>
+    <li>Maintain accountability</li>
+    <li>Manage resources (tactical, medical, and logistical)</li>
+    <li>Coordinate transportation</li>
+    <li>Perform End of Life Care</li>
+    <li>Oversee end of life and deceased care</li>
+  </ul>
+
+  <h2>Prehospital MCM Template</h2>
+  <p>
+    The following is an example template for MCM training, including the layout and organization of a CCP. No template is universal, and each CCP will be necessarily modified based on the location of the MASCAL and the number of casualties. The template is presented as a checklist in 4 phases.
+  </p>
+
+  <h3 style="text-align: center">Prehospital MCM Example</h3>
+  <table class="table table-bordered table-striped" style="width: 100%;">
+    <tbody>
+      <tr>
+        <td colspan="3" style="border-top: 2px solid black; border-bottom: 1px solid black; padding: 8px; font-weight: bold; background-color: #f8f9fa;">
+          Phase I: Access, Assess, and Stabilize
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; width: 20%; font-weight: bold;">
+          Non-medical combatants
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; width: 60%;">
+          Eliminate the threat<br><br>
+          Get to the wounded, get them to safety, and perform immediate life-saving interventions if response is within certain time frames.<br><br>
+          Establish security, access the casualties, move to reasonable safety, assess initial condition, and perform life-saving interventions.
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; width: 20%; font-size: 0.85em; font-style: italic;">
+          Note* This task should be performed primarily by non-medical combatants.
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Senior member of the element performing the task
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Relay the following: "Number of casualties, location and initial status of the casualties" as casualties are recovered and moved to safety. Leaders should utilize known task organization of the element involved at the incident site, as well as subordinate leaders, to gain accountability of their force. The estimated degradation to the force, based on number and type of casualties, will help to guide decision-making further.
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Combatants responding to the incident site
+        </td>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Perform quality responder level Tactical Combat Casualty Care. The priority is to control life-threatening hemorrhage and confirm airway is patent.
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" style="border-bottom: 1px solid black; padding: 8px; font-weight: bold; background-color: #f8f9fa;">
+          Phase II: Consolidate Casualties at the CCP
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Medics and Leaders
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Consolidate and organize the casualties in a safe location<br><br>
+          Verify accountability<br><br>
+          Triage or re-triage<br><br>
+          Determine an appropriate location for and establish the Casualty Collection Point (CCP).
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Medic or CCP Triage Leader
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Establish security, mark the choke point, organize triage/treatment areas, consolidate additional medical supplies, equipment and personnel. (Priorities of work)<br><br>
+          Relay the call "ready to receive" if casualties have not yet arrived, and the CCP is established.<br><br>
+          Remove combat equipment from the casualties to perform medical assessments and place it away from the casualties in organized, separate piles to maintain accountability of sensitive items.<br><br>
+          Turn off radios, clear weapons, and ensure hazardous explosive material is consolidated and rendered safe.<br><br>
+          Remove and consolidate excess or unused medical equipment from casualties' IFAKs for use in the CCP. Once complete, equipment should be placed into casualty equipment bags.
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Medics
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Segregate treatment areas by casualty type and conduct a thorough head count if it is secure and makes sound tactical sense to conduct CCP operations at the point of injury. As casualties arrive to the CCP, accountability (labeling or marking of casualties) and triage should occur as they are moved through the choke point (can be done in ten seconds based on if the patient is alert with a good radial pulse and breathing ok).<br><br>
+          Arrange casualties in an organized manner as they are brought into the CCP if litter teams are not directed upon arrival to place casualties in a specific location based on triage category. Non-medical personnel should be prepared to shift casualties into further organized groups as the medic continues triage and further directs organization of the CCP.<br><br>
+          Prioritize and direct treatments to the non-medical assistants.
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          CCP Team Leaders
+        </td>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Account for personnel, weapons and equipment. A thorough head count should be accomplished, and leaders must ensure 100 percent accountability of the force.<br><br>
+          Account for additional personnel not organic to the tactical force, including pilots and crew chiefs, if the MASCAL was due to an incident such as a helicopter crash.
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" style="border-bottom: 1px solid black; padding: 8px; font-weight: bold; background-color: #f8f9fa;">
+          Phase III: Resuscitate, Package Casualties, and Set Conditions for Evacuation
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Medics
+        </td>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Prepare the casualties to move and prioritize for evacuation.<br><br>
+          Make rapid, calculated logistical decisions on the appropriate distribution of medical support and supplies. Advanced airway gear, narcotics, monitoring capability, and damage control resuscitation supplies are just a few examples of logistical constraints. The appropriate distribution of these supplies and choosing which casualties on which to use them is critical to "doing the most good for the most people".<br><br>
+          Finalize casualty triage according to evacuation priority and make recommendations to leadership. This will help to prioritize casualties for the appropriate casualty evacuation platform.<br><br>
+          Prepare to evacuate casualties in multiple waves during a sizeable MASCAL.<br><br>
+          Account for factors such as the availability of medical providers on receiving evacuation assets, response time, asset capacity, and transport time to higher levels of care.<br><br>
+          Prioritize the most URGENT casualties for the asset that can get them most rapidly to life-saving surgery. Consider cross-loading additional medical capability onto the asset with the most urgent casualties when tactically sound and without degrading medical coverage for the remaining force on the ground.<br><br>
+          Package high priority surgical casualties on a rigid litter in a hypothermia prevention and management kit (HPMK). Litter teams should be organized and assigned to enable casualty transportation to the casualty transfer site (e.g., HLZ).<br><br>
+          Attach a TCCC casualty card, to the casualty. If they received blood, tape the donor bag to the patient.<br><br>
+          Casualty cards should be available in every IFAK. Write essential information directly on the casualty's casualty card. Write on casualty's face, chest, or extremity with a sharpie if no card is available.
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" style="border-bottom: 1px solid black; padding: 8px; font-weight: bold; background-color: #f8f9fa;">
+          Phase IV: Finalize Essential Treatments, Secure Casualty Movement to Casualty Transfer Site and Evacuate to Higher Level of Medical Care
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Leaders
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Coordinate security for movement to and at the casualty transfer site (e.g., HLZ).
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Tactical leadership
+        </td>
+        <td style="border-bottom: 1px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Move litter teams and casualties out of the CCP through the choke point when directed by tactical leadership, and account for each casualty upon departure. This may occur in waves, based on availability and capacity of evacuation platforms.
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top; font-weight: bold;">
+          Medics
+        </td>
+        <td style="border-bottom: 2px solid black; padding: 8px; vertical-align: top;" colspan="2">
+          Provide clear leading instructions to litter teams upon arrival at the casualty transfer point. This includes order of movement on to the asset, direction of load, and any short-halts that may be required for casualty handover.<br><br>
+          Prepare to deliver a clear and concise patient handover once the receiving evacuation platform arrives. This should last no longer than 30 seconds in order to limit exposure time of the evacuation asset to potential enemy engagement. When performing casualty handover in noisy conditions (i.e., under rotor blades), medics should consider utilizing pre-coordinated hand and arm signals to assist relaying casualty information to the receiving medical personnel. Once verbal handover of the casualty is complete, medics should ensure the receiving medical personnel have positive control of all casualty documentation. Repeat this process for each casualty.<br><br>
+          <ul>
+            <li>
+              An example of a concise casualty handover utilizing the CITE format is below:
+              <ul>
+                <li>
+                  Condition:
+                  <ul>
+                    <li>Medical personnel: "Urgent/Nonurgent"</li>
+                    <li>Non-Medical Responder: "Conscious/Unconscious"</li>
+                  </ul>
+                </li>
+                <li>
+                  Injuries:
+                  <ul>
+                    <li>Medical personnel: "GSW to proximal femur of right lower extremity"</li>
+                    <li>Non-Medical Responder: "Gunshot wound to right leg"</li>
+                  </ul>
+                </li>
+                <li>
+                  Treatments: (Medical personnel should lead with what the receiving personnel CANNOT see {TXA, Ketamine, etc...})
+                  <ul>
+                    <li>Medical personnel: "2G TXA IO, 1u LTOWB"</li>
+                    <li>Non-Medical: "Tourniquet applied to right leg"</li>
+                  </ul>
+                </li>
+                <li>
+                  Everything else: (Other pertinent information as time permits)
+                  <ul>
+                    <li>Medical Personnel: "Patient is capable and trained to assist with... En Route"</li>
+                    <li>Non-Medical First Responder: "Ready for resupply requested"</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2 class="h2underline">References</h2>
+  <div class="endnote-container">
+    <p>
+      Assistant Secretary for Preparedness and Response (ASPR). Mass casualty trauma triage paradigms and pitfalls. July 2019
+    </p>
+    <p>
+      Aydelotte JD, Lammie JJ, Kotora Jr JG, Riesberg JC, Beekley AC. Combat triage and mass casualty management. In: MJ Martin et al. (eds) Front Line Surgery. Springer International Publishing AG; 2017. DOI <a href="https://doi.org/10.1007/978-3-319-56780-8">10.1007/978-3-319-56780-8</a>.
+    </p>
+    <p>
+      Falzone E, Pasquier P, Hoffmann C, Barbier O. Boutonnet M, Salvadori A, Jarrassier A, Renner J, Malgras B, Merat S. Triage in military settings. Anaesth Crit Care Pain Med. 2017;36:43‑51.
+    </p>
+    <p>
+      Howard JT, Kotwal RS, Santos‑Lazada AR, et al. Reexamination of a battlefield trauma golden hour policy. J Trauma Acute Care Surg. 2018;84(1):11‑18.
+    </p>
+    <p>
+      Kotwal RS, Montgomery HR, Miles EA, Conklin CC, Hall MT, McChrystal SA. Leadership and a Casualty Response System for Eliminating Preventable Death. J Trauma Acute Care Surg. 2017; 82(6 Suppl 1):S9-S15.
+    </p>
+    <p>
+      Kotwal RS, Montgomery HR. Chapter 33: TCCC Casualty Response Planning; National Association of Emergency Medical Technicians. Prehospital Trauma Life Support Manual, 10th Military Edition. Burlington, Massachusetts: Jones and Bartlett Learning, 2025.
+    </p>
+    <p>
+      Howard JT, Kotwal RS, Turner CA, et al. Use of Combat Casualty Care Data to Assess the US Military Trauma System During the Afghanistan and Iraq Conflicts, 2001‑2017. JAMA Surg. 2019;154(7):600‑608.
+    </p>
+    <p>
+      Kotwal RS, Howard JT, Orman JA, et al. The effect of a golden hour policy on the morbidity and mortality of combat casualties. JAMA Surg. 2016;151(1):15–24.
+    </p>
+    <p>
+      Kotwal RS, Scott LLF, Janak JC, et al. The Effect of Prehospital Transport Time, Injury Severity, and Blood Transfusion on Survival of US Military Casualties in Iraq. J Trauma Acute Care Surg. 2018;85(1S):S112‑S121.
+    </p>
+    <p>
+      Martin MJ. Crisis Standards of Care in Mass Casualty and Disaster Scenarios. 2019
+    </p>
+    <p>
+      Plackett TP, Nielsen JS, Hahn CD, Rames JM. Accuracy and reliability of triage at the point of injury during Operation Enduring Freedom. JSOM. 2016;16(1):51‑56.
+    </p>
+    <p>
+      Remley, M. A., Shackelford, S. A., Rush, S. C., Kue, R. C., Brown, J., Schaffrinna, A., Koch, E. J., Stringer, J., Montgomery, H. R., &amp; Deaton, T. G. (2025). Triage in Action: A Principles‑Based Approach to Mass Casualty Management in Tactical Combat Casualty Care. Journal of special operations medicine : a peer reviewed journal for SOF medical professionals, 25(3), 127–131. <a href="https://doi.org/10.55460/ZC6P-YS4G">https://doi.org/10.55460/ZC6P-YS4G</a>
+    </p>
+    <p>
+      Rush S, Dorsch J, Hughes D, Shaw T, Anderson, S. Pararescue Medical Operations Handbook. October 2013. USAF Pararescue
+    </p>
+    <p>
+      Rush, S. C., Lauria, M. J., DeSoucy, E. S., Koch, E. J., Kamler, J. J., Remley, M. A., Alway, N., Brodie, F., Barendregt, P., Miller, K., Hines, R., Champagne, M., Paladino, L., Shackelford, S. A., Miles, E. A., Dorlac, W. C., Gurney, J. M., Robb, D., &amp; Kue, R. C. (2024). Rethinking Prehospital Response to Mass Casualty Events: Move, Treat, and Transport. Journal of special operations medicine : a peer reviewed journal for SOF medical professionals, 24(3), 24–29. <a href="https://doi.org/10.55460/X38F-P3RH">https://doi.org/10.55460/X38F-P3RH</a>
+    </p>
+    <p>
+      Shackelford SA, Del Junco DJ, Reade MC, Bell R, et al. Association of time to craniectomy with survival in patients with severe combat‑related brain injury. Neurosurg Focus. 2018 Dec 1;45(6):E2.
+    </p>
+    <p>
+      Shackelford SA, Del Junco DJ, Powell‑Dunford N, et al. Association of prehospital blood product transfusion during medical evacuation of combat casualties in Afghanistan with acute and 30‑day survival. JAMA. 2017;318(16):1581–91.
+    </p>
+    <p>
+      Shackelford, S. A., Del Junco, D. J., Mazuchowski, E. L., Kotwal, R. S., Remley, M. A., Keenan, S., &amp; Gurney, J. M. (2024). The Golden Hour of Casualty Care: Rapid Handoff to Surgical Team is Associated With Improved Survival in War‑injured US Service Members. Annals of surgery, 279(1), 1–10. <a href="https://doi.org/10.1097/SLA.0000000000005787">https://doi.org/10.1097/SLA.0000000000005787</a>
+    </p>
+    <p>
+      Shackelford, S. A., Remley, M. A., Keenan, S., Kotwal, R. S., Baker, J. B., Gurney, J., Rush, S., &amp; Friedrichs, P. (2022). Evidence-based principles of time, triage and treatment: Refining the initial medical response to massive casualty incidents. The journal of trauma and acute care surgery, 93(2S Suppl 1), S160–S164. <a href="https://doi.org/10.1097/TA.0000000000003699">https://doi.org/10.1097/TA.0000000000003699</a>
+    </p>
+    <p>
+      Vassallo J, Smith JE, Wallis LA. Major incident triage and the implementation of a new triage tool, the MPTT-24. J R Army Med Corps 2018;164:103–106.
+    </p>
+    <p>
+      Vassallo J, Smith JE, Bruijns SR, Wallis LA. Major incident triage: A consensus based definition of the essential life‑saving interventions during the definitive care phase of a major incident. Injury, Int J Care Injured. 2016;47:1898‑1902.
+    </p>
+  </div>
+
+  <aside class="author no-break">
+    <h2>Authors</h2>
+    <p>
+      <strong>SGM Mike Remley</strong> serves as the Deputy Enlisted Corps Chief and Corps Specific Branch Proponent Officer for the Enlisted Corps, U.S. Army Medical Department.
+    </p>
+    <p>
+      <strong>COL Stephen Rush</strong> is a US Air Force Reserve Special Warfare Flight Surgeon, and a Radiation Oncologist on the Faculty of New York University Medical Center with dual appointments and Radiation Oncology and Neurosurgery.
+    </p>
+    <p>
+      <strong>SGM Jake Brown</strong> currently serves as Medical Squadron SGM, USASOC.
+    </p>
+    <p>
+      <strong>LTC Andrew Michael Schaffrinna</strong> is an Emergency Medicine Physician with a focus on operational medicine and medical education. During his 15-year Army career he has had the privilege to serve on multiple deployments in support of Special Operations as part of forward deployed surgical teams.
+    </p>
+    <p>
+      <strong>MSG Christopher W. Hutchison</strong> is currently serving as the Senior Enlisted Advisor for the Army Special Operations Aviation Command.
+    </p>
+    <p>
+      <strong>Shelia Savell, PhD, RN, Nurse Scientist</strong> for the En route Care Research Center, 59MDW/DHA for 10 years in support of combat casualty care research.
+    </p>
+    <p>
+      <strong>COL (Ret) Stacy Shackelford, MD (USAF)</strong> is a Research Professor for the Departments of Surgery and Emergency Medicine at the University of Colorado and Professor of Surgery for the Uniformed Services University of Health Sciences.
+    </p>
+    <p>
+      <strong>COL (Ret.) Russ S. Kotwal, MD,</strong> served over 29 years in the U.S. Army to include 15 years in operational assignments with the 25th Infantry Division, 75th Ranger Regiment, and U.S. Army Special Operations Command. He deployed to combat twelve times with the Rangers, nine to Afghanistan and three to Iraq. He is a Family Medicine and Aerospace Medicine physician. He currently works on Strategic Projects for the Joint Trauma System, Defense Health Agency.
+    </p>
+  </aside>
+</article>
+
+</div>
+
+</div><!-- End_Module_122593 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+            </div>
+            <div class="flex-row flex-row-fw">
+                
+            </div>
+            <div class="flex-row flex-row-fw">
+                
+            </div>
+        </div>
+
+        <div class="container-fluid nopad">
+            <div class="flex-row flex-row-fw">
+
+                
+                <div class="flex-row-col-md backend-cp-collapsible flex-row-main">
+                    <div class="flex-row flex-row-fw">
+                        
+
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                        
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                        
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="flex-row flex-row-fw">
+                        
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="container-fluid nopad">
+            <div class="flex-row flex-row-fw">
+                
+            </div>
+            <div class="flex-row flex-row-fw">
+                
+            </div>
+        </div>
+
+    </div>
+    
+    <footer role="contentinfo" class="footer-centerstacked">
+        <div class="skin-footer-background">
+            <div class="container-fluid nopad">
+                <div class="flex-row flex-row-fw">
+                    <div class="flex-row-col-md-6 col-footerlinks">
+                        <div class="padded">
+                            <div id="dnn_FooterLinks">
+                                
+
+
+                            <div class="DnnModule DnnModule-DNN_HTML DnnModule-80645"><a name="80645"></a>
+<div class="empty-container">
+    <div id="dnn_ctr80645_ContentPane"><!-- Start_Module_80645 --><div id="dnn_ctr80645_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr80645_HtmlModule_lblContent" class="Normal">
+		<style>
+    .skin-footer-banner a:visited {
+        color: #ffffff !important;
+    }
+
+    #dnn_FooterBanner_hlDmaLink {
+        color: #ffffff !important;
+    }
+
+    .footer {
+        background-color: #221F20;
+        padding: 20px;
+    }
+
+    .footer-links .list-inline li {
+        margin-top: 20px;
+    }
+
+    .footer-links a {
+        color: #565557;
+        text-decoration: none;
+        padding: 5px 10px;
+        transition: color 0.3s, text-decoration 0.3s;
+    }
+
+    .footer-links a:hover,
+    .footer-links a:focus {
+        color: white;
+        text-decoration: underline;
+        outline: 2px solid #ffffff;
+        outline-offset: 2px;
+    }
+
+    .social-links ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .social-links li {
+        display: inline-block;
+        margin: 16px 20px 0 0;
+        font-size: 32px;
+        color: white;
+    }
+
+    .social-links li:last-child {
+        margin-right: 0;
+    }
+
+    @media (max-width: 768px) {
+        .social-links ul {
+            text-align: left;
+        }
+    }
+</style>
+<footer class="footer">
+    <div class="container-fluid">
+        <div class="row">
+            <div>
+                <div class="footer-links">
+                    <ul class="list-inline">
+                        <li><a href="/Legal-Administrative/Privacy-and-Security-Policy/">LD Privacy &amp; Security</a>
+                        </li>
+                        <li><a href="/Legal-Administrative/User-Terms-of-Agreement/">LD User Terms of Agreement</a></li>
+                        <li><a href="https://www.army.edu/" target="_blank">Army University</a></li>
+                        <li><a href="https://www.armyupress.army.mil/" target="_blank">Army University Press</a></li>
+                        <li><a href="https://dodcio.defense.gov/DoD-Web-Policy/" target="_blank">Web Policy</a></li>
+                        <li><a href="https://www.war.gov/Resources/DOW-Information-Quality-Guidelines/"
+                                target="_blank">Information Quality</a></li>
+                        <li><a href="https://www.esd.whs.mil/DD/plainlanguage/" target="_blank">Plain Writing Act</a>
+                        </li>
+                        <li><a href="https://dpcld.defense.gov/Privacy.aspx" target="_blank">Privacy Program</a></li>
+                        <li><a href="https://prhome.war.gov/NoFear/" target="_blank">No FEAR Act</a></li>
+                        <li><a href="https://foia.army.mil/" target="_blank">FOIA</a>
+                        </li>
+                        <li><a href="https://open.defense.gov/" target="_blank">Open Government</a></li>
+                        <li><a href="https://www.defense.gov/National-Defense-Strategy/" target="_blank">Strategic Plan</a>
+                        </li>
+                        <li><a href="https://www.usa.gov/" target="_blank">USA.gov</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+	</div>
+
+</div><!-- End_Module_80645 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+                        </div>
+                    </div>
+                    <div class="flex-row-col-md-6 col-sociallinks">
+                        <div class="padded">
+                            
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="flex-row flex-row-fw">
+                    <div id="dnn_FooterContentLeftPane" class="flex-row-col-md-8 backend-cp-fixed-always DNNEmptyPane"></div>
+                    <div id="dnn_FooterRightPane" class="flex-row-col-md-4 backend-cp-fixed-always DNNEmptyPane"></div>
+                </div>
+                <div class="flex-row flex-row-fw">
+                    <div id="dnn_FooterRowLeft" class="flex-row-col-md-4 backend-cp-fixed-always DNNEmptyPane"></div>
+                    <div id="dnn_FooterRowMiddle" class="flex-row-col-md-4 backend-cp-fixed-always DNNEmptyPane"></div>
+                    <div id="dnn_FooterRowRight" class="flex-row-col-md-4 backend-cp-fixed-always DNNEmptyPane"></div>
+                </div>
+                <div class="flex-row flex-row-fw">
+                    <div id="dnn_FooterPane" class="flex-row-col-md backend-cp-fixed-always DNNEmptyPane"></div>
+                </div>
+            </div>
+            
+
+<div class="skin-footer-banner">
+      <a id="dnn_FooterBanner_hlDmaLink" class="no-skin-override" rel="noreferrer noopener" href="https://www.web.mil/" target="_blank">Hosted by WEB.mil</a>
+      
+</div>
+
+        </div>
+    </footer>
+</div>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        <script src="/DesktopModules/SharedLibrary/Controls/Banner/JS/GovBanner.js?cdv=4056" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=4056" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/smartmenus/jquery.smartmenus.js?cdv=4056" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/smartmenus/addons/jquery.smartmenus.dma-accessibility.js?cdv=4056" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/ValidatedPlugins/dompurify//purify.min.js?cdv=4056" type="text/javascript"></script>
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=4056|DnnBodyProvider|100)--><!--CDF(Css|/portals/144/CSS/lod-global-css.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=4056|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=4056|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/skins/dod2/skin.css?cdv=4056|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=4056|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=4056|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/containers/dod2/container.css?cdv=4056|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/144/portal.css?cdv=4056|DnnPageHeaderProvider|35)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=4056|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=4056|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/SharedLibrary/ValidatedPlugins/aos/aos.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/ValidatedPlugins/aos/aos.js?cdv=4056|DnnBodyProvider|100)--><!--CDF(Javascript|/portals/_default/Skins/DOD2/resources/js/menu-width-detection.js?cdv=4056|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/Controls/Banner/JS/GovBanner.js?cdv=4056|DnnFormBottomProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=4056|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=4056|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/smartmenus/jquery.smartmenus.js?cdv=4056|DnnFormBottomProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/smartmenus/addons/jquery.smartmenus.dma-accessibility.js?cdv=4056|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/smartmenus/css/sm-core-css.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/all.min.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/v4-shims.min.css?cdv=4056|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/ValidatedPlugins/dompurify//purify.min.js?cdv=4056|DnnFormBottomProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=4056|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/HoverIntent/01_10_01/jquery.hoverIntent.min.js?cdv=4056|DnnPageHeaderProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_04_01/jquery-migrate.js?cdv=4056|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_13_03/jquery-ui.min.js?cdv=4056|DnnPageHeaderProvider|10)-->
+    
+</body>
+</html>

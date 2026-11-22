@@ -1,0 +1,779 @@
+[PDF PAGE 1]
+
+Planning Considerations: 
+Evacuation and 
+Shelter-in-Place 
+Guidance for State, Local, Tribal, and Territorial Partners 
+ 
+July 2019 
+
+[PDF PAGE 2]
+This page intentionally left blank. 
+
+[PDF PAGE 3]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ i 
+Table of Contents 
+BACKGROUND ...................................................................................................................... 1 
+Purpose ........................................................................................................................................ 1 
+Background ................................................................................................................................. 1 
+Roles and Responsibilities ........................................................................................................... 2 
+KEY CONCEPTS .................................................................................................................... 4 
+Zones ............................................................................................................................................ 4 
+Evacuation Transportation Mo dels ............................................................................................ 4 
+Phases........................................................................................................................................... 5 
+Community Lifelines ................................................................................................................... 7 
+Characteristics of Evacuation and Shelter-In-Place ................................................................... 7 
+CRITICAL CONSIDERATIONS ..........................................................................................10 
+Accessibility ............................................................................................................................... 10 
+Children and Unaccompanied Minors ...................................................................................... 10 
+Contraflow Lane Reversal ........................................................................................................ 10 
+Correctional Facilities ............................................................................................................... 11 
+Domestic/Sexual Violence Shelters............................................................................................ 11 
+Evacuation Clearance Time ...................................................................................................... 12 
+Fuel Management ...................................................................................................................... 12 
+Homeless Populations ................................................................................................................ 13 
+Hospitals and Residential Medical Facilities ............................................................................ 14 
+Household Pets and Service Animals ........................................................................................ 14 
+Individuals with Access and Functional Needs ......................................................................... 15 
+Legal Requirements and Authorities ........................................................................................ 16 
+Mass Care & Sheltering Services .............................................................................................. 16 
+Population Assessment .............................................................................................................. 16 
+Terminology Used in Public Messaging .................................................................................... 17 
+Tourist Populations ................................................................................................................... 17 
+Tracking/Evacuee Accountability ............................................................................................. 17 
+Traffic Management .................................................................................................................. 18 
+Zonal Approach ......................................................................................................................... 18 
+PLANNING PRINCIPLES .....................................................................................................22 
+Defined Authorities ................................................................................................................... 22 
+Shelter-In-Place – First/Default Option .................................................................................... 22 
+Common Understanding ........................................................................................................... 22 
+Unified Coordination Process ................................................................................................... 23 
+Zone-based Operational Strategies ........................................................................................... 23 
+All-Hazard Planning ................................................................................................................. 23 
+Whole Community Approach ................................................................................................... 23 
+
+[PDF PAGE 4]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ii 
+Flexibility and Scalability .......................................................................................................... 24 
+Critical Transportation Needs (CTN) ....................................................................................... 24 
+Service and Assistance Animals and Household Pets ............................................................... 24 
+Evacuee Tracking/Accountability ............................................................................................. 24 
+Mass Care .................................................................................................................................. 25 
+APPENDIX A. ACRONYM LIST ..........................................................................................26 
+APPENDIX B. TERMINOLOGY ..........................................................................................28 
+APPENDIX C. AUTHORITIES .............................................................................................32 
+APPENDIX D. JOB AIDS ......................................................................................................34 
+Command Job Aid..................................................................................................................... 34 
+Essential Elements of Information ............................................................................................ 37 
+APPENDIX E. EXECUTION CHECKLISTS .......................................................................43 
+ESF #1—Transportation (Evacuation and Shelter Phase) Checklist ...................................... 43 
+ESF #5—Information and Planning (Mobilization Phase) Checklist ...................................... 45 
+ESF #6—Mass Care, Emergency Assistance, Temporary Housing, and Human Services 
+(Mass Care Phase) Checklist ..................................................................................................... 48 
+APPENDIX F. RESOURCES .................................................................................................50 
+Training Resources .................................................................................................................... 50 
+Other Resources ........................................................................................................................ 50 
+Federal Evacuation Support Resources .................................................................................... 50 
+APPENDIX G. USING THE SIX-STEP PLANNING PROCESS ........................................57 
+Step 1: Form a Collaborative Planning Team .......................................................................... 57 
+Step 2: Understand the Situation .............................................................................................. 58 
+Step 3: Determine Goals and Objectives ................................................................................... 58 
+Step 4: Plan Development ......................................................................................................... 59 
+Step 5: Plan Preparation, Review, and Approval ..................................................................... 59 
+Step 6: Plan Implementation and Maintenance ....................................................................... 59 
+
+[PDF PAGE 5]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 1 
+Background 
+Purpose 
+This document supports state, local, tribal, and territorial partners in planning for evacuation 
+and/or shelter-in-place protective actions.1 It summarizes characteristics that jurisdictions should 
+consider when planning for evacuation and/or shelter -in-place operations and builds on 
+Comprehensive Preparedness Guide (CPG) 101: Developing and Maintaining Emergency 
+Operations Plans by providing unique considerations for development of evacuation and shelter-
+in-place plans.2 In addition, this document contains job aids and checklists that jurisdictions can 
+customize to meet their needs for all disasters regardless of scale. 
+Background 
+Protective actions such as evacuation and shelter-in-place have become more important to 
+emergency management operations in previous years, requiring a more comprehensive look at 
+concepts and principles that plans should be built a round and considerations that are critical to 
+ensuring effective implementation, this document aims to provide this. Over eight million people 
+across the nation were affected by evacuation orders in 2017, including: 
+• Flooding in February near the Oroville Dam in 
+California caused an evacuation of over 180,000 
+people3; 
+• Hurricane Harvey struck Texas in August and 
+resulted in the evacuation of over 780,000 people4; 
+• Hurricane Irma struck Florida in September and 
+resulted in evacuation orders covering a record 6.8 
+million residents; 
+• In October, wildfires in California forced the evacuation of over 100,000 residents. 
+These disasters illustrate that the use of evacuation and shelter -in-place as protective actions are 
+commonplace regardless of the threat or hazard. The challenge is to tailor the p rotective actions 
+to best address a variety of factors, including a community’s demographics, location, 
+infrastructure, resources, authorities, and decision-making processes. 
+ 
+1 This document does not address building/facility evacuations or shelter-in-place considerations that are typically 
+covered in occupant emergency plans. 
+2 FEMA. CPG 101: Developing and Maintaining Emergency Operations Plans, Version 2.0. Washington, DC. 
+2010. fema.gov/pdf/about/divisions/npd/CPG_101_V2.pdf 
+3 FEMA. 2018 National Preparedness Report. 2018. https://www.fema.gov/national-preparedness-report 
+4 FEMA. 2017 Hurricane Season FEMA After Action Reports. 2018. https://www.fema.gov/media-
+library/assets/documents/167249 
+Evacuation: Organized, phased, and 
+supervised withdrawal, dispersal, or 
+removal of civilians from dangerous 
+or potentially dangerous areas, and 
+their reception and care in safe areas. 
+Shelter-in-Place: The use of a 
+structure to temporarily separate 
+individuals from a hazard or threat. 
+
+[PDF PAGE 6]
+Planning Considerations: Evacuation and Shelter-In-Place 
+2 
+Roles and Responsibilities 
+Emergency managers conduct a range of outreach and engagement activities to help everyone 
+understand their respective roles and responsibilities for evacuation and shelter -in-place. 
+Individuals and Families 
+Individuals and families must understand evacuation and shelter-in-place concepts and zones 
+before a disaster strikes so they can make informed decisions and take protective actions. 
+Individuals and families should develop plans and ensure their readiness for both protective 
+actions. 
+Being prepared for shelter-in-place includes ensuring that the family or individual has a specified 
+shelter-in-place location. When sheltering-in-place, individuals should ensure they have enough 
+water, non-perishable food, blankets, communication equipment (such as radios), alternate power 
+sources (including fuel for generators, first aid supplies, necessary medications, and durable 
+medical equipment [e.g., wheelchairs, canes, and hearing aids] and consumable medical 
+equipment [e.g., medical device batteries, catheters, and wound dressings]) to allow self-
+sustainment in that location for a minimum of 72 hours and a maximum of 14 days. The family 
+or individual should plan to keep a well-stocked emergency kit available at home, at work, and in 
+the car, to meet all contingencies. For a detailed list of supplies, consult 
+http://www.ready.gov/build-a-kit. 
+Being prepared for an evacuation includes identifying primary evacuation routes from multiple 
+locations (e.g., offices, homes, and schools), as well as reunification points in case an evacuation 
+occurs while a family is separated. Families should establish a communication plan that supports 
+the evacuation plan and he lps members communicate even when cellular communications are 
+disabled. Individuals and households that utilize visiting nurses or other service providers may 
+work with the service provider to identify potential sources of similar services that would be 
+available during an evacuation and displacement. Alternatively, households may establish a plan 
+for the service provider to evacuate with the individual in order to administer care during the 
+evacuation and displacement. 
+Private Sector 
+Private sector entities play an important role in safeguarding their employees. These entities 
+prepare, plan, coordinate, and execute evacuation and shelter-in-place protective actions in case 
+of threats or hazards impacting their workplaces. Jurisdictions should collaborate with the public 
+and private sectors to develop a shared understanding of protective actions and shelter-in-place 
+concepts, plans, terminology, and roles. Proper planning ensures the security of employees and 
+reduces the potential for loss of life if an incident occurs during hours of operation. 
+Private sector planning should also account for disruptions to operations and include a continuity 
+of operations plan (COOP). Private sector facilities should have similar provisions as individuals 
+and families for shelter-in-place, but on a larger scale and accommodating goods and equipment. 
+Private sector vendors may have access to resources that benefit evacuation operations and 
+provide other resources (e.g., water, power, fuel). Private entities should also work with 
+jurisdictions in the planning process to identify evacuation routes and resources available to the 
+
+[PDF PAGE 7]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 3 
+private sector that could facilitate a large-scale evacuation (e.g., buses or vans for transportation, 
+stores as arrival points), while providing accessibility throughout the process. 
+State, Local, Tribal, and Territorial Governments 
+State, local, tribal, and territorial governments have primary authority and responsibility for 
+evacuation and shelter-in-place planning, in conjunction with the whole community. Prior to an 
+incident, jurisdictional governments should engage the whole community (including 
+public/private sectors, community-based service and advocacy organizations, nongovernmental 
+organizations, faith-based organizations, nonprofits, and individuals and families) to conduct 
+awareness briefings and preparedness training, including “know your zone” training and 
+campaigns, so that stakeholders are familiar with what is expected of them during each type of 
+protective action. Additionally, for each protective action, jurisdictions should create clear and 
+accessible messaging in alternative formats, including social media. This messaging should be 
+pre-approved by leadership and advise the public on necessary actions, including anything 
+specific to the threat or hazard that is impacting their community (e.g., anticipated flooding, 
+hazardous material exposure, expected loss of power). Jurisdictions should establish, publicize, 
+and periodically test a community w arning system. Jurisdictions should also monitor social 
+media to identify and attempt to correct rumors or inaccurate accounts of the situation. 
+For evacuations, the jurisdictional government issues evacuation orders, manages traffic flow, 
+identifies evacuation routes, identifies shelters for residents, and considers processes to reunify 
+caregivers and family members separated from one another. Additionally, jurisdictions should 
+plan for disruptions to government operations and ensure they have a COOP and a continuity of 
+government (COG) plan. Jurisdictions activate these plans in the event of government disruption 
+and/or government relocation from an impacted area. For large-scale events requiring Federal 
+resources, communities should consult the Mass Evacuation Incident Annex 5 for more 
+information on coordinating efforts with Federal entities. 
+Jurisdictional Government Responsibilities 
+ Set clear expectations for whole community partners by hosting education, training, and information 
+sessions 
+ Establish and publish clear, accessible evacuation routes and zones for the community, as well as 
+alternate routes in areas with changing evacuation dynamics 
+ Identify evacuation shelters in the community, as well as shelters where evacuees can go in other 
+communities if needed and work with those neighboring communities to establish notification and 
+operations procedures 
+ Create pre-approved accessible messaging for rapid distribution regarding incident and shelter -in-
+place or evacuation instructions 
+ Have a continuity plan to help maintain response operations if interrupted 
+ Provide real-time mapping and navigation routing systems through Geographic Information System 
+(GIS) and supported private sector features, such as the W aze Connected Citizens program 
+ 
+5 FEMA. Mass Evacuation Incident Annex. https://www.fema.gov/media-library/assets/documents/25548. 
+
+[PDF PAGE 8]
+Planning Considerations: Evacuation and Shelter-In-Place 
+4 
+Key Concepts 
+The following key concepts help ensure successful evacuation and shelter-in-place planning: 
+Zones, Evacuation Transportation Models, Phases, Community Lifelines, and Characteristics. 
+Zones 
+The goal of an evacuation is to move as few people as needed the shortest distance to safety . 
+Zone-based evacuation plans can be most effective in meeting this goal. They reduce resource 
+burdens, facilitate re-entry, and accelerate the transition to recovery. A zone-based approach 
+requires emergency managers and the whole community to work together to understand and 
+coordinate evacuation and shelter-in-place actions, and make informed decisions based on the 
+appropriate transportation models. These protective actions support all-hazards planning, 
+whether for hurricanes, wildfires, floods, chemical spills, or civil unrest. Situational awareness 
+and flexibility of plans, along with an educated public, allow each state, local, tribal, and 
+territorial partner to customize its preparation and response efforts. 
+Previous disasters highlighted the value of a zone- phased approach to evacuation and shelter-in-
+place. Jurisdictions can benefit from considering shelter-in-place as the first/default option, when 
+feasible (e.g., during tornados).6 Establishing evacuation and shelter-in-place zones allows 
+jurisdictions to target evacuation to the most vulnerable zone s, while limiting the need for 
+evacuating large areas that are not under the threat of the hazard. Generally, geographic 
+considerations for zone boundaries include U.S. Census Blocks, neighborhood boundaries, 
+fire/police districts, U.S. Army Corps of Engineers (USACE) hurricane evacuation zones, ZIP 
+codes, and existing evacuation plans and documentation. The mechanism for assigning zones 
+will vary from jurisdiction to jurisdiction. Situational awareness and flexibility of plans, along 
+with an educated public, allow each state, local, tribal, and territorial par tner to customize its 
+preparation and response efforts for all hazards. 
+Evacuation Transportation Models 
+Transportation planning considerations should 
+include staging, embarkation points, 
+transportation centers, and shelter locations. 
+Jurisdictions may choose to employ one of the 
+transportation concepts below to facilitate the 
+movement of evacuees: 
+• Hub and Spoke (Figure 1) moves and 
+aggregates evacuees in short trips from 
+numerous pickup locations to evacuation 
+centers, which in turn provide evacuation 
+to mass care centers. Hub and spoke 
+maximizes routes and provides immediate 
+ 
+6 See the Critical Considerations section for further information and resources for zone-based planning. 
+Figure 1: Hub and Spoke Evacuation Model 
+
+[PDF PAGE 9]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 5 
+movement of people from dangerous locations to a safer location temporarily. This 
+transportation model allows jurisdictions to triage the needs of individuals, which may only 
+be access to temporary shelter or access to personnel to facilitate the rental of a vehicle or 
+other means to evacuate and provide care for themselves and their family directly. 
+• Point-to-Point (Figure 2) moves evacuees 
+directly from the point of embarkation to a 
+host jurisdiction or shelter. Point-to-point 
+is the fastest, most direct and streamlined, 
+and least resource-intensive evacuation 
+action in the immediate operational period. 
+However, it has limited capacity for surges 
+during large displacements. Shelters can 
+come to capacity quickly, increasing travel 
+for evacuees. Additionally, this model is 
+not ideal if the host location has not been 
+determined, such as in the instance of no -notice events that have a wide and unpredictable 
+pattern. 
+Phases 
+Evacuation and shelter-in-place operations occur in five phases: mobilization, evacuation and 
+shelter-in-place, impact, displacement/mass care, and re-entry. Used in conjunction with 
+evacuation and shelter-in-place zones, phases provide a construct to move people to safety or 
+have them shelter-in-place. Phases help jurisdictions plan, organize, respond, and coordinate 
+evacuation and shelter-in-place strategies, messages, tasks, and decisions. 
+Phases may differ across zones that face unique hazards and considerations, may not occur at all, 
+or may occur in any order based on incident realities. For instance, during no -notice events, the 
+ In Practice: City of New Orleans – Evacuspots 
+New Orleans regularly faces severe flooding from rain, as 
+well as damage from hurricanes, and has limited routes in 
+and out of the low-lying city to safe areas further inland. 
+Facilitating large-scale evacuations is a crucial issue. 
+New Orleans has taken steps to assist those who may not 
+have access to, or be able to utilize, independent travel in 
+evacuating the area. The city has put seventeen 14-foot-
+high statues around the city as assembly points, known as 
+evacuspots, to pick up these individuals. Five evacuspots 
+are specifically designated for senior citizens. 
+This method supports those with access and functional 
+needs or requiring critical transportation assistance, 
+allowing the city to efficiently evacuate the highest number 
+of individuals out of an impact area. 
+Figure 2: Point-to-Point Evacuation Model 
+Figure 3: A statue designating an 
+evacuation assembly point also 
+referred to as an “evacuspot” in 
+New Orleans, LA 
+
+[PDF PAGE 10]
+Planning Considerations: Evacuation and Shelter-In-Place 
+6 
+impact phase, mobilization phase, and evacuation and shelter-in-place phase may be compressed 
+or occur simultaneously, depending on incident specifics. 
+• Mobilization: Begins with the identification of a threat or hazard that could lead to an 
+evacuation or shelter-in-place order. The first activity is initial notification of people, 
+systems, and resources to establish incident command and management structures. 
+Emergency management officials make coordinated decisions for protective actions and 
+priorities, disseminating clear evacuation messaging to the public. Mobilization will likely 
+happen concurrently with other phases for no -notice events and low-notice events. 
+• Evacuation and Shelter-In-Place: Begins when a threat requires evacuation or shelter-in-
+place operations, either following or concurrent with mobilization phase activities, depending 
+on incident notice. For no -notice events, this is the first phase and mobilization may happen 
+both outside and within the impact area as part of the response. This phase includes 
+implementing the protective actions of evacuation and shelter -in-place orders, which will 
+vary depending on the size and scope of the incident. This phase may be used in advance of 
+the impact phase for notice events (e.g., hurricane) or after the impact phase for no -notice or 
+low-notice events (e.g., earthquake, terrorist attack) to meet incident objectives and protect 
+life and property. 
+• Impact: This phase begins when jurisdictions start to see adverse impacts on operations. 
+During this phase, for notice events, jurisdictio ns work to secure facilities, people, and 
+equipment and clear and close public transit to minimize the impact of the hazard. Within the 
+impact phase, the “zero hour” marks the time needed to ensure the safety of first responders 
+as the hazard makes impact, and it is the designated point in time when it is no longer safe for 
+responders to continue operations. 
+• Displacement/Mass Care: If evacuees must leave their home jurisdiction, they must remain 
+in the host jurisdiction until their community is safe. Mass c are is mobilized and conducts 
+operations throughout an incident to establish shelters and provide other services, but greater 
+emphasis is placed on these activities during the Mass Care phase. During this phase, the 
+evacuating jurisdictions communicate with the host jurisdictions to coordinate numbers and 
+types of evacuees, shelters for them, and potential length of evacuation. Not every evacuation 
+necessitates a robust mass care operation; it is most commonly conducted during long-lasting 
+events. During shelter-in-place operations, mass care may consist of mobile commodity 
+distribution or the establishment of hubs for evacuees to obtain food, water, and information 
+during evacuations that last hours instead of days. 
+• Re-entry: Incorporates the coordinated movement of evacuees back into a community once 
+the threat or hazard dissipates and the event causing the evacuation ends. In instances where 
+residents may not be able to return to their communities for a longer period, this pop ulation is 
+re-located to host areas and returned when it is safe. Re-entry typically marks the transition to 
+recovery activities. This phase may follow the re-entry of first responders, if the threat or 
+hazard was significant enough to require first responders to evacuate, or will begin once first 
+responders have stabilized the area to a point where residents can return .7 
+ 
+7 Department of Homeland Security Crisis Event Response & Recovery Access (CERRA) Framework : 
+https://www.dhs.gov/publication/crisis-event-response-and-recovery-access 
+
+[PDF PAGE 11]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 7 
+Community Lifelines 
+Evacuations and shelter-in-place operations can serve as drivers and provide key information to 
+inform Community Lifelines. The seven Lifelines include Safety and Security; Food, Water, 
+Shelter; Health and Medical; Energy; Communication; Transportation; and Hazardous Material. 
+They enable the continuous operation of government and critical business functions that are 
+critical to human health, safety , or economic security. Community Lifelines provide a 
+comprehensive way for decision makers to review impacts and prioritize resources and tasks. 
+Currently, evacuation falls under the Safety and Security lifeline. However, evacuation and 
+shelter-in-place protective actions have aspects that may influence key information points under 
+additional lifelines. For example, shelter-in-place due to a hazardous material spill may 
+contribute key information into the Transportation, and Health and Medical lifelines, as well as 
+Hazardous Materials. 
+Characteristics of Evacuation and Shelter-In-Place 
+Evacuations, like the incidents that trigger them, can affect multiple geographic regions and have 
+long-term social, political, and economic impacts. A whole community approach supports and 
+enables the safe and efficient movement of individuals and animals from an impacted or 
+potentially impacted community, as well as their return once it is safe. Evacuations may begin 
+with the spontaneous movement of evacuees or an official evacuation order and may occur 
+before (pre-) or during and/or after (post-) an incident. Similarly, shelter-in-place action can be 
+pre- or post-incident. Pre-incident shelter-in-place action may still require a post-incident 
+evacuation if the threat or hazard occurs with little or no notice or presents an ongoing threat. 
+Characteristics and duration of evacuation or shelter-in-place depends on the incident and varies 
+with jurisdiction size, location, and resources: 
+• Pre-incident protective actions occur when warning is available before an incident (such as 
+a hurricane or sheltering in short notice for a tornado) and fall into two categories: 
+‒ Pre-incident evacuation moves the most vulnerable, threatened population away from a 
+potential area of impact, and shelters populations in place when and where conditions 
+support. Pre-incident evacuation requires transportation resources and infrastructure other 
+than or in conjunction with those utilized during normal conditions. Pre -incident 
+evacuation decision making requires officials to balance potentially costly, hazardous, or 
+unnecessary evacuations against the possibility of loss of life from untimely evacuation. 
+‒ Pre-incident shelter-in-place allows people to remain in place in areas that are less 
+impacted, which helps reduce the negative impacts of evacuation. For example, during a 
+hurricane, people may have enough time to evacuate from the most dangerous zones and 
+be able to shelter in place in zones that may be less impacted, minimiz ing negative 
+impacts to the populations and keeping roads clear for those in most immediate danger. 
+• Post-incident protective actions occur during and/or after an incident. This may be the 
+result of a no-notice event or an unexpected impact of a notice event. 
+‒ Post-incident shelter-in-place may be necessary in certain instances such as an ongoing 
+active shooter or complex coordinated terrorist attack. 
+
+[PDF PAGE 12]
+Planning Considerations: Evacuation and Shelter-In-Place 
+8 
+‒ Post-incident evacuation should only occur when it is unsafe for the affected population 
+to remain in the incident area, such as after a hazardous material spill with shifting wind 
+patterns that may endanger a new part of the community. In contrast to pre-incident 
+evacuations, post-incident evacuations may occur simultaneously with life -saving 
+response operations. Resource constraints will arise as resources otherwise employed to 
+support evacuation operations fulfill different emergency response tasks instead. 
+Types of Evacuees 
+Understanding the types of evacuees in the population affected by a potential threat or hazard 
+and their associated needs is critical to evacuation and shelter -in- place planning efforts. These 
+types include: 
+• Children and Unaccompanied Minors: These evacuees require specialized approaches and 
+care. During a no-notice evacuation, children and unaccompanied minors can be gathered in 
+facilities, such as schools, childcare facilities, hospitals, or other locations. These evacuees 
+require assistance during evacuation or shelter-in-place operations and reunification. 
+• Self-Evacuees: Individuals who possess the capability or can obtain the resources to 
+evacuate from a potentially dangerous area prior to, during, or after an incident with minimal 
+or no assistance. This type of evacuee used their own transportation or utilize d informal 
+assistance such as from a family member or neighbor to evacuate by private or all-terrain 
+vehicle, boat, aircraft, on foot, or other evacuee-directed and controlled transportation. 
+• Critical Transportation Needs (CTN) Evacuees: Individuals who may not have access to 
+transportation and require assistance to leave a potentially dangerous or disaster-affected area 
+(also referred to as Transportation-Dependent or Transportation-Disadvantaged Population). 
+This category also may include individuals with access and functional needs who may 
+require accessible transportation assistance to evacuate. 
+• Animal Evacuees: Animals, such as service animals and assistance animals, household pets, 
+working dogs, agricultural animals/livestock, wildlife, exotic animals, zoo animals, research 
+animals, and animals housed in shelters, rescue organizations, breeding facilities, and 
+sanctuaries, may need evacuation support. Service animals evacuate with their owners as part 
+of either the general or patient population and remain with their owners t hroughout the 
+process. Shelter-in-place of animal evacuees depends on the incident, hazard, or threat and 
+the safety of sheltering in place versus evacuating. 
+• Spontaneous Evacuees: Under some circumstances, residents may self-evacuate based on 
+an individual, family, or group decision in reaction to an incident or threat of an incident, 
+rather than being motivated to take a protective action as a result of an evacuation order. 
+These individuals and/or groups are considered spontaneous evacuees. Spontaneous 
+evacuations can complicate operations and add confusion. Jurisdictions can lessen the 
+likelihood and impact of spontaneous evacuations by conducting pre-event preparedness 
+education campaigns; clearly defining zones; providing clear, unified, and unambiguous 
+evacuation and shelter-in-place orders; and providing clear expected actions, and timely 
+threat, hazard and risk information. Jurisdictions should carefully shape all communications 
+to use appropriate and accessible language and forms of media to provide evacuation and 
+shelter-in-place information to the community. 
+
+[PDF PAGE 13]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 9 
+Evacuation Facilities 
+A large-scale incident requires moving people across large areas and multiple jurisdictions. The 
+types of sites and resources identified by the planning team for such an incident depend on the 
+classification of the local jurisdiction. In addition, planners sho uld be aware of resources in 
+“pass-through” communities (between evacuating and host jurisdictions), because pass-through 
+jurisdictions may be asked to establish and host additional shelters if needed. Based on the 
+incident, possible evacuation facilities may include: 
+• Evacuation Assembly Point: A temporary location exclusively for evacuation embarkation 
+and transportation coordination in a field setting. Basic life-sustaining services are not 
+generally available. 
+• Emergency Respite Site: A location along an evacuation route that can support 
+transportation-assisted evacuees and self-evacuees. Respite sites may include fuel stations, 
+restroom facilities, and access to water. 
+• Regional Hub Reception Center (RHRC): A regional facility where evacuees can receive 
+assistance in identifying the most appropriate shelter location for their needs. RHRCs are 
+typically state-run and employed during significant multi-jurisdictional, multiregional events. 
+• Shelter8 (Mass Care): A facility where evacuees without a destination are evaluated and 
+receive disaster services from government agencies and/or pre-established volunteer 
+organizations. Meals and water are available, as well as basic first aid, pet and service animal 
+sheltering (if applicable), sleeping quarters, and hygienic support, and basic disaster services 
+(e.g., counseling, financial assistance, referral) should also be available. Other resources 
+required in a mass care setting are listed in “FEMA Guidance on Planning for Integration of 
+Functional Needs Support Services in General Population Shelters.” 9 
+ 
+8 “Shelter” refers to a fully functional evacu ation shelter. Emergency shelters may have limited supplies and services 
+and are meant to assist in immediate lifesaving and sustaining care until conditions stabilize and full services can be 
+established at shelter locations. 
+9 Available at https://www.fema.gov/media-library/assets/documents/26441. 
+
+[PDF PAGE 14]
+Planning Considerations: Evacuation and Shelter-In-Place 
+10 
+Critical Considerations 
+Communities and emergency managers weigh many considerations as they integrate evacuation 
+and shelter-in-place protective actions into their emergency plans. Communities must develop 
+operational-level plans based on existing capabilities and revise those plans, and the specific 
+annexes for evacuation and shelter-in-place, as strategic planning continues and capabilities 
+change. The following alphabetical list includes some of the complex considerations that 
+emergency managers and planning teams encounter during planning, exercises, or execution. 
+Accessibility 
+Accessible resources, or accommodations and modifications for accessibility, ensure that 
+evacuation and re-entry operations include children and adults with access and functional needs. 
+This includes provisions for accessible dissemination of information, including evacuation and 
+shelter-in-place orders. These provisions include, but are not limited to, sign language 
+interpreters, alternative forms of communication and language translation, as well as 
+transportation and facility access.10 
+Children and Unaccompanied Minors 
+The specific needs of children and unaccompanied minors must be considered during evacuat ion 
+and shelter-in-place operations. Children and unaccompanied minors present a unique set of 
+considerations, such as logistical requirements, medical needs, shelter placement, transport, and 
+other services. Planners should work with local social services departments to develop a process 
+for reunification with a parent/guardian or for care when a parent or guardian cannot be located. 
+Contraflow Lane Reversal 
+Contraflow lane reversal alters the normal flow of traffic (typically one or more lanes in the 
+opposing direction on a controlled-access highway) to increase the flow of outbound vehicle 
+traffic during an evacuation. Contraflow operations may cause issues at jurisdictional borders if 
+the transition from contraflow lanes to normal lanes is uncoordina ted, which can significantly 
+slow the evacuation. Properly executed, contraflow requires significant resources and time, and it 
+is most applicable when an expedited large-scale evacuation is necessary. Generally, 
+coordinating contraflow takes place at the state level and requires considerable planning to avoid 
+any interference with response operations. 
+In addition to contraflow, shoulders of certain evacuation routes can be used to increase traffic 
+flow out of the evac uation area. This alternative leaves the route into an evacuation area 
+accessible for emergency services personnel to ingress the area. These shoulders must be paved 
+and wide enough to accommodate vehicles. 
+ 
+10 See additional information in Vince Taylor’s FEMA PrepTalk, at https://www.fema.gov/preptalks/taylor. 
+
+[PDF PAGE 15]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 11 
+Correctional Facilities 
+The correctional system in the U.S. is comprised of incarceration within correctional facilities 
+(e.g., jails, prisons) that detain individuals (inmates) involved in perpetrating crimes; community 
+supervision of individuals conditionally released from prison (parole); and individuals who are 
+under conditional liberty or provisional freedom (probation). 
+• Jail: A containment area for suspected offenders awaiting trial or convicted inmates awaiting 
+sentencing or potentially serving shorter sentences. Planning for protective actions for these 
+facilities usually falls under the state or local jurisdiction prosecuting these individuals. 
+• Prison: A facility to confine convicted felons. Prisons have several security classifications 
+(e.g., High, Medium, Low, and Minimum) that typically correspond to the seriousness of 
+convicted offenders’ crimes, their demonstration of intent, and their capacity to harm others 
+(such as inmates and corrections personnel) during incarceration. Planning for these facilities 
+to implement protective actions falls under Department of Corrections of a jurisdiction or 
+other governing bodies that oversee such facilities. 
+The custody and care of inmates falls under the corrections department of the local, state, or 
+Federal jurisdiction that oversees the facility. The evacuation of secure correctional faciliti es 
+requires a coordinated effort between local and state law enforcement and corrections officials, 
+publicly run and privately-operated institutions (if applicable), and Federal agencies, (e.g., 
+Department of Justice Federal Bureau of Prisons, Department of Homeland Security [DHS], 
+Bureau of Immigration and Customs Enforcement, U.S. Marshals Service). 
+Domestic/Sexual Violence Shelters 
+Domestic and sexual violence leaves long-lasting impacts on survivors. Shelter managers and 
+management teams should strive to provide additional protections for those who have already 
+survived domestic and sexual violence, as well as prevent these acts from occurring during the 
+operation of shelters with displaced evacuees. There is a potential for an increase in 
+domestic/sexual violence following a disaster. Evacuation site managers should visibly post 
+telephone numbers for local domestic violence shelters and national providers such as the 
+National Domestic Violence Hotline: 1-800-799-SAFE (1-800-799-7233), or (1-800-787-3224) 
+(TTY), and the National Human Traffic Hotline (1-888-373-7888) in emergency shelter areas. 
+In addition, individuals currently living in community domestic or sexual violence shelters may 
+need to evacuate to emergency shelters due to the impacts of a threat or hazard. T hese survivors 
+require additional precautions, particularly when handling their personally identifiable 
+information (PII), such as securing shelter registrations, not leaving client information exposed, 
+or ensuring ample room between registering shelter clients. When emergency shelter 
+management teams cannot take on this additional task, they should make alternate arrangements 
+to maintain confidentiality for these survivors. Types of safe and secure alternate housing 
+accommodations include: 
+• A physical shelter facility operated by a domestic violence program that serves victims of 
+domestic/sexual violence. 
+• A safe home provided by a victim’s family member or friend . 
+
+[PDF PAGE 16]
+Planning Considerations: Evacuation and Shelter-In-Place 
+12 
+• Other accommodations, such as a time-limited motel or hotel placement or other direct 
+placement programs providing safe housing. These accommodations should have a telephone 
+and bathroom facilities, and all doors to the accommodations should have locks. 
+To ease the burden on shelter managers, planning teams should include domestic violence shelter 
+staff in the planning process so that they can consider alternative safe and secure arrangements 
+ahead of time. Planners consider the whole community approach to planning, and partner with 
+other organizations (domestic violence centers, independent and senior living facilities) that can 
+assist with sheltering specific populations. 
+Evacuation Clearance Time 
+Evacuation clearance time is the estimated time necessary to safely evacuate people, from the 
+time an evacuation order is given until the time when either the last evacuee leaves the 
+evacuation zone (given various factors such as the type of hazard or threat, level of notice of the 
+incident, population characteristics of the area at the time, and public behavior ) or the remaining 
+population is forced to shelter -in-place due to conclusion of operations as the hazard begins to 
+impact the area. 
+Jurisdictional analysis of clearance times should include a calculation of individuals with access 
+and functional needs, spontaneous evacuees, and evacuees from other jurisdictions who may pass 
+through. Clearance time calculations should include the time required for evacuees to secure 
+their homes and prepare to leave, the time spent by all vehicles traveling along an evacuation 
+route network, and the additional time spent on the road caused by traffic, road congestion, 
+bridge closures, and other unexpected complications. 
+Fuel Management 
+A large-scale evacuation places increased stress on a variety of resources. Fuel management is a 
+crucial challenge that jurisdictions should address, particularly in planning evacuation routes. 
+Jurisdictions should: 
+• Identify evacuation routes that have ample businesses in pass-through communities to 
+provide fuel to evacuees. 
+• Make an effort to ensure that secondary and tertiary evacuation routes are also well supplied 
+with fuel resources. 
+• Work with their private sector partners to identify additional fuel supplies and coordinate 
+additional deliveries to providers along evacuation routes. 
+• Partner with fuel trade organizations to encourage station owners to install generators along 
+evacuation routes in the case of power loss, as fuel will remain inaccessible without power. 
+• Identify the locations of alternative fuel vehicle sites along mapped routes and communicate 
+these alternative fuel sites as part of the evacuation response. 
+Failure to manage fuel supplies ahead of time lead s to fuel shortages, which impact traffic 
+patterns and slow down evacuation operations. Jurisdictions should plan to retain a supply of fuel 
+to support evacuation operations, first responder operations, and evacuation, if necessary. 
+
+[PDF PAGE 17]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 13 
+Homeless Populations 
+People who are experiencing homelessness11 have limited resources to evacuate, stockpile food, 
+store medications, and shelter-in-place. Messages communicated through mainstream media 
+sources may not reach them, because many of these individuals have no access to radio, 
+television, or the internet. Some may be illiterate or have limited English proficiency, so written 
+communication may also be ineffective with this population. The most common form of 
+communication in this population is word -of-mouth, leading to the spread of inaccurate rumors 
+and misunderstandings that may have serious consequences during an emergency. Some 
+homeless people have access to cell phones. However, their use of this technology is based on 
+limited minutes and access to charging. 
+To communicate disasters to people without homes, jurisdictions should include homeless 
+service providers in emergency notification systems to help create an effective communication 
+plan that includes accessible messaging. Service providers can quickly and effectively 
+communicate the emergency to homeless individuals concentrated near their facilities and deploy 
+outreach teams to notify other homeless people dispersed throughout the community. Outreach 
+teams making notifications can also transport people to shelters or designated pickup points for 
+evacuation. Outreach teams employed by homeless service providers are familiar with homeless 
+communities, have established trust and credibility and are better able to negotiate with people 
+who might resist evacuation efforts. Jurisdictions should coordinate outreach teams, drivers, and 
+accessible vehicles in advance, and assign them to specific designations as soon as possible to 
+prevent delays during a potentially small window of time. 
+Many individuals, including the homeless population, may have difficulties interacting with a 
+mainstream shelter population, and the stressful and (relatively) intimate setting of a disaster 
+shelter may amplify the situation. To aid in alleviating tension among shelter occupants, shelter 
+staff should include specialists trained in assisting homeless persons. Jurisdictions should also 
+consider shelter staff training for specific needs of the homeless population in their plans.12 
+Communities should also consider the housing needs of homeless individuals after a disaster. 
+Many areas inhabited by homeless people may not be suitable for living after a disaster. Despite 
+the transient nature of homelessness, many homeless people want to return to their communities. 
+Further information is available through the National Health Care fo r the Homeless Council at 
+http://www.nhchc.org. 
+ 
+11 “Homeless person” is defined as an individual without permanent housing who may live on the streets; stay in a 
+shelter, mission, single-room-occupancy facility, abandoned building, or vehicle; or in any other unstable or non-
+permanent situation. 
+12 Department of Housing and Urban Development . Resources for Homeless Population. 
+https://www.hudexchange.info/homelessness-assistance/disasters/. 
+
+[PDF PAGE 18]
+Planning Considerations: Evacuation and Shelter-In-Place 
+14 
+Hospitals and Residential Medical Facilities 
+Hospitals and residential medical facilities, including hospice centers, mental health facilities, 
+nursing homes, and other assisted living facilities, face unique resource requirements and 
+challenges to performing protective actions. During times of disaster, these facilities should: 
+• Engage with jurisdictions and other partner facilities to streamline, coordinate, and reduce the 
+burden of Health Insurance Portability and Accountability Act (HIPAA) restrictions.13 
+• Coordinate evacuations with partner facilities that provide similar services and are located 
+outside of the impact zone to transfer patients to open spaces within those partner facilities. 
+Jurisdictions should engage hospitals and residential medical facilities in the planning 
+process to better assess the needs and capabilities of the facilities within the jurisdictions, and 
+to coordinate use and sharing of resources. 
+• Ensure that patients being evacuated have supplies of medical equipment and medicine that 
+can last through transportation to a new facility and until the new facility can complete intake 
+of the patient and properly integrate the patient’s care plan into their system and operation. 
+In instances where these facilities must shelter-in-place, planning for unforeseen threats and 
+hazards is crucial. Hospitals and residential medical facilities should continue to plan and 
+coordinate transportation needs with jurisdictions after shelter-in-place operations end, or if 
+subsequent evacuations are needed. Facilities should establish internal plans to care for patients 
+and staff over the course of an incident requiring shelter -in-place. These plans should: 
+• Ensure that the facility has sufficient resources such as medical supplies , food and potable 
+water both for drinking and for procedures such as dialysis as well as sanitation procedures 
+of personnel and equipment. 
+• Assess needs as if they will have no utilities for a minimum of 72 hours. These facilities 
+should ensure that a steady power supply is available, and the appropriate fuel can be 
+obtained to keep the temporary power supply online. Facilities should coordinate with 
+jurisdictions to ensure generators in place are accessible and meet the needs of the facility or 
+that the hospital power infrastructure can be compatible with jurisdiction-provided generators 
+if none are currently in place at the facility. 
+Household Pets and Service Animals 
+Sixty-five percent (65%) of American households have pets, which includes a variety of animal 
+species,14 and populations who are evacuating should bring their animals with them. If they are 
+not able to bring their animals, a significant percentage of the population may not leave . During 
+evacuation and re-entry operations, animals require tracking, embarkation, transportation, 
+debarkation, care, feeding, husbandry/waste removal, veterinary support, and sheltering support. 
+ 
+13 Department of Health and Human Services . Health Information Privacy: Emergency Situations: Preparedness, 
+Planning and Response. https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-
+preparedness/index.html. 
+14 American Pet Products Association. Pet Industry Market Size and Ownership Statistics. 
+http://americanpetproducts.org/press_industrytrends.asp. 
+
+[PDF PAGE 19]
+Planning Considerations: Evacuation and Shelter-In-Place 
+ 15 
+When feasible, animals should remain with their owners during transport. By law, service 
+animals—and, in some cases, assistance animals—must always remain with the owner. 
+Trained personnel should work to assess the animal population requiring evacuation to determine 
+transportation, mass care, and additional support requirements. Regardless of disaster type, 
+jurisdictions should have plans in place for the safe and effective evacuation and sheltering of 
+not just common pets, but all types of animals within the impacted communit ies. Failure to have 
+and communicate such plans creates preventable risks for animals, animal owners and caretakers, 
+the public, and first responders. Previous disasters have demonstrated that co -evacuating (and co-
+sheltering, where possible) people with their animals, including household pets and service and 
+assistance animals, increases compliance with evacuation orders, increases survivor resilience, 
+and decreases re-entry to unsafe areas motivated by animal rescue. 15 
+Animals, including service and assistance animals and household pets that co -evacuate with 
+owners, should be in good health and vaccinated. Otherwise, the animals could spread disease 
+among themselves, or to evacuees (e.g., from bites). Ensuring the good health of animals before 
+a disaster occurs should be a priority for animal owners, and jurisdictions should communicate 
+this priority in public information campaigns for disaster readiness. Also, shelter personnel 
+should have a plan in place regarding verifying vaccination/health records, such as 
+recommending that families carry animal vaccination recor ds with them during the disaster. 
+During the co-evacuation process, owners should also provide sufficient means, such as leashes 
+and crates, to control their pets, service, or assistance animals. Jurisdictions should consider 
+other circumstances that involve animals and have separate areas for evacuees with unvaccinated 
+animals or evacuees that are allergic to certain animals. 
+Individuals with Access and Functional Needs 
+Individuals with access and functional needs may include, but are not limited to, individuals with 
+disabilities; older adults; individuals who are blind, deaf, hard of hearing, have speech and 
+language disabilities, mental health conditions, learning, intellectual, and developmental 
+disabilities, and chemical sensitivities; unaccompanied minors; individuals with limited English 
+proficiency (LEP); limited access to transportation; and/or limited access to financial resources 
+to prepare for, respond to, and recover from an emergency. Through times of disaster, 
+jurisdictions should still comply with regulations and laws regulating the care of individuals with 
+access and functional needs, such as the Americans with Disabilities Act (ADA), as well as other 
+Federal, state, and local laws and statutes. 
+Populations evacuating an impact area and arriving in a host area may include some individuals 
+with health or medical needs who normally require home- and community-based services. 
+Conditions that may have been under control prior to evacuation may be exacerbated, and health 
+conditions may degrade during the evacuation process. Evacuees with such needs may require 
+ongoing health support in host areas, and jurisdictions should ensure evacuees obtain that 
+support. 
+ 
+15 Animals include household pets, service and assistance animals, working dogs, agricultural animals/livestock, 
+exotic animals, and animals housed in shelters or rescue organizations. 
+
+[PDF PAGE 20]
+Planning Considerations: Evacuation and Shelter-In-Place 
+16 
+Most relevant medical support and assessment follows the same procedures, whether it takes 
+place in the impact area prior to the transport of evacuees or when they arrive in host areas. 
+Assistance may be required to connect/reestablish evacuees with home- and community-based 
+service providers. During the evacuation process, monitoring these evacuees will help identify if 
+conditions worsen and if additional medical assistance and supplies are necessary. Jurisdictions 
+should plan for individuals with access and functional needs in all aspects that will impact them 
+(e.g., transportation, evacuation, sheltering). 
+Legal Requirements and Authorities 
+Evacuation and shelter-in-place planning is a core element of all -hazards emergency 
+preparedness, and one of the first s teps is to review and understand the extent of emergency 
+powers granted to and within a jurisdiction. In many cases, the authority to issue evacuation and 
+shelter-in-place orders exists in state, local, tribal, or territorial laws, statutes, regulations, 
+delegations of power, memoranda of understanding/memoranda of agreement (MOUs/MOAs), 
+policies, and other guidance documentation. Planners should review all legal requirements and 
+authorities during the planning sessions. Since these legal requirements vary by jurisdiction, they 
+are not included in this document. Check with your jurisdictions’ legal authorities to determine 
+the legal requirements in a specific jurisdiction, to confirm what authorities exist in your 
+jurisdiction, and the limitations on tho se authorities. 
+Mass Care & Sheltering Services 
+As part of the evacuation process, mass care planning is vital. While not the focus of this 
+document, jurisdictions must consider short -term and long -term mass care to be able to stand up 
+operations quickly to provide essential services for evacuees. 
+Initial evacuee support consists primarily of mass care in respite and congregate evacuee 
+shelters. However, once immediate life safety considerations have subsided, some evacuees may 
+continue to need shelters or accessible housing for a longer duration. This may include 
+non-congregate sheltering (e.g., hotels, motels), interim housing (e.g., apartments, mobile homes, 
+detached homes), or alternative housing solutions ( peer-to-peer market). Many disaster survivors 
+in less-impacted areas may be able to return to their homes quickly after the disaster, if not 
+immediately. Disaster survivors whose homes suffered minor damage may be able to stay in 
+their homes as they undergo repairs. However, evacuees using their own resources to meet their 
+emergency need for shelter (e.g., staying in a motel, with friends or family) are often able to 
+maintain their shelter for only a brief time before their resources are exhausted, and they may 
+then turn to other available mass care/or non-mass care shelter options. 
+Population Assessment 
+Pre-incident population information may be incomplete, requiring an immediate assessment of 
+the evacuee population to identify specific individual or family group needs (e.g., health/medical, 
+mental, functional, social services, sociocultura

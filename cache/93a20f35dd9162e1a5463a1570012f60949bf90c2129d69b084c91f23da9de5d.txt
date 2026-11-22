@@ -1,0 +1,1312 @@
+[PDF PAGE 1]
+NSF/CEE-81079
+PB82189291
+11111111111111111111111//111111
+EARTHQUAKE DESIGN CRITERIA FOR
+WATER SUPPLY AND
+WASTEWATER SYSTEMS
+Final Report
+Grant No. AEN 77-22617
+Prepared For:
+National Science Foundation
+1890 G Street, N.W.
+Washington, D.C. 20550
+Project Officer
+Dr. William Hakala
+September 1~8l
+REPRODUCED BY: ~
+rtment of Commerce
+U.9. Depa I Iinfonnation service
+NatiO~~rir::~J,aVirglnla 22161
+Environmental Quality Systems, Inc.
+1160 Rockville Pike, Suite 202
+Rockville, Maryland 20852
+
+[PDF PAGE 3]
+·0272 -101
+REPORT DOCUMENTATION IL AE!'ORT NO.
+PAGE NSFjCEE-81079
+•• TItle anll 1u1ll"1.
+Earthquake Design Criteria for Water Supply and Wastewater
+Systems, 1981 Final Report
+7. Autho'h)
+None listed
+t ....rfo....l... O...";,.tlo,, N......"d Add....
+Environmental Quality Systems, Inc.
+1160 Rockville Pike, Suite 202
+Rockville, MD 20852
+.. Reclpl.nt'. Accft"o" No.
+PB12 18929 'I
+L Report 081,
+September 1981
+..
+.. ...rfo....'... 0 ...,,1ut'- A.pt. No.
+1.0. ProjectlT..klWorIr. Unit No.
+n. ContreetlC) or GrentlG) No.
+It)
+IG) AEN7722617
+----------- - -.. . -- ---------------1
+U. 511O"UI.i"l o..."lution N......nd Add...,
+W. Ha ka1a, CEE
+Directorate for Engineering (ENG)
+,National Science Foundation
+WashinQton. DC ·20550
+IS- SUppl.....nt• .,. Not"
+Submitted by: Communications Program (OPRM)
+National Science Foundation
+Washington, DC 20550------
+U. Type of R.lIOrt & Pe.iod e-..d
+Fi na 1
+I •.
+IS. Abstract ILlmlt: 200 _ntl)
+Seismic phenomena are des~ribed and a procedure is given to ensure that water and
+sewage systems are functioning properly in the aftermath of an earthquake. Large
+displacements, ground failure, and seismic shaking of pipes are shown to be the three
+major causes of pipeline damage. The effects of different soil media in relation to
+seismic shaking and damage of pipeline failures are examined. Potential damage to
+water and sewage treatment facilities is explored and basic failure modes are viewed
+in relation to treatment plant facilities. The need for site planning and design
+strategies to decrease the seismic vulnerability of water and wastewater systems is
+emphasized.- Criteria are given for determining seismic induced loadings on water
+supply and sewage facilities. Emergency response and planning for earthquakes are
+discussed. The report is intended to provide information to water and waste system
+managers, designers, and planners.
+17. Docum."t An.lysi, .0 Dncripto,.
+Earthquakes
+Soils
+Water
+Water pipelines
+Earthquake resistant structures
+Waste water
+Water treatment
+Water poll ut i on
+Sewage
+Damage
+Des i gn criteria
+b. Id."tlfi.rs/Ope,,·Ended T.....'
+L.W. Weinberger, jPI
+Ground motion
+Environmental effects
+Man-environment interactions
+c. COSATI Fi.ld/Group
+IL Ay.n.bilit, St.t.....nt
+NTIS
+•
+I
+I'. SecuritJ CI... (Thi. R.IIO") II. No. ot p...,
+1-- --1_.....L..4-'~.:::..:<t~ _
+ZD. Securttr Clu, (Thi......) 22. Price
+($" ANSI-z.1UI) OPTIONAL rOIlM 272 (4-77)
+(Fo I' NTIS-llS)
+Dep.rt nt of Comm.rc.
+
+[PDF PAGE 5]
+• ·4__• _._""'-"-_,. __ ~__-\__._:.._~• ....:.. •• ~_~~, ~._
+CONTENTS
+--~-_..... - ._--"""7' ...- ...... ~--------- --
+" .
+Figures , . , , .
+Tables , .
+Acknowledgement & Disclaimer.•••••.•••
+I. Introduction •...••.••.
+A. Background. . . " • • • •
+B. Basic Approach • . • • •
+C. Report Organization. • • .
+II. Physical t~anifestations 0' Earthquakes.
+A. Causes of' Earthquakes. • . . . . . ••.
+B. t·1easurement.... " • . .••.•.
+C. Mot ions. . . . . . . . . . . . . . . . . . .
+D. Surface Faulting • • • . • .. .. . .•.
+E. Ground Failure. . • . • • • •.••.
+III. Functional Analysis of W~tur and Sewage Systems. . •.••
+A. Performance Goals. • • • • . ••.
+B. Functional Analysis ••••..••.
+IV. Potential Damage ••.•.••.....
+A. Source and Discharge Facilities..
+B. Transmission, Distribution and Collection Systems.
+C. Treatment Systems. • • . . . . •. . . .. .. • • .
+D. Storage Tanks. . . • . • • .....•...
+V. System Siting, Planning :lnll Conceptual Design.
+A. Seismic Resistant SitIng Considerations ...
+B. Conceptual Design of Specifi c Faci 1i ties ..
+C. Seismic Risk Analysis Mld Lifeline Network
+System Reliability ••••...••.•.
+VI. Design Considerations ••.••..•••..•.
+A. Source/Discharge F~c11ities •.•...•.
+B. Transmission, Distribution and Collection Systems.
+C. Treatment Plant, Pump Stations and Emergency1. ,Power Supp les • • • • • • • • • . • . • .
+D. Storage Tanks. • • • • • • . . . . . . . .
+E. Costs of Seismic Re~1~tQnt Construction•....••••
+iii
+viii
+.X
+1-1
+1-1
+1-3 '
+1-7
+II-I
+11-2
+11-4
+11-7
+11-9
+11:"10
+111-1
+111-3
+111-9
+IV-l
+IV-5
+IV-I0
+IV-47
+IV-68
+V-I
+V-2
+V-24
+V-37
+VI-l
+VI-3
+VI-12
+VI-36
+VI-1l4
+VI-122
+
+[PDF PAGE 7]
+.' __ .>_. __• ._._._> .""_••_~ ~., __ .~ ~ ... •. ,_.~ __ • ~_. .•_, -'--- _._ .... __.• ,,_"__ . __. __.__ ' __~"' ~: __~=--_~ ..,_,> ••_.. _ _ _ L,
+CONTENTS (continued)
+References . . ~ . . . . . . . .
+VI I.
+VIII.
+Criteria for Determination of Seismic Induced
+Loadings on Water Supply and Sewage Facilities.
+A. General Design Approach ...•..
+B. General Equation Development. . . .. . ••.
+C. Typical Design, Horizontal Forces .•.....
+D. Horizontal Forces for Special Systems
+E. Vertical Forces ••.••.•..•...
+F. Combination of Earthquake Load Effects.
+G. Combination of Maximum Earthquake Load Effects
+With Effects of Other Loads . . •..
+H. Design Examples • . . . . . . . .••
+Emergency RepQDse and Planning.
+A. Emergency Response. . • • • .
+B. Emergency Planning....
+ii
+VII-l
+VII-3
+VII-7
+VII-ll
+VII-25
+VII-57
+VII-59
+VII-61
+VII-63
+VII I-I
+VI 1I-2
+VI 1I-39
+R-l
+
+[PDF PAGE 9]
+..- ~ -,,--..... ~_.-......- .~~--,-.._---_. - ._"--~ _.~--.- ----~------_. - _. -- .- --~ -" -".- -~-~ ._._. _:.. - '_._--;_. -~,_..__ ..... ~_._- -~-'.- --~~
+FIGURES
+Number
+II-I
+III-I
+III-2
+Lines of major tectonic plate interaction .•
+Functional staging diagram - water supply .
+Functional staging diagram- sewage disposal.
+II-3
+II 1-10
+III-ll
+IV-I Example of pipeline failure at a fault
+crossing. ' . IV-12
+IV-2
+IV-3
+IV-4
+IV-5
+IV-6
+IV-7
+IV-8
+IV-9
+IV-I0
+V-I
+V-2
+V-3
+V-4
+Simplified illustration of pipelines parallel
+and normal to direction of wave propagation
+Simplified schematic illustration of bending
+and axial strain due to earthquake induced
+ground movement . • . . • . • . • . . . . .
+Maximum joint displacement and rotation of a
+segmented pipeline.•..•..•.•....
+Failure ratio of water pipes and ground shaking
+i ntens i ty . . . • . . . • . . . • .
+Dipping layer showing reasonance zone ....
+Deformations to right angle and tee junctions .
+Typical I-inch service connection ..
+Typical stream crossing pipe failure.
+Rimac River sedimentation tank damage
+Settlement in the unsaturated compacted fill
+with a dry density of 122 PCF when subjected
+to various earthquakes...•••.•.••
+Ranges .of grain size accumulation curves of
+sands which has possibility of liquefaction
+Relationship between standard penetration
+resistance, relative density and effective
+. overburden pressure . • • . • ~ .
+Range of values of rd for different soil
+profiles .
+iii
+IV-I9
+IV-21
+IV-22
+IV-29
+IV-34
+IV-35
+IV-36
+IV-46
+.IV-53
+V-6
+V-IO
+V-I2
+V-IS
+
+[PDF PAGE 11]
+.- .. --- --~" _........ - ..._--'---_:...._.._- "-." _._--.~._._-~ . _.. _- --.
+FIGURES (continued)
+Number
+V-5
+V-6
+VI-l
+VI-2
+VI-3
+VI-4
+VI-5
+VI-6
+VI-7
+VI-8
+VI-9
+VI-I0
+VI-ll
+VI-12
+VI-13
+VI-14
+VI-IS
+VI-16
+Correlation between stress ratio causing
+liquefaction in the field and penetration
+resistance of sand ..•••••
+Distribution network variations..•••.
+, Typical restrained push-on joint to permit
+greater axial displacement •...
+Restrained expansion connection.••
+Cross section of manhole sleeve..
+Manhole pipe connections .....•
+Retaining wall pipe penetration~
+Flexible connection installations for tees
+and bends '...•..
+Flexible coupling installation for bends
+with thrust block•...••.••..
+Flexible coupling installation for tees
+with thrust block ...•.••.•••
+Flexible coupling installation between non­
+homogeneous soil strata........•
+Attachment of pipes to abutments for pipe
+bridges .•.....•.•.•.....
+Failure of a pipeline due to fault displacement.
+Schematic diagram of pipeline design to with­
+stand fault movement ••••••••.
+Encasement of a pipeline in a tunnel to
+protect against damage caused by fault
+movement . . . . • • • • • • • • • . . . • . . . .
+Range of soil grain sizes suitable for
+compaction by vibroflotation •
+Rigid frame joint reinforcing.
+Channel or pipe offsets.••••
+iv
+V-16
+V-28
+VI-19
+VI-19
+VI-21
+VI-22
+VI-23
+VI-24
+VI-25
+VI-26
+VI-27
+VI-3D
+VI-31
+VI-31
+VI-32
+VI-42
+VI-47
+VI-51
+
+[PDF PAGE 13]
+._- .-- _~ L --'._.--7-'-'~----_.'--- - -~-.- - ..--_
+FIGURES (continued)
+Number
+VI-17
+VI-18
+VI-19
+VI-20
+VI-21
+VI-22
+. VI-23
+. VI-24
+VI-25
+VI-26
+VI-27
+VI-28
+VI-29
+VI-3D'
+VI-31
+VI-32
+VI-33
+VI-34
+VI-35
+VI-36
+Vl-37
+VI-38
+Flexible joints •••.
+Rigid seismic joint.
+Flexible pipe wall penetrations
+Concrete embedment.
+Lock-out device •..
+Equipment restrained by resilient pads or
+neoprene isolators•••••.••...
+Restraining device for lateral loads only .
+Restraining devices for lateral and
+vertical loads .
+Snubber with typical installations..
+Equipment restrained by snubbers ..
+Seismic joint conduit crossing.•
+Emergency power supply battery set.
+Counter top item attachment with
+elastic straps..•...•...
+Rigid counter top equipment attachment.
+Gas cylinder installation •.••...
+. Acceptable seismic details for sway bracing
+Hechani cal joint.
+Sleeve joints •
+Rubber bellows.
+Metal bellows joint.
+Ball and socket joint.
+Schematic of three ball and socket joints
+used in series....•...•••••
+v
+Page
+VI-53
+. VI-55
+. VI-56
+VI-66
+VI-68
+VI-68
+VI-69
+VI-69
+VI-70
+VI-71
+VI-74
+VI-86
+VI-89
+VI-gO
+VI-92
+VI-IOO
+VI-I03
+VI-I03
+VI-I05
+VI-I05
+VI-IDS
+VI-I06
+. \
+
+[PDF PAGE 14]
+~~_._ ... ~- .. _-,--...---~~_. __.__......... _ ......:,=,,--..-.-_----..... ---,_.- .. -I....~"--~-'-" ........ _--....-..... ~,.,--,._~....._,-,----_:.... "__ ~. • _
+FIGURES (continued)
+Number
+VI-39
+VI-40
+VI-41
+VI-42
+VI-43
+VI-44
+VI-45
+VI-46
+Schematic of pipe loops .....•..
+Lateral pipe movement when using three
+flexible joints i~ series..
+Grouted pipe wall penetration .
+Flexible modular wall penetration seal
+Method for strengt~ening the base for a
+surface mounted tank • • • . . . . . .
+Roof-to-shell connections for storage tanks ..
+Details of anchor bolt design ..•.
+Tank hold down with rock bolt detail used
+by EBMUD • • . . . . . ~ . • . • •
+Page
+VI-I07
+VI-lOg
+VI-HI
+VI-lli
+VI-1l5
+VI-1l6
+VI-U8
+VI-1l9
+VI-47
+VI-48
+VII D-1
+VII-I
+VII-2
+VII-3
+VII-4
+VII D-2
+Schematics of a flexible restrained joint
+for pipe connections to storage tanks•.
+Cost increase vs. base acceleration.•
+Degrees of freedom ~ . . • . . . . • . .
+Contour map for seismic coefficient Aa
+Contour map for seismic coefficient Aa .
+Contour map for seismic coefficient Av .
+Contour map for seismic coefficient Av
+Comparison of strength and working
+stress methods . . . . . . . . .
+. '. .
+VI-I21
+VI-I24
+VII-3
+VII-15
+VII-I6
+VII-17·
+VII-I8
+VII-24
+VII-5
+VII-6
+VII-7
+Curves for obtaining factors WI/WT and \~2/WT for ratio D/H or L/H .. ~ .•..•.....
+Curves for obtaining factors XI/H and
+X2/H for ratio D/H or L/H. . . . • .• • •..•
+Curves for obtaining factor Kp for ratio
+D/H or L/H . . •. . . . . . . . • • . . • . . . .
+vi
+VII-28
+VII-3D
+VII-3I
+
+[PDF PAGE 15]
+_ _._ , ~_• ..l._.__o<...... "~_..~__~._:.......~ ., ... --' . __-___. '.~,-.•- .~_ ---... :-.._,~_~ •. , "'""___" .. __ '"_
+FIGURES (continued)
+Number
+VII 0-10 Tank on ground design example ..
+VII 0-12 Clarifier bridge design example.
+VII 0-13 Retaining wall design example.
+VIII-l Sample worksheet for forecasting
+water reserves and water flows.
+VII-8
+VII 0-3
+VII 0-4
+VII-9
+VII 0-5
+VII 0-6
+VII 0-7
+VII 0-8
+VII 0-9
+VII 0-11
+VIII-2
+VI II-3
+VII 1-4
+VI II-5
+VIII-6
+. VIII-7
+VI II-8
+Curves for obtaining factors X1/H and XZ/H for rati0 O/H or L/H . . .. . .
+Housner tank model .••.•..
+Levels of design accelerations..
+Added weight representing hydrodynamic
+effects... . • • •
+P-delta effect. ~ .•••••....•
+Chlorine tank scale design example..
+Water tank on saddle design example
+End-mounted equipment (chemical
+feeder) design example. ' ..•..
+Elevated water tank design example.
+Suspended pipe design example.
+Typical full circle repair clamp.
+Typical bell joint clamp.
+Dresser Styl e 38 coupl ing .
+Vulnerability analysis worksheet .•.
+Emergency operations organization:
+wastewater treatment plant. • . •
+Example of industrial waste monitoring
+system. . . . . . . . . . . . . . . .
+Sample mutual aid information fact sheet.
+vii
+. .'
+VII-33
+VII-35
+VII-36
+VII-45
+. VII-58
+VII-54
+VII-57
+VII-70
+VII-74
+VII-78
+VII-85
+VII-90
+VII-95
+VIII-15
+VIII-32
+VIII-33
+VIII-34
+VI II-4Z
+VII 1-48
+VIII-51
+VIII-63
+
+[PDF PAGE 16]
+TABLES
+Number
+II-I
+III-I
+111-2
+IV-l
+IV-2
+IV-3
+IV-4
+IV-5
+IV-6
+IV-7
+IV-8
+IV-9
+IV-I0
+V-I
+V-2
+Modified'Mercalli Intensity Scale.
+Functional Analysis of Water Treatment
+With Listing and Description of Associated
+Process Equipment ., ••.•.••....•
+Functional Analysis of Sewage Treatment
+With Listing and Description of Associated
+Process Equipment . • • . . • ••• • • • . .
+Characteristics of Selected Major Earthquakes .
+Damages to the Water System of Los Angeles
+Department of Water and Power (LADWP)
+Following the 1971 San Fernando Earthquake.
+Damages to'Water System of Tokyo Following
+the 1923 Kanto Earthquake . . . . . . . . . .
+J
+Damages to the Water Distribution System of
+San Fernando Following the 1971 San Fernando
+Earthquake. • . . . . . . • . . . . . . . • .
+Damage to Sewer Systems of Los Angeles and
+San Fernando Following the 1971 San Fernando
+Earthquake. • • . • • • • • . . . . . . . . .
+Damages to the Water System of Sendai, Japan
+Following the 1978 Miyagiken-Oki Earthquake
+Water Main Damages: Santa Rosa Earthquakes
+of 1969 . . . . . .r . . . . . . . . . . .
+Damages to the Water System of Managua,
+Nicaragua Following the, 1972 Earthquake.
+Damage to Pumping Stations in ,Sendai.' •..
+Tank Properti es and Damage,' Caused by Ground
+Shaking Following the 1964 Alaska Earthquake.
+General Geologic Information .••••.
+Description of Local "Site" Geology •.
+viii
+Page
+II-5
+III-15
+III-19
+IV-2
+IV-14
+IV-25
+IV-26
+IV-27
+IV-33
+IV-41
+IV-44
+IV-62
+IV-74
+V-2I
+V-22
+
+[PDF PAGE 17]
+_ . __ ._._~~~~~_~_ ... _--.~_~ ~_ ....---._..~_., .• _,_~_.~ . ~ __,"_.__.~_,__~.•, ~. __~ .._ •.._,,",~_. ..... __.;..'a......~-_._..., ,~ . _
+'"
+TABLES (continued)
+Number
+VI-I
+VI-2
+VI-3
+VI-4
+VI-5
+VII-I
+VII-2
+Major Water and Sewer Systems Hydraulic
+Structures and Vaults .
+Recommended Working Stresses for All
+Strengths of Concrete in Sanitary
+Engineering ~tructures Which Must be
+Watertight and Resistant to Chemicals.
+Recommended Stresses at Service Load for
+Recommended Maximum I2-Inch Spacing of
+Reinforcing Bars in Sanitary Structures.
+Recommended Expansion Widths, Inches ..
+Maximum Pipe Brace Lengths ..'••..
+Seismic Coefficient for Strength Design .
+Seismic Coefficient for Working Stress Design
+ix
+VI-38
+VI-49
+'VI-50
+VI-52
+VI-99
+VII-l1
+VII-13
+
+[PDF PAGE 19]
+- ACKNOWLEDGEMENT AND DISCLAIMER
+All of the ma~erials presented in this report were developed with the
+financial support of the National Science Foundation Grant PFR 77-22617;
+However, any opinions., findings,- conclusions, or recommendations expressed
+herein are those of the authors and do_not necessarily reflect the views of
+the Foundation.
+This project was performed primarily-by the following EQSI technical
+personnel:
+Leon W. W~inberger, Sc.D., P.E., Principal Investigator
+Robert Waller"Ph.D., -Project Manager
+Edward J. Martin, Ph. D." P. E., Sentor Program Manager
+.'Donald B. Ballantyne, P._E., Senior Project Engineer
+Joanne S. Colt, Project Engineer
+David Z. Zimomra, Project Engineer
+Malinda Copeland, Project Engineer
+Significant technical contributions in the area of design criteria were
+provided by S.B. Barnes and Associates, Consulting Structural Engineers,
+Los Angeles, California, under, the direction of ~larkson W. Pinkham, P.E.,
+President.
+This report is based on information gathered from a large number of
+sourc,es. In many cases, information was supplied through personal contacts
+with researchers or practitioners in the field. While their 'number is too
+great for listing, those individuals who contributed to this effort receive
+the gratitude and acknowledgement of the authors. Acknowledgement is also
+extended to the review committee for this project for their helpful comments
+and suggestions.
+x
+
+[PDF PAGE 21]
+,-"-' ,- ~-,,, .. .._. -,,- 0·· __· __-:- """--__.-0 _
+Special thanks is extended to Sharon Fried. who typed this manuscript
+through its several draft ~tages with exemplary efficiency and good nature.
+xi
+
+[PDF PAGE 23]
+CHAPTER I
+INTRODUCTION
+A. BACKGROUND
+Earthquakes are one of the most violent foms of natural disasters ex­
+perienced on earth. The energy released is capable of causing massive des­
+truction to unprepared corrununities. In the U.S., most earthquake activity is
+located in the far Western states. However, there are many other areas that
+!
+have experienced strong destructive seismic events, ,although at a' lower
+frequency of occurrence.'
+Over the past few decades, our level of knowledge about the causes and
+effects of earthquakes has expanded considerably. Similarly, we have developed
+new and increasingly more effective means of providing protection for life and
+property. The great majority of emphasis in seismic protection has been
+placed on bui.ldings, dams and bridges. It has become increasingly apparent,
+however, that there are other systems whose protection is necessary for public
+safety and health, reduction in destruction of property, and maintenance of
+life style. These systems, known collectively as lifelines, are generally
+characterized by large collection or distribution networks. They include
+water supply, sewage disposal, gas and electric utilities, gas and oil pipe-
+lines, transportation facilities, and communications.
+This report is concerned with seismic protection of water and sewage
+systems. Experience in past earthquakes has shown that disruption of these
+services can result in significant secondary losses from earthquakes (e.g.,
+fire, disease and loss of industrial prOductivity). Wa~er and sewage systems.
+can be roughly divided into two major subdivisions: pipeline networks (dis­
+tribution of water or collection of sewage) and treatment facilities. Over
+1-1
+
+[PDF PAGE 24]
+the past ten years, an increasing amount of work has been done on pipeline
+analysis, mainly on a theoretical basis. However, very little effort has
+been expended toward strengthening the design of treatment facilities. In
+an effort to partially fill this void, this project places major emphasis on
+treatment facilities. While protection of pipelines is discussed, the reader
+will be referred to reports of other work for more detailed analyses.
+1-2
+
+[PDF PAGE 25]
+B. BASIC APPROACH
+The purpose of this project was to develop information and procedures
+that would be directly useful in providing seismic protection for water and
+sewage systems. The report is intended to be used by managers, planriers and
+designers of water and waste utilities.
+The information presented is based upon four general sources:
+1. Reports of earthquake damage to water, sewage or related facilities
+(e.g., industrial plants)
+2. Theoretical analyses of the response/of related equipment to seismic
+motion.
+3. Information developed both in the u.s. and other countries on general
+design procedures (incl uding the nuclear power industry}.
+4. Current design approaches for non-lifeline systems, including exist­
+ing and proposed codes.
+A significant portion of this project involved the collection and inter­
+pretation of data from past earthquakes. This activity indicated that with
+only a few exceptions, relatively little attention has been paid to investi­
+gating damages to water and. sewer systems as compared to conventional struc­
+tures. This could be due to a variety of reasons:
+1. Most earthquake reconnaissance teams are composed of geologists and
+structural engineers with little interest in water and waste systems.
+2. Most Il earthquake engineers" are unfamiliar with water and waste sys­
+tems and, therefore, are not aware of-the significance of various
+damage modes.
+3. Typically, damage identification to pipeline systems may not be com­
+pleted months after the earthquake. Also, the damage surveys are
+1-3
+
+[PDF PAGE 26]
+usually performed by utility personnel with no i-ncentive to report
+their findings to the earthquake engineering community.
+4. In recent years, earthquake damage to water and sewer systems has
+not had dramatic results (i.e., highly publicized). For example,
+with the exceptjon of the 1906 San Francisco earthquake (fires),
+no deaths in the U.S. have beeri attributed to water-and sewer system
+damage. As will be seen in this report, water and sewer system
+damage can be quite extensive. The lack of recent instances of
+IIdramatic results" may be more a matter of luck than anything else.
+Two basic types of design information were developed in this project:
+design criteria and design considerations. At the present time, there are
+no seismic de~ign codes which were specifically designed for water and sew­
+age systems. A suggested code of design criteria has been developed for
+major structural elements in water and sewage treatment facilities, based on
+extrapolation of existing or proposed codes for buildings and other struc­
+tures. This suggested code is presented as a starting point for the develop­
+ment of a design code acceptable to both the water and sewage system utili­
+ties and the structural design community. Hopefully, the suggested code
+will generate discussion and evaluation by the various professional groups
+involved, ultimately leading to a widely accepted code.
+For other equipment, design considerations have been developed. These
+are not presented in a structural design format but rather as suggested
+techniques of good practice. They are based on lessons learned from past
+earthquake experience as well as techniques to protect water and waste systems
+for general emergency situations.
+1-4
+
+[PDF PAGE 27]
+At the present time, the state-of-the-art does not provide for"accurate
+predictions of the local occurrence and physical manifestations of earth-
+quakes and the corresponding impacts on specific water and waste systems.
+/'
+.Without a dependable means of local risk analysis, the designer and planner
+must develop alternate means of rationalizing different levels of seismic
+strengthening. On one hand, most water and waste systems in earthquake prone
+areas are probably underprotected. On the other hand, total protection of all
+equipment would be very expensive, even if technically feasible. A method is
+presented in this report that identifies critical equipment that should re­
+ceive primary attention. This is done by first identifying the overall per­
+formance goals of the system. A functional analysis is then performed to
+identify those functions and subfunctions that are required to meet performance
+goals. For each subfunction, corresponding equipment is then identified. The
+equipment is rated according to its importance in meeting overall system goals.
+This procedure al.lows a systematic review of water and sewage treatment facil­
+ity design. It provides the framework whereby the planner or designer can set
+goals tailored for a specific installation which, in turn, provide the re­
+quired input to the detailed design procedure through the functional analysis
+procedure.
+It does not appear technically or economically feasible to provide suf­
+ficient design protection to completely avoid earthquake damage to water and
+waste systems. Consequently, utilities should be PEepared to rapidly and
+effectively respond after a damaging earthquake. Information on suggested
+approaches to emergency response and planning has been developed to assist
+utility managers and planners in formulating their own plant-specific plans.
+1-5
+
+[PDF PAGE 28]
+,__ ....... "-._~"""'__ oJ
+As statedearljer, the focus of this project was on treatment facilities
+with lesser emphasis on pipeline networks, since several other projects deal­
+in depth with this subject. This report is intended to be of value to all
+water and waste utilities in earthquake prone areas. There are many different
+types of systems employing a variety of treatment unit operations and equip­
+ment in various combinations. In the interest of brevity, the most widely
+used unit operations and equipment have been emphasized: conventional water
+treatment and secondary activated sludge sewage treatment. There are many
+other types of systems that could be considered, particularly in waste treat­
+ment: land disposal, trickling filtration, lime-phosphorus removal, sewage
+filtration, ion exchange, etc. However, these other syste~s are typically
+composed of unit operations whose structural features are very similar to
+those presented herein. For example~ ion exchange "and sewage filtration are
+very similar to water filtration from a structural point of view. Lime­
+phosphorus sewage treatment is composed of chemical addition (same as water
+treatment chemical addition), coagulation and settling (same as water treat­
+ment) and recalcination (same as sewage sludge incineration). "Trickling fil­
+tration of sewage is structurally very similar. to activated sludge aeration
+(open, in-ground or above-ground tanks). Land disposal of sewage typically
+requires conventional secondary treatment, a storage lagoon and an above ground
+piping system to apply the sewage on the land. Except for the above ground
+piping system, the unit operations are the same as those covered in this re­
+port. Typically, rotating spray rigs, identical to those used in agricultural
+applications, are used. They are currently designed with "highly flexible
+joints to allow for undulations in the land. This feature, along with the
+ability to rapidly connect or replace damaged pipe and extensive on-site
+storpge, provides a -high degree of protection against lengthy system downtime.
+1-6
+
+[PDF PAGE 29]
+C. REPORT ORGANIZATION
+The intent of this report is to provide extensive, useful information to
+water and waste system managers, designers and planners. The report has been
+prepared in a "manual" format. However, it .should be recognized that the
+information t recommendations and suggestions contained herein have not been
+formally adopted by a regulatory or professional group. It is hoped that
+this report will, however, provide the stimulus to that end.
+Chapter II provides background information on the physical manifesta­
+tions of earthquakes ifI general. It is very basic .in nature; additional
+information, if desired, can be found in a number of earthquake engineering
+texts. Chapter III presents a discussion of performance goals and func­
+tional analysis. This approach is used to set the required performance
+levels for the design of equipment. Chapter IV offers a discussion of poten­
+tial damages to water and waste systems, primarily based on past experience.
+System and site planning concepts are given in Chapter V. Many problems
+can be avoided with adequate siting and layout considerations. particularly
+in regard to ground failure. Chapter VI presents design considerations
+which can provide significant protection to equipment. Design criteria for
+a variety of equipment types are given in Chapter VII. These are in the form
+of a suggested design code. The chapter includes a discussion of the back-
+ground of each criterion and provides example calculations. Chapter ,VIII ~
+presents important concepts in emergency response and planning. Most of the
+techniques discussed were successfully proven in past earthquakes. Problem
+areas that require attention are also covered.
+1-7
+.',,"
+
+[PDF PAGE 31]
+CHAPTER II
+PHYSICAL MANIFESTATIONS OF EARTHQUAKES
+The purpose of this chapter is to provide a very basic description of
+seismic phenomena for those unfamiliar with earthquakes. If seismic analysis
+is planned by such readers, it is recommended that more in-depth information
+be obtained from readily available earthquake engineering texts (001).
+11-1
+
+[PDF PAGE 32]
+A. CAUSES OF EARTHQUAKES
+The current theory for the cause of earthquakes is based on plate tec­
+tonics. The earth is composed of a solid core surrounded by a dense .liquid
+magma on which a crust floats. The crust varies in thickness and density;
+the oceanic plates are more dense and thinner than the continental plates.
+The crust is divided into a number of tectonic plates, e.g., North American,
+Pacific, etc., which are continually moved by convection currents within the
+liquid on which they float. These plates can interact in three different
+ways. Subduction occurs when a more dense ocean plate is pushed under a
+less dense continental plate. Two continental plates can push together
+such as the Indian and Asian plates forming the Himalayas. A strike slip
+occurs when two plates move past one another. This is the situation forming
+the San Andreas fault, where the Pacific plate is moving northwest and slid­
+ing by the North American plate. The relative movement between these two
+plates i~ about 1-3/4 inches per year. The most devastating earthquakes
+occur along the plate boundaries. Figure 11-1 delineates lines of major
+plate interaction.
+Intraplate earthquakes, which are caused by crustal thinning, magma im­
+placement or a spreading center, can also occur. Earthquakes in the central
+and eastern United States are typical of these. The Sierra Nevada mountains
+were formed in this manner. The most severe series of earthquakes in the
+history of the United States (1811 and 1812) in what is now New Madrid,
+Missouri, were of this origin.
+As movement between plates occurs, the material in contact can deform
+plastically with no sudden release of energy (creep), or stress can build up
+to the point where the material yields, giving off a sudden release of energy.
+The latter is most common in brittle rock.
+11-2
+
+[PDF PAGE 33]
+The location in the crust where calculation~ indicate the fi~st seismic
+I
+wave to have originated is referred to as the focus or hypocenter. The epi-
+center is directly above on the earth's surface. The fault plane is the
+plane along which the crust breaks.
+Figure 11-1. Lines of major tectonic plate interaction l002).
+11-3
+
+[PDF PAGE 34]
+B. MEASUREMENT
+Earthquakes can be measured in several different ways. The Richter
+magnitude represents the log of the amount of energy released during an
+'earthquake. Each increase ofl on the open-ended Richter scale represents
+a la-fold increase in the amount of energy ,released. The largest known
+Richter magnitude ever experienced was estimated at 9 in Lisbon in 1755.
+The Richter magnitude, however, is not necessarily representative of the
+extent of damage.
+The Modified Mercalli intensity scale, on the other hand, is based on
+observed damage. The Modified Mercalli scale, as shown on Table II-I, is
+close-ended with a maximum of 12. The 1811/1812 New Madrid earthquake ap-
+proached this maximum value.
+The Modified Metcal1i scale and the Richter scale are not directly re­
+lated, although attempts have been made to relate them. A shallow earth­
+quake with a low Richter magnitude may have a high Modified Merca11i inten­
+sity near the epicenter. By the same token, a deep earthquake with a high
+Richter magnitude may have little associated damage and therefore a low
+I
+Modified Merca 11 i i ntensity.
+Other countries, notably Japan, have earthquake intensity scales with
+different sets of descriptions.
+1I-4
+
+[PDF PAGE 35]
+TABLE 11-1. MODIFIED MERCALLI INTENSITY SCALE
+I. Not felt except by a very few under especially favorable circumstances.
+II. Felt only by a few persons at rest. especially on upper floors of build­
+ings. Delicately suspended objects may swing.
+III. Felt quite noticeably indoors. especially on upper floor of buildings.
+but many people do not recognize it as an earthquake. Standing motor­
+cars may rock slightly. Vibration like passing truck. Duration esti­
+mated.
+At night some
+make creaking
+Standing motor-
+During the day felt indoors by many, outdoors by few.
+awakened. Dishes, windows and doors disturbed; walls
+sound. Sensation like heavy truck striking building.
+cars rocked noticeably.
+V. Felt by nearly everyone; many awakened. Some dishes. windows. etc.•
+broken; a few instances of cracked plaster; unstable objects overturned.
+Disturbance of trees, poles, and other tall objects sometimes noticed.
+Pendulum clocks may stop.
+IV.
+VI. Felt by all; many frightened and run outdoors.- Some heavy furniture
+moved; a few instances of fallen plaster or damaged chimneys. Damage
+slight.
+VII. Everybody runs outdoors. Damage negligible in buildings of good design
+and construction; slight to moderate in well built ordinary structures;
+considerable in poorly built or badly designed structures. Some chim­
+neys broken. Noticed by persons driving motorcars.
+II-5
+
+[PDF PAGE 36]
+TABLE 11-1 (continued)
+VIII. Damage slight in specially designed structures; considerable in ordinary
+substantial buildings, with partial collapse; great in poorly built
+structures. Panel walls thrown out of frame structures. Fall of chim­
+neys, factory stacks, columns, monuments, walls. Heavy furniture over­
+turned. Sand and mud ejected in small amounts. Changes in well water.
+Persons driving motorcars disturbed.
+IX. Damage considerable in specially designed structures; well-designed
+frame structures thrown out of plumb; great in substantial buildings,
+with partial collapse. Buildings shifted off foundations. Ground
+cracked conspicuously. Underground pipes broken.
+X. Some well-built wooden structures destroyed; most masonry anp frame
+. structures destroyed with foundations; ground badly cracked. Rails
+bent. Landslides considerable from river banks and steep slopes.
+Shifted sand and mud. Water splashed (slopped) over banks.
+XI. Few, if any (masonry), structures remain standing. Bridges destroyed.
+Broad fissures in ground. Underground pipelines completely out of
+service. Earth slumps and land slips in soft ground. Rails bent
+greatly.
+XII. Damage total. Waves seen on ground surfaces. Lines of sight and level
+distorted. Objects thrown upward into the air.
+11-6
+
+[PDF PAGE 37]
+C. MOTIONS
+When an earthquake takes place. energy is released in the form of
+mechanical waves radiating away from the source. Waves take three forms.
+Primary waves (P) are compressive waves (e.g.• sound waves). which travel
+at approximately 3 to 4 miles per second. Secondary (S) or shear waves
+vibrate normally to the direction of propagation; these propagate at about
+2 miles per second. Surface or love waves (l) are a c6mbination of the
+other two; these are normally quite small. Note that because of differences
+in velocity. a specific location will experience primary waves first, fol­
+lowed by secondary waves.
+As shaking is transmitted from an earthquake focus to a particular
+site, the characteristics of the shaking are modified. Factors that affect
+this transformation include:
+. (1) Depth of the focus.
+(2) Type and distance of intervening crustal formations.
+(3) Type and depth of overlying soil strata at the site.
+Four broad categories of earthquakes can be given:
+(1) Primarily a single shock. This results from shallow earthquakes
+and occurs on firm ground at short distances from the epicenter.
+(2) Moderately long, irregular motion. This occurs on firm ground at
+moderate distances from the epicenter. Most earthquakes of concern fall into
+this category.
+(3) long ground motions exhibiting prevailing periods of earth shaking.
+This type is associated with multiple layers of soft soil.
+(4) Ground motions involving large-scale, permanent deformations of
+the ground. This type results in large-scale landslides or soil liquefaction.
+11-7
+
+[PDF PAGE 38]
+Of the types of earthquake shaking, the second is the one addressed
+primarily by the analytical procedures discussed in this report.
+Methods for analyzing earthquake ground motion consist of first assess­
+ing the attenuation from the assumed earthquake epicenter to the site
+through crustal rock, then a~sessing the filtering of the horizontal shear
+waves through the various levels of softer stratified soil through succes­
+sive reflections and refractions. The resulting surface motions can then be
+used to analyze the response of man-made systems. For a particular site,
+this filtering may indi'c,ate that high frequency motions are minimized such
+that the response of structures with short periods of vibration may be less
+on soil than on rock. Similarly, structures having long periods of vibra­
+tion (such as open water tanks) may have their motions amplified.
+In the analysis of structural systems, one useful tool is the develop­
+ment of spectral responses of elastic single degree-of-freedom (SDOF) sys­
+tems on a rigid base to anticipated ground motions. With any given ground
+motion, the peak or maximum responses (deformation, velocity and accelera­
+tion) can be obtained for such a system having all periods of vibration
+within the range of interest. A plot of these maxi~a constitutes the SDOF
+spectra for that ground motion. SDOF spectra can be obtained assuming the
+systems to have varying amounts of damping. Thus, spectra are usually de­
+veloped for 1/2%, 2%, 5%, 10%, and 20% of the critical damping of the sys­
+tem analyzed. The curves thus developed are irregular in shape and vary
+considerably based on the content of the ground motion. To arrive at a de­
+sign device, these spectra can be modified to smoothed spectra which repre­
+sent the best judgment from a number of spectral plots.
+II-8
+
+[PDF PAGE 39]
+D. SURFACE FAULTING
+Surface faulting can be evidenced by either vertical or horizontal
+motion of adjoining blocks. When the terrain is broken in a series of ele­
+vated blocks, these are termed horsts. These may be separated by depressed
+blocks or grabens. A long narrow graben is termed a rift. Small scale
+vertical motion features are termed dip-slip displacerrents, resulting in
+scarps and scarplets.
+Fault traces resulting from horizontal motion of adjoining blocks are
+called strike-slip. These 'can be evidenced by offsets of features (such as
+streams), parallel drag cracking, chevron cracking, open cracks and fissures,
+and by what appear to be giant mole tracks.
+Movement along fault traces can be sudden, such as that causing larger
+earthquakes, or can be very slow; slow motion is called creep.
+Designing to overcome the effects of surface faulting is not normally
+accomplished structurally. Rather, systems which may be subjected to poten­
+tial damage from faulting are designed as redundant systems, having multiple
+facilities in different geologic settings.
+11-9
+
+[PDF PAGE 40]
+E. GROUND FAILURE
+Seismic motions commonly cause ground failure, including consolidation,
+liquefaction and landslides.
+Earthquake motions can consolidate soils in much the same way as a
+vibratory roller consolidates sand at a construction site. Fill areas and
+deltaic deposits are particularly vulnerable. Structures supported by the
+soil that is consolidated may settle unevenly.
+Many areas experience a potential loss in soil support capability dur­
+ing an earthquake by the phenomenon known as soil liquefaction. The soil
+,
+temporarily behaves as a.liquid that provides little or no resistance
+against translation or rotation of a supported structure.
+Liquefaction of a.supporting soil mass lying on a slope can lead to
+landslides. Landslides. can develop when any unstable ground (such as mater­
+ial loosened by weathering) on a slope becomes shaken loose.
+More detailed information on the various forms of ground failure is
+presented in Chapter V.
+1I-1O
+
+[PDF PAGE 41]
+CHAPTER III'
+FUNCTIONAL ANALYSIS OF WATER AND SEWAGE SYSTEMS
+Properly functioning water and sewage systems are vital for the physical
+and economic health of our society. Each day, thes'e systems provide billions
+of gallons of potable drinking water .and collect and treat similar amounts
+of sewage. Most treatment facilities are very large when compared to indus­
+trial chemical processing plants. For example, a 10 million gallon per day
+water treatment plant is considered to be small. However, its capacity
+expressed in typical industrial production terms is over 15 million tons per
+year. Few, if any industrial plants exceed this production level. Water
+and sewage treatment systems are also complex. For example, a typical
+secondary sewage treatment plant will contain over 200 different pieces of
+equ·i pment.
+At the present time, water and sewer systems~ with some exceptions, do
+not provide special seismic protection beyond that required in building
+codes. These codes, as presently constituted, are primarily aimed at struc;
+tural elements in buildings and do not adequately address other vital com­
+ponents of water and sewage systems.
+The ideal condition for insuring effective operation of these systems
+is for all elements to receive the highest possible protection. However,
+this is not normally economically feasible, particularly in this period of
+rapidly rising costs of providing water and sewer service due to more
+stringent environmental regulations. The utility manager and designer, then,
+must decide where to place emphasis in seismic strengthening to obtain the
+most protection for available funds.
+II1-1
+
+[PDF PAGE 42]
+This chapter presents a procedure whereby the utility manager or de­
+signer can focus attention on critical elements so as to ~aximize perfor­
+mance after earthquake events. The procedure includes the following general
+steps:
+• Outline system operating/performance goals
+• Identify all functions that must be performed to meet the-goals
+• Identify equipment normally used to perform the required functions
+• Identify performance goals for individual equipment items
+• Identify alternative means of performing functions
+This procedure can be used to identify pieces of equipment needed for
+both normal and emergency operation. The equipment identified can then be
+characterized as to locatioh, interrelationships with other elements, and
+required level of availability and performance. This will provide the
+rationale for seismic design.
+The examples used in this chapter are based on two operating plants:,
+Dalecarlia Water Treatment Plant (Washington, DC) and the Flint, Michigan
+sewage treatment plant. These plants were selected because they represent
+typical installations and data on actual design we're available or readily
+obtainable.
+111-2
+
+[PDF PAGE 43]
+A. PERFORMANCE GOALS
+There ar~ many approaches to formulating performance goals for public
+water and sewage systems in relation to earthquakes. In this discussion, a
+set of goals is suggested for illustrative purposes. However, specific goals
+for each utility must be tailored to meet particular local needs. There­
+fore, performance goals should be developed by each utility. In order to
+be effective, they should be developed in cooperation with public health
+officials, local fire officials, and representatives of other major affected
+groups (e.g., industries).
+The overall goal of all water and sewage systems is to protect the
+health and safety of the public. Secondary goals are to support-economic
+activities and provide sufficient services to maintain the accepted life­
+style of the general population.
+Public water supplies are used for a variety of activities:
+Drinking
+Cooking
+Bathing
+Cleaning
+Flushing toilets
+Fire fighting
+Industrial processes
+Commercial establishments
+Cooling
+Street cleaning
+Lawn watering
+To support all of these activities, the delivered water must be free of
+pathogenic organisms, free of pollutants, aesthetically pleasing (taste,
+111-3
+
+[PDF PAGE 44]
+odor, color), and in sufficient volume and at sufficient pressure to meet
+demands of users.
+Public sewage systems must be capable of rapidly collecting all
+wastes, treating the sewage to a degree appropriate to protect public
+health and protect the aquatic environment, and discharging the treated
+wastes at a safe location.
+Of the above activities, the following are judged to be most important
+to protect public health and safety:
+• Water for drinking and cooking
+• Water for firefighting
+• Sewer capacity to remove water used
+Drinking and cooking require minimal amounts of water in relation to
+normal per capita use (100-125 gal/cap/day). However, firefighting water
+requirements are very high and not readily predicted. Required sewerage
+system performance is less well defined. If, after an earthquake, the
+water system is capable of providing only enough water for drinking and
+cooking and firefighting, then there will be little irrrrnediate need for
+sewerage capacity (no sewer di scharge from fi refighti ng). However, if the
+water system is only lightly damaged or recovery is rapid, the sewage sys­
+temmust be able to collect all discharged waste in order to avoid public
+health problems. To date, little emphasis has been placed on seismic pro­
+tection of sewage systems.
+Another important aspect of performance goals is provision for gradual
+recovery of the systems. It is assumed that recovery operations will be­
+gin shortly after the earthquake event. Some temporary repairs (i.e.,
+I'makeshift operations
+ll
+) will be required to keep the systems in operation.
+Other repair activities will corrrrnence within a few days of the earthquake,
+I II-4
+
+[PDF PAGE 45]
+focussing on critical system elements. Some repairs may take s~veral months
+to complete.
+Based on the above discussion, the following operating goals are sug­
+gested. TheY are concerned primarily with the treatment plant and pumping
+stations which are the focus of this report but could readily be extended
+to pipeline elements.
+WATER
+a. Primary goals during the immediate emergency period tfirst 24 hours)
+1. Continuous hydraulic flow through or around the plant
+2. Provide disinfection for public health
+3. Provide for safety of personnel in the plant
+b. Secondary goals - recovery period
+1. Makeshift operations on certain equipment will be acceptable
+for recovery period of up to 6 months'
+2. Emphasi.s to be placed on rapidly upgrading quality of treated
+water - first filtration, then coagulation - finally aeration
+and treatment forstabil i zati on. Sl udge handl i ng to be re­
+instituted with coagulation.
+c. 'Shutdown philosophy
+Based on the above, certain unit operations could be bypassed or
+shutdown for the short term (up to 2 weeks): coagulation and settl­
+ing; filtration and residue treatment and disposal. These are prob­
+ably best accomplished by temporary bypasses of the entire unit opera­
+tion. Other unit operations could be shut down for a longer term (up
+to 6 months) without serious public health or safety implications.
+The main impact of their shutdown would be aesthetics and economics.
+They include: aeration and stabilization.
+I II-5
+
+[PDF PAGE 46]
+d. Critical elements
+The elements or systems that must be protected to meet basic goals are
+those that allow full hydraulic plant capacity and adequate disinfec­
+tion: receiving raw water, disinfection, and discharging treated
+water. The other systems in the plant could be bypassed. If bypassing
+is not practicable, then the hydraulic capacity of all flow elements in
+each of the other systems must be protected. As a matter of basic
+philosophy, the provision of built-in bypass facilities around each non­
+essential unit operation is favored. The provision of bypasses around
+water treatmerlt operations must be cleared with appropriate public
+health agencies.
+e. Make~hift operations
+For water systems, a number of elements (and systems) are judged to be
+capable of functioning under makeshift conditions for up to six months.
+"Makeshift" includes temporary repairs, provision of alternate elements
+or equipment to perform the necessary function, provision of equipment
+or arrangements that would not be considered cost-effective over a long
+period of time because of increased need for operator attention, mainten­
+ance, rapid wear, etc. While makeshift operations will be discussed, it
+is important that each plant review important elements or equipment in
+each system as part of earthquake protection planning to detennine before­
+hand the possible makeshift operations and methodologies that may be
+effective and to have or know the location of required supplies and
+equi pment.
+SEI~AGE
+a. Primary goals
+Same as water.
+b. Secondary goals
+1. Same (l.S water. ".
+2. Emphasis is to be placed on rapid restoration of treatment cap­
+ability - first primary treatment and sludge handling. For purposes
+1II-6
+
+[PDF PAGE 47]
+of this study, secondary treatment is not judged to be as critical .
+. c. Shutdown phi losophy
+Based'on the above goals, certain whole operations can be shut down
+for the short term (up to 2 weeks): primary treatment and sludge
+handling and disposal. The goal of hydraulic integrity around the
+entire plant is probably best handled through bypasses around the pri­
+mary and secondary treatment systems. Secondary treatment coul d in
+many cases be shut down for a longer tenn (up to 6 months). However,
+this must be based on an analysis of the public health implications
+of a partially treated discharge to the specific recei¥ing water of
+interest. Sludge treatment and disposal subsystems must be protected
+such that they will be capable of effective performance when the pri­
+mary and secondary system is operable. Otherwise,. the primary and sec­
+ondary system cannot be used to remove pollutants.
+d. Critical elements or systems
+The, elements or systems that must be protected to meet basic goals are
+those that allow full hydraulic plant capacity and adequate disin­
+fection. The basic system includes: head works, disinfection and
+discharge of treated effluent. The other systems in the plant could
+be shut down (for 2 weeks to 6 months as described above). If bypass­
+ing is not practicable, then the hydraulic capacity of all flow ele-
+\
+ments in each system must be protected. As a matter of basic philoso-
+phy, the provi sion of bui It-in bypass facil ities around each non­
+essential unit operation is favored. This does not consider, however,
+the existing regulatory policies of public health agencies in rel

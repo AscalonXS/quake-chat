@@ -1,0 +1,762 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>Tsunami Event Lists</title>
+<meta name="DC.title" content="Tsunami Event Lists" />
+<meta name="DC.description" content="Tsunami Event Lists" />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="September 4th 2026 6:33 PM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="Tsunami Event Lists" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+        <script type="text/javascript" src="/js/ForecastSearch.js"></script>
+        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA&pua=G-736JJ6NL0V"></script>	
+        <script type="text/javascript" src="/js/topNavMenu.js"></script>
+        <script type="text/javascript" src="/js/NidsESRI.js"></script>
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+        
+    </head>
+
+    <body>
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            <div class="content">
+    <div class="topnav">
+        <ul id="topnav">
+            <li>
+                <script type="text/javascript">
+                    function goBack() {
+                        if (document.referrer.toLowerCase().indexOf("weather.gov") != -1) {
+                            history.back();
+                        } else {
+                            document.location.href = "https://www.weather.gov";
+                        }
+                    }
+                </script>
+                <div class="topMenuNavList home">
+                    <a href="#" onclick="goBack();">HOME</a>
+                </div>
+            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/forecastmaps/">FORECAST</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov">Local</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://digital.weather.gov">Graphical</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://aviationweather.gov">Aviation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/marine/">Marine</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://water.noaa.gov">Rivers and Lakes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.nhc.noaa.gov">Hurricanes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.spc.noaa.gov">Severe Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/fire/">Fire Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Sunrise/Sunset</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Long Range Forecasts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Climate Prediction</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.swpc.noaa.gov">Space Weather</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/climate">PAST WEATHER</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrh/climate">Past Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Astronomical Data</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table">Certified Weather Data</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/safety/">SAFETY</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/informationcenter">INFORMATION</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/briefing/">Daily Briefing</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/hazstat">Damage/Fatality/Injury Statistics</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="http://mag.ncep.noaa.gov">Forecast Models</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/gis/">GIS Data Portal</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/nwr">NOAA Weather Radio</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/publications/">Publications</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/skywarn/">SKYWARN Storm Spotters</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/stormready">StormReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/notification/">Service Change Notices</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/education/">EDUCATION</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/news">NEWS</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/search/">SEARCH</a>
+                    </div>
+                                            <div style="opacity: 0;" class="sub">
+                            <ul class="no-links">
+                            <li><!-- Begin search code -->
+                                <div id="site-search">
+                                    <form method="get" action="https://search.usa.gov/search" style="margin-bottom: 0; margin-top: 0;">
+                                        <input type="hidden" name="v:project" value="firstgov" />
+                                        <label for="query">Search For</label>
+                                        <input type="text" name="query" id="query" size="12" />
+                                        <input type="submit" value="Go" />
+                                        <p>
+                                            <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+                                            <label for="nws" class="search-scope">NWS</label>
+                                            <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+                                            <label for="noaa" class="search-scope">All NOAA</label>
+                                        </p>
+                                    </form>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                                    </li>
+                            <li class="last">
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/about/">ABOUT</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/about/">About NWS</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/organization">Organization</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://sites.google.com/a/noaa.gov/nws-insider/">For NWS Employees</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/ncep/">National Centers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/nws-careers">Careers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/contact">Contact Us</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://forecast.weather.gov/glossary.php">Glossary</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/socialmedia">Social Media</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/NWStransformation">NWS Transformation</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                    </ul>
+    </div>
+</div>
+
+
+            <div class="center-content">
+
+                <div class="one-sixth-first">
+    <div id="forecast-lookup">
+        <form name="getForecast" id="getForecast" action="https://forecast.weather.gov/zipcity.php" method="get">
+            <label for="inputstring">Local forecast by <br />"City, St" or ZIP code</label>
+            <input id="inputstring" name="inputstring" type="text" value="Enter location ..." onclick="this.value=''" />
+            <input name="btnSearch" id="btnSearch" type="submit" value="Go" />
+            <div id="txtError">
+                <div id="errorNoResults" style="display:none;">Sorry, the location you searched for was not found. Please try another search.</div>
+                <div id="errorMultipleResults" style="display:none">Multiple locations were found. Please select one of the following:</div>
+                <div id="errorChoices" style="display:none"></div>
+                <input id="btnCloseError" type="button" value="Close" style="display:none" />
+            </div>
+            <div id="txtHelp"><a style="text-decoration: underline;" href="javascript:void(window.open('https://www.weather.gov/ForecastSearchHelp.html','locsearchhelp','status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,scrollbars=1,height=500,width=530').focus());">Location Help</a></div>
+        </form>
+    </div>
+</div>
+
+                    <div class="five-sixth-last">
+                    <style type="text/css">
+                #topnews.important {
+                    background-color: #d2d2d2;
+                    height: 100%;
+                    margin-bottom: 5px;
+                    position: relative;
+                }
+
+                #topnews .icon {
+                    display: none;
+                }
+
+                #topnews.important .icon {
+                    background-color: #135997;
+                    display: table-cell;
+                    height: 100%;
+                    text-align: center;
+                    vertical-align: middle;
+                    width: 80px;
+                }
+
+                #topnews.important .body {
+                    color: #141414;
+                    display: table-cell;
+                    padding: 10px;
+                }
+            </style>
+            <div id="topnews">
+                <div class="icon"><img src="/bundles/templating/images/top_news/important.png"></div>
+                <div class="body">
+                    <h1 style="font-size: 11pt;">Heavy to Excessive Rainfall and Flooding in East Florida; Monitoring for Storm Potential Near the Southeast Coast</h1>
+                    <p>
+                        Heavy to excessive rainfall will continue to threaten considerable flash and urban flooding impacts over the east central Florida coast from Palm Coast to near Melbourne through today. A subtropical or tropical storm may form near or offshore of the southeast U.S. coast this weekend. Regardless of development, strong winds, rough surf, coastal flooding, and heavy rain are likely.
+                                                                            <a href="http://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd" target="_blank">Read More &gt;</a>
+                                            </p>
+                </div>
+            </div>
+            </div>
+
+
+                <div class="full-width-border">
+                    <div class="partial-width-borderbottom">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+
+                        <div class="div-full">    
+                        <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">Int. Tsunami Information Center Caribbean Office</p>
+        <p class="sitename-class">National Program</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>Tsunami Event Lists</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/itic-car">Int. Tsunami Information Center Caribbean Office</a>
+                                &gt; Tsunami Event Lists
+                    </div>
+    </div>
+</div>
+
+                        <div class="div-full">
+    <div class="subMenuNav">
+        <ul id="subMenuNav">
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Sea Level Stations</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://www.ioc-sealevelmonitoring.org/"> IOC Sea Level Monitoring Facility</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/stations"> Caribbean Status of Sea Level Data Availability</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/effectofhurricaneirma"> Effect of Hurricane Irma across the northern caribbean and adjacent regions</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Seismic Stations</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://www.iris.edu/gmap/_CARIBE-EWS"> IRIS CARIBE EWS Virtual Seismic Network</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.prsn.uprm.edu/English/EstacionesV3/seismometers.php"> Caribbean PRSN Station Monitoring System</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/seismic"> Caribbean Status of Seismic Data Availability</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">CARIBE EWS</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://unesdoc.unesco.org/ark:/48223/pf0000259725.locale=en"> PTWC Enhanced Products - User&#039;s Guide</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/media/itic-car/ICG-CARIBE-EWS-XI.pdf"> Regional Tsunami Service Provider Document </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tsunami.ioc.unesco.org/en"> IOC Tsunami Programme Home</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/media/itic-car/CARIBE EWS ICG ORGANIZATIONAL STRUCTURE AND GOVERNANCE-20250220.docx"> Organizational Structure &amp; Governance</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://unesdoc.unesco.org/ark:/48223/pf0000395713?posInSet=1&amp;queryId=45526598-c1b2-429d-a324-42a1d25462fa"> Tsunami Watch Operations Global Service Definition Document</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Events/Preparedness</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="tsunami_events"> Tsunami Events</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/tsunami_awareness_materials"> ITIC Tsunami Awareness</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/itic_training"> ITIC Training</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/marine_ports_guidance"> ITIC Marine Ports</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/vertical_evacucation_guidance"> ITIC Vertical Evacuation</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/preparedness"> ITIC-CAR Preparedness</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.tsunami.noaa.gov/"> NOAA Tsunami Program</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://nws.weather.gov/nthmp/guide/nthmptsunamiinfoguide.pdf"> NTHMP Tsunami Information Guide</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.ngdc.noaa.gov/hazard/tsu.shtml"> Tsunami Database</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.meted.ucar.edu/training_course.php?id=38"> COMET: Warning Systems</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/communication"> Comunication Systems</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">ITIC</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://tsunami.gov/?page=itic"> About ITIC</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/itic_staff"> Staff</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/hawaii"> Hawaiʻi</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/itic-car/american_samoa"> American Samoa</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">ITIC-CAR</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/itic-car/staff"> Staff</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                    </ul>
+    </div>
+</div>
+
+                        
+                        
+                        <div class="div-full">
+<div class="cms-content"><h2 style="font-style:italic;">Tsunami Event Lists</h2>
+
+<p><span style="font-size:11px;"><a href="https://www.weather.gov/itic-car/tsunami_events">Tsunami Events</a> &gt; Tsunami Event Lists</span></p>
+
+<p style="text-align: justify;">International Alerts issued by the Pacific Tsunami Warning Center (PTWC), Northwest Pacific Tsunami Advisory Center (NWPTAC), and US National Tsunami Warning Center (USNTWC) for events M6.5 or greater in the Pacific and Atlantic, and M6.0 or greater in the Caribbean.<br />
+<br />
+The PTWC issues:</p>
+
+<ul>
+	<li style="text-align: justify;">From 01 October 2014, the Pacific Tsunami Warning Center (P) issues: Tsunami Information Statements (TIS) and Tsunami Threat Messages (TTM). &nbsp;&nbsp;</li>
+	<li style="text-align: justify;">Prior to 01 October 2014, the Pacific Tsunami Warning Center (P) issued: Tsunami Information Bulletins (TIB), Fixed and Expanding Regional Warnings (FRW, ERW), and Ocean-wide or Widespread Watch/Warnings (TWW) for the Pacific; Tsunami Information Statements (TIS), Local, Regional, and Ocean-wide Watches (LTW, RTW, TW) for the wider Caribbean (C).&nbsp;</li>
+	<li style="text-align: justify;">Domestically, Tsunami Information Statements (TIS), Tsunami Advisories (TA), Tsunami Watch/Warnings (TWW) for US Insular States and Territories (American Samoa, Guam/CNMI, Hawaii, Puerto Rico, US and British Virgin Islands). &nbsp;Prior to April 3, 2017, domestic alerts to Puerto Rico, US and British Virgin Islands were issued by the USNTWC.</li>
+</ul>
+
+<p style="text-align: justify;">The Japan Meteorological Agency (J), issues: Tsunami Advisories (NWPTA) for the Northwestern Pacific.&nbsp;<br />
+<br />
+The US National Tsunami Warning Center (N), formerly known as West Coast/Alaska Tsunami Warning Center, was renamed on &nbsp;01 October 2013, issues: Tsunami Information Statements (TIS), Tsunami Advisories (TA), Tsunami Watch/Warnings (TWW) for the US Alaska and West Coast (Washington, Oregon, California), the US East Coast, and Canada (Pacific and Atlantic).&nbsp;</p>
+
+<p style="text-align: justify;">Depth (from GCMT solution), epicenter and Moment Magnitude (Mw) from the USGS (G), and preliminary Mw from PTWC, USNTWC, and JMA at action time. Other earthquakes with Mw greater than or equal to 6.5 and a depth no greater than 100 km, as recorded by USGS, have also been included. Wave height and period measurements from sea level gauges (g) reported as amplitude (amp), peak to trough, or greatest value for either flow depth (fd) or runup (r) as indicated. Event location (e.g. name) is derived from PTWC message(s).</p>
+
+<table align="center" border="0" cellpadding="0" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td align="center" style="background-color: #C5E5F5; border: 1px solid #000000; width: 50%;">
+			<table cellpadding="=10" style="width: 100%;">
+				<tbody>
+					<tr>
+						<td>
+						<p><strong>2026</strong></p>
+
+						<ul>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2026_event_list_20260904.xls">2026 Tsunami Event List</a> (XLS, as of 31 Aug 2026)</li>
+						</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="0" cellpadding="0" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td align="center" style="border: 1px solid #000000; width: 50%;">
+			<table cellpadding="=10" style="width: 100%;">
+				<tbody>
+					<tr>
+						<td>
+						<p><strong>2020-2025</strong></p>
+
+						<ul>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2020_event_list_FINAL.xls">2020&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2021_event_list_20220111.xls">2021&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2022_event_list_20230124.xls">2022&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2023_event_list_FINAL.xls">2023&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2024_event_list_20250421.xls">2024&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2025_event_list_20260120.xls">2025 Tsunami Event List</a> (XLS, as of 20 Jan&nbsp;2026)</li>
+						</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="0" cellpadding="0" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td align="center" style="border: 1px solid #000000; width: 50%;">
+			<table cellpadding="=10" style="width: 100%;">
+				<tbody>
+					<tr>
+						<td>
+						<p><strong>2010-2019</strong></p>
+
+						<ul>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2010_Events_List.pdf">2010&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2011_event_list_FINAL.xls">2011&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2012_event_list_FINAL.xls">2012&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2013_event_list_FINAL.xls">2013&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2014_event_list_FINAL.xls">2014&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2015_event_list_FINAL.xls">2015&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2016_event_list_FINAL.xls">2016&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2017_event_list_FINAL.xls">2017&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2018_event_list_FINAL.xls">2018&nbsp;Tsunami Event List</a> (XLS)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2019_event_list_FINAL.xls">2019&nbsp;Tsunami Event List</a> (XLS)</li>
+						</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="0" cellpadding="0" style="width: 100%; border: 1px solid #000000;">
+	<tbody>
+		<tr>
+			<td align="center" style="border: 1px solid #000000; width: 50%;">
+			<table cellpadding="=10" style="width: 100%;">
+				<tbody>
+					<tr>
+						<td>
+						<p><strong>2000-2009</strong></p>
+
+						<ul>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2000_TIB_List.pdf">2000&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2001_TIB_List.pdf">2001&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2002_TIB_List.pdf">2002&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2003_TIB_List.pdf">2003&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2004_TIB_List.pdf">2004&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2005_TIB_List.pdf">2005&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2006_TIB_List.pdf">2006&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2007_TIB_List.pdf">2007&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2008_Events_List.pdf">2008&nbsp;Tsunami Event List</a> (PDF)</li>
+							<li><a href="/media/itic-car/tsunami_events/tsunami_event_lists/2009_Events_List.pdf">2009&nbsp;Tsunami Event List</a> (PDF)</li>
+						</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+  
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+                </div><!-- <div class="full-width-border"> -->
+
+                <div class="partial-width-borderbottom feature-block">
+                    <!-- area for features, frontpage thumbs, and custom page -->
+                    
+                    
+                </div><!-- end of <div class="partial-width-borderbottom feature-block"> -->
+
+                <div class="full-width-first">
+                    <div class="full-width-first communication-links">
+                <div class ="one-half-last nopad">
+        <span class="txt-rt myforecast-current">
+            <div class="myforecast-current">
+                <a href="/rss_page.php?site_name=itic-car" target="_blank" style="text-decoration:none;font-size:11px;">
+                    <img src="/bundles/templating/images/social/rss.png" width="16" height="16" alt="ITIC-CAR RSS Feed" />&nbsp;&nbsp;ITIC-CAR RSS Feed
+                </a>
+            </div>
+        </span>
+    </div>
+</div>
+<div style="clear:both;"></div>
+
+
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            <style type="text/css">
+    .footer-column-head a:link, .footer-column-head a:visited {
+        color: #ED7A08;
+    }
+</style>
+<div class="footer-content">
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                </div>
+    </div>
+
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                Int. Tsunami Information Center Caribbean Office<br />                c/o Puerto Rico Seismic Network, Building D<br />
+                259 Boulevard Alfonso Valdés<br />                Mayagüez, PR 00680
+                <br />787-832-4040<br />
+                <br /><a href="mailto:Christa.vonH@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>

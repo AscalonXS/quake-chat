@@ -1,0 +1,48 @@
+No Tsunami Warning, Advisory, Watch, or Threat
+There is No Tsunami Warning, Advisory, Watch, or Threat in effect.
+Earthquake
+:
+Magnitude:
+4.8
+Origin Time:
+Depth:
+66 mi.
+Lat:
+18.6° N
+Lon:
+68.8° W
+Location:
+ABOUT 65 MILES NORTHWEST OF ISLA MONA
+Note: Times are local to your browser, unless otherwise indicated
+See the map or table below for more information
+Alerts/Threats
+Earthquakes
+Previous 40 Messages
+Observations
+Forecasts
+Water-Level Stations
+DART Systems
+Auto Update
+min
+Loading Earthquake Layer
+Loading Alert Layer
+Earthquake Layer failed to load
+Alerts/Threats Layer failed to load
+Default View
+Alaska
+Hawaii
+Guam/CNMI
+American Samoa
+Caribbean
+North America
+South America
+Warning
+Advisory
+Watch
+U.S / Canada
+Threat
+International
+Earthquake
+Map FAQ
+More earthquake information
+Previous 40 Tsunami Messages

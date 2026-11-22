@@ -1,0 +1,1407 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="modern">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+<script type="text/javascript"> 
+
+(function () { 
+
+    var head = document.head || document.getElementsByTagName('head')[0]; 
+
+  
+
+    var s = document.createElement('script'); 
+
+    s.type = 'text/javascript'; 
+
+    s.src = 'https://pg.feroot.com/v1/bundle/f8146325-40f6-4b12-a99a-1c4387ba1c0a'; 
+
+    head.insertBefore(s, head.firstChild); 
+
+  
+
+    // Re-pin Feroot to the very top whenever GTM/AppDynamics prepend scripts 
+
+    var observer = new MutationObserver(function () { 
+
+        if (head.firstChild !== s) { 
+
+            head.insertBefore(s, head.firstChild); 
+
+        } 
+
+    }); 
+
+    observer.observe(head, { childList: true }); 
+
+  
+
+    // Stop re-pinning once the page has settled 
+
+    window.addEventListener('load', function () { 
+
+        setTimeout(function () { observer.disconnect(); }, 5000); 
+
+    }); 
+
+})(); 
+
+</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Delayed Head Injury Symptoms: When to Go to the ER | Banner</title> <link rel="canonical" href="https://www.bannerhealth.com/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" />
+<link rel="alternate" href="https://www.bannerhealth.com/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" hreflang="en-us" />
+<link rel="alternate" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" hreflang="es" />
+<link rel="alternate" href="https://www.bannerhealth.com/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" hreflang="x-default" />
+<meta id="description" name="description" content="Head injury symptoms may appear hours or days later. Banner Health shares warning signs like worsening headache, vomiting, confusion and behavior changes.">
+
+
+  <meta property="og:title" content="Delayed Head Injury Symptoms: When to Go to the ER | Banner" />
+  <meta property="og:description" content="Head injury symptoms may appear hours or days later. Banner Health shares warning signs like worsening headache, vomiting, confusion and behavior changes." />
+  <meta property="og:image" content="https://www.bannerhealth.com/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/10/delayed-head-injury-symptoms.jpg" />
+  <meta property="og:url" content="https://www.bannerhealth.com/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Delayed Head Injury Symptoms: When to Go to the ER | Banner" />
+  <meta name="twitter:description" content="Head injury symptoms may appear hours or days later. Banner Health shares warning signs like worsening headache, vomiting, confusion and behavior changes." />
+  <meta name="twitter:image" content="https://www.bannerhealth.com/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/10/delayed-head-injury-symptoms.jpg" />
+  <meta name="twitter:url" content="https://www.bannerhealth.com/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" />
+    <link rel="stylesheet" href="https://use.typekit.net/upo4sld.css">
+    <link rel="stylesheet" href="https://use.typekit.net/ewu8ezp.css">
+    <link rel="stylesheet" href="https://use.typekit.net/svc0cnr.css">
+    <link href="/static/healthcareblog/styles/blog.css" rel="stylesheet" />
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6NQWFD');</script>
+<!-- End Google Tag Manager -->
+<script src="https://a40.usablenet.com/pt/c/bannerhealth/cookiestorestart" async></script>
+
+    
+
+
+
+
+
+    <!--CJA Data-->
+    <script type="text/javascript">
+
+             var blog_email_signup = true; 
+             var error_not_found = true; 
+             var clicks_to_call = true; 
+             var enable_accessibility_click = true; 
+             var page_load = true; 
+             var search_submit = true; 
+             var blog_article_viewed = true; 
+             var class_registration_click = true; 
+             var symptom_checker_initiated = true; 
+             var class_registration_click_search = true; 
+             var bill_pay_click = true; 
+             var global_navigation_click = true; 
+             var facility_location_view = true; 
+             var schedule_appointment_click = true; 
+        const env_status = "Prod";
+    const cjaDictionaryItems = ["pay my bill","pay now","schedule an appointment","schedule appointment","schedule now","book appointment"];
+    </script>
+    <script type="text/javascript">
+
+        window.adobeDataLayer = window.adobeDataLayer || [];
+        if (true && !false) {
+            const url = new URL(window.location.href);
+            let sectionvalue = url.pathname.replace(/^\/+|\/+$/g, '');
+            let section = sectionvalue.split('/')[0] || "Home";
+            window.adobeDataLayer.push({
+                event: "page_load",
+                page: {
+                    url: window.location.href,
+                    server: window.location.hostname,
+                    name: window.document.title,
+                    section: section
+                },
+                environment: {
+                    name: "Prod"
+                }
+            });
+        }
+    </script>
+        <script src="https://assets.adobedtm.com/6fdc3941716b/aa5b881ffda3/launch-359463940e75.min.js" async></script>
+    <!-- End CJA Data-->
+
+</head>
+
+<body runat="server" class="ltr layout-full page ">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6NQWFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    
+<header>
+	<!-- Top Nav -->
+	<nav class="navbar navbar-utility">
+		<div class="container navbar-container">
+			<div class="utility-container">
+				<a class="language-toggle os-language" href="javascript:SetLanguage(); ">Espa&#241;ol</a>
+<input name="__RequestVerificationToken" type="hidden" value="RxCXsas6UJc9HZZDkdJDuAFj_isaAd65PfASwJDwXGplgwCCynb0pahMVRr0fE4sVn7fGLGsWseROFmkJZOgnxGkYgmDtt2LGdmCXLBxBT41" />
+
+    <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var url = new URL(window.location.href);
+      var urlParam = new URLSearchParams(url.search);
+      var pathName = window.location.pathname;
+       if(pathName == '/locations' || pathName == '/es/locations') {
+            urlParam.delete("services");
+            urlParam.delete("loctype");
+          }
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var antiForgeryToken = $('input[name="__RequestVerificationToken"]').first().val();
+      var model = {
+        "language": "es",
+        "url": "https://www.bannerhealth.com/es/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for",
+        "sitename": "healthcareblog",
+        "urlparams": urlParam.toString(),
+        "__RequestVerificationToken": antiForgeryToken
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (response) {
+          var data = response.LanguageDerivedToggleURL;// redirect URL
+          var urlparams = response.QueryStringParams;//Querystring parameters
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          if (urlparams != null && urlparams != '') {
+            urlParam = urlparams;
+          }
+          window.location.href = data + '?' + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+    </script>
+
+				<a href="https://#/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self">Enable Accessibility</a>
+
+
+
+			</div>
+		</div>
+	</nav>
+	<nav class="navbar navbar-collapse navbar-main-v2" data-js="navbar-main-v2">
+		<div class="container navbar-container">
+			<!-- Hamburger -->
+			<div class="navbar-menu-mobile d-sm-block d-md-block d-lg-none">
+				<button id="global-menu-open-mobile" data-js="global-menu-open-mobile" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button" class="menu-trigger">
+					<!-- menu icon -->
+					<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-702.000000, -200.000000)" fill="#56595D">
+								<g id="icon" transform="translate(702.000000, 200.000000)">
+									<path d="M18,14 L0,14 L0,12 L18,12 L18,14 Z M12,8 L0,8 L0,6 L12,6 L12,8 Z M0,2 L0,0 L18,0 L18,2 L0,2 Z" id="ðŸŽ¨-icon-color"></path>
+								</g>
+							</g>
+						</g>
+					</svg>
+					<!-- / menu icon -->
+				</button>
+			</div>
+
+			<div class="navbar-bh-link">
+				<a href="/">
+					<!-- back arrow icon -->
+					<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-702.000000, -239.000000)">
+								<g id="icon" transform="translate(702.000000, 239.000000)">
+									<polygon fill="#56595d" id="ðŸŽ¨-icon-color" transform="translate(11.500000, 12.500000) scale(-1, 1) translate(-11.500000, -12.500000) " points="4 12 4 13 15 13 15 16 19 12.5 15 9 15 12"></polygon>
+								</g>
+							</g>
+						</g>
+					</svg>
+					<!-- / back arrow icon -->
+					<span>BannerHealth.com</span>
+				</a>
+			</div>
+			<!-- Header Logo -->
+			<div class="navbar-brand branding" data-js="navbar-brand">
+				
+
+ 
+  <a class="header-logo" href="/healthcareblog" title="Go to home page">
+    <img src="/healthcareblog/-/media/images/project/healthcareblog/logos/global-logo-v2.svg?iar=0&amp;hash=3C50CF2F0E8AA88929CD32CD8F9861FF" alt="global-logo-v2" DisableWebEdit="True" />
+
+  </a>
+
+
+				<span>Our blog featuring healthy tips,<br class="d-sm-block d-md-block d-lg-none"> expert advice and inspiring stories</span>
+			</div>
+			<!-- Header Social Links -->
+			
+<div class="navbar-social">
+        <a href="https://www.facebook.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-98.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(98.000000, 205.000000)">
+                                    <g id="🎨-icon-color">
+                                        <path d="M21.6234294,3.0037452 L19.2248841,3 C16.5302007,3 14.7887779,4.73870978 14.7887779,7.42982429 L14.7887779,9.4722699 L12.3771479,9.4722699 C12.1687544,9.4722699 12,9.63668425 12,9.83948691 L12,12.7987578 C12,13.0015605 12.1689469,13.1657876 12.3771479,13.1657876 L14.7887779,13.1657876 L14.7887779,20.6329703 C14.7887779,20.8357729 14.9575324,21 15.1659258,21 L18.312417,21 C18.5208105,21 18.6895649,20.8355857 18.6895649,20.6329703 L18.6895649,13.1657876 L21.5093229,13.1657876 C21.7177163,13.1657876 21.8864708,13.0015605 21.8864708,12.7987578 L21.8876253,9.83948691 C21.8876253,9.74211167 21.8477939,9.64885615 21.7771749,9.57994445 C21.7065558,9.51103274 21.6103446,9.4722699 21.510285,9.4722699 L18.6895649,9.4722699 L18.6895649,7.74086327 C18.6895649,6.9086795 18.8933403,6.48622078 20.0072736,6.48622078 L21.6230445,6.485659 C21.8312456,6.485659 22,6.32124466 22,6.11862926 L22,3.37077494 C22,3.16834681 21.831438,3.00411972 21.6234294,3.0037452 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://twitter.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-142.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(142.000000, 205.000000)">
+                                    <path d="M20.9801478,6.66757199 C20.9557719,6.63852634 20.9155516,6.62866843 20.8812512,6.64451151 C20.3730133,6.8724758 19.83831,7.03636364 19.2875883,7.13318245 C19.8722622,6.68852006 20.3078947,6.07275242 20.5312826,5.36667924 C20.5420777,5.33288067 20.5309344,5.29591349 20.5035986,5.27390922 C20.4760886,5.25190494 20.4379577,5.24908839 20.407836,5.26721992 C19.7493379,5.66206463 19.0361681,5.9403747 18.2871308,6.0947567 C17.6234093,5.3983654 16.6966019,5 15.7374093,5 C13.7866391,5 12.1997666,6.60437571 12.1997666,8.57648686 C12.1997666,8.8150132 12.2225755,9.0512511 12.2678451,9.28062366 C9.56594821,9.1119829 7.039558,7.8005281 5.32175195,5.67033824 C5.30416647,5.64851 5.27752707,5.63636364 5.24966887,5.63918018 C5.22198479,5.64129259 5.19726064,5.65713567 5.18333154,5.68125236 C4.86992683,6.22484597 4.70434467,6.8467748 4.70434467,7.47944172 C4.70434467,8.57595876 5.19708652,9.60118194 6.03614058,10.2776814 C5.60416442,10.2252232 5.18228686,10.0877405 4.80184836,9.87421099 C4.77625364,9.85960015 4.74439083,9.85977619 4.71879611,9.87473909 C4.69320139,9.88952597 4.67700881,9.9169873 4.67631236,9.94691311 L4.67596413,9.99268201 C4.67596413,11.567484 5.70236456,12.9502326 7.16265641,13.4093298 C6.77803918,13.471998 6.37897052,13.4677732 5.98669228,13.3920785 C5.95778941,13.3866214 5.92749362,13.3966554 5.90764465,13.4191877 C5.8879698,13.4417201 5.88135348,13.4732302 5.89040739,13.5017478 C6.32830342,14.8836162 7.54501016,15.8526845 8.96125123,15.973444 C7.77988958,16.84851 6.38349747,17.3095436 4.90805773,17.3095436 C4.6362662,17.3095436 4.36255942,17.2931724 4.09442428,17.2613102 C4.05611926,17.2569093 4.01816246,17.2799698 4.00492982,17.317113 C3.99169718,17.3546083 4.00580039,17.3965045 4.038882,17.4178046 C5.63550489,18.4530617 7.48163276,19 9.37790539,19 C15.580707,19 19.28724,13.9059223 19.28724,8.98118949 C19.28724,8.84405885 19.2846283,8.70763234 19.2792308,8.5715579 C19.9483499,8.07672576 20.5227511,7.47099208 20.9858936,6.76984786 C21.0066131,6.73851377 21.0043496,6.69679366 20.9801478,6.66757199 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.youtube.com/user/bannerhealthonline" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-186.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(186.000000, 205.000000)">
+                                    <path d="M9.95454545,14.9545645 L9.95454545,9.04543548 L15.1818182,12.0001129 L9.95454545,14.9545645 Z M21.5820455,7.18614516 C21.3520455,6.32559677 20.6743182,5.64795161 19.8138636,5.41796774 C18.2542045,5 12,5 12,5 C12,5 5.74579545,5 4.18613636,5.41796774 C3.32568182,5.64795161 2.64795455,6.32559677 2.41795455,7.18614516 C2,8.74579032 2,12 2,12 C2,12 2,15.2540968 2.41795455,16.8138548 C2.64795455,17.6744032 3.32568182,18.3520484 4.18613636,18.5821452 C5.74579545,19 12,19 12,19 C12,19 18.2542045,19 19.8138636,18.5821452 C20.6743182,18.3520484 21.3520455,17.6744032 21.5820455,16.8138548 C22,15.2540968 22,12 22,12 C22,12 22,8.74579032 21.5820455,7.18614516 L21.5820455,7.18614516 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.instagram.com/banner_health/" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-230.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(230.000000, 205.000000)">
+                                    <path d="M8,2 L16,2 C19.3137085,2 22,4.6862915 22,8 L22,16 C22,19.3137085 19.3137085,22 16,22 L8,22 C4.6862915,22 2,19.3137085 2,16 L2,8 C2,4.6862915 4.6862915,2 8,2 Z M18.5380348,6.66198662 C18.5380348,5.99923785 18.0007621,5.46196518 17.3380134,5.46196518 C16.6753043,5.46196518 16.1380316,5.99923785 16.1380316,6.66198662 C16.1380316,7.32473538 16.6753043,7.86196836 17.3380134,7.86196836 C18.0007621,7.86196836 18.5380348,7.32473538 18.5380348,6.66198662 Z M12.0000198,15.3333333 C10.1590422,15.3333333 8.66666667,13.8409578 8.66666667,12.0000198 C8.66666667,10.1590422 10.1590422,8.66666667 12.0000198,8.66666667 C13.8409578,8.66666667 15.3333333,10.1590422 15.3333333,12.0000198 C15.3333333,13.8409578 13.8409578,15.3333333 12.0000198,15.3333333 Z M12.0000198,6.86486808 C9.16392671,6.86486808 6.86486808,9.16392671 6.86486808,12.0000198 C6.86486808,14.8360733 9.16392671,17.1351319 12.0000198,17.1351319 C14.8360733,17.1351319 17.1351319,14.8360733 17.1351319,12.0000198 C17.1351319,9.16392671 14.8360733,6.86486808 12.0000198,6.86486808 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+</div>
+
+
+			
+			<!-- SearchBox For Mobile  -->
+			
+
+
+<!-- Mobile View -->
+<div class="navbar-search-mobile d-sm-block d-md-block d-lg-none">
+	<div class="search-box-mobile" data-js="search-box-mobile">
+		<form autocomplete="off" action="/healthcareblog/searchresults" method="get" novalidate>
+			<input type="search" name="searchTerm" id="search-box-input-mobile" data-js="search-box-input-mobile" placeholder=Search />
+		</form>
+	</div>
+	<button class="search-trigger" data-js="search-trigger-mobile">
+		<!-- search icon -->
+		<svg class="search-icon-mobile" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-758.000000, -200.000000)" fill="#56595D">
+					<g id="icon" transform="translate(758.000000, 200.000000)">
+						<path d="M12.502,6.491 L11.708,6.491 L11.432,6.765 C12.407,7.902 13,9.376 13,10.991 C13,14.581 10.09,17.491 6.5,17.491 C2.91,17.491 0,14.581 0,10.991 C0,7.401 2.91,4.491 6.5,4.491 C8.115,4.491 9.588,5.083 10.725,6.057 L11.001,5.783 L11.001,4.991 L15.999,0 L17.49,1.491 L12.502,6.491 L12.502,6.491 Z M6.5,6.491 C4.014,6.491 2,8.505 2,10.991 C2,13.476 4.014,15.491 6.5,15.491 C8.985,15.491 11,13.476 11,10.991 C11,8.505 8.985,6.491 6.5,6.491 L6.5,6.491 Z" id="ðŸŽ¨-icon-color" transform="translate(8.745000, 8.745500) scale(1, -1) translate(-8.745000, -8.745500) "></path>
+					</g>
+				</g>
+			</g>
+		</svg>
+		<!-- / search icon -->
+		<!-- close icon -->
+		<svg class="close-icon-mobile" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="icon-/-utility-/-ic_close-/-ic_close_material" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<polygon fill="#56595D" id="path-1" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+			</g>
+		</svg>
+		<!-- / close icon -->
+	</button>
+</div>
+		</div>
+	</nav>
+	<!-- Main Nav -->
+	<nav class="navbar navbar-collapse navbar-main-v2-links">
+		<!-- Hamburger -->
+		
+		<!-- Hamburger -->
+		
+    
+
+    <div class="navbar-menu-desktop" data-js="navbar-menu-desktop">
+        <button id="global-menu-open" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button" class="menu-trigger d-none d-lg-block">
+            <!-- menu icon -->
+            <svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-702.000000, -200.000000)" fill="#56595D">
+                        <g id="icon" transform="translate(702.000000, 200.000000)">
+                            <path d="M18,14 L0,14 L0,12 L18,12 L18,14 Z M12,8 L0,8 L0,6 L12,6 L12,8 Z M0,2 L0,0 L18,0 L18,2 L0,2 Z" id="ðŸŽ¨-icon-color"></path>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+            <!-- / menu icon -->
+        </button>
+
+        <div class="collapse navbar-collapse mobile-menu main-menu" id="mobile-menu" data-js="mobile-menu">
+            <button id="global-menu-open" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button" class="menu-trigger-mobile d-lg-none">
+                <!-- close icon -->
+                <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g id="icon-/-utility-/-ic_close-/-ic_close_material" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <polygon fill="#7b7f84" id="path-1" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+                    </g>
+                </svg>
+                <!-- / menu icon -->
+            </button>
+
+            <div class="mobile-menu-inner">
+                <div class="mobile-menu-column-1" data-js="mobile-menu-text-columns" data-links-max="10">
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/healthcareblog/category/better-me">Better Me</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/healthcareblog/category/teach-me">Teach Me</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/healthcareblog/category/advise-me">Advise Me</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/healthcareblog/category/inspire-me">Inspire Me</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                    <h3 class="mobile-menu-heading no-sublinks d-lg-none"><a class="language-toggle os-language" href="javascript:SetLanguage(); ">Espa&#241;ol</a>
+<input name="__RequestVerificationToken" type="hidden" value="mpYKmL-q34jW3qYX1-nl_iFbB6W_X6jitM3z0jEXCk0NCyxc8jq4U_Q7ZTxlDWuAPHIxq5l3LOQfhV958Qo4Y6MXtGDJhtd4MeJ80fPB_N81" />
+
+    <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var url = new URL(window.location.href);
+      var urlParam = new URLSearchParams(url.search);
+      var pathName = window.location.pathname;
+       if(pathName == '/locations' || pathName == '/es/locations') {
+            urlParam.delete("services");
+            urlParam.delete("loctype");
+          }
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var antiForgeryToken = $('input[name="__RequestVerificationToken"]').first().val();
+      var model = {
+        "language": "es",
+        "url": "https://www.bannerhealth.com/es/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for",
+        "sitename": "healthcareblog",
+        "urlparams": urlParam.toString(),
+        "__RequestVerificationToken": antiForgeryToken
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (response) {
+          var data = response.LanguageDerivedToggleURL;// redirect URL
+          var urlparams = response.QueryStringParams;//Querystring parameters
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          if (urlparams != null && urlparams != '') {
+            urlParam = urlparams;
+          }
+          window.location.href = data + '?' + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+    </script>
+</h3>
+                    <h3 class="mobile-menu-heading no-sublinks d-lg-none"><a href="https://#/healthcareblog/teach-me/delayed-symptoms-after-a-head-injury-what-to-watch-for" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self">Enable Accessibility</a>
+
+
+</h3>
+                </div>
+                <div class="mobile-menu-column-3 d-none d-lg-block">
+                    
+
+
+  <div class="featured-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/flyout/global-main-menu-feature.jpg?h=328&w=491&hash=C57F655ACE7D66C2D53A6F1AEC3A486E)'>
+    <!-- inline bg image so it can be dynamic -->
+    <div class="featured-copy">
+      <span class="featured-eyebrow"></span>
+      <h3 class="featured-header">Have you listened?</h3>
+        <div class="featured-paragraph"><p>Bedside Stories highlights captivating personal stories that take place behind the scenes in health care.</p></div>
+      <a class="btn btn-primary-bh " href="" target="">Episodes</a>
+    </div>
+  </div>
+
+                </div>
+                <div class="mobile-menu-column-4 d-lg-none">
+                    <div class="mobile-menu-column-4 d-lg-none">
+                        <!-- Social Links -->
+                        
+<div class="navbar-social">
+        <a href="https://www.facebook.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-98.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(98.000000, 205.000000)">
+                                    <g id="🎨-icon-color">
+                                        <path d="M21.6234294,3.0037452 L19.2248841,3 C16.5302007,3 14.7887779,4.73870978 14.7887779,7.42982429 L14.7887779,9.4722699 L12.3771479,9.4722699 C12.1687544,9.4722699 12,9.63668425 12,9.83948691 L12,12.7987578 C12,13.0015605 12.1689469,13.1657876 12.3771479,13.1657876 L14.7887779,13.1657876 L14.7887779,20.6329703 C14.7887779,20.8357729 14.9575324,21 15.1659258,21 L18.312417,21 C18.5208105,21 18.6895649,20.8355857 18.6895649,20.6329703 L18.6895649,13.1657876 L21.5093229,13.1657876 C21.7177163,13.1657876 21.8864708,13.0015605 21.8864708,12.7987578 L21.8876253,9.83948691 C21.8876253,9.74211167 21.8477939,9.64885615 21.7771749,9.57994445 C21.7065558,9.51103274 21.6103446,9.4722699 21.510285,9.4722699 L18.6895649,9.4722699 L18.6895649,7.74086327 C18.6895649,6.9086795 18.8933403,6.48622078 20.0072736,6.48622078 L21.6230445,6.485659 C21.8312456,6.485659 22,6.32124466 22,6.11862926 L22,3.37077494 C22,3.16834681 21.831438,3.00411972 21.6234294,3.0037452 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://twitter.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-142.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(142.000000, 205.000000)">
+                                    <path d="M20.9801478,6.66757199 C20.9557719,6.63852634 20.9155516,6.62866843 20.8812512,6.64451151 C20.3730133,6.8724758 19.83831,7.03636364 19.2875883,7.13318245 C19.8722622,6.68852006 20.3078947,6.07275242 20.5312826,5.36667924 C20.5420777,5.33288067 20.5309344,5.29591349 20.5035986,5.27390922 C20.4760886,5.25190494 20.4379577,5.24908839 20.407836,5.26721992 C19.7493379,5.66206463 19.0361681,5.9403747 18.2871308,6.0947567 C17.6234093,5.3983654 16.6966019,5 15.7374093,5 C13.7866391,5 12.1997666,6.60437571 12.1997666,8.57648686 C12.1997666,8.8150132 12.2225755,9.0512511 12.2678451,9.28062366 C9.56594821,9.1119829 7.039558,7.8005281 5.32175195,5.67033824 C5.30416647,5.64851 5.27752707,5.63636364 5.24966887,5.63918018 C5.22198479,5.64129259 5.19726064,5.65713567 5.18333154,5.68125236 C4.86992683,6.22484597 4.70434467,6.8467748 4.70434467,7.47944172 C4.70434467,8.57595876 5.19708652,9.60118194 6.03614058,10.2776814 C5.60416442,10.2252232 5.18228686,10.0877405 4.80184836,9.87421099 C4.77625364,9.85960015 4.74439083,9.85977619 4.71879611,9.87473909 C4.69320139,9.88952597 4.67700881,9.9169873 4.67631236,9.94691311 L4.67596413,9.99268201 C4.67596413,11.567484 5.70236456,12.9502326 7.16265641,13.4093298 C6.77803918,13.471998 6.37897052,13.4677732 5.98669228,13.3920785 C5.95778941,13.3866214 5.92749362,13.3966554 5.90764465,13.4191877 C5.8879698,13.4417201 5.88135348,13.4732302 5.89040739,13.5017478 C6.32830342,14.8836162 7.54501016,15.8526845 8.96125123,15.973444 C7.77988958,16.84851 6.38349747,17.3095436 4.90805773,17.3095436 C4.6362662,17.3095436 4.36255942,17.2931724 4.09442428,17.2613102 C4.05611926,17.2569093 4.01816246,17.2799698 4.00492982,17.317113 C3.99169718,17.3546083 4.00580039,17.3965045 4.038882,17.4178046 C5.63550489,18.4530617 7.48163276,19 9.37790539,19 C15.580707,19 19.28724,13.9059223 19.28724,8.98118949 C19.28724,8.84405885 19.2846283,8.70763234 19.2792308,8.5715579 C19.9483499,8.07672576 20.5227511,7.47099208 20.9858936,6.76984786 C21.0066131,6.73851377 21.0043496,6.69679366 20.9801478,6.66757199 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.youtube.com/user/bannerhealthonline" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-186.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(186.000000, 205.000000)">
+                                    <path d="M9.95454545,14.9545645 L9.95454545,9.04543548 L15.1818182,12.0001129 L9.95454545,14.9545645 Z M21.5820455,7.18614516 C21.3520455,6.32559677 20.6743182,5.64795161 19.8138636,5.41796774 C18.2542045,5 12,5 12,5 C12,5 5.74579545,5 4.18613636,5.41796774 C3.32568182,5.64795161 2.64795455,6.32559677 2.41795455,7.18614516 C2,8.74579032 2,12 2,12 C2,12 2,15.2540968 2.41795455,16.8138548 C2.64795455,17.6744032 3.32568182,18.3520484 4.18613636,18.5821452 C5.74579545,19 12,19 12,19 C12,19 18.2542045,19 19.8138636,18.5821452 C20.6743182,18.3520484 21.3520455,17.6744032 21.5820455,16.8138548 C22,15.2540968 22,12 22,12 C22,12 22,8.74579032 21.5820455,7.18614516 L21.5820455,7.18614516 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.instagram.com/banner_health/" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-230.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(230.000000, 205.000000)">
+                                    <path d="M8,2 L16,2 C19.3137085,2 22,4.6862915 22,8 L22,16 C22,19.3137085 19.3137085,22 16,22 L8,22 C4.6862915,22 2,19.3137085 2,16 L2,8 C2,4.6862915 4.6862915,2 8,2 Z M18.5380348,6.66198662 C18.5380348,5.99923785 18.0007621,5.46196518 17.3380134,5.46196518 C16.6753043,5.46196518 16.1380316,5.99923785 16.1380316,6.66198662 C16.1380316,7.32473538 16.6753043,7.86196836 17.3380134,7.86196836 C18.0007621,7.86196836 18.5380348,7.32473538 18.5380348,6.66198662 Z M12.0000198,15.3333333 C10.1590422,15.3333333 8.66666667,13.8409578 8.66666667,12.0000198 C8.66666667,10.1590422 10.1590422,8.66666667 12.0000198,8.66666667 C13.8409578,8.66666667 15.3333333,10.1590422 15.3333333,12.0000198 C15.3333333,13.8409578 13.8409578,15.3333333 12.0000198,15.3333333 Z M12.0000198,6.86486808 C9.16392671,6.86486808 6.86486808,9.16392671 6.86486808,12.0000198 C6.86486808,14.8360733 9.16392671,17.1351319 12.0000198,17.1351319 C14.8360733,17.1351319 17.1351319,14.8360733 17.1351319,12.0000198 C17.1351319,9.16392671 14.8360733,6.86486808 12.0000198,6.86486808 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+</div>
+
+
+
+                        <a href="/">
+                            <span>BannerHealth.com</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+		<!-- Nav Links -->
+		    
+    <ul class="navbar-desktop-links d-none d-lg-flex">
+
+        <li class="">
+            <a class="has-sub-menu" href="/healthcareblog/category/better-me">Better Me</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/healthcareblog/category/teach-me">Teach Me</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/healthcareblog/category/advise-me">Advise Me</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/healthcareblog/category/inspire-me">Inspire Me</a>
+
+        </li>
+    </ul>
+
+		<!-- Search -->
+		
+
+		<!-- SearchBox For Desktop  -->
+		
+
+
+<!-- Desktop View -->
+<div class="navbar-search-desktop d-none d-lg-block" data-js="navbar-search-desktop">
+	<button class="search-trigger" data-js="search-trigger">
+		<!-- search icon -->
+		<svg class="search-icon" data-js="search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-758.000000, -200.000000)" fill="#56595D">
+					<g id="icon" transform="translate(758.000000, 200.000000)">
+						<path d="M12.502,6.491 L11.708,6.491 L11.432,6.765 C12.407,7.902 13,9.376 13,10.991 C13,14.581 10.09,17.491 6.5,17.491 C2.91,17.491 0,14.581 0,10.991 C0,7.401 2.91,4.491 6.5,4.491 C8.115,4.491 9.588,5.083 10.725,6.057 L11.001,5.783 L11.001,4.991 L15.999,0 L17.49,1.491 L12.502,6.491 L12.502,6.491 Z M6.5,6.491 C4.014,6.491 2,8.505 2,10.991 C2,13.476 4.014,15.491 6.5,15.491 C8.985,15.491 11,13.476 11,10.991 C11,8.505 8.985,6.491 6.5,6.491 L6.5,6.491 Z" id="ðŸŽ¨-icon-color" transform="translate(8.745000, 8.745500) scale(1, -1) translate(-8.745000, -8.745500) "></path>
+					</g>
+				</g>
+			</g>
+		</svg>
+		<!-- / search icon -->
+		<!-- close icon -->
+		<svg class="close-icon" data-js="close-icon" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="icon-/-utility-/-ic_close-/-ic_close_material" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<polygon fill="#56595D" id="path-1" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+			</g>
+		</svg>
+		<!-- / close icon -->
+	</button>
+	<div class="search-box" data-js="search-box">
+		<form autocomplete="off" action="/healthcareblog/searchresults" method="get" novalidate>
+			<input type="search" name="searchTerm" data-js="search-box-input" id="search-box-input" placeholder=Search />
+		</form>
+	</div>
+</div>
+
+
+	</nav>
+</header>
+
+    
+    
+
+	<main class="alt-bg-2">
+		<div class="container-blog container-blog--full">
+
+
+			
+			
+
+
+
+<div class="sub-container-blog blog-load-event">
+  <div class="article-header">
+    <div class="article-header-byline-date">
+      <div class="article-header-left">
+By            <a class="article-header-left-link" href="/healthcareblog/authors/stephanie-thurrott">
+              Stephanie Thurrott
+            </a>
+, Contributing Writer      </div>
+      <div class="article-header-right">
+          <span class="article-header-date">October 16, 2026</span>
+          <time datetime="2026-10-16"></time>
+      </div>
+    </div>
+    <div class="article-header-eyebrow blog-card-eyebrow">
+<a class='article-header-eyebrow-link' href='/healthcareblog/category/teach-me'>Teach Me</a>    </div>
+      <h1 class="article-header-article-title">
+        Delayed Symptoms After a Head Injury: What to Watch For
+      </h1>
+  </div>
+    <div class="text-card-background-image-v3 " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/10/delayed-head-injury-symptoms.jpg?h=780&w=1170&hash=83924306DAD2FBB4300CA59849491EB6)'></div>
+
+  <div class="blog-layout-common blog-layout-common--article">
+    <div class="blog-layout-common-left">
+      <div class="article-content">
+        <div class="article-content-whole">
+<p>Not all head injuries cause noticeable symptoms right away. Sometimes, symptoms show up later after adrenaline wears off, after you rest or as the brain reacts to the injury.</p>
+<p>Delayed symptoms can happen after lots of different types of head injuries, including a fall, sports injury, car crash, bike or scooter crash, workplace injury or a hit to the head or body. Even if you don&rsquo;t pass out, you could still have a concussion or more serious head injury. And symptoms that get worse over time are more worrisome, compared to symptoms that slowly get better.</p>
+<p>&ldquo;There is a complex cascade of changes that can develop over time and cause new or worsening symptoms over the first few days,&rdquo; said <a rel="noopener noreferrer" href="https://doctors.bannerhealth.com/provider/ian-crain/461616?unified" target="_blank">Ian Crain</a>, MD, a neurologist specializing in sports injuries with Banner - University Medicine.</p>
+<p>If a head injury causes bleeding in the skull, brain bleed symptoms can build up over time and cause symptoms hours to months later.</p>
+<h2>Common symptoms after a head injury</h2>
+<p>Recognizing mild to moderate traumatic brain injury (TBI) symptoms early is key. <a href="/services/neurology/programs-care/head-injury">Common symptoms</a>&nbsp;you might notice right away include:</p>
+<ul>
+    <li>Headache or pressure in the head</li>
+    <li>Dizziness or balance problems</li>
+    <li>Nausea</li>
+    <li>Tiredness</li>
+    <li>Sensitivity to light or noise</li>
+    <li>Blurry vision</li>
+    <li>Feeling &ldquo;foggy&rdquo;</li>
+    <li>Trouble concentrating</li>
+    <li>Memory problems</li>
+    <li>Irritability, sadness or anxiety</li>
+    <li>Sleep changes</li>
+</ul>
+<p>You can have a <a href="/services/concussion/symptoms">concussion</a>&nbsp;even if you don&rsquo;t lose consciousness. In fact, only about 10% of people with concussions lose consciousness.</p>
+<h2>Delayed symptoms after a head injury: Key concussion warning signs</h2>
+<p>Watch for:</p>
+<ul>
+    <li>Headache that gets worse</li>
+    <li>Repeated vomiting</li>
+    <li>New or worsening confusion</li>
+    <li>Trouble remembering what happened</li>
+    <li>Being unusually sleepy or hard to wake</li>
+    <li>Behavior changes, irritability or agitation</li>
+    <li>Slurred speech</li>
+    <li>Dizziness or balance problems that get worse</li>
+    <li>Vision changes</li>
+    <li>Weakness or numbness</li>
+    <li>Trouble walking</li>
+    <li>Seizure</li>
+    <li>Fluid or blood from the nose or ears</li>
+    <li>One pupil that looks larger than the other</li>
+    <li>Symptoms that improve and then get worse</li>
+</ul>
+<p>Delayed symptoms could be caused by the head injury or by mood symptoms. &ldquo;For example, a student, athlete or worker who is worried about losing their spot on the team, losing their friends, falling behind in school or losing income can develop anxiety or depression that can take on a life of their own and worsen over time,&rdquo; Dr. Crain said.</p>
+<h2>When to go to the ER: Head injury red flags</h2>
+<p><a href="/services/emergency/when-to-go">Go to the ER</a> or call 911 for:</p>
+<ul>
+    <li>Loss of consciousness, even briefly</li>
+    <li>Worsening or severe headache</li>
+    <li>Repeated vomiting</li>
+    <li>New confusion, agitation or unusual behavior</li>
+    <li>Trouble waking up or staying awake</li>
+    <li>Seizure</li>
+    <li>Slurred speech or trouble talking</li>
+    <li>Weakness, numbness or trouble moving one side of the body</li>
+    <li>Trouble walking or poor coordination</li>
+    <li>Facial drooping</li>
+    <li>Vision changes or unequal pupils</li>
+    <li>Blood or clear fluid from the nose or ears</li>
+    <li>Severe neck pain</li>
+    <li>A head injury from a serious fall, car crash, assault or other major trauma</li>
+    <li>Any head injury in someone taking blood thinners</li>
+    <li>Any head injury with symptoms that are getting worse</li>
+</ul>
+<h2>Signs of a head injury in children</h2>
+<p><a href="/services/concussion/kids">Children</a> may not be able to explain headache, dizziness or confusion clearly. Watch for:</p>
+<ul>
+    <li>Behavior or personality changes</li>
+    <li>Irritability</li>
+    <li>Excessive crying</li>
+    <li>Unusual sleepiness</li>
+    <li>Vomiting</li>
+    <li>Poor feeding or refusing to eat</li>
+    <li>Loss of balance</li>
+    <li>Clumsiness</li>
+    <li>Not acting like themselves</li>
+    <li>A bulging soft spot, in babies</li>
+</ul>
+<p>Do not send a child back to sports or play after a suspected concussion until they are cleared. A second head injury before recovery can be dangerous.</p>
+<h2>Signs of a head injury in older adults</h2>
+<p>Older adults may be at higher risk for serious injury after a fall or head injury and symptoms may be subtle at first. &ldquo;Older adults can have a long window when they seem relatively fine and you might think you are &lsquo;out of the woods&rsquo; before symptoms start,&rdquo; Dr. Crain said.</p>
+<p>Do not assume confusion or weakness is just aging. And keep in mind that blood thinners can increase risk after a head injury.</p>
+<p>Watch for:</p>
+<ul>
+    <li>Confusion</li>
+    <li>Sleepiness</li>
+    <li>New balance problems</li>
+    <li>Headache that is getting worse</li>
+    <li>Vomiting</li>
+    <li>Weakness</li>
+    <li>A sudden change in daily function</li>
+</ul>
+<h2>What to do while watching for symptoms</h2>
+<p>After a suspected head injury, you should:</p>
+<ul>
+    <li>Have someone stay with you, if possible</li>
+    <li>Check symptoms over the next 24 to 48 hours or as long as a provider recommends</li>
+    <li>Write down when and how the injury happened and how symptoms change</li>
+    <li>Avoid alcohol, recreational drugs and activities that put you at risk of another head injury, including sports</li>
+    <li>Rest at first, then follow your provider&rsquo;s guidance for returning to school, work, driving, screens, exercise and sports</li>
+    <li>Ask a provider what pain medicine is safe, especially if there may be bleeding risk or you take blood thinners</li>
+    <li>Don&rsquo;t ignore symptoms that are getting worse</li>
+</ul>
+<h2>What a provider may check</h2>
+<p>When you <a href="/services/concussion/what-to-expect">see a provider for a head injury</a>, they may ask you about:</p>
+<ul>
+    <li>How the injury happened</li>
+    <li>Whether you lost consciousness</li>
+    <li>Symptoms and when they started</li>
+    <li>Medications, especially blood thinners</li>
+    <li>Past concussions or brain injuries</li>
+</ul>
+<p>They may perform a neurologic exam and check your balance, strength, speech, pupils and memory. They will consider whether you need imaging such as a CT scan or concussion follow-up, neurology, sports medicine or emergency care.&nbsp;</p>
+<p>They will recommend a plan for gradually returning to work, school, activity or sports. It can take up to three months to recover from a concussion.</p>
+<h2>Bottom line</h2>
+<p>Head injury symptoms can appear some time after an injury, even if you seemed fine at first. A mild headache or tiredness may get better with rest and monitoring but if you have a worsening headache after head injury, repeated vomiting, confusion, behavior changes, weakness, seizure, trouble waking or any symptom that gets worse, you should be checked right away.&nbsp;</p>
+<p>If you or someone you care for has symptoms after a head injury, a <a href="/physician-directory">Banner Health provider</a>&nbsp;can help determine <a href="/getcarenow/urgent-or-emergency">what kind of care you need</a>. When symptoms are severe or changing quickly, go to the ER or call 911.</p>
+<h2>FAQs about late head injury symptoms</h2>
+<h3>Can concussion symptoms show up the next day?</h3>
+<p>Yes. Having delayed concussion symptoms is common. Symptoms can appear later, including headache, dizziness, nausea, brain fog, mood changes, sleep changes or sensitivity to light and noise.</p>
+<h3>How long should you watch someone after a head injury?</h3>
+<p>Watch closely for at least the first 24 to 48 hours and follow provider instructions. Symptoms that worsen or appear later should be checked.</p>
+<h3>Is vomiting after a head injury serious?</h3>
+<p>Repeated vomiting after a head injury is a warning sign and should be evaluated urgently.</p>
+<h3>Can you have a serious head injury without passing out?</h3>
+<p>Yes. You do not have to lose consciousness to have a concussion or another serious head injury.</p>
+<h3>When should a child go to the ER after hitting their head?</h3>
+<p>Go to the ER for repeated vomiting, trouble waking, seizure, worsening headache, confusion, unusual behavior, poor feeding in a baby, trouble walking or symptoms that are getting worse.</p>
+<h2>Other useful articles</h2>
+<ul>
+    <li><a href="https://www.bannerhealth.com/healthcareblog/teach-me/how-to-tell-whether-a-bump-on-the-head-is-serious">How to Tell Whether a Bump on the Head is Serious&nbsp;</a></li>
+    <li><a href="https://www.bannerhealth.com/healthcareblog/teach-me/common-myths-about-concussions">Don&rsquo;t Fall for These 8 Common Myths About Concussions</a></li>
+    <li><a href="https://www.bannerhealth.com/healthcareblog/advise-me/preventing-brain-injuries">8 Tips to Prevent Head and Brain Injuries in Adults and Children</a></li>
+</ul>            
+
+
+  <div class="article-content-button-wrap">
+
+          <a class="bh-outlined-3-button bh-outlined-3-button--small" href="/healthcareblog/tags/emergency">Emergency</a>
+          <a class="bh-outlined-3-button bh-outlined-3-button--small" href="/healthcareblog/tags/safety">Safety</a>
+          <a class="bh-outlined-3-button bh-outlined-3-button--small" href="/healthcareblog/tags/neurosciences">Neurosciences</a>
+
+
+  </div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+    <div class="blog-layout-common-right">
+      <div class="ad-v2 ">
+        
+<a class="ad-v1-link" target="_self" href="/patients/banner-app">
+    <img class="ad-v1-image-1" src="/healthcareblog/-/media/images/project/healthcareblog/blogsad/ad-v2.jpg?h=1542&amp;w=524&amp;hash=12EA7B74806E2CF3DF28878C047C4AA2" alt="">
+</a>
+
+
+
+
+      </div>
+    </div>
+  </div>
+  <div class="ad-v1 d-block d-sm-none">
+    
+<a class="ad-v1-link" target="_self" href="/patients/banner-app">
+    <img class="ad-v1-image-1" src="/healthcareblog/-/media/images/project/healthcareblog/blogsad/ad-v1.jpg?h=742&amp;w=526&amp;hash=0EB05E1E5887109986F9B28E39D06483" alt="">
+</a>
+
+
+
+
+  </div>
+</div>
+
+<div class="emailSignupCard">
+  
+</div>
+
+<div class="blog-layout-full">
+  <div class="blog-layout-common blog-layout-common--article-bottom">
+    <div class="blog-layout-common-left">
+                      
+
+
+
+    <div class="text-card-related-articles-list">
+        <div class="text-card-related-articles-list-title">YOU MAY ALSO LIKE</div>
+        <div class="text-card-related-articles-list-inner">
+              <div class="text-card-article-card small-card small-card--alt">
+                  <div class="text-card-article-card-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/11/essential-tremor-treatment.jpg?h=780&w=1170&hash=2582C2FF2E7A10E7A38233353242FC21)'>
+                    <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/healthcareblog/better-me/essential-tremor-treatment" title="Essential Tremor Treatment: What to Know When Medication Is Not Enough"></a>
+                  </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    November 17, 2026
+                  </div>
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/healthcareblog/better-me/essential-tremor-treatment" title="Essential Tremor Treatment: What to Know When Medication Is Not Enough">Essential Tremor Treatment: What to Know When Medication Is Not Enough</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                  <div class="text-card-article-card-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/11/chiari-malformation.jpg?h=780&w=1170&hash=BFF444FEF26EB8127325A4B5E9F4195A)'>
+                    <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/healthcareblog/inspire-me/chiari-malformation-patient-story-leigh-ann-lyners" title="After Fifteen Years, Leigh-Ann Finally Has Her Life Back"></a>
+                  </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    November 15, 2026
+                  </div>
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/healthcareblog/inspire-me/chiari-malformation-patient-story-leigh-ann-lyners" title="After Fifteen Years, Leigh-Ann Finally Has Her Life Back">After Fifteen Years, Leigh-Ann Finally Has Her Life Back</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                  <div class="text-card-article-card-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/11/workplace-injury.jpg?h=780&w=1170&hash=A7E5F0A4A76A2D1509ECDB2FA9404E53)'>
+                    <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/healthcareblog/better-me/when-a-workplace-injury-should-get-checked" title="When Should You Get a Workplace Injury Checked Instead of Working Through It?"></a>
+                  </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    November 01, 2026
+                  </div>
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/healthcareblog/better-me/when-a-workplace-injury-should-get-checked" title="When Should You Get a Workplace Injury Checked Instead of Working Through It?">When Should You Get a Workplace Injury Checked Instead of Working Through It?</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                  <div class="text-card-article-card-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/10/understanding-late.jpg?h=780&w=1170&hash=1CD191C74A849C3268E2B589131E57F0)'>
+                    <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/healthcareblog/teach-me/understanding-late-and-how-it-compares-to-alzheimers" title="Understanding LATE and How It Compares to Alzheimer’s"></a>
+                  </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    October 30, 2026
+                  </div>
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/healthcareblog/teach-me/understanding-late-and-how-it-compares-to-alzheimers" title="Understanding LATE and How It Compares to Alzheimer’s">Understanding LATE and How It Compares to Alzheimer’s</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                  <div class="text-card-article-card-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/10/easing-upset-stomach-from-medication.jpg?h=780&w=1170&hash=FD144556DB2C922618F14089C7F065C2)'>
+                    <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/healthcareblog/better-me/how-to-ease-an-upset-stomach-from-medications" title="7 Tips to Ease an Upset Stomach From Antibiotics and Other Medications"></a>
+                  </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    October 14, 2026
+                  </div>
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/healthcareblog/better-me/how-to-ease-an-upset-stomach-from-medications" title="7 Tips to Ease an Upset Stomach From Antibiotics and Other Medications">7 Tips to Ease an Upset Stomach From Antibiotics and Other Medications</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                  <div class="text-card-article-card-image " style='background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2026/10/herniated-disc-surgery.jpg?h=780&w=1170&hash=671BD02A5F6137DF4097582B6B69432E)'>
+                    <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/healthcareblog/teach-me/do-you-always-need-surgery-for-a-herniated-disk" title="Do You Always Need Surgery for a Herniated Disk?"></a>
+                  </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    October 12, 2026
+                  </div>
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/healthcareblog/teach-me/do-you-always-need-surgery-for-a-herniated-disk" title="Do You Always Need Surgery for a Herniated Disk?">Do You Always Need Surgery for a Herniated Disk?</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+                  
+                </div>
+              </div>
+
+        </div>
+    </div>
+
+    </div>
+    <div class="blog-layout-common-right">
+      <div class="text-card-feature-article-list">
+            
+
+
+    <div class="text-card-feature-article-list-title"> Featured</div>
+        <div class="text-card-feature-article-list-inner">
+            <div class="text-card-feature-article-list-article">
+                    <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                        <!--  Primary Category Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-eyebrow-link" href="/healthcareblog/category/teach-me" title="Teach Me">Teach Me</a>
+                    </div>
+                                    <div class="text-card-feature-article-list-article-title">
+                        <!-- Article Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/healthcareblog/teach-me/causes-of-bleeding-during-and-after-sex" title="Is Bleeding During or After Sex Normal?">Is Bleeding During or After Sex Normal?</a>
+                    </div>
+            </div>
+        </div>
+        <div class="text-card-feature-article-list-inner">
+            <div class="text-card-feature-article-list-article">
+                    <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                        <!--  Primary Category Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-eyebrow-link" href="/healthcareblog/category/advise-me" title="Advise Me">Advise Me</a>
+                    </div>
+                                    <div class="text-card-feature-article-list-article-title">
+                        <!-- Article Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/healthcareblog/advise-me/the-pros-and-cons-of-ashwagandha-for-athletes" title="Benefits of Ashwagandha: A Natural Boost for Athletes and Sports Enthusiasts">Benefits of Ashwagandha: A Natural Boost for Athletes and Sports Enthusiasts</a>
+                    </div>
+            </div>
+        </div>
+        <div class="text-card-feature-article-list-inner">
+            <div class="text-card-feature-article-list-article">
+                    <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                        <!--  Primary Category Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-eyebrow-link" href="/healthcareblog/category/better-me" title="Better Me">Better Me</a>
+                    </div>
+                                    <div class="text-card-feature-article-list-article-title">
+                        <!-- Article Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/healthcareblog/better-me/tips-to-reduce-your-cortisol-levels" title="Stressed? Here’s How to Lower Your Cortisol Levels ">Stressed? Here’s How to Lower Your Cortisol Levels </a>
+                    </div>
+            </div>
+        </div>
+
+        
+
+
+
+
+
+    <div class="text-card-feature-article-list-title text-card-feature-article-list-title--second">RECENT</div>
+    <div class="text-card-feature-article-list-inner text-card-feature-article-list-inner--second">
+                    <div class="text-card-feature-article-list-article">
+                        <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                            <a class="text-card-feature-article-list-article-eyebrow-link" href="/healthcareblog/category/better-me" title="Kids and Asthma: Why Symptoms Can Come and Go">Better Me</a>
+                        </div>
+
+                        <div class="text-card-feature-article-list-article-title">
+                            <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/healthcareblog/better-me/child-asthma-symptoms-come-and-go" title="Kids and Asthma: Why Symptoms Can Come and Go">Kids and Asthma: Why Symptoms Can Come and Go</a>
+                        </div>
+                    </div>
+                    <div class="text-card-feature-article-list-article">
+                        <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                            <a class="text-card-feature-article-list-article-eyebrow-link" href="/healthcareblog/category/advise-me" title="8 Ways to Beat Holiday Bloat, Constipation and Discomfort">Advise Me</a>
+                        </div>
+
+                        <div class="text-card-feature-article-list-article-title">
+                            <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/healthcareblog/advise-me/holiday-bloating-gas-and-constipation-tips" title="8 Ways to Beat Holiday Bloat, Constipation and Discomfort">8 Ways to Beat Holiday Bloat, Constipation and Discomfort</a>
+                        </div>
+                    </div>
+                    <div class="text-card-feature-article-list-article">
+                        <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                            <a class="text-card-feature-article-list-article-eyebrow-link" href="/healthcareblog/category/teach-me" title="Drink Water Before Bedtime? Why It Might Trigger a Nighttime Cough">Teach Me</a>
+                        </div>
+
+                        <div class="text-card-feature-article-list-article-title">
+                            <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/healthcareblog/teach-me/can-drinking-water-before-bed-cause-a-cough" title="Drink Water Before Bedtime? Why It Might Trigger a Nighttime Cough">Drink Water Before Bedtime? Why It Might Trigger a Nighttime Cough</a>
+                        </div>
+                    </div>
+
+    </div>
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="emailSignupCard">
+  
+</div>
+
+<div class="emailSignupCard">
+  
+<!-- Padding classes are optional and other classes should be added here-->
+<div class="shell-card email-shell-card px-xl-5 py-5 mb-4 js-animation-trigger is-animated bg-white">
+	<div class="px-xl-5 p-0">
+
+
+			<div class="form-row my-2 mx-2">
+				<div class="col-12 col-xl-6 order-xl-first">
+					<h2 class="shell-card-title d-xl-none">Enjoying our blog?</h2>
+						<div class="shell-card-image" align="center">
+							<img src="/healthcareblog/-/media/images/project/healthcareblog/email/busy-dad-email-card.jpg?h=357&amp;iar=0&amp;w=536&amp;hash=797AD9A222CA18C35DC0E9D339E6E659" alt="Busy dad email card" />
+						</div>
+
+				</div>
+				<div class="col-12 col-xl-6 shell-content">
+					<div class="col-12">
+							<h2 class="shell-card-title d-none d-xl-block mt-3 mb-3">Enjoying our blog?</h2>
+													<p class="shell-card-text mt-xl-n4 mt-lg-4 mt-md-4 mt-sm-4 mt-4"><p><br />
+Stay connected with Banner Health.&nbsp;Sign up to receive helpful health tips, expert insights and updates from Banner Health - delivered straight to your inbox.</p></p>
+					</div>
+					<div class="col-12 shell-form-container">
+						<div class="shell-form-wrapper">
+              <form class="form-inline" data-js="validate-form-ajax" data-url="/api/sitecore/EmailShellCard/ToEmailSignUp" data-method="post" data-validate-button="#validate-button" data-placement="bottom" data-icon="fal fa-exclamation-triangle" data-hide-messages="focus" novalidate>
+                <div class="form-group mb-2 mr-2 w-sm-100">
+                  
+                    <input type="email" value="" name="email" class="form-control input-lg email-input" data-error="There was an issue attempting your request, please try again." data-success="You&#39;re signed up! You&#39;ll hear from us soon." placeholder="Enter email to sign up" aria-label="Enter email to sign up" required>
+                  <input name="ListId" id="ListId" value="10433" hidden="hidden">
+                </div>
+                <button type="button" class="btn btn-primary mb-2 btn-primary--large" id="validate-button" value="Enter">Sign Up</button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>
+<script>
+	window.addEventListener("load", function () {
+		$.js('validate-form-ajax').validatorAjax(undefined, $.globalFunctions().emailValidation('success'), $.globalFunctions().emailValidation('fail'), $.globalFunctions().emailValidation('always'));
+	});
+</script>
+</div>
+
+
+  <script>
+    $(document).ready(function () {
+
+      var googleArticles = {
+        "@context": "https://www.schema.org",
+        "@type": "NewsArticle",
+        "headline": "",
+        "image": [],
+        "datePublished": "",
+        "author": []
+      }
+      googleArticles.headline = $.trim($(".article-header-article-title").text());
+      googleArticles.image.push(window.location.origin + $('.text-card-background-image-v3 img').attr('src'));
+      googleArticles.datePublished = $.trim($('.article-header-right time').attr('datetime'));
+      googleArticles.author.push({
+        "@type": "Person",
+        "name": $.trim($(".article-header-left-link").text())
+      })
+
+      var jsonStrb = JSON.stringify(googleArticles);
+
+      var eventjson = document.createElement("script");
+      eventjson.type = "application/ld+json";
+      eventjson.id = "ArticleJson";
+      $("body").append(eventjson);
+      $('#ArticleJson').append(jsonStrb);
+    })
+  </script>
+
+
+
+		</div>
+	</main>
+
+
+    
+<footer class="global-footer">
+	<div class="container">
+		<div class="row">
+			<!-- Footer Logo -->
+			<div class="mb-5 col-12 mb-xl-0 col-xl-3">
+				<div class="row">
+					<div class="col-10 col-sm-6 col-md-5 col-lg-4 col-xl-10">
+						
+
+<a class="header-logo" href="/healthcareblog" title="Go to home page">
+  <img src="/healthcareblog/-/media/images/project/healthcareblog/logos/global-logo-v2-white.svg?iar=0&amp;hash=E93E679C6299E9D103A8D117E6FCC213" alt="global-logo-v2-white" DisableWebEdit="True" />
+</a>
+					</div>
+				</div>
+			</div>
+			<!-- Footer Links -->
+			
+
+
+
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h3 class="footer-column-title">
+				<a href="/">
+					Banner Health
+				</a>
+			</h3>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/physician-directory" target="">
+                Doctors
+              </a>
+						</li>
+						<li>
+              <a href="/services" target="">
+                Services
+              </a>
+						</li>
+						<li>
+              <a href="/locations" target="">
+                Locations
+              </a>
+						</li>
+						<li>
+              <a href="/health-professionals" target="">
+                For Health Professionals
+              </a>
+						</li>
+						<li>
+              <a href="/employees" target="">
+                For Employees
+              </a>
+						</li>
+						<li>
+              <a href="/services/volunteer" target="">
+                Volunteers
+              </a>
+						</li>
+						<li>
+              <a href="" target="">
+                Insurance
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h3 class="footer-column-title">
+				<a href="/about">
+					About
+				</a>
+			</h3>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/about/glance/quality" target="">
+                Quality
+              </a>
+						</li>
+						<li>
+              <a href="/about/glance/news/connect" target="">
+                News
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/newsroom" target="">
+                For Media
+              </a>
+						</li>
+						<li>
+              <a href="/ways-to-give" target="">
+                Ways to Give
+              </a>
+						</li>
+						<li>
+              <a href="/ways-to-give/foundations" target="">
+                Donate Now
+              </a>
+						</li>
+						<li>
+              <a href="/careers" target="">
+                Careers
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h3 class="footer-column-title">
+				<a href="/patients">
+					Patient Center
+				</a>
+			</h3>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/patients/billing" target="">
+                Bill Pay and Information
+              </a>
+						</li>
+						<li>
+              <a href="/calendar" target="">
+                Classes and Events
+              </a>
+						</li>
+						<li>
+              <a href="/staying-well" target="">
+                Health and Wellness
+              </a>
+						</li>
+						<li>
+              <a href="/patients/billing/financial-assistance" target="">
+                Help Paying Your Bill
+              </a>
+						</li>
+						<li>
+              <a href="/patients/medical-records" target="">
+                Medical Records
+              </a>
+						</li>
+						<li>
+              <a href="/patients/patient-account" target="">
+                Patient Account
+              </a>
+						</li>
+						<li>
+              <a href="/patients/registration" target="">
+                Patient Registration
+              </a>
+						</li>
+						<li>
+              <a href="/patients/billing/pricing-resources/hospital-price-transparency" target="">
+                Pricing Transparency
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h3 class="footer-column-title">
+				<a href="/contact-us">
+					Connect With Us
+				</a>
+			</h3>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/contact-us" target="">
+                Contact
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/healthcareblog" target="">
+                Read Our Blog
+              </a>
+						</li>
+						<li>
+              <a href="/staying-well/expert" target="">
+                Ask an Expert
+              </a>
+						</li>
+						<li>
+              <a href="/about/glance/news/connect" target="">
+                Newsletter Sign Up
+              </a>
+						</li>
+			</ul>
+		</div>
+
+
+
+
+			<!-- Footer Social Links -->
+			<div class="mt-3 col-12 col-sm-6 mt-xl-0 col-xl-1">
+				<div class="row">
+					
+
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.facebook.com/BannerHealth" target="_blank">
+				<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-82.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Facebook">
+                        <path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M22.0988805,32.8452426 L22.0988805,21.350948 L25.1980195,21.350948 L25.6087223,17.3899504 L22.0988805,17.3899504 L22.1041459,15.407433 C22.1041459,14.3743438 22.2000204,13.8207911 23.6493275,13.8207911 L25.586783,13.8207911 L25.586783,9.85934489 L22.4872053,9.85934489 C18.7641139,9.85934489 17.4536822,11.7808549 17.4536822,15.0122304 L17.4536822,17.390399 L15.132948,17.390399 L15.132948,21.3513966 L17.4536822,21.3513966 L17.4536822,32.8452426 L22.0988805,32.8452426 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://twitter.com/BannerHealth" target="">
+				<svg width="42px" height="43px" viewBox="0 0 198 198" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112.501 196.62C160.531 189.926 197.503 148.679 197.503 98.7874H197.517C197.517 44.23 153.3 0 98.7583 0C44.217 0 0 44.23 0 98.7874C0 147.953 35.9133 188.736 82.9329 196.308C88.0811 197.139 93.3678 197.568 98.7513 197.568C103.415 197.568 108.01 197.243 112.501 196.62ZM85.8293 104.911L40.2837 44H40.2906H75.3944L105.253 83.9316L142.204 44H152.522L109.862 90.0989L157.967 154.437H122.864L90.4448 111.079L50.3173 154.437H40L85.8293 104.911ZM71.5747 51.6001H55.4517L126.663 146.837H142.786L71.5747 51.6001Z" fill="white"/>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.youtube.com/user/bannerhealthonline" target="">
+				<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-333.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Youtube" transform="translate(251.000000, 0.000000)">
+                        <path d="M0,21.1271676 C0,9.45895456 9.36831871,0 20.9247268,0 C32.4811348,0 41.8494535,9.45895456 41.8494535,21.1271676 C41.8494535,32.7953807 32.4811348,42.2543353 20.9247268,42.2543353 C9.36831871,42.2543353 0,32.7953807 0,21.1271676 Z M31.8154079,16.874512 C31.8154079,16.874512 31.5974083,15.2876512 30.9294798,14.5888567 C30.0818582,13.6712841 29.1318535,13.6669661 28.6965507,13.6137109 C25.5776935,13.3805395 20.8994078,13.3805395 20.8994078,13.3805395 L20.889657,13.3805395 C20.889657,13.3805395 16.2113712,13.3805395 13.092514,13.6137109 C12.6565147,13.6669661 11.7072065,13.6712841 10.8588885,14.5888567 C10.1909599,15.2876512 9.97365678,16.874512 9.97365678,16.874512 C9.97365678,16.874512 9.75078177,18.7384438 9.75078177,20.6016559 L9.75078177,22.349002 C9.75078177,24.2129338 9.97365678,26.0761459 9.97365678,26.0761459 C9.97365678,26.0761459 10.1909599,27.6630067 10.8588885,28.3618012 C11.7072065,29.2793738 12.8208851,29.2505872 13.316782,29.3463026 C15.0997821,29.5233402 20.8945324,29.5780347 20.8945324,29.5780347 C20.8945324,29.5780347 25.5776935,29.570838 28.6965507,29.3376666 C29.1318535,29.2836918 30.0818582,29.2793738 30.9294798,28.3618012 C31.5974083,27.6630067 31.8154079,26.0761459 31.8154079,26.0761459 C31.8154079,26.0761459 32.038283,24.2129338 32.038283,22.349002 L32.038283,20.6016559 C32.038283,18.7384438 31.8154079,16.874512 31.8154079,16.874512 Z" id="Combined-Shape"></path>
+                        <polygon id="Path" points="18.5933479 24.4662558 18.5926514 17.9957497 24.6144556 21.2421575"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.instagram.com/banner_health/" target="_blank">
+				<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="42px" height="43px" viewBox="0 0 42 43" style="enable-background:new 0 0 42 43;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<circle class="st0" cx="20.9" cy="21.6" r="4.4"/>
+	<path class="st0" d="M31.3,13.7c-0.2-0.6-0.5-1.1-1-1.5c-0.5-0.5-0.9-0.8-1.5-1c-0.5-0.2-1.2-0.4-2.5-0.5c-1.4-0.1-1.8-0.1-5.4-0.1
+		s-4,0-5.4,0.1c-1.3,0.1-2,0.3-2.5,0.5c-0.6,0.2-1.1,0.5-1.5,1s-0.8,0.9-1,1.5c-0.2,0.5-0.4,1.2-0.5,2.5C10,17.6,10,18,10,21.6
+		c0,3.6,0,4,0.1,5.4c0.1,1.3,0.3,2,0.5,2.5c0.2,0.6,0.5,1.1,1,1.5c0.5,0.5,0.9,0.8,1.5,1c0.5,0.2,1.2,0.4,2.5,0.5
+		c1.4,0.1,1.8,0.1,5.4,0.1s4,0,5.4-0.1c1.3-0.1,2-0.3,2.5-0.5c0.6-0.2,1.1-0.5,1.5-1s0.8-0.9,1-1.5c0.2-0.5,0.4-1.2,0.5-2.5
+		c0.1-1.4,0.1-1.8,0.1-5.4c0-3.6,0-4-0.1-5.4C31.7,14.9,31.5,14.2,31.3,13.7z M20.9,28.4c-3.8,0-6.8-3.1-6.8-6.8
+		c0-3.8,3.1-6.8,6.8-6.8s6.8,3.1,6.8,6.8C27.8,25.4,24.7,28.4,20.9,28.4z M28.1,16.1c-0.9,0-1.6-0.7-1.6-1.6s0.7-1.6,1.6-1.6
+		c0.9,0,1.6,0.7,1.6,1.6S28.9,16.1,28.1,16.1z"/>
+	<path class="st0" d="M20.9,1.1C9.6,1.1,0.5,10.3,0.5,21.6c0,11.3,9.2,20.5,20.5,20.5s20.5-9.2,20.5-20.5
+		C41.4,10.3,32.3,1.1,20.9,1.1z M34.2,27.1c-0.1,1.4-0.3,2.4-0.6,3.2c-0.3,0.9-0.8,1.6-1.5,2.4c-0.7,0.7-1.5,1.2-2.4,1.5
+		c-0.8,0.3-1.8,0.6-3.2,0.6c-1.4,0.1-1.9,0.1-5.5,0.1s-4.1,0-5.5-0.1c-1.4-0.1-2.4-0.3-3.2-0.6c-0.9-0.3-1.6-0.8-2.4-1.5
+		c-0.7-0.7-1.2-1.5-1.5-2.4c-0.3-0.8-0.6-1.8-0.6-3.2c-0.1-1.4-0.1-1.9-0.1-5.5c0-3.6,0-4.1,0.1-5.5c0.1-1.4,0.3-2.4,0.6-3.2
+		c0.3-0.9,0.8-1.6,1.5-2.4c0.7-0.7,1.5-1.2,2.4-1.5c0.8-0.3,1.8-0.6,3.2-0.6c1.4-0.1,1.9-0.1,5.5-0.1s4.1,0,5.5,0.1
+		c1.4,0.1,2.4,0.3,3.2,0.6c0.9,0.3,1.6,0.8,2.4,1.5c0.7,0.7,1.2,1.5,1.5,2.4c0.3,0.8,0.6,1.8,0.6,3.2c0.1,1.4,0.1,1.9,0.1,5.5
+		C34.3,25.2,34.2,25.7,34.2,27.1z"/>
+</g>
+</svg>
+
+
+			</a>
+		</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="row footer-utility">
+			<!-- Footer Copyright -->
+			<div class="col-12 order-last order-lg-first col-lg-3">
+				<span>
+
+
+</span>
+			</div>
+			<!-- Footer Bottom Links -->
+			
+
+
+			<div class="col-12 offset-0 offset-lg-1 col-lg-2">
+				<a href="/about/legal-notices/terms" target="">
+					Terms of Use
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/about/legal-notices/privacy" target="">
+					Privacy Policy
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/about/legal-notices/nondiscrimination" target="">
+					Nondiscrimination
+				</a>
+			</div>
+
+		</div>
+	</div>
+</footer>
+
+
+    <script src="/static/healthcareblog/scripts/blog.min.js"></script>
+    
+</body>
+</html>

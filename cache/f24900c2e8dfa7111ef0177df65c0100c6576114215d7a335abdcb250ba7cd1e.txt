@@ -1,0 +1,875 @@
+[PDF PAGE 1]
+
+NIST Technical Note 1839 
+
+Movement on Stairs During Building 
+Evacuations 
+
+Erica D. Kuligowski 
+Richard D. Peacock 
+Paul A. Reneke 
+Emily Wiess 
+Charles R. Hagwood 
+Kristopher J. Overholt 
+Rena P. Elkin 
+Jason D. Averill 
+Enrico Ronchi 
+Bryan L. Hoskins 
+Michael Spearpoint 
+
+This publication is available free of charge from: 
+http://dx.doi.org/10.6028/NIST.TN.1839 
+
+[PDF PAGE 2]
+
+NIST Technical Note 1839 
+ 
+Movement on Stairs During Building 
+Evacuations 
+ 
+Erica D. Kuligowski 
+Richard D. Peacock 
+Paul A. Reneke 
+Emily Wiess 
+Kristopher J. Overholt 
+Rena P. Elkin 
+Jason D. Averill 
+Fire Research Division 
+Engineering Laboratory 
+ 
+Charles R. Hagwood 
+Statistical Engineering Division 
+Information Technology Laboratory 
+ 
+Enrico Ronchi 
+Lund University 
+Lund, Sweden 
+ 
+Bryan L. Hoskins 
+Oklahoma State University 
+Stillwater, OK 
+ 
+Michael Spearpoint 
+University of Canterbury 
+Christchurch, New Zealand 
+ 
+This publication is available free of charge from 
+http://dx.doi.org/10.6028/NIST.TN.1839 
+ 
+January 2015 
+
+U.S. Department of Commerce 
+Penny Pritzker, Secretary 
+ 
+National Institute of Standards and Technology 
+Willie May, Acting Under Secretary of Commerce for Standards and Technology and Acting Director 
+
+[PDF PAGE 3]
+
+Certain commercial entities, equipment, or materials may be identified in this 
+ document in order to describe an experimental procedure or concept adequately. 
+Such identification is not intended to imply recommendation or endorsement by the 
+National Institute of Standards and Technology, nor is it intended to imply that the 
+entities, materials, or equipment are necessarily the best available for the purpose. 
+
+National Institute of Standards and Technology Technical Note 1839 
+Natl. Inst. Stand. Technol. Tech. Note 1839, 213 pages (January 2015) 
+This publication is available free of charge from: 
+http://dx.doi.org/10.6028/NIST.TN.1839 
+CODEN: NTNOEF 
+
+[PDF PAGE 4]
+ 
+iii 
+ 
+Abstract 
+ 
+The time that it takes an occupant population to reach safety when descending a stair during 
+building evacuations is typically estimated by measureable engineering variables such as stair 
+geometry, speed, stair density, and pre-observation delay. In turn, engineering models of 
+building evacuation use these variables to predict the performance of egress systems for building 
+design, emergency planning, or event reconstruction. As part of a program to better understand 
+occupant movement and behavior during building emergencies, the Engineering Laboratory at 
+the National Institute of Standards and Technology (NIST) has been collecting stair movement 
+data during fire drill evacuations of office and residential buildings. These data collections are 
+intended to provide a better understanding of this principal building egress feature and develop a 
+technical foundation for future codes and standards requirements. NIST has collected fire drill 
+evacuation data in 14 buildings (11 office buildings and 3 residential buildings) ranging from six 
+to 62 stories in height that have included a range of stair widths and occupant densities. A total 
+of more than 22000 individual measurements are included in the data set. 
+ 
+This report provides details of the data collected, an analysis of the data, and examples of the use 
+of the data. The intention is to better understand movement during stair evacuations and provide 
+data to test the predictive capability of building egress models. 
+ 
+While mean movement speeds in the current study of 0.44 m/s ± 0.19 m/s are observed to be 
+quite similar to the range of values in previous studies, mean local movement speeds as 
+occupants traverse down the stairs are seen to vary widely within a given stair, ranging from 
+0.10 m/s ± 0.008 m/s to 1.7 m/s ± 0.13 m/s. These data provide confirmation of the adequacy of 
+existing literature values typically used for occupant movement speeds and provide updated data 
+for use in egress modeling or other engineering calculations. 
+ 
+Keywords: Disabled, egress, egress modeling, evacuation, fire safety, human behavior, mobility 
+impairments 
+
+[PDF PAGE 5]
+ 
+iv 
+ 
+Executive Summary 
+
+The time that it takes an occupant population to reach safety when descending a stair during 
+building evacuations is typically estimated using measureable engineering variables such as stair 
+geometry, speed, stair density, and pre-observation delay. In turn, engineering models of 
+building evacuation use these variables to predict the performance of egress systems for building 
+design, emergency planning, or event reconstruction. As part of a program to better understand 
+occupant movement and behavior during building emergencies, the Engineering Laboratory at 
+the National Institute of Standards and Technology (NIST) has been collecting stair movement 
+data during fire drill evacuations of office and residential buildings. These data collections are 
+intended to provide a better understanding of this principal building egress feature and develop a 
+technical foundation for future codes and standards requirements. 
+ 
+Chapter 2 includes a review of previous studies of occupant movement during building 
+evacuations. At least three key features of these studies influenced the current study. First, much 
+of the literature data is several decades or more old. There has been considerable discussion on 
+the applicability of the older data with the assumption that current populations would be slower 
+than that represented by the older data. Newly-collected data can be compared with historical 
+data partly to assess the applicability of historical data to current building populations. Second, 
+the literature data include only buildings up to 21 stories in height. Taller buildings were of 
+particular interest. The buildings selected for study included a wide range of building heights. 
+Finally, none of the literature studies include data beyond mean values or ranges of values. With 
+more sophisticated egress models under development, this study endeavors to provide detailed 
+data for model development and validation. 
+ 
+This project provides a freely available set of raw data on evacuation-related people movement 
+on stairs in the United States. The data of people movement on stairs consist of the times that 
+each individual is observed by every video camera in every stair in every building observed by 
+NIST (14 buildings total). Within the dataset, 11 of the 14 buildings were office buildings, and 3 
+buildings were residential. Of the residential buildings, two of the buildings (with a total of 172 
+evacuees) were exclusively labeled as assisted living facilities or elderly housing, which 
+provided valuable evacuation timing data for people with mobility impairments and elderly 
+occupants. A total of 5244 people (at a total of 173 camera locations) were observed over the 14 
+NIST-observed buildings, which ranged from 6 to 62 stories in height. A total of more than 
+22000 individual measurements are included in the data set. 
+ 
+This report provides details of the data collected, an analysis of the data, and examples of the use 
+of the data. The intention is to better understand movement during stair evacuations and provide 
+data to test the predictive capability of building egress models. 
+ 
+Measurements and Data Collection 
+ 
+In this study, data from fire drill evacuations were collected by positioning video cameras out of 
+the way of building occupants to record an overhead view of occupant movement in an exit stair 
+during an evacuation. In most cases, video cameras were placed on specific floors throughout the 
+
+[PDF PAGE 6]
+ 
+v 
+ 
+building to capture a view of that floor’s main landing, the door into the stair at that level, and 2-
+6 steps on each side of the main landing (leading to and from the main landing). This camera 
+placement captured the times in which the occupant was seen moving past a particular floor 
+landing as well as the time when he/she was seen moving into the stairs. Video cameras were 
+placed at least every other floor, sometimes every floor, in each stair, with the exception of 
+Building 6. Since Building 6 was a 62-story building, the number of cameras available for 
+observation made it impossible to place cameras on every other floor in all four stairs. Therefore, 
+cameras were placed nominally every 6 floors throughout each stair. Details of camera 
+placement are available in section 3.1 and Appendix A. Data obtained from the video records 
+included timing of each occupant as he/she entered and left every camera view and additional 
+data such as the occupants location on the stairs and handrail usage. Finally, overall 
+characteristics of the occupants such as gender, body size, floor of origin, whether he/she was 
+carrying anything during evacuation, and whether he/she was assisting or being assisted by 
+someone during the evacuation, were also obtained. 
+ 
+Along with the movement timing, stair geometry including distance travelled on the stairs and 
+landings, stair widths, stair tread depth, stair riser height, and landing size were measured in all 
+of the buildings to allow calculation of delay moving to the stairs for evacuation, stair movement 
+speed, density, and flow. 
+ 
+The data collected and analyzed from these stairs, available on the NIST website at 
+http://www.nist.gov/el/ fire_research/egress.cfm, is a primary output of this research and is 
+intended as a resource for engineers and model developers. 
+ 
+Pre‐Observation Delay 
+ 
+Pre-observation delay was defined for each occupant as the time from the initial alarm until the 
+occupant was seen entering the stair to evacuate the building. Across 30 stairs, the mean pre-
+observation delay of occupants was 230 s ± 53 s. Able-bodied participants had a mean time of 
+160 s ± 11 s before evacuating into the stairwell. The lowest delays occurred in building 12, with 
+stairwell 12A occupants initiating evacuation after 35 s and 12B after 34 s. The quick pace could 
+be attributed to low overall building population and building height as well as pre-announced 
+evacuations. Stairs with mobility-impaired occupants began to evacuate after a longer period of 
+time, 850 s ± 430 s. These facilities would normally have had higher delays than stairs with able-
+bodied occupants, having to wait for fire fighter rescue. Evacuees in Building 10, an assisted-
+living facility, had the longest delay at 1708 s. The extensive delay within the assisted living 
+facility can be explained by the placement of several participants in stair descent devices before 
+evacuation. Firefighters who assisted evacuees often had to spend additional time setting up the 
+device and ensuring that the occupant was safe and comfortable. Section 4.3 discusses pre-
+observation delay. 
+ 
+Movement Speed 
+ 
+Overall movement speed for each occupant was determined from the total travel distance (from 
+where he/she entered the stair to the exit at the bottom of the stairwell) divided by the difference 
+between entry and exit times. For mean speeds and associated uncertainties, this report uses the 
+
+[PDF PAGE 7]
+ 
+vi 
+ 
+harmonic mean which is more appropriate for means that involve averaging travel over different 
+distances. Appendix B includes details of the calculation of mean speeds and their associated 
+uncertainties. Local speeds represent the speeds of evacuees between camera observation points 
+in successive camera views. Section 5.1 discusses occupant speed and density during stair 
+evacuation. 
+ 
+Overall speeds varied from 0.07 m/s to 1.71 m/s with a mean of 0.44 m/s ± 0.19 m/s1. The range 
+encompassing observations in this study overlaps with the movement speeds found in previous 
+studies. The mean local speeds varied widely within and among stairs, ranging from 0.10 m/s 
+± 0.008 m/s to 1.7 m/s ± 0.13 m/s. Individual local movement speeds ranged from 0.06 m/s to 
+2.8 m/s. 
+
+Variable Sample Size Mean ± Std. Error Median 
+Pre‐observation delay time (s) 5249 230 ± 53 170 
+Overall Speed (m/s) 5244 0.44 ± 0.19 0.47 
+Peak Density (persons/m2) 21303 1.87 ± 0.16 2.04 
+
+The flow of occupants out the exit door at the bottom of the stairs was seen to be dependent 
+largely on the number of occupants using the stair and the height of the building. The following 
+correlation was found to fit the data with an R2 of 0.88: 
+
+13
+0.42 total ave
+exit
+PF D    
+ 
+where Fave is the mean flow out the exit door in persons/s, Ptotal is the total number of people 
+using the stair, and Dexit is the maximum distance travelled by people using the stair. This 
+correlation was found to work well for the middle 90 % of those exiting the stairs. 
+ 
+In all stairs, there were a small number of outliers who evacuated early and late in the 
+evacuation. These were estimated to add an average of 22 % to the total evacuation time for a 
+building with a range as high as 61 %. Section 5.3 discusses occupant flow and the impact of 
+early and late evacuees. The table below shows the fraction of the total evacuation time it takes 
+for the early and late evacuees. On average, the early and late evacuees each account for about 
+20 % of the total stair evacuation time with a wide range for both. Thus, estimation of evacuation 
+time must include an initial pre-evacuation time (time taken by the early evacuees to reach the 
+stairwells), the time taken by the bulk of the evacuees (time taken by the middle 90 % in the 
+analysis in this report), and the added evacuation time for late evacuees. For the latter, a design 
+margin is typically included in the estimates. Section 5.3 discusses occupant flow and the impact 
+of early and late evacuees. 
+
+1 In this report, uncertainties represent one standard deviation, unless otherwise noted. 
+
+[PDF PAGE 8]
+ 
+vii 
+
+ Fraction of Total Evacuation Time 
+ Mean Range 
+First 5 % 0.20 ± 0.12 0.03 ‐ 0.46 
+Last 5 % 0.22 ± 0.18 0.01 ‐ 0.61 
+
+Movement Speed for Mobility‐Impaired Occupants 
+ 
+Although egress calculations in egress models have been revised to incorporate various 
+behaviors of able-bodied occupants, negligible amounts of egress movement data have been 
+collected for the disabled. Two buildings (Buildings 9 and 10) in the current study were occupied 
+exclusively by older, predominately mobility-impaired adults. Evacuees, whose movements and 
+behavior were analyzed while descending the stairs, included those visually identified as older as 
+well as individuals needing assistance from canes, walkers, stair travel devices, and/or other 
+people (often staff or firefighters). 
+ 
+Occupants evacuated Buildings 9 and 10 at a mean speed of 0.28 m/s ± 0.17 m/s with a range 
+from 0.07 m/s to 0.94 m/s. People assisted by staff members or another occupant evacuated at a 
+mean speed of 0.24 m/s ± 0.13 m/s. Those assisted by firefighters had a mean speed of 0.14 m/s 
+± 0.05 m/s. Individuals in stair travel devices travelled at a mean speed of 0.20 m/s ± 0.04 m/s. 
+The older population without any disabilities moved faster than the other groups at 0.35 m/s ± 
+0.17 m/s. In some cases, speeds observed in the current study approximate the speeds of disabled 
+people and older adults found in earlier studies, and in other cases were slower than previous 
+studies. Slower speeds may have resulted from observing a wider variety of mobility 
+impairments (because one of the observed buildings was an assisted-living facility). In addition, 
+the assistance to evacuees provided by untrained populations on the use of the stair descent 
+devices, rather than trained populations. Section 5.2 details the evacuation of mobility-impaired 
+occupants in the current study. 
+ 
+Parameters That Influence Occupant Movement 
+ 
+From regression modeling and Bayesian analysis of both the flow correlations (see section 5.3) 
+and point process modeling (see section 5.4), the two most significant variables were the number 
+of occupants using the stairs and the height of the building, with a clear regression between these 
+variables and flow out the stairs at the exit door. 
+ 
+Surprisingly, stair width did not have a statistically significant impact on occupant flow. Some of 
+this may be simply because typical building design calls for increased stair capacity (typically by 
+increased stair width) as floor population in the building increases. Another possible explanation 
+for the contradiction in findings (on the effect of stair effective width) is the lack of variance in 
+effective width among NIST-observed building samples. All of the buildings observed in this 
+study were code-compliant buildings with effective stair widths ranging from 756 mm (29.75 in) 
+to 1232 mm (48.5 in), with the majority (62 %) of stairs falling within the narrow range of 
+729 mm (28.7 in) to 813 mm (32 in). 
+
+[PDF PAGE 9]
+ 
+viii 
+ 
+Additional observation of tall buildings in the United States and experimentation in a laboratory 
+setting of evacuations using a wider range of stair widths would be needed to increase the 
+strength of the findings in this report and potentially provide concrete evidence of the benefits 
+(or lack thereof) of incremental increases in stair widths. 
+ 
+Techniques for Improved Egress modeling 
+ 
+In addition to providing additional data on occupant movement in stair egress, the report also 
+included more detailed analysis of path selection and clustering. 
+ 
+A detailed analysis of some of the data (see section 5.5) showed that both variation of movement 
+speeds and path selection can be successfully described with a single parameter distribution for a 
+base path. 
+ 
+Sample comparisons of the data to an existing egress model (see section 5.6) demonstrate the 
+usefulness of the data for model validation. These comparisons show that the level of detail in 
+the model inputs can have a significant impact on the quality of the predictions. Additional 
+analysis of the data would help better define the necessary range of inputs and their appropriate 
+use in a range of egress models. 
+ 
+Point process modeling was seen as a promising technique to quantitatively account for 
+clustering of occupants during stair egress. Use of the Hawke’s point process model (see section 
+5.4) showed a consistent measure of clustering in all of the stairs, regardless of crowding, stair 
+width, door placement, etc. Additional study would be required to better understand its 
+applicability to egress modeling. 
+ 
+Additional Research Needs 
+ 
+This report provides just a beginning in understanding the additional human behavior-related 
+factors that impact movement beyond classic hydraulic calculation-based variables. Additional 
+research is needed to better understand these factors, including the following: 
+ 
+ To fully understand overall exit times for building egress, a better understanding of 
+movement and behavior of occupants prior to entering the stairs is required. This report 
+presented a simple analysis of the time occupants take to arrive at the stair for egress. No 
+data was collected in this study of occupant movements prior to entering the stairs. 
+ Additional data on movement speeds, particularly in taller buildings and with various 
+stair widths are needed to better understand the important variables that impact stair 
+movement speeds. 
+ Additional analysis of stair movement data to determine the best values and distributions 
+for egress model inputs would facilitate modeling and help understand additional data 
+needs through use of the data. 
+ Additional analysis of stair movement data using the Hawke’s point process model would 
+help clarify clustering in stair movement and its impact on occupant flow. 
+ Further analysis is needed to fully understand whether fatigue occurs during building 
+evacuations, and if so, the factors that impact fatigue, including distance traveled, age, 
+
+[PDF PAGE 10]
+ 
+ix 
+ 
+physical ability, fitness level, etc. Additionally, if fatigue is present in certain conditions 
+during building evacuations, it will be important to understand its impact on occupant 
+movement speeds and flow. 
+ Additional analysis of merging behavior is needed, including an understanding of the 
+proportion of stair users versus occupants entering the stairs for a variety of building 
+scenarios (i.e., building type, occupant type, scenario type, etc.). 
+ Analysis of the evacuation timing of stairs versus elevators is needed, including the 
+benefits of evacuation via elevators for different types and heights of buildings. 
+ Data collection and analysis of behavioral data before and during stair evacuation as well 
+as elevator evacuation is needed. This includes additional information on the movement 
+of occupants with mobility impairments on stairs and other building egress components. 
+ Since all of the analyses in this report are based on fire drill evacuations, additional 
+research on the similarities or differences between these evacuations and real fire 
+emergencies is needed to place the results in context. 
+
+[PDF PAGE 12]
+ 
+xi 
+
+Table of Contents 
+ 
+Abstract .......................................................................................................................................... iii 
+Executive Summary ....................................................................................................................... iv 
+Measurements and Data Collection ........................................................................................... iv 
+Pre-Observation Delay ................................................................................................................ v 
+Movement Speed ........................................................................................................................ v 
+Movement Speed for Mobility-Impaired Occupants ................................................................ vii 
+Parameters That Influence Occupant Movement ...................................................................... vii 
+Techniques for Improved Egress modeling ............................................................................. viii 
+Additional Research Needs ...................................................................................................... viii 
+Table of Contents ........................................................................................................................... xi 
+Tables and Figures ....................................................................................................................... xiv 
+1 Introduction ............................................................................................................................. 1 
+1.1 Purpose ............................................................................................................................. 2 
+1.2 Report Organization ......................................................................................................... 2 
+2 Background and Previous Research........................................................................................ 4 
+2.1 Earlier Studies on Pre-evacuation Timing/Delays and Behavior ..................................... 5 
+2.1.1 Real Fire Incidents .................................................................................................... 5 
+2.1.2 Evacuation Studies .................................................................................................... 6 
+2.2 Earlier Studies on Stair Movement ................................................................................ 13 
+2.2.1 Actual Fires ............................................................................................................. 13 
+2.2.2 Fire Drills ................................................................................................................ 14 
+2.2.3 Normal Conditions .................................................................................................. 16 
+2.2.4 Laboratory Experiments .......................................................................................... 18 
+2.2.5 Behavioral Aspects ................................................................................................. 19 
+2.2.6 Summary ................................................................................................................. 20 
+2.3 Building Code Provisions on Stair Egress ..................................................................... 31 
+2.3.1 Determination of Stairway Capacity in the National Model Building Codes ........ 31 
+2.3.2 Usability Requirements in the National Model Building Codes ............................ 32 
+2.4 Egress modeling ............................................................................................................. 33 
+2.4.1 Analytical tools ....................................................................................................... 33 
+2.4.2 Simulation models .................................................................................................. 35 
+
+[PDF PAGE 13]
+ 
+xii 
+ 
+3 Experimental Data Collection and Methods ......................................................................... 41 
+3.1 Video Observation Procedures ....................................................................................... 41 
+3.2 Occupant Data from Video Records .............................................................................. 42 
+3.3 Stair Geometry Data ....................................................................................................... 45 
+3.4 Buildings Included in the Study ..................................................................................... 46 
+3.4.1 Building 1................................................................................................................ 50 
+3.4.2 Building 2................................................................................................................ 50 
+3.4.3 Building 3................................................................................................................ 51 
+3.4.4 Building 4................................................................................................................ 51 
+3.4.5 Building 5................................................................................................................ 52 
+3.4.6 Building 6................................................................................................................ 52 
+3.4.7 Building 7................................................................................................................ 53 
+3.4.8 Building 8................................................................................................................ 54 
+3.4.9 Building 9................................................................................................................ 54 
+3.4.10 Building 10.............................................................................................................. 55 
+3.4.11 Building 11.............................................................................................................. 56 
+3.4.12 Building 12.............................................................................................................. 56 
+3.4.13 Building 13.............................................................................................................. 57 
+3.4.14 Building 14.............................................................................................................. 58 
+4 Overall Results ...................................................................................................................... 59 
+4.1 Calculations .................................................................................................................... 59 
+4.1.1 Occupant Movement Timing .................................................................................. 59 
+4.1.2 Pre-Observation Delay ............................................................................................ 59 
+4.1.3 Travel Time ............................................................................................................. 59 
+4.1.4 Movement Speed .................................................................................................... 60 
+4.1.5 Density .................................................................................................................... 60 
+4.2 Summary of Data Collected ........................................................................................... 61 
+4.3 Pre-Observation Delay Time .......................................................................................... 63 
+4.4 Movement Speeds .......................................................................................................... 69 
+4.4.1 Overall Movement Speeds ...................................................................................... 70 
+4.4.2 Local Movement Speeds ......................................................................................... 73 
+5 Discussion and Analysis ....................................................................................................... 75 
+5.1 Comparison of Speed and Density Results with Literature Values ............................... 75 
+5.2 Stairwell Use by People with Disabilities ...................................................................... 76 
+
+[PDF PAGE 14]
+ 
+xiii 
+ 
+5.3 Flow on Stairs ................................................................................................................. 81 
+5.3.1 Early and Late Evacuees ......................................................................................... 81 
+5.3.2 Analysis of Flow ..................................................................................................... 83 
+5.4 Point Process Modeling of Egress Timing ..................................................................... 87 
+5.4.1 Important Parameters Influencing Occupant Egress ............................................... 88 
+5.4.2 Clustering of Occupants During Egress .................................................................. 95 
+5.5 Use of the Data for Detailed Analysis of Evacuee Movement .................................... 101 
+5.5.1 Introduction ........................................................................................................... 101 
+5.5.2 Tracking Travel Paths ........................................................................................... 102 
+5.5.3 Tracking occupant walking speeds ....................................................................... 105 
+5.5.4 Tracking occupant usage of landing areas ............................................................ 107 
+5.6 Use of the Data to Inform Egress modeling ................................................................. 110 
+5.6.1 Network Model ..................................................................................................... 110 
+5.6.2 Representation of Agents in the Simulations ........................................................ 111 
+5.6.3 Representation of Stairs in Model......................................................................... 112 
+5.6.4 Effect of stair entry time ....................................................................................... 113 
+5.6.5 Baseline Results .................................................................................................... 115 
+5.6.6 Discussion ............................................................................................................. 120 
+5.7 Discussion of Results ................................................................................................... 120 
+6 Summary ............................................................................................................................. 122 
+6.1 Movement Speed .......................................................................................................... 122 
+6.2 Important Parameters that Effect Stair Egress ............................................................. 123 
+6.3 Techniques for Improved Egress modeling ................................................................. 124 
+6.4 Implications of the Data for Building Code Requirements .......................................... 124 
+6.5 Additional Research Needs .......................................................................................... 126 
+Acknowledgments....................................................................................................................... 128 
+References ................................................................................................................................... 129 
+ 
+Appendix A. Building Details ..................................................................................................... A-1 
+Appendix B. Calculating Mean Movement Speeds .................................................................... B-1 
+Appendix C. Local Travel Speeds ..............................................................................................C-1 
+Appendix D. Parameter Estimation using Linear Least Squares and Bayesian Inference ........ D-1 
+Appendix E. Point Process Modeling ......................................................................................... E-1 
+
+[PDF PAGE 15]
+ 
+xiv 
+ 
+Tables and Figures 
+ 
+Table 1. Summary of pre-evacuation time literature .................................................................... 10 
+Table 2. Summary of stair movement speed literature ................................................................. 21 
+Table 3. Main features of egress models ...................................................................................... 38 
+Table 4. Buildings included in the current study .......................................................................... 47 
+Table 5. Overall Results for Occupant Evacuation in 30 Stairs ................................................... 63 
+Table 6. Results for occupant evacuation in 30 stairs divided between 
+able-bodied and mobility-impaired evacuees ............................................................................... 63 
+Table 7. Summary of travel times, overall speeds, and peak density during stair evacuations in 14 
+buildings. ....................................................................................................................................... 75 
+Table 8. Mean speeds on stairs for all evacuees and within various disability groups. 
+(Uncertainties are one standard deviation from the mean.) .......................................................... 78 
+Table 9. Overall speeds on stairways for evacuees on stair travel devices 
+from Buildings 9 and 10. .............................................................................................................. 79 
+Table 10. Impact of early and late evacuees on overall evacuation time 
+for the thirty stairs included in the study. ..................................................................................... 83 
+Table 11. Values for 7 models determined using Bayesian inference and linear least squares. ... 85 
+Table 12. Maximum likelihood estimates for pre-observation times for each stairwell. ............. 89 
+Table 13. Maximum likelihood estimates for stair travel times for each stairwell. ...................... 90 
+Table 14. Building parameters that correlate with average intensity using LLS and Bayesian 
+Inference ....................................................................................................................................... 92 
+Table 15. Building parameters that correlate with  determined by LLS and Bayesian inference
+....................................................................................................................................................... 95 
+Table 16. Building parameter correlations with α from LLS and Bayesian inference ................. 99 
+Table 17. The results of fitting α in terms of β. Extra significant figures added to demonstrate the 
+closeness of the results. ............................................................................................................... 100 
+Table 18. Table of distributions: percentage of occupants modeled, percentage with stair entry 
+time ............................................................................................................................................. 114 
+Table 19. Summary of total evacuation time from selected fire drills compared to the range of 
+total times from simulations........................................................................................................ 115 
+
+Figure 1. Major components of a building evacuation. .................................................................. 4 
+Figure 2. Typical stair landing showing camera view with entry locations for occupant 
+movement timing from stairs above, stair entry door, and exit from camera view for one of the 
+buildings in the study. ................................................................................................................... 41 
+Figure 3. Camera locations in stairs included in the study. Stair numbering includes the building 
+number (assigned chronologically by NIST) and the stair number (A, B, N, S, 1, 2, etc.) as 
+described in the building. .............................................................................................................. 43 
+Figure 4. Overview of camera view and landing / stair travel distance during stair evacuation 
+observations. ................................................................................................................................. 46 
+Figure 5. Sample size in each stairwell included in the analysis. ................................................. 62 
+Figure 6. Pre-stairwell evacuation delay time during fire drill evacuations in 14 buildings. The 
+median, represented by the black line, is encased around the middle 50 % of the data with the 
+whiskers signifying the 10th and 90th percentile. The red circles denote outliers. ........................ 64 
+
+[PDF PAGE 16]
+ 
+xv 
+ 
+Figure 7. Distribution of pre-observation delay in stair evacuations with able-bodied occupants.
+....................................................................................................................................................... 65 
+Figure 8. Distribution of residential pre-observation delay time in building fire drill evacuations 
+with mobility-impaired occupants. ............................................................................................... 66 
+Figure 9. Comparison of mean (median) pre-stairwell evacuation time and stairwell 
+travel time for 14 building fire drill evacuations. ......................................................................... 67 
+Figure 10. Comparison of pre-observation delay with total evacuation time for 14 building fire 
+drill evacuations. ........................................................................................................................... 68 
+Figure 11. Comparison of travel time with total evacuation time for 14 building fire drill 
+evacuations. ................................................................................................................................... 69 
+Figure 12. Stair travel speeds in 14 building fire drill evacuations. Shaded area represents the 
+overall mean speed and standard deviation for all 30 stairs. ........................................................ 70 
+Figure 13. Distribution of stair movement speeds in buildings fire drill evacuations with able-
+bodied occupants. .......................................................................................................................... 72 
+Figure 14. Distribution of stair movement speeds in building fire drill evacuations with mobility-
+impaired occupants. ...................................................................................................................... 73 
+Figure 15. Sample fraction of stair population evacuated as a function of time since building 
+alarm ............................................................................................................................................. 82 
+Figure 16. Riser height vs. occupant type flag (1 - non-residential, 2 - residential) ..................... 94 
+Figure 17. Fundamental relationship between branching ratio and average intensity with data 
+from 31 stair evacuation travel times. ........................................................................................... 97 
+Figure 18. Point process intensity compared to stair density. Note quadratic form consistent with 
+current relationship between flow and density. ............................................................................ 98 
+Figure 19. β vs. α and the linear fit. ............................................................................................ 100 
+Figure 20. Example of the video analysis method for a stair landing. ........................................ 104 
+Figure 21. Schematic representation of the occupants. Point A represents the point used as 
+reference for the reconstruction of the trajectories (the middle point between the feet). ........... 104 
+Figure 22. Complete sample of PTP lengths (black bars) against data presented compared to the 
+additional number of people in the landings (grey bars). The x axis is the same in the four graphs 
+and it represents the relative differences of the experimental path paths (h) and reference travel 
+paths. The percentages indicate the intervals of relative differences to the reference paths. ..... 105 
+Figure 23. PWS (expressed in %) in relation to the number of occupants in the landing (condition 
+1). Walking speeds are indicated within the intervals where the speeds (x in the figure axis) fall.
+..................................................................................................................................................... 107 
+Figure 24. Occupants are modelled as ellipses of fixed dimensions. ......................................... 108 
+Figure 25. Reconstruction of the area occupied by one occupant within a CAD tool. ............... 108 
+Figure 26. Example of 2D and 3D representation of PEA (expressed in percent) for all occupants 
+of the two stairs in building 12. .................................................................................................. 109 
+Figure 27. Sample stair geometry and representation as a series of nodes and arcs ................... 113 
+Figure 28. Measured stair entry delay times and derived Weibull distribution for Building 4. . 114 
+Figure 29. Total evacuation times from selected drills compared with EvacuatioNZ predictions 
+(mean values with uncertainties expressed as one standard deviation. maximum and minimum 
+times are shown by range bars). .................................................................................................. 116 
+Figure 30. Evacuation times for 95 % of building occupants from selected drills compared with 
+EvacuatioNZ predictions (maximum and minimum predicted values indicated). ..................... 116 
+
+[PDF PAGE 17]
+ 
+xvi 
+ 
+Figure 31. Cumulative number of people exiting Building 4 where simulations randomly assign 
+floors to agents and use a global stair entry delay time. ............................................................. 117 
+Figure 32. Cumulative number of people exiting Building 5 where simulations randomly assign 
+floors to agents and use a global stair entry delay time. ............................................................. 117 
+Figure 33. Cumulative number of people exiting Stair 6-5 and Stair 6-5A where simulations 
+randomly assign floors to agents and use a global stair entry delay time. .................................. 118 
+Figure 34. Cumulative number of people exiting Building 7 where simulations randomly assign 
+floors to agents and use a global stair entry delay time. ............................................................. 119 
+Figure 35. Cumulative number of people exiting Stair 8N and Stair 8S where simulations 
+randomly assign floors to agents and use a global stair entry delay time. .................................. 120 
+
+[PDF PAGE 18]
+ 
+1 
+ 
+Movement on Stairs During Building Evacuations 
+ 
+Erica D. Kuligowski, Richard D. Peacock, Paul A. Reneke, Emily Wiess, 
+Charles R. Hagwood, Kristopher J. Overholt, Rena P. Elkin and Jason D. Averill 
+National Institute of Standards and Technology 
+ 
+Enrico Ronchi 
+Lund University 
+Bryan L. Hoskins 
+Oklahoma State University 
+Michael Spearpoint 
+University of Canterbury 
+
+1 Introduction 
+ 
+Science-based egress designs and evacuation procedures have significant potential to mitigate 
+the growing costs of fire protection features in building construction, which are now 
+approximately $63 billion annually in the United States [1]. Adoption and appropriate use of 
+efficient egress designs and advanced egress technologies can provide safer and more cost 
+effective building designs, particularly for taller buildings. 
+ 
+The tragic loss of life in the 2001 World Trade Center attacks sheds light on the levels of safety 
+provided by tall buildings in the United States, and the technical foundation of the mechanisms 
+used to provide or assess these levels of fire safety: U.S.-based prescriptive and performance-
+based codes and standards. In prescriptive codes, building egress systems are designed around 
+outdated stair capacity concepts in the building codes and standards or numerical egress models 
+where the limited amount of usable input or validation data renders output highly uncertain. 
+Economical building designs, changing occupant demographics, and consumer demand for more 
+efficient systems have driven egress designs beyond the traditional stair-based approaches, with 
+little technical foundation for performance or consideration of economic trade-offs. 
+ 
+Similarly, performance-based analysis of building egress is based upon the use of analytical tools 
+and models that may be sophisticated in design but built upon datasets extremely limited in 
+number, size, scope, and representativeness. Current egress techniques even go so far as to 
+develop capabilities not technically founded in research and data, and/or require the users to 
+supply data as input for egress-related areas where little or no data exist. Additionally, while 
+some models have been subjected to extensive verification and validation efforts, as well as 
+uncertainty analyses [2], many have not. 
+ 
+This report focuses on the understanding of evacuation movement of people in stairs. While real 
+emergency data is most desirable and might provide the most realistic predictor of behavior, it is 
+not as readily available as fire drill data. For practical purposes, fire drill data is often used to 
+represent emergency behavior. A key assumption, consistent with most of the data presented in 
+the literature values discussed in Chapter 2, is that fire drill data can be used to approximate the 
+response of individuals in an actual emergency [3]. This is, of course, dependent on whether the 
+population is directly exposed to smoke and/or fire cues; meaning that fire drill data may best 
+approximate the reaction and conditions experienced of those who are not close enough to the 
+hazard to identify it as an emergency. In many high-rise evacuations, as is the case in this study, 
+
+[PDF PAGE 19]
+ 
+2 
+ 
+it is also conceivable that a significant portion of the population has not been exposed to enough 
+fire cues to be certain if it is an emergency. 
+ 
+Therefore, the majority of the report focuses the provision of data on the speed or rate of descent 
+of occupants on stairs during fire-drill evacuations, and the identification of the building-related 
+factors that most influence evacuation rates (and in turn, evacuation efficiency) on stairs in tall 
+buildings. Intended to complement earlier research on the use of elevators for occupant 
+evacuation [4], this report provides technical foundation for best practices in the design and 
+evaluation of safety provided by egress systems for tall buildings in the U.S. 
+ 
+Although the primary focus of this report is on stair evacuation movement speed and the 
+important stair design parameters that may impact this movement, human behavior also plays a 
+key role in the overall evacuation timing. Thus, information on the timing prior to occupants 
+entering the stair is included. Additional analysis of behavior is not included in this report, 
+though some analysis of data collected from questionnaires is available in reference [5]. 
+
+1.1 Purpose 
+ 
+As part of a program to better understand occupant movement during building emergencies, the 
+Engineering Laboratory at the National Institute of Standards and Technology (NIST) has been 
+collecting stair movement data during fire drill evacuations of office and residential buildings. 
+These data are intended to provide a better understanding of principal building egress features 
+and develop a technical foundation for codes and standards requirements as well as egress 
+modeling techniques. To date, NIST has collected fire drill evacuation data in 14 buildings 
+ranging from six to 62 stories in height that include both office and residential occupancies, and 
+a range of stair widths and occupant densities. 
+ 
+This report provides details of the data collected, an analysis of the data, and examples of the use 
+of the data. The intention is to better understand movement during stair evacuations and to test 
+the predictive capability of building egress models. 
+ 
+1.2 Report Organization 
+ 
+This report is organized as follows. 
+ 
+ Chapter 2 reviews building code requirements and previous research results related to 
+stair egress. 
+ 
+ Chapter 3 describes the data collected and techniques used for the collection of the data. 
+ 
+ Chapter 4 presents the results including the time occupants took to move to the stairs, 
+movement speed in the stairs, and occupant density observed on landings in the stairs. 
+
+[PDF PAGE 20]
+ 
+3 
+ 
+ Chapter 5 includes an analysis of the data to identify important parameters that influence 
+the speed of stair evacuation and provides examples of the use of the data to better 
+understand human behavior and modeling of stair egress. 
+ 
+ Chapter 6 summarizes the important findings from the research and outlines important 
+areas for future research that were not addressed in the current study. Implications of the 
+results on both building code requirements and engineering analysis are discussed. 
+ 
+ Finally, the appendices provide additional details for several topics in the report. 
+ 
+o Appendix A details measurements of all of the stairs included in the study 
+(referenced in Section 3.4). 
+o Appendix B describes the calculation of harmonic mean and uncertainties for 
+movements speed data included in the report (referenced in Sections 4.1.4 and 
+4.4). 
+o Appendix C presents local movement speeds at every camera location in all the 
+stairs included in the study (referenced in Section 4.4.2). 
+o Appendix D includes details of the linear least squares and Bayesian analyses 
+used to determine important parameters that impact occupant movement in stairs 
+(referenced in Section 5.3). 
+o Appendix E reviews the underlying theory of point process modeling (referenced 
+in Section 5.4).
+
+[PDF PAGE 21]
+ 
+4 
+ 
+2 Background and Previous Research 
+ 
+This section provides an overview of research related to stair evacuation, including movement 
+speeds and flows, occupant densities in stairs, and, to a lesser extent, behavior of occupants prior 
+to and during building evacuation using stairs. This section ends with a review of the current 
+building codes and standards used to design egress systems for tall buildings and the current 
+egress models (i.e., simulation techniques) used to assess the safety provided by a building 
+design in a performance-based analysis. 
+ 
+Before research related to stair evacuation is provided in this section, a brief overview of the 
+main phases of an individual’s building evacuation is presented, as shown Figure 1. An 
+evacuation comprises both the pre-evacuation period and a movement period. The pre-
+evacuation period consists of the time from when an occupant realizes that something is wrong 
+and ends when the occupant begins to travel an evacuation route out of the building, whereas the 
+movement period consists of the time taken to travel an evacuation route out of the building until 
+safety is reached. 
+
+Figure 1. Major components of a building evacuation. 
+ 
+During a building fire, the event begins with ignition somewhere in the building, or a location 
+that could cause harm to occupants located in a building. This is denoted in Figure 1 with a black 
+dot at the beginning of the evacuation timeline. The next phase pictured in Figure 1 is that of the 
+pre-alarm period, or the time period between ignition and when the fire alarm (or other signaling 
+means, including a person detecting a fire and beginning to alert others in the building of the 
+event) is activated in the building. The pre-alarm phase can be very quick if a fire is detected 
+soon after ignition, or could be a lengthy process in which only building staff are made aware of 
+an event, for example, and take time to investigate before making the larger building population 
+aware of the event. The next phase in the pre-evacuation period involves information seeking 
+and the receipt of cues, which itself involves movement, interactions with others, and is iterative, 
+eventually leading to the decision to evacuate (especially if sufficient information is received, 
+leading to the perception of personal risk). As shown in Figure 1, once occupants decide to 
+Pre-evacuation 
+period 
+Protective 
+Actions 
+Ignition Alarm 
+Time 
+Information- 
+seeking 
+Actions 
+Evacuation 
+Actions 
+Evacuation 
+Decision 
+Movement 
+begins… 
+Movement 
+period 
+Pre-alarm 
+period 
+
+[PDF PAGE 22]
+ 
+5 
+ 
+evacuate, the next phase in the pre-evacuation period is the performance of protective actions. In 
+a building fire, protective actions can consist of gathering personal items, assisting others, 
+alerting others of the need to evacuate, and/or firefighting. Once protective actions are performed 
+(if any at all), occupants transition into the movement period of the building evacuation, 
+consisting of using egress paths in the building to reach safety. 
+ 
+Since much of this report provides data on pre-evacuation delay time and stair movement (see 
+Chapter 4 of this report), the following two sections, 2.1 and 2.2, provide data from previous 
+studies on these topics, respectively. Subsequently, sections 2.3 and 2.4 provide an overview of 
+the current status of egress-related prescriptive and egress modeling techniques that may or may 
+not use these data to assess building safety. 
+
+2.1 Earlier Studies on Pre‐evacuation Timing/Delays and Behavior 
+ 
+Researchers have studied the time delay from initial notification of a fire event to the beginning 
+of evacuation, often termed “pre-evacuation time,” but more accurately described as evacuation 
+initiation delay. This type of information is often captured via observation (e.g., videos) and/or 
+post-event surveys or interviews, and attempts to determine the range of delay time, including 
+mean and standard deviation, for a specific building evacuation event. This section provides a 
+literature review of pre-evacuation studies from a variety of building types and events, including 
+fire drills and actual fire emergencies. Each study will be briefly described before presenting pre-
+evacuation timing data, and will list explanations of delay, if provided in the original research 
+article. This section will conclude with all pre-evacuation delay data presented in tabular form 
+(see Table 1 on page 10). 
+ 
+2.1.1 Real Fire Incidents 
+ 
+The following studies collected data on pre-evacuation delay times from occupants who were in 
+buildings where actual fire incidents occurred. First, Bryan studied occupant behavior during the 
+MGM Grand Hotel fire in Clark County, Nevada [6]. He sent out questionnaires to the hotel 
+guests who were registered at the time of the incident. The questionnaire was intended to gauge 
+occupant interaction and behavior throughout the evacuation process. When the fire broke out, 
+no alarm warning was sounded to alert occupants of the pending danger. Findings show that the 
+average pre-evacuation delay time for 536 persons was 60 seconds. 
+ 
+Fahy and Proulx compiled findings on human behavior during emergency evacuations after a 
+bomb was detonated in an underground parking garage at the World Trade Center in New York 
+City in 1993 [7]. Occupants of the surrounding buildings were required to follow specific fire 
+safety procedures that included a minimum of two fire drills each year. The impact of such 
+training prior to this emergency was given particular attention when analyzing the occupant 
+behavior data collected from the investigation of this explosion. An account of individual 
+behavior was obtained from the 419 completed surveys submitted from occupants in the two 
+towers. They report pre-evacuation delay times for the 229 occupants in Tower 1 ranged from 2 
+minutes to 30 minutes with a mean time of 8 minutes and 54 seconds while the pre-evacuation 
+delay times for the 163 occupants in Tower 2 ranged from 5 minutes to 240 minutes with a mean 
+
+[PDF PAGE 23]
+ 
+6 
+ 
+time of 39 minutes and 54 seconds. Occupants from Tower 1 reported shorter delay time periods 
+than occupants in Tower 2 and accounts of calling family or friends before evacuating was 
+reported more frequently among occupants in Tower 2 than those in Tower 1. Fahy and Proulx 
+suggest that this was due to fewer clear warning cues received by occupants in Tower 2 since the 
+location of the explosion was closer to Tower 1. 
+ 
+Taking a new approach to quantifying pre-evacuation delay times, Brennan (1997) conducted 
+interviews with 36 participants who evacuated a 14-story office building after a fire broke out on 
+the third floor [8]. Participants gave an informal description of their experiences before 
+researchers questioned the rationale behind each action that was mentioned. Specific times 
+indicating when the pre-evacuation delay times ended and the evacuation stages began were 
+retrieved from outside sources to ensure that the data collected was not biased by participants’ 
+misconceptions of their experiences. Brennan reports that pre-evacuation delay times ranged 
+from 60 to 300 seconds. 
+ 
+Averill et al. [9-12], as part of the NIST Federal Investigation of the World Trade Center (WTC) 
+disaster in New York City in 2001, collected data on pre-evacuation delays from survivors of the 
+two towers (WTC 1 and WTC 2). A total of 803 telephone interviews were performed, asking 
+survivors about their emergency training and preparedness, the three stages of the evacuation 
+experiences (the first moments when WTC 1 was attacked, the interim period between initial 
+awareness and entering a stair/elevator, and the time spent in the stair or elevator), and 
+background information about the respondent. Data collected during the interim period of the 
+evacuation provided insight on the time occupants spent in both buildings before beginning 
+evacuation (defined as the time interval from first awareness to the time the respondent left 
+his/her floor to begin evacuation). In WTC 1, on average, survivors began their evacuation 
+within 6 minutes. Similarly, survivors of WTC 2 began their evacuation also within 6 minutes, 
+on average. Looking into the data a bit further, the most frequent response for survivors 
+throughout WTC 1 and 2 was one minute or less, and 50 % of the occ

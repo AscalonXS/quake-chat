@@ -1,0 +1,904 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="no-js"><!-- InstanceBegin template="/Templates/ContentPage_Wide.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!-- InstanceBeginEditable name="title-tag" -->
+<title>Guidelines for Field Triage of Injured Patients</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="meta-data" -->
+<meta name="description"    content="" />
+<meta name="Keywords"       content="" />
+<meta name="DC.Subject"     content="" />
+<meta name="DC.Language"    scheme="ISO 639-2" content="eng" />
+<meta name="Volume" content="61" />
+<meta name="Issue" content="rr01" />
+<meta name="Page" content="1" />
+<meta name="Month" content="01" />
+<meta name="Day" content="13" />
+<meta name="Year" content="2012" />
+<meta name="Issue_Num" content="1" />
+<meta name="MMWR_Type" content="rr" />
+<meta name="Date" content="2012-01-13" />
+<script language="Javascript" type="text/javascript">
+<!--
+var img_folder = '../../images/';
+var deRef="../../";
+var reportTitle = 'Recommendations and Reports';
+var reportDate = 'January 13, 2012 / 61(RR01);1-20';
+//-->
+</script>
+<script language="javascript1.2" type="text/javascript" src="/mmwr/scripts/scripts.js"></script>
+<script language="javascript1.2" type="text/javascript" src="/scripts/scripts_reports.js"></script>
+<!-- InstanceEndEditable --><!-- InstanceParam name="class" type="text" value="" --><!-- InstanceParam name="localFilesPath" type="text" value="mmwr" --><!-- InstanceParam name="content" type="boolean" value="true" --><!-- InstanceParam name="optionSpanish" type="boolean" value="false" --><!-- InstanceParam name="optionalFeatures" type="boolean" value="false" --><!-- InstanceParam name="optionalBreadCrumbs" type="boolean" value="true" --><!-- InstanceParam name="OptionalLocalSearch" type="boolean" value="false" --><!-- InstanceParam name="OptionalLocalA-Z" type="boolean" value="false" --><!-- InstanceParam name="optionalExtra" type="boolean" value="false" --><!-- InstanceParam name="JqueryUI" type="boolean" value="false" --><!-- InstanceParam name="JqueryUiAccordion" type="boolean" value="false" --><!-- InstanceParam name="JqueryUiCarousel" type="boolean" value="false" --><!-- InstanceParam name="JqueryUiDatePicker" type="boolean" value="false" --><!-- InstanceParam name="JqueryUiTabs" type="boolean" value="false" --><!-- InstanceParam name="dojoLibrary" type="boolean" value="false" -->
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<meta name="template.version" content="2.7.1.4" />
+<!-- @package: TemplatePackage 'B' @version: "2.7.1.4" -->
+<style type="text/css" media="screen">empty{color:#000};@import "/mmwr/local/B/css/designview/designTime.css"/**/;</style>
+<link rel="stylesheet" href="/TemplatePackage/css/B/reset.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/TemplatePackage/css/B/newMods.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/TemplatePackage/css/B/print.css" type="text/css" media="print" />
+
+<!-- JS below -->
+<script type="text/javascript">(function(H){H.id=H.id.replace('no-','')})(document.documentElement)</script>
+<script type="text/javascript" src="/TemplatePackage/js/B/jquery.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/jquery.watermark.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/common.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/startup.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/blocks-ie.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/video.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/navScripts.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/anchor.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/syndicateThisPage.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/css-include.js"></script>
+<script type="text/javascript" src="/TemplatePackage/3.0/js/libs/moment/moment.min.js"></script>
+
+<script type="text/javascript" src="/TemplatePackage/js/B/cdc-gridCompatibility.js"></script>
+
+<link rel="shortcut icon" href="/TemplatePackage/images/home/favicon.ico" />
+<link rel="home" href="https://www.cdc.gov/" title="Home" />
+
+<!-- Begin Survey scripts -->
+<!-- End Survey scripts -->
+
+
+<!--[if IE]>
+<script defer language="javascript" type="text/javascript">
+		var cdcLeftNav = new CDC.LeftNav("nav-primary");
+		cdcLeftNav.render();
+</script>
+<![endif]-->
+<!--[if ! IE]><!-->
+<script language="javascript" type="text/javascript">
+$().ready(function(){
+		var cdcLeftNav = new CDC.LeftNav("nav-primary");
+		cdcLeftNav.render();
+});
+</script>
+<!--<![endif]-->
+
+<!-- InstanceBeginEditable name="local-css" -->
+<link href="/mmwr/local/B/css/local.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="mmwr-css" -->
+<link href="/mmwr/local/B/css/mmwr2.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- InstanceEndEditable -->
+</head>
+<body id="contentPageWide" class=" widePage v270">
+
+<div id="skipmenu">
+	<a href="#searchBox" class="skippy" title="Skip to search">Skip directly to search</a>
+	<a href="#az" class="skippy" title="Skip to A to Z list">Skip directly to A to Z list</a>
+	<a href="#content-main" class="skippy" title="Skip to content">Skip directly to site content</a>
+</div>
+<div id="wrapper">
+<div id="wrapper-inner">
+<div id="branding">
+    <span id="homeward"><a href="https://www.cdc.gov/" title="Return to the CDC Home Page">CDC Home</a></span>
+<div id="branding-logo">
+	<div id="branding-logoImage"><img src="/TemplatePackage/images/cdcHeaderLogo.gif" width="470" height="47" alt="CDC. Centers for Disease Control and Prevention. CDC 24/7: Saving Lives. Protecting People." border="0" /><a href="https://www.cdc.gov/" title="CDC 24/7: Saving Lives. Protecting People.&trade;"><span>CDC 24/7: Saving Lives. Protecting People.&trade;</span></a></div>
+
+    	<div id="searchForm" class="searchResize"><a name="search"></a>
+		<form id="searchCDC" method="get" action="https://search.cdc.gov/search">
+			<fieldset>
+				<div id="cdc-Query">
+					<label for="searchBox" class="overlabel search">Search The CDC</label>
+					<input id="searchBox" class="searchBox" name="query" maxlength="256" type="text" />
+				</div>
+				<div id="cdc-Submit">
+					<!-- label for="searchButton" class="searchButton">Search Button</label -->
+					<input id="searchButton" class="searchButton" src="/TemplatePackage/images/home/search_button.gif" name="searchButton" alt="Search" type="submit" />
+					<input name="action" value="search" type="hidden" />
+				</div>
+			</fieldset>
+		</form>
+	</div>
+    </div>
+<noscript>
+<div class="noscript"> Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: <a href="/Other/about_cdcgov.html" title="Browser requirements for CDC.gov">About CDC.gov</a>.</div>
+</noscript>
+<!--<div id="emergency-alert">
+<h1></h1> 
+<p></p>
+<a href="#"></a>
+</div>-->
+</div>
+
+<div id="content">
+<div id="topic-title"><!-- InstanceBeginEditable name="topic-title" -->
+<h2><a href="/mmwr/">Morbidity and Mortality Weekly Report (<i>MMWR</i>)</a></h2>
+<!-- InstanceEndEditable -->
+    </div>
+<div id="content-inner">
+        <div class="pageOptions-horizontal">
+            <!-- ########## BREADCRUMBS START HERE ########## -->
+                <!-- InstanceBeginEditable name="breadcrumbs" -->
+                <div id="breadBox">
+	<ul id="breadcrumbs">
+		<li class="firstChild"><a href="/mmwr/"><i>MMWR</i></a></li>
+		<!--<li><a href="#">Another Breadcrumb</a></li> -->
+	</ul>
+	    <p id="return-link">&nbsp;</p>
+</div>
+
+                <!-- InstanceEndEditable -->
+                <div class="pageOptions-inner">
+                    <ul class="forWide">
+                        <li class="print"><a href="javascript:window.print();" title="Print page.">&nbsp;</a></li>
+
+                        <!-- InstanceBeginEditable name="local-options" -->
+                        <li class="subscribe"><a href="http://service.govdelivery.com/service/subscribe.html?code=USCDC_921" title="Get Email Updates from MMWR">&nbsp;</a></li>
+<li class="rss"><a href="/mmwr/rss/mmwr.xml" title="Subscribe to MMWR RSS feeds">&nbsp;</a></li>
+<li class="podcast"><a href="/mmwr/mmwrpodcasts.html" title="Listen to MMWR podcasts">&nbsp;</a></li>
+            <li><a href="/mmwr/pdf/rr/rr6101.pdf">&nbsp;</a></li>
+            <!-- InstanceEndEditable -->
+        </ul>
+  </div>
+</div>
+
+
+<!-- InstanceBeginEditable name="include-contactInfo1" -->
+<div class="contactArea"><!--a href="#">For Questions About [insert type/label] Contact Us</a>--></div>
+<!-- InstanceEndEditable -->
+    <div id="content-main">
+        <div class="main-inner">
+            <!-- ########## CONTENT STARTS HERE ########## -->
+            <!-- InstanceBeginEditable name="content-main" -->
+                    <div class="syndicate">
+                    <div class="mSyndicate">
+<div id="archivedbox">
+
+  <p><font color=red>Persons using assistive technology might not be able to fully access information in this file. For assistance, please send e-mail to: <a href="mailto:mmwrq@cdc.gov">mmwrq@cdc.gov</a>. Type 508 Accommodation and the title of the report in the subject line of e-mail.</font></p>
+  
+</div>
+
+<h1>Guidelines for Field Triage of Injured Patients: Recommendations of the National Expert Panel on Field Triage, 2011</h1><br/>
+
+<div><!-- this will dynamically write out the report title and date -->
+<script language="Javascript" type="text/javascript">
+<!--
+   var textOut = "";
+   if (reportTitle == "MMWR in Brief")
+   {
+     
+	 textOut += '<h2>' +  '<i>' + "MMWR " + '<\/i>' + "in Brief" + '<\/h2>';
+   }
+   else
+   {
+	 textOut += '<i><h2>' +  reportTitle + '<\/h2><\/i>';   
+   }
+   textOut += '<strong>' + reportDate + '<\/strong><br /><br />';
+   document.write(textOut);
+// -->
+</script>
+</div>
+				<p><i><span style="color: red;"><b>CDC will no longer update these guidelines. The American College of Surgeons guidelines can be found <a href="https://www.facs.org/quality-programs/trauma/systems/field-triage-guidelines/">here</a>. Those guidelines supersede those produced by CDC in 2011.</b></span> </i></p> 		
+
+				<br/><p class="author-name"><span class="color-for-type-of-pub">Prepared by </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Scott M. Sasser, MD</span><span class="superscript">1,2 </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Richard C. Hunt, MD</span><span class="superscript">1 </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Mark Faul, PhD</span><span class="superscript">1 </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">David Sugerman, MD</span><span class="superscript">1,2 </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">William S. Pearson, PhD</span><span class="superscript">1</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Theresa Dulski, MPH</span><span class="superscript">1</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Marlena M. Wald, MLS, MPH</span><span class="superscript">1</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Gregory J. Jurkovich, MD</span><span class="superscript">3</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Craig D. Newgard, MD</span><span class="superscript">4</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">E. Brooke Lerner, PhD</span><span class="superscript">5</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Arthur Cooper, MD</span><span class="superscript">6</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Stewart C. Wang, MD, PhD</span><span class="superscript">7</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Mark C. Henry, MD</span><span class="superscript">8</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Jeffrey P. Salomone, MD</span><span class="superscript">2</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-name"><span class="color-for-type-of-pub">Robert L. Galli, MD</span><span class="superscript">9</span><span class="color-for-type-of-pub"> </span></p>
+				<p class="author-affil"><span class="superscript">1</span><span class="color-for-type-of-pub">Division of Injury Response, National Center for Injury Prevention and Control, CDC, Atlanta, Georgia </span></p>
+				<p class="author-affil"><span class="superscript">2</span><span class="color-for-type-of-pub">Emory University School of Medicine, Atlanta, Georgia </span></p>
+				<p class="author-affil"><span class="superscript">3</span><span class="color-for-type-of-pub">University of Washington, Seattle, Washington </span></p>
+				<p class="author-affil"><span class="superscript">4</span><span class="color-for-type-of-pub">Oregon Health and Science University, Portland, Oregon </span></p>
+				<p class="author-affil"><span class="superscript">5</span><span class="color-for-type-of-pub">Medical College of Wisconsin, Milwaukee, Wisconsin </span></p>
+				<p class="author-affil"><span class="superscript">6</span><span class="color-for-type-of-pub">Columbia University Medical Center affiliation at Harlem Hospital, New York, New York </span></p>
+				<p class="author-affil"><span class="superscript">7</span><span class="color-for-type-of-pub">University of Michigan Health System, Ann Arbor, Michigan </span></p>
+				<p class="author-affil"><span class="superscript">8</span><span class="color-for-type-of-pub">Stony Brook University, Stony Brook, New York </span></p>
+				<p class="author-affil"><span class="superscript">9</span><span class="color-for-type-of-pub">University of Mississippi, Jackson, Mississippi </span></p>
+				
+			<br/><br/><div class="box-1-col-no-fill-w-border">
+				<p class="corres-preparer">The material in this report originated in the National Center for Injury Prevention and Control, Linda Degutis, DrPH, Director, and the Division of Injury Response, Richard C. Hunt, MD, Director, in collaboration with the National Highway Traffic Safety Administration, Office of Emergency Medical Services, and in association with the American College of Surgeons, John Fildes, MD, Trauma Medical Director, Division of Research and Optimal Patient Care, and Michael F. Rotondo, MD, Chair, Committee on Trauma. </p>
+				<br/><p class="corres-preparer"><b>Corresponding preparer:</b> David Sugerman, MD, Division of Injury Response, National Center for Injury Prevention and Control, CDC, 4770 Buford Highway, MS F-62, Atlanta, GA 30341-3717. Telephone: 770-488-4646; Fax: 770-488-3551; E-mail: ggi4@cdc.gov. </p>
+			</div>
+				
+				<br/><h3 class="serial_subtitle"><i>Summary</i></h3>
+				<p><i>In the United States, injury is the leading cause of death for persons aged 1&#8211;44 years. In 2008, approximately 30 million injuries were serious enough to require the injured person to visit a hospital emergency department (ED); 5.4 million (18&#37;) of these injured patients were transported by Emergency Medical Services (EMS). On arrival at the scene of an injury, the EMS provider must determine the severity of injury, initiate management of the patient's injuries, and decide the most appropriate destination hospital for the individual patient. These destination decisions are made through a process known as "field triage," which involves an assessment not only of the physiology and anatomy of injury but also of the mechanism of the injury and special patient and system considerations. Since 1986, the American College of Surgeons Committee on Trauma (ACS-COT) has provided guidance for the field triage process through its "Field Triage Decision Scheme." This guidance was updated with each version of the decision scheme (published in 1986, 1990, 1993, and 1999). In 2005, CDC, with financial support from the National Highway Traffic Safety Administration, collaborated with ACS-COT to convene the initial meetings of the National Expert Panel on Field Triage (the Panel) to revise the decision scheme; the revised version was published in 2006 by ACS-COT (American College of Surgeons. Resources for the optimal care of the injured patient: 2006. Chicago, IL: American College of Surgeons; 2006). In 2009, CDC published a detailed description of the scientific rationale for revising the field triage criteria (CDC. Guidelines for field triage of injured patients: recommendations of the National Expert Panel on Field Triage. <a href="rr5801a1.htm">MMWR 2009;58[No. RR-1]</a>). </i></p>
+				<p><i>In 2011, CDC reconvened the Panel to review the 2006 Guidelines in the context of recently published literature, assess the experiences of states and local communities working to implement the Guidelines, and recommend any needed changes or modifications to the Guidelines. This report describes the dissemination and impact of the 2006 Guidelines; outlines the methodology used by the Panel for its 2011 review; explains the revisions and modifications to the physiologic, anatomic, mechanism-of-injury, and special considerations criteria; updates the schematic of the 2006 Guidelines; and provides the rationale used by the Panel for these changes. This report is intended to help prehospital-care providers in their daily duties recognize individual injured patients who are most likely to benefit from specialized trauma center resources and is not intended as a mass casualty or disaster triage tool. The Panel anticipates a review of these Guidelines approximately every 5 years. </i></p>
+				<h3 class="serial_subtitle">Introduction </h3>
+				<h4>Purpose of This Report </h4>
+				<p>Emergency Medical Services (EMS) providers in the United States make decisions about the most appropriate destination hospital for injured patients daily. These decisions are made through a decision process known as "field triage," which involves an assessment not only of the physiology and anatomy of the injury but also of the mechanism of the injury and special patient considerations. The goal of the field triage process is to ensure that injured patients are transported to a trauma center* or hospital that is best equipped to manage their specific injuries, in an appropriate and timely manner, as the circumstances of injury might warrant. </p>
+				<p>Since 1986, the American College of Surgeons Committee on Trauma (ACS-COT) has published a resource manual that provided guidance for the field triage process through a field triage decision scheme (<i>1</i>). This guidance was updated and published with each version of the resources manual during 1986&#8211;1999 (<i>2&#8211;5</i>). In 2009, CDC published guidelines on the field triage process (the Guidelines) (<i><a href="rr5801a1.htm">6</a></i>). This guidance provided background material on trauma systems, EMS systems and providers, and the field triage process. In addition, it incorporated the 2005&#8211;2006 deliberations and recommendations of the National Expert Panel on Field Triage (the Panel), provided an accompanying rationale for each criterion in the Guidelines, and ensured that existing guidance for field triage reflected the current evidence. In April 2011, CDC reconvened the Panel to evaluate any new evidence published since the 2005&#8211;2006 revision and examine the criteria for field triage in light of any new findings. The Panel then modified the Guidelines on the basis of its evaluation. This report describes the Panel's revisions to the Guidelines and provides the rationale for the changes, including a description of the methodology for the Panel's review. </p>
+				<p>This report is intended to help prehospital-care providers in their daily duties recognize individual injured patients who are most likely to benefit from specialized trauma center resources and is not intended as a triage tool to be used in a situation involving mass casualties or disaster (i.e., an extraordinary event with multiple casualties that might stress or overwhelm local prehospital and hospital resources). </p>
+				<h4>Background </h4>
+				<p>In the United States, unintentional injury is the leading cause of death for persons aged 1&#8211;44 years (<i>7</i>). In 2008, injuries accounted for approximately 181,226 deaths in the United States (<i>8</i>). In 2008, approximately 30 million injuries were serious enough to require the injured person to visit a hospital emergency department (ED); 5.4 million (18&#37;) of these injured patients were transported by EMS personnel (<i>9</i>). </p>
+				<p>Ensuring that severely injured trauma patients are treated at trauma centers has a profound impact on their survival (<i>10</i>). Ideally, all persons with severe, life-threatening injuries would be transported to a Level I or Level II trauma center, and all persons with less serious injuries would be transported to lower-level trauma centers or community EDs. However, patient differences, occult injuries, and the complexities of patient assessment in the field can affect triage decisions. </p>
+				<p>The National Study on the Costs and Outcomes of Trauma (NSCOT) identified a 25&#37; reduction in mortality for severely injured adult patients who received care at a Level I trauma center rather than at a nontrauma center (<i>10</i>). Similarly, a retrospective cohort study of 11,398 severely injured adult patients who survived to hospital admission in Ontario, Canada, indicated that mortality was significantly higher in patients initially undertriaged<span class="superscript">&#8224; </span>to nontrauma centers (odds ratio [OR] = 1.24; 95&#37; confidence interval [CI] = 1.10&#8211;1.40) (<i>11</i>). </p>
+				<p>In 2005, CDC, with financial support from the National Highway Traffic Safety Administration (NHTSA), collaborated with ACS-COT to convene the initial meetings of the Panel. The Panel comprises persons with expertise in acute injury care, including EMS providers and medical directors, state EMS directors, hospital administrators, adult and pediatric emergency medicine physicians, nurses, adult and pediatric trauma surgeons, persons in the automotive industry, public health personnel, and representatives of federal agencies. The Panel is not an official advisory committee of CDC and does not have a fixed membership or an officially organized structure. The Panel is responsible for periodically reevaluating the Guidelines, determining if the decision criteria are consistent with current scientific evidence and compatible with advances in technology, and, as appropriate, making revisions to the Guidelines. </p>
+				<p>During 2005 and 2006, the Panel met to revise the Guidelines, and the end product of that comprehensive revision process (<a href="#Fig1">Figure 1</a>) was published by ACS-COT in 2006 (<i>7)</i>. In 2009, CDC published a comprehensive review of the revision process and the detailed rationale for the triage criteria underlying the 2006 version of the Guidelines (<i>1</i>); the Guidelines were endorsed by multiple professional organizations.<span class="superscript">&#167;</span> </p>
+				<p>In 2011, the Panel reconvened to review the 2006 Guidelines in the context of recently published literature as well as the experience of states and local communities working to implement the Guidelines and to make recommendations regarding any changes or modifications to the Guidelines. A major outcome of the Panel's meetings was the revision of the Guidelines<b><i> </i></b>(<a href="#Fig2">Figure 2</a>). </p>
+				<h4>Dissemination and Impact of the Field Triage Criteria </h4>
+				<p>Since 2009, CDC has undertaken an effort to ensure dissemination, implementation, and evaluation of the Guidelines (<a href="#Box1">Box 1</a>) including the development of training guides, educational material, and resources for EMS providers (e.g., pocket guides). In addition, the 2009 report was reprinted in its entirety in the Journal of Emergency Medical Services (JEMS), an EMS trade journal with a circulation of approximately 51,000 (<i>12</i>). The Guidelines were reproduced in multiple textbooks targeting the EMS, emergency medicine, and trauma care community (<i>7,13&#8211;16</i>). In 2010, the National Association of EMS Physicians and ACS-COT issued a joint position paper recommending adoption of the Guidelines for local trauma and EMS systems (<i>17</i>). The National Registry of Emergency Medical Technicians adopted the Guidelines as a standard upon which all certification examination test items relating to patient disposition will be based. The Guidelines have been endorsed by the Federal Interagency Committee on Emergency Medical Services (FICEMS), which was established by Public Law 109-59, section 10202 (<i>18</i>). FICEMS comprises representatives from the U.S. Department of Health and Human Services, the U.S. Department of Transportation, the U.S. Department of Homeland Security, the U.S. Department of Defense, and the Federal Communications Commission. </p>
+				<p>CDC also has worked closely with multiple states, through site visits (to Colorado, Georgia, New Mexico, and Virginia), grants (in Kansas, Massachusetts, and Michigan), and presentations and technical assistance efforts (in California, Missouri, and North Carolina), to learn from their experience in using and implementing the Guidelines at the state and local level. This process has given CDC insight into the experience of implementing national guidelines at a local level. </p>
+				<p>Three publications have examined the overall use and impact of the Guidelines since the 2006 revision. A survey of publicly available state EMS and health department websites indicated that 16 states used public websites to document that they had adopted a partial or complete version of the 2006 Guidelines (<i>19</i>). </p>
+				<p>A 2-year prospective observational study of 11,892 patients at three Level 1 trauma centers indicated that use of the 2006 Guidelines would have resulted in EMS providers identifying 1,423 fewer patients (12&#37;; 95&#37; CI = 11&#37;&#8211;13&#37;) for transport to a trauma center at the expense of 78 patients (6&#37;) being undertriaged (<i>20</i>). </p>
+				<p>Finally, using the National Trauma Databank (NTDB) and the National Hospital Ambulatory Medical Care Survey, a cost impact analysis that compared the 1999 Guidelines to the 2006 Guidelines concluded that full implementation of the 2006 Guidelines would produce an estimated national savings of $568 million per year (<i>21</i>). </p>
+				<h4>Use of These Guidelines </h4>
+				<p>The Guidelines provided in this report are not intended for mass casualty or disaster triage; instead, they are designed for use with individual injured patients and provide guidance for EMS providers who care for and transport patients injured in U.S. communities daily through motor-vehicle crashes, falls, penetrating injuries, and other injury mechanisms. This report provides guidelines for field triage of injured patients by EMS providers and represents the Panel's opinions after review of the published medical literature and reports from communities that are implementing the Guidelines regarding their experience. The Panel recognizes that these Guidelines cannot address the specific circumstances of each EMS system in the United States or all circumstances that might arise at the scene of injury or while the patient is being transported to a hospital or trauma center. The Guidelines discuss core elements of any well-managed field triage process; these guidelines should be adapted to fit the specific needs of local environments within the context of defined state, regional, or local trauma systems and in accord with an analysis of local data. In areas of uncertainty, or in those not addressed by the Guidelines, local EMS systems should rely on direction from local EMS medical directors, regulations, policies, and protocols. </p>
+				<h3 class="serial_subtitle">Methods </h3>
+				<p>Published peer-reviewed research was the primary basis for making any revisions to the Guidelines. To identify articles related to the overall field triage process, a structured literature search was conducted in Medline. English language peer-reviewed articles published between January 1, 2006 (the year of the 2006 revision) and May 1, 2011, were searched. Because no single medical subject heading (MESH) is specific to field triage, multiple search terms were used. The following terms were searched as MESH vocabulary, keyword, natural language, and truncated terms in order to maximize retrieval of relevant articles: "trauma," "wound," "injury," "pre-hospital," "emergency medical services," "ambulance," "transport," and "triage." In addition, to identify articles related to specific steps within the Guidelines that might have been missed by the general field triage search strategy described above, researchers used terminology from each criterion of the 1999 and 2006 guidelines as MESH vocabulary, keyword, natural language, and truncated terms to maximize retrieval of relevant articles. Examples of terms used include "physiology," "flail chest," "accidental falls," and "anticoagulation." Both search strategies excluded case reports, letters to the editor, editorials, review articles, classic/historic reprints, continuing medical education, trade journal news articles, non-English language publications, and articles related to disasters and terrorism. Articles also were excluded if they included the MESH terms "mass casualty incidents," "disasters," "blast injuries," or "terrorism;" if they were addresses, lectures, letters, case reports, congressional testimony, or editorials; or if they were written in a language other than English. </p>
+				<p>A total of 2,052 articles (389 on overall field triage and 1,663 that were step-specific) were identified for further review. Four CDC injury researchers reviewed abstracts of each article based on the relevance of the article to the Guidelines and rated each article as either "include" or "exclude" for further review by the Panel. An individual article was selected for inclusion if it addressed the field triage of injured patients (i.e., triage methodology, guidelines, or decision schemes) or examined a specific criterion in the Guidelines (e.g., systolic blood pressure) in the context of field triage. Articles were included if two or more researchers identified them for selection. Data on this rating were collected, and an agreement statistic was calculated to assess the reliability of agreement among the four raters. Statistical programming for calculating Fleiss' Kappa was downloaded from the proceedings of the 30th annual SAS User Group International Congress, and all analyses were conducted using SAS (<i>22</i>). Results indicated substantial agreement with <i>k</i> = 0.73 and standard deviation = 0.009. This process identified a total of 241 unique articles pertaining to field triage. </p>
+				<p>To supplement the structured literature searches, a working group of the Panel met in March 2011 to review the selected articles, identify additional relevant literature that had not been examined, and make initial recommendations regarding individual components of the Guidelines. This process identified an additional 48 articles, which, together with the originally identified 241 articles, were provided to the Panel for review. Several articles were noted to be relevant to multiple steps in the Guidelines. </p>
+				<p>In April 2011, the Panel met to discuss the articles, recommendations of the working group, and the experiential base from states and communities implementing the Guidelines, and to reaffirm or revise the Guidelines. In the sources reviewed, Injury Severity Score (ISS) &gt;15, where available, was used as the threshold for identifying severe injury; however, other factors (e.g., need for prompt operative care and intensive care unit [ICU] admission) also were considered. A threshold of 20&#37; positive predictive value (PPV) to predict severe injury was used to place criteria into discussion for inclusion as mechanism-of-injury criteria. A review of NHTSA's National Automotive Sampling System-Crashworthiness Data System (NASS-CDS) (<i>23</i>) and Crash Injury and Research Engineering Network (CIREN) (<i>24</i>) information also was undertaken to inform the Panel on the high-risk automobile-crash criterion. The final recommendations of the Panel were based on the best available evidence. When definitive research evidence was lacking, the Panel based its revisions and recommendations on the expert opinion of its members. Consensus among the Panel members on specific recommendations and modifications was not required. </p>
+				<h3 class="serial_subtitle">2011 Field Triage Guideline Recommendations </h3>
+				<p>Modifications to the previously published Guidelines (<i>1</i>) have been summarized (<a href="#Box2">Box 2</a>). The sections that follow discuss the changes made and provide the rationale of the Panel for making these changes. The 2011 Guidelines have been endorsed by multiple professional organizations and federal government agencies. <span class="superscript">&#182;</span> The national Highway Traffic Safety Administration concurs with these Guidelines. An updated list of endorsing organizations is available at <a href="http://www.cdc.gov/fieldtriage">http://www.cdc.gov/fieldtriage</a>.<span class="superscript"> </span></p>
+				<h4>Name of the Guidelines </h4>
+				<p>The name of the Guidelines remains unchanged. The Panel recognized that many different names have been attached to the Guidelines, creating potential confusion for persons, communities, and states attempting to implement the Guidelines. In addition, the Panel reviewed feedback that indicated that confusion exists as to whether this represents mass casualty triage or "routine" daily triage of injured patients. The Guidelines apply to "routine" daily triage of injured patients. After deliberations, the Panel decided not to change or modify the name of the decision scheme because creating a new and different name would likely only add to or increase any confusion or misunderstanding that exists, many states and locales have begun implementation of the decision scheme based on its name as given and to change it at this point might unduly burden those systems; and even if a new name was added, end-users might attach a different name to it, and the problem would remain unresolved. The Panel recommended that CDC continue to provide educational materials that describe the purpose of the Guidelines and that the decision scheme be called either the "field triage decision scheme" or the "guidelines for field triage of injured patients." The Panel also recommended that the Guidelines not be referred to as a "national protocol" because using the term "protocol" has an unintended proscriptive inference for the end-user that could restrict local adaptation required for optimal implementation. </p>
+				<h4>Step One: Physiologic Criteria </h4>
+				<p>In Step One, the Glasgow Coma Scale, and Respiratory Rate criteria were modified. Step One is intended to allow for rapid identification of critically injured patients by assessing level of consciousness (Glasgow Coma Scale [GCS]) and measuring vital signs (systolic blood pressure [SBP] and respiratory rate). Vital sign criteria have been used since the 1987 version of the ACS Field Triage Decision Protocol (<i>8</i>). These criteria demonstrate high predictive value for severe injury. Of 289 references identified from the structured literature review, 82 (28&#37;) were relevant to Step One. SBP &lt;90 and respiratory rate &lt;10 or &gt;29 remain significant predictors of severe injury and the need for a high level of trauma care. Multiple peer-reviewed articles published since 2006 support this threshold (<i>25&#8211;28</i>). </p>
+				<p>The Panel recommended transport to a facility that provides the highest level of care within the defined trauma system if any of the following are identified:</p> 
+              <ul>
+				<li>Glasgow Coma Scale ≤13, or </li>
+				<li>SBP of &lt;90 mmHg, or </li>
+				<li>respiratory rate of &lt;10 or &gt;29 breaths per minute (&lt;20 in infant aged &lt;1 year), or need for ventilatory support.</li></ul>
+				<h4>Glasgow Coma Scale: Criterion Clarified </h4>
+				<p>Experience with the 2006 Guidelines has indicated that many readers and end-users perceived that the criterion of GCS &lt;14 recommended taking patients with a GCS of ≤14 to trauma centers. To reduce any future confusion, the Panel voted unanimously to rewrite the criterion as GCS ≤13. </p>
+				<h4>Need for Ventilatory Support: Criterion Added </h4>
+				<p>The need for ventilatory support (including both bag-mask ventilation and intubation) was added to "respiratory rate of &lt;10 or &gt;29 breaths per minute (&lt;20 in an infant aged &lt;1 year). Although it has been assumed that patients requiring ventilatory support would meet the respiratory rate criterion, three studies suggest that this is not necessarily the case and demonstrate the importance of considering ventilatory support, in addition to respiratory rate, in identifying seriously injured patients. Among 6,259 adults meeting Step One criteria across 11 sites in North America, an advanced airway attempt (i.e., intubation or supraglottic airway placement) was the strongest predictor of death or prolonged hospital stay among all physiologic measures<b> (</b><i>29</i>). Among 955 injured children meeting Step One criteria from the same sites, little difference was reported in the proportion of children with abnormal respiratory rates who were seriously injured compared with those whose injuries were not serious (44&#37; and 47&#37;, respectively); however, the need for ventilatory assistance was highly discriminating between the two groups (46&#37; and 3&#37;, respectively) and again was determined to be the strongest physiologic predictor of serious injury (<i>30</i>). Another study involving 3,877 injured children had similar findings, with field intubation attempt being second only to GCS in identifying children in need of trauma center care (<i>31</i>). Therefore, after reviewing the literature and considering the evidence, the Panel added "or need for ventilatory support" to the respiratory rate criterion, recognizing that adults and children requiring advanced airway interventions represent a very high-risk group, whether or not other physiologic abnormalities (including specific respiratory rate values) are present and to ensure that patients requiring airway support receive the highest level of trauma care within the defined trauma system. </p>
+				<h4>Additional Physiologic Concerns Discussed by the Expert Panel </h4>
+				<p>The following sections describe additional physiologic criteria topics that were discussed by the Panel and for which no changes were recommended. </p>
+				<p class="h5"><b>Glasgow Coma Scale Motor </b></p>
+				<p>Although the Panel considered adding the motor portion of the Glasgow Coma Score (GCS<sub>m</sub>) as an alternative to the GCS total (GCS<sub>t</sub>), which includes verbal, eye opening, and motor components, no change was made. The motor score has been demonstrated to be associated with the need for lifesaving interventions (<i>32,33</i>). Debate occurred as to whether using only the motor score would be easier for EMS personnel than the GCS<sub>t</sub>; however, because of the lack of confirmatory evidence, the long standing use of the GCS<sub>t</sub> and its familiarity among current EMS practitioners, the inclusion of the motor score within the GCS<sub>t</sub>, and complications because of the difficulty of comparative scoring systems, the Panel recommended no change at this time. </p>
+				<h4>Systolic Blood Pressure in Older Adults and Children </h4>
+				<p>The Panel discussed including a systolic blood pressure (SBP) threshold of &lt;110 for patients aged &gt;65 years. After deliberation, the Panel decided to account for physiologic differences in older adults in Step Four under "Older Adults"; the rationale and clinical evidence are discussed in that section. The Panel maintained the decision to retain the SBP&lt;90mmHg threshold in children. Because of the substantial proportion of young children with no field measurement of blood pressure<b> </b>(<i>31</i>), the Panel believed this decision would have minimal impact on overtriage. </p>
+				<h4>Shock Index </h4>
+				<p>A retrospective chart review of 2,445 patients admitted over a 5-year period at an urban Level I trauma center determined that shock index (heart rate divided by systolic blood pressure) is an accurate prehospital predictor of mortality (<i>34</i>). However, the Panel identified no evidence to suggest that shock index improves field identification of seriously injured patients beyond the existing physiologic measures, and noted that utilization of the shock index requires a calculation in the field, and its value during field triage remains unclear. The Panel noted that the use of shock index for triage decisions might be more applicable in the future as vital signs and triage criteria become routinely recorded and collected on mobile devices </p>
+				<h4>Step Two: Anatomic Criteria </h4>
+				<p>In Step Two, the criteria pertaining to chest and extremity injuries were modified. Step Two of the Guidelines recognizes that certain patients, on initial presentation to EMS providers, have normal physiology but have an anatomic injury that might require the highest level of care within the defined trauma system. Of the 289 references identified from the structured literature review, 57 (20&#37;) were relevant to Step Two. Most of the literature supported Step Two of the 2006 Guidelines, and the majority of Step Two criteria therefore remain unchanged. </p>
+				<p>The Panel recommended transport to a facility that provides the highest level of care within the defined trauma system if any of the following are identified:</p>
+			  <ul><li>all penetrating injuries to head, neck, torso, and extremities proximal to elbow or knee; </li>
+				<li>chest wall instability or deformity (e.g. flail chest); </li>
+				<li>two or more proximal long-bone fractures; </li>
+				<li>rushed, degloved, mangled, or pulseless extremity; </li>
+				<li>amputation proximal to wrist or ankle; </li>
+				<li>pelvic fractures; </li>
+				<li>open or depressed skull fractures; or </li>
+				<li>paralysis.</li></ul>
+				<h4>Crushed, Degloved, Mangled, or Pulseless Extremity: Criterion Modified </h4>
+				<p>This criterion was modified to include "pulseless" extremities. Several published articles highlighted vascular injury as an important injury requiring specialized care (<i>35&#8211;40</i>). In a retrospective analysis of 73 patients with arterial injuries, 37 patients (51&#37;) had associated injuries (e.g., bone and nerve), and five patients (7&#37;) required amputation (<i>37</i>). In a 5-year retrospective review of 52 patients with upper extremity vascular injury, 41 patients (79&#37;) had associated nerve or bone injury, 14 patients (27&#37;) required fasciotomies, and seven patients (13&#37;) required amputation. In addition, the patients in this study were severely injured, with a mean ISS of 17.52 (<i>40</i>). After review of the evidence, the Panel decided to add "pulseless" to the criterion for crushed, degloved, or mangled extremity because vascular injury of the extremity might lead to significant morbidity and mortality, require a high level of specialized trauma care involving multiple medical specialties, and be present in the absence of a crushed, degloved, or mangled extremity (<i>37</i>). </p>
+				<h4>Chest Wall Instability or Deformity (e.g., Flail Chest): Criterion Modified </h4>
+				<p>This criterion was modified to read "Chest wall instability or deformity (e.g., flail chest)." The Panel identified no new evidence that specifically addressed the field triage of patients with flail chest. The Panel recognized that the field diagnosis of a flail chest is rare and that this criterion might be overly restrictive. In a 5-year retrospective study of the Israel National Trauma Registry, flail chest was identified in 262 (0.002&#37;) of 118,211 patients and in only 262 (0.02&#37;) of 11,966 chest injuries (<i>41</i>). Flail chest occurs in approximately 75 (0.002&#37;) per 50,000 patients (<i>42</i>). In this context, the Panel thought that as written, "flail chest" might fail to identify all of the chest injuries that require that the patient be transported to a facility that provides the highest level of care within the defined trauma system. The Panel decided that the criterion should be changed to "chest wall instability or deformity (e.g., flail chest)" because "flail chest" rarely is diagnosed by EMS providers; the terminology "chest wall instability or deformity" more accurately describes what EMS providers are asked to identify in the field environment, and the broader terminology ensures that additional blunt trauma to the chest (e.g., multiple rib fractures) will be identified and the patient transported to the appropriate facility. </p>
+				<h4>All Penetrating Injuries to Head, Neck, Torso, and Extremities Proximal to Elbow or Knee: Criterion Modified </h4>
+				<p>This criterion was modified to read "elbow or knee." During its discussions, the Panel noted that penetrating injuries to the extremities proximal to the elbow or knee might signify severe injuries requiring surgical intervention or intensive care unit (ICU) admission. Therefore, the Panel modified the wording of this criterion from "elbow and knee" to "elbow or knee" to recognize that these types of injuries generally occur separately and that each can represent a severe injury. </p>
+				<h4>Amputation Proximal to Wrist or Ankle: Criterion Modified </h4>
+				<p>This criterion was modified to read "wrist or ankle." During its discussions, the Panel noted that amputations proximal to the wrist or ankle might signify severe injuries requiring the patient to be taken to an operating theater or admitted to an ICU. Therefore, the Panel modified the wording of this criterion from "wrist and ankle" to "wrist or ankle" to recognize that these types of injuries most commonly occur separately and that each can represent a severe injury. </p>
+				<h4>Additional Anatomic Concerns Reviewed by the Panel </h4>
+				<p>The following sections describe additional anatomic criteria topics that were discussed by the Panel and for which no changes were recommended.<b> </b></p>
+				<p class="h5"><b>Tourniquet Use </b></p>
+				<p>Successful medical treatment of soldiers on the battlefield prompted researchers to explore the potential use of tourniquets for the rapid treatment of vascular injuries seen in the civilian population. Recent battlefield experiences indicate that tourniquet use reduces mortality by limiting exsanguinations (<i>43,44</i>). A retrospective review of 75,000 trauma visits at two Level 1 trauma centers in Texas identified 14 patients with penetrating extremity injuries who arrived at the hospital dead, required emergency thoracotomy, or underwent cardiopulmonary resuscitation. Eight decedents (57&#37;) were identified as having extremity injuries that might have been amenable to application of a tourniquet in the prehospital environment (<i>45</i>).</p>
+				<p>After review of the literature and subsequent discussion, the Panel elected not to include tourniquet use as an independent Step Two criteria because evidence is limited regarding the use of tourniquets in the civilian population; use of tourniquets among EMS systems varies; inclusion of tourniquet use as a criterion could lead to overuse of tourniquets instead of basic hemorrhage control methods and thus potentially result in overtriage; and the "crushed, degloved, mangled, or pulseless extremity," "all penetrating injuries to head, neck, torso, and extremities proximal to elbow or knee," and "amputation proximal to wrist or ankle" criteria were as likely to identify severely injured patients regardless of tourniquet use. The Panel recommended further study of the use of this intervention. </p>
+				<p class="h5"><b>Pelvic Fractures </b></p>
+				<p>Patients with pelvic fractures should receive rapid and specialized care because of the possibility of internal hemorrhage and other associated injuries. The Panel discussed whether the term "pelvic fracture" was the most appropriate term for the Guidelines to use to aid EMS professionals in identifying patients in need of trauma center care, recognizing that certain states and communities have changed this terminology to read "unstable pelvic fracture," "suspected pelvic fracture," or "pelvic instability." After extensive discussion, the Panel decided to retain the term "pelvic fractures" as written because no compelling evidence exists that a different name would identify the patients in need of trauma center care more accurately, for the sake of simplicity, and because adding "suspected" or "tenderness" to this criterion might increase overtriage unnecessarily. </p>
+				<h4>Step Three: Mechanism of Injury </h4>
+				<p>In Step Three, the intrusion criterion was modified to include roof intrusion. An injured patient who does not meet Step One or Step Two criteria should be evaluated in terms of mechanism of injury (MOI) to determine if the injury might be severe but occult. Evaluation of MOI will help to determine if the patient should be transported to a trauma center. Although different outcomes have been used, recent studies have demonstrated the usefulness of MOI for field triage decisions. A retrospective study of approximately 1 million trauma patients indicated that using physiologic and anatomic criteria alone for triage of patients resulted in undertriage, implying that using MOI for determining trauma center need helped reduce the problem of undertriage (<i>46</i>). Another study of approximately one half million patients determined that MOI was an independent predictor of mortality and functional impairment of blunt trauma patients (<i>47</i>). Among 89,441 injured patients evaluated by EMS providers at six sites, physiologic and anatomic criteria identified only 2,600 (45.5&#37;) of 5,720 patients with an ISS &gt;15, whereas MOI criteria identified an additional 1,449 (25.3&#37;) seriously injured patients with a modest (10&#37;) incremental increase in overtriage (from 14.0&#37; to 25.3&#37;) (<i>48</i>). </p>
+				<p>Of the 289 references identified from the structured literature review, 85 (29&#37;) were relevant to Step Three. Articles that were considered to provide either compelling evidence for change to the Guidelines or articles that provided insight into specific mechanisms are discussed below. </p>
+				<p>The Panel recommended transport to a trauma center if any of the following are identified:</p> 
+			  <ul>
+				  <li>falls
+				    <ul><li>adults: &gt;20 feet (one story = 10 feet)</li>
+				<li>children: &gt;10 feet or two to three times the height of the child</li></ul></li>
+				<li>high-risk auto crash 
+				<ul><li>intrusion, including roof: &gt;12 inches occupant site; &gt;18 inches any site </li>
+				<li>ejection (partial or complete) from automobile </li>
+				<li>death in same passenger compartment </li>
+				<li>vehicle telemetry data consistent with a high risk for injury; </li></ul></li>
+				<li>automobile versus pedestrian/bicyclist thrown, run over, or with significant (&gt;20 mph) impact; or </li>
+			  	<li>motorcycle crash &gt;20 mph </li></ul>
+				<h4>High-Risk Automobile Crash: Intrusion, Including Roof &gt;12 Inches to the Occupant Site; &gt;18 Inches to Any Site: Criterion Modified </h4>
+				<p>This criterion was modified to include roof intrusion. In a study of 880 children ≤15 years, intrusion, independent of other factors such as age, restraint use, seating row and direction of impact was a significant and strong predictor of a severe injury measured by an Abbreviated Injury Scores (AIS) &gt;2 or &gt;3. Furthermore, these analyses demonstrated that each additional centimeter of intrusion increased the odds of an AIS &gt;2 or &gt;3 by 2.9&#37; (<i>49</i>). Another study identified similar results indicating that drivers whose vehicles suffered side impact collisions had nearly four times (OR = 3.81; 95&#37; CI = 1.26&#8211;11.5) the odds of suffering an AIS &gt;3 or have severe head injury compared with drivers whose vehicles had different collision characteristics; these results further suggested that drivers who had intrusion into the passenger compartment at the driver's position were significantly more likely to have severe injury regardless of damage distribution across the frontal plane of the vehicle (<i>50</i>). </p>
+				<p>Data from CIREN and NASS-CDS suggest that intrusion of &gt;12 inches at an occupant site or intrusion of &gt;18 inches at any site is a significant predictor of severe injury requiring trauma care. These data also indicate that roof intrusion is predictive of the need for trauma care (<i>51</i>). </p>
+				<p>After deliberations, the Panel decided to add "including roof" to the intrusion category because the 2006 guidelines did not convey clearly that vertical roof intrusion has the same implication for increased injury severity as horizontal intrusion into the vehicle occupant space, and a review of the literature confirms that intrusion, including vertical roof intrusion, is an important predictor of trauma center need. </p>
+				<h4>Additional Mechanism-of-Injury Concerns Discussed by the Panel </h4>
+				<p>The following sections describe additional MOI criteria topics that were discussed by the Panel and for which no changes were recommended.<b> </b></p>
+				<p class="h5"><b>Extrication </b></p>
+				<p>Prolonged extrication has been reported to be an independent predictor (OR = 2.3; 95&#37; CI = 1.2&#8211;4.6) of emergency surgery need in hypotensive (SBP &lt;90 mmHg) trauma patients (<i>52</i>). An earlier Australian study, reviewed by the Panel in 2005, determined that prolonged extrication time was associated with major injury (<i>53</i>). However, neither of these studies used ISS &gt;15 as a threshold, nor did they examine whether prolonged extrication was an independent predictor of serious injury after Steps 1 and 2. During the 2006 revision, the Panel considered poor standardization in the literature regarding the definition of extrication time as well as its dependence on local resources, scene conditions, and extrication expertise in its decision to eliminate prolonged extrication. The Panel concluded at that time that the vehicle intrusion criterion should be an adequate surrogate for prolonged extrication. During this latest revision, examination of CIREN data confirmed that the current intrusion criterion was more specific for ISS &gt;15 injury than need for physical extrication of the vehicle occupant (length of extrication unknown) (<i>51</i>). </p>
+				<p>Recent data collected over a 2-year period from 11,892 interviews with EMS personnel regarding transport of injured patients to a regional trauma center indicated that of the 9,483 patients who did not meet the anatomic or physiologic criteria, extrication time &gt;20 minutes (as estimated by the EMS provider) suggested that occupants of motor-vehicle crashes had a significantly greater likelihood of being admitted to an ICU, needing nonorthopedic surgery in the first 24 hours after injury, or dying (sensitivity: 11&#37;; specificity: 98&#37;; positive likelihood ratio: 5.0) (<i>54</i>). </p>
+				<p>Although these data would appear to support the inclusion of "prolonged extrication time" as a mechanism criterion for identifying a major trauma patient, the Panel concluded that this was not an independent predictor in that the intrusion criterion addressed this mechanism event adequately, and the imprecise nature of this data was difficult to interpret reliably and include. The Panel concluded that no compelling evidence exists to reinstitute prolonged extrication time as a criterion in MOI. </p>
+				<p class="h5"><b>Rollover </b></p>
+				<p>Rollover vehicle crash events are less common than planar crashes of vehicles into other vehicles or fixed objects, but they are more dangerous overall (<i>51,55</i>). In 2004, NHTSA reported 11,728,411 motor-vehicle crashes. Of these, the 275,637 (2.4&#37;) rollover crashes were associated with one third of all occupant deaths (<i>56,57</i>). Two recent studies highlight the importance of rollover as a predictor of severe injury (<i>49,57</i>). However, both studies were limited because they did not control for Step One and Step Two criteria when determining the need for transport to a trauma center. A study was conducted that used 11,892 EMS provider interviews regarding transport of injured patients to identify injured patients who did not meet the physiologic or anatomic criteria to determine if rollover was a predictor of trauma center need. A total of 523 rollover cases occurred, and the sensitivity for trauma center need (defined as death, admission to ICU, or nonorthopedic surgery within 24 hours of arrival) was 13&#37; (range: 8.2&#37;&#8211;18.0&#37;) and the specificity was 87&#37; (range: 86.2&#37;&#8211;88.3&#37;). When the data were analyzed by the number of quarter turns, only minimal improvement in positive likelihood ratios was reported, and none was &gt;1.7 (<i>54</i>). </p>
+				<p>The Panel reexamined other data from rollover crashes to determine whether subsets of rollover crashes might warrant inclusion as a criterion in MOI. NASS-CDS rollover crash data were analyzed to determine the effect of the number of quarter turns, the final position of the vehicle, the extent of roof intrusion as well as partial and full ejection of the occupant from the vehicle. Rollover crashes with roof intrusion of 24 inches were associated with a 19.3&#37; risk of ISS &gt;15 injury. Any ejection (partial or full) was associated with a 21.5&#37; risk of ISS &gt;15 injury, and complete occupant ejection was associated with a 27.4&#37; risk of ISS &gt;15 injury (<i>51</i>). </p>
+				<p>The Panel thought that the existing ejection and intrusion criterion, and the previously discussed modification to include roof intrusion, adequately addressed field triage of this subset of severe rollover crashes. The Panel concluded that rollover event, as a standalone criterion, has &lt;9&#37; PPV for ISS &gt;9 and is insufficient to meet the 20&#37; PPV for ISS &gt;15 targeted as a threshold for inclusion in Step Three.</p>
+				<p>As a crash mechanism, rollover might result in one or more occupants sustaining severe injuries. The Panel reiterated its opinion that patients involved in rollover crashes should be evaluated by EMS personnel to determine if they have injuries that meet Step One, Step Two, or other Step Three criteria. Patients involved in rollover crashes who meet Step One or Step Two criteria should be transported preferentially to the highest level of care within the defined trauma system. Patients involved in rollover crashes who meet only Step Three (but not Step One or Step Two) criteria should be transported to a trauma center that, depending on the defined trauma system, need not be the highest-level trauma center. The Panel noted that the increased injury severity associated with rollover crashes results from an occupant being ejected either partially or completely from the vehicle, and partial or complete ejection is already a criterion for transport to a trauma center. Therefore, the previous decision to remove rollover from the 2006 Guidelines was reaffirmed, and no changes were made regarding rollover. In addition, the Panel noted that adding "including roof" under the intrusion criterion will identify rollover crashes with significant roof intrusion. </p>
+				<p class="h5"><b>Vehicle Telemetry </b></p>
+				<p>Several studies have indicated that mechanical aspects of collisions can be predictors of injury in motor vehicle crashes. A study that used 10 years of NASS-CDS data determined that seat belt use, direction of impact, and Delta V (i.e., a change in velocity) were the most important predictors of an ISS &gt;15 (<i>58</i>). The study also concluded that an event data recorder (EDR) system could provide emergency personnel with good estimates of injury status based solely on data such as seat belt use, direction of impact, and Delta V, which can be collected from the vehicle. Other research has suggested that factors that can be recorded by a vehicle EDR system such as Delta V (<i>59,60</i>), high speed velocity (<i>61</i>), location of impact (<i>62</i>), and vehicle weight and type (<i>63</i>) are predictors of severe injury. The Panel recognized the increasing availability of vehicle telemetry in newer vehicles and reaffirmed its position that vehicle telemetry might have an important role in the triage of injured patients as the crash technology, data transmission, and telemetry availability continue to expand. An explanation of how vehicle telematics could be used in field triage has been published previously (<i>64</i>). </p>
+				<p class="h5"><b>Falls </b></p>
+				<p>Research conducted on falls is limited because of the inability to study the impact of measured fall height directly. However, three studies were identified that added insight into this mechanism. One study of 63 cases of falls indicated that among children aged &lt;2 years, height of fall &gt;2 meters (&gt;6.6 feet) is a predictor of injury (<i>65</i>). A similar study of 72 children aged 4 months&#8211;5 years indicated that falls from &lt;1 meter (3.3 feet) could cause a skull fracture if the fall occurred on a hard surface (<i>66</i>). Furthermore, another study conducted in France of 287 victims of falls from height indicated that height of fall, hard impact surface, and having the head being the first body part to touch the ground were independent predictors of mortality (<i>67</i>). On the basis of these three studies with limited sample sizes and the overall limited data on falls, no changes were made to this section. </p>
+				<h4>Step Four: Special Considerations </h4>
+				<p>In Step Four, the criteria for older adults and anticoagulation were modified, and the criteria for end stage renal disease requiring dialysis and time-sensitive extremity injury were removed. In Step Four, EMS personnel must determine whether persons who have not met physiologic, anatomic, or mechanism steps have underlying conditions or comorbid factors that place them at higher risk of injury or that aid in identifying the seriously injured patient. Persons who meet Step Four criteria might require trauma center care. A retrospective study of approximately 1 million trauma patients indicated that using physiologic (Step One) and anatomic (Step Two) criteria alone for triage of patients resulted in a high degree of under triage, implying that using special considerations for determining trauma center need helped reduce the problem of under triage (<i>46</i>). Among 89,441 injured patients evaluated by EMS providers at six sites, physiologic, anatomic, and mechanism of injury criteria identified 4,049 (70.8&#37;) patients with an ISS &gt;15; Step Four of the Guidelines identified another 956 (16.7&#37;) of seriously injured patients, with increase in overtriage from 25.3&#37; to 37.3&#37;. (<i>48</i>). </p>
+				<p>Of the 289 references identified from the structured literature review, 77 (27&#37;) were relevant to Step Four. No changes were made to the Step Four criteria for burns, pregnancy, and EMS provider judgment. The Panel recommended transport to a trauma center or hospital capable of timely and thorough evaluation and initial management of potentially serious injuries for patients who meet the following criteria:</p> 
+				
+				<ul><li>older adults
+				<ul><li>risk for injury/death increases after age 55 years </li>
+				<li>SBP &lt;110 might represent shock after age 65 years </li>
+				<li>low impact mechanisms (e.g., ground-level falls) might result in severe injury </li></ul></li></ul>
+				
+				<ul><li>children 
+				<ul><li>should be triaged preferentially to pediatric capable trauma centers </li></ul></li></ul>
+				
+				<ul><li>anticoagulants and bleeding disorders 
+				<ul><li>patients with head injury are at high risk for rapid deterioration </li></ul></li></ul>
+				
+				<ul><li>burns 
+				<ul><li>without other trauma mechanism: triage to burn facility </li>
+                <li>with trauma mechanism: triage to trauma center </li></ul></li></ul>
+                
+				<ul><li>pregnancy &gt;20 weeks </li>
+				<li>EMS provider judgment </li></ul>
+				
+				<h4>Older Adults: Criterion Modified </h4>
+				<p>This criterion was modified to include statements that recognize that a SBP &lt;110 might represent shock after age 65 years and that low-impact mechanisms (e.g., ground-level falls) might result in severe injury. The Panel recognized that adults aged &gt;65 years are not transported consistently to the hospital best equipped to manage their injuries (high rates of undertriage relative to other age groups). A retrospective analysis of 10 years of prospectively collected data in the Maryland Ambulance Information System identified a higher undertriage rate for patients aged ≥65 years compared with those aged &lt;65 years (49.9&#37; and 17.8&#37;, respectively; p&lt;0.001) (<i>68</i>).<b> </b>On subsequent multivariate analysis, the authors noted a decrease in transport to trauma centers for older patients beginning at age 50 years (OR = 0.67; 95&#37; CI = 0.57&#8211;0.77), with a second decrease at age 70 years (OR = 0.45; 95&#37; CI = 0.39&#8211;0.53) compared with those patients aged &lt;50 years. In a 4-year retrospective study of 13,820 patients in the Washington State Trauma Registry, those patients aged &gt;65 years were less likely than those aged ≤65 years to have had the prehospital system or the trauma team activated. In addition, use of multivariate logistic regression indicated that physiologic triage variables (e.g., blood pressure and heart rate) were unreliable predictors of mortality or interventions in the hospital (<i>69</i>). </p>
+				<p>Several studies suggest that differences in the physiologic response to injury and high-risk mechanisms in older adults might partly explain undertriage rates in this age group. In a retrospective chart review of 2,194 geriatric patients (aged ≥65 years) at a Level 1 trauma center, mortality was noted to increase at a SBP of &lt;110 mmHg (<i>70</i>). A retrospective review of 106 patients aged &gt;65 years at a Level II trauma center indicated that occult hypotension (i.e., decreased perfusion that is not evident by standard vital sign criteria) was present in 42&#37; of patients with "normal" vital signs (<i>71</i>). </p>
+				<p>In addition, the Panel reviewed literature that indicated that older adults might be severely injured in low-energy events (e.g., ground-level falls). An analysis of deaths reported by the King County Medical Examiner's Office (King County, Washington) indicated that ground level falls accounted for 237 (34.6&#37;) of all deaths (684) in patients aged ≥65 years (<i>72</i>). A study of 57,302 patients with ground-level falls demonstrated higher rates of intracranial injury and in-hospital mortality among adults aged ≥70 years (<i>73</i>). </p>
+				<p>On the basis of its review, the Panel elected to strengthen the criterion regarding older adults in Step Four. "SBP &lt;110 might represent shock after age 65" and "low-impact mechanisms (e.g., ground-level falls) might result in severe injury" were added under "Older Adults" in Step Four because undertriage of the older adult population is a substantial problem, the evidence reviewed suggests that the physiologic parameters used in younger patients might not apply to older adults, occult injury is likely to be greater among older adults, low-energy transfers (e.g., ground-level falls) might result in serious injuries in this population, and field identification of serious injury among older adults must be more proactive. </p>
+				<h4>Anticoagulation and Bleeding Disorders: Patients with Head Injury Are at High Risk for Rapid Deterioration: Criterion Modified </h4>
+				<p>The Panel modified this criterion to highlight the potential for rapid deterioration in anticoagulated patients with head injuries. Anticoagulation use has been associated with an increased risk for intracranial hemorrhage following head injury (<i>72,73&#8211;77</i>) and longer hospital stays (<i>72,78</i>). A retrospective review of 141 Level II trauma center patients who were taking warfarin or clopidogrel, had minor head injuries, and had a GCS of 15 indicated that 41 (29&#37;) had intracranial hemorrhage (<i>74</i>).<b><i> </i></b>A study of 237 patients who died following ground-level falls indicated that 71 (30&#37;) patients were anticoagulated with aspirin, warfarin, clopidogrel, heparin, or multiple anticoagulants (<i>72</i>). Preinjury use of warfarin has been associated with higher mortality among adults aged &gt;65 years with mild head injuries using a GCS measure of 14 or 15 (<i>74</i>). In a retrospective, case-controlled study of 131 patients with traumatic intracranial hemorrhage who were taking aspirin, clopidogrel, or warfarin before they were injured, anticoagulated patients taking clopidogrel had higher mortality rates (OR = 14.7; 95&#37; CI = 2.3&#8211;93.6) and were more likely to be discharged to a long-term facility (OR = 3.25; 95&#37; CI = 1.06&#8211;9.96) (<i>78</i>). </p>
+				<p>After reviewing this literature, the Panel elected to strengthen this criterion, underscoring the potential for anticoagulated patients who do not meet Step One, Step Two, or Step Three criteria but who have evidence of head injury to undergo rapid decompensation and deterioration. The panel recognized that patients who meet this criterion should be transported preferentially to a hospital capable of rapid evaluation and imaging of these patients and initiation of reversal of anticoagulation if necessary. </p>
+				<h4>End-Stage Renal Disease Requiring Dialysis: Criterion Removed </h4>
+				<p>The panel reviewed this specific criterion, which was added to the 2006 Guidelines because of the potential risk of anticoagulation in these patients and the need for special resources (e.g., dialysis) to be used in this patient population. However, in 2011, the Panel elected to remove this criterion, noting that research demonstrating the value of dialysis as a triage criterion for identifying patients with serious injury is lacking and that concerns regarding anticoagulation in this population are addressed under the anticoagulation and bleeding disorders criterion. The Panel thought that transport decisions regarding patients requiring dialysis are best made in consultation with medical control or based on local transport protocols for such patients. </p>
+				<h4>Time-Sensitive Extremity Injury: Criterion Removed </h4>
+				<p>With the addition of "pulseless" to Step Two criteria, the panel thought this criterion was redundant, and removed it from the 2011 Guidelines. </p>
+				<h4>Transition Boxes and Flow of the 2011 Schematic: Format Modified </h4>
+				<p>The transition boxes in the schematic (Figures 1 and 2) provide destination guidance to the prehospital provider for patients meeting criteria outlined in the preceding Step. After reviewing input from providers, states, and local EMS agencies, the Panel recognized the need to simplify the appearance of the Guidelines, modify the transition boxes, clarify the intent of the Guidelines, and simplify communication of action steps in the Guidelines across a variety of providers and systems. </p>
+				<p>To do this, the Panel took action both to improve the layout of the decision scheme and to modify specific wording within the boxes. To improve the layout of the transition boxes, the Panel took two steps. First, because the transition boxes between Step One and Step Two communicate the exact same information and thus were thought to be redundant, they were consolidated into one box. Second, all action steps were moved to the right side of the page for easier readability and determination of outputs for patients meeting different steps in the Guideline (<a href="#Fig2">Figure 2</a>). </p>
+				<p>Next, the Panel modified the language within the boxes to ensure consistency between transitions in the Guideline. The first word in all transition boxes was changed to "transport" to ensure consistency between all boxes. Next, to emphasize the need for state, regional, and local trauma systems to define the parameters of their trauma systems (including the "highest level of care"), the word "defined" was added in front of "trauma system" for transition boxes following Steps One, Two, and Three. This change recognizes that the highest level of trauma care should be determined by the regional/state trauma system design and authority. In most systems, this is a Level I center, but in given circumstances, the highest level of care available might be a Level II, III, or IV facility or a local, critical access hospital serving the region. Third, in the transition box following Step Three, the words "closest appropriate'' were removed. This change, with the addition of "defined" as above, makes this transition box consistent with the wording in the remainder of the Guidelines. Finally, regarding the transition box following Step Four in the 2006 Guidelines, the Panel recognized that many EMS systems operate via indirect (off-line) medical control (using medical director&#8211;approved protocols in a sanctioned, algorithmic process) and not direct (online) medical control (in which direct communication can take place between a physician and an EMS provider via radio or telephone for a specific patient interaction). Therefore, the Panel removed mandatory contact with medical control and emphasized that online control with verbal consultation might be appropriate. The wording of this box also was modified to emphasize that these patients need to go to a facility at which they can be evaluated readily with appropriate initial management for injury, whether or not this is a trauma center. </p>
+				<h3 class="serial_subtitle">Future Research for Field Triage </h3>
+				<p>The Panel noted an increase in the peer-reviewed published literature regarding field triage from the 2006 Guideline to this current revision. The current revision process identified and reviewed 289 articles during 2006&#8211;2011 (~48 articles/year) directly relevant to field triage, 24 times the annual number of articles during 1966&#8211;2005 (~2/year) cited in the 2006 Guidelines (<i>1</i>). Despite this increase in the number of articles, the Panel concluded that ensuring that the Guidelines are based on the best clinical evidence requires expanded surveillance (<a href="#Box3">Box 3</a>), focused research using robust study designs, and consistent outcome measures. The preponderance of existing triage studies reviewed by the Panel used retrospective data, trauma registry samples, single EMS agencies, and single trauma centers, all of which can result in biased estimates and reduced generalizability. Prospective triage research is needed that includes multiple sites, multiple EMS agencies, trauma and nontrauma hospitals, and population-based study designs that reduce selection bias and increase the generalizability of study findings. In addition, relatively little triage literature exists that evaluates the Guidelines in their entirety (as opposed to an individual criterion or component steps of the decision scheme) and the contribution of each step to the full Guidelines. Prospective studies evaluating the full Guidelines among the broad injury population served by EMS are needed to assess the accuracy of the Guidelines appropriately and to better identify targets for improvement. Further, the process of field triage in rural settings, including the impact of geography on triage, issues regarding proximity to trauma centers, use of air medical services, integration of local hospitals for initial stabilization, and secondary triage at nontrauma hospitals, is poorly understood. As a substantive portion of the U.S. population lives &gt;60 minutes from the closest major trauma center, and 28&#37; of U.S. residents are only able to access specialized trauma care within this time window by helicopter (<i>79</i>), field triage in nonurban environments needs to be understood better. </p>
+				<p>Current peer-reviewed triage literature has described multiple outcome measures, including injury severity, clinical outcomes, need for trauma center resources (with or without a measure of timeliness), or a combination of these metrics. The most common clinical outcome measure is ISS &gt;15, although the AIS ≥3 has also been used. Trauma center need has been measured by use of blood products, interventional radiology, major nonorthopedic surgery, or ICU stay. This variability in outcome measures limits comparability among studies and is not always consistent with literature identifying the subgroup of patients most likely to benefit from trauma center care. Future research should address these issues and attempt to match triage evaluation to patients most likely to benefit from trauma center care and clearly define the standard of measure. </p>
+				<p>Ongoing collaboration among local, state, and regional EMS agencies with governmental, non-governmental, academia, and public health agencies and institutions will allow the continuing analysis and evaluation of the 2011 Guidelines and its impact on the care of acutely injured patients. Statewide EMS and trauma databases provide opportunities for statewide quality improvement of field triage, research, and adaptation of the Guidelines to meet state specific circumstances. Large, nationally representative databases (e.g., the National EMS Information Systems database, the National Trauma Data Bank&#8211;National Sample Program, the Healthcare Cost and Utilization Project&#8211;National Inpatient Sample, the National Hospital Ambulatory Medical Care Survey, and NASS-CDS) could be utilized for future triage research if advances are made to link these data files across phases of care (i.e., prehospital to in-hospital). Finally, uniform definitions of prehospital variables (including triage criteria) with a standardized data dictionary and data standards (e.g., HL7 messaging) could provide comparable data across study sites and assist with linking data files from the prehospital to the hospital setting. </p>
+				<h4>Areas for Specific Research Using the 2011 Field Triage Guidelines </h4>
+				<p>Several new technologies, which emerge from research in the remote noninvasive monitoring of casualties in austere environments, will likely be commercially available in the near future. Of these innovations, the noninvasive monitoring of heart rate complexity and variability (<i>80&#8211;83</i>), respiratory rate (<i>84</i>), tissue oxygenation, and point-of-care lactate testing (<i>85</i>) appear promising for future field triage, but require more research.</p>
+				<p>The GCS<sub>m</sub> of the GCS<sub>t</sub> is used in state triage guidelines (e.g., Colorado) and has some support in peer-reviewed literature, as noted in the preceding sections. However, additional research is needed to evaluate the use of GCS<sub>m</sub> in the context of field triage and the practical implications of changing this Step One criterion. </p>
+				<p>Advanced automatic collision notification shows promise in improving accuracy of field triage of patients involved in motor-vehicle crashes. Further effort is required to integrate this technology into trauma and EMS systems and evaluate its effectiveness. </p>
+				<p>The issue of undertriage in older adults was viewed by the Panel as a major priority for future research. There is a need to understand the basis for undertriage in this age group and how the Guidelines might be modified to reduce this problem. Related topics include the role of age in predicting serious injury, different physiologic responses to injury among older adults, different injury-producing mechanisms in older adults, emergency and trauma care providers' attitudes and behaviors regarding triage in older adults, older adults' health-care preferences for injury care, end-of-life issues and their relevance to triage, new criteria to identify serious injury in older adults, the role of trauma centers in caring for older injured adults, and other aspects of better matching patient need with hospital capability for this population. How systems respond to patient and/or family preferences regarding hospital destinations that differ from the recommendations in these Guidelines should be explored in the context of patient's rights and the moral imperative to provide the optimal chance for improved outcomes from trauma. </p>
+				<p>Finally, the cost of trauma care, the implications of field triage on cost, and the cost-efficiency of different approaches to field triage require more research. Even after accounting for injury severity and important confounders, the cost of care is notably higher in trauma centers (<i>86,87</i>). Though the cost effectiveness of trauma center care has been demonstrated among seriously injured patients (AIS ≥ 4) (<i>87</i>), it is possible that modest shifts in overtriage might have substantial financial consequences. For example, a recent study that compared the 2006 and 1999 Guidelines identified a potential $568 million cost savings at an assumed overtriage rate of 40&#37; (<i>21</i>). However, further studies are needed to discover new ways to maximize the efficiency and cost-effectiveness of trauma systems and ensure that patients are receiving optimal injury care while considering the importance of the research, education, and outreach mission of trauma centers. </p>
+				<h3 class="serial_subtitle">Conclusion </h3>
+				<p>The Guidelines provided in this report are based on current medical literature, the experience of multiple states and communities working to improve field triage, and the expert opinion of the Panel members. This guidance is intended to assist EMS and trauma systems, medical directors, and providers with the information necessary to make critical decisions that have been demonstrated to increase the likelihood of improved outcomes in severely injured trauma patients (<i>5</i>). </p>
+				<p>Improved field triage of injured patients can have a profound impact on the structure, organization, and use of EMS and trauma systems, the costs associated with trauma care, and most importantly, on the lives of the millions of persons injured every year in the United States. As is noted throughout this report, improved research is needed to assess the impact of field triage on resource allocation, health-care financing and funding, and, most importantly, patient outcomes. </p>
+				<h4>Acknowledgments </h4>
+				<p>The following persons assisted in producing this report: John Seggerson, McKing Consulting Company, Atlanta, Georgia, Bob Bailey, MA, McKing Consulting Corporation, Raleigh, North Carolina, Lisa C. McGuire, PhD, Karen Ledford, Terica Scott, Likang Xu, MD, Division of Injury Response, National Center for Injury Prevention and Control, CDC. </p>
+				<h4>References</h4>
+				<ol>
+				<li> American College of Surgeons. Resources for the optimal care of the injured patient: 2006. Chicago, IL: American College of Surgeons; 2006.</li>
+				<li> American College of Surgeons. Hospital and prehospital resources for the optimal care of the injured patient: appendices A through J. Chicago, IL: American College of Surgeons; 1986.</li>
+				<li> American College of Surgeons. Resources for the optimal care of the injured patient: 1990. Chicago, IL: American College of Surgeons; 1990. </li>
+				<li> American College of Surgeons. Resources for the optimal care of the injured patient: 1993. Chicago, IL: American College of Surgeons; 1993.</li>
+				<li> American College of Surgeons. Resources for the optimal care of the injured patient: 1999. Chicago, IL: American College of Surgeons; 1999.</li>
+				<li> <a href="rr5801a1.htm">CDC. Guidelines for field triage of injured patients: recommendations of the National Expert Panel on Field Triage. MMWR 2009;58(No. RR-1).</a></li>
+				<li> CDC. WISQARS: web-based injury statistics query and reporting system: injury the leading cause of death among persons 1&#8211;44. Available at http://webappa.cdc.gov/sasweb/ncipc/mortrate10_us.html. Accessed December 13, 2011.</li>
+				<li> CDC. WISQARS: web-based injury statistics query and reporting system: injury mortality reports, 2008, United States. Available at <a href="http://www.cdc.gov/injury/wisqars/fatal.html">http://www.cdc.gov/injury/wisqars/fatal.html</a>. Accessed December 13, 2011.</li>
+				<li> CDC. National Ambulatory Medical Care Survey (NHAMCS): 2007 emergency department file. Available at <a href="http://www.cdc.gov/nchs/ahcd/ahcd_questionnaires.htm#public_use">http://www.cdc.gov/nchs/ahcd/ahcd_questionnaires.htm#public_use</a>. Accessed December 13, 2011.</li>
+				<li> MacKenzie EJ, Rivara FP, Jurkovich GJ, et al. A national evaluation of the effect of trauma center care on mortality. N Engl J Med 2006;354:366&#8211;78.</li>
+				<li> Haas B, Gomez D, Zagorski B, Stukel TA, Rubenfeld GD, Nathens AB. Survival of the fittest: the hidden cost of undertriage of major trauma. J Am Coll Surg 2010;211:804&#8211;11.</li>
+				<li> Sasser SM, Hunt RC, Sullivent EE, Wald MM. Guidelines for field triage of injured patients: recommendations of the National Expert Panel on Field Triage. JEMS 2009. Available at <a href="http://www.jems.com/sites/default/files/cdc_field_triage_web_tcm16-205307.pdf">http://www.jems.com/sites/default/files/cdc_field_triage_web_tcm16-205307.pdf</a>. Accessed December 13, 2011.</li>
+				<li> Mistovich JJ, Limmer D. Transition series: topics for the EMT. Upper Saddle River, NJ: Pearson; 2011.</li>
+				<li> Mistovich JJ, Karren KK. Prehospital emergency care. 9th ed. Upper Saddle River, NJ: Pearson; 2010.</li>
+				<li> Gross E, Martel M. Multiple trauma. In: Marx JA, Hockberger RS, Walls RM, et al., eds. Rosen's emergency medicine. 7th ed. Philadelphia, PA: Mosby; 2010.</li>
+				<li> Prehospital Trauma Life Support Committee of the National Association of Emergency Medical Technicians in cooperation with the Committee on Trauma of the American College of Surgeons. PHTLS: Prehospital trauma life support. 6th ed. St. Louis, MO: Mosby; 2007.</li>
+				<li> National Association of EMS Physicians. Field triage of the injured patient. Available at <a href="http://www.naemsp.org/documents/FieldTriageoftheInjuredPatient.pdf">http://www.naemsp.org/documents/FieldTriageoftheInjuredPatient.pdf</a>. Accessed December 13, 2011.</li>
+				<li> US Department of Transportation, Federal Highway Administration. Safe, Accountable, Flexible, Efficient Transportation Equity Act: a legacy for users. 42 USC &#167; 300d-4 (2006).</li>
+				<li> Sasser SM, Ossmann E, Wald MM, Lerner EB, Hunt RC. Implementation status of the 2006 Field Triage Decision Scheme, October 2009&#8211;April 2010. West J Emerg Med 2011;12:275&#8211;83.</li>
+				<li> Lerner EB, Shah MN, Swor RA, et al. Comparison of the 1999 and 2006 trauma triage guidelines: where do patients go? Prehosp Emerg Care 2011;15:12&#8211;7.</li>
+				<li> Faul M, Wald MM, Sullivent EE, et al. Large cost savings realized from the 2006 Field Triage Guidelines: reduction in overtriage to US trauma centers. Prehosp Emerg Care 2012. In press. </li>
+				<li> Chen B, Zaebst D, Seel L. A macro to calculate Kappa statistics for categorizations by multiple raters [Presentation no. 155-30]. Proceedings of the 30th Annual SAS User Group International (SUGI) Conference, Philadelphia, Pennsylvania; April 10&#8211;13, 2005.</li>
+				<li> US Department of Transportation. National Highway Traffic Safety Administration. National Automotive Sampling System 2011. Available at <a href="http://www.nhtsa.gov/Data/National+Automotive+Sampling+System+(NASS)/NASS+Crashworthiness+Data+System">http://www.nhtsa.gov/Data/National+Automotive+Sampling+System+(NASS)/NASS+Crashworthiness+Data+System</a>. Accessed December 13, 2011.</li>
+				<li> US Department of Transportation. National Highway Traffic Safety Administration. Crash Injury Research (CIREN). Available at <a href="http://www.nhtsa.gov/CIREN">http://www.nhtsa.gov/CIREN</a>. Accessed December 13, 2011.</li>
+				<li> Cherry RA, King TS, Carney DE, Bryant P, Cooney RN. Trauma team activation and the impact on mortality. J Trauma 2007;63:326&#8211;30.</li>
+				<li> Edelman DA, White MT, Tyburski JG, Wilson RF. Post-traumatic hypotension: should systolic blood pressure of 90&#8211;109 mmHg be included? Shock 2007;27:134&#8211;8.</li>
+				<li> Codner P, Obaid A, Porral D, Lush S, Cinat M. Is field hypotension a reliable indicator of significant injury in trauma patients who are normotensive on arrival to the emergency department? Am Surg 2005;71:768&#8211;71.</li>
+				<li> Lipsky AM, Gausche-Hill M, Henneman PL, et al. Prehospital hypotension is a predictor of the need for an emergent, therapeutic operation in trauma patients with normal systolic blood pressure in the emergency department. J Trauma 2006;61:1228&#8211;33.</li>
+				<li> Newgard CD, Rudser K, Hedges JR, et al. A critical assessment of the out-of-hospital trauma triage guidelines for physiologic abnormality. J Trauma 2010;68:452&#8211;62.</li>
+				<li> Newgard C, Rudser K, Atkins DL, et al. The availability and use of out-of-hospital physiologic information to identify high-risk injured children in a multisite, population-based cohort. Prehosp Emerg Care 2009;13:420&#8211;31.</li>
+				<li> Newgard CD, Cudnik M, Warden CR, Hedges JR. The predictive value and appropriate ranges of prehospital physiological parameters for high-risk injured children. Pediatr Emerg Care 2007;23:450&#8211;6.</li>
+				<li> Holcomb JB, Niles SE, Miller CC, Hinds D, Duke JH, Moore FA. Prehospital physiologic data and lifesaving interventions in trauma patients. Mil Med 2005;170:7&#8211;13.</li>
+				<li> Holcomb JB, Salinas J, Mcmanus JM, Miller CC, Cooke WH, Convertino VA. Manual vital signs reliably predict need for life-saving interventions in trauma patients. J Trauma 2005;59:821&#8211;28; discussion 828&#8211;9.</li>
+				<li> Cannon CM , Braxton CC, Kling-Smith M, Mahnken JD, Carlton E, Moncure M. Utility of the Shock Index in predicting mortality in traumatically injured patients. J Trauma 2009;67:1426&#8211;30.</li>
+				<li> Ball CG, Rozycki GS, Feliciano DV. Upper extremity amputations after motor vehicle rollovers. J Trauma 2009;67:410&#8211;2.</li>
+				<li> Bernstein ML, Chung KC. Early management of the mangled upper extremity. Injury 2007;38(Suppl 5):S3&#8211;7. </li>
+				<li> Heis HA, Bani-Hani KE, Elheis MA. Overview of extremity arterial trauma in Jordan. Int Angiol 2008;27:522&#8211;8.</li>
+				<li> Menakuru SR, Behera A, Jindal R, Kaman L, Doley R, Venkatesan R. Extremity vascular trauma in civilian population: a seven-year review from North India. Injury 2005;36:400&#8211;6.</li>
+				<li> Ozyürekoğlu T, Napolitano M, Kleinert JM. Hay baler injuries to the upper extremity. J Trauma 2007;63:62&#8211;9.</li>
+				<li> Prichayudh S, Verananvattna A, Sriussadaporn S, et al. Management of upper extremity vascular injury: outcome related to the Mangled Extremity Severity Score. World J Surg 2009;33:857&#8211;63.</li>
+				<li> Borman JB, Aharonson-Daniel L, Savitsky B, Peleg K; Israeli Trauma Group. Unilateral flail chest is seldom a lethal injury. Emerg Med J 2006;23:903&#8211;5.</li>
+				<li> Bastos R, Calhoon JH, Baisden CE. Flail chest and pulmonary contusion. Semin Thorac Cardiovasc Surg 2008;20:39&#8211;45.</li>
+				<li> Beekley AC, Sebesta JA, Blackbourne LH, et al. 31st Combat Support Hospital Research Group. Prehospital tourniquet use in Operation Iraqi Freedom: effect on hemorrhage control and outcomes. J Trauma 2008;64(Suppl):S28&#8211;37; discussion S37.</li>
+				<li> Tien HC, Jung V, Rizoli SB, Acharya SV, MacDonald JC. An evaluation of tactical combat casualty care interventions in a combat environment. J Am Coll Surg 2008;207:174&#8211;8. </li>
+				<li> Dorlac WC, DeBakey ME, Holcomb JB, et al. Mortality from isolated civilian penetrating extremity injury. J Trauma 2005;59:217&#8211;22.</li>
+				<li> Brown JB, Stassen NA, Bankey PE, Sangosanya AT, Cheng JD, Gestring ML. Mechanism of injury and special consideration criteria still matter: an evaluation of the National Trauma Triage Protocol. J Trauma 2011;70:38&#8211;44; discussion 44&#8211;5.</li>
+				<li> Haider AH, Chang DC, Haut ER, Cornwell EE, Efron DT. Mechanism of injury predicts patient mortality and impairment after blunt trauma. J Surg Res 2009;153:138&#8211;42.</li>
+				<li> Newgard C, Zive D, Holmes JF, et al. A multi-site assessment and validation of the ACSCOT field triage decision scheme for identifying seriously injured children and adults. JACS. In press. </li>
+				<li> Evans SL, Nance NL, Arbogast KB, Elliott MR, Winston FK. Passenger compartment intrusion as a predictor of significant injury for children in motor vehicle crashes. J Trauma 2009;66:504&#8211;7.</li>
+				<li> Conroy C, Tominaga GT, Erwin S, et al. The influence of vehicle damage on injury severity of drivers in head-on motor vehicle crashes. Accid Anal Prev 2008;40:1589&#8211;94.</li>
+				<li> Wang, SW. Review of NASS CDS and CIREN data for mechanism criteria for field triage. National Expert Panel on Field Triage meeting, Las Vegas, Nevada; April 28, 2011.</li>
+				<li> Kaiser M, Ahearn P, Nguyen XM, et al. Early predictors of the need for emergent surgery to control hemorrhage in hypotensive trauma patients. Am Surg 2009;75:986&#8211;90.</li>
+				<li> Palanca S, Taylor DM, Bailey M, Cameron PA. Mechanisms of motor vehicle accidents that predict major injury. Emerg Med (Fremantle) 2003;15:423&#8211;8.</li>
+				<li> Lerner EB, Shah MN, Cushman JT, et al. Does mechanism of injury predict trauma center need? Prehosp Emerg Care. In press.</li>
+				<li> National Highway Traffic Safety Administration, National Center for Statistics and Analysis. Traffic safety facts 2009: a compilation of motor vehicle crash data from the Fatality Analysis Reporting System and the General Estimates System. Available at http://www-nrd.nhtsa.dot.gov/Pubs/811402.pdf. Accessed December 13, 2011.</li>
+				<li> National Highway Traffic Safety Administration, National Center for Statistics and Analysis. An analysis of motor vehicle rollover crashes and injury outcomes. DOT HS 810 741. Washington, DC: National Highway Traffic Safety Administration, National Center for Statistics and Analysis; 2007.</li>
+				<li> Champion HR, Lombardo LV, Shair EK. The importance of vehicle rollover as a field triage criterion. J Trauma 2009;67:350&#8211;7.</li>
+				<li> Kononen DW, Flannagan CAC, Wang SC. Identification and validation of a logistic regression model for predicting serious injuries associated with motor vehicle crashes. Accid Anal Prev 2011;43:112&#8211;22.</li>
+				<li> Talmore D, Thompson KM, Legedza ATR, Nirula R. Predicting severe head injury after light motor vehicle crashes: implications for automatic crash notification systems. Accid Anal Prev 2006;38:767&#8211;71.</li>
+				<li> Otte D, Haasper C, Eis V, Schaefer R. Characteristics of pole impacts to side of passenger cars in European traffic accidents and assessment of injury mechanisms&#8211;analysis of German and UK in-depth data. Stapp Car Crash J 2008;52:349&#8211;62. </li>
+				<li> Michette CP, Hanna R, Crandall JR, Fahkry SM. Contemporary analysis of thoracic aortic injury: importance of screening based on crash characteristics. J Trauma 2007;63:18&#8211;24; discussion 24&#8211;5.</li>
+				<li> Newgard CD, Lewis RJ, Kraus JF, McConnell KJ. Seat position and the risk of serious thoracoabdominal injury in lateral vehicle crashes. Accid Anal Prev 2005;37:668&#8211;74.</li>
+				<li> Nirula R, Talmor D, Brasel K. Predicting serious torso trauma. J Trauma 2005;59:132&#8211;5.</li>
+				<li> CDC. Recommendations from the expert panel: advanced automatic collision notification and triage of the injured patient. Atlanta, GA: US Department of Health and Human Services, CDC; 2008.</li>
+				<li> Hansoti B, Beattie T. Can the height of fall predict long bone fracture in children under 24 months? Eur J Emerg Med 2005;12:285&#8211;6.</li>
+				<li> Johnson K, Fischer T, Chapman S, Wilson B. Accidental head injuries in children under 5 years of age. Clin Radiol 2005;60:464&#8211;68.</li>
+				<li> Lapostolle F, Gere C, Borron SW, et al. Prognostic factors in victims of falls from height. Crit Care Med 2005;33:1239&#8211;42.</li>
+				<li> Chang DC, Bass RR, Cornwell EE, Mackenzie EJ. Undertriage of elderly trauma patients to state-designated trauma centers. Arch Surg 2008;143:776&#8211;81; discussion 782.</li>
+				<li> Lehmann R, Beekley A, Casey L, Salim A, Martin M. The impact of advanced age on trauma triage decisions and outcomes: a statewide analysis. Am J Surg 2009;197:571&#8211;4; discussion 574&#8211;5.</li>
+				<li> Heffernan DS, Thakkar RK, Monaghan SF, et al. Normal presenting vital signs are unreliable in geriatric blunt trauma victims. J Trauma 2010;69:813&#8211;20.</li>
+				<li> Martin JT, Alkhoury F, O'Connor JA, Kyriakides TC, Bonadies JA. 'Normal' vital signs belie occult hypoperfusion in geriatric trauma patients. Am Surg 2010;76:65&#8211;9.</li>
+				<li> Chisholm KM, Harruff RC. Elderly deaths due to ground-level falls. Am J Forensic Med Pathol 2010;31:350&#8211;4.</li>
+				<li> Spaniolas K, Cheng JD, Gestring ML, Sangosanya A, Stassen NA, Bankey PE. Ground level falls are associated with significant mortality in elderly patients. J Trauma 2010;69:821&#8211;5.</li>
+				<li> Brewer ES, Reznikov B, Liberman RF, et al. Incidence and predictors of intracranial hemorrhage after minor head trauma in patients taking anticoagulant and antiplatelet medication. J Trauma 2011;70:E1&#8211;5.</li>
+				<li> Howard JL 2nd, Cipolle MD, Horvat SA, et al. Preinjury warfarin worsens outcome in elderly patients who fall from standing. J Trauma 2009;66:1518&#8211;22; discussion 1523&#8211;4.</li>
+				<li> Ott MM, Eriksson E, Vanderkolk W, Christianson D, Davis A, Scholten D. Antiplatelet and anticoagulation therapies do not increase mortality in the absence of traumatic brain injury. J Trauma 2010;68:560&#8211;3.</li>
+				<li> Tauber M, Koller H, Moroder P, Hitzl W, Resch H. Secondary intracranial hemorrhage after mild head injury in patients with low-dose acetylsalicylate acid prophylaxis. J Trauma 2009;67:521&#8211;5.</li>
+				<li> Wong DK, Lurie F, Wong LL. The effects of clopidogrel on elderly traumatic brain injured patients. J Trauma 2008;65:1303&#8211;8.</li>
+				<li> Branas CC, MacKenzie EJ, Williams JC, et al. Access to trauma centers in the United States. JAMA 2005;293:2626&#8211;33.</li>
+				<li> Batchinsky AI, Skinner JE, Necsoiu C, Jordan BS, Weiss D, Cancio LC. New measures of heart-rate complexity: effect of chest trauma and hemorrhage. J Trauma 2010;68:1178&#8211;85.</li>
+				<li> Batchinsky AI, Salinas J, Kuusela T, Necsoiu C, Jones J, Cancio LC. Rapid prediction of trauma patient survival by analysis of heart rate complexity: impact of reducing data set size. Shock 2009;32:565&#8211;71.</li>
+				<li> Batchinsky AI, Cancio LC, Salinas J, et al. Prehospital loss of R-to-R interval complexity is associated with mortality in trauma patients. J Trauma 2007;63:512&#8211;8.</li>
+				<li> King DR, Ogilvie MP, Pereira BM, et al. Heart rate variability as a triage tool in patients with trauma during prehospital helicopter transport. J Trauma 2009;67:436&#8211;40.</li>
+				<li> Chen L, Reisner AT, Gribok A, McKenna TM, Reifman J. Can we improve the clinical utility of respiratory rate as a monitored vital sign? Shock 2009;31:574&#8211;80.</li>
+				<li> Vandromme MJ, Griffin RL, Weinberg JA, Rue LW 3rd, Kerby JD. Lactate is a better predictor than systolic blood pressure for determining blood requirement and mortality: could prehospital measures improve trauma triage? J Am Coll Surg 2010;210:861&#8211;7;867&#8211;9.</li>
+				<li> Goldfarb MG, Bazzoli GJ, Coffey RM. Trauma systems and the costs of trauma care. Health Serv Res 1996;31:71&#8211;95.</li>
+				<li> MacKenzie EJ, Weir S, Rivara FP, et al. The value of trauma center care. J Trauma 2010;69:1&#8211;10.</li>
+				</ol>
+
+			<br/><div class="footnote-text">
+				<p class="x-footnote-w-rule-text">* Trauma centers are designated Level I&#8211;IV. A Level I center has the greatest amount of resources and personnel for care of the injured patient and provides regional leadership in education, research, and prevention programs. A Level II facility offers similar resources to a Level I facility, possibly differing only in continuous availability of certain subspecialties or sufficient prevention, education, and research activities for Level I designation; Level II facilities are not required to be resident or fellow education centers. A Level III center is capable of assessment, resuscitation, and emergency surgery, with severely injured patients being transferred to a Level I or II facility. A Level IV trauma center is capable of providing 24-hour physician coverage, resuscitation, and stabilization to injured patients before transfer to a facility that provides a higher level of trauma care. </p>
+				<p class="x-footnote-w-rule-text"><span class="superscript">&#8224;</span> Inaccurate triage that results in a patient who requires higher-level care not being transported to a Level I or Level II trauma center is termed undertriage. The result of undertriage is that a patient does not receive the timely specialized trauma care required. Overtriage occurs when a patient who does not require care in a higher-level trauma center nevertheless is transported to such a center, thereby consuming scarce resources unnecessarily. </p>
+				<p class="x-footnote-w-rule-text"><span class="superscript">&#167;</span> The Air and Surface Transport Nurses Association, the Air Medical Physician Association, the American Academy of Pediatrics, the American College of Emergency Physicians, the American College of Surgeons, the American Medical Association, the American Pediatric Surgical Association, the American Public Health Association, the Commission on Accreditation of Medical Transport Systems, the International Association of Flight Paramedics, the Joint Commission, the National Association of Emergency Medical Technicians, the National Association of EMS Educators, the National Association of EMS Physicians, the National Association of State EMS Officials, the National Native American EMS Association, and the National Ski Patrol. The National Highway Traffic Safety Administration concurred with the Guidelines. </p>
+			</div>
+
+				<br/><br/><p class="committee-member-title"><b>National Expert Panel on Field Triage of Injured Patients</b></p>
+				<p class="committee-member-title-sub"><b>Membership as of December 2011</b></p>
+				<p><small><b>Chair: </b>Gregory J. Jurkovich, MD, Harborview Medical Center, Seattle, Washington.</small></p>
+				<p><small><b>Members: </b>John H. Armstrong, MD, University of South Florida, Tampa, Florida; Bob Bailey, MA, McKing Consulting, Raleigh, North Carolina; Robert R. Bass, MD, Maryland Institute for Emergency Medical Services Systems, Baltimore, Maryland; Eileen Bulger, MD, University of Washington, Seattle, Washington; Alasdair Conn, MD, Massachusetts General Hospital, Boston, Massachusetts; Arthur Cooper, MD, Columbia University Medical Center, affiliation at Harlem Hospital, New York, New York; Theodore Delbridge, MD, East Carolina University, Greenville, North Carolina: John Fildes, MD, University of Nevada, Las Vegas, Nevada; Robert L. Galli, MD, University of Mississippi, Jackson, Mississippi; Catherine Gotschall, ScD, National Highway Traffic Safety Administration, Washington, District of Columbia; Daniel G. Hankins, MD, Mayo Clinic, Rochester, Minnesota; Mark C. Henry, MD, Stony Brook University, Stony Brook, New York; Teresita Hogan, MD, University of Chicago, Northbrook, Illinois; Richard C. Hunt, MD, Division of Injury Response, National Center for Injury Prevention and Control, CDC, Atlanta, Georgia; Jorie Klein, Parkland Health and Hospital System, Dallas, Texas; Douglas F. Kupas, MD, Geisinger Health System, Danville, Pennsylvania; D. Randy Kuykendall, Colorado Department of Public Health and Environment, Denver, Colorado; E. Brooke Lerner, PhD, Medical College of Wisconsin, Milwaukee, Wisconsin; Robert C. MacKersie, MD, University of California San Francisco, California; N. Clay Mann, PhD, University of Utah, Salt Lake City; Gregg Margolis, PhD, US Department of Health and Human Services, Bethesda, Maryland; Craig Newgard, MD, Oregon Health and Science University, Portland; Robert E. O'Connor, MD, University of Virginia, Charlottesville, Virginia; Eric Ossmann, Duke University School of Medicine, Durham, North Carolina; Ritu Sahni, Oregon Emergency Medical Services and Trauma Systems, Lake Oswego, Oregon; Jeffrey P. Salomone, MD, Emory University School of Medicine, Atlanta, Georgia; Nels Sandall, American College of Surgeons, Chicago, Illinois; Scott M. Sasser, MD, Emory University School of Medicine and Division of Injury Response, National Center for Injury Prevention and Control, CDC, Atlanta, Georgia; Sean Siler, MD, National Disaster Medical System, Washington, District of Columbia; John Sinclair, KittitasValley Fire Rescue, Ellensburg, Washington; Chris Van Gorder, Scripps Health, San Diego, California; Gary Wallace, ATX Group/Cross Country Automotive, Irving, Texas; Stewart C. Wang, MD, PhD, FACS, University of Michigan, Ann Arbor, Michigan; Christopher E. Way, Emergency Services, Parsons, Kansas; Robert Winchell, MD, Maine Medical Center, Portland, Maine; Joseph Wright, MD, Children's National Medical Center, Washington, District of Columbia.</small></p>
+				<br/><p class="committee-member-title"><b>Organizations and Federal Agencies Endorsing the Guidelines for Field Triage of Injured Patients</b></p>
+				<p class="committee-member-title-sub"><b>List as of December 2011</b></p>
+				<p><small>Air Medical Physician Association, American Academy of Orthopedic Surgeons, American Academy of Pediatrics, American Association of Critical-Care Nurses, American Association for Respiratory Care, American Association for the Surgery of Trauma, American Burn Association, American College of Emergency Physicians, American College of Osteopathic Surgeons, American College of Surgeons, American Public Health Association, American Trauma Society, Association of Air Medical Services, Association of Critical Care Transport, Association of Public-Safety Communications Officials&#8211;International, Association of State and Territorial Health Officials, Brain Trauma Foundation, Commission on Accreditation of Medical Transport Systems, Eastern Association for the Surgery of Trauma, Emergency Nurses Association, International Academies of Emergency Dispatch, International Association of Emergency Medical Services Chiefs, International Association of Fire Chiefs, International Association of Flight and Critical Care Paramedics, National Association of Emergency Medical Technicians, National Association of EMS Educators, National Association of EMS Physicians, National Association of State EMS Officials, National EMS Information System, National EMS Management Association, National Volunteer Fire Council, Safe States Alliance, Society for Academic Emergency Medicine, Society for the Advancement of Violence and Injury Research, Society of Emergency Medicine Physician Assistants, Trauma Center Association of America, Western Trauma Association, Federal Interagency Committee on Emergency Medical Services (comprising representatives from the U.S. Department of Health and Human Services, the U.S. Department of Transportation, the U.S. Department of Homeland Security, the U.S. Department of Defense, and the U.S. Federal Communications Commission).</small></p>
+				<p><small>The National Highway Traffic Safety Administration concurs with these Guidelines.</small></p>
+
+			<br/>
+			<div class="story">
+				<p class="title"><b><a name="Fig1"></a>FIGURE 1. Field triage decision scheme &#8212; United States, 2006</b></p>
+			</div>
+			<div class="image">
+				<img src="figures/r6101a1f1.gif" alt="The figure shows the revised field triage guidelines developed in 2006 for use by emergency medical services (EMS) providers to determine the most appropriate destination hospital for injured patients. The decision scheme has four steps: 1) assessing physiologic criteria, 2) assessing anatomic criteria, 3) assessing mechanism-of-injury criteria, and 4) assessing special considerations. Steps One and Two attempt to identify the most seriously injured patients. These patients should be transported preferentially to the highest level of care within the defined trauma system. For Step Three, persons meeting these criteria should be transported to a trauma center, which, depending upon the defi¬ned trauma system, need not be the highest level trauma center. Those meeting Step Four criteria should be transported to a trauma center or hospital capable of timely and thorough evaluation and initial management of potentially serious injuries, and consultation with EMS medical control should be considered." width="617" height="713" />
+			</div>
+			<br/><div class="story">
+				<p class="footnote-no-indent"><b>Source:</b> Adapted from American College of Surgeons. Resources for the optimal care of the injured patient. Chicago, IL: American College of Surgeons; 2006. Footnotes have been added to enhance understanding of field triage by persons outside the acute injury care field.</p>
+				<p class="x-8pt-footnote-supports"> * The upper limit of respiratory rate in infants is &gt;29 breaths per minute to maintain a higher level of overtriage for infants</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#8224;</span> Trauma centers are designated Level I&#8211;IV, with Level I representing the highest level of trauma care available.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#167;</span> Any injury noted in Steps Two and Three triggers a "yes" response.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#182;</span> Age &lt;15 years.</p>
+				<p class="x-8pt-footnote-supports"> ** Intrusion refers to interior compartment intrusion, as opposed to deformation which refers to exterior damage.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#8224;&#8224;</span> Includes pedestrians or bicyclists thrown or run over by a motor vehicle or those with estimated impact &gt;20 mph with a motor vehicle.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#167;&#167;</span> Local or regional protocols should be used to determine the most appropriate level of trauma center; appropriate center need not be Level I.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#182;&#182;</span> Age &gt;55 years.</p>
+				<p class="x-8pt-footnote-supports"> *** Patients with both burns and concomitant trauma for whom the burn injury poses the greatest risk for morbidity and mortality should be transferred to a burn center. If the nonburn trauma presents a greater immediate risk, the patient may be stabilized in a trauma center and then transferred to a burn center.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#8224;&#8224;&#8224;</span> Injuries such as an open fracture or fracture with neurovascular compromise.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#167;&#167;&#167;</span> Emergency medical services.</p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#182;&#182;&#182;</span> Patients who do not meet any of the triage criteria in Steps One through Four should be transported to the most appropriate medical facility as outlined in local EMS protocols.</p>
+                <p><b>Alternate Text:</b> The figure shows the revised field triage guidelines developed in 2006 for use by emergency medical services (EMS) providers to determine the most appropriate destination hospital for injured patients. The decision scheme has four steps: 1) assessing physiologic criteria, 2) assessing anatomic criteria, 3) assessing mechanism-of-injury criteria, and 4) assessing special considerations. Steps One and Two attempt to identify the most seriously injured patients. These patients should be transported preferentially to the highest level of care within the defined trauma system. For Step Three, persons meeting these criteria should be transported to a trauma center, which, depending upon the defined trauma system, need not be the highest level trauma center. Those meeting Step Four criteria should be transported to a trauma center or hospital capable of timely and thorough evaluation and initial management of potentially serious injuries, and consultation with EMS medical control should be considered.</p>
+			</div>
+			<br/><div class="story">
+				<p class="title"><b><a name="Fig2"></a>FIGURE 2. Guidelines for field triage of injured patients &#8212; United States, 2011</b></p>
+			</div>
+			<div class="image">
+				<img src="figures/r6101a1f2.gif" alt="The figure shows the revised field triage guidelines (previously termed the &quot;field triage decision scheme&quot;) developed in 2011 for use by emergency medical services (EMS) providers to determine the most appropriate destination hospital for injured patients. The guidelines have four steps: 1) assessing physiologic criteria, 2) assessing anatomic criteria, 3) assessing mechanism-of-injury criteria, and 4) special considerations. Steps One and Two attempt to identify the most seriously injured patients. These patients should be transported preferentially to the highest level of care within the defined trauma system. For Step Three, persons meeting these criteria should be transported to a trauma center, which, depending upon the defined trauma system, need not be the highest level trauma center. Those meeting Step Four criteria should be transported to a trauma center or hospital capable of timely and thorough evaluation and initial management of potentially serious injuries, and consultation with EMS medical control should be considered. The changes between the 2006 and 2011 guidelines are summarized as follows in a separate box: 
+Step One: Physiologic Criteria
+• Change Glasgow coma scale (GCS) &lt;14 to GCS &le;13
+• Add “or need for ventilatory support” to respiratory criteria
+Step Two: Anatomic Criteria
+• Changed “all penetrating injuries to head, neck, torso and extremities proximal to elbow and knee” to “all penetrating injuries to head, neck, torso and extremities proximal to elbow or knee”
+• Change “flail chest” to “chest wall instability or deformity (e.g. flail chest)”
+• Change “crushed, degloved, or mangled extremity” to “crushed, degloved, mangled, or pulseless extremity”
+• Change “amputation proximal to wrist and ankle” to “amputation proximal to wrist or ankle”
+Step Three: Mechanism-of-Injury Criteria
+• Add “including roof” to intrusion criterion
+Step Four: Special Considerations
+• Add the following to older adult criteria 
+— systolic blood pressure  &lt;110 might represent shock after age 65 years 
+— Low-impact mechanisms (e.g., ground-level falls) result in severe injury
+• Add “patients with head injury are at high risk for rapid deterioration” to anticoagulation and bleeding disorders criterion
+• Remove “end-stage renal disease requiring dialysis” and “time-sensitive extremity injury”
+Transition Boxes
+• Change layout of the figure
+• Modify specific language of the transition boxes" width="618" height="713" />
+			</div>
+			<br/><div class="story">
+				<p class="footnote-no-indent"><b>Abbreviation:</b> EMS = emergency medical services. </p>
+				<p class="x-8pt-footnote-supports"> * The upper limit of respiratory rate in infants is &gt;29 breaths per minute to maintain a higher level of overtriage for infants. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#8224;</span> Trauma centers are designated Level I-IV. A Level I center has the greatest amount of resources and personnel for care of the injured patient and provides regional leadership in education, research, and prevention programs. A Level II facility offers similar resources to a Level I facility, possibly differing only in continuous availability of certain subspecialties or sufficient prevention, education, and research activities for Level I designation; Level II facilities are not required to be resident or fellow education centers. A Level III center is capable of assessment, resuscitation, and emergency surgery, with severely injured patients being transferred to a Level I or II facility. A Level IV trauma center is capable of providing 24-hour physician coverage, resuscitation, and stabilization to injured patients before transfer to a facility that provides a higher level of trauma care. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#167;</span> Any injury noted in Step Two or mechanism identified in Step Three triggers a "yes" response. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#182;</span> Age &lt;15 years. </p>
+				<p class="x-8pt-footnote-supports"> ** Intrusion refers to interior compartment intrusion, as opposed to deformation which refers to exterior damage. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#8224;&#8224;</span> Includes pedestrians or bicyclists thrown or run over by a motor vehicle or those with estimated impact &gt;20 mph with a motor vehicle. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#167;&#167;</span> Local or regional protocols should be used to determine the most appropriate level of trauma center within the defined trauma system; need not be the highest-level trauma center. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#182;&#182;</span> Age &gt;55 years. </p>
+				<p class="x-8pt-footnote-supports"> *** Patients with both burns and concomitant trauma for whom the burn injury poses the greatest risk for morbidity and mortality should be transferred to a burn center. If the nonburn trauma presents a greater immediate risk, the patient may be stabilized in a trauma center and then transferred to a burn center. </p>
+				<p class="x-8pt-footnote-supports"><span class="superscript">&#8224;&#8224;&#8224;</span> Patients who do not meet any of the triage criteria in Steps One through Four should be transported to the most appropriate medical facility as outlined in local EMS protocols.</p>
+                <p><b>Alternate Text:</b> The figure shows the revised field triage guidelines (previously termed the "field triage decision scheme") developed in 2011 for use by emergency medical services (EMS) providers to determine the most appropriate destination hospital for injured patients. The guidelines have four steps: 1) assessing physiologic criteria, 2) assessing anatomic criteria, 3) assessing mechanism-of-injury criteria, and 4) special considerations. Steps One and Two attempt to identify the most seriously injured patients. These patients should be transported preferentially to the highest level of care within the defined trauma system. For Step Three, persons meeting these criteria should be transported to a trauma center, which, depending upon the defined trauma system, need not be the highest level trauma center. Those meeting Step Four criteria should be transported to a trauma center or hospital capable of timely and thorough evaluation and initial management of potentially serious injuries, and consultation with EMS medical control should be considered.</p>
+                
+<p>The changes between the 2006 and 2011 guidelines are summarized as follows in a separate box:</p> 
+<p><b>Step One: Physiologic Criteria</b></p>
+<ul><li>Change Glasgow coma scale (GCS) &lt;14 to GCS &le;13</li>
+<li>Add &quot;or need for ventilatory support&quot; to respiratory criteria</li></ul>
+<p><b>Step Two: Anatomic Criteria</b></p>
+<ul><li>Changed &quot;all penetrating injuries to head, neck, torso and extremities proximal to elbow and knee&quot; to &quot;all penetrating injuries to head, neck, torso and extremities proximal to elbow or knee&quot;</li>
+<li>Change &quot;flail chest&quot; to &quot;chest wall instability or deformity (e.g. flail chest)&quot;</li>
+<li>Change &quot;crushed, degloved, or mangled extremity&quot; to &quot;crushed, degloved, mangled, or pulseless extremity&quot;</li>
+<li>Change &quot;amputation proximal to wrist and ankle&quot; to &quot;amputation proximal to wrist or ankle&quot;</li></ul>
+<p><b>Step Three: Mechanism-of-Injury Criteria</b></p>
+<ul><li>Add &quot;including roof&quot; to intrusion criterion</li></ul>
+<p><b>Step Four: Special Considerations</b></p>
+<ul><li>Add the following to older adult criteria
+<ul><li>systolic blood pressure  &lt;110 might represent shock after age 65 years </li>
+<li>Low-impact mechanisms (e.g., ground-level falls) result in severe injury</li></ul></li></ul>
+<ul><li>Add “patients with head injury are at high risk for rapid deterioration” to anticoagulation and bleeding disorders criterion</li>
+<li>Remove “end-stage renal disease requiring dialysis” and “time-sensitive extremity injury”</li></ul>
+<p><b>Transition Boxes</b></p>
+<ul><li>Change layout of the figure</li>
+<li>Modify specific language of the transition boxes</li></ul>
+
+
+			</div>
+			<br/><div class="text-frame-with-text-wrap">
+				<table class="box" id="table-1">
+					<tbody>
+						<tr>
+							<td scope="row">
+								<p class="title"><b><a name="Box1"></a>BOX 1. Selected examples of CDC's efforts to ensure dissemination, implementation, and evaluation of the 2006 guidelines for field triage*</b></p>
+							</td>
+						</tr>
+						<tr>
+							<td scope="row" class="infrequent-box-body-text">
+								<p class="box-subhead"><b>Dissemination</b></p>
+								<ul><li>Disseminated 350,000 field triage educational materials</li>
+								<li>E-mailed, with permission from the National Registry of Emergency Medical Technicians, approximately 150,000 emergency medical services (EMS) providers copies of the field triage continuing education materials </li>
+								<li>Mailed 40,000 training guides for EMS leaders (available at <a href="http://www.cdc.gov/FieldTriage/pdf/EMS_Guide-a.pdf">http://www.cdc.gov/FieldTriage/pdf/EMS_Guide-a.pdf</a>) to local, state, and regional emergency medical services, academia, professional organizations, fire departments, ambulance services and trauma centers nationwide</li></ul>
+								<p class="box-subhead"><b>Implementation</b></p>
+								<ul><li>Developed a webpage for field triage (available at <a href="http://www.cdc.gov/fieldtriage">http://www.cdc.gov/fieldtriage</a>) that has had 73,636 page views, 8,060 downloads of the 2009 guidelines, and 2,641 downloads of the training materials</li>
+								<li>Provided continuing education to 7,564 EMS providers, physicians, and nurses </li></ul>
+								<p class="box-subhead"><b>Evaluation</b></p>
+								<ul><li>Surveyed 2,505 EMS, emergency medicine, and trauma care providers regarding the guidelines</li></ul>
+								<p><b>_________________________</b></p>
+								<p class="x-footnote-w-rule-text">*CDC. Guidelines for field triage of injured patients: recommendations of the National Expert Panel on Field Triage. MMWR 2009;58(No. RR-1).</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<br/><div class="text-frame-with-text-wrap">
+				<table class="box" id="table-2">
+					<tbody>
+						<tr>
+							<td scope="row">
+								<p class="title"><b><a name="Box2"></a>BOX 2. Changes in 2011 Guidelines for Field Triage of Injured Patients compared with 2006 guidelines</b></p>
+							</td>
+						</tr>
+						<tr>
+							<td scope="row" class="infrequent-box-body-text">
+								<p class="bullet-in-a-box"><b>Step One: Physiologic Criteria</b></p>
+								<ul><li>Change GCS &lt;14 to GCS ≤13</li>
+								<li>Add "or need for ventilatory support" to respiratory criteria</li></ul>
+								<p class="bullet-in-a-box"><b>Step Two: Anatomic Criteria</b></p>
+								<ul><li>Change "all penetrating injuries to head, neck, torso and extremities proximal to elbow and knee" to "all penetrating injuries to head, neck, torso and extremities proximal to elbow or knee"</li>
+								<li>Change "flail chest" to "chest wall instability or deformity (e.g., flail chest)"</li>
+								<li>Change "crushed, degloved, or mangled extremity" to "crushed, degloved, mangled, or pulseless extremity"</li>
+								<li>Change "amputation proximal to wrist and ankle" to "amputation proximal to wrist or ankle"</li></ul>
+								<p class="bullet-in-a-box"><b>Step Three: Mechanism-of-Injury Criteria</b></p>
+								<ul><li>Add "including roof" to intrusion criterion</li></ul>
+								<p class="bullet-in-a-box"><b>Step Four: Special Considerations</b></p>
+								<ul><li>Add the following to older adult criteria
+										<ul>
+											<li>SBP &lt;110 might represent shock after age 65 years</li>
+											<li>Low-impact mechanisms (e.g., ground-level falls) might result in severe injury</li></ul></li></ul>
+								<ul><li>Add "patients with head injury are at high risk for rapid deterioration" to anticoagulation and bleeding disorders criterion</li>
+								<li>Remove "end-stage renal disease requiring dialysis" and "time-sensitive extremity injury"</li></ul>
+								<p class="bullet-in-a-box"><b>Transition Boxes</b></p>
+								<ul><li>Change layout of the figure</li>
+								<li>Modify specific language of the transition boxes</li></ul>
+								<p><b>_________________________</b></p>
+								<p class="x-footnote-w-rule-text"><b>Abbreviation:</b> GCS = Gasgow Coma Scale; SBP = systolic blood pressure.</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<br/><div class="text-frame-with-text-wrap">
+				<table class="data-table" id="table-3">
+					<tbody>
+						<tr>
+							<th class="header-row" scope="col">
+								<p class="title"><b><a name="Box3"></a>BOX 3. Field triage key variables*</b></p>
+							</th>
+						</tr>
+						<tr>
+							<td scope="row" class="infrequent-box-body-text">
+								<div class="box-2-col-text-frame-inside-table">
+									<p class="box-subhead"><b>Step One: Physiologic Criteria</b></p>
+									<ul><li>Glasgow Coma Score ≤13</li>
+									<li>Systolic Blood Pressure &lt;90 mmHg</li>
+									<li>Respiratory Rate &lt;10 or &gt;29 breaths per minute (&lt;20 in infants aged &lt;1 year) or need for ventilatory support</li></ul>
+									<p class="box-subhead"><b>Step Two: Anatomic Criteria</b></p>
+									<ul><li>All penetrating injuries to head, neck, torso, and extremities proximal to elbow or knee</li>
+									<li>Chest wall instability or deformity (e.g., flail chest)</li>
+									<li>Amputation proximal to wrist or ankle</li>
+									<li>Two or more proximal long-bone fractures (i.e., femur and humerus)</li>
+									<li>Crushed, degloved, mangled, or pulseless extremity </li>
+									<li>Pelvic fractures</li>
+									<li>Open or depressed skull fracture</li>
+									<li>Paralysis</li></ul>
+									<p class="box-subhead"><b>Step Three: Mechanism of Injury Criteria</b></p>
+									<ul><li>Adult: falls &gt;20 feet </li>
+									<li>Children: falls &gt;10 feet</li>
+									<li>Intrusion, including roof: &gt;12 inches occupant site; &gt;18 inches any site</li>
+									<li>Ejection (partial or complete) from automobile</li>
+									<li>Death in same passenger compartment</li>
+									<li>Vehicle telemetry data consistent with a high risk of injury</li>
+									<li>Auto vs. pedestrian/bicyclist thrown, run over, or with significant (&gt;20mph) impact</li>
+									<li>Motorcycle crash &gt;20 mph</li></ul>
+									<p class="box-subhead"><b>Step Four: Special Considerations</b></p>
+									<ul><li>Age &gt;55 years</li>
+									<li>Systolic blood pressure &lt;110 in persons aged &gt;65 years</li>
+									<li>Falls in older adults (e.g., ground-level falls)</li>
+									<li>Pediatric trauma transport </li>
+									<li>Anticoagulant use and bleeding disorders </li>
+									<li>Burns</li>
+									<li>Pregnancy &gt;20 weeks</li>
+									<li>Emergency medical services provider judgment</li></ul>
+									<p class="box-subhead"><b>Outcome Variables</b></p>
+									<p class="bullet-in-a-box">Clinical outcomes</p>
+									<ul><li>Injury severity score &gt;15<span class="superscript">&#8224;</span></li>
+									<li>Abbreviated Injury Score ≥3</li>
+									<li>Death prior to hospital discharge</li></ul>
+									<p class="bullet-in-a-box">Trauma center need</p>
+									<ul><li>Blood product transfusion </li>
+									<li>Interventional radiology procedure</li>
+									<li>Major nonorthopedic surgery within 24 hours</li>
+									<li>Admission to intensive care unit</li></ul>
+
+								<p><b>_________________________</b></p>
+								<p class="box-footnote-2-page-wide">* Variables and cut-off values should be used at a minimum in evaluation of field triage guidelines. The criteria preceding the criterion of study should be included in the analysis to control for those patients captured by the previous step(s).</p>
+								<p class="box-footnote-2-page-wide"><span class="superscript">&#8224;</span> Minimum outcome variable for inclusion.</p>
+
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+	
+
+ </div> <!--mSyndicate div end here-->
+</div> <!--Syndicate div end here-->
+
+<br /><br/>
+<div style="clear:left; margin:10px; width:98%; border:1px solid black;"><p><small>Use of trade names and commercial sources is for identification only and does not imply endorsement by the U.S. Department of Health and Human Services. <br /><br />References to non-CDC sites on the Internet are provided as a service to <i>MMWR</i> readers and do not constitute or imply endorsement of these organizations or their programs by CDC or the U.S. Department of Health and Human Services. CDC is not responsible for the content of pages found at these sites. URL addresses listed in <i>MMWR</i> were current as of the date of publication.</small></p></div>
+<p><small>All <i>MMWR</i> HTML versions of articles are electronic conversions from typeset documents. This conversion might result in character translation or format errors in the HTML version. Users are referred to the electronic PDF version (<a href="http://www.cdc.gov/mmwr">http://www.cdc.gov/mmwr</a>) and/or the original <i>MMWR</i> paper copy for printable versions of official text, figures, and tables. An original paper copy of this issue can be obtained from the Superintendent of Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.</small><br /> 
+<br />**Questions or messages regarding errors in formatting should be addressed to <a href="javascript:sendIt();">mmwrq@cdc.gov</a>.</p>
+
+<!-- InstanceEndEditable -->
+                <!-- /end .main-inner --></div>
+                <div id="linkPolicy">&nbsp;</div>
+            <!-- /end #content-main--></div>
+        <!-- /end #content-inner --></div>
+<!-- ########## LEFT NAVIGATION STARTS HERE ########## --><!-- This will not display (render off-screen) in the web browser with CSS enabled except for .applicationNav-->
+           <div id="nav-container"><!-- InstanceBeginEditable name="left-nav-include" -->
+              <div id="nav">
+  <h3><a href="/mmwr/"><i>MMWR</i> Home</a></h3>
+  <ul id="nav-primary">
+  
+  	 <!-- Dispatch -->
+     <!-- li><a href="/mmwr/mmwr_dispatch.html"><i>MMWR</i> Dispatch</a></li -->
+ 
+     <!-- Early Release -->
+     <!--li><a href="/mmwr/early_release.html"><i>MMWR</i> Early Release</a></li -->
+     <li><a href="/mmwr/publications/index.html" title="Click for more menu options">Publications</a>
+         <ul style="Display:block">
+           <li><a href="/mmwr/index2015.html" title="Click for more menu options">Weekly Report</a>
+            <ul>
+        	  <li><a href="/mmwr/mmwr_wk/wk_pvol.html">Past Volumes (1982-2014)</a></li>
+            </ul>
+           </li>
+           <li><a href="/mmwr/indrr_2015.html" title="Click for more menu options">Recommendations and Reports</a>
+            <ul>
+         	  <li><a href="/mmwr/mmwr_rr/rr_pvol.html">Past Volumes (1990-2014)</a></li>
+            </ul>
+           </li>
+           <li><a href="/mmwr/indss_2015.html" title="Click for more menu options">Surveillance Summaries</a>
+            <ul>
+         	  <li><a href="/mmwr/mmwr_ss/ss_pvol.html">Past Volumes (1983-2014)</a></li>
+            </ul>
+           </li>
+           <li><a href="/mmwr/mmwr_su/index.html">Supplements</a></li>
+           <li><a href="/mmwr/mmwr_nd/index.html">Notifiable Diseases</a></li>
+         </ul>  
+     </li>
+     <!-- li><a href="/mmwr/mmwrsrch.htm"><i>MMWR</i> Advanced Search</a></li -->
+     <li><a href="/mmwr/about.html">About <i>MMWR</i></a></li>
+     <li><a href="/mmwr/Contributors/index.html" title="Click for more menu options">Instructions for Authors</a>
+            <ul>
+         	  <!-- li><a href="/mmwr/Policy.html">Contributor Attribution Policy</a></li -->
+        	  <li><a href="/mmwr/author_guide_rrss.html">Serial Publications</a></li>
+              <li><a href="/mmwr/author_guide.html">Weekly</a></li>
+              <li><a href="/mmwr/author_guide_ce.html">Continuing Education</a></li>
+            </ul>
+     </li>
+     <li><a href="/mmwr/cme/conted_info.html" title="Click for more menu options">Continuing Education</a>
+         <ul style="Display:block">
+           <li><a href="/mmwr/cme/weekly_conted.html">Weekly Publications</a></li>
+           <li><a href="/mmwr/cme/serial_conted.html">Serial Publications</a></li>
+		</ul>
+	 </li>
+	 <li><a href="/mmwr/StateHealth/index.html">State Health Statistics</a></li>
+     <li><a href="/mmwr/editorial_board.html"><em>MMWR</em> Editorial Board</a></li>
+     <li><a href="/mmwr/staff/staff.html"><i>MMWR</i> Staff</a></li>
+  </ul>
+</div>
+
+               <!-- InstanceEndEditable -->
+           </div>
+       <!-- /end #content --></div>
+
+        <div class="preFoot">
+<div id="plugin-legend">
+			<h3>File Formats Help:</h3>
+			<ul>
+				<li class="plugin-pdf"><a href="https://www.cdc.gov/Other/plugins/#pdf"><img src="/TemplatePackage/images/icon_pdf.gif" alt="Adobe PDF file" /></a></li>
+				<li class="plugin-word"><a href="https://www.cdc.gov/Other/plugins/#doc"><img src="/TemplatePackage/images/icon_word.gif" alt="Microsoft Word file" /></a></li>
+				<li class="plugin-excel"><a href="https://www.cdc.gov/Other/plugins/#xls"><img src="/TemplatePackage/images/icon_excel.gif" alt="Microsoft Excel file" /></a></li>
+				<li class="plugin-ppt"><a href="https://www.cdc.gov/Other/plugins/#ppt"><img src="/TemplatePackage/images/icon_ppt.gif" alt="Microsoft PowerPoint file" /></a></li>
+				<li class="plugin-wmv"><a href="https://www.cdc.gov/Other/plugins/#wmv"><img src="/TemplatePackage/images/icon_wmv.gif" alt="Audio/Video file" /></a></li>
+				<li class="plugin-zip"><a href="https://www.cdc.gov/Other/plugins/#zip"><img src="/TemplatePackage/images/icon_zip.gif" alt="Zip Archive file" /></a></li>
+				<li class="plugin-real"><a href="https://www.cdc.gov/Other/plugins/#ram"><img src="/TemplatePackage/images/icon_real.gif" alt="RealPlayer file" /></a></li>
+				<li class="plugin-qt"><a href="https://www.cdc.gov/Other/plugins/#qt"><img src="/TemplatePackage/images/icon_qt.gif" alt="Apple Quicktime file" /></a></li>
+			</ul>
+			<p><a href="https://www.cdc.gov/Other/plugins/"><span class="tp-label">How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?</span>&nbsp;<img src="/TemplatePackage/images/btn_dblArrows.gif" alt="double arrows." /></a></p>
+		</div>
+           <div class="pageOptions-horizontal">
+               <div class="pageOptions-inner2">
+                   <ul class="services">
+                       <li class="print"><a href="javascript:window.print();">Print</a></li>
+<!-- InstanceBeginEditable name="local-options-horizontal" -->
+                       <li class="subscribe"><a href="http://www.cdc.gov/emailupdates/">Updates</a></li>
+                       <li class="rss"><a href="/mmwr/rss/mmwr.xml" title="Subscribe to MMWR RSS feeds">Subscribe</a></li>
+                       <li class="podcast"><a href="/mmwr/mmwrpodcasts.html" title="Listen to MMWR podcasts">Listen</a></li>
+                    <li><a href="/mmwr/pdf/rr/rr6101.pdf">Download</a></li>
+                    <!-- InstanceEndEditable -->
+                    </ul>
+                </div>
+            </div>
+            <!-- InstanceBeginEditable name="include-contactInfo2" -->
+            <div class="contactArea"><!--a href="#">For Questions About [insert type/label] Contact Us</a>--></div>
+        <!-- InstanceEndEditable -->
+			<div id="datestamp"><!-- InstanceBeginEditable name="date-stamp" -->
+            <ul>
+                <li class="last-reviewed">Page last reviewed: <span>January 13, 2012</span></li>
+                <li class="last-updated">Page last updated: <span>January 13, 2012</span></li>
+                <li class="content-source">Content source: <a href="http://www.cdc.gov/">Centers for Disease Control and Prevention</a></li>
+            </ul>
+        <!-- InstanceEndEditable -->
+			</div>
+		</div>
+		
+		<div id="siteinfo">
+	<div id="siteinfo-nav">
+		<ul class="menu">
+			<li><a href="https://www.cdc.gov/">Home</a></li>
+			<li><a href="https://www.cdc.gov/az/a.html">A-Z Index</a></li>
+			<li><a href="https://www.cdc.gov/Other/policies.html">Policies</a></li>
+			<li><a href="https://www.cdc.gov/Other/about_cdcgov.html">Using this Site</a></li>
+			<li><a href="https://www.cdc.gov/Other/link.html">Link to Us</a></li>
+			<li class="last-child"><a href="https://www.cdc.gov/cdc-info/index.html">Contact CDC</a></li>
+		</ul>
+	</div>
+	<div id="siteinfo-credits">
+		<div id="siteinfo-logos"><a href="https://www.usa.gov//"><img id="logo_usagov" src="/TemplatePackage/images/logo_usagov.gif" alt="USA.gov: The U.S. Government's Official Web Portal" width="188" height="55" border="0" /></a><a href="https://www.hhs.gov/"><img id="logo_dhhs" src="/TemplatePackage/images/logo_dhhs.gif" alt="Department of Health and Human Services" width="61" height="55" border="0" /></a></div>
+		<address>Centers for Disease Control and Prevention &nbsp; 1600 Clifton Road Atlanta, GA 30329-4027, USA<br />
+		800-CDC-INFO (800-232-4636)	TTY: (888) 232-6348 - <a href="https://www.cdc.gov/cdc-info/forms/contact-us.html">Contact CDC&ndash;INFO</a></address>
+	</div>
+</div>
+
+<!--include virtual="/TemplatePackage/3.0/includes/interstitialModal.html" -->
+		
+		<!-- InstanceBeginEditable name="EditLocalSearch" -->
+        <!-- This to make 508 compliance temporay -->
+        <!--include virtual="/mmwr/local/B/includes/inc-localSearch_b.html"-->
+        <!-- InstanceEndEditable -->
+		
+		<div id="AZlist-container"><a name="az"></a>
+	<span>A-Z Index</span>
+	<ol class="AZlist">
+		<li><a href="https://www.cdc.gov/health-topics.html">A</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">B</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">C</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">D</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">E</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">F</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">G</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">H</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">I</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">J</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">K</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">L</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">M</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">N</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">O</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">P</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">Q</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">R</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">S</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">T</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">U</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">V</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">W</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">X</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">Y</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">Z</a></li>
+		<li><a href="https://www.cdc.gov/health-topics.html">#</a></li>
+	</ol>
+</div>
+
+	<!-- /end #wrapper-inner --></div>
+	
+<!-- /end #wrapper --></div>
+
+<!-- xxxxxxxxxxxxxxxxxx METRICS code begins here xxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+<div id="metrics">
+<script src="https://www.cdc.gov/JScript/dmat/cdc-dmat.min.js?account=cdcgov&_=55003"></script>
+<script>
+
+
+<!-- InstanceBeginEditable name="metrics" -->
+s.pageName=document.title;
+s.channel="MMWR";
+
+<!-- InstanceEndEditable -->
+</script>
+</div>
+<!-- xxxxxxxxxxxxxxxxxx METRICS code ends here xxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+
+
+</body>
+<!-- InstanceEnd --></html>

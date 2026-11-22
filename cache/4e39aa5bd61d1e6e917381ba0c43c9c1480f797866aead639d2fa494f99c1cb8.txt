@@ -1,0 +1,519 @@
+[PDF PAGE 1]
+Hospital Readiness and Response: An Online Guidebook Evacuation-1 
+ 
+P T #y
+Return to the 
+HRROG Homepage 
+SHELTERING, RELOCATION, 
+AND EVACUATION 
+Introduction 
+Increases in natural and human-caused disasters 
+heighten the likelihood that a hospital will have to 
+partially or totally evacuate. A key part of hospital 
+emergency management is having a robust plan in place 
+to mitigate and be prepared for threats to the facility to 
+prevent evacuation. However, threats will arise that 
+require rapid decision-making and action. Staff should 
+understand and have exercised evacuation/relocation 
+plans and resources, and hospital leadership should 
+have a clear understanding of community plans and 
+resources that can support an evacuation. 
+Strategies and Timing 
+In general, there are three strategies that may be employed in response to a threat to or within 
+the facility: 
+• Shelter in place – actions taken to reduce risk while remaining in the current location. 
+This may include implementing access controls, shutting down ventilation systems, and 
+taking other measures designed to “defend in place.” Sheltering is recommended when 
+the risk of patient and staff movement is higher than the risk of staying in place. Threats 
+may include smoke and chemical plumes affecting the hospital, an active threat of 
+violence in the facility, or a sudden storm that does not permit patient movement. 
+• Relocation – moving patients and staff to a safer part of the facility. This may occur 
+when a localized power outage, water leak, or other issue renders a portion of the 
+facility less safe or unsafe but there are areas of the campus that are safe (or at least 
+safer). Horizontal relocation (on the same floor) is preferable to vertical (different 
+floors) when possible. 
+• Evacuation – movement of patients from the 
+hospital to other hospitals. Generally, this is a last 
+resort. Evacuation may be partial (e.g., intensive 
+care patients moved due to a water leak) or 
+complete (e.g., the entire facility is threatened by 
+a wildfire or flood). 
+Chapter Quick Links 
+Strategies and Timing 
+Factors Affecting Decision-Making 
+Planning 
+Logistics of Patient Evacuation 
+Special Considerations 
+Communications Issues 
+Considerations by Evacuation Type 
+Conclusion 
+Acknowledgements 
+Related Resources 
+Additional resources are available 
+in ASPR TRACIE’s Healthcare Facility 
+Evacuation/Sheltering and P atient 
+Movement, MOCCs, and Tracking 
+Topic Collections. 
+
+[PDF PAGE 2]
+Hospital Readiness and Response: An Online Guidebook Evacuation-2 
+
+Sheltering and relocation decisions are relatively common. Unit staff should have the authority 
+to take sheltering actions and, when needed, relocate patients and themselves to avoid 
+immediate harm. Evacuation decisions are less common and involve a significantly higher 
+degree of logistical complexity and some risk to the patients being transferred. Authority to 
+make decisions about structured relocation or evacuation should be delegated to the incident 
+commander. Though sheltering and relocation are preferred, complete evacuation is the most 
+complicated contingency and is the focus of this chapter. 
+ 
+There are three types of hospital evacuation: 
+• Scheduled – the evacuation occurs in anticipation of unacceptable risk to the campus 
+(e.g., hurricane or flood crest) with adequate time (typically 24 hours or more but 
+depends on the facility size and patient types/acuity) to complete an orderly evacuation. 
+Scheduled patient movement presents much less risk. Orderly sequencing of patient 
+transfers to appropriate destinations, along with their records and belongings, is 
+possible. 
+• Urgent – the evacuation needs to begin within hours (e.g., less than 12 hours) and be 
+rapidly completed due to an evolving threat (e.g., flooding, wildfire). Resources for 
+patient transfer and matching patients to available receiving facilities may not be 
+optimal. Abbreviated records transfer may occur. 
+• Emergent – the evacuation must occur immediately due to imminent threat (e.g., fire 
+and smoke). Emergency medical services (EMS) resources may be inadequate for patient 
+transport and patient/receiving facility matching may be minimal. Records and 
+belongings transfers may be inadequate. Risk to patients for injury and decompensation 
+is high, particularly among the more critically ill. 
+Factors Affecting Decision-Making 
+When hospital infrastructure and patient and staff safety are threatened, a range of actions 
+may be necessary to reduce risk. These actions are informed by: 
+• Type and duration of threat: What is the threat, potential direct and secondary impacts, 
+and anticipated duration? 
+• Degree of risk to patients and staff: The risk of remaining at the facility should be 
+balanced against threats in the community and the relative risk of deterioration of 
+patients during transport in terms of distance, available transport resources, and patient 
+condition. 
+• Timing of threat (notice/no-notice): What is the time window for patient movement? 
+• Jurisdictional evacuation orders and authorities: In some cases, evacuation orders are 
+mandatory and apply to hospitals. In other cases, hospitals are exempt from evacuation 
+orders or orders may be voluntary. In these cases, the hospital will decide whether to 
+evacuate in conjunction with the local authorities. 
+
+[PDF PAGE 3]
+Hospital Readiness and Response: An Online Guidebook Evacuation-3 
+ 
+Based on the situation, the Incident Commander and team (refer to Incident Command chapter 
+of the Guidebook for additional information) will also decide whether a “stay” team will remain 
+onsite to secure, monitor, and maintain the facility (facilitating more rapid reopening) or if 
+certain services (such as emergency department [ED] stabilization) will continue despite an 
+evacuation of inpatients. An approach to decision-making is outlined in Figure 1, courtesy of the 
+Minnesota Department of Health. 
+ 
+Figure 1, Decision tree for evacuation actions and timing 
+
+[PDF PAGE 4]
+Hospital Readiness and Response: An Online Guidebook Evacuation-4 
+ 
+Planning 
+Preventing an emergency hospital evacuation is far 
+preferable to conducting one. Prevention may involve 
+activities such as: 
+• Protecting the campus from threats (e.g., wildfires, 
+flooding, wind damage). 
+• Establishing robust contingencies for utility 
+failures, including electricity, communications, 
+potable water, and sewer services. 
+• Moving patients in a structured manner in 
+advance of an incident (e.g., prior to a hurricane’s 
+landfall). 
+• Ensuring air-handling systems can be shut down to 
+prevent smoke or hazardous substances from entering. 
+ 
+Planning for evacuation is a multi-disciplinary process. The emergency manager should work 
+with inpatient medical/surgical, cardiac care, critical care, pediatric, nursery, ED, psychiatry, 
+pharmacy, laboratory, outpatient, and administrative areas to understand the specific issues 
+and needs for each area of the facility. This information needs to be incorporated into training 
+and job aids for specific patient populations/care units as a supplement to the overall hospital 
+evacuation plan. 
+ 
+The plan should specify who has the authority to initiate an evacuation, detail the usual 
+transport needs to evacuate the facility based on average census, outline the processes used to 
+evacuate units, and identify the horizontal and vertical destinations by unit. The plan should 
+also specify the locations of evacuation equipment (being careful to distribute this equipment 
+throughout the hospital in case a portion of the facility is 
+damaged/inaccessible) and supplies (e.g., tags, pharmacy 
+carts, supportive supplies, water). Expectations for 
+handling medical records, belongings, and patient tracking 
+should be outlined based on the type of evacuation. For 
+example, in a scheduled evacuation, the patient’s 
+destination should be known and a full medical record 
+made available to the receiving care team. During an 
+emergent evacuation, only a “face sheet” with patient 
+information may be available and the destination may be 
+coordinated by EMS. 
+ 
+Planning with EMS and community/healthcare coalition 
+partners is critical, as assumptions about transport 
+availability or destination determination can be 
+problematic. The hospital should understand that other 
+than rare instances when it is the only facility affected, 
+From the Field 
+Following a tornado that 
+destroyed the hospital, 
+reconstruction focused on 
+features such as hardening of the 
+external structure, use of 
+specialized glass, redundant 
+generators located in different 
+areas (including substantially 
+away from the hospital building), 
+and other design elements to help 
+the hospital withstand future 
+threats. 
+From the Field 
+In areas with potential wildfire 
+risk, some hospitals created 
+buffer zones free from flammable 
+materials and plantings, updated 
+HVAC equipment to allow better 
+filtration and isolation from 
+outside air, installed protective 
+sprinkler systems, and/or 
+contracted for private fire 
+protection onsite during high-
+threat situations. Additionally, 
+they incorporated water and 
+electrical backup onsite in case of 
+community utility failures. 
+
+[PDF PAGE 5]
+Hospital Readiness and Response: An Online Guidebook Evacuation-5 
+ 
+EMS will have competing priorities for their services and may not have a large number of assets 
+available to assist. If buses, stretcher/wheelchair vans, and other alternative transportation 
+assets are used, this is usually coordinated by the hospital. Regional or state EMS may have 
+strike teams that can be deployed to assist. Additionally, the region or state may have patient 
+tracking and other systems and resources that can help support hospital evacuation and should 
+be understood prior to an incident. 
+ 
+Ideally, a regional coalition structure is in place that can help determine destinations to multiple 
+hospitals in the area. If the hospital is part of a health system, there may be a plan to distribute 
+patients to system hospitals and coordination may occur through a system patient transfer 
+center. However, during emergent evacuations in particular, these options may be limited. 
+ 
+The hospital needs to identify virtual and physical 
+locations where command functions may continue to 
+manage response and recovery issues after the facility is 
+evacuated. For example, hospital Incident Command may 
+need to address ongoing facility issues; verify patient 
+arrivals at receiving hospitals; manage information for 
+patients, families, and staff; liaise with community 
+agencies; handle queries about lost articles, medical care, 
+and family contact information; and plan for reopening. 
+ 
+Due to the large size of certain facilities or specialty units relative to others in the area, planners 
+may recognize that finding destinations for all patients may not be possible. This may have 
+significant implications for an evacuation decision, particularly when roadways in the area may 
+be damaged and EMS assets may be in short supply due to 911 demands. These realities 
+reinforce the need for the hospital to have robust plans to function as an “island” and commit 
+significantly more assets to operational continuity and facility hardening. 
+ 
+Finally, if the hospital is in a rural area and relatively isolated from other facilities, staff should 
+plan with local officials and EMS to temporarily evacuate to an alternate location (e.g., nearby 
+high school) if the campus is imminently in danger or unsafe to occupy. Supplies may need to 
+be moved to this location to support temporary care until the patients can be moved back to 
+the hospital or transferred to destinations outside the area. This intermediate location should 
+have space and power requirements to sustain patient care and/or life support functions. In 
+some cases, a true Alternate Care Site may need to be set up to provide ongoing patient care 
+until an appropriate receiving facility can be found or the original facility can be re-occupied. 
+Logistics of Patient Evacuation 
+Staging areas should be accessible to both street entrances and elevators. The ED may serve as 
+a staging area for critical care patients if required and the pace of the evacuation allows. EMS 
+should be aware of the need to transport from one or more staging areas depending on the size 
+of the campus and the situation. Supplies such as a crash cart and medications for symptom 
+Related Resources 
+ASPR TRACIE’s Hospital Wildfire 
+Evacuation Considerations tip sheet 
+offers a checklist to inform hospital 
+evacuation planning activities 
+based on lessons learned from 
+recent wildfire incidents. 
+
+[PDF PAGE 6]
+Hospital Readiness and Response: An Online Guidebook Evacuation-6 
+ 
+treatment (e.g., nausea, pain) should be available to the staging area. Basic patient care 
+supplies and medical equipment, snacks, and water should be available to send with 
+appropriate patients in transit. A Staging Officer should be appointed to manage these areas. A 
+Transport Officer should be appointed to track each departing patient, the 
+transporter/ambulance, and the destination. In some 
+cases, patients from the ED or inpatient units may be 
+able to be discharged or family members may take a 
+patient out of the facility independent of the hospital 
+process. These patients should also be tracked to the 
+degree possible as it is easy to “lose” them, creating 
+accountability issues later. 
+ 
+Many hospitals use a reverse triage process where all 
+ambulatory patients are moved first, ideally in a group, 
+followed by stable non-ambulatory patients and then 
+critical care patients. This helps focus staff efforts on the 
+non-ambulatory patients. Once arrived at the staging 
+area, a normal triage priority of least to most stable is 
+used for order of transport. Thus, the last arriving 
+patients to staging are prioritized for first transport to 
+minimize the time less stable patients stay in staging. 
+Depending on transport resources and urgency, a stable 
+patient(s) may travel in an ambulance with one critical 
+care patient to speed evacuation and reduce transport 
+needs. 
+ 
+Movement of non-ambulatory patients to staging areas 
+may be performed on beds, wheelchairs, gurneys, stair chairs, purpose-built evacuation sleds, 
+fabric litters, or backboards. Babies may be moved in pocketed vests or special stretchers. Each 
+type of device offers advantages and disadvantages. In particular, fabric stretchers are small 
+and can be stored in each room or even under each patient, but they are more difficult to carry 
+down stairs compared to a rigid device. In some cases, EMS may be able to assist with 
+backboards and gurneys. 
+ 
+An evacuation tagging system may be used to track patients and their belongings. The 
+evacuation plan should specify what medical records accompany the patients. In some cases, 
+remote access will allow the receiving hospital full record access. However, a basic face sheet 
+with demographic information, problem list, medications, and allergies should be sent with the 
+patient in case of issues that develop during transport or on arrival to the receiving facility. The 
+unit should have a process to sweep and clear all their rooms to ensure that nobody is left 
+behind. Ideally, the unit should be secured following evacuation. 
+ 
+Once the campus has undergone required inspections to ensure it is safe to resume operations, 
+the need for Incident Command is often ongoing to support resumption of services and 
+From the Field 
+During an emergency evacuation 
+due to an internal hospital fire 
+with loss of power and oxygen 
+systems, EMS and fire personnel 
+brought backboards to the floors 
+via stairwells to assist with 
+evacuation of non-ambulatory 
+patients and moved patients to 
+gurneys on the first floor. EMS 
+worked with area hospitals to 
+determine evacuated patient 
+destinations during this 
+emergency. Fortunately, unit 
+census had been printed that 
+morning according to hospital 
+policy, which was critical to 
+patient tracking. Following the 
+incident, planning was updated to 
+designate up and down stairwells 
+to further streamline evacuation 
+procedures. 
+
+[PDF PAGE 7]
+Hospital Readiness and Response: An Online Guidebook Evacuation-7 
+ 
+facilitate the return of patients who had been evacuated from the hospital. A staged 
+resumption of services and opening of units may also be required based on incident impacts, 
+staffing, and other variables and affect patient return decisions as well as communication to the 
+community, EMS, and other partners. Return of patients can be complicated by 
+reimbursement, family preference, transportation, and other issues and often will need a 
+multidisciplinary team to work with the receiving hospital(s) on identifying candidates for 
+return. Further, the hospital will need to track expenses 
+and identify insurance, disaster relief, and other 
+sources of reimbursement. The successful movement 
+of patients out of the facility is an accomplishment, but 
+only the beginning of a longer process. 
+Special Considerations 
+Obstetrics/Neonatal Intensive Care Unit 
+(NICU)/Nursery 
+Planning to evacuate a NICU or nursery involves 
+substantial work and specialized training. Depending 
+on the services and the capacity of the nursery, it may 
+be inadvisable to evacuate a high-level NICU (e.g., Level 
+3+) based both on risk and the ability of other area 
+hospitals to accommodate the infants. The hospital 
+emergency manager should work with nurses and 
+physicians to determine the best way to move infants, including those with high dependency 
+needs (e.g., ventilators). The role of the parents in moving the children and plans for mothers in 
+active labor should also be addressed in specific, unit-based plans with appropriate equipment 
+and job aids. 
+ 
+Psychiatry 
+Inpatient psychiatric units may also be difficult to safely evacuate. Consideration should be 
+given to regional inpatient resources when determining the threshold for evacuation. The stress 
+of any threat to the facility can be destabilizing for patients. Charge nurses should be aware of 
+which patients are there voluntarily and who is legally committed for treatment, which patients 
+may be safely transported with others, and which must be transported alone. Transport crews 
+should understand the potential risks for each patient and be prepared to address medication 
+and restraint needs appropriately. 
+ 
+Operating Room (OR) 
+The emergency manager should plan with surgical areas for emergency situations that might 
+require aborting a procedure in process and moving patients to a staging area, other OR, or 
+ambulance. This requires close coordination with anesthesia staff and surgeons and a 
+determination of who will make the call to stop the procedure versus complete it or temporize. 
+From the Field 
+During a period of civil unrest, 
+patients on an inpatient 
+psychiatric unit were traumatized 
+by seeing fires burning in the 
+community and National Guard 
+vehicles on the street from the 
+unit windows. Some patients 
+were relocated to other areas 
+that did not have a view of the 
+affected area (with security and 
+other appropriate adaptations to 
+the new care area) and others 
+were evacuated to different 
+facilities to continue their care 
+until the situation stabilized. 
+
+[PDF PAGE 8]
+Hospital Readiness and Response: An Online Guidebook Evacuation-8 
+ 
+Some hospitals have used drills to identify the process and procedures needed and develop 
+education and training for OR staff. In the absence of such planning and exercising, confusion 
+and safety issues are likely. 
+ 
+ICU 
+Intensive care patients are very difficult to move if elevators are not functional. Some patients, 
+such as those on extracorporeal membrane oxygenation (ECMO) or with left ventricular assist 
+devices (LVADs) may have specialized equipment or battery needs. In some cases, the risk to 
+move a very unstable critical care patient is too high and they will shelter in place with 
+appropriate staff. This depends on the risk to the facility as well as how likely cascading system 
+failures (e.g., loss of power, water) are after the initial impact. Whenever possible, horizontal 
+relocation of these patients versus evacuation is preferred to minimize risk. Staff should clearly 
+understand their actions and options in case urgent or emergent evacuation is warranted. 
+Communications Issues 
+Close communication with public safety partners is required before, during, and after an 
+evacuation. Public safety and EMS agencies need to understand the status of the facility, what 
+assistance is needed, and be able to communicate the status of the hospital with the public. 
+Hospitals need to understand evolving risks, planning timeframes, and available resources. 
+Public safety staff may need to allow EMS and hospital personnel to pass into restricted areas 
+to support an evacuation in progress. Further, road closures, signage, and other assistance may 
+be needed to isolate the campus after evacuation. 
+ 
+Some patients will be anxious and should be provided with as much information as possible 
+about the situation and plans, including potential timeframes. Communication with patients 
+and visitors should be in-person as much as possible. Scripted talking points may be circulated 
+to staff during scheduled and urgent evacuations. Printed information may be a good option, if 
+possible, as the patient is unlikely to remember phone numbers or basic information about the 
+evacuation. 
+ 
+Loved ones will also be anxious about the patients. A dedicated phone line or rollover line 
+should be staffed to provide destination information and other updates for family members 
+seeking information. Phone lines should be rolled to an alternate location after evacuation. 
+Messaging for social and traditional media should be developed and circulated as soon as 
+possible. Additionally, and only if conditions are safe to do so, an onsite (or within close 
+proximity) Family Support Center should be stood up to support reunification and other needs. 
+ 
+Finally, these situations can be very dynamic and stressful for facility staff. Multiple methods to 
+communicate the current situation, plan, and timeline to staff (including those at home) is 
+critical. If time allows, encouraging reference to unit evacuation plans in advance can help to 
+facilitate a more orderly and efficient evacuation. 
+
+[PDF PAGE 9]
+Hospital Readiness and Response: An Online Guidebook Evacuation-9 
+ 
+Ongoing communication with all these groups will be needed after the evacuation as well, 
+emphasizing the need for continuity of Incident Command operations after evacuation. 
+Considerations by Evacuation Type 
+Considerations for Scheduled Evacuation 
+Once the Incident Commander has determined that an evacuation is required or has been 
+ordered to evacuate by the jurisdiction based on anticipated threat/impact level, the following 
+actions should be considered if the facility has more than 12 hours to start the process: 
+• Developing information and communicating with jurisdictional authorities, media, staff, 
+patients, and families. 
+• Cancelling procedures and discharging appropriate patients (and providing notice of 
+pending cancellations and discharges). 
+• Determining transport needs and timeframes. 
+• Determining whether staging areas will be used or if patients will be moved directly 
+from the room to the transport unit. 
+• Organizing destination hospital beds for patients. 
+• Determining potential for moving staff to assist at facilities receiving evacuated patients. 
+• Determining special evacuation needs (e.g., NICU, ICU). 
+• Diverting patients to the degree possible (particularly obstetric and operative). 
+• Planning for any “stay teams” or ongoing services. 
+• Determining continuity plans for Incident Command. 
+• Determining medical records transfer mechanisms and printing face sheets. 
+• Implementing protection plans for the campus anticipating impact (e.g., window 
+protection). 
+• Preparing to load and track patients in an orderly manner. 
+• Securing/protecting instruments, temperature-sensitive products, and pharmaceuticals. 
+• Ensuring facility access controls are implemented. The hospital may maintain onsite 
+security staff depending on the situation. 
+ 
+Considerations for Urgent Evacuation 
+As soon as the facility recognizes any potential for evacuation, staff should be encouraged to 
+reference plans, mobilize equipment for evacuation and the staging areas, and start printing or 
+copying medical records. If patient tagging systems are used for triage and belongings tracking, 
+these should be applied and belongings gathered. Once an evacuation decision is made, if the 
+facility has less than 12 hours to start the process of evacuation, the following priorities should 
+be addressed: 
+• Moving key equipment to staging areas and evacuation equipment to units rapidly. 
+• Printing of face sheets by unit. 
+• Determining which units will move in what order. 
+• Liaising with EMS/public safety and rapidly assessing transport resources. 
+• Matching transportation assets to patient numbers and needs. 
+
+[PDF PAGE 10]
+Hospital Readiness and Response: An Online Guidebook Evacuation-10 
+ 
+• Communicating key messages to the jurisdiction, patients, media, and staff. Notification 
+of patient family members is optimal but may need to be delegated. 
+• Determining continuity of Incident Command location (a stay team is less likely in an 
+urgent evacuation). 
+• Tracking patients leaving the facility. 
+• Securing valuable property and narcotics. 
+• Securing the facility once it has been evacuated. 
+ 
+Considerations for Emergent Evacuation 
+In an emergent evacuation when a threat on campus (e.g., fire, complete power loss) poses 
+imminent risk, the following should be priorities: 
+• Contacting 911 for maximal public safety, fire, and EMS support. 
+• Obtaining unit census print outs and face sheets as possible. 
+• Establishing Incident Command in a safe location, which may be external with fire 
+command. 
+• Establishing liaison with responding agencies. 
+• Moving patients rapidly to staging areas as appropriate versus fire/EMS movement of 
+patients from their rooms in relation to the degree of threat/risk to that area. 
+• Sending trained staff to monitor intravenous drips, ventilators, and other medical 
+equipment in the ambulance if the transport agency is not qualified to provide critical 
+care. 
+• Deciding how destination hospitals will be determined, based on local protocol and 
+resources. 
+• Tracking patients by the type of transport/unit number if destination is not yet known. 
+• Sweeping the facility to ensure no patients or staff are left. 
+• Securing the facility. 
+Note that some emergent evacuations occur after incidents cause catastrophic damage to the 
+hospital without warning (e.g., an earthquake or tornado causing partial or full structural 
+collapse). While rare, emergency managers should consider how evacuation plans may be 
+affected by an incident resulting in injured or trapped staff and patients, damaged or lack of 
+access to evacuation supplies and equipment, loss of utilities, and increased reliance on 
+external rescue and evacuation support. 
+Conclusion 
+Decision-making regarding hospital evacuation can be complex and dynamic. When the need is 
+obvious and the threat is imminent the decisions are easier, but the success of the evacuation 
+will depend on the ability of EMS, fire, and public safety agencies to support the hospital. 
+Urgent and scheduled evacuations rely on hospital plans and resources to ensure a safer and 
+more structured process. When possible, sheltering and relocation on campus are preferred to 
+a partial or complete facility evacuation. The range of options and the high risk to specific 
+patient groups (e.g., NICU, OR) require that the hospital emergency manager spend significant 
+time each year updating both facility and unit-based plans and conducting training and drills. 
+
+[PDF PAGE 11]
+Hospital Readiness and Response: An Online Guidebook Evacuation-11 
+ 
+These should include strategic decision-making exercises with leadership and tactical 
+evacuation/patient movement drills with unit staff. Unfortunately, loss of sewer/water, fire, 
+flooding, hurricanes, and other incidents drive the evacuation of multiple hospitals each year. 
+All hospitals are at risk of needing to evacuate, but community hazards and area hospital 
+resources can help guide mitigation and preparedness activities. 
+Acknowledgements 
+ASPR TRACIE thanks the author of this chapter, John Hick, MD, Hennepin Healthcare and Senior 
+Editor, ASPR TRACIE, and the following subject matter experts who comprehensively reviewed 
+it (listed alphabetically): William Gonzalez, MHA, MPA, MCP, AEM, PMC, President, Chief 
+Executive Officer, Chief Operations Officer, and Principal Consultant, W.G. Preparedness 
+Solutions LLC; Dave Kistel, Vice President and Chief Facilities Executive, Lee Health; Tim Settles, 
+MSEM, CEM, CCMC, CHEP, OCEM, MCP, Deputy Director, Ashtabula County Emergency 
+Management Agency; and John Wilgis, MBA, RRT, Vice President, Member and Business 
+Relations, Florida Hospital Association.

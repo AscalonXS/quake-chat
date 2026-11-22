@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta name="description" content="Seoul Water delivers clean, safe tap water to residents of Seoul. Explore information on water quality, billing, service updates, self-meter readings, and customer support." />
+<meta name="keywords" content="서울특별시 서울아리수본부, 서울아리수본부, 아리수본부, 아리수">
+<meta name="author" content="">
+<meta property="og:url" content="//arisu.seoul.go.kr"  /> 
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Seoul Water" />
+<meta property="og:description" content="Seoul Water delivers clean, safe tap water to residents of Seoul. Explore information on water quality, billing, service updates, self-meter readings, and customer support." />
+<meta property="og:image" content="" />
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-XSRF-TOKEN" /><meta name="_csrf" content="29962a97-3433-4761-8510-476f126f36b4" /><meta name="_token" content="e75720c6-5ed8-4e93-9fdc-cc4716698f54">
+<meta name="_tokenMode" content="true">
+<title>Seoul Water</title>
+<link rel="shortcut icon" href="/static/base/favicon/default/favicon.ico" />
+
+<script>
+	window.fileSettings = {
+        allowedExtensions: 'hwp,hwpx,doc,docx,xls,xlsx,pdf,ppt,pptx,jpg,jpeg,gif,bmp,png,svg,avi,wmv,mp3,mp4,mkv,csv,zip,7z'.split(','),
+        
+        maxFileSize: 524288000,
+        maxFileCount: 5
+    };
+</script>
+
+<link rel="stylesheet" type="text/css" href="/static/base/libs/meyer-reset/2.0/reset.min.css"><link rel="stylesheet" type="text/css" href="/static/base/css/fonts/MaterialSymbols/MaterialSymbols.css"><link rel="stylesheet" type="text/css" href="/static/base/css/fonts/pretendard-gov/pretendard-gov-subset.css"><link rel="stylesheet" type="text/css" href="/static/base/css/setStandard.css?v=2059"><script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js" onerror="this.src='https://gcore.jsdelivr.net/npm/jquery@3/dist/jquery.min.js'"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.css" onerror="this.href='https://gcore.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.css'">
+<script src="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.js" onerror="this.src='https://gcore.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.js'"></script>
+<script src="https://cdn.jsdelivr.net/combine/npm/gasparesganga-jquery-loading-overlay@2" onerror="this.src='https://gcore.jsdelivr.net/combine/npm/gasparesganga-jquery-loading-overlay@2'"></script>
+
+<link rel="stylesheet" type="text/css" href="/static/base/css/library/aos.min.css?v=2059">
+<script src="https://cdn.jsdelivr.net/npm/aos@2/dist/aos.min.js" onerror="this.src='https://gcore.jsdelivr.net/npm/aos@2/dist/aos.min.js'"></script>
+
+<link rel="stylesheet" type="text/css" href="/static/base/css/library/slick.min.css?v=2059">
+<script src="https://cdn.jsdelivr.net/npm/slick-slider@1.8.2/slick/slick.min.js" onerror="this.src='https://gcore.jsdelivr.net/npm/slick-slider@1.8.2/slick/slick.min.js'"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11.1.5/swiper-bundle.min.css" onerror="this.href='https://gcore.jsdelivr.net/npm/swiper@11.1.5/swiper-bundle.min.css'">
+<script src="https://cdn.jsdelivr.net/npm/swiper@11.1.5/swiper-bundle.min.js" onerror="this.src='https://gcore.jsdelivr.net/npm/swiper@11.1.5/swiper-bundle.min.js'"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js" onerror="this.src='https://gcore.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js'"></script>
+
+<script src="/static/base/js/setStandard.js?v=2059"></script>
+<script src="/static/base/js/setCkeditor5.js?v=2059"></script>
+
+
+<script src="/static/base/js/standard/gnb/ecms.navigation.type1.js?v=2059"></script>
+	<script src="/static/base/js/standard/gnb/ecms.navigation.mobile.js?v=2059"></script>
+	<script src="/static/base/js/custom/ecms.common.js?v=2059"></script>
+<script src="/static/base/js/custom/ecms.custom.js?v=2059"></script>
+<script src="/static/base/js/custom/ecms.visual.js?v=2059"></script>
+<script src="/static/base/js/custom/years.code.js?v=2059"></script>
+<script src="/static/base/js/custom/months.code.js?v=2059"></script>
+
+<link rel="stylesheet" type="text/css" href="/static/templates/project/eng/css/layout.css?v=2059">
+		<link rel="stylesheet" type="text/css" href="/static/templates/project/eng/css/menu.type1.css?v=2059">
+		<link rel="stylesheet" type="text/css" href="/static/templates/project/eng/css/main.css?v=2059">
+	<script src="/static/templates/project/eng/js/main.js"></script>
+</head>
+<body id="mainWrapper">
+	<div id="skip-nav"><a href="#e-container">Skip to contents</a></div>
+    <div id="shadow_device"></div><script>
+	$(document).ready(function(){		
+		var topSlide = $('.tpop_slide'),
+			topSlide_ctrl = topSlide.parent().find('.tpop_ctrl'),
+			topSlide_stop = topSlide_ctrl.find('.slick-stop'),
+			topSlide_play = topSlide_ctrl.find('.slick-play'),
+			topCurrent = topSlide_ctrl.find('.current'),
+			topTotal = topSlide_ctrl.find('.total');
+		if (topSlide.find('div.item').length > 1){
+			topSlide.on('init reInit afterChange', function(event, slick, currentSlide, nextSlide){
+				topCurrent.text(slick.currentSlide + 1);
+				topTotal.text(slick.slideCount);
+			});
+			topSlide.slick({
+				pauseOnHover : false,
+				autoplay : true,
+				autoplaySpeed : 5000,
+				slidesToShow : 1,
+				slidesToScroll : 1,
+				arrows: false
+			});
+			topSlide_play.click(function(){
+				topSlide.slick('slickPlay');
+				topSlide_stop.show().focus();
+				topSlide_play.hide();					
+			});
+			topSlide_stop.click(function(){
+				topSlide.slick('slickPause');
+				topSlide_play.show().focus();
+				topSlide_stop.hide();
+			});
+		} else {
+			$('.ctrl_wrap').hide();
+		}
+		
+		if (topSlide.find('div.item').length > 0){
+			$('#toppopup').show();
+		} else {
+			$('#toppopup').hide();
+		}
+		function getCookie(cname) {
+			var name = cname + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1);
+				if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+			}
+			return "";
+		}
+		function setCookie(cname, cvalue, exdays) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			var expires = "expires="+d.toUTCString();
+			document.cookie = cname + "=" + cvalue + "; " + expires;
+		}
+
+		function pClose(){
+			$('body').removeClass('top');
+			$('.tpop_slide').slideUp();
+			
+		}
+		function pOpen(){
+			if (topSlide.find('div.item').length > 0){
+				$('body').addClass('top');
+				$('#toppopup').slideDown();
+			}
+		}	
+		cookiedata = document.cookie;
+		if(cookiedata.indexOf("p_close=Y")<0 && sessionStorage.getItem("tpop") != "N"){
+			pOpen();
+		} else {
+			pClose();
+			$('#toppopup').hide();
+		}
+		
+		$('.tpop_open').click(function(){
+			sessionStorage.setItem("tpop", "Y");
+			pOpen();
+			$('.tpop_close').focus();
+			return false;
+		});
+		$('.tpop_close').click(function(){
+			sessionStorage.setItem("tpop", "N");
+			pClose();
+			return false;
+		});
+
+		$('.p_close').click(function(){
+			if($('#close1').is(':checked')){
+				sessionStorage.setItem("tpop", "N");
+				setCookie("p_close","Y",1);
+			}
+			pClose();
+		});		
+	});
+</script>
+
+<div id="toppopup">
+	<div class="wrap">
+		<div class="tpop_slide">
+			</div>
+		</div>
+	</div><script src="//www.seoul.go.kr/seoulgnb/gnb.js"></script>
+
+
+<header id="e-header">
+	<div class="header-in">
+		
+		<div class="wrap">
+			<div class="head-body">
+				<h1 class="logo"><a href="/eng"><img src="/static/templates/project/eng/imgs/logo/logo.png" alt="Seoul Water" /></a></h1>
+
+				<div class="right">
+					<ul class="navi-wrap">
+						<li><a href="/home/main" class="h_language">KOR</a></li>
+						<li><a href="sub?menukey=8283" class="h_sitemap">Menu</a></li>
+							
+						</ul>
+				</div>
+
+				<div class="h_m_mn">
+					<button type="button" id="open_mn">Menu</button>
+				</div>
+			</div>
+		</div>
+
+		<div class="head-gnb">
+			<div class="wrap">
+				<div id="lnb">
+    <ul id="top1menu">
+        <li class="top2hover">
+	                <a href="sub?menukey=8002" class="menu1th top1m1"><span>Seoul&#039;s tap water, Arisu</span></a>
+	                <div class="top2m top2m1">
+        <ul>
+                <li class="">
+                            <a href="sub?menukey=8002">About Us</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8002">Greeting</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8003">Our Vision</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8005">Arisu</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8005">Arisu is</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8006">Arisu Production and Supply</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8008">How to Enjoy Arisu</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8008">Merits of Arisu</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8009">Enjoying Tasty Arisu</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8010">Where Can You Find Arisu?</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8012">Arisu’s Past and Present</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8012">Evolution of Seoul’s Waterworks</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8013">Water Quality Management and Technological Development</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8014">Arisu’s Promise</a>
+                                </li>
+                    </ul>
+        </div>
+</li>
+			<li class="top2hover">
+	                <a href="sub?menukey=8016" class="menu1th top1m2"><span>Aiming for the World’s Best Quality</span></a>
+	                <div class="top2m top2m2">
+        <ul>
+                <li class="">
+                            <a href="sub?menukey=8016">Strict Water Source Management</a>
+                                </li>
+                    <li class="">
+                            <a href="sub?menukey=8017">Clean, Tasty Arisu</a>
+                                </li>
+                    <li class="">
+                            <a href="sub?menukey=8018">Scientific Water Management</a>
+                                </li>
+                    <li class="">
+                            <a href="sub?menukey=8019">Arisu’s Global Presence</a>
+                                </li>
+                    </ul>
+        </div>
+</li>
+			<li class="top2hover">
+	                <a href="sub?menukey=8021" class="menu1th top1m3"><span>Arisu and the Community</span></a>
+	                <div class="top2m top2m3">
+        <ul>
+                <li class="">
+                            <a href="sub?menukey=8021">Efficient Management, Benefits to Citizens</a>
+                                </li>
+                    <li class="">
+                            <a href="sub?menukey=8023">Customer Service at Your Doorstep</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8023">Arisu Quality Verification System</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8024">Funding for the Replacement of Old Indoor Water Pipes</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8026">Water Billing Information</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8026">Water Bill</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8027">Automatic Payment Notice</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8028">Helpful Arisu Tips</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    </ul>
+        </div>
+</li>
+			<li class="top2hover">
+	                <a href="sub?menukey=8262" class="menu1th top1m4"><span>Watch, Enjoy, Learn Arisu Water</span></a>
+	                <div class="top2m top2m4">
+        <ul>
+                <li class="">
+                            <a href="sub?menukey=8262">Seoul Waterworks Museum</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8262">Before Liberation</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8264">After Liberation</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8265">21st Century</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8031">Guui Cultural Heritage</a>
+                                </li>
+                    <li class="">
+                            <a href="sub?menukey=8036">Waterworks Museum</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8036">Introduction to the Museum</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8266">Information</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8278">Location</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8040">ArisuNara</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8040">What is ArisuNara?</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8041">Information</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    <li class="">
+                            <a href="sub?menukey=8043">Seoul Water Institute</a>
+                                <div class="top3m">
+		<ul>
+		<li>
+				    <a href="sub?menukey=8043">Tour of the Seoul Water Institute</a>
+				    </li>
+			<li>
+				    <a href="sub?menukey=8044">Location</a>
+				    </li>
+			</ul>
+	</div>
+	</li>
+                    </ul>
+        </div>
+</li>
+			<li class="top2hover">
+	                <a href="sub?menukey=8046" class="menu1th top1m5"><span>Seoul Water Headquarters Help Desk Information</span></a>
+	                <div class="top2m top2m5">
+        <ul>
+                <li class="">
+                            <a href="sub?menukey=8046">Waterworks Authority</a>
+                                </li>
+                    <li class="">
+                            <a href="sub?menukey=8047">Inquiries for Visit</a>
+                                </li>
+                    </ul>
+        </div>
+</li>
+			</ul>
+    </div></div>
+		</div>
+	</div>
+	
+	<div id="topmenu">
+		<div id="blackBg"></div>
+		<div class="m-head">
+			<ul class="navi-wrap">
+				<li><a href="/home/main" class="h_language">KOR</a></li>
+				</ul>
+			</div>
+		<div class="menuBox">
+			<ul id="lnb_device"></ul>
+			<a href="#" onclick="return false;" id="m_close"><span class="skip">메뉴닫기</span></a>
+		</div>
+	</div>
+</header><div id="e-container">
+	<div class="section sec01">
+	<div class="wrap">
+		<div class="visual">
+			<div class="slider">
+				<div class="item"><a href="#" onclick="return false;"><img src="/upload/icd/1704067200-000-004/2025/1758616775899_65rF0Q3bsXkdQniLEO0F.jpg" alt="Seoul Water Smart and Tasty Tap Water Arisu" onerror="this.src='/static/base/imgs/noimage/noimage_640.jpg'"></a></div>
+					</div>
+			<div class="ctrl">
+				<button class="prev"><span class="skip">main banner slider prev</span></button>
+				<div class="count">
+					<span class="current"></span>
+					<span class="total"></span>
+				</div>
+				<button class="next"><span class="skip">main banner slider next</span></button>
+				<button class="stop"><span class="skip">main banner slider stop</span></button>
+				<button class="play"><span class="skip">main banner slider pause</span></button>
+			</div>
+		</div>
+		<div class="quickMenu">
+			<ul>
+				<li><a href="sub?menukey=8031"><span>Guui Cultural <br>Heritage</span></a></li>
+				<li><a href="sub?menukey=8036"><span>Waterworks <br>Museum</span></a></li>
+				<li><a href="sub?menukey=8040"><span>ArisuNara</span></a></li>
+			</ul>
+		</div>
+	</div>
+</div><div class="section sec02">
+	<div class="wrap">
+		<div class="sec02_box">
+			<div class="realTime">
+				<p class="p1">Arisu Map</p><p class="p2">Local Water Quality Information</p>
+				<div class="more"><a href="https://arisu.seoul.go.kr/arisumap/" target="_blank" title="Go to Arisu Map - new window">More</a></div>
+			</div>
+
+			<div class="linkList">
+				<ul>
+					<li><a href="https://i121.seoul.go.kr/cyber/front/cgcalc/NR_chargeTypeTariffInfo.do?_m=m5_5" target="_blank" title="new window"><span>Water Billing Information</span></a></li>
+					<li><a href="sub?menukey=8046"><span>Seoul Water Headquarters Help Desk Information</span></a></li>
+				</ul>
+			</div>
+
+			<div class="callService">
+				<p class="t1">DASAN 120 Seoul Call Foundation Foreign Language Service</p>
+				<div class="ars">
+					<span>ARS</span>
+					<ul>
+						<li>⑨+① English</li>
+						<li>② 中國語</li>
+						<li>③ 日本語</li>
+						<li>④ Tiếngviệt</li>
+						<li>⑤ Монголхэл</li>
+					</ul>
+				</div>
+				<p class="t2">Monday thru Friday 09:00am - 06:00pm Weekdays only.</p>
+			</div>
+		</div>
+
+		<div class="seoulWater">
+			<h4>Seoul Water Institute</h4>
+			<ul class="clearfix">
+				<li class="on"><a href="sub?menukey=8043">Tour of the Seoul Water Institute</a></li>
+				<li><a href="sub?menukey=8044">Location</a></li>
+			</ul>
+		</div>
+	</div>
+</div></div>
+<script src="//weblog.eseoul.go.kr/wlo/js/install.js"></script>
+
+<footer id="e-footer">
+	<div class="wrap">
+		<div class="f-cnt">
+			<div class="f-logo"><img src="/static/templates/project/eng/imgs/logo/logo.png" alt="Seoul Water" /></div>
+			<div class="f-info">
+				<div class="info-addr"><span>(03741) 51 Seosomun-ro, Seodaemun-gu, Seoul</span>Tel. 02-120</div><div class="f-copy">Copyright © 2025 Seoul Water. All Rights Reserved.</div></div>
+			<p class="wa">  
+				<a title="새창열림" target="_blank" rel="noopener" href="http://kwacc.or.kr/CertificationSite/WA/List"><img alt="국가공인 정보통신접근성 품질인증마크" src="/static/templates/project/home/imgs/footer/wa.png"></a>
+			</p>
+		</div>
+	</div>
+	<div class="f-go-top"><button class="go-top-box"><span class="skip">상단으로 이동</span></button></div>
+</footer></body>
+</html>

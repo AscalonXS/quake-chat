@@ -1,0 +1,453 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="What to do when an earthquake strikes" />
+<link rel="icon" href="/profiles/custom/webny/themes/custom/webny_theme/favicon.ico" />
+<link rel="icon" sizes="16x16" href="/profiles/custom/webny/themes/custom/webny_theme/icons/icon-16x16.png" />
+<link rel="icon" sizes="32x32" href="/profiles/custom/webny/themes/custom/webny_theme/icons/icon-32x32.png" />
+<link rel="icon" sizes="96x96" href="/profiles/custom/webny/themes/custom/webny_theme/icons/icon-96x96.png" />
+<link rel="icon" sizes="192x192" href="/profiles/custom/webny/themes/custom/webny_theme/icons/icon-192x192.png" />
+<link rel="apple-touch-icon" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-180x180.png" />
+<link rel="apple-touch-icon-precomposed" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-76x76-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-120x120-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-152x152-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/profiles/custom/webny/themes/custom/webny_theme/icons/apple-touch/apple-touch-icon-180x180-precomposed.png" />
+<meta property="og:site_name" content="Division of Homeland Security and Emergency Services" />
+<meta property="og:title" content="Earthquake Safety Tips" />
+<meta property="og:image" content="https://www.dhses.ny.gov/sites/g/files/oee1211/files/media/2021/12/seismograph.jpg" />
+<meta property="og:image:url" content="https://www.dhses.ny.gov/profiles/custom/webny/themes/custom/webny_theme/images/nys-default.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="What to do when an earthquake strikes" />
+<meta name="twitter:image" content="https://www.dhses.ny.gov/sites/g/files/oee1211/files/media/2021/12/seismograph.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="canonical" href="https://www.dhses.ny.gov/earthquake" />
+<link rel="shortlink" href="https://www.dhses.ny.gov/node/3401" />
+
+    <title>Earthquake Safety Tips | Division of Homeland Security and Emergency Services</title>
+    <link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/core/components/progress.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/core/components/ajax-progress.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/align.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/fieldgroup.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/container-inline.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/clearfix.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/details.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/hidden.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/item-list.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/js.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/nowrap.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/position-container.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/reset-appearance.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/resize.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/system-status-counter.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/system-status-report-counters.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/system-status-report-general-info.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/contrib/stable/css/system/components/tablesort.module.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ckeditor_accordion/css/accordion.frontend.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ckeditor_indentblock/css/plugins/indentblock/ckeditor.indentblock.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/modules/custom/webny_secondary_nav/css/webny_secondary_nav.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/custom/webny_theme/fonts/fontawesome6/css/all.min.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/custom/webny_theme/css/public-safety.css?tn7c5e" />
+<link rel="stylesheet" media="print" href="/profiles/custom/webny/themes/custom/webny_theme/css/print.css?tn7c5e" />
+<link rel="stylesheet" media="all" href="/profiles/custom/webny/themes/custom/webny_theme/../../../libraries/video.js/dist/video-js.min.css?tn7c5e" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3401","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-12E956GW0J","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNkUtyxCAMRC9k7F0qt6EEyFgzDCIg7Pj2wfNLmGSRDdX0U0FLsmd0JJw1WMvZEcfpqcY5cxSMbrCPKooOo5jA9jz90INn9gG1gJ98O17vI5zgc0iQwWdIS5lcrgnC-O2MNaZqApUF3VD2IniZDBQcNjRx1z6wgaAjrNNNqibvrKDl6CDvV_y8_a9CGWjNtRZvlbLgBafDExZOnWshBA3R6YwlcXxmu1Fc2zCUA0GVqD2ZOzpTEMzaQu5_mtuAYcPCF3zrwL3LInug6Du0YObOaG2Qh7aezk2caoDcms8rWSw9zNTSHq-_gI_awrcvz71dBERRnPm6LbIdFDChH4ZsrE0V4agdFpspvaZbySGrU1G2lL8B4ftv0PyVLsh_kp2rVNMn2fZC2_4YYD32f5XqkF8RWi0S","theme":"webny_theme","theme_token":null},"ajaxTrustedUrl":[],"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":true,"force_html5_validation":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":0,"openTabsWithHash":0,"allowHtmlInTitles":0}},"user":{"uid":0,"permissionsHash":"de0e78137356d858e3f38c6b8c38f36f85021b475c8633da62104e8ac5138f73"}}</script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.19"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/../../../libraries/videojs7-vimeo/dist/videojs-vimeo.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/../../../libraries/video.js/dist/video.min.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/../../../libraries/videojs-youtube/dist/Youtube.min.js?tn7c5e"></script>
+
+  </head>
+  <body class="body-sidebars-none">
+        <div class="nygov-logo">
+      <img src="/profiles/custom/webny/themes/custom/webny_theme/images/nygov-logo.png" alt="nygov-logo" />
+    </div>
+    <a href="#main-content" class="visually-hidden focusable skip-to-main">
+      Skip to main content
+    </a>
+    
+
+    
+    
+    
+    
+<div id="nygov-universal-navigation" class="nygov-universal-container" data-iframe="true" data-updated="2024-03-29 06:26" data-stripwww="1">
+    <script type="text/javascript">
+        var _NY = {
+            HOST: "static-assets.ny.gov",
+            BASE_HOST: "www.ny.gov",
+            hideSettings: false,
+            hideSearch: false,
+            showLanguageHeader: true,
+			showLanguageFooter: true,
+        };
+    </script>
+</div>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+                        <nav id="webny-global-header" class="webny-global-header horizontal stacked" aria-label="primary-site" >
+            <div class="nav-toggle">
+            <button id="webny-menu-control">Navigation Menu Toggle</button>
+        </div>
+            <h1><a href="/">
+                            Division of Homeland Security and Emergency Services<br />
+                    </a></h1>
+        <ul class="gnav-ul"><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/oem">Emergency Management</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/oem">Emergency Management</a></li><li><a href="/field-operations">Field Operations</a></li><li><a href="/headquarters-operations">Headquarters Operations</a></li><li><a href="/incident-management-team">Incident Management Team </a></li><li><a href="/planning">Planning</a></li><li><a href="/radiological-emergency-preparedness">Radiological Emergency Preparedness</a></li><li><a href="/new-york-state-watch-center">State Watch Center</a></li><li><a href="/training-exercise">Training &amp; Exercises</a></li><li><a href="/county-emergency-management-offices" title="Local Emergency Management">Local Emergency Management Offices</a></li></ul></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/office-fire-prevention-and-control-0">State Fire</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/office-fire-prevention-and-control-0">State Fire</a></li><li><a href="/fire">Safety and Prevention</a></li><li><a href="/fire-prevention-and-control-training">Training Programs</a></li><li><a href="/fire-information-management">Fire Information Management</a></li><li><a href="/office-fire-prevention-and-control-publications">Forms and Publications</a></li><li><a href="/new-york-state-fallen-firefighters-memorial">NYS Fallen Firefighters Memorial</a></li><li><a href="https://www.dhses.ny.gov/communityriskreduction">Community Risk Reduction</a></li></ul></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/oiec">Emergency Communications</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/oiec">Emergency Communications</a></li><li><a href="/state-interoperable-and-emergency-communication-siec-board">SIEC Board</a></li><li><a href="/statewide-interoperable-communications-grant-sicg-program">Grants</a></li><li><a href="/comu">Communications Unit</a></li><li><a href="/plans-policies-and-guidelines">Plans, Policies, Guidelines</a></li><li><a href="/state-and-local-consortium-interoperability">Consortiums</a></li><li><a href="/public-safety-broadband">Public Safety Broadband</a></li><li><a href="https://www.dhses.ny.gov/911-unit">911 Unit</a></li></ul></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/oct">Counter Terrorism</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/oct">Counter Terrorism</a></li><li><a href="/critical-infrastructure-protection-unit">Critical Infrastructure Protection Unit</a></li><li><a href="/cyber-incident-response-team">Cyber Incident Response Team</a></li><li><a href="/domestic-terrorism-prevention-unit">Domestic Terrorism Prevention Unit</a></li><li><a href="/public-safety-unit">Public Safety Unit</a></li><li><a href="/see-something-say-something">See Something, Say Something</a></li><li><a href="/terrorism-tips-online-submission">Submit a Terrorism Tip</a></li></ul></li><li class="gnav-mitems gnav-topli solotop" aria-expanded="false"><a href="/cybersecurity-incident-and-ransom-payment-reporting" title="Cybersecurity Reporting">Cybersecurity Incident Reporting</a></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/disaster-recovery">Disaster Recovery</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/disaster-recovery">Disaster Recovery</a></li><li><a href="/public-assistance-0">Public Assistance</a></li><li><a href="/hazard-mitigation">Hazard Mitigation</a></li><li><a href="/individual-assistance">Individual Assistance</a></li><li><a href="/disaster-finance">Disaster Finance</a></li></ul></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/grants">Preparedness Grants</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/grants">Preparedness Grants</a></li><li><a href="/federal-programs">Federal Programs</a></li><li><a href="/state-programs">State Programs</a></li><li><a href="/nonprofit-security-grant-program">Nonprofit Security Grant Program</a></li><li><a href="/e-grants">E-Grants</a></li><li><a href="https://www.dhses.ny.gov/minority-and-women-owned-business-enterprises-mwbe">Minority &amp; Women-Owned Business Enterprises</a></li><li><a href="/grant-reporting-forms">Reporting Forms</a></li></ul></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/training">Training &amp; Resources</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/training">Training &amp; Resources</a></li><li><a href="/training-exercise">Emergency Management</a></li><li><a href="/fire-prevention-and-control-training">Fire Prevention and Control</a></li><li><a href="/comu">Interoperable and Emergency Communications</a></li><li><a href="https://lmsportal-dhses.ny.gov/acadisviewer/login.aspx">Learning Management System (LMS)</a></li><li><a href="/sptc">State Preparedness Training Center</a></li><li><a href="/responder-wellness" title="Resources for First Responders">Responder Wellness</a></li></ul></li><li class="gnav-mitems gnav-topli" aria-expanded="false"><a href="/about">About</a><ul class="gnav-items-ul" aria-hidden="true"><li class="gnav-toplink"><a href="/about">About</a></li><li><a href="/dhses-executive-team">Executive Leadership</a></li><li><a href="/news">News</a></li><li><a href="/careers" title="Working at DHSES">Working at DHSES</a></li><li><a href="https://statejobs.ny.gov/employees/vacancyTable.cfm?searchResults=Yes&amp;Keywords=&amp;title=&amp;JurisClassID=&amp;AgID=482&amp;minDate=&amp;maxDate=&amp;employmentType=&amp;grade=&amp;SalMin=" title="Available Jobs">Available Jobs</a></li><li><a href="/kids">Resources for Kids</a></li><li><a href="https://www.dhses.ny.gov/contact-us" title="Contact">Contact Us</a></li></ul></li></ul>
+    </nav>
+
+    
+
+    
+
+                
+        
+                                
+    
+        
+        <nav role="navigation" aria-label="Secondary Navigation Menu" id="secondary-navigation" data-nosnippet>
+
+                
+                        <div class="secnav-secone secnav-full-space" aria-label="Secondary Navigation - Information Section One">
+                <p><strong>The New York State Division of Homeland Security &amp; Emergency Services will never call you asking for personal information. If you receive a call from someone claiming to be from Homeland Security and asking for personal information, it is a scam. Do not share your personal information.</strong></p>
+            </div>
+
+        
+                    
+            
+            
+                
+    </nav>
+
+
+
+
+  </header>
+
+  
+
+  
+
+  
+
+  
+
+  <main role="main" id="main-content">
+
+    <div class="layout-content">
+        <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+
+<div class="webny-generic-content-page webny-toc-page">
+
+    <article  data-history-node-id="3401" about="/earthquake" class="hero-layout">
+
+                
+
+        
+                            <div class="hero-header hero-has-image hero-generic">
+                <div class="hero-image" data-img="https://www.dhses.ny.gov/sites/g/files/oee1211/files/styles/wide_lead/public/media/2021/12/seismograph.jpg?h=b5f6a62e&amp;itok=EDhEvMmM"></div>
+                <div class="hero-inner hero-generic-inner">
+                    <div class="hero-generic-wrapper">
+                        <div class="hero-generic-description-wrapper checklist-cta-absent">
+                                                    <div class="assoc-landing">
+                                <div class="assoc-landing-icon-wrapper">
+                                    <i class="assoc-landing-icon fa-solid fa-chevron-left"></i>
+                                </div>
+                                
+            <div><a href="/safety-and-prevention" hreflang="en">Safety and Prevention</a></div>
+      
+                            </div>
+                        
+                                                
+                        
+                                                <h1><span>Earthquake Safety Tips</span>
+</h1>
+
+                                                
+                        
+                                                                                            </div>
+
+                                        </div><!--end hero-generic-wrapper-->
+
+                </div>
+            </div>
+        
+                        
+    </article>
+        
+    <div class="page-paragraphs gp-paragraphs with-nav-sidebar">
+      <aside id="toc-sidebar-mobile" aria-labelledby="sticky-menu-title-span">
+        <nav id="toc-mobile-nav" aria-controls="toc-mobile-heading">
+          <header>
+            <h2 id="toc-mobile-heading">On this page</h2>
+          </header>
+          <ul></ul>
+        </nav>
+        <span class="arrow"></span>
+      </aside>
+      <aside id="toc-sidebar-desktop" aria-labelledby="toc-desktop-heading">
+        <div class="toc-sidebar-desktop-wrapper">
+          <nav>
+            <header>
+              <h2 id="toc-desktop-heading">On this page</h2>
+            </header>
+            <ul></ul>
+          </nav>
+        </div>
+      </aside>
+      <button class="sticky-menu" aria-expanded="false" aria-labelledby="sticky-menu-title-span toc-mobile-heading">
+        <span id="sticky-menu-title-span" class="sticky-menu-title"><span>Earthquake Safety Tips</span>
+</span>
+        <span class="sticky-menu-icon">
+          <span class="fa-solid fa-square-plus"></span>
+        </span>
+      </button>
+      <div class="article-content">
+        <div class="toc-chapters">
+          
+
+    
+        
+
+
+    <div class="next-section">
+        <div class="next-section-divider">
+            <hr />
+        </div>
+    </div>
+    <section id="toc_6306" rel="enabled" class="toc-para webny_wysiwyg_pgtype gp_enabled" >
+        <h2>
+            <span class="toc-mobile-spacer"></span>
+
+                            Terms to Know
+            
+            
+        </h2>
+        <div >
+        
+            <div class="wysiwyg--field-webny-wysiwyg-body"><ul><li><span><strong>Aftershock:</strong> One of many earthquakes that often occur during the days to months after some larger earthquake has occurred.</span></li><li><span><strong>Epicenter:</strong> The location directly above the focus or place where an earthquake originates.</span></li><li><span><strong>Richter Magnitude Scale:</strong> Used to express the total amount of energy released by an earthquake.&nbsp; Values are typically between 1 and 9 — each increase of 1 represents a 32-fold increase in released energy.</span></li></ul></div>
+      
+        </div>
+    </section>
+
+    
+        
+
+
+    <div class="next-section">
+        <div class="next-section-divider">
+            <hr />
+        </div>
+    </div>
+    <section id="toc_6311" rel="enabled" class="toc-para webny_wysiwyg_pgtype gp_enabled" >
+        <h2>
+            <span class="toc-mobile-spacer"></span>
+
+                            Be Prepared
+            
+            
+        </h2>
+        <div >
+        
+            <div class="wysiwyg--field-webny-wysiwyg-body"><ul>
+	<li><span><span><span>Fasten shelves, bookcases, and other tall furniture securely to wall studs.&nbsp; Brace or anchor high or top-heavy objects.&nbsp; Secure items such as televisions and computers.</span></span></span></li>
+	<li><span><span><span>Install strong latches or bolts on cabinet doors to prevent contents from flying out during the quake.</span></span></span></li>
+	<li><span><span><span>Move large or heavy objects and fragile items to lower shelves where they are less likely to fall or break, and store breakable items such as bottled foods, glass, and china in low, closed cabinets with latches.</span></span></span></li>
+	<li><span><span><span>Store weed killers, pesticides, and flammable products securely in closed cabinets with latches and on bottom shelves.</span></span></span></li>
+	<li><span><span><span>Hang heavy items such as pictures and mirrors away from beds, couches, and anywhere people sit.</span></span></span></li>
+	<li><span><span><span>Brace overhead light fixtures.</span></span></span></li>
+	<li><span><span><span>Secure water heaters and gas appliances by strapping them to the wall studs and bolting them to the floor.</span></span></span></li>
+	<li><span><span><span>Install flexible pipe fittings to avoid gas or water leaks.</span></span></span></li>
+	<li><span><span><span>Repair any deep cracks in ceilings or foundations.</span></span></span></li>
+	<li><span><span><span>Check to see if your house is bolted to its foundation.</span></span></span></li>
+	<li><span><span><span>Consider having your building evaluated by a professional structural design engineer who can give you advice on how to reduce potential damage.</span></span></span></li>
+	<li><span><span><span>Earthquakes are not covered under standard homeowners’ insurance policies.&nbsp; Consider purchasing earthquake insurance.</span></span></span></li>
+</ul>
+</div>
+      
+        </div>
+    </section>
+
+    
+        
+
+
+    <div class="next-section">
+        <div class="next-section-divider">
+            <hr />
+        </div>
+    </div>
+    <section id="toc_6316" rel="enabled" class="toc-para webny_wysiwyg_pgtype gp_enabled" >
+        <h2>
+            <span class="toc-mobile-spacer"></span>
+
+                            Act (During the Quake)
+            
+            
+        </h2>
+        <div >
+        
+            <div class="wysiwyg--field-webny-wysiwyg-body"><p>&nbsp;</p><ul><li><span>Drop, Cover, and Hold: Duck or drop down to the floor.&nbsp; Take cover under a desk, table, or other sturdy furniture, or seek cover against an interior wall and protect your head with your arms.&nbsp; If you are taking cover beneath sturdy furniture, hold onto it until the ground stops shaking.</span></li><li><span>Stay Inside!&nbsp; The most dangerous thing to do during the shaking of an earthquake is to try to leave the building because objects such as bricks, glass and other building materials are likely to be falling from the sides of a building.&nbsp; Stay away from windows, mirrors, skylights, and furniture that could fall on you.</span></li><li><span>If you are in a crowded building, do not rush for the exit – others may have the same idea.&nbsp; Seek shelter beneath a stable piece of furniture instead.&nbsp; If you are in a high-rise building, stay away from windows and outside walls.&nbsp; Remain on the same floor.&nbsp; Do not use elevators.</span></li><li><span>If you are outdoors, move into the open, away from buildings, trees, signs, streetlights, and utility wires.&nbsp; Once in the open, stay there until shaking stops.</span></li><li><span>If you are in a moving vehicle, move to a clear area away from buildings, trees, overpasses, or utility wires.&nbsp; Avoid bridges or ramps that might have been damaged by the quake.&nbsp; Stop quickly and stay in the vehicle.&nbsp; Once shaking has stopped, proceed with caution.</span></li><li><span>Expect aftershocks, which often follow earthquakes and may even be as strong as, or stronger than, the initial quake.</span></li></ul></div>
+      
+        </div>
+    </section>
+
+
+        </div>
+      </div>
+  </div>
+
+
+</div>
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+  
+</div>
+  </div>
+
+    <div class="webny-back-to-top-wrapper">
+      <a href="#main-content" class="webny-back-to-top webny-back-to-top-hidden" title="Back to Top" aria-label="Back to Top">
+        <span class="fa fa-chevron-up" aria-hidden="true"></span>
+        <span class="sr-only">Scroll back to the top of the page</span>
+      </a>
+    </div>
+     
+
+<div class="webny-global-footer">
+
+    <div id="block-sitebranding">
+        <div class="agency-name">
+            <a href="/" title="Home" rel="home">
+                                    Division of Homeland Security and Emergency Services<br />
+                            </a>
+        </div>
+    </div>
+    <nav id="block-global-footer-menu"  class="footer-menu footer-horizontal">
+            
+        <ul class="global-footer-top-links">
+                        <li>
+                <a href="/about" data-drupal-link-system-path="node/1351">About</a>
+                            </li>
+                    <li>
+                <a href="/accessibility" data-drupal-link-system-path="node/971">Accessibility</a>
+                            </li>
+                    <li>
+                <a href="/civil-rights-and-accessibility" title="Equal Employment Opportunity and Anti-Discrimination Information" data-drupal-link-system-path="node/4756">Civil Rights Information</a>
+                            </li>
+                    <li>
+                <a href="/contact-us" data-drupal-link-system-path="node/966">Contact Us</a>
+                            </li>
+                    <li>
+                <a href="/disclaimer" data-drupal-link-system-path="node/976">Disclaimer</a>
+                            </li>
+                    <li>
+                <a href="/doing-business-dhses" data-drupal-link-system-path="node/15916">Doing Business with DHSES</a>
+                            </li>
+                    <li>
+                <a href="/request-dhses-records-through-nys-freedom-information-law" data-drupal-link-system-path="node/1111">FOIL</a>
+                            </li>
+                    <li>
+                <a href="/language-access" data-drupal-link-system-path="node/4816">Language Access</a>
+                            </li>
+                    <li>
+                <a href="https://www.dhses.ny.gov/system/files/documents/2024/09/2024-languageid-monitor_1920x1080-red-size.pdf">Language Identification Tool</a>
+                            </li>
+                    <li>
+                <a href="/dhses-related-laws-and-regulations" data-drupal-link-system-path="node/726">Laws and Regulations</a>
+                            </li>
+                    <li>
+                <a href="/news" data-drupal-link-system-path="node/1366">News</a>
+                            </li>
+                    <li>
+                <a href="/open-meetings-and-webcasts" data-drupal-link-system-path="node/1376">Open Meetings and Webcasts</a>
+                            </li>
+                    <li>
+                <a href="/privacy-policy" data-drupal-link-system-path="node/1426">Privacy Policy</a>
+                            </li>
+                    <li>
+                <a href="/sitemap" data-drupal-link-system-path="sitemap">Site Map</a>
+                            </li>
+            </ul>
+        
+
+
+    </nav>
+
+        <section id="block-global-footer-social-menu" class="social-media">
+        <div class="social-media-header">
+            <div class="social-media-header-line"></div>
+            <h2>CONNECT WITH US</h2>
+            <div class="social-media-header-line"></div>
+        </div>
+        <ul><li><a href="https://www.facebook.com/NYSDHSES" class="rounded-social-button" aria-label="Facebook"><i class="fa-brands fa-facebook-f sr-only" aria-hidden="true"></i><span class="visually-hidden">Facebook</span></a></li><li><a href="https://www.flickr.com/nysdhses/" class="rounded-social-button" aria-label="Flickr"><i class="fa-brands fa-flickr sr-only" aria-hidden="true"></i><span class="visually-hidden">Flickr</span></a></li><li><a href="https://www.instagram.com/nysdhses/" class="rounded-social-button" aria-label="Instagram"><i class="fa-brands fa-instagram sr-only" aria-hidden="true"></i><span class="visually-hidden">Instagram</span></a></li><li><a href="https://www.linkedin.com/company/nys-dhses" class="rounded-social-button" aria-label="Linkedin"><i class="fa-brands fa-linkedin sr-only" aria-hidden="true"></i><span class="visually-hidden">Linkedin</span></a></li><li><a href="https://www.youtube.com/c/NYSDHSES" class="rounded-social-button" aria-label="Youtube"><i class="fa-brands fa-youtube sr-only" aria-hidden="true"></i><span class="visually-hidden">Youtube</span></a></li><li><a href="https://twitter.com/nysdhses" class="rounded-social-button" aria-label="X (formerly Twitter)"><i class="sr-only fa-brands fa-x-twitter" aria-hidden="true" class="sr-only"></i><span class="visually-hidden">X (formerly Twitter)</span></a></li></ul>
+    </section>
+    
+</div>
+<div id="nygov-universal-footer"></div>
+
+    <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupal.js?v=10.6.19"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.19"></script>
+<script src="/core/misc/debounce.js?v=10.6.19"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?tn7c5e"></script>
+<script src="/core/misc/progress.js?v=10.6.19"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.6.19"></script>
+<script src="/core/misc/message.js?v=10.6.19"></script>
+<script src="/core/misc/ajax.js?v=10.6.19"></script>
+<script src="/profiles/custom/webny/themes/contrib/stable/js/ajax.js?v=10.6.19"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/modules/custom/webny_global_nav/js/webny-global-nav-header.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/modules/custom/webny_secondary_nav/js/webny_secondary_nav.js?v=1"></script>
+<script src="/profiles/custom/webny/modules/custom/webny_secondary_nav/js/webny_secondary_nav_backend.js?v=1"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/backtotop.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/call_and_response.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/date_picker.js?v=1"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/filter_card.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/hero.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/../../../libraries/waypoints/lib/jquery.waypoints.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/navigator.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/popular_services.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/quicklinks.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/stat_infographic.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/../../../libraries/datatables/media/js/jquery.dataTables.min.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/table.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/two_button_descriptor.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/themes/custom/webny_theme/js/wysiwyg.js?tn7c5e"></script>
+<script src="//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/dist/global-nav-bundle.js" aync></script>
+<script src="/profiles/custom/webny/modules/custom/webny_unav/js/webny_unav_backend.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/modules/custom/webny_unav/js/webny_unav_smartling.js?tn7c5e"></script>
+<script src="/profiles/custom/webny/modules/custom/webny_unav/js/webny_unav_frontend.js?tn7c5e"></script>
+
+  </body>
+</html>

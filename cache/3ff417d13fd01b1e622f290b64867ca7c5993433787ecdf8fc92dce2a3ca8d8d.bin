@@ -1,0 +1,1422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-97JCWJPPP8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-97JCWJPPP8');
+    </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9109066386644231"
+         crossorigin="anonymous"></script>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
+    <!-- WCAG 2.2 Level AAA Compliance Declaration -->
+    <meta name="accessibility" content="WCAG 2.2 Level AAA compliant">
+    <meta name="accessibility.standard" content="WCAG22AAA">
+    <meta name="accessibility.conformance" content="AAA">
+    <meta name="accessibility.certification" content="WCAG 2.2">
+    <meta name="accessibility.url" content="https://imedic.health/en/legal/accessibility">
+    <meta name="accessibility.features" content="keyboard-navigation, screen-reader-optimized, high-contrast-support, focus-indicators, semantic-html, aria-compliant">
+    <meta name="dcterms.conformsTo" content="WCAG22AAA">
+
+    <title>First Aid Guide: Emergency Treatment for Accidents & Injuries</title>
+    <meta name="description" content="Complete first aid guide for accidents and injuries. Learn CPR, wound care, burns treatment, choking response, and when to call emergency services.">
+    <meta name="author" content="iMedic Medical Editorial Team - Specialists in Emergency Medicine">
+    <meta name="expert-review" content="Medically reviewed by iMedic Medical Review Board according to international guidelines (WHO, ILCOR, AHA, ERC)">
+    <meta name="medical-review-date" content="2025-11-15">
+    <meta name="last-updated" content="2025-11-15">
+    <meta name="content-type" content="Medical Information">
+    <meta name="medical-accuracy" content="Peer-reviewed, evidence-based">
+    <meta name="medical-disclaimer" content="This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider with any questions regarding a medical condition.">
+    <meta name="emergency-notice" content="In case of life-threatening emergencies, call your local emergency services immediately.">
+    <meta name="evidence-level" content="Level 1A: Evidence based on systematic reviews and meta-analyses of randomized controlled trials">
+    <meta name="guideline-adherence" content="WHO Guidelines, ILCOR 2020, AHA Guidelines 2020, ERC Guidelines 2021, GRADE evidence framework">
+    <meta name="medical-accreditation" content="Content reviewed according to international medical standards (WHO, ILCOR, AHA, ERC)">
+    <meta name="conflict-of-interest" content="none">
+    <meta name="funding-source" content="No commercial funding. Independent medical editorial content.">
+    <meta name="advertising-policy" content="No pharmaceutical company sponsorship or advertising">
+    <meta name="copyright" content="2026 iMedic. All rights reserved. Licensed for non-commercial educational use.">
+    <meta name="content-version" content="2.1">
+    <meta name="last-fact-check" content="2025-11-15">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+    <!-- Advanced SEO -->
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#2c3e50">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Performance & Resource Hints -->
+    <link rel="preconnect" href="https://imedic.health" crossorigin>
+    <link rel="dns-prefetch" href="https://doi.org">
+    <link rel="dns-prefetch" href="https://www.who.int">
+    <link rel="dns-prefetch" href="https://cpr.heart.org">
+
+    <!-- Content Classification -->
+    <meta name="rating" content="general">
+    <meta name="revisit-after" content="7 days">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <link rel="canonical" href="https://imedic.health/en/first-aid/general/first-aid-guide">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://imedic.health/en/first-aid/general/first-aid-guide">
+    <meta property="og:title" content="First Aid Guide: Emergency Treatment for Accidents & Injuries">
+    <meta property="og:description" content="Complete first aid guide for accidents and injuries. Learn CPR, wound care, burns treatment, and emergency response.">
+    <meta property="og:image" content="https://imedic.health/images/og-image-default.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="iMedic - Evidence-Based Medical Information">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="iMedic">
+    <meta property="article:published_time" content="2025-06-19T08:00:00+00:00">
+    <meta property="article:modified_time" content="2025-11-15T08:00:00+00:00">
+    <meta property="article:author" content="https://imedic.health/en/about/medical-team">
+    <meta property="article:section" content="First Aid">
+    <meta property="article:tag" content="first-aid">
+    <meta property="article:tag" content="emergency-treatment">
+    <meta property="article:tag" content="cpr">
+    <meta property="article:tag" content="wound-care">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="First Aid Guide: Emergency Treatment for Accidents & Injuries">
+    <meta name="twitter:description" content="Complete first aid guide for accidents and injuries. Learn CPR, wound care, burns treatment, and emergency response.">
+    <meta name="twitter:image" content="https://imedic.health/images/og-image-default.jpg">
+    <meta name="twitter:image:alt" content="iMedic - Evidence-Based Medical Information">
+    <meta name="twitter:site" content="@imedic_health">
+    <meta name="twitter:creator" content="@imedic_health">
+
+    <!-- Hreflang - Active Languages Only -->
+    <link rel="alternate" hreflang="en" href="https://imedic.health/en/first-aid/general/first-aid-guide">
+    <link rel="alternate" hreflang="x-default" href="https://imedic.health/en/first-aid/general/first-aid-guide">
+
+    <!-- Medical Schema with Accessibility Features -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://imedic.health/en/first-aid/general/first-aid-guide"
+  },
+  "name": "First Aid Guide: Emergency Treatment for Accidents & Injuries",
+  "headline": "First Aid Guide: Emergency Treatment for Accidents & Injuries",
+  "url": "https://imedic.health/en/first-aid/general/first-aid-guide",
+  "description": "Complete first aid guide for accidents and injuries. Learn CPR, wound care, burns treatment, choking response, and when to call emergency services.",
+  "datePublished": "2025-06-19T08:00:00+00:00",
+  "dateModified": "2026-05-16T21:03:35+00:00",
+  "lastReviewed": "2025-11-15T08:00:00+00:00",
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://imedic.health/#organization",
+    "name": "iMedic",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://imedic.health/logo.png",
+      "width": 512,
+      "height": 512,
+      "contentUrl": "https://imedic.health/logo.png",
+      "creditText": "iMedic",
+      "copyrightNotice": "Copyright 2026 iMedic",
+      "creator": {
+        "@type": "Organization",
+        "name": "iMedic"
+      }
+    }
+  },
+  "medicalAudience": [
+    "Patient",
+    "Caregiver",
+    "General Public"
+  ],
+  "specialty": {
+    "@type": "MedicalSpecialty",
+    "name": "Emergency Medicine"
+  },
+  "audience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  },
+  "isAccessibleForFree": true,
+  "isFamilyFriendly": true,
+  "accessibilityFeature": [
+    "alternativeText",
+    "longDescription",
+    "readingOrder",
+    "structuralNavigation",
+    "tableOfContents",
+    "taggedPDF",
+    "largePrint",
+    "highContrast",
+    "resizeText",
+    "displayTransformability",
+    "accessibilityAPI",
+    "ARIA",
+    "keyboardNavigation",
+    "skipNavigation",
+    "semanticStructure",
+    "focusVisible",
+    "timingControl"
+  ],
+  "accessibilityControl": [
+    "fullKeyboardControl",
+    "fullMouseControl",
+    "fullTouchControl",
+    "fullVideoControl"
+  ],
+  "accessibilityHazard": "none",
+  "accessibilityAPI": "ARIA",
+  "accessMode": [
+    "textual",
+    "visual"
+  ],
+  "accessModeSufficient": [
+    {
+      "@type": "ItemList",
+      "itemListElement": [
+        "textual"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "itemListElement": [
+        "textual",
+        "visual"
+      ]
+    }
+  ],
+  "accessibilitySummary": "This page complies with WCAG 2.2 Level AAA. Fully accessible for screen readers, keyboard navigation, and assistive technology. All images have alt text, focus indicators are visible (4px), color contrast exceeds 7:1, and content is semantically structured. Supports reduced motion and high contrast preferences.",
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "Emergency First Aid"
+  },
+  "author": {
+    "@type": "Organization",
+    "@id": "https://imedic.health/en/about/medical-team",
+    "name": "iMedic Medical Editorial Team",
+    "description": "Team of licensed specialist physicians in emergency medicine and trauma care with documented academic background and clinical experience",
+    "url": "https://imedic.health/medical-board",
+    "parentOrganization": {
+      "@type": "MedicalOrganization",
+      "name": "iMedic",
+      "url": "https://imedic.health"
+    },
+    "memberOf": [
+      {
+        "@type": "MedicalOrganization",
+        "name": "International Liaison Committee on Resuscitation",
+        "alternateName": "ILCOR"
+      }
+    ],
+    "hasCredential": [
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "Board Certified Medical Specialists",
+        "competencyRequired": "Emergency Medicine"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "Medical Research Experience",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Peer-reviewed medical journals"
+        }
+      }
+    ],
+    "knowsAbout": [
+      "Emergency Medicine",
+      "Trauma Care",
+      "Cardiopulmonary Resuscitation",
+      "Wound Management",
+      "Burns Treatment",
+      "Fracture Care"
+    ]
+  },
+  "reviewedBy": {
+    "@type": "Organization",
+    "name": "iMedic Medical Review Board",
+    "description": "Independent panel of medical experts who review all content according to international guidelines"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Emergency First Aid",
+    "alternateName": [
+      "First Aid",
+      "Emergency Treatment",
+      "Accident Response",
+      "Injury Care"
+    ],
+    "code": [
+      {
+        "@type": "MedicalCode",
+        "code": "T14",
+        "codingSystem": "ICD-10",
+        "codeValue": "T14 - Injury of unspecified body region"
+      },
+      {
+        "@type": "MedicalCode",
+        "code": "442901004",
+        "codingSystem": "SNOMED CT",
+        "codeValue": "First aid education"
+      },
+      {
+        "@type": "MedicalCode",
+        "code": "D005392",
+        "codingSystem": "MeSH",
+        "codeValue": "First Aid"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".summary",
+      ".key-facts",
+      ".quick-facts",
+      ".key-takeaways",
+      "h2"
+    ]
+  },
+  "significantLink": [
+    "https://imedic.health/en/legal/accessibility"
+  ]
+}
+</script>
+
+    <!-- FAQ Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the basic steps of first aid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The basic steps of first aid follow the DRSABCD approach: Danger (check for hazards), Response (check if the person responds), Send for help (call emergency services), Airway (open the airway), Breathing (check for breathing), CPR (start chest compressions if needed), and Defibrillation (use an AED if available). Always ensure your own safety first before helping others."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I call emergency services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Call emergency services immediately for: unconsciousness, severe breathing difficulties, chest pain or suspected heart attack, heavy uncontrolled bleeding, suspected stroke (face drooping, arm weakness, speech difficulties), severe allergic reactions (anaphylaxis), suspected spinal injuries, seizures lasting more than 5 minutes, severe burns, or poisoning. When in doubt, always call for help - it is better to be safe than sorry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I perform CPR on an adult?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For adult CPR: 1) Call emergency services first. 2) Place the person on their back on a firm surface. 3) Place the heel of one hand on the center of the chest, other hand on top. 4) Push hard and fast at a rate of 100-120 compressions per minute, at least 5cm deep. 5) If trained, give 2 rescue breaths after every 30 compressions. 6) Continue until emergency services arrive or the person starts breathing. Use an AED if available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I treat a burn injury?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For burns: 1) Remove the person from the heat source safely. 2) Cool the burn under cool (not cold) running water for at least 20 minutes. 3) Remove jewelry and clothing near the burn unless stuck to the skin. 4) Cover with a clean, non-fluffy dressing or cling film. 5) Do NOT apply ice, butter, toothpaste, or any creams. 6) Seek medical attention for burns larger than your palm, on the face/hands/feet/genitals, or if they appear deep (white or charred)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if someone is choking?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a choking adult: 1) Encourage them to cough if they can. 2) If they cannot cough, speak, or breathe: stand behind them, lean them forward. 3) Give up to 5 back blows between the shoulder blades. 4) If unsuccessful, give up to 5 abdominal thrusts (Heimlich maneuver): place your fist above the navel, grasp with other hand, and thrust inward and upward. 5) Alternate between back blows and abdominal thrusts. 6) If they become unconscious, start CPR and call emergency services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I stop severe bleeding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To stop severe bleeding: 1) Call emergency services. 2) Apply direct pressure using a clean cloth or bandage. 3) Keep constant pressure for at least 10-15 minutes without lifting to check. 4) If blood soaks through, add more material on top without removing the first layer. 5) If possible, elevate the injured limb above the heart. 6) For life-threatening bleeding, consider using a tourniquet above the wound if trained to do so. 7) Keep the person warm and calm until help arrives."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://imedic.health/en"},
+        {"@type": "ListItem", "position": 2, "name": "First Aid", "item": "https://imedic.health/en/first-aid"},
+        {"@type": "ListItem", "position": 3, "name": "General", "item": "https://imedic.health/en/first-aid/general"},
+        {"@type": "ListItem", "position": 4, "name": "First Aid Guide", "item": "https://imedic.health/en/first-aid/general/first-aid-guide"}
+      ]
+    }
+    </script>
+
+    <!-- Organization Schema - E-E-A-T Signals -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalOrganization",
+  "@id": "https://imedic.health/#organization",
+  "name": "iMedic",
+  "alternateName": "iMedic Health",
+  "url": "https://imedic.health/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://imedic.health/logo.png",
+    "contentUrl": "https://imedic.health/logo.png",
+    "creditText": "iMedic",
+    "copyrightNotice": "Copyright 2026 iMedic",
+    "creator": {
+      "@type": "Organization",
+      "name": "iMedic"
+    },
+    "width": 512,
+    "height": 512
+  },
+  "description": "Evidence-based medical information following WHO, EAACI, NICE, and AHA guidelines. Independent editorial review with no commercial funding.",
+  "knowsAbout": [
+    "Cardiovascular medicine",
+    "Endocrinology and diabetes",
+    "Pediatric medicine",
+    "Sexual and reproductive health",
+    "Mental health",
+    "Infectious diseases and vaccinations",
+    "Dermatology",
+    "Neurology",
+    "Oncology",
+    "Pharmacology and drug interactions",
+    "Preventive medicine",
+    "Travel medicine",
+    "Pregnancy and obstetrics",
+    "Allergy and immunology"
+  ],
+  "ethicsPolicy": "https://imedic.health/en/about/editorial-standards",
+  "correctionsPolicy": "https://imedic.health/en/about/contact",
+  "actionableFeedbackPolicy": "https://imedic.health/en/about/contact",
+  "publishingPrinciples": "https://imedic.health/en/about/editorial-standards",
+  "diversityStaffingReport": "https://imedic.health/en/about/medical-team",
+  "masthead": "https://imedic.health/en/about/medical-team",
+  "missionCoveragePrioritiesPolicy": "https://imedic.health/en/about/editorial-standards",
+  "verificationFactCheckingPolicy": "https://imedic.health/en/about/editorial-standards",
+  "noBylinesPolicy": "https://imedic.health/en/about/editorial-standards",
+  "fundingFromVCs": false,
+  "sameAs": [
+    "https://imedic.pages.dev/"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Editorial",
+    "url": "https://imedic.health/en/about/contact"
+  }
+}
+</script>
+
+    <!-- HowTo Schema - CPR -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": "How to Perform CPR on an Adult",
+      "description": "Step-by-step instructions for performing cardiopulmonary resuscitation (CPR) on an adult who is not breathing.",
+      "image": "https://imedic.health/images/cpr-instructions.jpg",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": "0"
+      },
+      "totalTime": "PT10M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Ensure safety",
+          "text": "Check the area for any dangers to yourself or the casualty before approaching.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Check for response",
+          "text": "Tap the person's shoulders and ask loudly: Are you okay? Look for any response.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Call for help",
+          "text": "If no response, call emergency services immediately or ask someone else to call while you start CPR.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Open the airway",
+          "text": "Place the person on their back. Tilt their head back by lifting the chin to open the airway.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Check for breathing",
+          "text": "Look, listen, and feel for normal breathing for no more than 10 seconds. Gasping is not normal breathing.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Start chest compressions",
+          "text": "Place the heel of your hand on the center of the chest. Put your other hand on top and interlock fingers. Push hard and fast: 100-120 compressions per minute, at least 5cm deep.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "name": "Give rescue breaths if trained",
+          "text": "After 30 compressions, give 2 rescue breaths if you are trained. Pinch the nose, lift the chin, seal your mouth over theirs, and blow for about 1 second until the chest rises.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "name": "Continue CPR",
+          "text": "Continue with cycles of 30 compressions and 2 breaths until emergency services arrive, an AED is available, or the person starts breathing normally.",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide#cpr"
+        }
+      ]
+    }
+    </script>
+
+    <!-- Medical Citation Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "citation": [
+        {
+          "@type": "MedicalGuideline",
+          "name": "ILCOR Consensus on Science with Treatment Recommendations",
+          "issuedBy": {
+            "@type": "MedicalOrganization",
+            "name": "International Liaison Committee on Resuscitation (ILCOR)"
+          },
+          "datePublished": "2020",
+          "url": "https://costr.ilcor.org/"
+        },
+        {
+          "@type": "MedicalGuideline",
+          "name": "AHA Guidelines for CPR and Emergency Cardiovascular Care",
+          "issuedBy": {
+            "@type": "MedicalOrganization",
+            "name": "American Heart Association (AHA)"
+          },
+          "datePublished": "2020",
+          "url": "https://cpr.heart.org/resuscitation-science/cpr-and-ecc-guidelines"
+        },
+        {
+          "@type": "MedicalGuideline",
+          "name": "European Resuscitation Council Guidelines 2021",
+          "issuedBy": {
+            "@type": "MedicalOrganization",
+            "name": "European Resuscitation Council (ERC)"
+          },
+          "datePublished": "2021",
+          "url": "https://www.erc.edu/guidelines-2021"
+        },
+        {
+          "@type": "MedicalGuideline",
+          "name": "WHO Emergency and Trauma Care Guidelines",
+          "issuedBy": {
+            "@type": "MedicalOrganization",
+            "name": "World Health Organization (WHO)"
+          },
+          "datePublished": "2023"
+        }
+      ]
+    }
+    </script>
+
+    <!-- ClaimReview Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ClaimReview",
+      "url": "https://imedic.health/en/first-aid/general/first-aid-guide",
+      "claimReviewed": "High-quality CPR with chest compressions at 100-120 per minute and at least 5cm depth doubles or triples survival rates in cardiac arrest",
+      "itemReviewed": {
+        "@type": "Claim",
+        "author": {
+          "@type": "Organization",
+          "name": "iMedic"
+        },
+        "datePublished": "2025-06-19",
+        "appearance": {
+          "@type": "WebPage",
+          "url": "https://imedic.health/en/first-aid/general/first-aid-guide"
+        }
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "iMedic Medical Review Board",
+        "url": "https://imedic.health"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5,
+        "ratingExplanation": "Supported by ILCOR systematic reviews and AHA/ERC Guidelines 2020-2021. Level 1A evidence."
+      },
+      "datePublished": "2025-11-15"
+    }
+    </script>
+
+    <!-- HealthTopicContent Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "HealthTopicContent",
+      "name": "First Aid Guide",
+      "hasHealthAspect": [
+        "TreatmentsHealthAspect",
+        "PreventionHealthAspect",
+        "RisksOrComplicationsHealthAspect",
+        "PatientExperienceHealthAspect",
+        "SelfCareHealthAspect"
+      ],
+      "about": {
+        "@type": "MedicalCondition",
+        "name": "Emergency First Aid"
+      }
+    }
+    </script>
+
+    
+    <!-- MODERN-CSS -->
+    <link rel="stylesheet" href="/imedic-modern.css?v=20260606-faq-card-padding">
+    <link rel="preload" href="/imedic-modern.css?v=20260606-faq-card-padding" as="style">
+<!-- CRITICAL-CSS-INLINE -->
+    <style>
+:root{--imd-text:#000;--imd-bg:#fff;--imd-text-soft:#1d1d1f;--imd-text-muted:#6e6e73;--imd-line:#d2d2d7;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Segoe UI",Roboto,system-ui,sans-serif;font-size:19px;line-height:1.47;color:#1d1d1f;background:#fff;-webkit-font-smoothing:antialiased;}
+header{background:rgba(255,255,255,0.85);backdrop-filter:blur(20px);border-bottom:1px solid rgba(0,0,0,0.05);position:sticky;top:0;z-index:1000;}
+header>nav,header>div{max-width:1200px;margin:0 auto;padding:18px 32px;display:flex;align-items:center;justify-content:space-between;}
+header a,.logo{color:#000;font-weight:600;font-size:1.4rem;letter-spacing:-0.022em;text-decoration:none;}
+.nav-links{display:flex;list-style:none;gap:0;align-items:center;}
+.nav-links a{color:#1d1d1f;font-weight:400;font-size:0.92rem;padding:8px 18px;text-decoration:none;}
+main{max-width:1200px;margin:64px auto;padding:0 32px;}
+h1{font-size:clamp(2.5rem,5.5vw,4rem);letter-spacing:-0.04em;font-weight:700;line-height:1.07;color:#000;}
+a{color:#0071e3;text-decoration:none;}
+.skip-link{position:absolute;left:-9999px;}
+.skip-link:focus{left:1rem;top:1rem;background:#000;color:#fff;padding:12px 20px;border-radius:6px;z-index:10000;}
+@media(max-width:768px){body{font-size:17px;}main{margin:32px auto;padding:0 20px;}}
+    </style>
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <!-- ARIA Live Region for Dynamic Content Announcements -->
+    <div aria-live="polite" aria-atomic="true" class="sr-only" style="position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden;"></div>
+
+    <!-- Header -->
+    <header role="banner">
+        <nav role="navigation" aria-label="Main navigation">
+            <a href="/" class="logo" aria-label="iMedic.health homepage">iMedic<span>.health</span></a>
+
+            <button class="mobile-menu-btn" aria-label="Menu" aria-expanded="false">
+                <span aria-hidden="true">&#9776;</span>
+            </button>
+
+            <ul class="nav-links">
+                <li><a href="/en/diseases/">Diseases</a></li>
+                <li><a href="/en/treatment/">Treatment</a></li>
+                <li><a href="/en/health/">Health</a></li>
+                <li><a href="/en/children/">Children</a></li>
+                <li><a href="/en/tools/">Tools</a></li>
+                <li><a href="/en/medicines/">Medicines</a></li>
+                <li>
+                    <form class="search-box" action="/en/search" method="get" role="search">
+                        <input type="search" name="q" placeholder="Search..." aria-label="Search medical topics">
+                    </form>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="content-wrapper">
+        <!-- MAIN CONTENT -->
+        <main id="main-content" role="main">
+            <nav aria-label="Breadcrumb" class="breadcrumb">
+                <ol>
+                    <li><a href="/">Home</a> <span aria-hidden="true">›</span></li>
+                    <li><a href="/en/first-aid/">First Aid</a> <span aria-hidden="true">›</span></li>
+                    <li><a href="/en/first-aid/general/">General</a> <span aria-hidden="true">›</span></li>
+                    <li aria-current="page">First Aid Guide</li>
+                </ol>
+            </nav>
+
+            <article role="article" data-pagefind-body>
+                <h1>First Aid Guide: Emergency Treatment for Accidents & Injuries</h1>
+
+                <!-- Medical Review Badge -->
+                <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.5rem 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 50px; font-size: 0.85rem; font-weight: 600; margin-bottom: 1rem;">
+                    <span role="img" aria-label="Medically reviewed">✓</span>
+                    <span>Medically reviewed</span>
+                    <span style="color: white;">|</span>
+                    <span>Last reviewed: <time datetime="2025-11-15">November 15, 2025</time></span>
+                    <span style="color: white;">|</span>
+                    <span>Evidence level: 1A</span>
+                </div>
+
+                <div class="summary">
+                    First aid is the immediate care given to someone who is injured or suddenly becomes ill before professional medical help arrives. Knowing basic first aid skills can mean the difference between life and death in emergencies such as cardiac arrest, severe bleeding, choking, or burns. This comprehensive guide covers essential first aid techniques based on the latest international guidelines from ILCOR, AHA, and ERC.
+                </div>
+
+                <div class="meta-info">
+                    <div class="meta-item">
+                        <span role="img" aria-label="Calendar">📅</span>
+                        <span>Updated: <time datetime="2025-11-15">November 15, 2025</time></span>
+                    </div>
+                    <div class="meta-item">
+                        <span role="img" aria-label="Clock">⏱️</span>
+                        <span>Reading time: 15 minutes</span>
+                    </div>
+                    <div class="meta-item">
+                        <span role="img" aria-label="Verified">✓</span>
+                        <span>Written and reviewed by iMedic Medical Editorial Team | Specialists in Emergency Medicine</span>
+                    </div>
+                </div>
+
+                <!-- AI-OPTIMIZED: QUICK FACTS -->
+                <div class="quick-facts">
+                    <h2>Quick Facts About First Aid</h2>
+                    <div class="quick-facts-grid">
+                        <div class="fact-item">
+                            <div class="fact-label">CPR Rate</div>
+                            <div class="fact-value" data-ai-fact="true">100-120/min</div>
+                            <div class="fact-label">chest compressions</div>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-label">CPR Depth</div>
+                            <div class="fact-value" data-ai-fact="true">5-6 cm</div>
+                            <div class="fact-label">for adults</div>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-label">Burn Cooling</div>
+                            <div class="fact-value" data-ai-fact="true">20 minutes</div>
+                            <div class="fact-label">under cool water</div>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-label">Survival Rate</div>
+                            <div class="fact-value" data-ai-fact="true">2-3x higher</div>
+                            <div class="fact-label">with bystander CPR</div>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-label">Golden Hour</div>
+                            <div class="fact-value" data-ai-fact="true">60 minutes</div>
+                            <div class="fact-label">critical trauma window</div>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-label">ICD-10 Code</div>
+                            <div class="fact-value" data-ai-fact="true">T14</div>
+                            <div class="fact-label">Injury unspecified</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AI-OPTIMIZED: KEY TAKEAWAYS -->
+                <div class="key-takeaways">
+                    <h3>Key First Aid Principles You Must Know</h3>
+                    <ul>
+                        <li><strong>Safety first:</strong> Always ensure your own safety before approaching a casualty - you cannot help if you become a victim yourself</li>
+                        <li><strong>Call for help early:</strong> In serious emergencies, call your local emergency number immediately - early professional care saves lives</li>
+                        <li><strong>CPR saves lives:</strong> High-quality chest compressions at 100-120 per minute can double or triple survival rates in cardiac arrest</li>
+                        <li><strong>Stop severe bleeding:</strong> Apply direct, firm pressure and do not remove the dressing - add more layers if blood soaks through</li>
+                        <li><strong>Cool burns properly:</strong> Run cool (not cold) water over burns for at least 20 minutes - never use ice, butter, or toothpaste</li>
+                        <li><strong>Recovery position:</strong> Place unconscious but breathing people in the recovery position to keep their airway clear</li>
+                        <li><strong>Stay calm:</strong> Your calm demeanor reassures the casualty and helps you think clearly to provide effective care</li>
+                    </ul>
+                </div>
+
+                <h2 id="what-is-first-aid">What Is First Aid and Why Does It Matter?</h2>
+                <p class="quick-answer"><strong>First aid is the immediate assistance given to any person suffering from illness or injury, with the goal of preserving life, preventing the condition from worsening, and promoting recovery. Studies show that bystander first aid, particularly <a href="/en/first-aid/emergency-advice/cpr-cardiopulmonary-resuscitation">CPR</a>, can double or triple survival rates in cardiac emergencies.</strong></p>
+
+                <p>First aid encompasses a wide range of skills and knowledge that enables ordinary people to provide critical care in emergency situations. The term originates from military medicine, where soldiers were trained to give immediate care to wounded comrades before medical personnel could arrive. Today, first aid training is widely available and recommended for everyone, regardless of profession or background.</p>
+
+                <p>The importance of first aid cannot be overstated. In many emergency situations, the first few minutes are critical. For someone in cardiac arrest, brain damage begins within 4-6 minutes without oxygen. For severe <a href="/en/first-aid/wounds-bruises/bleeding-types-treatment">bleeding</a>, a person can lose a life-threatening amount of <a href="/en/health/how-body-works/how-blood-works">blood</a> within minutes. For <a href="/en/first-aid/emergency-advice/choking-first-aid">choking</a>, complete airway obstruction can be fatal within just a few minutes. In all these scenarios, immediate first aid intervention by a bystander can be the difference between life and death.</p>
+
+                <p>Research from the International Liaison Committee on Resuscitation (ILCOR) consistently shows that communities with higher rates of first aid training have better outcomes in medical emergencies. This is because trained bystanders can provide crucial care during the critical minutes before emergency services arrive. The chain of survival concept illustrates this perfectly: early recognition, early <a href="/en/first-aid/emergency-advice/cpr-cardiopulmonary-resuscitation">CPR</a>, early defibrillation, and early advanced care all contribute to survival, but the first two links depend entirely on bystanders.</p>
+
+                <h3>The Goals of First Aid</h3>
+                <p>First aid has three primary objectives that guide all emergency care decisions. Understanding these goals helps first aiders prioritize their actions and make appropriate decisions in stressful situations.</p>
+
+                <ul>
+                    <li><strong>Preserve life:</strong> The most important goal is to keep the person alive. This includes maintaining breathing and circulation, controlling life-threatening bleeding, and preventing shock.</li>
+                    <li><strong>Prevent deterioration:</strong> Take steps to prevent the injury or illness from getting worse. This includes protecting wounds from infection, immobilizing fractures, and keeping the person still if spinal injury is suspected.</li>
+                    <li><strong>Promote recovery:</strong> Provide comfort and reassurance to the casualty, which can aid in recovery. This includes positioning them appropriately, keeping them warm, and providing emotional support.</li>
+                </ul>
+
+                <h2 id="emergency-assessment">How Do You Assess an Emergency Situation?</h2>
+                <p class="quick-answer"><strong>Use the DRSABCD approach: Danger (check for hazards), Response (check if conscious), Send for help (call emergency services), Airway (open and clear), Breathing (look, listen, feel), CPR (start if not breathing), and Defibrillation (use AED if available).</strong></p>
+
+                <p>Proper assessment of an emergency situation is fundamental to providing effective first aid. The DRSABCD approach provides a systematic method that ensures you address the most critical issues first while maintaining your own safety. This approach is taught by major first aid organizations worldwide and forms the basis of emergency response protocols.</p>
+
+                <p>When you encounter an emergency, your natural instinct may be to rush in and help immediately. However, taking a few seconds to assess the situation properly can prevent you from becoming a victim yourself and ensures you provide the most appropriate care. The structured approach also helps manage the <a href="/en/health/stress-sleep/stress-symptoms-causes-relief">stress</a> and adrenaline that naturally occur in emergency situations.</p>
+
+                <p>Emergency assessment is not a one-time process but should be repeated continuously throughout your care of the casualty. Conditions can change rapidly, and what starts as a minor emergency can quickly become life-threatening. Regular reassessment ensures you catch any deterioration early and adjust your care accordingly.</p>
+
+                <h3>Danger Assessment</h3>
+                <p>Before approaching any casualty, you must assess the scene for potential dangers. Look for hazards such as traffic, fire, electrical wires, toxic substances, unstable structures, or aggressive individuals. If the scene is unsafe, do not enter - wait for professional help or try to make the scene safe from a distance if possible. Never put yourself at risk; a dead or injured rescuer cannot help anyone and creates an additional casualty for emergency services to manage.</p>
+
+                <h3>Response Check</h3>
+                <p>Once the scene is safe, check if the casualty responds. Approach them and speak loudly: "Hello, can you hear me? Are you okay?" Gently tap their shoulders while speaking. If they respond, ask them what happened and where it hurts. If they do not respond, proceed to check their airway and breathing. A person who does not respond to voice or touch is unconscious and requires immediate attention.</p>
+
+                <h3>Sending for Help</h3>
+                <p>In any serious emergency, calling for professional help early is crucial. If you are alone with an unconscious adult, call emergency services immediately before starting CPR. If someone else is present, have them call while you begin care. When calling, clearly state your location, describe what happened, and follow any instructions given by the dispatcher. Stay on the line - the dispatcher can provide valuable guidance while help is on the way.</p>
+
+                <div class="danger-box">
+                    <strong>When to Call Emergency Services Immediately:</strong>
+                    <ul>
+                        <li>Unconsciousness or unresponsiveness</li>
+                        <li>Severe breathing difficulties or choking</li>
+                        <li>Chest pain or suspected heart attack</li>
+                        <li>Signs of stroke (face drooping, arm weakness, speech difficulties)</li>
+                        <li>Severe bleeding that cannot be controlled</li>
+                        <li>Suspected spinal injury</li>
+                        <li>Severe allergic reaction (anaphylaxis)</li>
+                        <li>Seizures lasting more than 5 minutes</li>
+                        <li>Severe burns</li>
+                        <li>Poisoning or drug overdose</li>
+                    </ul>
+                </div>
+
+                <h2 id="cpr">How Do You Perform CPR?</h2>
+                <p class="quick-answer"><strong>For adult CPR: Place hands on center of chest, push hard and fast at 100-120 compressions per minute to a depth of 5-6 cm, allow full chest recoil, and if trained give 2 rescue breaths after every 30 compressions. Continue until emergency services arrive or the person starts breathing.</strong></p>
+
+                <p>Cardiopulmonary resuscitation (CPR) is perhaps the most important first aid skill you can learn. When the heart stops beating, <a href="/en/health/how-body-works/how-blood-works">blood</a> stops flowing to vital organs including the brain. CPR manually maintains circulation and oxygen delivery until the heart can be restarted, typically with a defibrillator. High-quality CPR can double or triple survival rates in cardiac arrest, making bystander CPR one of the most impactful interventions in emergency medicine.</p>
+
+                <p>The science of CPR has evolved significantly over the decades. Current guidelines from ILCOR, AHA, and ERC emphasize the importance of high-quality chest compressions. Research has shown that the depth, rate, and quality of compressions are critical factors in survival. Interruptions to compressions should be minimized, as even brief pauses significantly reduce the effectiveness of CPR.</p>
+
+                <p>Modern CPR guidelines also recognize that many bystanders are hesitant to perform mouth-to-mouth rescue breaths. Studies have shown that compression-only CPR (without rescue breaths) is nearly as effective as conventional CPR for adult cardiac arrest victims in the first few minutes. This has led to guidelines recommending that untrained bystanders perform continuous chest compressions until help arrives, removing a significant barrier to bystander intervention.</p>
+
+                <h3>Adult CPR Step-by-Step</h3>
+                <ol class="step-list">
+                    <li><strong>Ensure safety:</strong> Check that the area is safe for you and the casualty.</li>
+                    <li><strong>Check for response:</strong> Tap their shoulders and ask loudly "Are you okay?"</li>
+                    <li><strong>Call for help:</strong> If no response, call emergency services immediately or ask someone else to call.</li>
+                    <li><strong>Open the airway:</strong> Place the person on their back on a firm surface. Tilt their head back by lifting the chin with two fingers - this opens the airway.</li>
+                    <li><strong>Check for breathing:</strong> Look at the chest for movement, listen for breath sounds, and feel for breath on your cheek. Do this for no more than 10 seconds. Occasional gasps are not normal breathing.</li>
+                    <li><strong>Start chest compressions:</strong> Place the heel of one hand on the center of the chest (on the breastbone). Place your other hand on top, interlocking your fingers. Keep your arms straight and shoulders directly over your hands. Push hard and fast - at least 5cm deep at a rate of 100-120 compressions per minute. Allow the chest to fully recoil between compressions.</li>
+                    <li><strong>Give rescue breaths (if trained):</strong> After 30 compressions, pinch the nose shut, lift the chin, seal your mouth over theirs, and blow steadily for about 1 second until the chest rises. Give 2 breaths, then immediately return to compressions.</li>
+                    <li><strong>Continue CPR:</strong> Continue cycles of 30 compressions and 2 breaths (or continuous compressions if untrained) until emergency services arrive, an AED becomes available, or the person starts breathing normally.</li>
+                </ol>
+
+                <h3>Using an AED (Automated External Defibrillator)</h3>
+                <p>An AED is a portable device that can analyze heart rhythms and deliver an <a href="/en/first-aid/emergency-advice/electric-shock-body">electric shock</a> to restart the heart in certain types of cardiac arrest. AEDs are designed to be used by anyone, even without training. They provide voice prompts that guide you through the process. If an AED is available, use it as soon as possible - early defibrillation dramatically improves survival rates.</p>
+
+                <p>To use an AED: Turn it on and follow the voice prompts. Expose the person's chest and attach the electrode pads as shown on the pads themselves. Ensure no one is touching the person while the AED analyzes the heart rhythm. If a <a href="/en/first-aid/emergency-advice/shock-symptoms-treatment">shock</a> is advised, make sure everyone stands clear and press the shock button. Immediately resume CPR after the shock. The AED will prompt you to stop CPR periodically to reanalyze the rhythm.</p>
+
+                <div class="info-box">
+                    <strong>CPR Tips for Success:</strong>
+                    <p>Push hard - do not be afraid of hurting the person, as broken ribs are far better than death. Push fast - the rhythm of the song "Stayin' Alive" by the Bee Gees (100 beats per minute) is often used as a guide. Minimize interruptions - keep pauses to less than 10 seconds. Let the chest fully recoil between compressions. If tired, switch with another rescuer every 2 minutes if possible.</p>
+                </div>
+
+                <h2 id="choking">What Should You Do If Someone Is Choking?</h2>
+                <p class="quick-answer"><strong>For a choking adult: Encourage coughing if they can. If they cannot <a href="/en/diseases/respiratory/cough-causes-treatment">cough</a>, speak, or breathe, give up to 5 back blows between the shoulder blades, then up to 5 abdominal thrusts (Heimlich maneuver). Alternate between back blows and abdominal thrusts until the object is dislodged or the person becomes unconscious.</strong></p>
+
+                <p>Choking occurs when an object, usually food, blocks the airway and prevents air from reaching the lungs. A person with a completely blocked airway cannot breathe, speak, or <a href="/en/diseases/respiratory/cough-causes-treatment">cough</a> effectively. Without intervention, they will lose consciousness within minutes and can die from lack of oxygen. Quick recognition and appropriate action are essential.</p>
+
+                <p>The severity of choking can range from mild to severe. In mild choking, the person can still <a href="/en/diseases/respiratory/cough-causes-treatment">cough</a>, speak, and breathe, indicating the airway is only partially blocked. In this case, encourage them to continue coughing to try to clear the obstruction themselves. Do not perform back blows or abdominal thrusts on someone who can cough effectively, as this could worsen the situation by moving the object into a more dangerous position.</p>
+
+                <p>Severe choking is a medical emergency requiring immediate action. Signs include inability to speak, <a href="/en/diseases/respiratory/cough-causes-treatment">cough</a>, or breathe; clutching the throat (the universal choking sign); a weak or silent cough; blue discoloration of the lips and face; and eventual loss of consciousness. In severe choking, the combination of back blows and abdominal thrusts is the most effective intervention.</p>
+
+                <h3>Choking First Aid for Adults</h3>
+                <ol class="step-list">
+                    <li><strong>Assess the severity:</strong> Ask "Are you choking?" If they can speak or cough strongly, encourage coughing. If they cannot speak, cough, or breathe, proceed to the next steps.</li>
+                    <li><strong>Give back blows:</strong> Stand to the side and slightly behind the person. Support their chest with one hand and lean them forward. Give up to 5 sharp blows between the shoulder blades with the heel of your other hand.</li>
+                    <li><strong>Give abdominal thrusts:</strong> Stand behind the person and wrap your arms around their waist. Place your fist (thumb side in) just above the navel. Grasp your fist with your other hand and thrust sharply inward and upward. Give up to 5 thrusts.</li>
+                    <li><strong>Alternate:</strong> Continue alternating between 5 back blows and 5 abdominal thrusts until the object is dislodged, the person can breathe or cough, or they become unconscious.</li>
+                    <li><strong>If unconscious:</strong> Lower the person to the ground, call emergency services if not already done, and begin CPR. Before each set of rescue breaths, look in the mouth and remove any visible obstruction.</li>
+                </ol>
+
+                <div class="warning-box">
+                    <strong>Special Considerations for Choking:</strong>
+                    <p>For pregnant women or obese individuals, perform chest thrusts instead of abdominal thrusts - place your fist on the middle of the breastbone and thrust inward. For infants under 1 year, use modified techniques: support the infant face-down along your forearm, give 5 back blows, then turn face-up and give 5 chest thrusts using two fingers on the breastbone. Never perform abdominal thrusts on infants.</p>
+                </div>
+
+                <h2 id="bleeding">How Do You Stop Severe Bleeding?</h2>
+                <p class="quick-answer"><strong>Apply direct, firm pressure to the wound using a clean cloth or bandage. Maintain continuous pressure for at least 10-15 minutes without lifting to check. If <a href="/en/health/how-body-works/how-blood-works">blood</a> soaks through, add more material on top without removing the first layer. Elevate the injured limb if possible and call emergency services for severe <a href="/en/first-aid/wounds-bruises/bleeding-types-treatment">bleeding</a>.</strong></p>
+
+                <p>Severe <a href="/en/first-aid/wounds-bruises/bleeding-types-treatment">bleeding</a> is one of the leading causes of preventable death in trauma situations. The human body contains approximately 5 liters of <a href="/en/health/how-body-works/how-blood-works">blood</a>, and losing more than 40% of blood volume (about 2 liters) is typically fatal without immediate transfusion. However, significant blood loss causing <a href="/en/first-aid/emergency-advice/shock-symptoms-treatment">shock</a> can occur with much smaller amounts, particularly in children and smaller adults. Quick action to control bleeding can save lives.</p>
+
+                <p>The body has natural mechanisms to stop <a href="/en/first-aid/wounds-bruises/bleeding-types-treatment">bleeding</a>, including blood vessel constriction and clot formation. However, these mechanisms take time and may be overwhelmed by severe injuries or impaired by certain <a href="/en/treatment/what-are-medications">medications</a> (such as <a href="/en/treatment/blood-thinners-anticoagulants-guide">blood thinners</a>) or medical conditions. External pressure assists and accelerates the body's natural clotting process by physically holding blood in place while clots form.</p>
+
+                <p>Understanding different types of bleeding helps guide treatment. Capillary bleeding (from small vessels in superficial wounds) oozes slowly and usually stops on its own. Venous bleeding (from veins) flows steadily and is dark red. Arterial bleeding (from arteries) is bright red and spurts with each heartbeat - this is the most dangerous and requires immediate, aggressive treatment.</p>
+
+                <h3>Controlling Severe Bleeding</h3>
+                <ol class="step-list">
+                    <li><strong>Call for help:</strong> Call emergency services immediately for severe bleeding.</li>
+                    <li><strong>Protect yourself:</strong> If possible, wear gloves or use a plastic bag to protect yourself from blood-borne infections.</li>
+                    <li><strong>Apply direct pressure:</strong> Using a clean cloth, bandage, or even clothing if nothing else is available, apply firm, direct pressure to the wound. Press hard - do not be afraid of causing pain.</li>
+                    <li><strong>Maintain pressure:</strong> Keep pressure constant for at least 10-15 minutes. Do not lift the dressing to check if bleeding has stopped, as this can disturb clot formation.</li>
+                    <li><strong>Add more dressings:</strong> If blood soaks through, add more material on top without removing the first layer. Removing saturated dressings can disrupt clots and restart bleeding.</li>
+                    <li><strong>Elevate if possible:</strong> If the wound is on a limb and there is no suspected fracture, elevate the limb above heart level to reduce blood flow to the area.</li>
+                    <li><strong>Consider a tourniquet:</strong> For life-threatening limb bleeding that cannot be controlled with direct pressure, a tourniquet applied above the wound may be necessary. Note the time it was applied.</li>
+                </ol>
+
+                <div class="info-box">
+                    <strong>About Tourniquets:</strong>
+                    <p>Modern evidence supports tourniquet use for life-threatening limb bleeding when direct pressure fails. Apply 5-8 cm above the wound (never over a joint), tighten until bleeding stops, and note the application time. Commercial tourniquets are most effective, but improvised tourniquets can be used in emergencies. Once applied, do not remove it - let medical professionals make that decision.</p>
+                </div>
+
+                <h2 id="burns">How Should You Treat Burns?</h2>
+                <p class="quick-answer"><strong>Cool the burn under cool (not cold) running water for at least 20 minutes. Remove jewelry and loose clothing near the burn unless stuck to skin. Cover with a clean, non-fluffy dressing or cling film. Do not apply ice, butter, toothpaste, or any creams. Seek medical attention for serious burns.</strong></p>
+
+                <p>Burns are one of the most common injuries, occurring in homes, workplaces, and recreational settings. They can result from heat (thermal burns), chemicals (chemical burns), electricity (electrical burns), radiation (including <a href="/en/first-aid/burns-frostbite/sunburn-treatment-symptoms">sunburn</a>), or friction. The severity of a burn depends on its depth, size, location, and the age and health of the person affected.</p>
+
+                <p>Proper first aid for burns can significantly reduce pain, prevent infection, and improve healing outcomes. The key intervention is cooling the burn, which reduces tissue damage that continues even after the heat source is removed. Research has shown that cooling for at least 20 minutes provides the best outcomes, although cooling can be beneficial even if started up to 3 hours after the injury.</p>
+
+                <p>Burns are classified by depth: superficial (first-degree) burns affect only the outer skin layer and cause redness and pain; partial-thickness (second-degree) burns extend into deeper skin layers and cause blistering; full-thickness (third-degree) burns destroy all skin layers and may appear white, brown, or black and be painless due to nerve damage. Full-thickness burns always require professional medical treatment and often need skin grafting.</p>
+
+                <h3>First Aid for Burns</h3>
+                <ol class="step-list">
+                    <li><strong>Stop the burning process:</strong> Remove the person from the heat source. If clothing is on fire, stop, drop, and roll. If chemicals are involved, brush off dry chemicals before flushing with water.</li>
+                    <li><strong>Cool the burn:</strong> Hold the burned area under cool (not cold) running water for at least 20 minutes. Do not use ice, iced water, or any creams or greasy substances.</li>
+                    <li><strong>Remove constricting items:</strong> Gently remove jewelry, watches, belts, or tight clothing near the burn before swelling occurs. Do not remove anything stuck to the burn.</li>
+                    <li><strong>Cover the burn:</strong> After cooling, cover with a sterile, non-fluffy dressing, or use cling film laid flat over the burn (not wrapped around). This protects against infection and reduces pain from air exposure.</li>
+                    <li><strong>Manage pain:</strong> Over-the-counter pain relievers can help. Keep the person warm with blankets over unburned areas, as large burns can cause hypothermia.</li>
+                    <li><strong>Seek medical attention:</strong> Professional care is needed for burns larger than the person's palm, burns on the face, hands, feet, genitals, or major joints, full-thickness burns, electrical or chemical burns, and burns in young children or elderly people.</li>
+                </ol>
+
+                <div class="danger-box">
+                    <strong>What NOT to Do for Burns:</strong>
+                    <ul>
+                        <li>Do not apply ice or iced water - this can cause frostbite and further damage</li>
+                        <li>Do not apply butter, oil, toothpaste, or any home remedies</li>
+                        <li>Do not burst blisters - they protect against infection</li>
+                        <li>Do not remove clothing stuck to the burn</li>
+                        <li>Do not use fluffy materials like cotton wool that can stick to the wound</li>
+                        <li>Do not wrap cling film tightly around a limb</li>
+                    </ul>
+                </div>
+
+                <h2 id="fractures">How Do You Handle Suspected Fractures?</h2>
+                <p class="quick-answer"><strong>Do not move the injured limb unless necessary for safety. Immobilize the injury in the position found by supporting it with padding. Apply ice wrapped in cloth to reduce swelling. For open fractures with bone visible, cover the wound without pushing the bone back. Call emergency services for serious fractures.</strong></p>
+
+                <p>A fracture is a break or crack in a bone. Fractures can range from hairline cracks that cause only mild discomfort to complete breaks with displacement that are obviously deformed and extremely painful. Falls, impacts, and twisting injuries are common causes. Recognizing and properly managing fractures can prevent complications such as damage to blood vessels and nerves, excessive blood loss, and long-term disability.</p>
+
+                <p>Signs of a fracture may include pain that worsens with movement, swelling and bruising, deformity or unnatural angle, inability to move the affected part, grating sensation (crepitus) when the area is touched, and tenderness at the injury site. However, some fractures, particularly <a href="/en/health/stress-sleep/stress-symptoms-causes-relief">stress</a> fractures, may have minimal visible signs. When in doubt, treat the injury as a fracture.</p>
+
+                <p>The general principle of fracture first aid is "splint it where it lies" - do not attempt to straighten or reposition a broken bone unless circulation to the limb is compromised (indicated by pale, blue, or cold skin beyond the injury). Moving a broken bone can cause further damage to surrounding tissues, blood vessels, and nerves.</p>
+
+                <h3>Immobilizing Fractures</h3>
+                <p>The goal of immobilization is to prevent movement of the broken bone ends, reducing pain and preventing further injury. Support the injured limb above and below the suspected fracture site. Use padding such as rolled blankets, clothing, or pillows to support the limb in its current position. If splinting materials are available, apply them alongside the limb and secure with bandages, but not so tightly that circulation is affected.</p>
+
+                <p>For arm injuries, a sling can help support the arm against the body. For leg injuries, the uninjured leg can serve as a natural splint if you bandage the two legs together with padding between them. Always check circulation (pulse, color, temperature, sensation) beyond the injury before and after immobilization.</p>
+
+                <h3>Open Fractures</h3>
+                <p>An open (compound) fracture is one where the bone has broken through the skin, creating a wound. These injuries carry a high risk of infection and require emergency medical treatment. Cover the wound with a clean, moist dressing but do not attempt to push the bone back under the skin or clean the wound. Control any bleeding with pressure around (not directly on) the wound. Keep the person still and warm, and call emergency services immediately.</p>
+
+                <h2 id="shock">What Are the Signs of Shock and How Do You Treat It?</h2>
+                <p class="quick-answer"><strong><a href="/en/first-aid/emergency-advice/shock-symptoms-treatment">Shock</a> occurs when vital organs do not receive enough oxygen. Signs include pale, cold, clammy skin; rapid, weak pulse; rapid, shallow breathing; confusion; and thirst. Treat by laying the person down, elevating legs if no injuries prevent this, keeping them warm, and calling emergency services immediately.</strong></p>
+
+                <p><a href="/en/first-aid/emergency-advice/shock-symptoms-treatment">Shock</a> is a life-threatening condition that occurs when the circulatory system fails to deliver adequate oxygen and nutrients to vital organs. It is not the same as emotional shock after a frightening experience. Medical shock can result from severe bleeding, heart problems, severe infection, severe allergic reactions, spinal injuries, or severe burns. Without treatment, shock progresses through stages and can quickly become fatal.</p>
+
+                <p>The body initially compensates for shock by increasing heart rate and constricting blood vessels to maintain <a href="/en/diseases/cardiovascular/blood-pressure-guide">blood pressure</a> and preserve flow to vital organs. Early signs may be subtle - <a href="/en/diseases/mental-health/anxiety-symptoms-treatment">anxiety</a>, restlessness, and slightly increased pulse and breathing. As shock progresses, the person becomes pale, cold, and sweaty; the pulse becomes rapid and weak; breathing becomes rapid and shallow; and consciousness may become impaired.</p>
+
+                <p>First aid for shock focuses on treating the underlying cause if possible, improving blood flow to vital organs, and preventing heat loss while waiting for emergency services. Even if you cannot treat the cause, supportive care can slow the progression of shock and improve survival chances.</p>
+
+                <h3>First Aid for Shock</h3>
+                <ol class="step-list">
+                    <li><strong>Call emergency services:</strong> Shock is a medical emergency requiring immediate professional treatment.</li>
+                    <li><strong>Treat the cause:</strong> If possible, control any obvious bleeding or treat other conditions causing the shock.</li>
+                    <li><strong>Position the person:</strong> Lay them down on their back. If there are no leg injuries, raise the legs 20-30 cm to help blood return to the heart and vital organs.</li>
+                    <li><strong>Keep them warm:</strong> Cover with blankets or coats to prevent heat loss, which worsens shock. Place insulation beneath them as well as on top.</li>
+                    <li><strong>Do not give food or drink:</strong> The person may need surgery, and a full stomach increases risks. Wet their lips if they complain of thirst.</li>
+                    <li><strong>Monitor constantly:</strong> Keep checking their responsiveness, breathing, and pulse. Be prepared to start CPR if they stop breathing.</li>
+                    <li><strong>Reassure:</strong> Stay calm and provide comfort. Fear and anxiety can worsen shock by increasing stress hormones.</li>
+                </ol>
+
+                <h2 id="recovery-position">When Should You Use the Recovery Position?</h2>
+                <p class="quick-answer"><strong>Place an unconscious but breathing person in the <a href="/en/first-aid/emergency-advice/recovery-position">recovery position</a> to keep their airway open and prevent choking on vomit or fluids. Roll them onto their side, tilt their head back to open the airway, and position their arm and leg to keep them stable.</strong></p>
+
+                <p>The <a href="/en/first-aid/emergency-advice/recovery-position">recovery position</a>, also known as the lateral recumbent position, is used for unconscious casualties who are breathing normally and have no suspected spinal injury. This position keeps the airway clear by allowing fluids to drain from the mouth rather than pooling in the throat where they could cause choking. It also positions the tongue so it cannot fall back and block the airway.</p>
+
+                <p>An unconscious person who is left lying on their back is at significant risk of airway obstruction. The relaxed tongue can fall backward, and vomit or blood can accumulate in the throat. The <a href="/en/first-aid/emergency-advice/recovery-position">recovery position</a> mitigates these risks while still allowing you to monitor the person's breathing and quickly turn them onto their back if CPR becomes necessary.</p>
+
+                <h3>How to Place Someone in the Recovery Position</h3>
+                <ol class="step-list">
+                    <li><strong>Kneel beside the person:</strong> Position yourself at the side of the person who is lying on their back.</li>
+                    <li><strong>Position the near arm:</strong> Place the arm nearest to you at a right angle to their body, with the elbow bent and palm facing up.</li>
+                    <li><strong>Position the far arm:</strong> Bring their other arm across their chest and hold the back of their hand against their cheek nearest to you.</li>
+                    <li><strong>Position the far leg:</strong> With your other hand, grasp the far leg just above the knee and pull it up, keeping the foot flat on the ground.</li>
+                    <li><strong>Roll them toward you:</strong> Keeping their hand pressed against their cheek, pull on the far leg to roll them toward you onto their side.</li>
+                    <li><strong>Adjust the position:</strong> Adjust the upper leg so the hip and knee are at right angles for stability. Tilt the head back to ensure the airway remains open. Adjust the hand under the cheek to keep the head tilted.</li>
+                    <li><strong>Monitor continuously:</strong> Check their breathing regularly. If they stop breathing, roll them onto their back and begin CPR.</li>
+                </ol>
+
+                <div class="info-box">
+                    <strong>Important:</strong>
+                    <p>Do not use the recovery position if you suspect a spinal injury - in this case, keep the person still and maintain the airway manually by jaw thrust only. If the person must remain in the recovery position for more than 30 minutes, turn them to the opposite side to relieve pressure.</p>
+                </div>
+
+                <h2 id="emergency-numbers">What Are Emergency Numbers Around the World?</h2>
+                <p class="quick-answer"><strong>Emergency numbers vary by country: 911 in North America, 112 in Europe, 999 in the UK, 000 in Australia, 119 in Japan and South Korea, and 120 in China. Most mobile phones can dial 112 regardless of location and will connect to local emergency services.</strong></p>
+
+                <p>Knowing the emergency number for your location is fundamental to emergency preparedness. When seconds count, you do not want to waste time searching for the correct number. If you are traveling internationally, research the local emergency number before your trip. Store local emergency numbers in your phone and make sure family members know them too.</p>
+
+                <div class="table-wrapper">
+                    <table>
+                        <caption>Emergency Numbers by Region</caption>
+                        <thead>
+                            <tr>
+                                <th>Region/Country</th>
+                                <th>Emergency Number</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td data-label="Region">United States, Canada</td>
+                                <td data-label="Number">911</td>
+                                <td data-label="Notes">All emergencies</td>
+                            </tr>
+                            <tr>
+                                <td data-label="Region">European Union</td>
+                                <td data-label="Number">112</td>
+                                <td data-label="Notes">Works in all EU countries</td>
+                            </tr>
+                            <tr>
+                                <td data-label="Region">United Kingdom</td>
+                                <td data-label="Number">999 or 112</td>
+                                <td data-label="Notes">Both work</td>
+                            </tr>
+                            <tr>
+                                <td data-label="Region">Australia</td>
+                                <td data-label="Number">000</td>
+                                <td data-label="Notes">All emergencies</td>
+                            </tr>
+                            <tr>
+                                <td data-label="Region">Japan</td>
+                                <td data-label="Number">119 (medical), 110 (police)</td>
+                                <td data-label="Notes">Separate numbers</td>
+                            </tr>
+                            <tr>
+                                <td data-label="Region">China</td>
+                                <td data-label="Number">120 (medical), 110 (police)</td>
+                                <td data-label="Notes">Separate numbers</td>
+                            </tr>
+                            <tr>
+                                <td data-label="Region">India</td>
+                                <td data-label="Number">112</td>
+                                <td data-label="Notes">Unified emergency number</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <p>For a comprehensive list of emergency numbers for all countries, visit our <a href="/en/emergency">Emergency Numbers page</a>.</p>
+
+                <!-- FAQ Section -->
+                <section class="faq-section" aria-labelledby="faq-heading">
+                    <h2 id="faq-heading">Frequently Asked Questions About First Aid</h2>
+
+                    <div class="faq-accordion">
+                        <div class="faq-item">
+                            <button class="faq-question" aria-expanded="false" aria-controls="faq1">
+                                What are the basic steps of first aid?
+                            </button>
+                            <div class="faq-answer" id="faq1">
+                                <div class="faq-answer-content">
+                                    <p>The basic steps of first aid follow the DRSABCD approach: Danger (check for hazards), Response (check if the person responds), Send for help (call emergency services), Airway (open the airway), Breathing (check for breathing), CPR (start chest compressions if needed), and Defibrillation (use an AED if available). Always ensure your own safety first before helping others. After addressing these immediate priorities, you can then assess and treat other injuries such as bleeding, burns, or fractures.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <button class="faq-question" aria-expanded="false" aria-controls="faq2">
+                                When should I call emergency services?
+                            </button>
+                            <div class="faq-answer" id="faq2">
+                                <div class="faq-answer-content">
+                                    <p>Call emergency services immediately for: unconsciousness, severe breathing difficulties, chest pain or suspected heart attack, heavy uncontrolled bleeding, suspected stroke (face drooping, arm weakness, speech difficulties), severe allergic reactions (anaphylaxis), suspected spinal injuries, seizures lasting more than 5 minutes, severe burns, or poisoning. When in doubt, always call for help - it is better to be safe than sorry. Emergency dispatchers can also provide guidance over the phone while help is on the way.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <button class="faq-question" aria-expanded="false" aria-controls="faq3">
+                                How do I perform CPR on an adult?
+                            </button>
+                            <div class="faq-answer" id="faq3">
+                                <div class="faq-answer-content">
+                                    <p>For adult CPR: 1) Call emergency services first. 2) Place the person on their back on a firm surface. 3) Place the heel of one hand on the center of the chest, other hand on top with fingers interlocked. 4) Push hard and fast at a rate of 100-120 compressions per minute, at least 5cm deep. 5) If trained in rescue breathing, give 2 rescue breaths after every 30 compressions. 6) Continue until emergency services arrive, an AED is available, or the person starts breathing. Use an AED as soon as it becomes available. If you are untrained or uncomfortable with rescue breaths, continuous chest compressions alone are still highly effective.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <button class="faq-question" aria-expanded="false" aria-controls="faq4">
+                                How do I treat a burn injury?
+                            </button>
+                            <div class="faq-answer" id="faq4">
+                                <div class="faq-answer-content">
+                                    <p>For burns: 1) Remove the person from the heat source safely. 2) Cool the burn under cool (not cold) running water for at least 20 minutes - this is the single most important step. 3) Remove jewelry and clothing near the burn unless stuck to the skin. 4) Cover with a clean, non-fluffy dressing or cling film laid flat. 5) Do NOT apply ice, butter, toothpaste, or any creams as these can cause further damage. 6) Seek medical attention for burns larger than your palm, on the face/hands/feet/genitals, or if they appear deep (white, waxy, or charred). Small superficial burns can usually be treated at home with proper wound care.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <button class="faq-question" aria-expanded="false" aria-controls="faq5">
+                                What should I do if someone is choking?
+                            </button>
+                            <div class="faq-answer" id="faq5">
+                                <div class="faq-answer-content">
+                                    <p>For a choking adult who cannot cough, speak, or breathe: 1) Stand behind them and lean them forward. 2) Give up to 5 back blows between the shoulder blades with the heel of your hand. 3) If unsuccessful, give up to 5 abdominal thrusts (Heimlich maneuver): place your fist above the navel, grasp with other hand, and thrust sharply inward and upward. 4) Alternate between back blows and abdominal thrusts until the object is dislodged or the person can breathe. 5) If they become unconscious, lower them to the ground and start CPR, checking the mouth before each set of rescue breaths for visible obstructions.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <button class="faq-question" aria-expanded="false" aria-controls="faq6">
+                                How do I stop severe bleeding?
+                            </button>
+                            <div class="faq-answer" id="faq6">
+                                <div class="faq-answer-content">
+                                    <p>To stop severe bleeding: 1) Call emergency services for any life-threatening bleeding. 2) Apply direct pressure using a clean cloth or bandage - press firmly. 3) Keep constant pressure for at least 10-15 minutes without lifting to check, as this disrupts clot formation. 4) If blood soaks through, add more material on top without removing the first layer. 5) If possible, elevate the injured limb above the heart level. 6) For life-threatening limb bleeding that cannot be controlled with pressure, a tourniquet may be necessary - apply it 5-8 cm above the wound and note the time. 7) Keep the person warm, calm, and lying down until help arrives.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- References Section -->
+                <section class="references-section" aria-labelledby="references-heading">
+                    <h2 id="references-heading">References & Sources</h2>
+                    <p>This article is based on the following peer-reviewed guidelines and evidence-based sources:</p>
+                    <ul class="references-list">
+                        <li>
+                            <strong>International Liaison Committee on Resuscitation (ILCOR)</strong><br>
+                            2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.<br>
+                            <a href="https://costr.ilcor.org/" target="_blank" rel="noopener noreferrer">https://costr.ilcor.org/</a>
+                        </li>
+                        <li>
+                            <strong>American Heart Association (AHA)</strong><br>
+                            2020 American Heart Association Guidelines for CPR and Emergency Cardiovascular Care.<br>
+                            <a href="https://cpr.heart.org/resuscitation-science/cpr-and-ecc-guidelines" target="_blank" rel="noopener noreferrer">https://cpr.heart.org/</a>
+                        </li>
+                        <li>
+                            <strong>European Resuscitation Council (ERC)</strong><br>
+                            European Resuscitation Council Guidelines 2021.<br>
+                            <a href="https://www.erc.edu/guidelines-2021" target="_blank" rel="noopener noreferrer">https://www.erc.edu/guidelines-2021</a>
+                        </li>
+                        <li>
+                            <strong>World Health Organization (WHO)</strong><br>
+                            Basic Emergency Care: Approach to the Acutely Ill and Injured.<br>
+                            <a href="https://www.who.int/publications/i/item/basic-emergency-care-approach-to-the-acutely-ill-and-injured" target="_blank" rel="noopener noreferrer">https://www.who.int/</a>
+                        </li>
+                        <li>
+                            <strong>British Red Cross</strong><br>
+                            First Aid Guidelines and Training Resources.<br>
+                            <a href="https://www.redcross.org.uk/first-aid" target="_blank" rel="noopener noreferrer">https://www.redcross.org.uk/first-aid</a>
+                        </li>
+                    </ul>
+                </section>
+
+                <!-- Editorial Team Section -->
+                <section class="editorial-team" aria-labelledby="editorial-heading">
+                    <h2 id="editorial-heading">About Our Medical Editorial Team</h2>
+                    <p>This article was written and reviewed by the iMedic Medical Editorial Team, comprising licensed physicians specializing in emergency medicine, trauma care, and critical care. Our team follows strict editorial guidelines based on the GRADE evidence framework, ensuring all content is accurate, up-to-date, and clinically relevant.</p>
+
+                    <div class="editorial-team-grid">
+                        <div class="info-box">
+                            <strong>Medical Review Process</strong>
+                            <p>All content undergoes multiple review stages by qualified medical professionals before publication. We regularly update our articles to reflect the latest clinical guidelines and research findings.</p>
+                        </div>
+                        <div class="info-box">
+                            <strong>Evidence-Based Approach</strong>
+                            <p>We prioritize Level 1A evidence from systematic reviews and international guidelines (ILCOR, AHA, ERC, WHO). Our content is free from commercial influence and pharmaceutical sponsorship.</p>
+                        </div>
+                    </div>
+                </section>
+
+            </article>
+
+            <!-- Related Articles -->
+            <section class="related-articles" aria-labelledby="related-heading">
+                <h2 id="related-heading" class="related-title">Related First Aid Topics</h2>
+                <div class="related-grid">
+                    <a href="/en/emergency" class="article-card">
+                        <div class="article-card-category">Emergency</div>
+                        <h3 class="article-card-title">Emergency Numbers Worldwide</h3>
+                        <p class="article-card-description">Find the emergency number for any country. Essential information for travelers and residents.</p>
+                    </a>
+                    <a href="/en/diseases/" class="article-card">
+                        <div class="article-card-category">Diseases</div>
+                        <h3 class="article-card-title">All Diseases & Conditions</h3>
+                        <p class="article-card-description">Browse our comprehensive database of medical conditions, symptoms, and treatments.</p>
+                    </a>
+                    <a href="/en/health/" class="article-card">
+                        <div class="article-card-category">Health</div>
+                        <h3 class="article-card-title">Health & Lifestyle</h3>
+                        <p class="article-card-description">Tips for maintaining good health, disease prevention, and healthy living.</p>
+                    </a>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- Table of Contents Sidebar -->
+        <aside class="toc-sidebar" aria-labelledby="toc-title">
+            <h2 id="toc-title" class="toc-title">Table of Contents</h2>
+            <nav aria-label="Table of contents">
+                <ul class="toc-list">
+                    <li><a href="#what-is-first-aid">What Is First Aid?</a></li>
+                    <li><a href="#emergency-assessment">Emergency Assessment</a></li>
+                    <li><a href="#cpr">How to Perform CPR</a></li>
+                    <li><a href="#choking">Choking First Aid</a></li>
+                    <li><a href="#bleeding">Stopping Severe Bleeding</a></li>
+                    <li><a href="#burns">Treating Burns</a></li>
+                    <li><a href="#fractures">Handling Fractures</a></li>
+                    <li><a href="#shock">Signs of Shock</a></li>
+                    <li><a href="#recovery-position">Recovery Position</a></li>
+                    <li><a href="#emergency-numbers">Emergency Numbers</a></li>
+                    <li><a href="#faq-heading">FAQs</a></li>
+                    <li><a href="#references-heading">References</a></li>
+                </ul>
+            </nav>
+        </aside>
+    </div>
+
+    <footer role="contentinfo">
+        <div class="footer-container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h3>Topics</h3>
+                    <ul>
+                        <li><a href="/en/diseases/">Diseases &amp; conditions</a></li>
+                        <li><a href="/en/treatment/">Treatments</a></li>
+                        <li><a href="/en/medicines/">Medicines</a></li>
+                        <li><a href="/en/health/">Health &amp; wellness</a></li>
+                        <li><a href="/en/children/">Children's health</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h3>Tools</h3>
+                    <ul>
+                        <li><a href="/en/calculators/">Calculators</a></li>
+                        <li><a href="/en/interactions/">Drug interactions</a></li>
+                        <li><a href="/en/compare/">Compare medicines</a></li>
+                        <li><a href="/en/lookups/pregnancy-safety/">Pregnancy safety</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h3>About</h3>
+                    <ul>
+                        <li><a href="/en/about/">About</a></li>
+                        <li><a href="/en/about/medical-team">Medical team</a></li>
+                        <li><a href="/en/about/contact">Contact</a></li>
+                        <li><a href="/en/emergency">Emergency numbers</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h3>Legal</h3>
+                    <ul>
+                        <li><a href="/en/legal/disclaimer">Medical disclaimer</a></li>
+                        <li><a href="/en/legal/privacy">Privacy</a></li>
+                        <li><a href="/en/legal/accessibility">Accessibility</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p class="footer-copy">&copy; 2026 iMedic</p>
+                <p class="footer-note">Information on this site is for educational purposes and does not replace professional medical advice. <a href="/en/emergency">In an emergency, call your local emergency number.</a></p>
+            </div>
+        </div>
+    </footer>
+    <!-- LAYOUT-CLEANER-V1 -->
+
+    <script>
+    // Mobile menu
+    document.querySelector('.mobile-menu-btn').addEventListener('click', function() {
+        const navLinks = document.querySelector('.nav-links');
+        const isOpen = navLinks.classList.toggle('mobile-open');
+        this.setAttribute('aria-expanded', isOpen);
+        this.querySelector('span').textContent = isOpen ? '✕' : '☰';
+    });
+
+    // Language dropdown
+    const languageBtn = document.querySelector('.language-btn');
+    const languageMenu = document.querySelector('.language-menu');
+    languageBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const isOpen = languageMenu.classList.toggle('open');
+        languageBtn.setAttribute('aria-expanded', isOpen);
+    });
+    document.addEventListener('click', () => {
+        languageMenu.classList.remove('open');
+        languageBtn.setAttribute('aria-expanded', 'false');
+    });
+
+    // FAQ Accordion
+    document.querySelectorAll('.faq-question').forEach(button => {
+        button.addEventListener('click', () => {
+            const expanded = button.getAttribute('aria-expanded') === 'true';
+            button.setAttribute('aria-expanded', !expanded);
+            const answer = button.nextElementSibling;
+            if (!expanded) {
+                answer.style.maxHeight = answer.scrollHeight + 'px';
+            } else {
+                answer.style.maxHeight = '0';
+            }
+        });
+    });
+
+    // Smooth scroll for TOC links with reduced motion respect
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    document.querySelectorAll('.toc-list a').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if (target) {
+                target.scrollIntoView({
+                    behavior: prefersReducedMotion ? 'auto' : 'smooth'
+                });
+                target.focus();
+            }
+        });
+    });
+
+    // Active TOC highlighting
+    const tocLinks = document.querySelectorAll('.toc-list a');
+    const sections = document.querySelectorAll('h2[id]');
+
+    function highlightToc() {
+        let current = '';
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop - 160;
+            if (window.scrollY >= sectionTop) {
+                current = section.getAttribute('id');
+            }
+        });
+
+        tocLinks.forEach(link => {
+            link.classList.remove('active');
+            if (link.getAttribute('href') === '#' + current) {
+                link.classList.add('active');
+            }
+        });
+    }
+
+    window.addEventListener('scroll', highlightToc, { passive: true });
+    highlightToc();
+    </script>
+    <!-- IMEDIC-TOC-SCROLLSPY -->
+    <script>
+    (function () {
+        function initTocScrollspy() {
+            var linkSelector = [
+                '.toc-sidebar .toc-list a[href^="#"]',
+                '.toc-sidebar a.toc-link[href^="#"]',
+                'nav[aria-label="Table of contents"] a[href^="#"]',
+                'nav[aria-label="Article sections"] a[href^="#"]'
+            ].join(',');
+            var links = Array.prototype.slice.call(document.querySelectorAll(linkSelector));
+            if (!links.length) return;
+
+            var seen = {};
+            var sections = [];
+            links.forEach(function (link) {
+                var href = link.getAttribute('href') || '';
+                var id = href.charAt(0) === '#' ? href.slice(1) : '';
+                if (!id || seen[id]) return;
+                var target = null;
+                try {
+                    target = document.getElementById(decodeURIComponent(id));
+                } catch (e) {
+                    target = document.getElementById(id);
+                }
+                if (!target) return;
+                seen[id] = true;
+                sections.push({ id: id, target: target, link: link });
+            });
+            if (!sections.length) return;
+
+            function getHeaderOffset() {
+                var header = document.querySelector('header[role="banner"], body > header');
+                return header ? Math.min(header.getBoundingClientRect().height, 120) : 0;
+            }
+
+            function setActive(item) {
+                links.forEach(function (link) {
+                    link.classList.remove('active');
+                    link.removeAttribute('aria-current');
+                });
+                if (!item) return;
+                item.link.classList.add('active');
+                item.link.setAttribute('aria-current', 'location');
+            }
+
+            function update() {
+                var scrollTop = window.pageYOffset || document.documentElement.scrollTop || 0;
+                var readLine = scrollTop + getHeaderOffset() + Math.min(window.innerHeight * 0.28, 220);
+                var current = sections[0];
+                var doc = document.documentElement;
+                var atBottom = window.innerHeight + scrollTop >= doc.scrollHeight - 4;
+
+                sections.forEach(function (item) {
+                    var top = item.target.getBoundingClientRect().top + scrollTop;
+                    if (top <= readLine) current = item;
+                });
+                if (atBottom) current = sections[sections.length - 1];
+                setActive(current);
+            }
+
+            var ticking = false;
+            function requestUpdate() {
+                if (ticking) return;
+                ticking = true;
+                window.requestAnimationFrame(function () {
+                    ticking = false;
+                    update();
+                });
+            }
+
+            links.forEach(function (link) {
+                link.addEventListener('click', function () {
+                    var id = (link.getAttribute('href') || '').slice(1);
+                    var item = sections.filter(function (section) { return section.id === id; })[0];
+                    if (item) setActive(item);
+                });
+            });
+
+            window.addEventListener('scroll', requestUpdate, { passive: true });
+            window.addEventListener('resize', requestUpdate, { passive: true });
+            update();
+            window.setTimeout(update, 250);
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initTocScrollspy);
+        } else {
+            initTocScrollspy();
+        }
+    })();
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"a58d9c2a3c5d4faab445b1606cd7ae02","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

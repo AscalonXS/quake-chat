@@ -1,0 +1,143 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Safety tips for travelers</title>
+		<meta name="description" content="This website provides international tourists in Japan with information about safe travel."/>
+		<meta name="keywords" content="Safety tips for travelers"/>
+		<meta property="og:site_name" content="Safety tips for travelers" />
+		<meta property="og:title" content="Safety tips for travelers" />
+		<meta property="og:image" content="https://www.jnto.go.jp/safety-tips/common/images/ogimage.png" />
+		<meta property="og:description" content="This website provides international tourists in Japan with information about safe travel.">
+		<meta property="og:url" content="https://www.jnto.go.jp/safety-tips/" />
+		<meta property="og:type" content="website" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,shrink-to-fit=no">
+		<link rel="shortcut icon" href="../../../common/images/favicon.ico">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,500,600" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../../../common/css/normalize.css">
+		<link rel="stylesheet" href="../../css/layout.css">
+        <link rel="stylesheet" href="../../css/layout_sp.css">
+        <link rel="stylesheet" href="../../css/emergency.css">
+        <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+        <script src="../../../common/js/common.js"></script>  
+</head>
+
+<body>
+<header>
+<div class="language_area">
+<div class="inner">
+
+<div class="btn_language viewpc">
+	<ul class="btn_language">
+    <li class="btn_language_single">
+        <a href="../../../eng/emergency/tsunami/t01.html" class="init-bottom">English</a>
+        <ul class="btn_language_second-level">
+        <li class="eng"><a href="../../../eng/emergency/tsunami/t01.html">English</a></li>
+        <li class="kor"><a href="../../../kor/emergency/tsunami/t01.html">한국어</a></li>
+		<li class="chc"><a href="../../../chc/emergency/tsunami/t01.html">繁體中文</a></li>
+		<li class="chs"><a href="../../../chs/emergency/tsunami/t01.html">简体中文</a></li>
+        </ul>
+    </li>
+	</ul>
+</div>
+
+<div id="languageMenuS" class="viewsp"><!--languageMenuS start-->
+<div id="top-head">
+<div id="mobile-head">
+<div id="nav-toggle">
+    <div>
+     <span></span>
+     <span></span>
+     <span></span>
+   </div>
+</div>
+ </div>
+        <nav id="language-nav">
+        <ul>
+        <li class="eng"><a href="../../../eng/emergency/tsunami/t01.html">English</a></li>
+		<li class="kor"><a href="../../../kor/emergency/tsunami/t01.html">한국어</a></li>
+		<li class="chc"><a href="../../../chc/emergency/tsunami/t01.html">繁體中文</a></li>
+		<li class="chs"><a href="../../../chs/emergency/tsunami/t01.html">简体中文</a></li>
+        </ul>
+        </nav>
+</div>
+</div><!-- languageMenuS end-->
+</div>
+</div>
+
+<section class="topimage">
+<div class="inner">
+<div class="logo_jed"><img src="../../../common/images/logo_jed.png" alt=""/></div>
+ 	<h1><img src="../../../common/images/logo_stft.png" alt="Safety tips for travelers"/></h1>
+	<h2>This website provides international tourists in Japan <br class="viewpc">with information about safe travel.</h2>
+
+
+	<ul class="mainmenu">
+	<li class="safetytips"><a href="../../index.html">Home
+</a></li>
+	<li class="emergency_on"><a href="../index.html">In the event <br class="viewpc">of an emergency</a></li>
+	<li class="cmcard"><a href="../../cmcard/index.html">Helpful <br class="viewpc">Phrases</a></li>
+	<li class="app"><a href="../../app.html">The App <br class="viewpc">“Safety tips”</a></li>
+	</ul>
+</div>
+</section>
+</header>
+
+<main class="emergency">
+<div class="inner">
+
+<div class="breadcrub">
+<a href="../../index.html">HOME</a> > <a href="../index.html">In the event of an emergency</a> > When a tsunami warning is issued</div>
+
+
+<article class="emergencyindex">
+<h3 class="sp2line3"><span></span>Emergencies during daily life</h3>
+
+<div class="emergency_contents">
+
+<div class="emergency_contents_navi">
+<div class="emergency_items emitem_earthquakes">
+<div class="mark_earthquakes"><a href="../earthquake/e01.html"></a></div>
+</div>
+<div class="emergency_items emitem_civilprotections">
+<div class="mark_civilprotections"><a href="../civilprotection/c01.html"></a></div>
+</div>
+<div class="emergency_items emitem_evacuations">
+<div class="mark_evacuations"><a href="../evacuation/ev01.html"></a></div>
+</div>
+<div class="emergency_items emitem_weathers">
+<div class="mark_weathers"><a href="../weather/w01.html"></a></div>
+</div>
+<div class="emergency_items emitem_volcanics">
+<div class="mark_volcanics"><a href="../volcanic/v01.html"></a></div>
+</div>
+<div class="emergency_items emitem_heats">
+<div class="mark_heats"><a href="../heat/h01.html"></a></div>
+</div>
+</div>
+
+<h4 class="h4_tsunami"><span class="h4mark_tsunami"></span>When a tsunami warning <br class="viewsp">is issued</h4>
+<p><strong>Tsunami warning has been announced</strong><br>
+Which tsunami warning has been announced?</p>
+
+<div class="tsunami_menu">
+<div><a href="t02.html">Tsunami Advisory</a></div>
+<div><a href="t03.html">Tsunami Warning</a></div>
+<div><a href="t04.html">Major Tsunami Warning</a></div>
+</div>
+
+<div class="emergency_figl"><img src="../../images/emergency/t01_01.png" alt=""/></div>
+
+</div>
+</article>
+
+</div>
+</main>
+
+<footer>
+<p><a href="../../about.html">About this website</a></p>
+<small>Copyright © Japan Tourism Agency. All Rights Reserved.</small>
+</footer>
+</body>
+</html>

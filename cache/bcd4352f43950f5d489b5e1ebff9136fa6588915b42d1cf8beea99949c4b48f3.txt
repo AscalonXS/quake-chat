@@ -1,0 +1,83 @@
+Introduction
+Hazardous materials spills including biological, chemical and radiological materials pose a serious risk if not promptly and properly responded to by the individuals who initially identify the spill and the appropriate emergency response staff. The general hazardous material spill response procedures include:
+RESCUE -
+Evacuate the spill area. Provide assistance including the use of safety showers and eyewashes. Seek
+emergency medial assistance
+once properly decontaminated.
+CONFINE -
+Confine the spill area by closing the nearest doors to the spill area. Isolate contaminated persons and do not allow them to leave or spread the contamination. Cover drains to prevent spills from entering the environment.
+REPORT -
+Immediately report the spill to the appropriate emergency response office as specified below in the material specific spill cleanup procedures. Provide information on injured staff, type of hazardous material spilled, estimated quantity, and location. NYP Security can be contacted during off-hours to report hazardous materials spills.
+SECURE -
+Secure the area until emergency response personnel arrive to ensure no one enters the spill area. If the area has multiple entrances, be sure to locate staff at all entrances to prevent entry.
+CLEANUP -
+Cleanup must only be conducted by qualified personnel with the appropriate training, protective equipment and cleanup materials. Depending on the nature and size of the spill, trained department or laboratory staff may be able to cleanup the spill as specified below. Otherwise emergency response staff are available 24-hours / 7-days a week to respond.
+Biological Materials Spills
+Operating department or laboratory staff can clean small biological spills which do not involve injury, are contained, pose little hazard to staff, and provided they have the proper training, protective equipment, and disinfectant to do the cleanup. Otherwise contact WCMC Environmental Health and Safety at 646-962-7233 for biological spills in WCMC spaces or NYP Environmental Services at 212-746-0630 for biological spills in NYP spaces.
+View the Biological Spill Kits Video
+Biological spill cleanup procedures typically include:
+For aerosolized biological materials, wait a minimum of 30-minutes to allow for the material to settle.
+Absorb and collect all free liquids using paper towels or other dry absorbent.
+Apply paper towels saturated in disinfectant over the spill area.
+Allow sufficient contact time for the disinfectant to inactivate or kill the pathogen. At least one hour is recommended but refer to the disinfectant's instructions for specific requirements.
+Collect wastes and contaminated protective equipment into red bags and sharps containers as appropriate for proper disposal.
+See the
+Biological Spill Planning and Response Manual
+for more information.
+Review the Biological Spill Kit Video below:
+Chemical Spills
+Operating department or laboratory staff can clean small chemical spills which do not involve injury, do not represent a fire hazard, pose little hazard to staff, are less than 1 gallon, and for which they have the proper training, protective equipment, and supplies to do the cleanup. Otherwise contact WCMC Environmental Health and Safety at 646-962-7233 for chemical spills in WCMC spaces or NYP Environmental Health and Safety at 212-746-1926 for chemical spills in NYP spaces.
+Chemical spill cleanup procedures typically include:
+Turn off adjacent equipment and Bunsen burners to minimize the risk of fire.
+Absorb and collect all free liquids using paper towels or other dry absorbent
+Gently sweep or use damp towels to collect powders and minimize dust generation.
+For small acid spills in laboratories, apply sodium bicarbonate to neutralize the acid.
+Collect wastes and contaminated protective equipment into appropriate containers for proper disposal as chemical wastes unless non-hazardous and approved by EHS for normal trash disposal.
+See the
+Chemical Spill Planning and Response Manual
+for more information.
+Radiological Spills
+Minor Liquid Spills (<100ml or 10mCi)
+Laboratory staff can clean up minor spills (less tan 100ml or 10mCi) following these instructions:
+Notify all other persons in the room that a spill has occurred.
+Prevent the spread of contamination by covering the spill with absorbent paper.
+Clean up the spill using disposable gloves, absorbent paper and remote handling tongs. Carefully fold the absorbent paper with the clean side out and place in a plastic bag for later disposal as radioactive waste. Also put contaminated gloves and other contaminated disposable material in the bag.
+Survey the area with an appropriate low-range radiation detection survey meter or by wipe tests for removeable contamination, as appropriate. Check the area around the spill. Also check your hands, clothing and shoes for contamination.
+Report the incident to the Health Physics Office: 212-746-6964.
+Minor Dry Spill (<10mCi)
+Wear rubber or plastic gloves.
+Place damp absorbent paper over the spill. Take care not to spread the contamination.
+Decontaminate as necessary.
+Permit no person to resume work in the area until Health Physics has confirmed a survey.
+Report the incident to the Health Physics Office: 212-746-6964.
+Major Spills (liquid or dry > 100ml or 10mCi)
+Radiation safety does not recommend that laboratory personnel clean up major radiological spills. In the event of a major radiological spill follow these instructions.
+Notify all persons not involved to vacate the room at once.
+If a liquid spill, right the container (have hands protected with gloves). Prevent the further spread of contamination by covering the spill with absorbent paper, but DO NOT attempt to clean up the spill.
+Limit the movement of all personnel who may be contaminated to prevent the spread of contamination.
+Shield the source, if possible. This should be done only without further contamination or significant increase in radiation exposure.
+Leave the room and lock the door(s) to prevent entry.
+Notify the Health Physics Office immediately: 212-746-6964.
+Personal Decontamination
+Contaminated clothing should be removed and stored for further evaluation by Health Physics.
+If spilled on the skin, flush thoroughly with lukewarm water and then wash with mild soap. Do not rub hard! If contamination remains, induce perspiration by covering the area with plastic then wash again.
+Follow up:
+Health Physics must monitor all persons involved in the spill. Only Health Physics can permit work to resume in or personnel to enter the area of the spill.
+Radioactive Dusts, Mists, Fumes, and Gases
+Notify other persons to evacuate the room.
+Hold breath, close valves, and turn off air-circulating devices as time permits.
+Vacate room.
+Close all doors and post area.
+Notify Health Physics: 212-746-6964. On weekends or weekdays after 6:00 PM contact Security: 212-746-0911.
+Report suspected inhalations of radioactive materials.
+Detail all persons suspected of being contaminated.
+Decontaminate as instructed by Health Physics.
+Health Physics must perform an air survey before work can be resumed.
+Injuries Involving Radiation Hazards
+Wash minor wounds immediately, under running water, spreading edges of wound.
+Report all radiation accidents and injuries to the Health Physics Office: 212-746-4569.
+Have employees proceed to Health Physics, Employee Health Service or Urgent Care.
+In the case of traumatic injury, call 2-2222 for medical assistance.
+See the
+Radiation Safety Manual
+for more information

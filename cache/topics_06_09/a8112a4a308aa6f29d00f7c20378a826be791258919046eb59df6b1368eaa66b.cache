@@ -1,0 +1,1037 @@
+
+
+<!DOCTYPE html>
+<html xmlns:mml="https://www.w3.org/1998/Math/MathML" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:ali="https://www.niso.org/schemas/ali/1.0/" xmlns:xi="https://www.w3.org/2001/XInclude" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" lang="en">
+    <head lang="en">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Start SAS Google Tag Manager --> 
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-TVTCHDP');</script>
+        <!-- End SAS Google Tag Manager -->
+    
+        <!-- START USGS DAP Google Tag Manager -->
+        <!-- USE REQUIRED script for all public applications
+        IMPORTANT: REMOVE this script for any logged in pages and/or internal applications  -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TKQR8KP');</script>
+        <!-- END USGS DAP Google Tag Manager --> 
+
+        
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="title" content="USGS Publications Warehouse">
+    <meta name="keywords" content>
+    <meta name="format-detection" content="telephone=no">
+    
+    <title>Some facts about aftershocks to large earthquakes in California</title>
+    <meta NAME="title" content="Some facts about aftershocks to large earthquakes in California" />
+    <meta name="description" content="Earthquakes occur in clusters. After one earthquake happens, we usually see others at nearby (or identical) locations. To talk about this phenomenon, seismologists coined three terms foreshock , mainshock , and aftershock. In any cluster of earthquakes, the one with the largest magnitude is called the mainshock; earthquakes that occur before the mainshock are called foreshocks while those that occur after the mainshock are called aftershocks. A mainshock will be redefined as a foreshock if a subsequent event in the cluster has a larger magnitude. Aftershock sequences follow predictable patterns. That is, a sequence of aftershocks follows certain global patterns as a group, but the individual earthquakes comprising the group are random and unpredictable. This relationship between the pattern of a group and the randomness (stochastic nature) of the individuals has a close parallel in actuarial statistics. We can describe the pattern that aftershock sequences tend to follow with well-constrained equations...." />
+    <META NAME="abstract" CONTENT="Earthquakes occur in clusters. After one earthquake happens, we usually see others at nearby (or identical) locations. To talk about this phenomenon, seismologists coined three terms foreshock , mainshock , and aftershock. In any cluster of earthquakes, the one with the largest magnitude is called the mainshock; earthquakes that occur before the mainshock are called foreshocks while those that occur after the mainshock are called aftershocks. A mainshock will be redefined as a foreshock if a subsequent event in the cluster has a larger magnitude. Aftershock sequences follow predictable patterns. That is, a sequence of aftershocks follows certain global patterns as a group, but the individual earthquakes comprising the group are random and unpredictable. This relationship between the pattern of a group and the randomness (stochastic nature) of the individuals has a close parallel in actuarial statistics. We can describe the pattern that aftershock sequences tend to follow with well-constrained equations. However, we must keep in mind that the actual aftershocks are only probabilistically described by these equations. Once the parameters in these equations have been estimated, we can determine the probability of aftershocks occurring in various space, time and magnitude ranges as described below. Clustering of earthquakes usually occurs near the location of the mainshock. The stress on the mainshock&#39;s fault changes drastically during the mainshock and that fault produces most of the aftershocks. This causes a change in the regional stress, the size of which decreases rapidly with distance from the mainshock. Sometimes the change in stress caused by the mainshock is great enough to trigger aftershocks on other, nearby faults. While there is no hard &#34;cutoff&#34; distance beyond which an earthquake is totally incapable of triggering an aftershock, the vast majority of aftershocks are located close to the mainshock. As a rule of thumb, we consider earthquakes to be aftershocks if they are located within a characteristic distance from the mainshock. This distance is usually taken to be one or two times the length of the fault rupture associated with the mainshock. For example, if the mainshock ruptured a 100 km length of a fault, subsequent earthquakes up to 100-200 km away from the mainshock rupture would be considered aftershocks. The fault rupture length was approximately 15 km in the 1994 Northridge earthquake, and 430 km in the great 1906 earthquake." />
+    <meta NAME="author" content="Lucile M. Jones"/><meta NAME="author" content="Paul A. Reasenberg"/>
+    <meta name = "revised" content="2014-03-18T13:09:45"/>
+    <meta name = "created" content="1996-11-01T00:00:00"/>
+    <meta name = "date" content="1996"/>
+  <!-- meta tags for google scholar indexing and zotero/mendeley parsing -->
+    <meta name="citation_title" content="Some facts about aftershocks to large earthquakes in California" />
+    <meta name="citation_publication_date" content="1996" />
+    <meta name="citation_date" content="1996" />
+    <meta name="citation_online_date" content="1996-11-01T00:00:00" />
+    <meta NAME="citation_author" content="Lucile M. Jones"/><meta NAME="citation_author" content="Paul A. Reasenberg"/>
+    
+    
+    
+    <meta name="citation_journal_title" content="Open-File Report" />
+    
+    
+    <meta name="citation_issn" content="2331-1258" />
+    
+    
+    
+    
+        
+        <meta name="citation_technical_report_institution" content="U.S. Geological Survey" />
+        <meta name="citation_technical_report_number" content="96-266" />
+    
+    <meta name="citation_doi" content="10.3133/ofr96266" />
+    
+        <meta name="citation_pdf_url" content="https://pubs.usgs.gov/of/1996/0266/pdf/of96-266.pdf" />
+    
+
+    
+        
+    
+        
+<link rel="stylesheet" href="https://pubs.usgs.gov/static/vendor/leaflet/leaflet.css">
+       
+       <link rel="stylesheet" href="https://pubs.usgs.gov/static/vendor/academicons/css/academicons.css">
+    
+    
+    
+        
+
+
+
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [ ['^','^'], ["\\(","\\)"] ],
+    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+    processEscapes: true
+  },
+  options: {
+    ignoreHtmlClass: 'tex2jax_ignore',
+    processHtmlClass: 'tex2jax_process',
+    menuOptions: {
+      settings: {
+        zoom: 'Click',
+        zscale: '200%'
+      }
+    },
+    enableAssistiveMml: true,
+    enableEnrichment: true,
+    sre: {
+      speech: 'deep',         // or 'shallow', or 'deep'
+      domain: 'mathspeak',    // speech rules domain
+      style: 'default',       // speech rules style
+      locale: 'en'            // the language to use (en, fr, es, de, it)
+    },
+    enrichError: (doc, math, err) => doc.enrichError(doc, math, err),  // function to call if enrichment fails
+    enableExplorer: true,
+    a11y: {
+      infoType: true,                   // show semantic type on mouse hovering
+      infoRole: true,                   // show semantic role on mouse hovering
+      infoPrefix: true,                 // show speech prefixes on mouse hovering
+    }
+  }
+};
+</script>
+
+
+<script id="MathJax-script" async
+src="https://pubs.usgs.gov/static/vendor/MathJax/es5/tex-mml-svg.js"></script>
+    
+
+
+
+
+        <title>USGS Publications Warehouse</title>
+
+        <!-- USWDS 3 requires uswds-init to run in <head> BEFORE any stylesheet.
+             Keep this above the page_style/head_script blocks, which is where
+             child templates link their CSS. -->
+             <script src="https://pubs.usgs.gov/static/vendor/uswds-init.min.js"></script>
+             
+        
+        
+    
+        
+<link rel="stylesheet" href="https://pubs.usgs.gov/static/vendor/leaflet/leaflet.css">
+       
+       <link rel="stylesheet" href="https://pubs.usgs.gov/static/vendor/academicons/css/academicons.css">
+    
+
+        <!--[if gt IE 8]><!-->
+        <script src="https://pubs.usgs.gov/static/vendor/polyfill.js"></script>
+        <script>
+            if (!String.prototype.startsWith) {
+                String.prototype.startsWith = function(search, pos) {
+                    return this.substr(!pos || pos < 0 ? 0 : +pos, search.length) === search;
+                };
+            }
+        </script>
+        <!--<![endif]-->
+        <script src="https://pubs.usgs.gov/static/vendor/system.js" defer></script>
+        
+    <script defer>
+        window.addEventListener('DOMContentLoaded', () => {
+            SystemJS.import("https://pubs.usgs.gov/static/scripts/common.a49e452e.js");
+        });
+    </script>
+
+        
+    <link rel="stylesheet" href="https://pubs.usgs.gov/static/pubs_base.45bf58dd.css" type="text/css" />
+    <link rel="shortcut icon" href="https://pubs.usgs.gov/static/images/pubswh/favicon.72b5542e.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="USGS Pubs"/>
+    <link rel="unapi-server" type="application/xml" title="unAPI" href="/unapi" />
+    <link rel="alternate" type="application/rss+xml" title="USGS Publications Warehouse RSS Feed" href="https://pubs.usgs.gov/pubs-services/publication/rss"/>
+    <script>
+        var CONFIG = {
+            lookupUrl: 'https://pubs.usgs.gov/pubs-services/lookup',
+            requestArgs: JSON.parse('{}') <!-- set to True if only one value per key is desired -->
+        }
+    </script>
+
+    </head>
+    <body>
+        <!-- Start SAS Google Tag Manager (noscript) --> 
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVTCHDP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End SAS Google Tag Manager (noscript) -->
+    
+        
+        
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+    <section class="usa-banner maxw-full" aria-label="Official government website">
+        <div class="usa-accordion">
+            <header class="usa-banner__header">
+                <div class="usa-banner__inner content-container">
+                    <div class="grid-col-auto">
+                        <img class="usa-banner__header-flag" src="https://pubs.usgs.gov/static/img/us_flag_small.37e6dc83.png" alt="U.S. flag">
+                    </div>
+                    <div class="grid-col-fill tablet:grid-col-auto">
+                        <p class="usa-banner__header-text">An official website of the United States government</p>
+                        <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+                    </div>
+                    <button class="usa-accordion__button usa-banner__button"
+                            aria-expanded="false" aria-controls="gov-banner">
+                        <span class="usa-banner__button-text">Here’s how you know</span>
+                    </button>
+                </div>
+            </header>
+            <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+                <div class="grid-row grid-gap-lg">
+                    <div class="usa-banner__guidance tablet:grid-col-6">
+                        <img class="usa-banner__icon usa-media-block__img" src="https://pubs.usgs.gov/static/img/icon-dot-gov.42b4ac46.svg"
+                             alt="Dot gov">
+                        <div class="usa-media-block__body">
+                            <p>
+                                <strong>Official websites use .gov</strong>
+                                <br/>
+                                A <strong>.gov</strong> website belongs to an official government organization in the
+                                United States.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="usa-banner__guidance tablet:grid-col-6">
+                        <img class="usa-banner__icon usa-media-block__img" src="https://pubs.usgs.gov/static/img/icon-https.73abd866.svg"
+                             alt="Https">
+                        <div class="usa-media-block__body">
+                            <p>
+                                <strong>Secure .gov websites use HTTPS</strong>
+                                <br/>
+                                A <strong>lock</strong> (
+                                <span class="icon-lock">
+                                    <svg xmlns="https://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg>
+                                </span>
+                                ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="usa-overlay"></div>
+
+    <header class="usa-header usa-header--extended usgs-header site-header" role="banner">
+        <div class="usgs-header-container">
+            <div class="usa-navbar">
+                <div class="usa-logo" id="extended-logo">
+                    <a href="https://www.usgs.gov" accesskey="1" title="Home" aria-label="Home">
+                        <img alt="USGS Home" src="https://pubs.usgs.gov/static/img/USGS_logo.356d51b9.svg"></img>
+                    </a>
+                    
+                </div>
+                <button class="usa-menu-btn">Menu</button>
+            </div>
+        </div>
+
+        
+            <nav role="navigation" class="usa-nav">
+                <div>
+                    <button class="usa-nav__close"><img src="https://pubs.usgs.gov/static/img/usa-icons/close.d9165ac7.svg" alt="close"></button>
+                    <ul class="usa-nav__primary usa-accordion">
+                        <li class="usa-nav__primary-item">
+                            <a class="usa-nav__link" href="/">USGS Publications Warehouse</a>
+                        </li>
+                        <li class="usa-nav__primary-item">
+                            <button class="usa-accordion__button usa-nav__link"
+                                    aria-expanded="false"
+                                    aria-controls="explore-section">
+                                <span>Explore</span>
+                            </button>
+                            <ul id="explore-section" class="usa-nav__submenu">
+                                <li class="usa-nav__submenu-item">
+                                 <a href="/newpubs">Explore recent publications by USGS authors</a>
+                                </li>
+                                <li class="usa-nav__submenu-item">
+                                    <a href="/browse/">
+                                        Browse all of Pubs Warehouse by publication type and year
+                                    </a>
+                                </li>
+                           </ul>
+                        </li>
+                        <li class="usa-nav__primary-item">
+                            <button class="usa-accordion__button usa-nav__link"
+                                    aria-expanded="false"
+                                    aria-controls="documentation-section">
+                                <span>Documentation</span>
+                            </button>
+                            <ul id="documentation-section" class="usa-nav__submenu">
+                                <li class="usa-nav__submenu-item">
+                                    <a href="/documentation/about">About</a>
+                                </li>
+                                <li class="usa-nav__submenu-item">
+                                    <a href="/documentation/faq">FAQs</a>
+                                </li>
+                                <li class="usa-nav__submenu-item">
+                                  <a href="/documentation/web_service_documentation">Web service documentation</a>
+                                </li>
+                                <li class="usa-nav__submenu-item">
+                                  <a href="/documentation/other_resources">Other resources</a>
+                                </li>
+                                <li class="usa-nav__submenu-item">
+                                    <a href="/documentation/usgs_series">
+                                        Descriptions of US Geological Survey Report Series
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="usa-nav__primary-item">
+                            <a class="usa-nav__link" href="/contact">Contact</a>
+                        </li>
+                        <li class="usa-nav__primary-item">
+                            <a class="usa-nav__link" href="https://www.usgs.gov/information-policies-and-instructions/liability#future-ips">Disclaimer</a>
+                        </li>
+                        
+                    </ul>
+                    <div class="usa-nav__secondary">
+                        <form class="usa-search usa-search--small" action="/search" method="get">
+                            <div role="search">
+                                <label class="usa-sr-only" for="extended-search-field-small">Search</label>
+                                <input class="usa-input" id="extended-search-field-small" type="search" name="q">
+                                <button class="usa-button" type="submit">
+                                    
+                                     <img class="usa-search__submit-icon"
+                                          src="https://pubs.usgs.gov/static/img/usa-icons-bg/search--white.d65004a6.svg"
+                                          alt="Search">
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        
+    </header>
+
+
+
+        <main id="main-content">
+            
+    
+
+    <div class="usa-prose">
+        
+    <main role ="main" id="publication-container" >
+        <!-- <script type="text/javascript">console.log('PUBSWH-369');</script> -->
+        <article itemscope itemtype="https://schema.org/ScholarlyArticle">
+            
+                <abbr class="unapi-id" title="https://pubs.usgs.gov/publication/ofr96266">
+                    <!-- avoid empty --></abbr>
+            
+
+            
+
+            <div class="publication-header-container">
+                <div class="pubs-thumbnail">
+                    
+                        <a class="usa-link"
+                           title="Main document link, right click to download or save as"
+                           href="https://pubs.usgs.gov/of/1996/0266/pdf/of96-266.pdf">
+                
+                
+                    <img id="thumbnail"
+                         src="https://pubs.usgs.gov/thumbnails/usgs_thumb.jpg"
+                         alt="thumbnail"/>
+                
+            </a>
+                    
+                </div>
+                <div class="publication-header-info-container">
+                    
+                    <div class="publication-header-titles">
+                        <h3 class="publication-title" itemprop="name" style="margin-block-end: unset;">Some facts about aftershocks to large earthquakes in California</h3>
+
+                        
+                            <div class="series-title" style="margin-block-end: unset;">Open-File Report
+                                96-266</div>
+                        
+
+                        
+
+                        
+
+                        
+                    </div>
+
+                    
+                    
+
+                    <section id="contributors"><div>
+                                <span class="list-title">By: </span><span class="contributor" itemprop="author"
+                              itemtype="https://schema.org/Person">Lucile M. Jones</span>&nbsp;and&nbsp;<span class="contributor" itemprop="author"
+                              itemtype="https://schema.org/Person">Paul A. Reasenberg</span>
+                            </div>
+                        </section>
+                    <section>
+                        
+                        <div class="doi-container"><a itemprop="sameAs"
+                                                      class="usa-link"
+                                                      href="https://doi.org/10.3133/ofr96266"
+                                                      onclick="GA.trackGAEvent('Downloads', 'DOI', 'https://dx.doi.org/10.3133/ofr96266')">
+                            https://doi.org/10.3133/ofr96266</a>
+                        </div>
+                        
+                        <!-- <div id="doi-twitter-container">
+
+                            <a href="https://twitter.com/share"
+                               class="twitter-share-button"
+                               data-text="USGS Pub"
+                               data-via="USGS_Pubs"
+                               data-dnt="true">Tweet</a>
+                            <script>!function(d, s, id) {
+                                var js, fjs = d.getElementsByTagName(s)[0],
+                                    p = /^https:/.test(d.location) ? 'http' : 'https';
+                                if (!d.getElementById(id)) {
+                                    js = d.createElement(s);
+                                    js.id = id;
+                                    js.src = p + '://platform.twitter.com/widgets.js';
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                }
+                            }(document, 'script', 'twitter-wjs');</script>
+                        </div> -->
+                        
+                        
+                        
+                            
+                                
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                
+                            
+                        
+                   
+                        
+                        
+                            <div id="metrics" class="pub-metrics">
+                                <p style="font-weight: bold;font-size: larger;margin-top: 0.25em;margin-bottom: 0.125em;">Metrics</p>
+                                
+                                    
+                                        <div id="altmetric" style="float:unset;margin-top:0.125em;">    
+                                            <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+                                            <div class='altmetric-embed' data-badge-type='1' data-doi="10.3133/ofr96266"></div>
+                                        </div>
+                                    
+                                
+                                
+                                    
+                                        
+                                            <div id="crossref" >
+                                                <div style="display: flex">Cited by <a hidden id="modal-button" aria-controls="citations"  id="crossref-cited-by-count" style="font-weight: bold;padding-right: 0.25em;padding-left: 0.25em;">2</a> publications in Crossref</div>
+                                            </div>
+                                        
+                                    
+                                
+                                <a href="/documentation/faq#WhatMetricsAreAvailableForPublicationsInThePublicationsWarehouse" style="font-size:smaller;padding-top: 0.25em;display:flex;justify-content: center;">Metrics definitions</a>
+                            </div>
+                        
+
+
+                    </section>
+                </div>
+            </div>
+            
+            
+ 
+
+           
+
+            <section>
+                
+            </section>
+
+
+            <section id="disclaimer">
+                
+            </section>
+
+            
+            <section id="suggested">
+
+                
+                
+
+                
+                
+
+                
+                
+                <h4>Links</h4>
+                <ul class="usa-list">
+                        <li style="max-width: 100%;">More information: 
+                    <a class="usa-link Index_Page" href="https://pubs.usgs.gov/of/1996/0266/" target="_blank"
+                       onclick="GA.trackGAEvent('Downloads', 'Index Page', 'https://pubs.usgs.gov/of/1996/0266/')"
+                       title=" Index Page">
+                        <strong>USGS Index Page</strong>
+                            (html)</a>
+                    </li>
+                    
+                    
+                    
+
+
+                    
+                    
+                        
+                        
+                              
+                        
+                        
+                    
+                        
+                        
+                        
+                    
+                        
+                        
+                        
+                    
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        
+                        
+                            
+                        
+
+                        
+                        
+                            
+                            
+                        
+
+                        
+                        
+                            
+                            
+                            
+                        
+
+                        
+                        
+                            
+                            
+                        
+                    
+                        <li style="max-width: 100%;">
+                        
+                        
+                        
+                        
+                            Document: 
+                        
+                        
+                        
+                                    
+                                    
+                                
+
+                                
+                                
+                    <a class="usa-link Document" href="https://pubs.usgs.gov/of/1996/0266/pdf/of96-266.pdf" target="_blank"
+                       onclick="GA.trackGAEvent('Downloads', 'Document', 'https://pubs.usgs.gov/of/1996/0266/pdf/of96-266.pdf')"
+                       title=" Document">
+                       
+                        
+                            
+                            
+                                
+                                    <strong>Report</strong> 
+                                
+
+                                
+                                    (pdf)
+                                
+                            
+                            
+                        
+
+                    </a>
+
+                     
+                                
+                                
+                                
+                        
+                        </li>
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                    <li>Download citation as: <a class="usa-link RIS"
+                            href="/publication/ofr96266?mimetype=ris">RIS</a>
+                        |
+                        <a class="usa-link DUBLIN_CORE" href="/publication/ofr96266?mimetype=dublincore">Dublin
+                            Core</a></li>
+                </ul>
+            </section>
+            
+                
+                    <section itemprop="description" id="abstract">
+                        <h4 id="abstract_head">Abstract</h4>
+                        <div>
+                            <div class="abstract-contents">
+
+                                <p>Earthquakes occur in clusters. After one earthquake happens, we usually see others at nearby (or identical) locations. To talk about this phenomenon, seismologists coined three terms foreshock , mainshock , and aftershock. In any cluster of earthquakes, the one with the largest magnitude is called the mainshock; earthquakes that occur before the mainshock are called foreshocks while those that occur after the mainshock are called aftershocks. A mainshock will be redefined as a foreshock if a subsequent event in the cluster has a larger magnitude.</p>
+<br/>
+<p>Aftershock sequences follow predictable patterns. That is, a sequence of aftershocks follows certain global patterns as a group, but the individual earthquakes comprising the group are random and unpredictable. This relationship between the pattern of a group and the randomness (stochastic nature) of the individuals has a close parallel in actuarial statistics. We can describe the pattern that aftershock sequences tend to follow with well-constrained equations. However, we must keep in mind that the actual aftershocks are only probabilistically described by these equations. Once the parameters in these equations have been estimated, we can determine the probability of aftershocks occurring in various space, time and magnitude ranges as described below.</p>
+<br/>
+<p>Clustering of earthquakes usually occurs near the location of the mainshock. The stress on the mainshock's fault changes drastically during the mainshock and that fault produces most of the aftershocks. This causes a change in the regional stress, the size of which decreases rapidly with distance from the mainshock. Sometimes the change in stress caused by the mainshock is great enough to trigger aftershocks on other, nearby faults. While there is no hard "cutoff" distance beyond which an earthquake is totally incapable of triggering an aftershock, the vast majority of aftershocks are located close to the mainshock. As a rule of thumb, we consider earthquakes to be aftershocks if they are located within a characteristic distance from the mainshock. This distance is usually taken to be one or two times the length of the fault rupture associated with the mainshock. For example, if the mainshock ruptured a 100 km length of a fault, subsequent earthquakes up to 100-200 km away from the mainshock rupture would be considered aftershocks. The fault rupture length was approximately 15 km in the 1994 Northridge earthquake, and 430 km in the great 1906 earthquake.</p>
+                            </div>
+                        </div>
+                    </section>
+                
+                
+                
+                    
+                
+            
+            
+            
+            
+                <section>
+                    <h4>Suggested Citation</h4>
+                    <p id="suggested-citation">Jones, L.M., and Reasenberg, P.A., 1996, Some facts about aftershocks to large earthquakes in California: U.S. Geological Survey Open-File Report 96-266, 4 p., https://doi.org/10.3133/ofr96266.</p>
+                    
+                        <p>ISSN: 2331-1258 (online)</p>
+                    
+                    
+                </section>
+            
+                <section>
+                    <h4>Study Area</h4>
+                    <div id="mymap" style="width:90%;height:450px;"></div>
+
+                </section>
+
+            <section id="details">
+                <table class="usa-table usa-table--borderless">
+                    <tbody>
+                    
+                        <tr>
+                            <th scope="row">Publication Type</th>
+                            <td>Report</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Publication Subtype</th>
+                            <td>USGS Numbered Series</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Title</th>
+                            <td>Some facts about aftershocks to large earthquakes in California</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Series Title</th>
+                            <td>Open-File Report</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Series Number</th>
+                            <td>96-266</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">DOI</th>
+                            <td>10.3133/ofr96266</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Year Published</th>
+                            <td>1996</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Language</th>
+                            <td>English</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Publisher</th>
+                            <td>U.S. Geological Survey</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Contributing Office(s)</th>
+                            <td>Volcano Hazards Program</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Description</th>
+                            <td>4 p.</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">Country</th>
+                            <td>United States</td>
+                        </tr>
+                    
+                        <tr>
+                            <th scope="row">State</th>
+                            <td>California</td>
+                        </tr>
+                    
+                    </tbody>
+                    <caption>Additional Publication Details</caption>
+                </table>
+            </section>
+            
+                <aside>
+                    <small><p class="adobeReader">Part or all of this report is presented in Portable Document Format
+                        (PDF). For best results viewing and printing PDF documents, it is recommended that you download
+                        the documents to your computer and open them with Adobe Reader. PDF documents opened from your
+                        browser may not display or print as intended. Download the latest version of <a
+                                href="https://get.adobe.com/reader/">Adobe Reader</a>, free of charge. More information
+                        about viewing, downloading, and printing report files can be found at the <a
+                                href="https://pubs.usgs.gov/potential_problems.html">common download problems FAQ</a>.</p></small>
+                </aside>
+            
+            
+            <aside>
+                <i>*Disclaimer: English is the official language and authoritative version of all federal information.</i>
+            </aside>
+        </article>
+    </main>
+
+    
+        <div class="usa-modal usa-modal--lg" id="citations">
+            <div style="display:flex;justify-content: flex-end;padding-top: 0.5em;">
+                <button type="button" class="usa-button" aria-label="Close this window" data-close-modal style="background-color: unset;color:black">
+                    X
+                </button>
+            </div>
+            <div class="usa-modal__content">
+                <div class="usa-modal__main">
+                    
+                    <div id="modal_list_loading_indicator" hidden>Loading...</div>
+                    <div id="modal_list" class="citation-modal-list"></div>
+                    <div class="usa-modal__footer"></div>
+                </div>
+            </div>
+        </div>
+    
+    
+    
+    <script type="application/javascript" defer>
+
+        // returns true if the element or one of its parents has the class classname
+        function hasSomeParentTheClass(element, classname) {
+            if (element.className.split(' ').indexOf(classname)>=0) return true;
+            return element.parentElement && hasSomeParentTheClass(element.parentElement, classname);
+        }
+    
+        let modal_has_been_opened = false;
+    
+        const p = new Promise((resolve, reject) => {
+            window.addEventListener('load', (event) => {
+    
+                document.addEventListener("pubswh-page-loaded", (event) => {
+                    console.log('Event "pubswh-page-loaded" received: ', event.detail);
+                    let modal_button = document.getElementById("modal-button");
+                    if (modal_button){
+                        modal_button.hidden=false;
+                    }
+                });
+    
+                let postLoadActionSummary = [];
+    
+                // section-508 compliance
+                var mjx_assistive_mml = document.getElementsByTagName("mjx-assistive-mml");
+                for (var i = 0; i < mjx_assistive_mml.length; i++){
+                    mjx_assistive_mml[i].role = "math";
+                    mjx_assistive_mml[i].aria_label = "";
+                    
+                    postLoadActionSummary.push("Completed 508 operation [role=math, aria_label=''] on [mjx_assistive_mml] element ");
+                }
+    
+                // section-508 compliance
+                var mjx_container = document.getElementsByTagName("mjx-container");
+                for (var i = 0; i < mjx_container.length; i++){
+                    mjx_container[i].role = "math";
+                    mjx_container[i].aria_label = "";
+                    
+                    postLoadActionSummary.push("Completed 508 operation [role=math, aria_label=''] on [mjx_container] element: ");
+                }
+    
+                //section 508 compliance -- hide cells without 'headers' attribute. 
+                var y = Array.from(document.getElementsByTagName("td")).filter(e => e.headers == "")
+                for (var i = 0; i < y.length; i++){
+    
+                    y[i]['aria-hidden'] = "true";
+                    postLoadActionSummary.push("assigned headers attribute: " + y[i].headers);
+                }
+    
+                // sticky headers on tables
+                // For each table on the page,...
+                //      - Create Fixed Header
+                //      - Top and bottom scroll
+                var table_panels = document.getElementsByClassName("table-wrap");
+                for (var i = 0; i < table_panels.length; i++)
+                {
+                    // tables to skip 
+                    var x = hasSomeParentTheClass(table_panels[i], 'conversion-factors');
+                    if (!x){
+                        // assuming the first child element of the table is the anchor with id.
+                        var id = table_panels[i].firstChild.id;
+                        try
+                        {
+                            var table_scroll_container = table_panels[i].querySelector('.table-scroll-container');
+    
+                            // this should filter out tables used for formatting
+                            var table_pdf = table_panels[i].querySelector('.table-pdf');
+                            if (table_pdf != null)
+                            {
+                                var original_thead = table_scroll_container.getElementsByClassName('table-pdf')[0].getElementsByTagName('thead')[0];
+                                // filter out tables without thead
+                                if (original_thead != null)
+                                {
+                                    // if width of table is less than the width of the container, expand 
+                                    if (table_pdf.offsetWidth < table_scroll_container.offsetWidth){
+                                        table_pdf.width = table_scroll_container.offsetWidth;
+                                    }
+    
+                                    // container for cloned header which will stick to the top
+                                    var fixed_header_wrapper = table_panels[i].querySelector('.fixed-header-wrapper');
+                                    var fixed_header_div = fixed_header_wrapper.querySelector('.fixed-header');
+                                    
+                                    // create cloned header
+                                    var table_cloned = table_pdf.cloneNode(true);
+                                    table_cloned.removeChild(table_cloned.getElementsByTagName('tbody')[0]);
+                                    table_cloned.style['margin-bottom'] = '0rem';
+    
+                                    // attach cloned header to container
+                                    fixed_header_div.appendChild(table_cloned);
+                                    // set width of container to width of table (will match scrollbars)
+                                    fixed_header_div.style.width = table_pdf.offsetWidth + 'px';
+    
+                                    // hide original header
+                                    original_thead.style['visibility'] = 'collapse';
+    
+                                    // set original header aria-hidden
+                                    original_thead.ariaHidden = true;
+    
+                                    // go through the th's in the new fixed header, modify their ID to enforce uniqueness, and set aria-hidden to prevent further problems.
+                                    Array.from(table_cloned.getElementsByTagName('th')).forEach((el) => {
+                                        el.id = el.id + "_COLLAPSED";
+                                        el.ariaHidden = true;
+                                        //console.log("Modified ID of " + el.id.toString());
+                                    });
+    
+                                    // set width of cloned header to match width of table
+                                    table_cloned.style.width = 'inherit';
+    
+                                    // prevents vertical scrollbar from appearing when header is collapsed
+                                    table_scroll_container.style['overflow-y'] = 'hidden';
+    
+                                    original_thead.style.display = 'none;';
+    
+                                    // set event listeners to synchronize scrolling from top and bottom
+                                    if (fixed_header_wrapper != null && table_scroll_container != null){
+                                        // sync top scroll bar to bottom
+                                        fixed_header_wrapper.onscroll = function(e) {
+                                            e.target.parentElement.querySelector('.table-scroll-container').scrollLeft = e.target.scrollLeft;
+                                        };
+                                        // sync bottom scroll bar to top
+                                        table_scroll_container.onscroll = function(e) {
+                                            e.target.parentElement.querySelector('.fixed-header-wrapper').scrollLeft = e.target.scrollLeft;
+                                        };
+                                    }
+                                    
+                                    postLoadActionSummary.push("Completed Fixed Header operation");
+    
+                                }
+                            }
+                        }catch(error){
+                            console.log("problem with table id: " + id);
+                            console.log(error);
+                            reject(error);
+                        }
+                    }
+                }
+    
+               
+                
+                
+                
+                let modal_button = document.getElementById("modal-button");
+                modal_button.addEventListener("click", (event) => {
+                    // console.log(modal_has_been_opened);
+    
+                    if (modal_has_been_opened === false) {
+                        const p = new Promise((resolve, reject) => {
+                        
+                            let loading_indicator = document.getElementById("modal_list_loading_indicator");
+                            loading_indicator.hidden = false;
+    
+    
+                            let data = [{"citing_doi": "10.1061/NHREFO.NHENG-1697", "type": "journal_article"}, {"citing_doi": "10.1007/978-3-031-95288-3_33", "type": "book_content"}];
+                            // console.log(data);
+                            fetch('/get_citation_data', {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/json', 
+                                },
+                                body: JSON.stringify(data), 
+                            })
+                            .then(response => {
+                                
+                                if (!response.ok) throw new Error('Network response was not ok');
+                                return response.json(); 
+                            })
+                            .then(data => {  
+                                let data_response = data.response;
+                                let modal_list = document.getElementById('modal_list');
+                                
+                                for (let i = 0; i < data_response.length; i++){
+                                    
+                                    let newDiv = document.createElement("div");
+    
+                                    newDiv.textContent = data_response[i].formatted_citation;
+                                    newDiv.className = "citation-modal-list-element";
+                                    
+                                    modal_list.appendChild(newDiv);
+                                }
+                                
+                                modal_has_been_opened = true;
+                                loading_indicator.hidden = true;
+                                
+                            })
+                            .catch(error => console.error('Fetch error:', error))
+                            .finally(() => {});
+    
+                        }).then((event) => {
+                            
+                            resolve();
+                        }).catch((error) => {
+                            console.error(error.message); 
+                        }).finally(() => {});
+                    }
+                });
+                
+                
+                var event = new CustomEvent("pubswh-page-loaded", 
+                { 
+                    
+                    "detail": {
+                        "message": "post-load actions completed.",
+                        "summary": postLoadActionSummary
+                         }
+                });
+                resolve(event);
+                
+                
+            });
+        }).then((event) => {
+            document.dispatchEvent(event);
+        })
+        .catch((error) => {
+            console.error(error.message); 
+        })
+        .finally(() => {
+            
+        });
+    
+    </script>
+
+
+    </div>
+
+
+        </main>
+        <footer class="usa-footer" role="contentinfo">
+    <nav class="usa-footer__primary-section" aria-label="Footer Navigation">
+        <div class="usgs-footer-nav">
+            <a class="usgs-footer-link" href="https://www.doi.gov/privacy">DOI Privacy Policy</a> |
+            <a class="usgs-footer-link" href="https://www.usgs.gov/policies-and-notices">Legal</a> |
+            <a class="usgs-footer-link" href="https://www.usgs.gov/accessibility-and-us-geological-survey">Accessibility</a> |
+            <a class="usgs-footer-link" href="https://www.usgs.gov/sitemap.html">Site Map</a> |
+            <a class="usgs-footer-link" href="https://answers.usgs.gov/">Contact USGS</a>
+        </div>
+        <div class="usgs-footer-nav">
+            <a class="usgs-footer-link" href="https://www.doi.gov/">U.S. Department of the Interior</a> |
+            <a class="usgs-footer-link" href="https://www.doioig.gov/">DOI Inspector General</a> |
+            <a class="usgs-footer-link" href="https://www.whitehouse.gov/">White House</a> |
+            <a class="usgs-footer-link" href="https://www.whitehouse.gov/omb/management/egov/">E-gov</a> |
+            <a class="usgs-footer-link" href="https://www.doi.gov/pmb/eeo/no-fear-act">No Fear Act</a> |
+            <a class="usgs-footer-link" href="https://www.usgs.gov/about/organization/science-support/foia">FOIA</a>
+        </div>
+    </nav>
+</footer>
+        
+    
+    <script defer>
+        window.addEventListener('DOMContentLoaded', () => {
+            SystemJS.import("https://pubs.usgs.gov/static/scripts/pubswh_plugins.8fc0c943.js");
+        });
+    </script>
+    <!-- <script async type="application/javascript"
+            src="https://www2.usgs.gov/scripts/analytics/usgs-analytics.js"></script> -->
+
+   <script defer ype="text/javascript" src="https://pubs.usgs.gov/static/vendor/leaflet/leaflet.js"></script>
+        <script defer type="text/javascript" src="https://pubs.usgs.gov/static/vendor/esri-leaflet/esri-leaflet.js"></script>
+        <script defer type="application/javascript">
+            window.addEventListener('load', (event) => {
+                SystemJS.import("https://pubs.usgs.gov/static/scripts/resultsMap.fd2aab23.js").then(function (resultsMap) {
+                    resultsMap.createResultsMap({
+                        mapDivId: 'mymap',
+                        publications: [{"abstractHeader": "Abstract", "altmetric": {"details": "https://www.altmetric.com/details.php?citation_id=198645704", "image": "https://badges.altmetric.com/?size=64\u0026score=7\u0026types=mmmmmmmm"}, "authorsList": ["Lucile M. Jones", "Paul A. Reasenberg"], "authorsListTyped": [{"email": "jones@usgs.gov", "text": "Lucile M. Jones", "type": "person"}, {"text": "Paul A. Reasenberg", "type": "person"}], "context_item": "ofr96266", "contributors": {"authors": [{"affiliations": [{"active": true, "id": 508, "text": "Office of the AD Hazards", "usgs": true}], "contributorId": 1014, "contributorType": {"id": 1, "text": "Authors"}, "corporation": false, "email": "jones@usgs.gov", "family": "Jones", "given": "Lucile", "id": 190215, "middleInitial": "M.", "preferred": true, "rank": 1, "text": "Jones, Lucile M. jones@usgs.gov", "usgs": true}, {"affiliations": [], "contributorId": 35760, "contributorType": {"id": 1, "text": "Authors"}, "corporation": false, "email": "", "family": "Reasenberg", "given": "Paul", "id": 190216, "middleInitial": "A.", "preferred": false, "rank": 2, "text": "Reasenberg, Paul A.", "usgs": true}]}, "costCenters": [{"active": true, "id": 615, "text": "Volcano Hazards Program", "usgs": true}], "country": "United States", "crossref": {"forward_links_dict": [{"citing_doi": "10.1061/NHREFO.NHENG-1697", "type": "journal_article"}, {"citing_doi": "10.1007/978-3-031-95288-3_33", "type": "book_content"}], "number_of_citing_DOIs": 2}, "details": [{"Publication Type": "Report"}, {"Publication Subtype": "USGS Numbered Series"}, {"Title": "Some facts about aftershocks to large earthquakes in California"}, {"Series Title": "Open-File Report"}, {"Series Number": "96-266"}, {"DOI": "10.3133/ofr96266"}, {"Year Published": "1996"}, {"Language": "English"}, {"Publisher": "U.S. Geological Survey"}, {"Contributing Office(s)": "Volcano Hazards Program"}, {"Description": "4 p."}, {"Country": "United States"}, {"State": "California"}], "displayLinks": {"Abstract": [], "Additional Report Piece": [], "Appendix": [], "Application Site": [], "Authors Website": [], "Chapter": [], "Companion Files": [], "Cover": [], "Data Release": [], "Database": [], "Dataset": [], "Digital Object Identifier": [], "Document": [{"id": 52793, "linkFileType": {"id": 1, "text": "pdf"}, "rank": 300, "type": {"id": 11, "text": "Document"}, "url": "https://pubs.usgs.gov/of/1996/0266/pdf/of96-266.pdf"}], "Errata": [], "Figure": [], "HTML Document": [], "Illustration": [], "Image": [], "Image Folder": [], "Index Page": [{"id": 1570, "linkFileType": {"id": 5, "text": "html"}, "rank": 1, "text": "USGS Index Page", "type": {"id": 15, "text": "Index Page"}, "url": "https://pubs.usgs.gov/of/1996/0266/"}], "Metadata": [], "NGMDB Index Page": [], "Open Access External Repository Page": [], "Open Access Publisher Index Page": [], "Open Access USGS Document": [], "Plate": [], "Project Site": [], "Publication XML": [], "Raw Data": [], "Read Me": [], "Referenced Work": [], "Related Work": [], "Sheet": [], "Software Release": [], "Spatial Data": [], "Table": [], "Thumbnail": [{"id": 284169, "rank": 1, "type": {"id": 24, "text": "Thumbnail"}, "url": "https://pubs.usgs.gov/thumbnails/usgs_thumb.jpg"}], "USGS Store Link": [], "Version History": []}, "displayToPublicDate": "1996-11-01T00:00:00", "docAbstract": "\u003cp\u003eEarthquakes occur in clusters. After one earthquake happens, we usually see others at nearby (or identical) locations. To talk about this phenomenon, seismologists coined three terms foreshock , mainshock , and aftershock. In any cluster of earthquakes, the one with the largest magnitude is called the mainshock; earthquakes that occur before the mainshock are called foreshocks while those that occur after the mainshock are called aftershocks. A mainshock will be redefined as a foreshock if a subsequent event in the cluster has a larger magnitude.\u003c/p\u003e\n\u003cbr/\u003e\n\u003cp\u003eAftershock sequences follow predictable patterns. That is, a sequence of aftershocks follows certain global patterns as a group, but the individual earthquakes comprising the group are random and unpredictable. This relationship between the pattern of a group and the randomness (stochastic nature) of the individuals has a close parallel in actuarial statistics. We can describe the pattern that aftershock sequences tend to follow with well-constrained equations. However, we must keep in mind that the actual aftershocks are only probabilistically described by these equations. Once the parameters in these equations have been estimated, we can determine the probability of aftershocks occurring in various space, time and magnitude ranges as described below.\u003c/p\u003e\n\u003cbr/\u003e\n\u003cp\u003eClustering of earthquakes usually occurs near the location of the mainshock. The stress on the mainshock\u0027s fault changes drastically during the mainshock and that fault produces most of the aftershocks. This causes a change in the regional stress, the size of which decreases rapidly with distance from the mainshock. Sometimes the change in stress caused by the mainshock is great enough to trigger aftershocks on other, nearby faults. While there is no hard \"cutoff\" distance beyond which an earthquake is totally incapable of triggering an aftershock, the vast majority of aftershocks are located close to the mainshock. As a rule of thumb, we consider earthquakes to be aftershocks if they are located within a characteristic distance from the mainshock. This distance is usually taken to be one or two times the length of the fault rupture associated with the mainshock. For example, if the mainshock ruptured a 100 km length of a fault, subsequent earthquakes up to 100-200 km away from the mainshock rupture would be considered aftershocks. The fault rupture length was approximately 15 km in the 1994 Northridge earthquake, and 430 km in the great 1906 earthquake.\u003c/p\u003e", "doi": "10.3133/ofr96266", "formattedModifiedDateTime": "March 18, 2014 13:09:45", "geographicExtents": {"features": [{"geometry": {"coordinates": [[[-124.41, 32.53], [-124.41, 42.01], [-114.13, 42.01], [-114.13, 32.53], [-124.41, 32.53]]], "type": "Polygon"}, "id": "ofr96266.base_id", "properties": {"id": "ofr96266", "info": "1996, Open-File Report 96-266", "title": "Some facts about aftershocks to large earthquakes in California", "url": "https://pubs.usgs.gov/publication/ofr96266", "year": "1996"}, "type": "Feature"}], "properties": {"title": "Some facts about aftershocks to large earthquakes in California"}, "type": "FeatureCollection"}, "hasExcel": false, "id": 23504, "indexId": "ofr96266", "interactions": [], "issn": "0094-9140", "language": "English", "lastModifiedDate": "2014-03-18T13:09:45", "links": [{"id": 284169, "type": {"id": 24, "text": "Thumbnail"}, "url": "https://pubs.usgs.gov/thumbnails/usgs_thumb.jpg"}, {"id": 1570, "linkFileType": {"id": 5, "text": "html"}, "rank": 100, "type": {"id": 15, "text": "Index Page"}, "url": "https://pubs.usgs.gov/of/1996/0266/"}, {"id": 52793, "linkFileType": {"id": 1, "text": "pdf"}, "rank": 300, "type": {"id": 11, "text": "Document"}, "url": "https://pubs.usgs.gov/of/1996/0266/pdf/of96-266.pdf"}], "noUsgsAuthors": false, "noYear": false, "numberOfPages": "4", "offers": null, "productDescription": "4 p.", "pubHasNoLinks": false, "publicationStatus": "PW", "publicationSubtype": {"id": 5, "text": "USGS Numbered Series"}, "publicationType": {"id": 18, "text": "Report"}, "publicationYear": "1996", "publisher": "U.S. Geological Survey", "relationships": {"@context": {"dc": "https://purl.org/dc/elements/1.1/", "rdac": "https://rdaregistry.info/Elements/c/", "rdaw": "https://rdaregistry.info/Elements/w/", "rdaw:replacedByWork": {"@type": "@id"}, "rdaw:replacementOfWork": {"@type": "@id"}, "xsd": "https://www.w3.org/2001/XMLSchema#"}, "@graph": [{"@id": "https://pubs.usgs.gov/publication/ofr96266", "@type": "rdac:Work", "dc:date": "1996", "dc:title": "Some facts about aftershocks to large earthquakes in California"}]}, "scienceBaseUri": "4f4e49e9e4b07f02db5e933f", "seriesNumber": "96-266", "seriesTitle": {"active": true, "code": "OFR", "id": 330, "onlineIssn": "2331-1258", "printIssn": "0196-1497", "publicationSubtype": {"id": 5}, "text": "Open-File Report"}, "state": "California", "text": "ofr96266 - 1996 - Some facts about aftershocks to large earthquakes in California", "title": "Some facts about aftershocks to large earthquakes in California", "usgsCitation": "Jones, L.M., and Reasenberg, P.A., 1996, Some facts about aftershocks to large earthquakes in California: U.S. Geological Survey Open-File Report 96-266, 4 p., https://doi.org/10.3133/ofr96266."}],
+                        enablePopup: false
+                    });
+                });
+            });
+        </script>
+    
+
+
+   <script>
+       var GA = {};
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r;
+           i[r] = i[r] || function () {
+                   (i[r].q = i[r].q || []).push(arguments)
+               }, i[r].l = 1 * new Date();
+           a = s.createElement(o),
+               m = s.getElementsByTagName(o)[0];
+           a.async = 1;
+           a.src = g;
+           m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-10113280-1', 'auto');
+       ga('send', 'pageview');
+
+       GA.trackGAEvent = function (category, actions, labels, values) {
+           ga('send', 'event', category, actions, labels, values);
+       };
+   </script>
+
+    <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5e7025c88a0f977',t:'MTc5NTM0MDgwOQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5e7025c88a0f977',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

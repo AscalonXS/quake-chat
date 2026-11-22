@@ -1,0 +1,1599 @@
+================================================================================
+08. TRAPPED PERSON / COLLAPSED STRUCTURE
+================================================================================
+
+PURPOSE
+Safety and emergency communication guidance for people trapped by earthquake debris or collapsed structures.
+
+IMPORTANT RAG SAFETY RULE
+This document contains relatively static emergency preparedness and response guidance. It must not be used as the sole source for current emergency status. Current tsunami warnings, earthquake activity, evacuation orders, shelter availability, rescue status, and missing-person information should be retrieved from current official sources.
+
+COLLECTED: 2026-11-22T10:06:21.511823+00:00
+SOURCES: 16
+
+
+################################################################################
+08.03 Calling Emergency Services
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: What to do After an Earthquake | Seismic Safety Commission
+URL: https://www.ssc.ca.gov/after-a-quake/what-to-do/
+DOMAIN: www.ssc.ca.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T09:56:03.961829+00:00
+
+SEARCH SNIPPET
+Local Assistance Centers (LACs) may open after major disasters to help residents access services in one location. These centers can assist with: Donate through trusted organizations. What's Next? Once immediate safety concerns have been addressed: Go to Response & Recovery.
+
+SOURCE CONTENT
+Home
+
+After a Quake
+
+What to do After an Earthquake
+What to do After an Earthquake
+Immediate steps to take after an earthquake to stay safe and help others.
+Start Here
+Protect yourself and others
+Check yourself for injuries before helping others
+Help injured or trapped people if it is safe to do so
+Do not move seriously injured people unless they are in immediate danger
+Emergency help
+American Red Cross Emergency Guidance
+If you are in immediate danger or need emergency assistance:
+Call 911 if available
+Reduce Immediate Dangers
+Prevent fires and hazards
+Look for and extinguish small fires
+Eliminate fire hazards
+Clean up spilled flammable liquids such as gasoline or chemicals
+Protect yourself from injury
+Wear sturdy shoes and protective clothing
+Watch for broken glass and debris
+Use flashlights instead of candles to avoid fire risk
+Check Your Home
+Inspect your surroundings
+Inspect your home for damage
+Leave immediately if the building is unsafe
+Stay out of damaged buildings until authorities say it is safe
+Open cabinets and closets carefully, as contents may have shifted
+Shelter & Utilities
+If your home is unsafe, evacuate and follow local emergency instructions
+Seek temporary shelter with Local Assistance Centers, county emergency services, or
+Red Cross – Find an Open Shelter
+Report downed power lines to your utility provider
+Turn off utilities if you suspect damage
+Avoid drinking tap water until officials confirm it is safe
+Use flashlights instead of candles until gas leaks are ruled out
+Power Outage and Fire Recovery
+www.flexalert.org
+Stay Informed
+Get reliable updates
+Listen to a battery-powered radio or local news for emergency information
+Follow instructions from local officials
+Use phones only for emergency calls to keep lines open
+Live earthquake data and information
+USGS Earthquake Hazards Program
+Real-time earthquake map
+View Map
+California emergency updates
+View Updates
+Disaster Assistance
+Temporary Housing
+Home repair support
+Financial aid after a disaster declaration
+Crisis counseling and emotional support
+Disaster Assistance (State & Federal)
+CalOES Individual Assistance
+Community Support
+American Red Cross Disaster Services
+Local Assistance Centers (LACs) may open after major disasters to help residents access services in one location. These centers can assist with:
+Disaster assistance applications
+Housing and social services
+Insurance questions
+Replacement of vital records
+Volunteer & Donation Information
+If you want to help:
+Donate through trusted organizations.
+Volunteer with approved disaster response groups
+Avoid self-deploying to disaster areas
+Expect Aftershocks
+Be prepared for continued shaking
+Aftershocks may occur minutes, days, or months after the earthquake
+If shaking occurs again:
+Drop, Cover, and Hold On
+What's Next?
+Once immediate safety concerns have been addressed:
+Go to
+Response & Recovery
+Quick Links
+Get Prepared
+Policy Meeting Dates
+Publications
+What To Do After an Earthquake
+About SSC
+Careers
+
+
+################################################################################
+08.05 Communicating With Rescuers
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: FINDER Finds Its Way into Rescuers’ Toolkits | NASA Spinoff
+URL: https://spinoff.nasa.gov/FINDER-Finds-Its-Way-into-Rescuers-Toolkits
+DOMAIN: spinoff.nasa.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T09:58:15.608069+00:00
+
+SEARCH SNIPPET
+Jan 31, 2023 · With NASA’s help, the Department of Homeland Security (DHS) was able to produce designs and prototypes for a tool that could detect people trapped under several feet of rubble, one that’s now being used for several public safety applications.
+
+SOURCE CONTENT
+menu
+Search
+search
+Advanced Search
+FINDER Finds Its Way into Rescuers’ Toolkits
+NASA-designed technology helps find trapped individuals in the wake of disaster
+Originally published 01/31/2023
+After a natural disaster, time is of the essence to find and rescue missing people. In collapsed buildings, survivors could be trapped under enormous piles of rubble. Even with the assistance of specialized teams or trained dogs, it can take days to find people, and by then, responders might be too late. With NASA’s help, the Department of Homeland Security (DHS) was able to produce designs and prototypes for a tool that could detect people trapped under several feet of rubble, one that’s now being used for several public safety applications.
+In 2010, the Federal Emergency Management Agency (FEMA) Urban Search and Rescue Task Force teams provided humanitarian aid after a devastating earthquake in Haiti, where hundreds of people were trapped under fallen buildings in the country’s capital of Port-au-Prince. Incidents like this were the catalyst for a request to the DHS Science and Technology Directorate for a technology that would add to the search and rescue toolbox for first responders to locate people trapped under rubble in similar disasters.
+The request soon came to managers at NASA’s Jet Propulsion Laboratory in Southern California. Homeland Security had seen that JPL had previously collaborated with the military on remote sensing technology to try and measure heartbeats from a distance, and the department thought that work might help with the tool request. The project was dubbed Finding Individuals for Disaster Emergency Response (FINDER), and a team was assembled at JPL to design a prototype, funded by DHS.
+Don’t Skip a Beat
+FINDER works by using microwave radar to detect miniscule motions of the body caused by processes innate to living things, such as heartbeats or respiration. While these tiny movements are hard to see with the human
+eye, the wavelengths used by microwave radar can penetrate deep through mountains of dirt and rubble.
+“Your body moves a millimeter when your heart beats. Because the rubble itself isn’t moving, we can separate those motions out. Then, we look to see if the motion shows both heartbeats and respiration,” said Jim Lux, who was task manager on the FINDER prototypes.
+FINDER can distinguish between movements made by people and machinery, and even between people and animals – an important distinction in the rapid-paced search-and-rescue environment.
+The prototypes were built into a Pelican case, a brand of ruggedized container typically used to transport high-end gear and equipment. First responder teams have other equipment in Pelican cases, so they know how to pack and repair them.
+“Search and rescue is all about logistics,” Lux said. “If you make a weird box and the handle breaks off, that’s a problem for them. Build it into something they’re used to, and they know exactly what to do.”
+The initial FINDER wasn’t without its limitations. It couldn’t accurately determine how many individuals were buried, and it couldn’t see very far past certain materials, such as solid metal walls, but the concept proved to have merits.
+“The NASA culture is to try and make things perfect,” Lux said. “We were told by the DHS undersecretary, ‘You’re going to want to make it perfect, but I would rather have something that is an 80% solution, because during the years of making it perfect, people will die. If you give us something that’s not quite perfect, we can save lives in the meantime, and we can work on it more later.’”
+After the initial prototype showed promise, SpecOps Group Inc. of Sarasota, Florida, was one of two companies that received licenses to build commercial versions of FINDER. Founded by Adrian Garulay and Tom Coulter in 2015, SpecOps is dedicated to equipping public safety and military organizations with tools to protect people. The company’s leadership is made up of former military and government officials, who saw the benefits in a technical partnership with NASA.
+The company constructed additional prototypes with the help of the designers at NASA and continued to work with Lux and JPL to get manufacturing going. SpecOps saw several scenarios the technology could be used for, such as searching for people buried under snow after an avalanche.
+“The way they look for people in avalanches right now is by sticking long poles in and seeing if they hit you. It’s a really tedious process,” Lux said. “With FINDER, you can put the sensor on a long rope and drag it along the surface, looking for the heartbeats under the snow.”
+After FINDER was completed, Lux moved on to other projects at NASA, but SpecOps kept working at it. X3 FINDER, the latest variant, has differences from the original NASA-designed version. Housed in a bright-red case, X3 FINDER is much lighter than the prototypes, weighing in at only 13 pounds, and is more capable, able to conduct a full scan in under 30 seconds, compared to the 90 the original took. An advanced model of the X3 FINDER called FINDER MK4 is even lighter and interfaces to iOS and Android phones.
+FINDER Gets Found
+Of the two companies that partnered in the program, SpecOps is the only company still producing a FINDER derivative.
+Long after its initial request for a new tool, FEMA deployed X3 FINDER in the Bahamas after Hurricane Dorian in 2019, assisting in recovery after the Category 5 storm.
+All of SpecOps’ sales have been to local or national government authorities. One of the company’s most notable non-military sales is to the fire and rescue department in Orange County, California. SpecOps has also taken FINDER international. In addition to having sales offices in Singapore and Sweden, it’s sold the product to public safety departments in countries such as the United Kingdom, France, Norway, Saudi Arabia, and the Philippines.
+Garulay said the initial sales from FINDER are funding additional detection devices intended for police use, such as Cyclops ID, a handheld device that detects movement through walls via Doppler radar and can locate subjects in three seconds.
+“Same principle, just in a different form,” Garulay said.
+Across the world, FINDER devices are being kept in reserve and demonstrating their usefulness in the meantime. Both Garulay and Lux think this collaboration between NASA and private industry will save hundreds of lives.
+“It’s rewarding to work with these licensees. They’re the ones in touch with the users, learning about how they work or any issues they may have,” Lux said. “They can take a concept that has a lot of warts and work on it a lot easier than NASA can.”
+The Jet Propulsion Laboratory worked with the Department of Homeland Security to construct a prototype of a device that can detect people buried under several feet of material. JPL licensed this technology to SpecOps Group of Sarasota Florida, which is now being sold to public safety departments all over the world.
+During the Department of Homeland Security’s (DHS) Shaken Fury exercise in 2019, rescue teams from several countries tested X3 FINDER for use in finding people trapped after several disasters, such as floods and earthquakes. Credit: SpecOps Group Inc.
+In 2019, SpecOps’ X3 FINDER was deployed in the Philippines to help find people buried under rubble after an earthquake in Davao City. Using a tablet, rescue workers are able to see if there are any people in need of rescue. Credit: SpecOps Group Inc.
+An emergency responder in Mexico City carries an X3 FINDER while responding to a 7.1 magnitude earthquake. Credit: SpecOps Group Inc.
+The MK4 version of X3 FINDER is noticeably smaller than previous iterations and is compatible with both iOS and Android devices. Credit: SpecOps Group Inc.
+To test the prototype version of FINDER, several NASA engineers, including Jim Lux (second from the left), worked alongside DHS at the Virginia Task Force 1 Training Facility in Lorton, Virginia to test how far the device could see into rubble. Credit: Department of Homeland Security/John Price
+Related Stories
+Saving Lives at Sea and on Land
+For Battery Safety, KULR Heads Prevail
+Feeding People Through Disasters
+Giving Sensors Good Optics
+Where the Wildfires Are
+Spherical Robots to the Rescue
+Stay Safe with Battery Testing for Space
+Answering the Call of Distress
+Space-Grade Safety Checks for Poultry
+Analyze Hazards, Establish Control
+
+
+################################################################################
+08.07 Text Messages
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: Earthquake Notification Service - USGS Earthquake Hazards Program
+URL: https://earthquake.usgs.gov/ens/
+DOMAIN: earthquake.usgs.gov
+SOURCE TYPE: Official government / international organization
+AUTHORITY SCORE: 100/100
+RETRIEVED: 2026-11-22T09:59:06.050169+00:00
+
+SEARCH SNIPPET
+The Earthquake Notification Service (ENS) sends users free email or text messages when earthquakes occur. Users customize ENS messaging based on where and how large the earthquake is. That might be: Earthquakes of any size in a region of interest. Users can have multiple email addresses.
+
+SOURCE CONTENT
+The Earthquake Notification Service (ENS)
+sends users free email or text messages when
+earthquakes occur
+.
+Users
+customize
+ENS messaging
+based on where and how large
+the
+earthquake is.
+That might be:
+Large earthquakes anywhere,
+Moderate earthquakes in the U.S., or
+Earthquakes of any size in a region of interest.
+Users can have multiple email addresses. ENS can also text your cell phone if your carrier
+supports email-to-text functionality.
+ENS messages
+provide a
+short text summary plus a link
+to more
+details.
+List of
+available message products.
+Instructions and More Information
+Manage Your Account
+Username:
+Password:
+Login
+Forgot username/password
+Sign up for ENS
+Unsubscribe from ENS
+News and Notifications
+Shaking at Points
+-
+a new message type
+that reports shaking
+intensity estimates from ShakeMap
+for points of interest to the user
+.
+Earthquake Notification Service
+can also deliver messages summarizing PAGER, ShakeMap,
+ShakeAlert®, and Aftershock Forecast:
+PAGER - Estimated earthquake impact on people and property.
+Aftershock Forecast - Expected number of aftershocks and the probability of larger earthquakes.
+Available for larger earthquakes in the U.S. and its territories, and selected consequential international earthquakes
+ShakeMap - Message that a ShakeMap has been made, and the peak estimated shaking intensity.
+ShakeAlert® - Message that a new ShakeAlert® earthquake early warning system performance report is available.
+Each message is sent separately
+, so one earthquake can generate up to five notifications.
+Current users will continue to receive Event messages that fit their applicable magnitude and region settings.
+Inactive users
+: Some ENS account holders have no method on file to send notifications.
+We have no way to contact you! To keep your ENS account, please log in and add your email or SMS information.
+Accounts with no contact information will be removed.
+Available Message Products:
+Event Report
+Earliest report of magnitude and location
+Event Report Home
+Example Event Message
+PAGER Summary
+Estimated impacts to people and property
+PAGER Home
+Example PAGER Message
+Aftershock Forecast
+Aftershock probabilities for U.S. earthquakes
+Aftershock Project Home
+Example Aftershock Message
+ShakeMap Text Summary
+Brief summary of peak shaking intensity
+ShakeMap Home
+Example ShakeMap Message
+ShakeAlert® system Performance Report
+Post ShakeAlert® Message Summary
+ShakeAlert® Home
+Example ShakeAlert® Message
+Shaking at Points
+Shaking intensity at user-selected points
+ShakeMap Home
+Example
+Shaking at Points Message
+Subject:
+User points in ShakeMap for M 6.7 - 1km NNW of Reseda, CA
+One or more of your ENS points is in the bounds of a new ShakeMap centered on 34.213N,
+118.537W, 2026-06-02 12:46 UT, version 1,
+https://earthquake.usgs.gov/earthquakes/eventpage/ci3144585/shakemap.
+Number of user points in ShakeMap: 1
+Peak shaking intensity estimate among user points: 5.9
+User Points:
+Intensity Name Lat, Lon
+5.9, Amusement Park, 33.8121, -117.919
+See https://earthquake.usgs.gov/data/shakemap for how shaking intensities are estimated by
+ShakeMap. Shaking estimates are preliminary and based on information available at the time the
+message is sent. Please check the USGS Web site for updates. Shaking estimates are uncertain
+so care is required if using for decision-making.
+
+----------------------------------------------------------------------
+SOURCE 2
+TITLE: Earthquakes - Ready.gov
+URL: https://www.ready.gov/earthquakes
+DOMAIN: www.ready.gov
+SOURCE TYPE: Official government / international organization
+AUTHORITY SCORE: 100/100
+RETRIEVED: 2026-11-22T09:58:57.340848+00:00
+
+SEARCH SNIPPET
+Sep 9, 2026 · Make an Emergency Plan: Create a family emergency communications plan that has an out-of-state contact. Plan where to meet if you get separated. Make a supply kit that includes enough food and water for several days, a flashlight, a fire extinguisher and a whistle.
+
+SOURCE CONTENT
+Disasters and Emergencies
+All Hazards
+Emergency Alerts
+Avalanche
+Biohazard Exposure
+Cybersecurity
+Drought
+Earthquakes
+Explosions
+Extreme Heat
+Floods
+Chemicals and Hazardous Materials Incidents
+Home Fires
+Home Safety
+Household Chemical Emergencies
+Hurricanes
+Landslides & Debris Flow
+Mass Gathering Incidents
+Pandemic
+Power Outages
+Radiation Emergencies
+Severe Weather
+Space Weather
+Thunderstorms & Lightning
+Tornadoes
+Tsunamis
+Volcanoes
+Wildfires
+Winter Weather
+Recovering from Disaster
+Make a Plan
+Ready Business
+Ready Kids
+Resources
+Earthquakes
+العربية
+English
+Español
+Français
+Kreyòl
+日本語
+한국어
+Русский
+Tagalog
+Tiếng Việt
+简体中文
+Before an Earthquake
+During an Earthquake
+After an Earthquake
+Additional Resources
+If you are a disaster survivor, please visit
+FEMA.gov
+for up-to-date information on current disaster declarations. If you have questions about your disaster assistance application, visit
+disasterassistance.gov
+, email
+AskIA@fema.dhs.gov
+or call the FEMA Helpline at 1-800-621-3362.
+Prepare Before an Earthquake
+Image
+The best time to prepare for any disaster is before it happens.
+Practice how to
+protect yourself during earthquakes
+, with family and coworkers.
+Sign up for
+earthquake alerts
+and get
+notified before an earthquake happens
+.
+Make an Emergency Plan:
+Create a
+family emergency communications plan
+that has an out-of-state contact. Plan where to meet if you get separated.
+Make a supply kit
+that includes enough food and water for several days, a flashlight, a fire extinguisher and a whistle.
+Being prepared allows you to avoid unnecessary trips and address minor medical issues at home, lessening the burden on urgent care centers and hospitals.
+Remember that not everyone can afford to respond by stocking up on necessities. For those who can afford it, make essential purchases and slowly build up supplies.
+Protect Your Home:
+Secure heavy items in your home like bookcases, refrigerators, water heaters, televisions and objects that hang on walls. Store heavy and breakable objects on low shelves.
+Consider making improvements to your building to fix structural issues that could cause your building to collapse during an earthquake.
+Consider obtaining an
+earthquake insurance policy
+. A standard homeowner’s insurance policy does not cover earthquake damage.
+During an Earthquake
+Image
+If an earthquake happens, protect yourself right away.
+If you are inside, stay and do not run outside; avoid doorways.
+If you are in bed, turn face down and cover your head and neck with a pillow.
+If you are in a car, pull over and stop. Set your parking brake.
+If you're outside, stay there. Move to an open area away from buildings, trees, streetlights and power lines. Drop and coveruntil shaking stops to protect yourself from flying debris. Learn more at
+Earthquake Country Alliance
+.
+Protect Yourself During Earthquakes
+Image
+1. Drop (or Lock)
+Drop where you are onto hands and knees.
+2. Cover
+Cover your head and neck with one arm and hand. If a sturdy table or desk is nearby, crawl underneath it for shelter. If no shelter is nearby, crawl next to an interior wall (away from windows). Stay on your knees; bend over to protect vital organs.
+3. Hold On
+Hold until the shaking stops. If under shelter, hold on with one hand and be ready to move with it when the shelter moves. If not under shelter, hold on to your head and neck with both arms and hands.
+Using a Cane?
+Image
+If you use a cane:
+DROP
+,
+COVER
+, and
+HOLD ON
+or sit on a chair, bed, etc. and cover your head and neck with both hands. Keep your cane near you so it can be used when the shaking stops.
+Using a Walker or Wheelchair?
+Image
+Image
+If you use a walker or wheelchair:
+LOCK
+your wheels (if applicable). If using a walker carefully get as low as possible. Bend over and
+COVER
+your head/neck with your arms, a book, or a pillow. Then
+HOLD ON
+until the shaking stops.
+After an Earthquake
+Image
+There can be serious hazards after an earthquake, such as damage to the building, leaking gas and water lines or downed power lines.
+Expect aftershocks to follow the main shock of an earthquake. Be ready to Drop, Cover and Hold On if you feel an aftershock.
+If you are in a damaged building, go outside and quickly move away from the building. Do not enter damaged buildings.
+If you are trapped, send a text or bang on a pipe or wall.
+Cover your mouth with your shirt for protection and instead of shouting, use a whistle.
+If you are in an area that may experience tsunamis, go inland or to higher ground immediately after the shaking stops. Avoid contact with floodwaters as they can contain chemicals, sewage and debris.
+Check yourself to see if you are hurt and help others if you have training. Be the help until help arrives.
+If you are sick or injured and need medical attention, contact your healthcare provider for instructions. If you are experiencing a medical emergency, call 9-1-1.
+Once you are safe, pay attention to local news reports for emergency information and instructions via battery-operated radio, TV, social media or from cell phone text alerts.
+Use social media to let people know you’re okay.
+Use text messages to communicate. This may be more reliable than phone calls and can save batter power.
+Be careful when cleaning up. Wear protective clothing, including a long-sleeved shirt, long pants, work gloves and sturdy thick-soled shoes. Do not try to remove heavy debris by yourself. Use an appropriate mask if cleaning
+mold or other debris
+. People with
+asthma and other lung conditions and/or immune suppression
+should not enter buildings with indoor water leaks or mold growth that can be seen or smelled. Children should not take part in disaster cleanup work.
+Additional Resources
+Earthquake Preparedness Graphics
+Earthquake Social Media Toolkit
+Earthquake Informational Poster
+(PDF)
+Earthquake Preparedness: What Every Childcare Provider Should Know
+(PDF)
+Earthquake Safety at Home
+(PDF)
+Partner Resources
+Resources for People with Disabilities
+(Earthquake Country Alliance)
+The Great ShakeOut: Earthquake Drills
+U.S. Geological Survey Earthquake Hazards Program
+American Red Cross
+Earthquake Country Alliance
+National Science Foundation
+National Institute of Standards and Technology
+When the Earth Shakes
+Earthquake Preparedness: How to Stay Safe
+Earthquake Safety Video Series
+(Great ShakeOut Earthquake Drills)
+Last Updated: 09/09/2026
+Return to top
+
+----------------------------------------------------------------------
+SOURCE 3
+TITLE: Safety Guidelines: After an Earthquake | Earthquakes | CDC
+URL: https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html
+DOMAIN: www.cdc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T09:59:06.082791+00:00
+
+SEARCH SNIPPET
+Aug 21, 2026 · Listen to receive emergency information and instructions from your battery-operated TV or radio, social media, or cell phone text alerts. Save phone calls for emergencies – text messages may be more reliable.
+
+SOURCE CONTENT
+Safety Guidelines: After an Earthquake
+For Everyone
+Aug. 21, 2026
+Español
+Key points
+Damaged buildings, damaged power lines, and leaking gas and water lines are just a few of the hazards you might face after an earthquake.
+Keep yourself and your loved ones safe after an earthquake by following the recommendations below.
+Immediately after an earthquake
+Protect yourself and your loved ones by learning what to do to stay safe after an earthquake.
+Damaged buildings, damaged power lines, and leaking gas and water lines are just a few of the hazards you might face after an earthquake.
+Expect aftershocks.
+After an earthquake, you may experience aftershocks. Aftershocks are smaller earthquakes that follow a larger earthquake. These can happen minutes, days, weeks, or even months after an earthquake.
+If you feel an aftershock, DROP, COVER, and HOLD ON.
+If you are in an area at risk for tsunamis, go inland and seek higher ground.
+In some cases, earthquakes can cause
+tsunamis
+in areas along the coast. These can happen minutes to hours after a strong earthquake.
+If you hear an official tsunami warning or notice signs of a tsunami, evacuate immediately. Get to higher ground as far inland as possible. Follow instructions from local authorities — they may direct you to a different route than you had planned.
+Visit the
+American Red Cross Tsunami Preparedness
+webpage for information on how to prepare for and stay safe during and after a tsunami.
+Learn about
+health and safety risks from tsunamis
+.
+If you are trapped, attract attention to yourself.
+Try to attract attention to yourself. Send a text, bang on a wall or a pipe, or use a whistle to help rescuers find you.
+Protect your mouth, nose, and eyes from dust.
+Take care of any wounds or injuries to prevent infection.
+The risk for injury during and after an earthquake is high. Get first aid quickly to help heal small wounds and prevent infection.
+Learn more about proper
+wound care after a disaster
+.
+If you can, help others in need.
+Check to make sure you are not hurt. If you are able, help others.
+Follow FEMA's advice for how
+you can help others
+during an emergency.
+Stay connected and informed.
+Listen to receive emergency information and instructions from your battery-operated TV or radio, social media, or cell phone text alerts.
+Save phone calls for emergencies – text messages may be more reliable.
+For tips on connecting with loved ones after a disaster, visit
+Contact Loved Ones | Disaster Aid | Red Cross
+.
+Inside the home
+Inspect your home for damage.
+Carefully check your home's walls, floors, doors, windows, and staircases for damage. If you see structural damage, like cracks in the foundation or missing support beams, you may need to relocate to a shelter or another safe location.
+Check gas, electrical, and water lines for damage. If you smell gas or see a broken line, shut off the main valve from the outside. (Note: if gas is turned off, a professional must restore service.)
+Do not use matches, lighters, appliances, or light switches until you are sure there are no gas leaks. Sparks from electrical switches could ignite gas, causing an explosion.
+For more information, visit
+American Red Cross – Checking Your Home: Structural Elements
+.
+If the power is out, use flashlights instead of candles.
+If you must use candles, keep them away from anything that can catch fire. Always stay near lit candles.
+Keep a fire extinguisher handy, and make sure your family knows how to use it. Read the National Fire Protection Association's
+tips for using fire extinguishers
+.
+Learn more about
+hazards related to power outages
+.
+Prevent carbon monoxide poisoning.
+Fuel-burning equipment creates
+carbon monoxide (CO)
+. This can include equipment like generators, pressure washers, charcoal grills, and camp stoves. You can't smell or see carbon monoxide, but if it builds up in your home, it can cause sudden illness and death.
+Never use portable gasoline or coal-burning equipment or camp stoves inside your home, basement, or garage. Keep it outside and at least 20 feet from any window, door, or vent.
+Use a battery-operated or battery backup CO detector any time you use a generator or anything else that burns fuel.
+If you have a CO detector and it starts beeping, leave your home right away and call 911.
+Drink safe water. Eat safe food.
+Throw away perishable foods that have not been refrigerated properly due to power outages; also discard foods with an unusual odor, color, or texture. When in doubt, throw it out.
+Listen to reports from local officials for advice on water precautions in your home. Do not use contaminated water to make baby formula, make ice, brush your teeth, wash and prepare food, wash your hands, or wash dishes.
+Bottled, boiled, or treated water is safe for drinking, cooking, and personal hygiene. Your state, tribal, local, or territorial health department can make specific recommendations for boiling or treating water in your area.
+Learn more on how to
+keep food safe
+and
+use safe water
+after a natural disaster or emergency.
+Clean up your home safely.
+Take steps to protect yourself and your loved ones during cleanup after an earthquake.
+Follow our cleanup tips
+and monitor your radio or television for up-to-date emergency information.
+Outside the home
+Be careful near damaged buildings.
+Do not enter a damaged building. Earthquakes can damage buildings and make them unsafe. Wait until local authorities tell you it is safe to go inside.
+Leave your home or building if you hear shifting or unusual noises. Strange noises could mean the building is about to fall.
+Stay away from power lines.
+Watch out for fallen power lines that may be hanging overhead.
+Stay clear of fallen power lines. Call the electric company to report them.
+Learn more on how to protect yourself from
+electrical hazards after a disaster
+.
+Protect yourself from animals and pests.
+Stay away from wild or stray animals after an earthquake. Call 911 or your public health department to report them.
+Report dead animals to local officials.
+Learn more on how to
+protect yourself from animals or pests after a disaster
+.
+Mental health and well-being
+Take care of your emotional health.
+During and after an earthquake, it is natural to experience different and strong emotions. Coping with these feelings and getting help when you need it will help you, your family, and your community recover from a disaster.
+Contact SAMHSA's Disaster Distress Helpline
+Disaster Distress Helpline
+: CALL or TEXT 1-800-985-5990 (press 2 for Spanish). People with deafness or hearing loss can use their preferred relay service to call 1-800-985-5990.
+Connect with family, friends, and others in your community.
+Take care of yourself and each other and know when and how to seek help.
+Learn more on how to
+take care of your emotional health after a disaster
+.
+Resources
+Natural Disasters and Severe Weather
+American Red Cross Earthquake Safety
+FEMA's Earthquake Safety Checklist
+Earthquakes – Ready.gov
+On This Page
+Immediately after an earthquake
+Inside the home
+Outside the home
+Mental health and well-being
+Resources
+Aug. 21, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate
+Content Source
+National Center for Environmental Health
+About This Page
+Published:
+May 15, 2024
+Updated:
+November 13, 2023
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+Reviewed:
+August 21, 2026
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+
+################################################################################
+08.09 Dust and Airway Protection
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: Respirator Types and Use | Personal Protective Equipment | CDC
+URL: https://www.cdc.gov/niosh/ppe/respirators/index.html
+DOMAIN: www.cdc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:00:47.879756+00:00
+
+SEARCH SNIPPET
+Oct 28, 2026 · This includes workers in occupations such as healthcare, construction, public safety, emergency response, and mining. To reduce exposure to respiratory hazards, it's best to apply the hierarchy of controls.
+
+SOURCE CONTENT
+Respirator Types and Use
+For Everyone
+Oct. 28, 2026
+What to know
+Workers rely on various types of respiratory protection to stay safe on the job.
+NIOSH is the federal entity responsible for the testing and approval of respirators used in the workplace.
+The markings on a respirator and NIOSH approval label can help identify if it is approved by NIOSH.
+Respirators used in the workplace should be used in a respiratory protection program.
+Overview
+This page serves as a trusted source for respiratory protection information. Millions of workers across the United States rely on respiratory protection to keep them safe on the job. This includes workers in occupations such as healthcare, construction, public safety, emergency response, and mining.
+To reduce exposure to respiratory hazards, it's best to apply the
+hierarchy of controls
+. The use of respiratory protection is an important "last line of defense" in the hierarchy of controls approach.
+When an employer determines that workers need respiratory protection, the Occupational Safety and Health Administration (OSHA) requires the use of NIOSH Approved
+®
+respirators. The
+NIOSH Respirator Approval Program
+is responsible for evaluating and approving respirators used in U.S. workplace settings.
+Types
+There are two main types of respiratory protection. Each respirator type provides a different level of protection based on its design:
+Air-purifying respirators (APRs)
+Atmosphere-supplying respirators (ASRs)
+Additionally, NIOSH approves five different types of APRs and ASRs for protection against
+chemical, biological, radiological, and nuclear agents
+.
+View Larger
+Download
+Infographic showing the different types of respiratory protection.
+Download
+Each type of respirator has an assigned protection factor. This indicates the level of protection you can expect to receive from that respirator.
+Table 1 of the OSHA Respiratory Protection standard
+presents the assigned protection factor for each respirator type.
+It's important that employers choose the right type of respirator for your specific exposure or exposures. To do that, they must identify all respiratory hazards in your environment and the amount of exposure.
+Additionally, a respirator's effectiveness depends heavily on proper fit and use. For information on how to properly select and use respirators see
+Selection and Use of NIOSH Approved respirators
+.
+Air-purifying respirators (APRs)
+APRs use filters, cartridges, or canisters to remove gases, vapors, aerosols, or a combination of contaminants from the air. The different types of APRs are
+Filtering facepiece respirators
+Elastomeric respirators
+Elastomeric quarter facepiece respirators
+Elastomeric half mask respirators
+Elastomeric full facepiece respirators
+Powered air-purifying respirators
+View Larger
+Download
+Infographic describing the different types of air-purifying respirators.
+Download
+English
+,
+Spanish
+Keep Reading
+A Guide to Air-Purifying Respirators
+Atmosphere-supplying respirators (ASRs)
+ASRs provide clean breathing air from a separate source. These respirators protect you from many types of airborne contaminants (particles, gases, and vapors) and, in certain cases, oxygen-deficient atmospheres. The different types of ASRs are:
+Supplied-air respirators
+Self-contained breathing apparatus
+Open-circuit (commonly used by firefighters)
+Closed-circuit (used for entry or escape in industries such as mining where it is known as a self-contained self-rescuer)
+Combination supplied-air/self-contained breathing apparatus
+View Larger
+Download
+Infographic describing the different types of atmosphere-supplying respirators
+Download
+Keep Reading
+Atmosphere-Supplying Respirators (ASRs)
+Respiratory protection programs (RPPs)
+Workplaces covered under OSHA must establish a complete RPP when respiratory protection is required.
+Spotlight
+For information on developing a respiratory protection program within a healthcare setting, see our Hospital Respiratory Protection Program Toolkit.
+Hospital Respiratory Protection Program Toolkit
+RPPs typically have
+nine parts
+including medical evaluations, fit testing, and training.
+Medical evaluations
+What is the purpose of a medical evaluation?
+A medical evaluation determines your ability to wear a respirator.
+How often
+do you need a medical evaluation?
+OSHA requires a medical evaluation once, prior to initial fit testing and use in the workplace. However, you may need an additional evaluation if
+You, your supervisor, or your respiratory protection program administrator recognize signs or symptoms that may affect your ability to use the assigned respirator.
+A licensed healthcare professional determines that you have a condition that causes you to need another evaluation.
+Fit testing
+What is the purpose of fit testing?
+Fit testing ensures that tight-fitting respirators form a complete seal to the face, which is important for providing the expected level of protection. Fit testing uses a test agent, either
+qualitatively
+detected by the wearer's sense of taste, smell, or involuntary cough (irritant smoke) or
+quantitatively
+measured by an instrument, to verify the respirator's fit.
+How often should you get fit tested?
+You should be fit tested annually and any time you use a different model, style, or size respirator. If your weight changes or facial/dental alterations occur, you may also need to undergo a fit test again to ensure your respirator remains effective.
+Keep Reading
+Fit Testing
+Training
+What is the purpose of training?
+Training ensures that you know how to properly use, clean, and maintain your respirator.
+How often should training occur?
+You should receive training annually or when the need arises. A need may arise if the type of level of hazard changes or if you use a new type or model of respirator.
+On This Page
+Overview
+Types
+Respiratory protection programs (RPPs)
+Oct. 28, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate
+Content Source
+National Institute for Occupational Safety and Health
+About This Page
+Published:
+April 23, 2025
+Updated:
+October 28, 2026
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+Reviewed:
+February 3, 2025
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+Sources
+NIOSH Approved is a registered certification trademark of the U.S. Department of Health and Human Services (HHS) in the United States and
+several other countries
+.
+29 CFR 1910.134
+
+----------------------------------------------------------------------
+SOURCE 2
+TITLE: Emergency Tools and Rescue - Loma Linda University
+URL: https://llu.edu/campus-spiritual-life/emergency/emergency-tools-and-rescue
+DOMAIN: llu.edu
+SOURCE TYPE: Academic / educational
+AUTHORITY SCORE: 70/100
+RETRIEVED: 2026-11-22T10:00:53.472536+00:00
+
+SEARCH SNIPPET
+Following a disaster that compromises the structure of houses, offices, and other buildings, emergency tools can provide the means to perform a rescue of trapped people, gain entry to much needed supplies, or help to secure a home that has been compromised.
+
+SOURCE CONTENT
+Following a disaster that compromises the structure of houses, offices, and other buildings, emergency tools can provide the means to perform a rescue of trapped people, gain entry to much needed supplies, or help to secure a home that has been compromised. The most common disaster in Southern California that will result in widespread structural damage is an earthquake. However, windstorms, falling trees, flooding, and even smaller tornadoes can affect Southern California. It is imperative to know when it is safe to work in a disaster affected area; evaluating the situation, hazards present, and tools and resources will determine the actions.
+Safety of the Scene
+Working in a disaster affected area can be extremely dangerous. Wait until the immediate hazard has passed before attempting to make entry into a building after a disaster. The transition between a building and outdoors is often the most hazardous location, as even small falling objects can be fatal. In the case of an earthquake, avoid any building with a collapsed wall, roof that has fallen, or has shifted off its foundation. Additional warning signs include large cracks (greater than a 1/4 inch wide) that go diagonal to each other from corners of windows or other weak points in the structure in a pattern known as “X cracking.” Buildings that exhibit any of these signs are in danger of imminent collapse. Other problem areas include houses built on slopes. If damage is present within the neighborhood, avoid entering houses on slopes, as they can experience rapid and unexpected ground failure.
+Personal Protective Equipment
+Having the correct personal protective equipment is a prerequisite to working in the post-disaster environment and using any tools. The following are considered the essentials:
+Construction hard hat
+Protective eyewear
+Dust mask (use surgical mask or N-95 mask)
+Leather gloves
+Closed toed shoes with heavy soles
+Kneepads (optional, but critical if crawling through debris)
+Taking it from the top, a construction helmet is inexpensive protection against falling objects and debris. Be sure to inspect the condition and fit of the internal suspension, which holds the hard plastic shell above the head and absorbs the shock when hit. Eye protection should provide wrap around protection and be made of a shatter-free material. Dust masks must be tight fitting and provide a good seal against dust and debris that is abundantly present; avoid cheap paper filter masks that provide a poor fit. Leather gloves provide basic protection against glass, metal, and other sharp objects. Finally, close-toed shoes with heavy soles will provide protection against nails and glass in the disaster zone.
+Essential Tools
+Lighting
+Having emergency lighting in a disaster is crucial for conducting rescue work, but also is beneficial for day-to-day activities that need to be completed after dark, particularly when power has been lost. LED lights have revolutionized emergency lighting, because they combine brightness and long run times. Headlamps can be particularly useful, as they free both your hands. LED lanterns can provide a diffuse area light for larger tasks. Chose a light that is water resistant and durable. Higher quality lights can be found at provide better efficiency and longer run times than less expensive flashlights and headlamps that are often found for under $5. While high performance LED lights using rechargeable lithium ion 18650 batteries provide exceptional performance, recharging these batteries may be difficult without power. Be sure to have some lights that can be powered by commonly available batteries such as AAA, AA, C, or D cell batteries.
+Multi-tool
+The modern equivalent of the venerable Swiss Army knife, today’s multi-tools typically include pliers, knife, small saw, Philips and flat head screwdrivers, and sometimes even a can opener. These range in price and features. This is one case where a higher price often means considerably better quality. Name brands like Leatherman, Gerber, and SOG make tools that will last a lifetime.
+Crowbar
+These come in a variety of shapes, sizes, and names. Whether you go with a crowbar, demolition bar, wrecking bar, pry bar, or utility bar, they are all designed to gain leverage over an object in order to separate them. Most will also have cutouts to help pull out nails. Larger bars provide more leverage, while small bars can get into tighter spaces. Useful for removing obstructions or forcing entry in windows or doors. Special bars called a digging bar, San Marino bar, or pinch point crowbar are strait and come in lengths between 60-72 inches. These long bars provide the ability to lift 1000+ pounds when used against another object as a fulcrum point.
+Shovel
+A shovel is an essential tool for cleaning up after a disaster, but sometimes can be used to mitigate further damage, such as filling sandbags or digging a trench to divert water. A shovel can also be used to dig a hole or trench to make an emergency latrine. Shovels come in different sizes and shapes; if you can only have one, chose a full-size round point digging shovel, which is the most versatile.
+Handsaw
+An emergency toolkit should have two different handsaws. One designed to cut through wood (which can be used on wood framing or a tree branch), and a hacksaw that is capable of cutting through metal.
+Hammer and nails (Or battery drill/driver and box of screws)
+A full sized framing hammer and box of nails will allow you to make emergency repairs, secure loose objects, or build a temporary shelter. A battery powered drill/driver and screws can substitute in some situations. Combined with boards or plywood sheeting, these tools can secure a building with broken windows or doors.
+Power tools
+Power tools can be very useful after a disaster, but should be used with extreme care. Footing is often slippery, tool operators may be tired, distracted, or emotionally overwhelmed, and the environment compromised, such as the presence of live electrical wires or nails in wood. As a result, tools such as power saws and chain saws are frequent causes of serious injury or death after a disaster.
+Light Search and Rescue
+Rescuing people trapped under debris can be accomplished with basic tools and supplies, using a technique called “cribbing and leveraging.”
+Cribbing and leveraging is a method of lifting heavy objects using a long bar to exert leverage on a heavy object, and securing the object using stacks of wooden blocks (cribbing). It is important to lift the object slowly, and progressively secure the vertical progress with cribbing under all corners to support the weight of the object evenly. Training in cribbing and leveraging is a core part of the Community Emergency Response Team (CERT) training, offered by local fire departments and public safety agencies.
+Figure 1. Cribbing
+Photo 1. CERT Team Leveraging Object
+Rescue should only be undertaken in buildings that are safe to enter and do not present a risk of collapse. A partial or total collapse of a wall or roof, tilting of the building, separation from foundation, or obvious structural instability are indications of heavy damage. Additionally, unreinforced masonry construction or buildings on hillsides with moderate damage can also experience rapid structural failure or collapse. These types of buildings or a building with heavy damage should not be entered. Notify emergency services of the need for heavy rescue.
+Resources
+Loma Linda University Health does not endorse any specific website or vendor. However, the following websites are provided for additional information and as examples of best practices and local/online vendors for emergency tools and rescue.
+Information – Ready.gov Community Emergency Response Teams (CERT)
+Local Disaster Supplies – Simpler Life Disaster Tools
+Online/Local Disaster Supplies – REI - LED lights and lanterns
+Print
+
+
+################################################################################
+08.12 Fire Gas Smoke and Electrical Hazards
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: Plan for Hazards - Building Collapses & Explosions - NYCEM
+URL: https://www.nyc.gov/site/em/ready/building-collapses-explosions.page
+DOMAIN: www.nyc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:02:26.361962+00:00
+
+SEARCH SNIPPET
+Building Collapses & Explosions A building collapse or explosion may result from structural damage, a gas leak, or sabotage.
+
+SOURCE CONTENT
+Emergency Management
+311
+Search all NYC.gov websites
+Menu
+Text-Size
+Search
+Search
+Search
+Make Your Plan
+Community Plan
+For Businesses
+Plan for Hazards
+Select
+Building Collapses & Explosions
+Carbon Monoxide
+Coastal Storms & Hurricanes
+Cybersecurity
+Disease Outbreaks & Biological Emergencies
+Earthquakes
+Extreme Heat
+Fire
+Flooding
+HazMats, Chemical Spills & Radiation
+High Winds
+Terrorism
+Thunderstorms & Lightning
+Tornadoes
+Utility Disruptions
+Winter Weather
+Hazard Mitigation
+Building Collapses & Explosions
+Carbon Monoxide
+Coastal Storms & Hurricanes
+Cybersecurity
+Disease Outbreaks & Biological Emergencies
+Earthquakes
+Extreme Heat
+Fire
+Flooding
+HazMats, Chemical Spills & Radiation
+High Winds
+Terrorism
+Thunderstorms & Lightning
+Tornadoes
+Utility Disruptions
+Winter Weather
+Hazard Mitigation
+Share
+Print
+Building Collapses & Explosions
+A building collapse or explosion may result from structural damage, a gas leak, or sabotage.
+Expand All
+Collapse All
+What to Do If You Suspect Structural Damage,
+a Gas Leak or Sabotage
+Call 911.
+If you are inside the building, exit as quickly as possible.
+If you are outside, move away from the building as quickly as possible.
+What to Do During a Building Collapse or Explosion
+If you are inside the building and cannot exit:
+Get under a sturdy table or desk, if possible.
+Call 911.
+If you are inside the building and trapped by debris:
+Cover your nose and mouth with a cloth or clothing.
+Move around as little as possible to avoid kicking up dust, which may be harmful to inhale.
+If possible, use a flashlight so you can see your surroundings and to signal your location to rescuers.
+Tap on a pipe or wall so rescuers can hear where you are. Use a whistle if you have one. Shout only as a last resort as shouting can cause you to inhale dangerous amounts of dust.
+After a Building Collapse or Explosion
+Fires often occur after a building explosion.
+Learn more about fires.
+Follow instructions of emergency responders.
+Do NOT try to re-enter a building or enter a debris field to look for personal property. It is unsafe to do so, and the air may be contaminated.
+There may be significant numbers of casualties or damage to buildings and infrastructure.
+Stay informed by signing up for Notify NYC, the City of New York's official, free emergency communications program, will alert New Yorkers if there is an emergency in your area. Register for emergency notifications by get the free
+Notify NYC mobile application
+, visiting
+NYC.gov/notifynyc
+, contacting
+311
+(212-639-9675 for Video Relay Service, or TTY: 212-504-4115) or following @NotifyNYC on
+Twitter
+. Notify NYC messages are available through many formats, including email, text messages, telephone, the Notify NYC website, RSS, Twitter, and American Sign Language videos.
+Tune in to local TV and radio for officials' announcements
+What the City Does
+Building collapses or explosions involve coordination between government agencies and infrastructure and utility partners. NYC Emergency Management may support recovery operations by coordinating any of the following at the request of the emergency responders: area evacuation, debris management, damage assessment, family reunification, power restoration, and more.
+The City will monitor the air around a building collapse for contamination. If the air is contaminated, the City will notify the public and provide instructions on how to stay safe.
+If the building collapse causes significant impacts to the surrounding area or requires an investigation, NYC Emergency Management will notify the public regarding transit disruptions, closed roadways and to avoid certain areas.
+If a large number of residents are displaced and/or searching for missing family members, the City will coordinate service centers or family reunification centers when appropriate.
+More Resources
+Building Safety
+(NYC Department of Buildings)
+Online Bystander Training Course
+(NYC Department of Health & Mental Hygiene)
+
+----------------------------------------------------------------------
+SOURCE 2
+TITLE: PLD26FR003.aspx - ntsb.gov
+URL: https://www.ntsb.gov/investigations/Pages/PLD26FR003.aspx
+DOMAIN: www.ntsb.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:02:38.755165+00:00
+
+SEARCH SNIPPET
+Two people died and about 20 were injured in the explosion and the subsequent fire and partial building collapse; on January 5, a third person died from injuries sustained in the accident. The weather at the time of the accident was 38ºF and cloudy, with light and variable winds.
+
+SOURCE CONTENT
+PLD26FR003.aspx
+Investigations
+Currently selected
+Libraries
+Lists
+Pictures
+The Investigative Process
+Accident Dockets
+Investigation Reports
+Aviation Database
+Accident Location
+Investigative Detail Image
+​Bristol Health and Rehab Center after the explosion. (Photo: Third District Fire Company.) ​
+Exelon Corporation Natural Gas–Fueled Building Explosion and Fire
+What Happened
+What Happened
+​
+Th​is information is preliminary and subject to change.
+​
+​On December 23, 2025, about 2:15 p.m. local time, a natural gas–fueled explosion and fire occurred at the Bristol Health and Rehab Center in Bristol, Pennsylvania.[1] Two people died and about 20 were injured in the explosion and the subsequent fire and partial building collapse; on January 5, a third person died from injuries sustained in the accident. The weather at the time of the accident was 38ºF and cloudy, with light and variable winds.
+​Soon after 11:00 a.m., the Bristol Health maintenance director reported a natural gas odor in the basement boiler room and a first-floor hallway to utility company PECO, a subsidiary of Exelon Corporation.[2] Exelon provided natural gas to the facility through a distribution system that included an underground 1.25-inch-diameter coated steel service line and an indoor rotary meter set located in the basement.[3] An Exelon energy technician arrived onsite about 11:50 a.m. to respond to the odor report. The technician identified a leak on a meter set valve in the basement boiler room and called dispatch to request repair assistance. Exelon’s foreman directed a meter services technician to perform the repair, and he arrived about 1:20 p.m. [4]
+​​In interviews with the National Transportation Safety Board (NTSB), the Bristol Health maintenance director and other personnel recalled smelling natural gas odorant in the basement, first floor, and second floor of the building shortly before the explosion. The building exploded about 2:15 p.m., with about 180 people at the facility.
+About 2:17 p.m., regional fire and rescue units were dispatched to a reported explosion and structural collapse. The first units arrived within 1 minute and initiated a search and rescue operation. Additional units were requested, and the response included the Third District Fire Company, Bristol Township Fire Rescue, the Bucks County Rescue Squad, and the Bristol Township Police. The search and rescue operation concluded about 6 hours after the accident.
+Exelon emergency responders arrived about 2:42 p.m. and isolated natural gas flow to the facility about 3:50 p.m. The Pennsylvania Public Utility Commission directed Exelon to conduct bar hole tests, which identified subsurface gas outside of the building about 5:00 p.m.
+While on scene, the NTSB directed and oversaw integrity and pressure testing of the service line and gas equipment, examined the accident site, and conducted interviews. The NTSB recovered the indoor meter set, excavated portions of the service line that did not hold pressure during pressure testing, and delivered these items to the NTSB Materials Laboratory for further examination.
+The investigation is ongoing. Future investigative activity will focus on evaluating physical evidence collected at the site and on reviewing Exelon’s pipeline safety management system as well as its practices related to personnel training and operator qualifications, task-specific procedures, odor complaint response, documentation, and emergency response.
+Parties to the investigation include:
+the Pipeline and Hazardous Materials Safety Administration,
+the Occupational Safety and Health Administration,
+the Bristol Township Office of the Fire Marshal,
+the International Brotherhood of Electrical Workers Local Union 614,
+Exelon, and
+Saber Healthcare Group.
+[1] All times in this report are local.
+[2] Because natural gas is odorless, strong-smelling chemical additives called odorants are mixed with natural gas before distribution to help reduce the risk that leaks will go unidentified. The most common odorant added to natural gas is methanethiol, or methyl mercaptan, which has a characteristic “rotten egg” or sulfurous odor.
+[3] A
+meter set
+includes the meter, regulator, piping, valves, and related fittings that control pressure to downstream customer piping.
+[4] Both the foreman and the meter services technician had less than 1 year of experience in their current roles with Exelon.
+[5]
+Bar hole testing
+describes a gas measurement technique in which a small-diameter hole is made in the ground, a bar hole probe is inserted into the hole, and a gas measurement is made. [6] Saber Healthcare Group is the owner of Bristol Health and Rehab Center. ​
+​
+What We Found
+What We Recommended
+Lessons Learned
+Video
+Investigation Details
+Status:
+Ongoing
+Pipeline
+Investigation ID
+PLD26FR003
+Event Date
+12/23/2025
+Location
+Bristol, PA
+Docket
+PLD26FR003
+Safety Alert
+SA
+Contact
+Family Assistance Contact
+[email protected]
+NTSB Media Relations
+[email protected]
+​​​​​​
+​
+​
+​
+
+----------------------------------------------------------------------
+SOURCE 3
+TITLE: Gas Leaks and Explosions – Emergency Management
+URL: https://inside.wooster.edu/emergency-management/gas-leaks-and-explosions/
+DOMAIN: inside.wooster.edu
+SOURCE TYPE: Academic / educational
+AUTHORITY SCORE: 70/100
+RETRIEVED: 2026-11-22T10:02:33.554483+00:00
+
+SEARCH SNIPPET
+Do not move seriously injured persons unless they are in obvious immediate danger (of fire, building collapse, etc.). Feel doors for heat before opening, and open carefully.
+
+SOURCE CONTENT
+There are many things that can cause gas leaks or explosions. These guidelines will not cover every possible scenario but could help you should one, or both, occur.
+If you smell gas:
+Be prepared for possible explosions.
+Do not use any electronic devices until the threat has passed.
+Evacuate the building as quickly as possible to an outdoor area away from the source of the leak. (Note: The fire alarm will not sound in the event of a gas leak).
+Do not use elevators.
+If requested, accompany and assist persons with disabilities.
+Do not use matches or lighters.
+Meet at a predetermined location to account for all members of your unit.
+If you hear or are in the area of an explosion:
+Dial 911 or (330) 287-3333 for Campus Safety.
+Crawl under a table or desk.
+Be prepared for possible further explosions.
+Stay away from windows, mirrors, overhead fixtures, filing cabinets, bookcases, and electrical equipment.
+Evacuate the building if the fire alarm sounds.
+Do not move seriously injured persons unless they are in obvious immediate danger (of fire, building collapse, etc.).
+Feel doors for heat before opening, and open carefully.
+Watch for falling objects.
+Do not use elevators.
+If requested, accompany and assist persons with disabilities.
+Do not use matches or lighters.
+Limit use of telephone to calls for emergency services.
+Meet at a predetermined location to account for all members of your unit.
+
+
+################################################################################
+08.14 Do Not Attempt Dangerous Rescue
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: Earthquake Cleanup and Response Resources | NIOSH | CDC
+URL: https://archive.cdc.gov/www_cdc_gov/niosh/topics/emres/earthquake.html
+DOMAIN: archive.cdc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:04:00.986630+00:00
+
+SEARCH SNIPPET
+NIEHS Earthquake Response Training Tool: Protecting Yourself While Responding to Earthquakes. The following website provides recommendations for individuals who must have direct contact with human remains.
+
+SOURCE CONTENT
+Earthquake Cleanup and Response Resources
+Print
+Related Pages
+Open All
+Close All
+An earthquake is a sudden movement of the earth characterized by rapid shaking which is produced as a result of rock movement beneath the earth’s surface. Earthquakes are associated to multiple hazards that represent a risk for emergency responders and recovery workers. During cleanup activities hazards may include physical, chemical and biological hazards. This topic page offers resources to inform workers on the use of protective equipment, disaster management, potential hazards and additional resources, and provides health and safety recommendations to protect themselves in case of an earthquake.
+Disaster Management
+Management of activities before, during, and after an emergency is a difficult task. Different components must be considered to account for all the potential hazards that can be faced. The preparation of a comprehensive plan is vital to ensure the correct management of resources, the succession of activities, and protection of responders. During the elaboration of a disaster management plan, potential hazards can be identified which helps to establish the necessary measures to prevent, control, and mitigate those hazards.
+Disaster Management
+The following link redirects to the disaster site management topic page which includes general information on Disaster Site Management. The site provides a series of reports on emergency responders’ safety management in disaster and terrorism response. The different reports cover topics such as rubble and debris, dust and smoke, heat, anthrax, stress, types and use of protective equipment, hazard assessment, risk communications, site management, structural collapse, fire, and explosions.
+The disaster management page also offers information on other hazards such as asbestos, carbon monoxide, confined spaces, chemical and structural hazards and provides guidance on identifying and handling human remains. Other possible hazardous substances and situations such as chemical and structural hazards are also included in the website to ensure the health and safety of workers.
+NIOSH Disaster Site Management Information
+Emergency preparedness and response general information
+This topic webpage contains general information on earthquakes and their associated hazards. The webpage provides guidance for emergency responders on these situations and describes the potential hazards associated with collapsed structures. Some of the recommendations mentioned cover topics such as the establishment of organizational structures to respond, ensuring the appropriate use of personal protective equipment, and guidance to entry in a collapsed structure.
+OSHA Emergency Preparedness and Response Earthquake Information
+The National Institute of Environmental health Sciences (NIEHS) provides a list of resources applicable to different disasters. This page provides a list of training resources for workers involved in disaster response and cleanup activities including training tools available for earthquake responders in English, Spanish and Haitian Creole. These training tools cover topics such as the definition of an earthquake, where high risk earthquake zones are located, hazards in the aftermath of an earthquake, associated flash floods, fires and soil liquefaction, preparedness recommendations, incident command system, structure stabilization, and other earthquake related hazards.
+National Institute of Environmental Health Sciences (NIEHS) Earthquake Information
+The following link provides basic information on how to be prepared for an earthquake, what to do during an earthquake and how to proceed after an earthquake. The webpage covers preparedness steps, such as emergency supply, and instructions to cover home hazards beforehand. Other information covering other emergency phases during the earthquake and after the earthquake are also covered. These topics include indoor safety, outdoor safety and specific situations. After the earthquake it is important to have precautions with food for consumption besides other hazards.
+CDC Emergency Preparedness and Response Earthquake Information
+Health and safety tools and recommendations
+This resource consists of a training tool designed to provide awareness on health and safety topics during earthquakes to emergency response and recovery workers and all personnel potentially involved in response and cleanup activities. The training provides basic concepts on earthquakes, hazard management, identification of potential hazards associated to earthquakes, use of heavy equipment, use of personal protective equipment, debris removal, traffic issues, hot work, chainsaw operations, decontamination activities, traumatic stress resources, and general safety tips.
+NIEHS Earthquake Response Training Tool: Protecting Yourself While Responding to Earthquakes
+The following website provides recommendations for individuals who must have direct contact with human remains. Recommendations include proper hygiene practices and the use of personal protective equipment to prevent contact with body fluids, blood or fecal material resulting of handling human bodies. Additionally to the interim guidance, some additional resources from the pan American health organization and the word health organizations are also mentioned.
+CDC Interim Health Recommendations for Workers Who Handle Human Remains
+The following page aims to provide information to humanitarian aid workers. The content includes pre-travel care information and packing recommendations. Additionally, it provides information on risks and prevention strategies for relief workers to avoid injury in a disaster area. Recommendations include visiting a healthcare professional before departure and completing a vaccination scheme if needed. Other region specific recommendations are also provided.
+CDC Health Recommendations for Relief Workers Responding to Disasters
+This CDC topic page offers a list of resources regarding safety concerns that apply to all disasters. The page includes information on animals and insects, food water and safety, carbon monoxide, illness and injury prevention, safe clean up, power outages, coping resources, and protection after a disaster.
+CDC Health and Safety Concerns for All Disasters
+Hazards
+Earthquakes are associated to multiple hazards that represent a risk for emergency responders and recovery workers. During cleanup activities hazards may include physical, chemical and biological hazards. Challenges faced by responders include how to manage the disaster, how to protect themselves from insects, poisoning, contaminated water and food, injury, animals, how to handle human remains, and which protective equipment is available and should be used, among others. This topic page offers resources to inform workers on disaster management, use of protective equipment, management of traumatic incident stress and provides health and safety recommendations to protect themselves in case of an earthquake.
+This CDC topic page offers a list of resources regarding safety concerns that apply to all disasters. The page includes information on animals and insects, food water and safety, carbon monoxide, illness and injury prevention, safe clean up, power outages, coping resources, and protection after a disaster.
+CDC Health and Safety Concerns for All Disasters
+Personal Protective Equipment
+Personal protective equipment (PPE) is a main source of protection for emergency and recovery workers. Depending on the type of emergency which may include flooding, hurricanes, fire, electricity, structural collapse, falls, terrorism, earthquakes, tornadoes, extreme temperatures, and diseases. It is necessary to protect emergency response and recovery workers from physical, chemical, and biological hazards. Routes of exposure include inhalation, dermal contact, ingestion, or contact through mucous membranes. Therefore, main protective equipment includes respirators, eye protection, hearing protection and protective clothing. Depending on the hazard, the recommendations on the use of PPE change. Some examples of PPE may include Gas masks, gloves, overalls, boots, and googles.
+Personal protective equipment is very important for any emergency responder. The following page provides information concerning the proper use of respirators. Publications referring to respirator approval for chemical warfare, protective equipment for structural collapse events, and selection of PPE are provided. The NIOSH Personal protective equipment page provides informational materials regarding the proper use of PPE under different conditions and situations. The materials cover previous experiences with respirators and their selection, use of protective clothing to protect against biological agents, PPE for flood responders, infection control, and hearing protection.
+NIOSH Emergency Response Personal Protective Equipment Resources
+This NIOSH topic page provides information on the correct use of respirators and lists all NIOSH-approved and FDA-cleared surgical N95 respirators. Besides the list of approved filtering facepiece respirators, the website provides information explaining the different types of respirators and provides guidance on how to identify approved models, how to implement the appropriate use of respirators in the workplace and provides access to frequently asked questions and answers.
+NIOSH National Personal Protective Technology Laboratory Respirator Trusted-Sources Information
+Additional resources
+Traumatic Incident Stress Management
+The variety of situations that emergency response and recovery workers face may lead to the development of traumatic incident stress. The manifestation of traumatic incident stress involves physical, emotional, behavioral and cognitive stress. Some of these symptoms might be difficult to identify since long hours of work may produce similar symptoms such as fatigue, thirst, and mental confusion. Nevertheless there are specific emotional, physical, cognitive and behavioral symptoms of traumatic incident stress that can facilitate the identification of this condition. These symptoms can include, but are not limited to, confusion, nightmares, disorientation, memory problems, fatigue, headaches, pains, anxiety, guilt, denial, emotional outburst, and behavioral changes. Some workers present strong reactions while performing their activities on site, while others present them later and which can last from some days to weeks.
+The following topic page provides NIOSH recommendations for workers to reduce the risk of experiencing stress during and after a traumatic event. The site also describes symptoms to recognize the presence of traumatic incident stress, and offers access to multiple publications associated with the topic such as reports on previous documented cases of traumatic incident stress in the mining industry and firefighting. Other publications offer recommendations for emergency managers on how to make decisions during these events. Additional resources provide access to coping tools and materials.
+NIOSH Traumatic Incident Stress Information
+Last Reviewed:
+March 10, 2023
+Source:
+National Institute for Occupational Safety and Health
+
+----------------------------------------------------------------------
+SOURCE 2
+TITLE: Earthquake Preparedness and Response
+URL: https://www.osha.gov/earthquakes/response-recovery
+DOMAIN: www.osha.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:03:48.247373+00:00
+
+SEARCH SNIPPET
+Collapsed Structures Collapsed structures are a common result of earthquakes. Rescue workers, engineers, and emergency responders may need to enter these collapsed structures to conduct search and rescue operations, and it is essential that all safety and health precautions are followed to protect them while they work. What is a collapsed ...
+
+SOURCE CONTENT
+Earthquake Preparedness and Response
+Earthquake Menu
+Workers' Rights
+Introduction
+Preparedness
+Response/Recovery
+Resources
+Emergency Preparedness and Response
+Hurricanes
+Tornadoes
+Earthquakes
+Floods
+Wildfires
+Winter Weather
+Workers' Rights
+Response/Recovery
+In the aftermath of an earthquake, workers may be involved in a variety of response and recovery operations such as immediate search and rescue, medical triage, infrastructure stabilization, debris removal and cleanup, and structural evaluations. The following are general guidelines that may be applicable to rescue workers and emergency responders assessing and/or entering structures that have collapsed following an earthquake.
+Collapsed Structures
+Collapsed structures are a common result of earthquakes. Rescue workers, engineers, and emergency responders may need to enter these collapsed structures to conduct search and rescue operations, and it is essential that all safety and health precautions are followed to protect them while they work.
+What is a collapsed structure?
+A collapsed structure occurs when internal load-bearing elements fail, causing the building to fall inward and pull exterior walls with it. This type of collapse, often caused by earthquakes, as well as construction activity or fire, may result in a dense debris field with a small footprint. When structural failure is triggered, the building may collapse outward instead, creating a wider, less dense, and more scattered debris field.
+Who enters a collapsed structure?
+Following a catastrophic failure of a structure, rescue workers and emergency responders may be required to enter the collapsed structure. Emergency responders include firefighters, police, emergency medical technicians, construction workers, and government representatives. Emergency responders may be responsible for assisting survivors, extinguishing fires, shutting off utilities, assessing structural instabilities, shoring-up safe paths into the structure, and assessing other hazards such as airborne contaminants. Rescue workers such as Urban Search and Rescue Teams focus on finding survivors and later removing victims from collapsed structures.
+Organizing Rescue Workers and Emergency Responders
+What is the organizational structure for the response to these events?
+While the immediate aftermath of an earthquake can be chaotic, local and state emergency response organizations will often be the first to respond to the event and initiate the Incident Command System. State responders may request assistance from federal partners such as the Federal Emergency Management Agency (FEMA) if warranted.
+A trained Structures Specialist from
+Urban Search and Rescue
+may be responsible for:
+Evaluating the immediate structural condition of the area to be entered during rescue operations.
+Determining the appropriate type and amount of structural hazard mitigation to minimize risks on site to rescue personnel.
+Incident Command System
+Once the incident command system is established at a collapsed structure, the incident commander maintains accountability for all response personnel at the scene. A safety officer may also be mobilized and report directly to the incident commander. The safety officer is responsible for monitoring and assessing the safety aspects of the responders during the collapsed structure event. The safety officer's responsibilities may include:
+Overseeing all safety and health aspects of response personnel.
+Assuring that optimal safety and injury prevention is practiced.
+Investigating and documenting all response team injuries and illnesses.
+Preparing and maintaining entry permits.
+Ensuring that appropriate personal protective equipment (PPE) is used.
+Developing and implementing daily health and safety plans which address:
+Sanitation;
+Hygiene;
+PPE;
+Decontamination;
+Work/rest cycles; and
+Acute medical care, etc.
+Interviewing off-going shifts to assess developing hazards.
+Assessing risk for the identified hazards.
+Training in hazard awareness and use of PPE.
+Assessing structural instabilities.
+Potential Hazards
+Response and recovery operations in earthquake-impacted areas involve a variety of safety and health hazards that should be systematically identified, assessed, and controlled to minimize or eliminate risks to workers. The following hazards should be considered when preparing to enter a collapsed structure:
+Water system breaks that may flood basement areas.
+Exposure to pathogens from sanitary sewer system breaks.
+Exposed and energized electrical wiring.
+Exposure to airborne smoke and dust (asbestos, silica, etc.).
+Exposure to bloodborne pathogens.
+Exposure to hazardous materials (ammonia, battery acid, leaking fuel, etc.).
+Natural gas leaks create flammable and toxic environments.
+Structural instability.
+Insufficient oxygen.
+Confined spaces.
+Slip, trip, or fall hazards from holes, protruding rebar, etc.
+Struck-by hazards from falling objects.
+Fire.
+Struck-by heavy equipment such as cranes or excavators.
+Sharp objects such as glass and debris.
+Secondary collapse from aftershocks, vibration, or explosions.
+Unfamiliar surroundings.
+Adverse weather conditions.
+Noise from equipment (generators/heavy machines).
+General Precautions
+Only trained personnel should be involved in
+search and rescue
+or
+demolition and cleanup
+operations.
+Continue to monitor your local radio or television stations for emergency information.
+Be aware of possible structural, electrical, or gas-leak hazards. If such hazards are identified, they should be reported to the proper local authorities and/or utility.
+Do not touch downed overhead lines or objects in contact with
+downed power lines
+.
+Wear
+proper protective clothing
+when walking on or near debris, including boots and gloves.
+Be careful around sharp objects, including nails and broken glass.
+Use the proper safety precautions when
+operating generators
+,
+chainsaws
+, or other
+power tools
+.
+Take steps to prevent
+cold injuries
+or
+heat illnesses and dehydration
+.
+Avoid contact with
+wild or stray animals
+.
+
+----------------------------------------------------------------------
+SOURCE 3
+TITLE: Earthquake Preparedness and Response - Preparedness ...
+URL: https://www.osha.gov/earthquakes/preparedness
+DOMAIN: www.osha.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:03:55.529878+00:00
+
+SEARCH SNIPPET
+This document focuses on (1) what to do during an earthquake in office and warehouse settings and (2) what to do before an earthquake that will reduce casualties and non-structural damage during the earthquake.
+
+SOURCE CONTENT
+Earthquake Preparedness and Response
+Earthquake Menu
+Workers' Rights
+Introduction
+Preparedness
+Response/Recovery
+Resources
+Emergency Preparedness and Response
+Hurricanes
+Tornadoes
+Earthquakes
+Floods
+Wildfires
+Winter Weather
+Workers' Rights
+Preparedness
+Many of the hazards to workers both during and following an earthquake are predictable and may be reduced through hazard identification, planning, and mitigation.
+There are several steps you can take to prepare your workplace before an earthquake:
+What are aftershocks?
+Aftershocks are smaller earthquakes that follow the main shock and can cause further damage to weakened buildings. After-shocks can occur in the first hours, days, weeks, or even months after the quake. Be aware that some earthquakes are actually foreshocks, and a larger earthquake might occur.
+Identify "safe places"
+such as under a sturdy table or desk, or against an interior wall away from windows, bookcases, or tall furniture that could fall on you. The closer you are to a safe place reduces the risk of injury. Many injuries occur when people move even ten feet during shaking. Where possible, anchor tall bookcases and file cabinets to the wall to reduce crushing hazards.
+Practice "
+Drop, Cover, and Hold On
+"
+in each safe place. Drop to the ground, take cover under a sturdy piece of furniture, hold on to a table or desk leg, and keep your head down to protect your eyes. Regular practice helps make this response automatic.
+Conduct practice drills
+at least twice a year. Frequent practice reinforces safe behavior and reduces hesitation during an actual earthquake.
+Develop an earthquake response plan
+for workers that includes procedures for both initial shaking and aftershocks to include:
+Stay in your safe place until the shaking ends, then check yourself for injuries before helping others. Move carefully and watch for fallen objects, broken items, and aftershocks.
+Watch for fires, which are common after earthquakes due to damaged gas or electrical lines.
+If you must exit the building after the shaking stops, use stairs, not elevators, and stay alert for falling debris. Alarms and sprinklers may activate, and elevator systems may be compromised.
+If you are outside during an earthquake, stay outside. Move away from buildings, trees, streetlights, and overhead lines. Crouch down and cover your head. Injuries can occur near building entrances due to falling bricks, roofing materials, or other debris. If you are in a car, pull over, stop, and set your parking brake.
+Inform and train
+workers on the plan. Discussing earthquakes procedures in advance reduces fear and ensures everyone knows how to respond.
+Provide first-aid and fire extinguisher training
+through organizations such as the American Red Cross, American Heart Association, or National Safety Council, and keep certifications current. Training helps workers stay focused on what to do during emergencies.
+Federal Emergency Management Agency’s (FEMA)
+How-To Series
+contains information about protecting people and property before, during, and after earthquakes. Perform a workplace survey, especially in high-risk areas, to identify hazards such as unstable furniture, materials that could fall, blocked egress routes, or equipment that could release hazardous materials during shaking. Follow FEMA’s recommended mitigation techniques.
+Employers whose workers will be involved in emergency response operations with releases or substantial threats of releases of hazardous substances, regardless of the location of the hazard, must comply with OSHA’s
+Hazardous Waste Operations and Emergency Response
+(HAZWOPER) standard,
+29 CFR 1910.120
+and 29 CFR 1926.65. The provisions may apply to emergency response following an earthquake.
+Instruction CPL 02-02-073
+describes OSHA enforcement procedures under the relevant provisions of the HAZWOPER standard. OSHA’s HAZWOPER Safety and Health Topics page explains the requirements of the OSHA HAZWOPER standard, including required worker training.
+The U.S. Environmental Protection Agency (EPA) has promulgated a standard applying OSHA’s HAZWOPER standard to state and local government workers in states where there is no
+OSHA-approved State Plan
+. See
+40 CFR Part 311
+.
+Equipping
+Procuring emergency supply kits and keeping them in shelter locations can help workplaces prepare for an earthquake.
+Basic Disaster Supplies Kit
+. Ready.gov - Federal Emergency Management Agency (FEMA). Lists supplies needed for a disaster kit.
+Workplace Plans
+. Ready.gov - Federal Emergency Management Agency (FEMA). Provides basic information on developing an emergency management plan for the workplace.
+Training and Exercises
+Employers and workers can prepare for an earthquake by participating in training and exercises.
+Ensure that all workers know what to do in case of an earthquake.
+Practice earthquake and evacuation plans on a regular basis, especially in areas that regularly experience earthquakes.
+Update plans and procedures based on lessons learned from exercises.
+OSHA's Disaster Site Worker Outreach Training Program
+is a voluntary training program for workers who provide skilled support services (e.g., utility, demolition, debris removal, or heavy equipment operation) or site clean-up services. The program highlights the differences between disaster sites and construction sites and emphasizes the need for workers and employers to have pre-incident training.
+ShakeOut
+is an annual global earthquake drill supported by FEMA, the U.S. Geological Survey (USGS), the National Science Foundation, and others. Businesses and other organizations can register and participate for free. ShakeOut provides an earthquake
+Drill Manual for Businesses
+with lessons for workers and employers.
+Develop an Emergency Action Plan
+A disorganized evacuation can result in confusion, injury, and property damage. An
+emergency action plan
+is critical. An
+emergency action plan checklist
+can assist this process.
+When to evacuate:
+If emergency response authorities indicate specifically to do so.
+If emergency response authorities indicate there is time to do so.
+If you can reach a safe location before an event is expected to occur.
+When environmental conditions would not expose evacuees to a dangerous environment.
+Evacuation plans should include:
+Conditions under which evacuation would be necessary (considering the above information);
+When sheltering in place may be a better alternative;
+A clear chain of command and designation of the person in workplace authorized to order an evacuation;
+Specific evacuation procedures, including routes and exits;
+Specific procedures for employers and workers in high-rise buildings (if applicable);
+Procedures for assisting visitors and workers in evacuating, particularly those with disabilities or who do not speak English;
+Designation of which, if any, workers will remain after an evacuation alarm to shutdown critical operations or perform other duties before evacuating; and
+Special equipment for workers, including personal protective equipment and respiratory protection (e.g., escape respirators), if needed.
+Figure 1. U.S. Geological Survey (USGS) National Seismic Hazard Model (2023). Map displays the likelihood of damaging earthquake shaking in the United States over the next 100 years.
+
+----------------------------------------------------------------------
+SOURCE 4
+TITLE: Safety Guidelines: Emergency Response and Recovery Workers
+URL: https://www.cdc.gov/niosh/emres/safety/index.html
+DOMAIN: www.cdc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:04:47.710216+00:00
+
+SEARCH SNIPPET
+Oct 28, 2026 · Resources to help emergency response and recovery workers stay safe during a response.
+
+SOURCE CONTENT
+Safety Guidelines: Emergency Response and Recovery Workers
+For Everyone
+Oct. 28, 2026
+What to know
+Emergency response and recovery workers may encounter many potential hazards when responding to an emergency event.
+The specific hazards present vary based on the type of emergency, but general precautions can help you stay safe.
+Protect yourself by knowing how to identify potential hazards and use personal protective equipment.
+Avoiding workplace hazards
+You may encounter physical, chemical, electrical, musculoskeletal, structural, or other hazards during emergency response and recovery. Specific hazards present vary widely based on the type of emergency, but some examples include:
+Asbestos
+Bloodborne infectious diseases
+Carbon monoxide
+Confined spaces
+Falls
+Heat stress
+Silica
+These resources can help you recognize hazardous environments and protect yourself from unintended exposures:
+Chemical hazards
+Chemical agents list
+Emergency medical management
+Emergency response safety and health database
+Emergency response guidebook
+International chemical safety cards
+NIOSH pocket guide to chemical hazards
+Toxicological information
+Toxicological profiles
+ToxFAQs
+Toxicology interaction profiles
+Acute exposure guideline levels
+Resources
+Prevent bloodborne infectious disease
+Follow safety practices to
+prevent and control exposure to blood and body fluids
+. Exposure can happen from contact with sharp objects and contamination of open wounds. Complete training on how to safely handle needles and sharps and know the guidelines for managing and treating incidents.
+Bloodborne pathogens and needlestick prevention
+First responders: Protect your employees with an exposure control plan
+Ryan White HIV/AIDS Treatment Extension Act of 2009
+Prevent traumatic incident stress
+Responding to emergency situations may lead to
+traumatic incident stress
+. You may experience physical, cognitive, emotional, or behavioral symptoms of stress. Some people experience these reactions immediately at the scene while, for others, symptoms may occur weeks or months later. These resources can help you recognize, monitor, and maintain health on-site and following response experiences.
+Coping with a disaster or traumatic event
+Traumatic incident stress: Information for emergency response workers
+(
+En Español
+)
+Use personal protective equipment
+Personal protective equipment (PPE)
+is necessary to protect yourself from hazards during an emergency response. Exposure to physical, chemical, and biological hazards can happen through breathing, touching, eating, or drinking. Recommended PPE depends on the hazards, but main equipment includes respirators, eye and hearing protection, and protective clothing. Other examples include gloves, boots, and goggles.
+Natural disasters and extreme weather
+Prepare for potential hazards you may encounter when responding to natural disasters.
+Natural Disasters and Extreme Weather
+On This Page
+Avoiding workplace hazards
+Resources
+Oct. 28, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate
+Content Source
+National Institute for Occupational Safety and Health
+About This Page
+Published:
+May 15, 2024
+Updated:
+October 28, 2026
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+Reviewed:
+April 12, 2024
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+
+################################################################################
+08.16 Children and Vulnerable People
+################################################################################
+
+----------------------------------------------------------------------
+SOURCE 1
+TITLE: Ready Wrigley Prepares for Earthquakes (Activity Book)
+URL: https://www.cdc.gov/natural-disasters/communication-resources/ready-wrigley-prepares-for-earthquakes-activity-book.html
+DOMAIN: www.cdc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:05:18.491118+00:00
+
+SEARCH SNIPPET
+Sep 4, 2026 · Earthquake safety activity book for children.
+
+SOURCE CONTENT
+Ready Wrigley Prepares for Earthquakes (Activity Book)
+For Everyone
+Sept. 4, 2026
+At a glance
+Earthquake safety activity book for children.
+Format:
+PDF
+Language:
+English (US)
+Size:
+2 MB
+Length:
+Last updated:
+September 4, 2026
+View
+Additional languages
+Spanish
+Ready Wrigley Prepares for Earthquakes (Activity Book) - Spanish
+Download
+Download
+Sept. 4, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate
+Content Source
+National Center for Environmental Health
+About This Page
+Published:
+May 15, 2024
+Updated:
+September 4, 2026
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+Reviewed:
+September 4, 2026
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+----------------------------------------------------------------------
+SOURCE 2
+TITLE: Safety Guidelines: During an Earthquake | Earthquakes | CDC
+URL: https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html
+DOMAIN: www.cdc.gov
+SOURCE TYPE: Government
+AUTHORITY SCORE: 90/100
+RETRIEVED: 2026-11-22T10:05:14.117911+00:00
+
+SEARCH SNIPPET
+Aug 21, 2026 · When it is safe to begin driving again, watch for hazards created by the earthquake, such as breaks in the pavement, downed utility poles and wires, rising water levels, fallen overpasses, or collapsed bridges. If you are near the shore, drop, cover, and hold on until the shaking stops.
+
+SOURCE CONTENT
+Safety Guidelines: During an Earthquake
+For Everyone
+Aug. 21, 2026
+Español
+Key points
+In most cases, drop, cover, and hold on to protect yourself during an earthquake.
+If you are inside, stay inside.
+If you are outside, stay outside.
+Drop. Cover. Hold On.
+If there is an earthquake, drop, cover, and hold on.
+In most situations, you can protect yourself if you immediately:
+DROP
+down onto your hands and knees
+before the earthquake knocks you down. This position protects you from falling but allows you to still move if necessary.
+COVER
+your head and neck
+(and your entire body if possible) underneath a sturdy table or desk. If there is no shelter nearby, get down near an interior wall or next to low-lying furniture that won't fall on you, and cover your head and neck with your arms and hands.
+HOLD ON to your shelter
+(or to your head and neck) until the shaking stops. Be prepared to move with your shelter if the shaking shifts it around.
+If you cannot drop to the ground, try to sit or remain seated so you are not knocked down.
+If you are in a wheelchair, lock your wheels. Remove any items that are not securely attached to the wheelchair.
+Protect your head and neck with a large book, a pillow, or your arms. The goal is to prevent injuries from falling down or from objects that might fall or be thrown at you.
+If you are able, seek shelter under a sturdy table or desk. Stay away from outer walls, windows, fireplaces, and hanging objects.
+If you are unable to move from a bed or chair, protect yourself from falling objects by covering up with blankets and pillows.
+If you are outside, go to an open area away from trees, telephone poles, and buildings, and stay there.
+For more resources for people with impaired mobility and other access and functional needs, visit the
+Earthquake Country Alliance
+.
+Indoors
+Download
+Be Ready! Earthquakes Infographic
+Be Ready! Earthquakes. Check your chimney and roof and repair loose tiles and bricks. Anchor items into the wall studs. Secure bookcase and shelves. Place heavy or large objects on lower shelves. Know how to turn off your gas, electricity, and water. Include important documents in your emergency kit. Attach a valve wrench and label to your water line. Secure water heater with a wide metal strap around the top attached to wall studs. Drop to your hands and knees, cover your head and neck, and hold on to your shelter until shaking stops. Stop quickly and safely, set the parking brake, and stay in the car until the shaking stops. Stay away from utility poles, overhead wires, and under/overpasses. If you are outside, stay outside and move away from buildings, utility wires, sinkholes, and fuel and gas lines. Get down low and stay there until the shaking stops.
+Show Text Description
+If you are inside, stay inside.
+DO NOT run outside or to other rooms during an earthquake. You are less likely to be injured if you stay where you are.
+To reduce your chances of being hurt, take the following actions:
+If possible, within the few seconds before shaking intensifies, quickly move away from glass, hanging objects, bookcases, china cabinets, or other large furniture that could fall. Watch for falling objects, such as bricks from fireplaces and chimneys, light fixtures, wall hangings, high shelves, and cabinets with doors that could swing open.
+If available nearby, grab something to shield your head and face from falling debris and broken glass.
+If you are in the kitchen, quickly turn off the stove and take cover at the first sign of shaking.
+If you are in bed, hold on and stay there, protecting your head with a pillow. You are less likely to be injured staying where you are. Broken glass on the floor can cause injuries if you walk or roll onto the floor.
+DO NOT stand in a doorway. You are safer under a table.
+In modern houses, doorways are no stronger than any other part of the house. Doorways do not protect you from the most likely source of injury − falling or flying objects. Most earthquake-related injuries and deaths are caused by falling or flying objects (such as TVs, lamps, glass, or bookcases), or by being knocked to the ground.
+If you are in a high-rise building, stay in the building.
+Move away from windows and outside walls.
+Drop, cover, and hold on.
+DO NOT use the elevators. The electricity may go out, and the sprinkler systems may come on.
+If you are trapped, stay calm. Try to get someone's attention by tapping on hard or metal parts of the structure. Doing so may increase your chances of being rescued.
+If you are inside a crowded place, don't rush for doorways—others will have the same idea.
+Move away from display shelves containing objects that may fall.
+If you can, take cover and grab something to shield your head and face from falling debris and glass.
+If you are in a stadium or theater, stay in your seat.
+Protect your head and neck with your arms or any way possible.
+Do not leave until the shaking is over.
+Walk out carefully watching for anything that could fall during the aftershocks.
+Outdoors
+If you are outside, stay outside.
+Move away from buildings, utility wires, sinkholes, and fuel and gas lines. The greatest danger from falling debris is just outside doorways and close to outer walls of buildings.
+Go to an open area away from trees, telephone poles, and buildings. Once in the open, get down low and stay there until the shaking stops.
+The area near the outside walls of a building is the most dangerous place to be. Windows, facades, and architectural details are often the first parts of the building to collapse. Stay away from this danger zone.
+If you are in a moving vehicle, stop as quickly and safely as possible.
+Move your car to the shoulder or curb, away from utility poles, overhead wires, and under- or overpasses.
+Stay in the car and set the parking brake. A car may jiggle violently on its springs, but it is a good place to stay until the shaking stops.
+Turn on the radio for emergency broadcast information.
+If a power line falls on the car, stay inside until a trained person removes the wire.
+When it is safe to begin driving again, watch for hazards created by the earthquake, such as breaks in the pavement, downed utility poles and wires, rising water levels, fallen overpasses, or collapsed bridges.
+If you are near the shore, drop, cover, and hold on until the shaking stops.
+If severe shaking lasts 20 seconds or more, immediately evacuate to high ground as a
+tsunami
+might have been generated by the earthquake.
+Move inland 2 miles (3 kilometers) or to land that is at least 100 feet (30 meters) above sea level immediately. Don't wait for officials to issue a warning.
+Walk quickly, rather than drive, to avoid traffic, debris, and other hazards.
+Resources
+Natural Disasters and Severe Weather
+American Red Cross Earthquake Safety
+FEMA's Earthquake Safety Checklist
+Earthquakes – Ready.gov
+On This Page
+Drop. Cover. Hold On.
+Indoors
+Outdoors
+Resources
+Aug. 21, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate
+Content Source
+National Center for Environmental Health
+About This Page
+Published:
+May 15, 2024
+Updated:
+November 8, 2023
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+Reviewed:
+August 21, 2026
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+

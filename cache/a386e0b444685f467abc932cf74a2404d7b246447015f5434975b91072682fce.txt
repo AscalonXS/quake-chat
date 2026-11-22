@@ -1,0 +1,129 @@
+[PDF PAGE 1]
+Working Safely Around Downed 
+Electrical Wires
+Electrical hazards multiply for workers involved in cleanup and recovery efforts 
+following major disasters and weather emergencies. Life-threatening danger 
+exists around downed and low-hanging electrical wires which can still be 
+energized following a storm.
+Safety First
+Always consider all electrical equipment, lines 
+and conductors to be energized. If you notice 
+downed wires or damaged electrical equipment, 
+contact appropriate utility personnel if you 
+can. Circuits do not always turn off when a 
+power line falls into a tree or onto the ground. 
+Reloaders automatically try to reset circuits 
+and restore power when it is interrupted. Even 
+if electric lines are not sparking or humming, 
+fallen electric lines can electrocute you if you 
+touch them or the ground nearby.
+Energy
+Downed wires can energize other nearby 
+objects, such as fences, water pipes, bushes 
+and trees, buildings, and telephone/CATV/
+fiber optic cables. Even manhole castings and 
+reinforcement bars (rebar) in pavement can 
+become energized by downed wires. During 
+storms, wind-blown objects such as canopies, 
+aluminum roofs, siding, and sheds can also be 
+energized by downed wires.
+Backfeed
+The improper connection of portable generators 
+to a building’s electrical system is one way 
+hazardous backfeed conditions are created! 
+Backfeed is a hazardous condition created 
+when temporary sources of electricity (such 
+as a generator) are connected to the damaged 
+permanent system causing electricity to flow 
+inside and outside a structure through connected 
+lines and equipment. In emergency conditions, 
+portable generators should only be used as 
+standalone sources of power, and (except for 
+properly wired by-pass or isolation connections) 
+not connected to a building’s electrical system. If 
+a generator is connected to a building’s electrical 
+system, it must be done with a properly installed 
+main breaker bypass to prevent electricity from 
+flowing out of the building and into downed 
+power lines. 
+Some other sources of backfeed include:
+• Circuit ties/switch points
+• Lightning
+• Downstream events
+Always ensure that proper lockout/tagout 
+procedures are followed to avoid connecting two 
+electrical sources to the same circuit.
+Rules to Live By
+• Do not assume that a downed power line is 
+safe simply because it is on the ground or it is 
+not sparking.
+• Do not assume that any wire is a harmless 
+telephone, television, or fiber-optic cable, and 
+does not carry lethal current.
+• Treat everything electrical as energized until 
+tested and proven to be de-energized.
+• Never go near a downed or fallen electric 
+power line.
+• Electricity can spread outward through the 
+ground in a circular shape from the point of 
+contact. As you move away from the center, 
+large differences in voltages can be created.
+• Never drive over downed power lines. 
+Assume that they are energized. 
+• If contact is made with an energized power 
+line while you are in a vehicle, remain calm 
+and do not get out unless the vehicle is on fire. 
+If possible, call for help.
+• If you must exit any equipment because 
+of fire or other safety reasons, try to jump 
+completely clear, making sure that you do not 
+FactSheet
+
+[PDF PAGE 2]
+touch the equipment and the ground at the 
+same time. Land with both feet together and 
+shuffle away in small steps to minimize the 
+path of electric current and avoid electrical 
+shock. Be careful to maintain your balance.
+Workers’ Rights
+Workers have the right to:
+• Working conditions that do not pose a risk of 
+serious harm.
+• Receive information and training (in a 
+language and vocabulary the worker 
+understands) about workplace hazards, 
+methods to prevent them, and the OSHA 
+standards that apply to their workplace.
+• Review records of work-related injuries 
+and illnesses.
+• File a complaint asking OSHA to inspect their 
+workplace if they believe there is a serious 
+hazard or that their employer is not following 
+OSHA’s rules. OSHA will keep all identities 
+confidential.
+• Exercise their rights under the law without 
+retaliation, including reporting an injury or 
+raising health and safety concerns with their 
+employer or OSHA. If a worker has been 
+retaliated against for using their rights, they 
+must file a complaint with OSHA as soon as 
+possible, but no later than 30 days.
+For additional information, see OSHA’s 
+Workers page (www.osha.gov/workers).
+How to Contact OSHA
+Under the Occupational Safety and Health 
+Act of 1970, employers are responsible for 
+providing safe and healthful workplaces for 
+their employees. OSHA’s role is to ensure these 
+conditions for America’s working men and 
+women by setting and enforcing standards, and 
+providing training, education and assistance. For 
+more information, visit www.osha.gov or call 
+OSHA at 1-800-321-OSHA (6742), TTY 1-877-
+889-5627. 
+DOC FS-3941 02/2018
+This is one in a series of informational fact sheets highlighting OSHA programs, policies or 
+standards. It does not impose any new compliance requirements. For a comprehensive list of 
+compliance requirements of OSHA standards or regulations, refer to Title 29 of the Code of Federal 
+Regulations. This information will be made available to sensory-impaired individuals upon request. 
+The voice phone is (202) 693-1999; teletypewriter (TTY) number: (877) 889-5627.

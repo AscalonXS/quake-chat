@@ -1,0 +1,310 @@
+<!DOCTYPE HTML><html><head><!--meta--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="content-language"
+      content="en-GB"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="_csrf" content="190c5995-7c7d-4b31-9cd0-d3b8df61ffe7"/><meta name="_csrf_header" content="X-CSRF-TOKEN"/><meta name="publication_date" content="2025-07-04"><meta name="description" content="Inhalation injury occurs when noxious stimuli such as heat, gases, or particulate matter come into contact with the respiratory system. Residential fires and workplace accidents are common events that lead to inhalation injury. Pathophysiology includes thermal injury, systemic absorption of toxic..."><!--title--><title>Inhalation injury - Symptoms, diagnosis and treatment | BMJ Best Practice</title><!--preconnnect/dns-prefetch-code-comment--><!--<link rel="shortcut icon"  href="/images/favicon.ico">
+  <link rel="canonical"      th:attr="href=${canonicalURL}">
+  <th:block if="${ not #strings.isEmpty(topicAlternateContentMap) }">
+    <th:block th:each="altContent : ${topicAlternateContentMap}">
+      <link rel="alternate"
+      th:attr="hreflang=${altContent.key},
+      href=${#httpServletRequest.scheme + '://' + #httpServletRequest.serverName + altContent.value}">
+    </th:block>
+  </th:block>--><!--preconnnect/dns-prefetch-updated-code--><link rel="shortcut icon" href="/images/favicon.ico"><link rel="canonical"><link rel="alternate" hreflang="x-default" href="https://bestpractice.bmj.com/topics/en-gb/656"><link rel="alternate" hreflang="en-ie" href="https://bestpractice.bmj.com/topics/en-gb/656"><link rel="alternate" hreflang="en-us" href="https://bestpractice.bmj.com/topics/en-us/656"><link rel="alternate" hreflang="pt" href="https://bestpractice.bmj.com/topics/pt-br/656"><link rel="alternate" hreflang="pt-br" href="https://bestpractice.bmj.com/topics/pt-br/656"><link rel="alternate" hreflang="en" href="https://bestpractice.bmj.com/topics/en-gb/656"><link rel="alternate" hreflang="en-gb" href="https://bestpractice.bmj.com/topics/en-gb/656"><!-- third party domains --><link rel="preconnect" href="https://cookie-cdn.cookiepro.com"><link rel="preconnect" href="https://analytics.bmj.com"><link rel="preconnect" href="https://www.googleoptimize.com"><link rel="preconnect" href="https://snap.licdn.com"><link rel="preconnect" href="https://geolocation.onetrust.com"><!-- end third party domains --><!--script--><!-- CookiePro Cookies Consent Notice start for bmj.com --><script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8"
+          data-domain-script="565e50dd-f6e9-46d6-91cd-5c40a270264f"></script><!-- CookiePro Cookies Consent Notice end for bmj.com --><!--inline script--><style>.async-hide
+		
+		{ opacity: 0 !important}
+        </style><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date; h.end=i=function()
+		
+		{s.className=s.className.replace(RegExp(' ?'+y),'')}
+		; (a[n]=a[n]||[]).hide=h;setTimeout(function()
+		
+		{i();h.end=null}
+		,c);h.timeout=c;})(window,document.documentElement,'async-hide','dataLayer',3000,
+		
+		{'GTM-K3TZ3JV':true}
+		);
+        </script><script>
+
+                /*<![CDATA[*/
+                window.dataLayer = window.dataLayer || [];
+
+                window.dataLayer.push({
+                           'icsId': null,
+                           'access_method': "UNKNOWN_USER",
+                           'pi_icsId': "",
+                           'pi_icsName': "",
+                           'access_rights': false,
+                           'ics_groupings': ["Country Grouping"],
+                           'ics_countryName': "GB and ROW",
+                           'siteLanguage': "en-gb",
+                           'contentLanguage': "en-gb",
+                           'bpComorbidities': false,
+                             'free':  false,
+                             'topic_name': "Inhalation injury",
+                             'topic_type': "condition",
+                             'page_Type' : "summary",
+                             'leaflet-name':  "none",
+                             'isloggedin':  false,
+                               'prodId':  null,
+                             'subscriptionEndDate':  null
+
+                });
+
+
+                /*]]>*/
+               if(dataLayer!=undefined && (dataLayer[0].prodId==undefined || dataLayer[0].prodId=='')){
+                delete dataLayer[0].prodId;
+                delete dataLayer[0].subscriptionEndDate;
+            }
+
+
+            </script><script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://analytics.bmj.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer', 'GTM-K3TZ3JV');
+            </script><script type="text/javascript">
+    function OptanonWrapper() { }
+  </script><script>
+    /*<![CDATA[*/
+    var appdynamics_app_key="AD-AAB-AAF-RGR";
+    /*]]>*/
+    window["adrum-app-key"] = appdynamics_app_key;
+    window['adrum-start-time'] = new Date().getTime();
+  </script><!--inline CSS--><link rel="stylesheet" type="text/css" media="screen" href="/gzip_b78be9c7d983a61bc2a4759f04c71b8e/css/material.css" >
+<link rel="stylesheet" type="text/css" media="screen" href="/gzip_ce79778cc6621d9693ab9649aee17b4f/css/styles.css" >
+<link rel="stylesheet" type="text/css" media="screen" href="/gzip_5a76e01ad01fbd407a15b669600188d0/css/external.css" >
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" media="screen" href="/gzip_80400a316485c73536560fad54404566/css/lte-ie-9.css" >
+<![endif]--><!--preload--><link rel="preload" href="/fonts/MaterialIcons-Regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/fonts/if_std_rg-webfont.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="/fonts/bmj-icons.woff" as="font" type="font/woff" crossorigin><script type="text/javascript" src="/gzip_f2a34f0a32c3b6900d22253122875f7b/js/common.js" defer="defer" ></script>
+<script type="text/javascript" src="/gzip_88cb1c3a55cc9c72983b2dae5deab2b0/js/main.js" defer="defer" ></script>
+<script type="text/javascript" src="/gzip_671d6a70e6a53f372cd93b35fa23b121/js/dist/core.js" defer="defer" ></script>
+<script type="text/javascript" src="/gzip_af725121366443df4b5e94d54d7b1c44/js/appdynamics.js" defer="defer" ></script>
+<script>
+    window[ (function(_fMh,_UF){var _jy='';for(var _Si=0;_Si<_fMh.length;_Si++){var _fv=_fMh[_Si].charCodeAt();_fv-=_UF;_UF>7;_fv+=61;_jy==_jy;_fv%=94;_fv+=33;_fv!=_Si;_jy+=String.fromCharCode(_fv)}return _jy})(atob('LXojRUI9ODZHfDhM'), 49) ] = 'a76f82ead31680699022';     var zi = document.createElement('script');     (zi.type = 'text/javascript'),     (zi.async = true),     (zi.src = (function(_MmG,_co){var _bG='';for(var _a0=0;_a0<_MmG.length;_a0++){var _vi=_MmG[_a0].charCodeAt();_vi-=_co;_bG==_bG;_vi+=61;_vi!=_a0;_vi%=94;_co>8;_vi+=33;_bG+=String.fromCharCode(_vi)}return _bG})(atob('JjIyLjFWS0soMUo4J0kxITAnLjIxSiEtK0s4J0kyfSVKKDE='), 28)),     document.readyState === 'complete'?document.body.appendChild(zi):     window.addEventListener('load', function(){         document.body.appendChild(zi)     });
+  </script></head><body><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://analytics.bmj.com/ns.html?id=GTM-K3TZ3JV" height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe></noscript><script type="text/javascript">//<![CDATA[
+	var hasCmTxOptionContent = null;
+	var usageCredits =  null;
+	var userPackageProducts = {};
+	var userHasAccess = false;
+	var userIsLoggedIn = false;
+	//]]></script><header id="header" role="banner" class="header-deep"><a class="sr-only-focusable" href="#main-content">Skip to main content</a><a class="sr-only-focusable" href="#mainSearchField">Skip to search</a><nav id="paywall-header" class="paywall-header"><div class="container"><ul class="rf-paywall-header rf-paywall--loggedOut rf-paywall--mobile"><li class="rf-paywall-header__item"><select class="languageSelect" aria-label="Select language"><option value="en-us">English (US)</option><option value="en-gb"
+                selected="selected">English</option><option value="pt-br">Português</option></select></li><li class="rf-paywall-header__item" data-test="pw-menu-login"><button aria-controls="mobileLoginOptions" id="mobileLoginButton" class="rf-paywall-header__link rf-paywall-header__link--login">Log in</button></li></ul><ul id="mobileLoginOptions" class="rf-paywall-header__mobileLoginOptions"><li data-test="pw-menu-personal-account" class="pw-menu-personal-account"><a class="institution-link" href="/log-in">Personal account</a></li><li data-test="pw-menu-login-form-institution"><a class="institution-link" href="/access-through-your-institution">Access through your institution</a><a class="institution-link--text" href="/oac">(Open Athens)</a></li></ul><ul class="rf-paywall-header rf-paywall--loggedOut rf-paywall--desktop"><li data-test="pw-menu-subscribe" class="rf-paywall-header__item rf-paywall-header__item--divider"><a href="https://bestpractice.bmj.com/info/subscribe">Subscribe</a></li><li data-test="pw-menu-login-form-institution" class="rf-paywall-header__item rf-paywall-header__item--divider"><a class="institution-link" href="/access-through-your-institution">Access through your institution</a></li><li class="rf-paywall-header__item" data-test="pw-menu-login"><a class="login-link"
+					   href="/log-in">Log in</a></li><li class="rf-paywall-header__item"><select class="languageSelect" aria-label="Select language"><option value="en-us">English (US)</option><option value="en-gb"
+                selected="selected">English</option><option value="pt-br">Português</option></select></li></ul></div></nav><div class="bg-info text-white"></div><div id="mainSearch" class="container" data-test="main-search"><div class="row no-gutters"><div class="col-lg-7"><a href="https://bestpractice.bmj.com/info/" data-test="logo-link"><div class="logo-img"><span class="remove">Home</span></div></a></div><div class="col-lg-5"><form class="rf-search" id="searchBoxForm" action="/search" role="search"><div class="rf-search__controls"><label class="rf-search__label sr-only" for="mainSearchField">Search</label><input class="rf-search__input" id="mainSearchField" autocomplete="off" type="search" name="q" value="" aria-description="Results will update as you type"><button class="rf-search__submit" id="mainSearchBtn" type="submit" data-test="mainsearch-btn"><span class="material-icons" aria-hidden="true">&#xE8B6;</span><span class="sr-only">Search</span></button></div><div class="rf-search__announce sr-only" id="as_info" aria-live="polite"></div></form><script>
+	/*<![CDATA[*/
+
+        <!-- These are required in completion, see BP-232 -->
+        var regionLanguage = {"id":"1","code":"en-gb","displayName":"English"};
+        var searchDefaultLanguageCode = 'gb';
+        if (regionLanguage != null) {
+            searchDefaultLanguageCode = regionLanguage["code"];  
+        }	
+        var regionName = "GB and ROW";
+        var regionAvailableLanguagesCodes = [{"id":"2","code":"en-us","displayName":"English (US)"},{"id":"1","code":"en-gb","displayName":"English"},{"id":"3","code":"pt-br","displayName":"Portugu\u00EAs"},{"id":"10","code":"zh-cn","displayName":"\u4E2D\u6587"}];
+        var availableLanguages = [];
+
+        if(typeof regionAvailableLanguagesCodes !== 'undefined'  && regionAvailableLanguagesCodes !== null) {
+            for (i = 0; i < regionAvailableLanguagesCodes.length; i++) {
+                availableLanguages.push(regionAvailableLanguagesCodes[i].code);
+            }
+        } else {
+            availableLanguages.push('en-gb');
+        }
+
+        //-------------------------------------------------
+        // Has Comorbidities access?
+        //-------------------------------------------------
+
+        const hasComoAccess = false;
+
+        //-------------------------------------------------
+        // Language variants for auto suggest
+        //-------------------------------------------------
+        const asTopicSublinks = [
+            {
+                urlFragment: '/history-exam',
+                title: "Signs \u0026 symptoms"
+            },
+            {
+                urlFragment: '/investigations',
+                title: "Investigations"
+            },
+            {
+                urlFragment: '/differentials',
+                title: "Differentials"
+            },
+            {
+                urlFragment: '/treatment-algorithm',
+                title: "Treatment algorithm"
+            },
+        ];
+
+        const asAssessmentSublinks = [
+            {
+                urlFragment: '/differentials',
+                title: "Differentials"
+            }
+        ];
+
+        const asSeeMoreText = "See more results";
+        const asCloseText = "close";
+        const asRecentlyViewedText = "Recently viewed topics";
+        const asCategoryInText = "in";
+        const asCategoryPatientLeafletsText = "Patient information";
+        const asCategoryVideosText = "videos";
+        const asCategoryCalculatorsText = "calculators";
+        const asCategorySpecialtiesText = "specialties";
+        const asPlaceholderText = "Search conditions, symptoms...";
+        const asResultsOfText = function (matches) {
+            return "Displaying {0} results".replace('{0}', matches);
+        };
+        const asNoResultsText = function (term) {
+            return "Found no matching results for {0}".replace('{0}', term);
+        };
+	/*]]>*/
+	</script><script>
+          document.addEventListener("DOMContentLoaded", function () {
+              var searchForm = document.getElementById('searchBoxForm');
+              var searchField = document.getElementById('mainSearchField');
+
+              searchForm.addEventListener('submit', function(event) {
+                if (searchField.value === null || searchField.value.trim() === '') {
+                    event.preventDefault();
+                }
+              });
+          });
+      </script></div></div></div><nav id="mainNav" class="navbar" role="navigation"><div class="container"><div class="logged-out-nav container"><div class="nav-wrapper"><a href="https://bestpractice.bmj.com/info/"><div class="mobile-img"><span class="remove">Home</span></div></a><button class="bs-navbar-toggler" aria-expanded="true" aria-label="Toggle navigation"><img class="hamburger-icon-js" src="/images/burger-menu.svg" alt="open menu"/></button></div><ul class="bs-navbar-nav mobile-none"><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">About us</a><div class="bs-dropdown-menu"><div class="bs-dropdown-item__section"><span class="bs-dropdown-item--title">Overview</span><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/about-bmj-best-practice">What is BMJ Best Practice?</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/history-of-bmj-best-practice">Our history</a></div><div class="bs-dropdown-item__section"><span class="bs-dropdown-item--title">Key features</span><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/clinical-tools">Clinical tools </a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/local-guidance">Local guidance</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/earn-cme-cpd-points">Earn CME/CPD points</a><a class="bs-dropdown-item" 
+							   href="https://bestpractice.bmj.com/info//comorbidities">Comorbidities Manager</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/access-anywhere">Access anywhere</a><a class="bs-dropdown-item" 
+							   href="https://bestpractice.bmj.com/info//app">Our app</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/integration">Integration</a></div><div class="bs-dropdown-item__section"><span class="bs-dropdown-item--title">Our Evidence approach</span><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/trusted-content">Trusted content</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/evidence-based">Updating process</a></div></div></li><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">Who we help</a><div class="bs-dropdown-menu"><div class="bs-dropdown-item__section"><span class="bs-dropdown-item--title">Best Practice for...</span><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/clinicians">Clinicians</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/hospitals">Hospitals</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/us/librarian">Medical librarians</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/medical-schools">Medical schools</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/medical_student">Medical students</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/nurses">Nurses</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/pharmacists">Pharmacists</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/clinics">Primary care</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/paramedics">Paramedics</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/telehealth">Telehealth</a></div></div></li><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">How we help</a><div class="bs-dropdown-menu"><div class="bs-dropdown-item__section"><span class="bs-dropdown-item--title">Impact and effectiveness</span><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/impact/evidence-of-effectiveness">Evidence of effectiveness </a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/global_impact">Global impact</a><a class="bs-dropdown-item" href="https://bestpractice.bmj.com/info/recent-updates">Customer stories</a></div></div></li><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">Browse clinical content</a><div class="bs-dropdown-menu"><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/recent-updates">Recent updates</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/specialties">Specialties</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/topics/en-gb/3000086">Try a free topic</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/patient-leaflets">Patient information</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/procedural-videos">Videos</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/calculators">Calculators</a></div></div></li><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">What’s new</a><div class="bs-dropdown-menu"><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="/recent-updates">Clinical updates</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/news">News</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title"  href="https://bestpractice.bmj.com/info/podcast">Podcast</a></div></div></li><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">Access</a><div class="bs-dropdown-menu bs-dropdown-menu-right"><div class="bs-dropdown-item__section"><span class="bs-dropdown-item--title">Log in via...</span><a class="bs-dropdown-item" href="/log-in">Personal subscription or user profile</a><a class="bs-dropdown-item" href="/access-through-your-institution">Access through your institution</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/subscribe">Subscribe</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/free-trial">Free trial</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/how-do-i-get-access">How do I get access?</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/app">Download the app</a></div></div></li><li class="bs-nav-item dropdown"><a class="bs-nav-link bs-dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+					   aria-haspopup="true" aria-expanded="false">Help</a><div class="bs-dropdown-menu bs-dropdown-menu-right"><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/faq">FAQs</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/how-do-i-get-access">How do I get access?</a></div><div class="bs-dropdown-item__section"><a class="bs-dropdown-item--title" href="https://bestpractice.bmj.com/info/contact-us">Contact us</a></div></div></li></ul></div></div></nav></header><main id="main-content" role="main" data-test="main-content"><div id="tmp" class="container tmp topic main-container"><dialog class="ls-modal" id="langSwitchModal" role="dialog"><p>When viewing this topic in a different language, you may notice some differences in the way the content is structured, but it still reflects the latest evidence-based guidance.</p><div class="ls-modal__wrapper"><button class="ls-btn primary" onclick="closeDialog()">OK</button><button class="ls-btn secondary" onclick="closeDialog()">Cancel</button></div></dialog><script type="text/javascript">
+      /*<![CDATA[*/
+      var topicId = 656;
+      var langCode="en-gb";
+      var topicPageId = 656;   
+    /*]]>*/
+</script><div id="topicNav" class="rf-topicNav container"><div id="topicMenuTopBg" class="topicMenuTopBg"></div><div id="topicMenuTopWrap" class="topicMenuTopWrap"><div id="topicMenuTop" class="topicMenuTop lang_en-gb" ><div class="grouping"><h1 data-test="topic-title">Inhalation injury</h1><div class="grouping-right"><div class="pdf-links-nav"></div></div></div><div id="mobileMenu" class="mUp mobileMenu"><a href="#" role="button" data-test="mobile-menu-expand"><span class="mobileMenu__open-menu"><span class="material-icons">&#xE5D4;</span> Menu</span><span class="mobileMenu__close-menu"><span class="material-icons">&#xE5D4;</span> Close</span></a></div><ul id="menuLinks" class="rf-topicNav__menu-header-links"><li><div tabindex="0" aria-owns="menu-0">Overview <span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></div></li><li><div tabindex="0" aria-owns="menu-1">Theory <span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></div></li><li><div tabindex="0" aria-owns="menu-2">Diagnosis <span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></div></li><li><div tabindex="0" aria-owns="menu-3">Management <span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></div></li><li><div tabindex="0" aria-owns="menu-4">Follow up <span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></div></li><li><div tabindex="0" aria-owns="menu-5">Resources <span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></div></li></ul></div></div><div id="topicMenuBottomWrap" class="topicMenuBottomWrap"><nav id="topicMenuBottom" class="mUp topicMenuBottom" role="navigation"><ul id="menus"  role="menubar" class="en-gb"><li><a href="#" class="parent"><span>Overview</span><span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></a><ul role="menu" id="menu-0" data-test="menu-0"><li class="menus-no-link" role="none"><a role="menuitem" aria-label="Summary link" href="/topics/en-gb/656"
+                    class="js-menu-summary active"
+                    id="Summary">Summary</a></li></ul></li><li><a href="#" class="parent"><span>Theory</span><span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></a><ul role="menu" id="menu-1" data-test="menu-1"><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Epidemiology</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Aetiology</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Case history</p></li></ul></li><li><a href="#" class="parent"><span>Diagnosis</span><span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></a><ul role="menu" id="menu-2" data-test="menu-2"><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Approach</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">History and exam</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Investigations</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Differentials</p></li></ul></li><li><a href="#" class="parent"><span>Management</span><span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></a><ul role="menu" id="menu-3" data-test="menu-3"><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Approach</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Treatment algorithm</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Emerging</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Prevention</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Patient discussions</p></li></ul></li><li><a href="#" class="parent"><span>Follow up</span><span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></a><ul role="menu" id="menu-4" data-test="menu-4"><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Monitoring</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Complications</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Prognosis</p></li></ul></li><li><a href="#" class="parent"><span>Resources</span><span class="material-icons">&#xE313;</span><span class="material-icons">&#xE316;</span></a><ul role="menu" id="menu-5" data-test="menu-5"><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Guidelines</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">Images and videos</p></li><li class="menus-no-link" role="none"><p class="text-muted" data-disabled="true">References</p></li></ul></li></ul></nav></div><div class="border-top-light-gray mb-4 d-block"><div class="card pt-2 pb-2 shadow-none"><div><a class="fullDetails-locked d-flex align-items-center justify-content-center" href="/log-in"><img src="/images/padlock-lock.svg" class="mr-2" alt="padlock-locked"><span>Log in or subscribe to access all of BMJ Best Practice</span></a></div></div></div></div><div class="row"><div class="col-md-8"><div id="dates"><div class="row allUpdates"><div class="col-md-4"><span data-test="topic-last-reviewed">Evidence last reviewed: </span><span data-test="topic-last-reviewed-date">22 Oct 2026</span></div><div class="col-md-4"><span data-test="topic-last-updated">Topic last updated: </span><span data-test="topic-last-updated-date"><!--display date  -->04 Jul 2025</span></div><div class="col-md-4"></div></div><div class="updatesContent"><div class="collapse" id="impUpdate"><div class="card arrow-card acRight"><div class="card-block"><span class="icon icon-bp-icons-close close" data-test="imp-update-close"></span></div></div></div></div></div><div class="d-flex"><h2 id="sr-only" class="gpw-free">Summary</h2></div><div class="card mb-4"><div class="card-block"><div class="expandable" data-test="topic-summary-expandable"><p class="w-75">Inhalation injury occurs when noxious stimuli such as heat, gases, or particulate matter come into contact with the respiratory system.</p><p class="w-75">Residential fires and workplace accidents are common events that lead to inhalation injury.</p><p class="w-75">Pathophysiology includes thermal injury, systemic absorption of toxic compounds, and direct cellular injury.</p><p class="w-75">Clinical manifestations include upper airway obstruction, carbon monoxide poisoning, airflow obstruction, and acute respiratory distress syndrome.</p><p class="w-75">Therapy is largely supportive, although targeted therapies are the subject of active investigation.</p><p class="w-75">Long-term sequelae and complications are common.</p></div><!-- Definition --><h3 class="pl-0" data-test="topic-summary-def">Definition</h3><div class="expandable" data-test="topic-summary-content"><p class="w-75">Inhalation injury is a spectrum of clinical disease that occurs when the respiratory system is exposed to extreme heat or toxic substances.<span class="reference"><a href="#referencePop1" data-trigger="click focus" role="button" data-animation="false" data-toggle="popover" class="referencePop" aria-label="Open reference: 1">[1]</a><span class="citationText" aria-hidden="true">Rabinowitz, PM, Siegel MD. Acute inhalational injury. Clin Chest Med. 2002 Dec;23(4):707-15.</span><span class="referenceUniqueId" aria-hidden="true">
+							http://www.ncbi.nlm.nih.gov/pubmed/12512160?tool=bestpractice.com
+						</span></span> These exposures occur most commonly in the setting of occupational chemical accidents and residential fires. The severity and pathogenesis of clinical disease depends upon the toxins present and the level of exposure. Acute disease severity can range from mild to fatal. Chronic consequences of inhalation injury are common.</p></div><!--/ Definition --></div></div><!-- History & exam --><h3>History and exam</h3><div id="histEx" class="card-group mt-3 no-shadow"><!--Key diagnostic factors  --><div class="card"><div class="card-block"><h4 class="card-title x-text-secondary">Key diagnostic factors</h4><ul id="diagFactors" class="list-aligned mb-1" data-test="diag-factors"><li>presence of risk factors</li><li>similarity of symptoms to those of others at site of exposure</li><li>cough</li><li>dyspnoea</li><li>hoarseness or dysphonia</li><li>headache</li><li>dizziness</li><li>tachypnoea</li><li>hypoxia</li><li>facial burns</li><li>upper airway oedema</li><li>stridor</li><li>wheezing</li><li>crackles</li><li>loss of consciousness</li><li>seizures</li></ul><div class="fullDetails-disabled mt-2" data-test="full-details-diag-factors"><span>Full details</span></div></div></div><!--End Key diagnostic factors  --><!--other diagnostic factors  --><div class="card"><div class="card-block"><h4 class="card-title x-text-secondary">Other diagnostic factors</h4><ul id="otherFactors" class="list-aligned mb-1"><li>tachycardia</li><li>hypotension</li><li>nausea</li></ul><div class="fullDetails-disabled mt-2" data-test="full-details-other-factors"><span>Full details</span></div></div></div><!-- End other diagnostic factors  --><!--risk factors  --><div class="card"><div class="card-block"><h4 class="card-title x-text-secondary">Risk factors</h4><ul id="riskFactors" class="list-aligned mb-1"><li>known inhalation exposure</li></ul><div class="fullDetails-disabled mt-2" data-test="full-details-risk-factors"><span>Full details</span></div></div></div><!-- End risk factors  --></div><div class="border-top-light-gray mb-4 d-block locked-banner"><div class="card pt-2 pb-2 shadow-none"><div><a class="fullDetails-locked d-flex align-items-center justify-content-center" href="/log-in"><img src="/images/padlock-lock.svg" class="mr-2" alt="padlock-locked"><span>Log in or subscribe to access all of BMJ Best Practice</span></a></div></div></div><!-- Diagnostic investigations --><h3>Diagnostic investigations</h3><div id="diagInvs" class="card-group mt-3 no-shadow"><!--1st investigations to order  --><div class="card"><div class="card-block"><h4 class="card-title x-text-secondary">1st investigations to order</h4><ul id="initialTests" class="list-aligned mb-1"><li>pulse oximetry</li><li>arterial blood gas</li><li>carboxyhaemoglobin (CO-Hb) level</li><li>chest x-ray</li><li>ECG</li><li>cardiac telemetry monitoring</li><li>urine toxicology screen</li><li>serum ethanol level</li></ul><div class="fullDetails-disabled mt-2"><span>Full details</span></div></div></div><!--1st investigations to order  --><!--Investigations to avoid  --><!--Investigations to avoid  --><!--Investigations to consider   --><div class="card"><div class="card-block"><h4 class="card-title x-text-secondary">Investigations to consider</h4><ul id="subTests" class="list-aligned mb-1"><li>pulmonary function tests (PFT)</li><li>laryngoscopy and bronchoscopy</li><li>serum lactate</li></ul><div class="fullDetails-disabled mt-2"><span>Full details</span></div></div></div><!-- End Investigations to consider  --><!--Emerging tests   --><div class="card"><div class="card-block"><h4 class="card-title x-text-secondary">Emerging tests</h4><ul id="emergingTests" class="list-aligned mb-1"><li>cyanide level</li></ul></div></div><!-- End Emerging tests  --></div><div class="border-top-light-gray mb-4 d-block locked-banner"><div class="card pt-2 pb-2 shadow-none"><div><a class="fullDetails-locked d-flex align-items-center justify-content-center" href="/log-in"><img src="/images/padlock-lock.svg" class="mr-2" alt="padlock-locked"><span>Log in or subscribe to access all of BMJ Best Practice</span></a></div></div></div><!-- Treatment details --><h3 class="d-flex align-items-center">Treatment algorithm</h3><div class="card-group mt-3 mb-4 treatment-table topic-page no-shadow" data-test="treatment-table"><div class="card"><div class="card-block p-0"><div class="rowHead" id="acute"><div>ACUTE</div></div><div class="panel-heading bg-white"><h3 class="tx-content"><span>all patients</span></h3></div><!--/.panel-heading --><!-- /.panel-group --></div></div></div><div class="border-top-light-gray mb-4 d-block locked-banner"><div class="card pt-2 pb-2 shadow-none"><div><a class="fullDetails-locked d-flex align-items-center justify-content-center" href="/log-in"><img src="/images/padlock-lock.svg" class="mr-2" alt="padlock-locked"><span>Log in or subscribe to access all of BMJ Best Practice</span></a></div></div></div><!-- Contributors --><div data-details="wrapper" class="mb-3"><!-- "Contributors" heading and "View All" button --><div class="d-flex justify-content-between"><h3 class="text-grey-light" data-test="topic-summary-contributors">Contributors</h3><button role="button" class="d-none d-sm-block p-0 text-dark-blue bg-transparent" data-details="collapsed"><span data-details="text">VIEW ALL</span><span class="sr-only">Authors</span><span class="material-icons" aria-hidden="true">&#xE313;</span></button></div><!-- "Authors" heading --><div class="card py-2 px-3 bg-dark-blue"><div class="d-flex justify-content-between"><h4 class="text-white font-weight-bold font-s m-0 p-0 text-uppercase">Authors</h4></div></div><!-- Authors --><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="d-flex align-items-center acc-panel-toggle acc-panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0" >Jason T. Poston, MD</h5></summary><div class="js-acc-panel-body panel-body"><p class="w-75">Associate Professor</p><p class="w-75">Section of Pulmonary and Critical Care Medicine</p><p class="w-75">Department of Medicine</p><p class="w-75">University of Chicago</p><p class="w-75">Chicago</p><p class="w-75">IL</p><h6 class="font-weight-bold">Disclosures</h6><p>JTP declares that he has no competing interests.</p></div></details></div><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="d-flex align-items-center acc-panel-toggle acc-panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0" >Cathryn T. Lee, MD, MS</h5></summary><div class="js-acc-panel-body panel-body"><p class="w-75">​Instructor</p><p class="w-75">Department of Medicine, Section of Pulmonary and Critical Care</p><p class="w-75">University of Chicago</p><p class="w-75">Chicago</p><p class="w-75">IL</p><h6 class="font-weight-bold">Disclosures</h6><p>CL has received grants from the Pulmonary Fibrosis Foundation.</p></div></details></div><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="d-flex align-items-center acc-panel-toggle acc-panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0" >Acknowledgements</h5></summary><div class="js-acc-panel-body panel-body"><p class="w-75">Dr Jason T. Poston and Dr Cathryn T. Lee would like to gratefully acknowledge Dr Matthew R. Stutz, Dr Karen C. Dugan, and Dr John P. Kress, previous contributors to this topic. We would like to gratefully acknowledge the late Dr Ian R. Driscoll, Associate Professor of Surgery and Anesthesiology at the University of Florida College of Medicine and Director of the UF Health Shands Burn Center, for his peer review of this topic in 2024.</p><h6 class="font-weight-bold">Disclosures</h6><p>MRS, KCD, JPK, and IRD declared that they had no competing interests.</p></div></details></div></div><!-- Peer reviewers --><div data-details="wrapper" class="mb-3"><!-- "Peer reviewers" heading and "View All" button --><div class="d-flex justify-content-end"><button role="button" class="d-none d-sm-block p-0 text-dark-blue bg-transparent" data-details="collapsed"><span data-details="text">VIEW ALL</span><span class="sr-only">Peer reviewers</span><span class="material-icons" aria-hidden="true">&#xE313;</span></button></div><div class="card py-2 px-3 bg-dark-blue"><div class="d-flex"><h4 class="text-white font-weight-bold font-s m-0 p-0 text-uppercase">Peer reviewers</h4></div></div><!-- Accordion --><!-- Existing dynamic reviewers --><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="d-flex align-items-center acc-panel-toggle acc-panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0" >Leopoldo C. Cancio, MD</h5></summary><div class="js-acc-panel-body panel-body"><p class="w-75">Critical Care Fellow</p><p class="w-75">US Army Burn Center</p><p class="w-75">US Army Institute of Surgical Research</p><p class="w-75">Brooke Army Medical Center</p><p class="w-75">Fort Sam Houston</p><p class="w-75">TX</p><h6 class="font-weight-bold">Disclosures</h6><p>LCC declares that he has no competing interests.</p></div></details></div><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="d-flex align-items-center acc-panel-toggle acc-panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0" >Rhys Thomas, MD</h5></summary><div class="js-acc-panel-body panel-body"><p class="w-75">Honorary Consultant in Anesthesia and Intensive Care</p><p class="w-75">Queen Victoria Hospital</p><p class="w-75">East Grinstead</p><p class="w-75">Honorary Consultant</p><p class="w-75">Royal London Hospital</p><p class="w-75">London</p><p class="w-75">UK</p><h6 class="font-weight-bold">Disclosures</h6><p>RT declares that he has no competing interests.</p></div></details></div><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="d-flex align-items-center acc-panel-toggle acc-panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0" >Brendan Madden, MD, MSc, FRCP, FRCPI</h5></summary><div class="js-acc-panel-body panel-body"><p class="w-75">Professor of Cardiothoracic Medicine</p><p class="w-75">St George&#39;s Hospital</p><p class="w-75">London</p><p class="w-75">UK</p><h6 class="font-weight-bold">Disclosures</h6><p>BM declares that he has no competing interests.</p></div></details></div><!-- Static Peer Reviewer Acknowledgements Section --><div class="card border-bottom-0"><details class="border-b-dark-blue"><summary class="panel-heading contributors text-dark-blue"><h5 class="acc-panel-heading-text mb-0">Peer reviewer acknowledgements</h5></summary><div class="panel-body"><p class="w-75">BMJ Best Practice topics are updated on a rolling basis in line with developments in evidence and guidance. The peer reviewers listed here have reviewed the content at least once during the history of the topic.</p><h6 class="font-weight-bold">Disclosures</h6><p>Peer reviewer affiliations and disclosures pertain to the time of the review.</p></div></details></div></div><!-- Reference --><div class="mt-4"><div class="mb-2"><h3 class="mb-0" style="line-height: 2rem;">References</h3></div><div class="card"><div class="card-block"><div class="mb-3"><i>Our in-house evidence and editorial teams collaborate with international expert contributors and peer reviewers to ensure that we provide access to the most clinically relevant information possible.</i></div><!-- key articles --><h4 class="mb-3">Key articles</h4><div class="section"><p><span class="citationText reference-links">Summerhill EM, Hoyle GW, Jordt SE, et al; ATS Terrorism and Inhalational Disasters Section of the Environmental, Occupational, and Population Health Assembly. An official American Thoracic Society Workshop report: chemical inhalational disasters. Biology of lung injury, development of novel therapeutics, and medical preparedness. Ann Am Thorac Soc. 2017 Jun;14(6):1060-72.</span><a rel="external" class="refsFT" href="http://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201704-297WS">Full text
+									</a><a rel="external" class="refsAbs" href="http://www.ncbi.nlm.nih.gov/pubmed/28418689?tool=bestpractice.com">&nbsp;Abstract
+									</a></p></div><div class="section"><p><span class="citationText reference-links">ISBI Practice Guidelines Committee, Steering Subcommittee, Advisory Subcommittee. ISBI practice guidelines for burn care. Burns. 2016 Aug;42(5):953-1021.</span><a rel="external" class="refsFT" href="https://www.sciencedirect.com/science/article/pii/S0305417916301449?via%3Dihub">Full text
+									</a><a rel="external" class="refsAbs" href="http://www.ncbi.nlm.nih.gov/pubmed/27542292?tool=bestpractice.com">&nbsp;Abstract
+									</a></p></div><div class="section"><p><span class="citationText reference-links">Anseeuw K, Delvau N, Burillo-Putze G, et al. Cyanide poisoning by fire smoke inhalation: a European expert consensus. Eur J Emerg Med. 2013 Feb;20(1):2-9.</span><a rel="external" class="refsFT" href="https://journals.lww.com/euro-emergencymed/fulltext/2013/02000/cyanide_poisoning_by_fire_smoke_inhalation__a.2.aspx">Full text
+									</a><a rel="external" class="refsAbs" href="http://www.ncbi.nlm.nih.gov/pubmed/22828651?tool=bestpractice.com">&nbsp;Abstract
+									</a></p></div><h4 class="mb-3">Reference articles</h4><!-- reference articles --><h5>A full list of sources referenced in this topic is available to users with access to all of BMJ Best Practice.</h5></div></div></div><!-- Patient Information --></div><div class="col-md-4"><div class="serp_detail"><div id="rhs-card"><ul class="list-group list-group-flush" layout:fragment="content"><li class="list-group-item" id="rhsDifferentialDiagnosis"><div><h4 class="card-title x-text-secondary">Differentials</h4><ul class="list list-rollback list-aligned pt-0"><li><span class="text-muted">Asthma</span></li><li><span class="text-muted">COPD</span></li><li><span class="text-muted">Cardiogenic oedema</span></li></ul><div class="fdRHS text-muted">More Differentials</div></div></li><li class="list-group-item" id="rhsGuidelines"><div><h4 class="card-title x-text-secondary">Guidelines</h4><ul class="list list-rollback list-aligned pt-0"><li><span class="text-muted">Guideline for inhalation injury in burns patients. Adult guideline</span></li><li><span class="text-muted">Management of airway burns and inhalation injury. Paediatric guideline</span></li></ul><div class="fdRHS text-muted">More Guidelines</div></div></li><li class="list-group-item" id="rhsProceduralVideos"><h4 class="card-title x-text-secondary">Videos</h4></h4><p class="w-100"><span class="icon icon-bp-icons-procedural-videos"></span><span class="text-muted">Radial artery puncture animated demonstration</span></p><p class="w-100"><span class="icon icon-bp-icons-procedural-videos"></span><span class="text-muted">Femoral artery puncture animated demonstration</span></p><div class="fdRHS text-muted">More videos</div></li><!----- POCE e.g. /topics/en-gb/3000201 -----><!----- ASSESSMENTS e.g. /topics/en-gb/973, /search?q=Assessment+of+hyponatraemia -----><!----- OVERVIEW e.g. /topics/en-gb/88, /search?q=Management+of+coexisting+conditions+in+the+context+of+COVID-19 -----><!----- GENERIC e.g. /search?q=Palliative+care, /topics/en-gb/1020, /topics/en-gb/418 -----><!-- end of switch statement --><!---  PDF --><li class="list-group-item"><a class="fullDetails-locked d-flex align-items-center justify-content-center" href="/log-in"><img src="/images/padlock-lock.svg" class="mr-2" alt="padlock-locked"><span>Log in or subscribe to access all of BMJ Best Practice</span></a></li></ul></div></div></div></div></th:block><div class="row"><div class="card-block disclaimer container"><p><span data-test="disclaimer">Use of this content is subject to our <a href="https://bestpractice.bmj.com/info/disclaimer/">disclaimer</a>  </span></p></div></div></div></main><!-- Soft Paywall Banner: spbanner --><div class="spbanner fixed-bottom bg-light-4 border-top border-gray"><div class="spbanner-options d-none d-sm-block"><div class="container d-flex py-4 justify-content-center align-items-center"><h3 class="font-weight-bold mb-0 mr-4">Log in or subscribe to access all of BMJ Best Practice</h3><button class="text-uppercase x-btn x-btn-lg x-btn-secondary small"
+                             role="button"
+                             data-element="paywall-footer-expand-btn"
+                             aria-label="Log in or subscribe to access all of BMJ Best Practice , See all options">See all options</button></div></div><div class="spbanner-login shadow-radius text-center pb-4 position-relative"><button type="button"
+                        class="d-none d-sm-flex close justify-content-center align-items-center spbanner-close"
+                        aria-label="Close"
+                        data-element="paywall-footer-close"><span aria-hidden="true">×</span></button><div class="container"><h3 class="font-weight-bold mb-0 mr-4  pb-4 d-none d-sm-block">Log in or subscribe to access all of BMJ Best Practice</h3><h3 class="font-weight-bold d-block d-sm-none font-ms py-3 position-relative">Log in to access all of BMJ Best Practice</h3><div class="spbanner-login-btn d-flex content-center text-uppercase text-left"><a href="/log-in"
+                          class="x-btn btn-outline-light x-btn-lg small text-primary content-center mr-md-2" role="link"
+                              aria-label="LOG IN" data-element="paywall-footer-login-btn"><span class="material-icons spbanner-icon spbanner-material-icon spbanner-person-icon">person</span><div><span class="font-weight-bold whitespace-normal">LOG IN</span></div></a><a href="https://bestpractice.bmj.com/info/access-through-your-institution/"
+                          class="spbanner-institution x-btn btn-outline-light x-btn-lg small text-primary content-center mr-md-2"
+                          target="_blank" role="link"
+                          aria-label="Access through your institution, Log in here via OpenAthens or Shibboleth"
+                          data-element="paywall-footer-institution-btn"><span class="material-icons icon icon-bp-icons-library spbanner-icon spbanner-material-icon"></span><div><span class="font-weight-bold w-100">Access through your institution</span></div></a><div class="spbanner-or position-relative d-block d-sm-none w-100 text-center"><span class="position-relative">OR</span></div><a href="https://bestpractice.bmj.com/info/subscribe/"
+       class="x-btn x-btn-secondary x-btn-lg small content-center"
+       role="link"
+       aria-label="SUBSCRIBE"
+       data-element="paywall-footer-subscribe-btn"><!-- XXX: This isn't a material icon. It shouldn't need spbanner-material-icon (see comment in _paywall.scss) --><span class="icon-medical spbanner-icon spbanner-material-icon"></span><span class="font-weight-bold whitespace-normal">SUBSCRIBE</span></a></div></div></div></div><!-- set the messages country code variable from region to be used from i18 plugin. Setting here so it's available in all pages --><script>
+
+		/*<![CDATA[*/
+
+		var messagesCountryCode = "en_GB";
+		/*]]>*/
+
+
+	</script><div><footer id="footer" class="bp-footer" role="contentinfo"><div class="container"><div class="row"><nav class="col-md-9"><div class="row"><div class="col-md-4 bp-footer__wrapper" data-test="footer-nav-cm-links"><h2 class="bp-footer__list-header">Browse</h2><ul><li><a href="/">Home</a></li><li><a href="/recent-updates">Recent updates</a></li><li><a href="/specialties">Specialties</a></li><li><a href="/calculators">Calculators</a></li><li><a href="/patient-leaflets">Patient information</a></li><li><a href="/procedural-videos">Procedural videos</a></li><li><a href="https://bestpractice.bmj.com/info/evidence">Evidence</a></li><li><a href="/drugs">Drugs</a></li></ul></div><!-- logged-in individual or institutional user --><!-- unknown user --><div class="col-md-4 bp-footer__wrapper" data-test="footer-nav-links"><h2 class="bp-footer__list-header">Services</h2><ul><li><a href="/log-in">Log in</a></li><li><a href="https://bestpractice.bmj.com/info/subscribe/free-trial/">Free trial</a></li><li><a href="https://bestpractice.bmj.com/info/subscribe">Subscribe</a></li><li><a href="https://bestpractice.bmj.com/info/about-bmj-best-practice">About us</a></li><li><a href="https://bestpractice.bmj.com/info/earn-cme-cpd-points">About CME/CPD</a></li><li><a href="https://bestpractice.bmj.com/info/contact-us">Contact us</a></li><li><a href="https://emails.bmj.com/k/Bmj/marketing_permission_opt_in">
+                                        Sign up for email alerts
+                                    </a></li></ul></div><!--institutional user not logged in--><div class="col-md-4 bp-footer__wrapper"><h2 class="bp-footer__list-header">Legal</h2><ul><li><a href="https://bestpractice.bmj.com/info/disclaimer">Disclaimer</a></li><li><a href=" https://www.bmj.com/company/legal-information/">Terms and conditions</a></li><li><a href="https://bestpractice.bmj.com/info/privacy-policy/">Privacy notice</a></li><li><a href="https://www.bmj.com/company/your-privacy/cookies-policy/">Cookie policy</a></li><li><a href="https://bestpractice.bmj.com/info/accessibility">Accessibility</a></li></ul></div></div><!-- row --></nav><div class="col-md-3 bp-footer__wrapper"><ul class="bp-footer__social-icons list-inline"><li class="list-inline-item"><a href="https://www.facebook.com/BMJBestPractice"><img loading="lazy" alt="Facebook Logo" title="Facebook" src="/images/icon-facebook.png" width="25" height="25" /><span class="sr-only">External link opens in a new window</span></a></li><li class="list-inline-item"><a href="https://twitter.com/BMJBestPractice"><img loading="lazy" alt="X Logo" title="X" src="/images/icon-twitter.png" width="25" height="25" /><span class="sr-only">External link opens in a new window</span></a></li><li class="list-inline-item"><a href="https://www.linkedin.com/showcase/15218227/"><img loading="lazy" alt="LinkedIn Logo" title="LinkedIn" src="/images/icon-linkedin.png" width="25" height="25" /><span class="sr-only">External link opens in a new window</span></a></li><li class="list-inline-item"><a href="https://bestpractice.bmj.com/info/rss-feeds"><img loading="lazy" alt="RSS Feed" title="rss" src="/images/rss.svg" width="22" height="22"/><span class="sr-only">External link opens in a new window</span></a></li><li class="list-inline-item"><a href="https://www.youtube.com/channel/UCt72GZ0cPXpk4EzgFhdWYdQ"><img loading="lazy" alt="Youtube Logo" title="YouTube" src="/images/icon-youtube.png" width="25" height="25" /><span class="sr-only">External link opens in a new window</span></a></li></ul><p class="copyright"><small>&copy; BMJ Publishing Group&nbsp;<span>2026</span></small></p><p class="issn"><small>ISSN 2515-9615</small></p><p class="efwa-img"><a href="https://ecofriendlyweb.org/client/bmj-best-practice/" data-test="efwa-link" target="_blank"><img src="/images/EFWA-logo-2027.png" alt="Eco-Friendly Web Alliance"></a></p></div></div><!-- row --></div><!-- container --><!-- CookiePro Cookies Settings button start --><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button><!-- CookiePro Cookies Settings button end --></footer></div><div><div class="container modal-registration-form"><dialog id="feedbackContainer"><div class="modal-dialog modal-lg" role="dialog" aria-labelledby="ModalFeedbackLabel"><div class="modal-content"><div class="modal-header flex-wrap"><h2 id="ModalFeedbackLabel">Help us improve <abbr>BMJ</abbr> Best Practice</h2><button type="button" class="close" data-dialog-close="feedbackContainer" formmethod="dialog"><span class="close-text">Close</span><span aria-hidden="true">&nbsp;&times;</span></button><div class="d-block w-100"><p>Please complete all fields.</p></div></div><div class="modal-body first-step"><div class="row"><div class="col-md-12"><form id="feedbackForm" action="#"><input type="text" id="feedback" name="feedback" tabindex="-1"  autocomplete="off" class="visibility-hidden" aria-label="Feedback"><div class="row"><div class="col-md-6"><div class="form-group floating-label"><label for="feedbackName">Name</label><input  id="feedbackName" class="form-control" name="feedbackName" type="text" ><div class="form-control-feedback"></div></div></div><div class="col-md-6"><div class="form-group floating-label"><label for="feedbackEmail">Email</label><input  id="feedbackEmail" class="form-control" name="feedbackEmail" type="email" value=""><div class="form-control-feedback"></div></div></div></div><div class="row"><div class="col-md-12"><h2 id="feedbackPageTitle" class="h3">Page: </h2></div></div><input id="feedbackPage" name="feedbackPage" type="hidden" value=""><div class="row"><div class="col-md-4"><p>I have some feedback on:</p><fieldset class="form-group" role="radiogroup"><legend>Feedback on: </legend><label for="feedOn01"><input id="feedOn01" type="radio" name="feedbackOn" value="This page" checked="checked">&nbsp;This page</label><label for="feedOn02"><input id="feedOn02" type="radio" name="feedbackOn" value="This website">&nbsp;The website in general</label><label for="feedOn03"><input id="feedOn03" type="radio" name="feedbackOn" value="Something else">&nbsp;Something else</label></fieldset></div><div class="col-md-8"><div class="form-group floating-label textarea"><label for="feedbackContent">I have some feedback on:</label><textarea id="feedbackContent" name="feedbackContent"></textarea><div class="form-control-feedback"></div></div></div></div><div class="row"><div class="col-md-12"><p>We will respond to all feedback.</p></div></div><div class="row"><div class="col-md-12"><button id="feedbackSubmit" type="submit" class="btn btn-secondary btn-lg"><span id="spinner2" class="progress-circular-inner progress-circular-left"></span><span id="btnText2">Submit Feedback</span></button></div></div><div class="row smTxt"><div class="col-md-12"><p>For any urgent enquiries please contact our customer services team who are ready to help with any problems.</p></div></div><div class="row smTxt"><div class="col-md-3"><p><b>Phone:</b>+44 (0) 207 111 1105</p></div><div class="col-md-3"><p><b>Email: </b><a href="mailto:support@bmj.com">support@bmj.com</a></p></div></div></form><div class="visibility-hidden"><ul id="feedbackValidation"></ul></div></div></div></div><div class="modal-body--success" style="display: none" role="alert"><div class="col-md-12 mt-5"><h2>Thank you</h2></div><div class="col-md-12 mb-5"><p>Your feedback has been submitted successfully.</p></div></div></div></div></dialog></div><button data-dialog-open="feedbackContainer" id="feedBackBtn"><span class="material-icons" aria-hidden="true">&#xE24C;</span>&nbsp;FEEDBACK</button></div><html xmlns="http://www.w3.org/1999/xhtml"><script>
+        /*<![CDATA[*/
+        var siq_cookie = "~";
+        /*]]>*/
+    </script><script>
+      // Code for the recently viewed topics suggestion, needs to be inlined to use the Java values
+      /*<![CDATA[*/
+	  function dedupe(array) {
+		  var seen = {};
+		  return array.filter(function(item) {
+			  return seen.hasOwnProperty(item.artifactId) ? false : (seen[item.artifactId] = true);
+		  });
+	  }
+
+	  function TopicViewed(id, title, lang, type) {
+		  this.artifactId = id;
+		  this.title = title;
+		  this.language = lang;
+		  this.artifactType = type;
+	  }
+
+	  document.addEventListener("DOMContentLoaded", function() {
+		  var topicId = 656;
+		  var topicLang = "en-gb";
+		  var topicTitle = "Inhalation injury";
+		  var topicType = "condition";
+
+		  // Close POCE topic algorithm accordions by default
+		  if (document.location.href.indexOf('treatment-algorithm') > -1 && topicType === 'poce') {
+			  var panelContents = document.querySelectorAll(".panel-content");
+			  for (var i = 0; i < panelContents.length; i++) {
+				  panelContents[i].style.display = 'none';
+			  }
+		  }
+
+		  if (topicId) {
+			  var topicsViewed = [];
+			  if (localStorage.getItem("topicsViewed") !== null) {
+				  topicsViewed = JSON.parse(localStorage.getItem("topicsViewed"));
+			  }
+
+			  topicsViewed.unshift(new TopicViewed(topicId, topicTitle, topicLang, topicType)); // Add new topics at the beginning
+
+			  // Remove duplicates
+			  topicsViewed = dedupe(topicsViewed);
+
+			  // Drop if size is bigger than 15
+			  if (topicsViewed.length > 15) {
+				  topicsViewed = topicsViewed.slice(0, 14);
+			  }
+
+			  localStorage.setItem("topicsViewed", JSON.stringify(topicsViewed));
+		  }
+	  });
+
+	  /*]]>*/
+    </script><script type="text/javascript">
+	   _linkedin_data_partner_id = "103646";
+	</script><script type="text/javascript">
+		(function()
+		{var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);}
+		)();
+	</script><noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=103646&fmt=gif" /></noscript><!--[if lte IE 7]><script>var isIE7OrOlder = true; </script><![endif]--><!--[if lte IE 9]><script type="text/javascript" src="/gzip_e7393341757851d76c3264b590cf5143/js/browserupdate.js" ></script>
+<![endif]--><script>
+        /*<![CDATA[*/
+        const requiredField = "Please tick to confirm."
+        const emailFormat = "Email is not valid."
+        const nameRequiredField = "Name cannot be empty."
+        const feedbackRequiredField = "Feedback cannot be empty."
+        //aria labels
+        const arialabelClose = "Close"
+        const arialabelOpenNewTab = "Opens in new tab"
+        const arialabelDisclaimerLink= "Disclaimer link opens in new tab"
+        const arialabelShowMore = "Show more"
+        const arialabelShowLess = "Show less"
+        const arialabelPage = "Page"
+        const ariaLabelCloseFilter = "Close filters"
+        const ariaLabelSearch = "Search"
+        const ariaLabelShowFilters = "Show filters"
+        const ariaLabelTogglePasswordHide = "Hide password"
+        const ariaLabelTogglePasswordShow = "Show password "
+        const ariaLabelSubTopics = "Sub topics"
+        /*]]>*/
+    </script></body></html>

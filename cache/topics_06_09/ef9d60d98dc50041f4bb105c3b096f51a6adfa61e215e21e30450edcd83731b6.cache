@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <title>Japan Meteorological Agency｜NWPTAC Top</title>
+    <meta content="Japan Meteorological Agency" name="Author" />
+    <meta content="Japan Meteorological Agency" name="keywords" />
+    <meta content="Website provided by the Japan Meteorological Agency (the national weather service of Japan)" name="description" />
+    <meta content="text/css" http-equiv="Content-Style-Type" />
+    <style media="all" type="text/css"><!-- @import url(//www.jma.go.jp/jma/en/default.css); --></style> </head>
+  <body> <!--header start-->
+    <div id="logo"><a href="//www.jma.go.jp/jma/indexe.html"> <img alt="Japan Meteorological Agency" height="47" src="//www.jma.go.jp/jma/en/common/logo.gif" width="120" /> </a> </div>
+    <div id="head_lang"><a href="//www.jma.go.jp/jma/index.html">Japanese</a> </div>
+    <div id="head_link"><a href="#contents">Skip Navigation</a> <a href="//www.jma.go.jp/jma/en/AboutUs/indexe_aboutus.html">About Us</a> <a href="//www.jma.go.jp/jma/en/Access/indexe_acs.html">Access</a> <a href="//www.jma.go.jp/jma/en/Links/indexe_lnk.html">Links</a> <a href="//www.jma.go.jp/jma/en/SiteMap/indexe_smp.html">Site Map</a> </div>
+    <div id="menu"><a href="//www.jma.go.jp/jma/indexe.html">Home</a> <a href="//www.jma.go.jp/jma/en/menu.html">Weather/Earthquakes</a> <a href="//www.jma.go.jp/jma/en/Services/indexe_services.html">Services</a> <a href="//www.jma.go.jp/jma/en/Publications/publications.html">Publications/Periodicals</a> <a href="//www.jma.go.jp/jma/en/News/indexe_news.html">News Releases</a> <a class="here" href="//www.jma.go.jp/jma/en/NMHS/indexe_nmhs.html">For NMHSs</a> </div> <!--header end--> <!--breadcrumb navigation start-->
+    <div id="pan"><a href="//www.jma.go.jp/jma/indexe.html">Home</a> &gt; <a href="//www.jma.go.jp/jma/en/menu.html">Weather/Earthquakes</a> &gt; <a href="//www.jma.go.jp/en/tsunami">Tsunami Warnings/Advisories</a> &gt; Tsunami Warning/Advisory and Tsunami Information<br /> </div> <!--breadcrumb navigation end--> <!--contents start-->
+    <div id="contents">
+      <h1>Tsunami Warning/Advisory and Tsunami Information</h1> After an earthquake occurs, the Japan Meteorological Agency (JMA) issues <span class="new">Tsunami Warnings/Advisories</span> and Tsunami Information bulletins <strong>if a tsunami strike is expected</strong>.<br /><span class="new">Major Tsunami Warnings are issued in the classification of Emergency Warnings as of 30 August, 2013.</span><p>　</p>
+      <h2>Tsunami Warning/Advisory</h2> When an earthquake occurs that could generate a disastrous tsunami in coastal regions of Japan, JMA issues Major Tsunami Warnings, Tsunami Warnings and/or Tsunami Advisories for individual regions based on estimated tsunami heights around three minutes after the quake (or as early as two minutes in some cases<sup>*</sup>).<br /> Immediately after an earthquake occurs, JMA promptly establishes its location, magnitude and the related tsunami risk. However, it takes time to determine the exact scale of earthquakes with a magnitude of 8 or more. In such cases, JMA issues an initial warning based on the predefined maximum magnitude to avoid underestimation.<br /> When such values are used, estimated maximum tsunami heights are expressed in qualitative terms such as "Huge" and "High" in initial warnings rather than as quantitative expressions. Once the exact magnitude is determined, JMA updates the warning with estimated maximum tsunami heights expressed in quantitative terms. <p class="stx">* Earthquakes in and around Japan to which JMA can apply the Earthquake Early Warning technique to promptly and accurately determine the hypocenter and magnitude</p>
+<table class="smart">
+  <tbody>
+    <tr>
+      <th id="COL1" rowspan="2" align="center">Category</th>
+      <th id="COL2" rowspan="2" align="center">Indication</th>
+      <th id="COL3" colspan="2" align="center">Estimated maximum tsunami heights</th>
+      <th id="COL4" rowspan="2" align="center">Expected damage and action to be taken</th>
+    </tr>
+    <tr>
+      <th id="COL5" align="center">Quantitative<br>expression</th>
+      <th id="COL6" align="center">Qualitative<br>expression</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>Major Tsunami Warning<sup>**</sup></strong></td>
+      <td>Tsunami height is expected to be greater than 3 meters.</td>
+      <td align="center">over 10 m<br>10 m</br>5 m</td>
+      <td align="center">Huge</td>
+      <td>Wooden structures are expected to be completely destroyed and/or washed away; anybody exposed will be caught in tsunami currents.</br>
+<strong>Evacuate from coastal or river areas immediately to safer places such as high ground or a tsunami evacuation building.</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tsunami Warning</strong>
+      <td>Tsunami height is expected to be up to 3 meters.</td>
+      <td align="center">3 m</td>
+      <td align="center">High</td>
+      <td>Tsunami waves will hit, causing damage to low-lying areas. Buildings will be flooded and anybody exposed will be caught in tsunami currents.</br>
+<strong>Evacuate from coastal or river areas immediately to safer places such as high ground or a tsunami evacuation building.</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tsunami Advisory</strong></td>
+      <td>Tsunami height is expected to be up to 1 meter.</td>
+      <td align="center">1 m</td>
+      <td align="center">N/A</td>
+      <td>Anybody exposed will be caught in strong tsunami currents in the sea. Fish farming facilities will be washed away and small vessels may capsize.</br>
+<strong>Get out of the water and leave coastal areas immediately.</strong></td>
+    </tr>
+  </tbody>
+</table>
+      <p class="stx">** Major Tsunami Warnings are issued in the classification of Emergency Warnings. <br /> Detailed information on Emergency Warnings is provided on the <a href="//www.jma.go.jp/jma/en/Emergency_Warning/ew_index.html">Emergency Warning System</a> web page.</p>
+      <br />
+      <table bgcolor="#FFFACD" cellspacing="1">
+        <tbody>
+          <tr valign="top">
+            <td><strong><span class="new">Note</span></strong><br />
+              <ul>
+                <li><strong>Tsunamis may hit before warnings are issued if the source region is near the coast. Be sure to evacuate when strong shaking or weak ground motion continuing for an extended period occurs.</strong></li>
+                <br />
+                <li><strong>If a Major Tsunami Warning with the quantitative term "Huge" is issued, tsunamis as large as those seen after the Great East Japan Earthquake of 2011 may hit. Evacuate immediately to the safest place possible.</strong></li>
+                <br />
+                <li><strong>Tsunami heights may exceed estimates due to coastal topography and other factors in some regions. Do not assume you are in a safe place; keep evacuating to higher and higher ground wherever possible.</strong></li>
+                <br />
+                <li><strong>Tsunami waves are expected to hit repeatedly. Do not leave the tsunami evacuation location until Tsunami Warnings are cleared.</strong></li> </ul>
+            </td> </tr> </tbody> </table>
+      <p>　</p>
+      <h2>Tsunami Information</h2> When Tsunami Warnings and/or Advisories are issued, Tsunami Information bulletins on matters such as estimated tsunami heights and arrival times are subsequently issued.<br />
+<table class="smart">
+  <tbody>
+    <tr>
+      <th align="center">Messages about tsunami</th>
+      <th align="center">Indication</th>
+    </tr>
+    <tr>
+      <td><strong><a name="info2">Tsunami Information</a></strong><br>
+      (Estimated Tsunami Arrival Time and Height)</td>
+      <td>Estimated arrival times<sup>*</sup> and heights of the tsunami for relevant tsunami forecast regions.</p>* The estimated tsunami arrival time for each tsunami forecast region is the time at which it is expected to hit first in any part of that area. Hence, in some coastal regions, tsunamis may hit after the estimated time.<br>
+      </td>
+    </tr>
+    <tr>
+      <td><strong><a name="info3">Tsunami Information</a></strong><br>
+      (High Tide Time and Estimated Tsunami Arrival Time at each place)</td>
+      <td>The high tide times and estimated arrival times of the tsunami at selected points.
+      </td>
+    </tr>
+      <td><strong><a name="info4">Tsunami Information (*1)</a></strong><br>
+      (Tsunami Observations)
+      </td>
+      <td>Arrival times and heights of the tsunami observed at tide gauges or tsunami meters.
+      </td>
+    </tr>
+    <tr>
+      <td><strong><a name="info4">Tsunami Information (*2)</a></strong><br>
+      (Tsunami Observations at Offshore Gauges)
+      </td>
+      <td>Tsunami arrival times and heights observed at offshore gauges, and related tsunami heights along the coast in the corresponding forecast region estimated from offshore observations.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>In JMA XML telegrams and on the JMA website, Tsunami Information (Estimated Tsunami Arrival Time and Height) is combined with Tsunami Warning/Advisory.</p>
+<p>　</p>
+<table border="2"><tbody><tr><td>
+
+<h4>(*1) Issuance of Tsunami Information based on Tsunami Observations</h4>
+<div class="l3">
+
+<p class="stx">
+<img src="./kansoku_ex1_e.png" align="right"alt="Example of Tsunami Information on Tsunami Observations" title="Example of Tsunami Information on Tsunami Observations">
+</p>
+<br>
+JMA announces the arrival times and initial movement of the first observed waves in coastal areas, and also provides information on the arrival times and scale of the highest waves observed as of the time of issuance.<br>
+As tsunami waves can hit repeatedly and those arriving later may be higher, it is inadvisable to abandon evacuation if the initially observed waves are small.
+Accordingly, when a Major Tsunami Warning and/or a Tsunami Warning is in effect and observed tsunamis appear much smaller than estimated, JMA uses the phrase "Currently Observing" rather than actual values to keep people aware that higher waves may still approach.
+<br clear="right">
+<p></p>
+
+<table class="smart" summary="Expressions used for observed maximum heights in coastal areas" cellspacing="1">
+  <a name="joho_kijun">Expressions used for observed maximum heights in coastal areas</a>
+  <tbody><tr align="center">
+      <th id="COL1_2" scope="row" align="center">Warnings/advisories in effect</th>
+      <th id="COL2_2" scope="row" align="center">Observed heights</th>
+      <th id="COL3_2" scope="row" align="center">Information bulletin expressions</th>
+  </tr> 
+  <tr>
+      <td rowspan="2" id="row2" headers="COL1_2" align="center">Major Tsunami Warning
+      </td><td headers="COL2_2 row2" align="center">Height ＞ 1 m</td>
+      <td headers="COL2_2 row2">Actual values</td>  </tr>
+  <tr>
+      <td headers="COL2_2 row2" align="center">Height ≦ 1 m</td>
+      <td headers="COL2_2 row2">"Currently Observing" announcements</td>  </tr>
+  <tr>
+      <td rowspan="2" id="row3" headers="COL1_2" align="center">Tsunami Warning
+      </td><td headers="COL2_2 row3" align="center">Height ≧ 0.2 m</td>
+      <td headers="COL2_2 row3">Actual values</td>  </tr>
+  <tr>
+      <td headers="COL2_2 row3" align="center">Height ＜ 0.2 m</td>
+      <td headers="COL2_2 row3">"Currently Observing" announcements</td>  </tr>
+  <tr>
+      <td id="row4" headers="COL1_2" align="center">Tsunami Advisory
+      </td><td headers="COL2_2 row4" align="center">(all cases)</td>
+      <td headers="COL2_2 row4">Actual values</br>("Slight" for very small waves)</td>
+  </tr>
+</tbody></table>
+</div>
+</td></tr></tbody></table>
+    <p>　</p>
+<table border="2"><tbody><tr><td>
+
+<h4>(*2) Issuance of Tsunami Information based on Tsunami Observations at Offshore Gauges</h4>
+<div class="l3">
+<p>
+<img src="./kansoku_ex2_e.png" align="right" alt="Example of Tsunami Information on Tsunami Observations at Offshore Gauges" title="Example of Tsunami Information on Tsunami Observations at Offshore Gauges">
+</p><p>
+<br>
+JMA announces the arrival times and initial movements of the first observed waves offshore, and also provides information on the arrival times and scale of the highest waves observed as of the time of issuance.
+JMA also announces estimated data for tsunami waves in coastal areas<sup>*</sup> (arrival times of initial waves and arrival times/heights of maximum waves) for each tsunami forecast region expected to be affected.
+</p>
+<p>JMA does not provide actual values for observed tsunami heights offshore or estimated maximum tsunami heights for coastal areas 
+until the thresholds for issuance are reached (in the same way as those for coastal areas) in consideration of the related influence on people's evacuation. 
+When a Major Tsunami Warning and/or a Tsunami Warning is in effect and estimated tsunami heights for coastal areas are small, 
+JMA uses the phrase "Currently Observing" for observed heights offshore and "Currently Investigating" for estimated heights in coastal areas to keep people aware that higher waves may still approach. 
+<br clear="right">
+<p></p>
+
+<table class="smart" summary="Expressions used for observed maximum heights at offshore gauges and estimated maximum heights in coastal areas" cellspacing="1">
+  <a name="joho_kijun">Expressions used for observed maximum heights at offshore gauges and estimated maximum heights in coastal areas<sup>*</sup></a>
+  <tbody><tr>
+      <th id="COL1_3" scope="row" align="center">Warnings/advisories in effect</th>
+      <th id="COL2_3" scope="row" align="center">Estimated tsunami heights for coastal areas</th>
+      <th id="COL3_3" scope="row" align="center">Information bulletin expressions</th>
+  </tr> 
+  <tr>
+      <td rowspan="2" id="row5" headers="COL1_3" align="center">Major Tsunami Warning
+      </td><td headers="COL2_3 row5" align="center">Height ＞ 3 m</td>
+      <td headers="COL2_3 row5">Actual values for observed heights at offshore gauges and estimated heights in coastal areas</td>  </tr>
+  <tr>
+      <td headers="COL2_3 row5" align="center">Height ≦ 3 m</td>
+      <td headers="COL2_3 row5">"Currently Observing" for offshore observations and "Currently Investigating" for estimated heights in coastal areas</td>  </tr>
+  <tr>
+      <td rowspan="2" id="row6" headers="COL1_3" align="center">Tsunami Warning
+      </td><td headers="COL2_3 row6" align="center">Height ＞ 1 m</td>
+      <td headers="COL2_3 row6">Actual values for observed heights at offshore gauges and estimated heights in coastal areas</td>  </tr>
+  <tr>
+      <td headers="COL2_3 row6" align="center">Height ≦ 1 m</td>
+      <td headers="COL2_3 row6">"Currently Observing" for offshore observations and "Currently Investigating" for estimated heights in coastal areas</td>  </tr>
+  <tr>
+      <td id="row7" headers="COL1_3" align="center">Tsunami Advisory
+      </td><td headers="COL2_3 row7" align="center">(all cases)</td>
+      <td headers="COL2_3 row7">Actual values for observed heights at offshore gauges and estimated heights in coastal areas</td>
+  </tr>
+</tbody></table>
+<br>
+<p>
+* For gauges more than 100 km offshore, JMA does not announce the relevant estimated tsunami heights for coastal areas 
+due to the difficulty of determining which tsunami forecast regions waves will reach from offshore gauges. 
+Announcement of tsunami heights observed at such gauges is begun when JMA issues an information bulletin detailing actual values for observed and estimated heights from other offshore gauges closer to the coast. 
+Until this time, the phrase "Currently Observing" is used.
+</p>
+</div>
+</td></tr></tbody></table>
+    <p>　</p>
+    <h2>Tsunami Forecast</h2>
+    <p class="mtx"> After an earthquake occurs, if no damage is expected, JMA issues Tsunami Forecasts.</p>
+    <table cellspacing="1" class="smart" summary="Actions to be taken">
+      <tbody>
+        <tr class="mtx">
+          <th align="center" id="COL1_4" scope="row">Forecasted sea level changes</th>
+          <th align="center" id="COL2_4" scope="row">Message</th> </tr>
+        <tr class="mtx">
+          <th align="center" headers="COL1_4" id="row8" scope="row">No tsunami is expected</th>
+          <td headers="COL2_4 row8">"No tsunami is expected." (To be included in Earthquake Information.)</td> </tr>
+        <tr class="mtx">
+          <th align="center" headers="COL1_4" id="row9" scope="row"><nobr>Tsunami height less than 0.2 meters is expected</nobr></th>
+          <td headers="COL2_4 row9" scope="row">No damage is expected because sea level changes will be less than 0.2 m, and no special action is needed.</td> </tr>
+        <tr class="mtx">
+          <th align="center" headers="COL1_4" id="row10" scope="row"><nobr>Slight sea level changes are expected to continue after Tsunami Warnings/advisories are cleared</nobr></th>
+          <td headers="COL2_4" row10="row10">Particular attention is needed when fishing, swimming or engaging in other marine activities because tsunami-related sea level changes have been observed and may continue for a while.</td> </tr> </tbody>
+    </table>
+    <p>　</p>
+    <br />
+    <ul class="pagelink stx">
+      <li><a href="//www.data.jma.go.jp/eqev/data/en/guide/tsunamiblock.pdf">66 individual regions for providing Tsunami Warning / Advisory</a> (PDF image, 1.33MB)</li>
+      <li><a href="//www.data.jma.go.jp/eqev/data/en/guide/info.html">Flow of issuance of information about tsunami and earthquake</a></li>
+      <li><a href="//www.data.jma.go.jp/eqev/data/en/tsunami/tsunamiwarning-leaflet.pdf">Leaflet "Start of New Tsunami Warning System Operation"</a> (PDF image, 2.0MB)</li> </ul>  <!--contents end--> <!--footer start-->
+    <div id="foot_all">
+      <div id="foot_copyright"<br /><a href="//www.jma.go.jp/jma/en/copyright.html">&lt;Legal Notice&gt;</a> </div> </div> <!--footer end--> </body>    </html>

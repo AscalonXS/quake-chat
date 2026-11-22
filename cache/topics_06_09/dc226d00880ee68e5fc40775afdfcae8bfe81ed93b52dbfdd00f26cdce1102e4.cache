@@ -1,0 +1,1495 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+   <meta name="Generator" content="Microsoft Word 97">
+   <meta name="GENERATOR" content="Mozilla/4.5 [ja] (Win98; I) [Netscape]">
+   <title>AFTERSHOCK  PROBABILITY  EVALUATION  METHODS</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#800080" alink="#0000FF">
+
+<center><font face="Century"><font size=+3>AFTERSHOCK PROBABILITY EVALUATION
+METHODS</font></font></center>
+&nbsp;
+<div align=right>
+<br><b><font face="Century"><font size=+2>April 8, 1998</font></font></b></div>
+
+<center><b><font face="Century"><font size=+2>The Headquarters for Earthquake
+Research Promotion</font></font></b>
+<br><b><font face="Century"><font size=+2>Earthquake Research Committee</font></font></b>
+<br><b><font face="Century"><font size=+2>Prime Minister's Office</font></font></b>
+<br><b><font face="Century"><font size=+2>Government of Japan</font></font></b></center>
+
+<hr WIDTH="100%">
+<br><a NAME="Content"></a><b><font face="Century"><font size=+0>Content</font></font></b>
+<p><font face="Century"><font size=+0><a href="#Aftershock">Aftershock
+Probability Evaluation Methods</a></font></font>
+<p><font face="Century"><font size=+0><a href="#1">1. Fundamental Concepts</a></font></font>
+<blockquote><font face="Century"><font size=+0><a href="#1-1">(1) Fundamental
+Concepts of the Aftershock Probability Evaluation</a></font></font>
+<br><font face="Century"><font size=+0><a href="#1-2">(2) Range of the
+Study of Aftershock Probability Evaluation Methods</a></font></font></blockquote>
+<font face="Century"><font size=+0><a href="#2">2. Methods of Evaluating
+Aftershock Probability</a></font></font>
+<blockquote><font face="Century"><font size=+0><a href="#2-1">(1) Mainshock-Aftershock
+Pattern Clarification</a></font></font>
+<blockquote><font face="Century"><font size=+0><a href="#2-1-1">1) Shallow
+Inland Earthquakes</a></font></font>
+<br><font face="Century"><font size=+0>[1] Facts Concerning 153 Independent
+Shallow Inland Earthquakes</font></font>
+<br><font face="Century"><font size=+0>[2]Methods of Judging Shallow Inland
+Earthquakes</font></font>
+<p><font face="Century"><font size=+0><a href="#2-1-2">2)Inland Upper Mantle
+Earthquakes</a></font></font>
+<br><font face="Century"><font size=+0>[1]Facts Concerning 44 Independent
+Inland Upper Mantle Earthquakes</font></font>
+<br><font face="Century"><font size=+0>[2]Method of Judging Inland Upper
+Mantle Earthquakes</font></font>
+<p><font face="Century"><font size=+0><a href="#2-1-3">3)Earthquakes in
+the Sea Area</a></font></font>
+<br><font face="Century"><font size=+0>[1] Facts Concerning 149 Independent
+Earthquakes in the Sea Area</font></font>
+<br><font face="Century"><font size=+0>[2] Methods of Judging Earthquakes
+in the Sea Area</font></font></blockquote>
+<font face="Century"><font size=+0><a href="#2-2">(2) Probability Evaluation
+Methods Based on Statistical Models</a></font></font>
+<blockquote><font face="Century"><font size=+0><a href="#2-2-1">1) The
+Gutenberg-Richter Formula</a></font></font>
+<br><font face="Century"><font size=+0><a href="#2-2-2">2) The Modified
+Omori Formula</a></font></font>
+<br><font face="Century"><font size=+0><a href="#2-2-3">3) Probability
+Evaluation Methods for Aftershock Activity Based on the Combination of
+the GR and MO Formulae</a></font></font>
+<br><font face="Century"><font size=+0><a href="#2-2-4">4) Application
+of the ETAS Model</a></font></font></blockquote>
+<font face="Century"><font size=+0><a href="#2-3">(3) Actual Application
+of Aftershock Stochastic Models</a></font></font>
+<blockquote><font face="Century"><font size=+0><a href="#2-3-1">1) Average
+Parameters of Past Activity</a></font></font>
+<p><font face="Century"><font size=+0><a href="#2-3-2">2) Comparison of
+the Past Activity and the Probability calculated from the Average Parameters</a></font></font>
+<br><font face="Century"><font size=+0>[l] Past Cases and Aftershock Occurrence
+Probability</font></font>
+<br><font face="Century"><font size=+0>[2] Past Cases and Largest Aftershock
+Occurrence Probability</font></font>
+<p><font face="Century"><font size=+0><a href="#2-3-3">3) Range of the
+Application of Aftershock Stochastic Models and Effective Aftershock Probability
+Evaluation</a></font></font></blockquote>
+</blockquote>
+<font face="Century"><font size=+0><a href="#3">3. Implementation of Aftershock
+Probability Evaluation</a></font></font>
+<blockquote><font face="Century"><font size=+0><a href="#3-1">(1) Earthquakes
+Whose Aftershock Probability is Evaluated</a></font></font>
+<br><font face="Century"><font size=+0><a href="#3-2">(2) Aftershock Probability
+Evaluation Methods that Should be Implemented for the Time Being</a></font></font>
+<br><font face="Century"><font size=+0><a href="#3-3">(3)Issues that Should
+be Regarded to Promote Understanding of Aftershock Probability Evaluation</a></font></font></blockquote>
+<font face="Century"><font size=+0><a href="#4">4. Perspectives in the
+Future</a></font></font>
+<p><font face="Century"><font size=+0><a href="#References">Reference</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="Aftershock"></a><font face="Century"><font size=+2>Aftershock
+Probability Evaluation Methods</font></font>
+<p><font face="Century"><font size=+0>The Earthquake Research Committee
+of the Headquarters for Earthquake Research Promotion collects, organizes,
+and analyzes the results of surveys of earthquakes from various organizations,
+and carries out overall evaluations of the results of its work at regular
+and extra meetings in accordance with Article 7, paragraph 2, item 4 of
+the Special Measures Law for Earthquake Disaster Prevention.</font></font>
+<p><font face="Century"><font size=+0>Among evaluations of the state of
+earthquake activity, which is the principal responsibility of this committee,
+evaluations of the prospects for aftershocks following a destructive earthquake
+constitute a useful source of information that can be used to prevent further
+damage by residents and local government bodies in the region where it
+occurred.</font></font>
+<p><font face="Century"><font size=+0>The Earthquake Research Committee
+has been conducting concrete research on aftershock evaluation methods
+from the statistical and probabilistic perspectives.</font></font>
+<p><font face="Century"><font size=+0>This report is a summarization of
+the results of the committee's research.</font></font>
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br>
+<hr WIDTH="100%"><a NAME="1"></a><font face="Century"><font size=+0>1.
+Fundamental Concepts</font></font>
+<p><a NAME="1-1"></a><font face="Century"><font size=+0>(1) Fundamental
+Concepts of Aftershock Probability Evaluation</font></font>
+<p><font face="Century"><font size=+0>Almost every large earthquake is
+followed by aftershocks. And the still terrified residents of the area
+where a large destructive earthquake has occurred are seriously unnerved
+by these aftershocks.</font></font>
+<p><font face="Century"><font size=+0>The September 1995 Public Opinion
+Survey on Earthquakes (Prim Minister's Office 1995) reveals that the information
+which residents are most eager to obtain immediately after an earthquake
+are "information about the" safety of friends/relatives etc." and "seismic
+intensity,'' followed by "hypocenter and magnitude," ''damage to basic
+infrastructure and their restoration," and ''likelihood of aftershocks''
+at almost equal levels of importance. And the information they want the
+most several hours after the earthquake is "damage to basic infrastructure
+and transportation facilities and prospects for their restoration,'' followed
+by the "likelihood of more aftershocks." "Likelihood of more aftershocks"
+is believed to represent their desire to know specifically when large aftershocks
+will occur, how large they will be, and when they will cease.</font></font>
+<p><font face="Century"><font size=+0>Present seismological science can
+not provide clear answers to all of these questions, but positive action
+to evaluate those aspects which can be assessed scientifically should be
+taken.</font></font>
+<p><font face="Century"><font size=+0>It is possible to use expressions
+of probability to evaluate aftershocks occurring in the mainshock - aftershock
+seismic activity pattern based on methods introduced in the following chapters.
+Such evaluations can make a contribution to the success of disaster protection
+measures in an earthquake region if, supported by a full understanding
+of the significance of the information, evaluations that show the residents
+that there is no need for needless anxiety or that they must take precautions
+are used to implement appropriate measures, or to minimize the damage caused
+the prolongation of dangerous work.</font></font>
+<p><font face="Century"><font size=+0>But aftershock probability is one
+evaluation method, and it ought to be used as part of earthquake evaluations
+that are now performed. So when probability information is publicly released,
+it should be used in an application range based on evaluations of the mainshock
+- aftershock Seismic activity pattern, rather than relying solely on probability.</font></font>
+<p><font face="Century"><font size=+0>It is also necessary that a sufficient
+commentary is provided and innovative measures employed to make sure that
+receivers of the evaluations correctly understand the numerical probability
+information without confusion. To guarantee this, it is essential to fix
+conditions for probability evaluations as needed, perform comparisons with
+probability in stable periods (when no earthquake has occurred), and to
+accompanythe evaluations with a number of past cases.</font></font>
+<p><font face="Century"><font size=+0>It is also necessary to continually
+provide commentaries needed to disseminate knowledge concerning aftershocks
+such as under what circumstances, probability evaluations are to be publicized.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="1-2"></a><font face="Century"><font size=+0>(2) Range of the
+Study of Aftershock Probability Evaluation Methods</font></font>
+<p><font face="Century"><font size=+0>This report, which summarizes aftershock
+probability evaluation methods for the mainshock - aftershock seismic activity
+pattern, considers the fact that they have been established based on present
+seismology.</font></font>
+<p><font face="Century"><font size=+0>Specifically, aftershock probability
+evaluation methods deal with the mainshock - aftershock seismic activity,
+and the aftershocks they evaluate are the so-called aftershocks in the
+strict sense (Note). The study whose discussions are focused on a probability
+evaluation method combining the modified Omori formula with the Gutenberg
+- Richter formula contrasts the model with past cases. The study's contents
+also, include items for judgments of whether a case is the mainshock -
+aftershock pattern, contrast the ETAS model, and a study not only of the
+probability of the aftershocks occurrence, but of the number of events
+forecasted as well.</font></font>
+<p><font face="Century"><font size=+0>And a study of methods of applying
+an aftershock probability evaluation method that accounts for the time
+elapsed since the mainshock is accompanied by an examination of examples
+of concrete expressions in evaluations.</font></font>
+<p><font face="Century"><font size=+0>Items related to aftershocks of great
+concern to residents are assumed to be the timing of large aftershocks,
+places where large aftershocks will occur, the shaking at specified locations
+that a large aftershock will cause, and so on. Some study of these issues
+has been carried out, but because under present circumstances, it is thought
+that an evaluation method good enough to permit the public release of its
+results has not been established, the results of this study are not reported.</font></font>
+<p><font face="Century"><font size=+0>Note) When an earthquake has occurred,
+it is generally followed by a number of earthquakes smaller than the first
+earthquake at locations close to the location of the first earthquake.
+The first earthquake is called the mainshock and the smaller earthquakes
+that follow it are called the aftershocks, and this seismic activity pattern
+is called the mainshock - aftershock pattern. And the aftershock distribution
+immediately after the mainshock (from a Few hours to a day) almost always
+represents the focal region of the mainshock. An aftershock in the strict
+sense refers to these nearby aftershocks, while those occurring tar from
+that region are referred to as so-called aftershocks in the wide sense
+or else they are called induced earthquakes. The term for a relatively
+small earthquake in the focal region of a mainshock prior to the mainshock
+is foreshock.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<hr WIDTH="100%">
+<br><a NAME="2"></a><font face="Century"><font size=+0>2. Methods of Evaluating
+Aftershock Probability</font></font>
+<p><a NAME="2-1"></a><font face="Century"><font size=+0>(1) Mainshock -
+Aftershock Pattern Clarification</font></font>
+<p><font face="Century"><font size=+0>The aftershock probability evaluation
+method is an effective way to evaluate aftershock activity of the mainshock
+- aftershock pattern. In order to move efficiently to the aftershock probability
+evaluation described below, this section explains a method of empirically
+clarifying whether activity is the mainshock - aftershock pattern at earliest
+stage of earthquake activity based on examples of past earthquakes (Ito
+et a1. 1999).</font></font>
+<p><font face="Century"><font size=+0>For convenience, the following categorization
+is done with reference to the magnitude and hypocenter of the first earthquake.</font></font>
+<blockquote><font face="Century"><font size=+0>shallow inland earthquake&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>5.5
+<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>30km</font></font>
+<p><font face="Century"><font size=+0>Inland upper mantle earthquake <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.0
+30km&lt;<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>80km</font></font>
+<p><font face="Century"><font size=+0>Earthquake in the sea area&nbsp;&nbsp;&nbsp;&nbsp;
+<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5
+<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>80km</font></font>
+<p><font face="Century"><font size=+0>(<i>M</i>: magnitude, h: Depth of
+the hypocenter, same applies below)</font></font></blockquote>
+<font face="Century"><font size=+0>A series of seismic activities close
+both spatially and tempora11y to the first earthquake is treated as a single
+independent case (Hoshiba et a1, 1993). The range of ''inland" is shown
+in Fig. 1. "Sea area'' indicates locations outside the range of "inland".</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-1-1"></a><font face="Century"><font size=+0>1) Shallow Inland
+Earthquakes</font></font>
+<p><font face="Century"><font size=+0>[1] Facts Concerning 153 Independent
+Shallow Inland Earthquakes</font></font>
+<p><font face="Century"><font size=+0>( <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>5.5,
+<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>30km,
+1926-1995, Fig.1.).</font></font>
+<p><font face="Century"><font size=+0>a) Case of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.4
+Earthquakes</font></font>
+<p><font face="Century"><font size=+0>No earthquake greater than this occurred
+later.</font></font>
+<p><font face="Century"><font size=+0>b) Case of 6.3<img SRC="kge.gif" height=18 width=18 align=ABSCENTER><i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.0
+Earthquakes</font></font>
+<p><font size=+0>-<font face="Century"> In one case, a larger earthquake
+occurred.</font></font>
+<p><font face="Century"><font size=+0>December 26, 1949: An<i> M</i>6.4
+earthquake occurred 7 minutes after an <i>M</i>6.3 earthquake (Imaichi
+Earthquake).</font></font>
+<p><font size=+0>-<font face="Century"> In two cases, equally large earthquakes
+occurred.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<br>
+<br>
+<center>
+<p><img SRC="yf1.gif" height=755 width=647>
+<br><font face="Century"><font size=+0>Fig.1. Shallow Inland Earthquakes
+<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>5.5,<i>
+h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>30km,1926 to
+1995</font></font></center>
+
+<p><font face="Century"><font size=+0>The circles indicate areas within
+20 km of a Quaternary volcano. The polygon surrounding the Japanese Archipelago
+encloses the "inland" areas.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<br>
+<br>
+<center>
+<p><img SRC="yf2.gif" height=785 width=667>
+<br><font face="Century"><font size=+0>Fig.2. Shallow Inland Earthquakes
+(<i>M</i><sub>f</sub>-<i>M</i><sub>l<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3)</font></font></center>
+
+<p><font face="Century"><font size=+0>The circles indicate areas within
+20 km of a Quaternary volcano.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<p><font size=+0><font face="Century">Table 1-1 Seismic Activity With A
+Small Difference Between the Magnitude of the First earthquake <i>M</i><sub>f</sub>
+and the Magnitude of the Largest Subsequent Earthquake <i>M</i><sub>1 </sub>(<i>M</i><sub>f</sub></font><font face="Century">-</font><i><font face="Century">M</font></i></font><i><sub>l</sub></i><font size=+0><font face="Century"><img SRC="kle.gif" height=18 width=18 align=ABSCENTER></font><font face="Century">
+0.3)</font></font>
+<center><font face="Century"><font size=+0>(Shallow Inland Earthquakes)(Those
+within 20 km of a Quaternary Volcano:10)</font></font>
+<br><font face="Century"><font size=+0> </font></font><img SRC="t1-1.jpg" height=422 width=693></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><font size=+0><font face="Century">Table 1-2 Seismic Activity With A
+Small Difference Between the Magnitude of the First earthquake <i>M</i><sub>f</sub>
+and the Magnitude of the Largest Subsequent Earthquake <i>M</i><sub>1 </sub>(<i>M</i><sub>f</sub></font><font face="Century">-</font><i><font face="Century">M</font></i></font><i><sub>l<img SRC="kle.gif" height=19 width=17 align=ABSCENTER></sub></i><font face="Century"><font size=+0>0.3)</font></font>
+<center><font face="Century"><font size=+0>(Shallow Inland Earthquakes)(Those
+between 20 and 30 km from a Quaternary Volcano:3)</font></font>
+<br><img SRC="t1-2.jpg" height=183 width=691></center>
+
+<p><font size=+0><font face="Century">Table 1-3 Seismic Activity With A
+Small Difference Between the Magnitude of the First earthquake <i>M</i><sub>f</sub>
+and the Magnitude of the Largest Subsequent Earthquake <i>M</i><sub>1 </sub>(<i>M</i><sub>f</sub></font><font face="Century">-</font><i><font face="Century">M</font></i></font><i><sub>l</sub></i><font size=+0><font face="Century"><img SRC="kle.gif" height=18 width=18 align=ABSCENTER></font><font face="Century">
+0.3)</font></font>
+<center><font face="Century"><font size=+0>(Shallow Inland Earthquakes)(More
+than 30 km from a Quaternary Volcano:4)</font></font>
+<br><img SRC="t1-3.jpg" height=370 width=775></center>
+
+<p><font face="Century"><font size=+0>March 4, 1943: An <i>M</i>6.2 earthquake
+occurred 0.4 days after an <i>M</i>6.2 earthquake (Tottori).</font></font>
+<p><font face="Century"><font size=+0>December 22, 1956: An M6.0 earthquake
+occurred 1.13 days after an <i>M</i>6.0 earthquake (Miyake-jima).</font></font>
+<p><font face="Century"><font size=+0>c) Case of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>
+5.5 Earthquakes</font></font>
+<p><font face="Century"><font size=+0>Approximately 50% of <i>M&nbsp;<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>
+5.5 earthquakes (76 of the 153 cases) occurred within 30 km of a Quaternary
+volcano (note: volcanoes active in recent geological ages or still active
+) (Seino et a1, 1995). About 17% of these (13 of 76 cases, see Tables 1-1,
+2, and Fig. 2) were earthquakes of similar magnitude(<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3 : <i>M</i><sub>f</sub> is the <i>M</i> of the first earthquake
+<i>M</i><sub>l</sub>
+is the largest <i>M</i> of the followed earthquakes : Cases where <i>M</i><sub>1</sub><i>
+> M</i><sub>f</sub> are included. Same applies below), which is significantly
+higher than the 5% (4/77; Table 1-3 and Fig. 2) in other regions (the hypothesis
+that the probabilities in each region are the same can be rejected at a
+significance level of 1%). This means that within 30 km of a Quaternary
+volcano, an earthquake of similar magnitude is likely to occur. There were
+8 cases of the foreshock - mainshock pattern seismic activity that is a
+concern of this study, and about 75% of the activity is within 20 km of
+a Quaternary volcano (6/8 cases: Table 1-1). Even in regions further than
+20 km from a Quaternary volcano, two were foreshock - mainshock pattern
+( l: the earthquake near Kumamoto and o: Mikawa Earthquake, see Tables
+1-2,3).</font></font>
+<p><font face="Century"><font size=+0>Note: Quaternary volcanoes were revised
+based on Volcanoes of Japan (First edition: Isshiki et al., 1968a, Second
+edition: Ono et al.,1981), and for the Hokkaido region, the results of
+a correction by Nakagawa et al. (1995) were incorporated. The latitude
+and longitude of each volcano is based on the Selected Literatures on Volcanoes
+(First edition: Isshiki et al., 1968b) and the General Survey of Active
+Volcanoes in Japan (Japan Meteorological Agency, second edition: 1996)
+and on Otani <i>et al</i>.(1993). Future measurements of the age of rocks
+may result in a revision of the list of volcanoes classified as Quaternary
+volcanoes.</font></font>
+<p><font face="Century"><font size=+0>[2] Methods of Judging Shallow Inland
+Earthquakes</font></font>
+<p><font size=+0>-<font face="Century"> If an earthquake magnitude is
+<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.4,
+it is treated as a mainshock.</font></font>
+<p><font size=+0>-<font face="Century"> If an earthquake magnitude is
+6.3<img SRC="kge.gif" height=18 width=18><i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>5.5
+and it is further than 20km from a Quaternary volcano, it is treated as
+a mainshock. But when these plural earthquakes occurred, or when an oceanic
+magnitude <i>M</i>8 class earthquake occurred under the ocean nearby within
+the past 2 or 3 years, it could be a foreshock.</font></font>
+<p><font size=+0>-<font face="Century"> If an earthquake with magnitude
+6.3<img SRC="kge.gif" height=18 width=18 align=ABSCENTER><i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>5.5
+occurs within 30 km of a Quaternary volcano, there is a high likelihood
+of an earthquake almost as large as the first earthquake occurring. And
+within 20 km of a Quaternary volcano, it could be a foreshock.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-1-2"></a><font face="Century"><font size=+0>2) Inland Upper
+Mantle Earthquakes</font></font>
+<p><font face="Century"><font size=+0>[1] Facts Concerning 44 Independent
+Inland Upper Mantle Earthquakes</font></font>
+<p><font face="Century"><font size=+0>(M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER>6.0,30km&lt;<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>
+80km, 1926 to 1995: Fig. 3)</font></font>
+<p><font face="Century"><font size=+0>1) No subsequent earthquake larger
+than the first earthquake occurred.</font></font>
+<p><font face="Century"><font size=+0>2) Earthquakes of approximate magnitude
+(<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3) occurred only once (1/44 = 2%) (Table 2. Fig. 3.).</font></font>
+<p><font face="Century"><font size=+0>[2]Method of Judging Inland Upper
+Mantle Earthquakes</font></font>
+<p><font size=+0>-<font face="Century"> If the magnitude <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>
+6.0, it is treated as the mainshock.</font></font>
+<p><font face="Century"><font size=+0>Table 2. Seismic Activity With a
+Small Difference Between the Magnitude of the First Earthquake <i>M</i><sub>f</sub>
+and the Magnitude of the Largest Subsequent Earthquake <i>M</i><sub>1</sub>(<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3)</font></font>
+<center>
+<p><font face="Century"><font size=+0>(Inland Upper Mantle Earthquakes)</font></font>
+<br><img SRC="t2.jpg" height=92 width=603>
+<br>&nbsp;
+<br>&nbsp;
+<p><img SRC="yf3.gif" height=771 width=625>
+<br><font face="Century"><font size=+0>Fig. 3. Inland Upper Mantle Earthquakes
+<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.0,
+30 km &lt; <i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>
+80km, 1926 to 1995</font></font></center>
+
+<p><font face="Century"><font size=+0>The polygon enclosing the Japanese
+Archipelago indicates the range of ''inland.''</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-1-3"></a><font face="Century"><font size=+0>3) Earthquakes
+in the Sea Area</font></font>
+<p><font face="Century"><font size=+0>[1] Facts Concerning 149 Independent
+Earthquakes in the Sea Area(<i>M&nbsp;<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5,<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>
+80km, 1926 to 1995: Fig. 4)</font></font>
+<p><font face="Century"><font size=+0>a)Case of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>
+7.0 Earthquakes</font></font>
+<p><font face="Century"><font size=+0>There are only one case in which
+an <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>7.0 earthquake
+was followed by a larger earthquake. Foreshocks of <i>M</i>6.5, 6.6, 6.7,
+and 7.0 occurred during the three day period prior to the Etorofu Island
+Offshore Earthquake (<i>M</i> 7.3) of March 25, 1978</font></font>
+<p><font face="Century"><font size=+0>b)Case of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5
+Earthquakes</font></font>
+<p><font face="Century"><font size=+0>Earthquakes of approximate magnitude
+(<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3) in 18 cases (18/149 = 12%) (Table 3 and Fig. 5).</font></font>
+<p><font face="Century"><font size=+0>Regions where an oceanic earthquake
+is likely to be followed by a subsequent earthquake of similar magnitude
+(sequential occurrence regions)-part of the sea bottom offshore from Sanriku
+or Eterofu Island for example-were experientia11y clarified and are presented
+in Fig. 5. Approximately 31% (46/149 cases) of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5
+earthquakes occurred in the sequential occurrence regions, as did about
+67% (12/18 cases) of the earthquakes of similar magnitude (<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3) (Table 3-1, Fig. 5). The 26%(12/46 cases) of earthquakes of similar
+magnitude occurring in the sequential occurrence regions is significantly
+higher than the 6% (6/103 cases: Table 3-2) of such earthquakes occurring
+outside of these regions (the hypothesis that the probabilities are identical
+in each region can be rejected at a significance level of less than 1%).
+And the foreshock - mainshock pattern occurred at a rate of 9% (4/46 cases)
+in the sequential occurrence regions, while in other regions the magnitude
+of all subsequent earthquakes was smaller, so that these are viewed as
+the mainshock - aftershock pattern.</font></font>
+<p><font face="Century"><font size=+0>[2] Methods of Judging Earthquakes
+in the Sea Area (<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5,
+<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>80
+km)</font></font>
+<p><font size=+0>-<font face="Century"> If it is an <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>
+7.0 earthquake, it is treated as a mainshock.</font></font>
+<p><font size=+0>-<font face="Century"> If it is a 6.9<img SRC="kge.gif" height=18 width=18 align=ABSCENTER><i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5
+earthquake and it is not in the sequential occurrence regions, it is treated
+as a mainshock.</font></font>
+<p><font size=+0>-<font face="Century"> If a number of 6.9<img SRC="kge.gif" height=18 width=18 align=ABSCENTER><i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5
+earthquakes occur in the sequential occurrence regions, and their magnitude
+gradually increases, they may be foreshocks.</font></font>
+<p><font face="Century"><font size=+0>Table 3-1 Seismic Activity With a
+Small Difference Between the Magnitude of the First Earthquake <i>M</i><sub>f
+</sub>and
+the Magnitude of the Largest Subsequent Earthquake <i>M</i><sub>1</sub>(<i>M</i><sub>f</sub>-<i>M</i><sub>l<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3) (Earthquakes in the Sea Area)</font></font>
+<center><font face="Century"><font size=+0>(In Sequential Occurrence Regions:
+12)</font></font>
+<br><img SRC="t3-1.gif" height=321 width=714></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><font face="Century"><font size=+0>Table 3-2 Seismic Activity With a
+Small Difference Between the Magnitude of the First Earthquake <i>M</i><sub>f
+</sub>and
+the Magnitude of the Largest Subsequent Earthquake <i>M</i><sub>1</sub>(<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3) (Earthquakes in the Sea Area)</font></font>
+<center><font face="Century"><font size=+0>(Outside Sequential Occurrence
+Regions: 6)</font></font>
+<br><img SRC="t3-2.jpg" height=325 width=718>
+<br>&nbsp;
+<br>&nbsp;
+<p><img SRC="yf4.gif" height=879 width=809>
+<br><font face="Century"><font size=+0>Fig. 4. Earthquakes in the Sea Area
+<i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>6.5,
+<i>h<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>80
+km, 1926 to 1995</font></font></center>
+
+<p><font face="Century"><font size=+0>The polygons around the Sanriku offshore
+region and the Etorofu Island offshore region enclose sequential occurrence
+regions.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<br>
+<br>
+<center>
+<p><img SRC="yf5.gif" height=821 width=707>
+<br><font face="Century"><font size=+0>Fig. 5. Earthquakes in the Sea Area
+and Sequential Occurrence Regions (<i>M</i><sub>f</sub>-<i>M</i><sub>1<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></sub>
+0.3)</font></font></center>
+
+<p><font face="Century"><font size=+0>The polygons around the Sanriku offshore
+region and the Etorofu Island offshore region enclose the sequential occurrence
+regions.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-2"></a><font face="Century"><font size=+0>(2) Probability
+Evaluation Methods Based on Statistical Models</font></font>
+<p><font face="Century"><font size=+0>A model that clarifies the nature
+of aftershock activity and a model that clarifies the relationship between
+the number of shocks and <i>M</i> by statistical processing of the past
+seismic activity of the mainshock - aftershock pattern have been reported.
+In section (2), these statistical models and aftershock probability evaluation
+methods devised by combining them are described.</font></font>
+<p><font face="Century"><font size=+0>The modified Omori- Formula and the
+ETAS (Epidemic Type Aftershock Sequence) model have been technically established
+as methods of clarifying aftershocks.</font></font>
+<p><font face="Century"><font size=+0>The ETAS model can be used not only
+to evaluate aftershock activity; but also to appropriately evaluate background
+seismic activity, and it can also be used to evaluate earthquake swarms.
+In this sense, it can be called an extension of the modified Omori Formula,
+but the <i>M</i> values of the aftershocks are necessary. So a method based
+on the modified Omori Formula will be studied first, then in part 4), the
+application of the ETAS model will be described.</font></font>
+<p><font face="Century"><font size=+0>An aftershock probability evaluation
+as it is used here refers to stochastically expressing and evaluating the
+frequency that an aftershock of a certain magnitude will occur. The modified
+Omori Formula forecasts the number of aftershocks that will occur, but
+in order to perform a probability evaluation that accounts for the magnitude
+of the aftershocks, it is necessary to combine this formula with the Gutenberg
+- Richter Formula.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-2-1"></a><font face="Century"><font size=+0>1) Gutenberg
+- Richter Formula</font></font>
+<p><font face="Century"><font size=+0>It is known that large aftershocks
+do not occur frequently.</font></font>
+<p><font face="Century"><font size=+0>Quantitatively, the larger the magnitude
+of aftershocks, their number declines exponentially. This empirical rule
+is called the Gutenberg- Richter's relationship (Gutenberg and Richter,
+1941). If, expressed in the form of a mathematical expression, the frequency
+of aftershocks between <i>M</i> and <i>M</i>+<i>dM </i>is denoted to be
+<i>n</i>(<i>M</i>)
+<i>dM</i>:</font></font>
+<br><img SRC="ys01.gif" height=38 width=637>
+<br>Or
+<br><img SRC="ys02.gif" height=34 width=634>
+<br><font face="Century"><font size=+0>"log" above represents the common
+logarithm. This formula is called the Gutenberg-Richter Formula below referred
+to as the ''GR Formula''). <i>a</i> and <i>b</i> are constants. <i>a</i>
+is the parameter that expresses the level of overall aftershock activity.<i>
+b</i> is a value that is closely related to the number of small aftershock
+/ the number of large aftershock ratio, and its large value means that
+the number of large earthquakes is relatively small. If a graph is plotted
+from formula (1) with the magnitude <i>M</i> represented by the <i>X</i>
+axis and log <i>n</i>(<i>M</i>) by the <i>Y</i> axis, it is a straight
+line with the <i>Y</i> section of the line corresponding to a and the incline
+corresponding to b.</font></font>
+<p><font face="Century"><font size=+0><i>N</i>(<i>M</i>), the total cumulative
+number of aftershocks larger than <i>M</i>, which</font></font>
+<p><font face="Century"><font size=+0>is represented as:</font></font>
+<br><img SRC="ys03.gif" height=72 width=638>
+<br><font face="Century"><font size=+0>is also used in place of<i> n</i>(<i>M</i>)
+.</font></font>
+<p><font face="Century"><font size=+0>Using equation(2), equation (3) is
+expressed as:</font></font>
+<br><img SRC="ys04.gif" height=217 width=641>
+<br><font size=+0><font face="Century">Here,&nbsp;<img SRC="kbeta.gif" height=21 width=20 align=ABSCENTER><i>=
+b</i> ln10, and</font>'<font face="Century">ln</font>'<font face="Century">
+is the natural logarithm.</font></font>
+<p><font face="Century"><font size=+0>Taking the common logarithms on both
+sides of equation (4) and&nbsp;<img SRC="kp18a.gif" height=21 width=100 align=ABSCENTER>,
+the following equation is obtained.</font></font>
+<br><img SRC="ys05.gif" height=61 width=633>
+<br><font face="Century"><font size=+0>In the case of actual observation,
+as the magnitude <i>M </i>declines, it becomes difficult to detect earthquakes.
+If the lower detection limit of this <i>M</i> is assumed to be <i>M</i><sub>th</sub>:</font></font>
+<br><img SRC="ys06.gif" height=86 width=638>
+<br><font face="Century"><font size=+0>is obtained, and (<i>M</i>-<i> M</i><sub>th</sub>)
+is shown to be exponential distribution. To translate this to the probability
+density function, it is Sufficient to assume that:</font></font>
+<br><img SRC="ys07.gif" height=43 width=638>
+<br><font face="Century"><font size=+0>in order that when <i>n</i>(<i>M</i>)
+has been integrated from <i>M</i> to&nbsp;<img SRC="kinfnt.gif" height=17 width=20 align=ABSCENTER>
+for
+<i>M</i>, it is standardized as 1. It is possible to state that equation
+(7) is obtained by standardizing equation (2), and a that indicates the
+level of overall aftershock activity is not included.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-2-2"></a><font face="Century"><font size=+0>2) The Modified
+Omori Formula</font></font>
+<p><font face="Century"><font size=+0>Aftershock activity declines monotonously
+over time. Quantitatively, the number of aftershocks per unit of time<img SRC="kmyut.gif" height=21 width=40 align=ABSCENTER>
+is, with <i>K</i>,<i> c</i>, and <i>p</i> as parameters, represented by:</font></font>
+<br><img SRC="ys08.gif" height=71 width=639>
+<br><font face="Century"><font size=+0>Here, <i>t</i> is the elapsed time
+with its origin point the occurrence of the mainshock. Equation (8) is
+called the modified Omori Formula (Utsu 1957, Utsu 196l, below called the
+"MO Formula"). When <i>p </i>= 1, it is simply called the Omori Formula
+(Omori, 1894). <i>p</i>, which represents the degree of the damping over
+time, is normally either 1 or a slightly larger value. The role of <i>c</i>
+is to appropriately round off complex aspects immediately after the mainshock,
+and it is normally less than 0.1 days.</font></font>
+<p><font face="Century"><font size=+0><i>K </i>is proportional to the total
+number of aftershocks when <i>p</i> and c are constant. Because the total
+number is widely scattered according to each activity, and is also dependent
+on <i>M</i><sub>th</sub>, if for example, it is assumed that:</font></font>
+<br><img SRC="ys09.gif" height=40 width=639>
+<br><font face="Century"><font size=+0>for differing activity, it is necessary
+to compare log<i>K<sub>M3</sub></i> etc. If a graph of equation(8) is plotted
+with log <i>t </i>as the <i>X</i> axis and logν as the <i>Y</i> axis,
+it becomes a straight line after a sufficient amount of time has elapsed
+following the mainshock (<i>t</i> >>c), the incline of this straight line
+corresponds to-<i>p</i>, and the <i>X</i> section corresponds almost exactly
+with (log<i>K</i>)/<i>p</i>.</font></font>
+<p><font face="Century"><font size=+0>If attention is focused only on the
+times that aftershocks occur and the time elapsed from the mainshock is
+represented by the horizontal axis and the total cumulative earthquake
+frequency by the vertical axis, a stepped graph is obtained. The way that
+aftershocks occur is determined only by the mainshock that is overwhelmingly
+large, which means that if it is hypothesized that the next aftershock
+is not dependent on the way the previous aftershock occurred, the occurrences
+of aftershocks follow a non-stationary Poisson process. In this case, it
+is possible to interpret the MO Formula as the aftershock probability by
+setting a sufficiently small unit time. If this is represented by a formula,
+the probability<img SRC="klamtdt.gif" height=20 width=57 align=ABSCENTER>of
+an aftershock occurring between time <i>t </i>and time <i>t</i>+<i>dt</i>
+is represented as:</font></font>
+<br><img SRC="ys10.gif" height=60 width=639>
+<br><font face="Century"><font size=+0>And in order to find <i>K</i>, <i>p</i>,
+and <i>c</i> for actual aftershock activity, the maximum likelihood method
+is used. In this case, the logarithmic likelihood function ln <i>L</i>
+is obtained from the following equation (Ogata, 1983), and it can be estimated
+by finding the values of <i>K</i>, <i>p</i>, and <i>c</i> that maximize
+this (maximum likelihood estimate).</font></font>
+<br><img SRC="ys11.gif" height=131 width=639>
+<br><font face="Century"><font size=+0>Here, <i>N</i> is the number of
+aftershocks observed during the time elapsed since the mainshock <i>T</i><sub>l
+</sub>to
+<i>T</i><sub>2</sub>
+, and <i>t</i><sub>i</sub> ( i =1,2,---,<i>N</i>) represent the times
+when each aftershock occurs. And <i>A</i>( <i>T</i><sub>l
+</sub>to
+<i>T</i><sub>2</sub>
+) is 1/<i>K</i> of the time integral of the MO Formula.</font></font>
+<br><img SRC="ys12.gif" height=116 width=647>
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-2-3"></a><font face="Century"><font size=+0>3) Probability
+Evaluation Methods for Aftershock Activity Based on the Combination of
+the GR and MO Formulae</font></font>
+<p><font face="Century"><font size=+0>It is possible to evaluate the probability
+of aftershock activity by combining the GR Formula with the MO Formula.
+If it is assumed that the magnitudes M of aftershocks occurring between
+time <i>t</i> and <i>t</i>+<i>dt</i> are distributed in accordance with
+the GR Formula, the probability<img SRC="klammt.gif" height=22 width=112 align=ABSCENTER>of
+earthquakes whose magnitude is between <i>M</i> and <i>M</i>+<i>dM</i>
+occurring between <i>t</i> and <i>t</i>+<i>dt</i> is, using equation (7),
+obtained as shown below.</font></font>
+<br><img SRC="ys13.gif" BORDER=0 height=78 width=631>
+<br><font face="Century"><font size=+0>The probability&nbsp;<img SRC="klammt2.gif" height=20 width=85 align=ABSCENTER>
+of an aftershock with magnitude greater than <i>M </i>occurring between
+times <i>t</i> and <i>t</i>+<i>dt</i> is, by integrating equation (13)
+for the magnitude from <i>M</i> to<img SRC="kinfnt.gif" height=17 width=20 align=ABSCENTER>,
+obtained as shown below.</font></font>
+<br><img SRC="ys14.gif" BORDER=0 height=142 width=631>
+<br><font face="Century"><font size=+0>Taking advantage of the fact that
+the expected value of the Poisson distribution of index&nbsp;<img SRC="kmu.gif" height=16 width=14 align=ABSCENTER>
+is&nbsp;<img SRC="kmu.gif" height=16 width=14 align=ABSCENTER>, the expected
+value of the frequency
+<i>N</i>(<i>T</i><sub>l ,</sub><i>T</i><sub>2</sub>)
+the number of events forecasted of earthquakes larger than <i>M</i> during
+the time from <i>T</i><sub>l
+</sub>to<i> T</i><sub>2
+</sub>is, using the
+time integral (12) of the MO Formula, obtained by:</font></font>
+<br><img SRC="ys15.gif" height=64 width=639>
+<br><font face="Century"><font size=+0>The probability <i>Q</i> of one
+or more aftershock of <i>M </i>or greater occurring since the mainshock,
+in the time <i>T</i><sub>l </sub>to <i>T</i><sub>2</sub> is, using the
+Poisson distribution formula, found by:</font></font>
+<br><img SRC="ys16.gif" height=268 width=639>
+<br><font face="Century"><font size=+0>Equation (15) is the formula that
+calculates the number of aftershocks forecasted and equation (16) is the
+formula for the aftershock occurrence probability.</font></font>
+<p><font face="Century"><font size=+0>The significance of the variables
+is explained. <i>K</i>, <i>p</i>, and c, the parameters of the MO Formula
+that defines the special characteristics of the aftershock activity, are
+determined to provide the best explanation of actual aftershock activity.<i>
+K</i> is approximately proportional to the total number of aftershocks.
+<i>p
+</i>represents
+the extent of time damping. <i>c</i> compensates for complex aspects immediately
+after the mainshock.</font></font>
+<p><img SRC="kbeta.gif" height=21 width=20 align=ABSCENTER><font face="Century"><font size=+0>
+represents the relationship of
+<i>b</i> and&nbsp;<img SRC="kbeta.gif" height=21 width=20 align=ABSCENTER>=
+<i>b</i>
+ln 10&nbsp;<img SRC="kneareq.gif" height=17 width=16 align=ABSCENTER> 2.30<i>b</i>
+in the GR formula. <i>b</i> is a value that is closely related to the number
+of small aftershocks/ that of large aftershocks ratio, and its large value
+indicates relatively small number of deal with in large earthquakes. M<i><sub>th</sub></i>,
+the magnitude of the smallest earthquake processed using the MO Formula
+or the GR Formula. It is premised that all aftershocks larger than M<i><sub>th</sub></i>
+are observed without omissions.
+<i>T</i><sub>l
+</sub>to <i>T</i><sub>2</sub>
+, Which represent the beginning and the end of the period during which
+the aftershock probability is evaluated, both represent elapsed time following
+the mainshock. A (<i>T</i><sub>l ,</sub><i>T</i><sub>2</sub>) is provided
+by equation (12). It must be kept in mind that equation (16) does not represent
+the probability of an aftershock that matches conditions occurring exactly
+once; it represents the probability of it occurring more than 1 time.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-2-4"></a><font face="Century"><font size=+0>4) Application
+of the ETAS Model</font></font>
+<p><font face="Century"><font size=+0>Real earthquake activity can not
+be represented solely as mainshock - after shock pattern,. it involves
+complex and diverse phenomena such as earthquake swarms, secondary aftershocks,
+and relations with other regions.</font></font>
+<p><font face="Century"><font size=+0>The ETAS model, which is considered
+a superior approximation and is based on the concept that every earthquake
+is accompanied by some degree of aftershock activity, is an effective tool
+for the analysis of seismic activity in a specific region or of long term
+seismic activity (Ogata 1986, 1988, 1989, 1992, 1994).</font></font>
+<p><font face="Century"><font size=+0>To clarify aftershock activity in
+the strict sense, it is particularly important to grasp the level of aftershock
+activity following a secondary aftershock and determine whether or not
+aftershocks is smoothly decreasing. It can be thought of as an expansion
+model that clarifies the activity accompanying a secondary aftershock using
+the MO Formula by superimposing the aftershock activity of the mainshock
+and the activity of two or three series of secondary aftershocks at the
+most. Analysis to clarify whether the secondary aftershock activity is
+or is not significant and whether the <i>p</i> value differs or not can
+be done by using Akaike information criterion (Akaike, 1974) to compare
+the degree of conformity of these differing models (Ogata 1983, Ogata and
+Shimazaki 1984, Matsu'ura 1986, Utsu et al, 1995).</font></font>
+<p><font face="Century"><font size=+0>But when the activity is more complex,
+and particularly when performing analysis to determine whether or not aftershocks
+are smoothly decreasing, with methods based on the simple MO Formula or
+the expanded model explained above, depending on which period is being
+analyzed, the forecast probability fluctuates according to circumstances,
+making it difficult to obtain objective conclusions. Using the ETAS model,
+it is possible to objectively determine whether or not the aftershock activity
+has fluctuated at a particular time.</font></font>
+<p><font face="Century"><font size=+0>It is not clear, however, just What
+the quiescence in the aftershock activity demonstrated by these analysis
+methods actually represents, and it is important to gather more cases to
+contribute to continued research on ways to evaluate aftershock activity
+of this kind.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-3"></a><font face="Century"><font size=+0>(3) Actual Application
+of Aftershock Stochastic Models</font></font>
+<p><font face="Century"><font size=+0>The actual application of the probability
+evaluation methods based on the statistical models described in Part (2)
+involves the problem of determining whether it is or is not possible to
+stably find the parameters (<i>K, c, p, b</i>) for aftershock activity
+immediately following a mainshock. If the average parameters for the aftershock
+activity are known, there is a possibility that these this can be used
+effectively as preliminary data until the actual data is available. For
+this reason, specific parameters for the aftershock stochastic model combining
+the GR Formula and the MO Formula (below referred to as "aftershock stochastic
+model") or past cases are compared, and their application range is studied.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-3-1"></a><font face="Century"><font size=+0>1) Average Parameters
+of Past Activity</font></font>
+<p><font face="Century"><font size=+0>The values of average parameters
+of the aftershock stochastic model of past seismic activity are based on
+the following sources. Because <i>K</i> is dependent on the lower detection
+limit <i>M<sub>th</sub></i> and the values that make the <i>M<sub>th</sub></i>
+uniform are widely scattered for each activity, the average values are
+not listed here.</font></font>
+<center>
+<p><font face="Century"><font size=+0>Table 4. Aftershock Parameters for
+Earthquakes Near Japan (median Values)</font></font>
+<br><img SRC="t4.jpg" height=232 width=493>
+<br><font face="Century"><font size=+0>* The median values of <i>c</i>
+and
+<i>p</i> of the ETAS model were used.</font></font></center>
+
+<p><font face="Century"><font size=+0>Table 4 shows that values obtained
+from recent analysis results are approximately 1.0 for <i>b</i>, between
+0.02 and 0.06 for <i>c</i>, and about 1.1 for <i>p</i>. Because the MO
+Formula parameters are not found independently, there is a tradeoff between
+each of the parameters during analysis. If it is hypothesized that <i>c</i>
+and <i>p</i> are the average parameters ,<img SRC="kcbar.gif" BORDER=0 height=20 width=16 align=ABSCENTER>
+and&nbsp;<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>, it is
+possible to compare the average parameters (<i>K, c, p</i>) separately
+with the parameters (<i>K</i>,&nbsp;<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>,&nbsp;<img SRC="kcbar.gif" BORDER=0 height=20 width=16 align=ABSCENTER>)
+to judge which is appropriate. Specifically, by comparing AIC of each of
+the models:</font></font>
+<br><img SRC="ysa.gif" height=60 width=643>
+<br><font face="Century"><font size=+0>the model with the smaller AIC can
+be used. The documents cited in Table 4 do not include studies of this
+kind. And many of the earthquakes analyzed in Table 4 were accompanied
+by a few aftershocks. This is a result of the fact that the hypocenters
+were far away or that the data was obtained at a time when earthquake detection
+capability was poor. An average image comprehensively analyzed concerning
+the level of aftershock activity is not obtained from these sources. This
+substantial scattering may be a property of natural phenomena, but obtaining
+an average image is important, because it permits information about average
+aftershock activity to be obtained from these parameters. This information
+includes the magnitude of the largest aftershock relative to the <i>M </i>of
+the mainshock below, ''<i>M<sub>0</sub></i>"), or in which period after
+the mainshock the largest aftershock often occurs; information to be used
+to consider planning for protection from aftershocks, and through a comparison
+with it, to objectively evaluate the level of the aftershock activity.</font></font>
+<p><font face="Century"><font size=+0>To find this average image, it is
+necessary to collect cases Studied based on the regional categorization
+outlined in Part (1) and the earthquake category (interplate, intraplate,
+etc.) and at the same time, to comprehensively consider aftershock activities
+from high level to low level in order to determine if it is possible to
+perform a categorization of this activity. The following sections [1] to
+[3] introduce specific study methods.</font></font>
+<p><font face="Century"><font size=+0>[1]Method Based on the Value of <i>K</i></font></font>
+<p><font face="Century"><font size=+0>It is possible to compare differing
+aftershock activities using log<i>K<sub>M3 </sub></i>(value obtained by
+correcting the value <i>K</i> of the activity by a certain threshold value)
+defined by equation (9), and it is also possible to contribute to the evaluation
+of aftershock probability by surveying the relationship between this value
+and <i>M<sub>0</sub></i>.</font></font>
+<p><font face="Century"><font size=+0>[2] Method Based on the Aftershock
+Activity Standardization Parameters</font></font>
+<p><font face="Century"><font size=+0>Because <i>K</i> in the MO Formula
+depends on the values <i>M<sub>th</sub></i>, <i>M<sub>0</sub></i> and <i>b</i>
+of aftershock activity, the following standardization is considered. In
+brief, aftershock activity is characterized by:</font></font>
+<br><img SRC="ys17.gif" height=51 width=632>
+<br><font face="Century"><font size=+0>(Utsu 1970, Reasenberg and Jones
+1989, 1994, Abe 1991, 1994, Matsu'ura 1993, Shizuoka Prefecture Earthquake
+Measures Section, 1993). From this:</font></font>
+<br><img SRC="ys18.gif" height=107 width=634>
+<br><font face="Century"><font size=+0>is obtained, and using this relationship,
+equation (16) can be expressed as:</font></font>
+<br><img SRC="ys19.gif" height=58 width=639>
+<br><font face="Century"><font size=+0>[3] Method Based on the Difference
+Between <i>M</i> of the Mainshock and <i>M </i>of the Largest Aftershock</font></font>
+<p><font face="Century"><font size=+0>Aftershocks generally conform to
+the GR Formula, but mainshock magnitude <i>M<sub>0</sub></i> is often far
+greater than the GR Formula (Utsu, 1957). An investigation of the difference
+<i>D</i>
+(= <i>M<sub>0</sub></i>-<i>M<sub>m</sub></i>) between the mainshock
+<i>M<sub>0
+</sub></i>and
+the largest aftershock <i>M<sub>m</sub></i> (same applies below) can contribute
+to an aftershock probability evaluation. Specifically, it is based on the
+following procedure. First, based on the MO Formula, the forecast number
+of earthquakes of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER>M<sub>th</sub></i>
+during time from 0 to&nbsp;<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER></font>is
+estimated to be <i>KA</i>(0,&nbsp;<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER><font size=+0>)
+for <i>M</i> = <i>M<sub>th </sub></i>in equation (15). While the number
+of aftershocks for the same time period forecasted by using the GR Formula
+is estimated to be <i>N<sub>th</sub></i> (0 ,<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>).
+Equalizing these, we obtain:</font></font>
+<br><img SRC="ys20.gif" height=51 width=639>
+<br><img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER><font face="Century"><font size=+0>
+is the period of time until the aftershock activity ends, but because <i>N<sub>th</sub></i>
+(0 ,<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>) diverges
+when <i>p<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>1.0,<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>
+must be substituted by taking a sufficiently large value.</font></font>
+<p><font face="Century"><font size=+0>From equation (20):</font></font>
+<br><img SRC="ys21.gif" height=98 width=637>
+<br><font face="Century"><font size=+0>Using this, equation (16) can be
+expressed as:</font></font>
+<br><img SRC="ys22.gif" height=74 width=635>
+<br><font face="Century"><font size=+0>The method presented in [2] above,
+where&nbsp;<img SRC="kalfa.gif" height=17 width=13 align=ABSCENTER> is
+not dependent on the mainshock
+<i>M<sub>0</sub></i> , is based on an idea
+to find the difference among earthquakes with different types in different
+regions. The value of <i>D</i> is provided as 1.4 as an average by Utsu
+(1957), and afterwards, based on its relationship with
+<i>M<sub>0</sub></i>
+, Utsu (1969) found:</font></font>
+<br><img SRC="ys23.gif" height=48 width=639>
+<br><font face="Century"><font size=+0><i>D</i> in this equation decreases
+as <i>M<sub>0</sub></i> increases; It suggests that the level of aftershock
+activity relative to the magnitude of the mainshock can increase as the
+value of <i>M<sub>0</sub></i> increases. Equation (23) is based on the
+belief that even earthquakes which are not followed by observed aftershocks
+are in fact followed by undetectable aftershocks. Therefore, and it is
+necessary to distinguish cases dealing only with earthquakes whose aftershocks
+can be observed.</font></font>
+<p><font face="Century"><font size=+0>Problems with the method introduced
+in [3] include the extremely large scattering of the value of <i>D</i>
+and the fact that when <i>p<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>1.0,
+it is necessary to know what value should be taken instead of&nbsp;<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>
+to calculate A(0,<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>).</font></font>
+<p><font face="Century"><font size=+0>When actually performing calculations
+of this activity, it is acceptable to survey the time period in which the
+aftershocks caused by mainshock <i>M<sub>0</sub></i> are below the level
+of the background seismic activity and use values in accordance with the
+results of this survey. In order to consider an index of the level of aftershock
+activity that is not dependent upon <i>D</i>, it is assumed that:</font></font>
+<br><img SRC="ys24.gif" height=69 width=639>
+<br><font face="Century"><font size=+0>and substituting this in equation
+(21) obtains:</font></font>
+<br><img SRC="ys25.gif" height=68 width=638>
+<br><font face="Century"><font size=+0>The largest aftershock <i>M<sub>m</sub></i>
+can be estimated based on:</font></font>
+<br><img SRC="ys26.gif" height=83 width=640>
+<br><font face="Century"><font size=+0>from the relationship in equation
+(20). Using this relationship, equation (16) can be expressed as:</font></font>
+<br><img SRC="ys27.gif" height=58 width=639>
+<br><font face="Century"><font size=+0>By surveying the relationship of
+<i>D</i>
+and&nbsp;<img SRC="kfai.gif" height=19 width=13 align=ABSCENTER> with the
+characteristics of the region or with the earthquake classification as
+a way of expanding the method introduced in [3], it is possible to contribute
+to aftershock probability evaluations.</font></font>
+<p><font face="Century"><font size=+0>In addition to these methods above,
+it is necessary to compare other methods, for example, to survey the characteristics
+of the region using that numbers of aftershocks follow negative binomial
+distribution (Okada, 1979).</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-3-2"></a><font face="Century"><font size=+0>2) Comparison
+of the Past Activity and the Probability Calculated From the Average Parameters</font></font>
+<p><font face="Century"><font size=+0>Probability calculated based on the
+methods presented in Part 1) do not provide exactly the same numerical
+results. Here these are compared with past cases.</font></font>
+<p><font face="Century"><font size=+0>[1] Past Cases and Aftershock Occurrence
+Probability</font></font>
+<p><font face="Century"><font size=+0>The average parameters to be applied
+to the aftershock stochastic model are established as explained below.</font></font>
+<p><font face="Century"><font size=+0>Trial calculation parameter&nbsp;<img SRC="ktheta.gif" height=19 width=15 align=ABSCENTER>:
+The parameter <i>D</i> that represents the level of aftershock activity
+with method [3] is used.&nbsp;<img SRC="kbbar.gif" height=20 width=16 align=ABSCENTER>,&nbsp;<img SRC="kcbar.gif" height=20 width=16 align=ABSCENTER>
+and&nbsp;<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>&nbsp;
+applied are the medians for all the cases in and around Japan (Matsu'ura,1993).
+And the probability of an aftershock greater than <i>M</i>5.0 occurring
+once or more following an <i>M</i>6.0 mainshock assuming&nbsp;<img SRC="kdhat.gif" height=24 width=17 align=ABSCENTER>=
+1.2 (<img SRC="ktheta1.gif" height=22 width=19 align=ABSCENTER></font>)
+and the probability of an aftershock greater than <i>M</i>6.0 occurring
+once or more following an <i>M</i>7.0 mainshock assuming that&nbsp;<img SRC="kdhat.gif" height=24 width=17 align=ABSCENTER>=
+1.1 (<img SRC="ktheta2.gif" height=22 width=21 align=ABSCENTER>) are Separately
+calculated on trial.</font>
+<p><font face="Century">Trial calculation parameter&nbsp;<img SRC="kpsi.gif" height=16 width=17 align=ABSCENTER><font size=+0>:
+Method [2] is used, and the median value for cases of intraplate earthquakes
+(&nbsp;<img SRC="kalfa.gif" height=17 width=13 align=ABSCENTER>-2.36:<img SRC="kpsi1.gif" height=18 width=21 align=ABSCENTER></font>)
+of Matsu'ura (1993) is applied to trial calculation of the probability
+of an aftershock greater than <i>M</i>5.0 ccurring once or more following
+an <i>M</i>6.0 mainshock, and the median value for cases of interplate
+earthquakes (&nbsp;<img SRC="kalfa.gif" height=17 width=13 align=ABSCENTER><font size=+0>-2.36:<img SRC="kpsi2.gif" height=19 width=22 align=ABSCENTER></font>)
+is applied to trial calculation of the probability of an aftershock greater
+than <i>M</i>6.0 occurring once or more following an <i>M</i>7.0 mainshock.</font>
+<p><font face="Century">Trial calculations using these parameter and setting
+<i>T</i><sub>1</sub>=
+0, <i>T</i><sub>2</sub>= 1, 3, 7, 10, 30, 60, 90 (days), were compared
+with past cases (shallow inland earthquakes, earthquakes in the sea area)
+(Table 5-1).</font>
+<p><font face="Century">The past cases presented in Table 5-1 can not,
+strictly speaking, be compared considering the relationship between a mainshock
+<i>M0</i>
+and aftershock activity expressed by formula (23), but the overa11 tendencies
+of the probability based on the trial calculation Parameter conform with
+those of the past cases.&nbsp;<img SRC="kdhat.gif" height=24 width=17 align=ABSCENTER>
+for the trial calculation&nbsp;<img SRC="ktheta.gif" height=19 width=15 align=ABSCENTER><font size=+0>
+is a value that is close to the average of the past activities of different
+magnitude <i>M<sub> </sub></i>. The results of the trial calculations for
+various types of earthquake based on trial calculation&nbsp;<img SRC="kpsi.gif" height=16 width=17 align=ABSCENTER></font>are
+also close to the past cases. It is not possible from this to determine
+if there is a regional difference between earthquakes in the sea area and
+shallow inland earthquakes or a difference in the mainshock
+<i>M<sub>0</sub>.</i>
+The important fact is that it is possible to represent probability almost
+identical to that seen in past cases using the average parameters&nbsp;<img SRC="kbbar.gif" height=20 width=16 align=ABSCENTER><font size=+0>,&nbsp;<img SRC="kcbar.gif" height=20 width=16 align=ABSCENTER></font>and&nbsp;<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>for
+the aftershock stochastic model.</font>
+<p><font face="Century">A comparison of the two trial calculations<img SRC="ktheta.gif" height=19 width=15 align=ABSCENTER><font size=+0>
+and&nbsp;<img SRC="kpsi.gif" height=16 width=17 align=ABSCENTER><i> </i></font>reveals
+that value&nbsp;<img SRC="kdhat.gif" height=24 width=17 align=ABSCENTER>=
+1.2 in trial calculation&nbsp;<img SRC="ktheta.gif" height=19 width=15 align=ABSCENTER><font size=+0>
+is itself a parameter that signifies activity of the largest aftershock
+<i>M<sub>m</sub></i>
+= 4.8 following a mainshock <i>M<sub>0</sub> = </i>6.0, and when the probability
+of a relatively large aftershock is calculated, a slightly larger value
+is obtained with the trial calculationΨ (method [2]) than with the trial
+calculation&nbsp;<img SRC="ktheta.gif" height=19 width=15 align=ABSCENTER>
+(method [3]).</font></font>
+<center>
+<p><font face="Century"><font size=+0>Table 5-1 Past Cases and Aftershock
+Occurrence Probability (Trial Calculation)</font></font>
+<br><img SRC="t5-1.jpg" height=228 width=761>
+<p><font face="Century"><font size=+0>Table 5-2 Past Cases and Largest
+Aftershock Occurrence Probability</font></font>
+<br><font face="Century"><font size=+0>(Trial Calculation)</font></font>
+<br><img SRC="t5-2.jpg" height=328 width=760></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><font face="Century"><font size=+0>[2] Past Cases and Largest Aftershock
+Occurrence Probability</font></font>
+<p><font face="Century"><font size=+0>When a large aftershock has occurred,
+it is important to evaluate if it is the largest aftershock. It is also
+possible to use probability expressions to represent the occurrence of
+the largest aftershock. Here "largest aftershock occurrence probability",
+is the probability <i>R</i> that the largest aftershock with a magnitude
+of <i>M</i>* or more occurs in the subsequent time period [<i>T<sub>1</sub>,T</i><sub>2</sub>]
+, and <i>R</i> is obtained by the following equation.</font></font>
+<p><font face="Century"><font size=+0><i>R</i> = <i>Pr</i>{the largest
+aftershock with a magnitude of <i>M</i>* or more occurs in the subsequent
+time period[<i>T<sub>1</sub>,</i> <i>T</i><sub>2</sub>]}</font></font>
+<p><font face="Century"><font size=+0><i>&nbsp; </i>=<i> Pr</i>{the magnitude
+of the largest aftershock in the subsequent time period[0,<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>]
+is <i>M</i>*or more}×<i>Pr</i>{aftershock occurs in the subsequent
+time period[<i>T<sub>1</sub>,T</i><sub>2</sub>]}</font></font>
+<p><img SRC="kdef.gif" height=13 width=15 align=ABSCENTER><font face="Century"><font size=+0>
+the first item&nbsp;<img SRC="kmult.gif" height=15 width=15 align=ABSCENTER>
+the second item ('<i>Pr</i>{}is the probability.)</font></font>
+<p><font face="Century"><font size=+0>Here ,</font></font>
+<p><img SRC="ysd.gif" height=127 width=547>
+<br><img SRC="ys28.gif" height=97 width=664>
+<p><font face="Century"><font size=+0>The first item in equation (28) is
+equation (16) that substitutes for <i>T<sub>1</sub> =</i> 0, <i>T</i><sub>2</sub>=<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>,
+<i>M</i>
+= <i>M</i>*. Using&nbsp;<img SRC="kmtilde.gif" height=26 width=33 align=ABSCENTER>
+in equation (26) and&nbsp;<img SRC="kbeta.gif" height=21 width=20 align=ABSCENTER>
+= <i>b</i> ln 10, the first item represent as:</font></font>
+<br><img SRC="ys29.gif" BORDER=0 height=136 width=661>
+<br><font face="Century"><font size=+0>The equation (29) shows double exponential
+distribution as extreme value distribution(Utsu, 196 1).</font></font>
+<p><font face="Century"><font size=+0>As already explained, the calculation
+in a case where <i>p<img SRC="kle.gif" height=18 width=18 align=ABSCENTER></i>1.0
+must be performed by providing a sufficiently large value for&nbsp;<img SRC="ktinf.gif" height=19 width=21 align=ABSCENTER>.
+Table 5-2 presents past cases along with the results of trial calculations
+using the trial calculation parameters&nbsp;<img SRC="ktheta.gif" height=19 width=15 align=ABSCENTER>
+and&nbsp;<img SRC="kpsi.gif" height=16 width=17 align=ABSCENTER> referred
+to in [1].</font></font>
+<p><font face="Century"><font size=+0>The probability of the occurrence
+of the largest aftershock is almost identical to the calculated probability
+using the average parameters in Table 5-1. But at the time that a large
+aftershock occurs, it is difficult to state that it is the largest aftershock.</font></font>
+<p><font face="Century"><font size=+0>The hypocenter parameters used for
+the past cases include information that is less precise than that available
+now, and there are some earthquakes where it is not clear if it should
+be considered to be an ordinary aftershock or an aftershock in the wide
+sense.</font></font>
+<p><font face="Century"><font size=+0>According to the information obtained
+here, the largest aftershock of an inland earthquake often occurs within
+one week (Of the 72 past cases of activity, 20 were accompanied by large
+aftershocks that could cause damage, and of these, 18 occurred within 7
+days), while in the sea area, the largest aftershock is a little later.
+To refer to the largest aftershock, it should be as large as those cited
+in the past examples.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="2-3-3"></a><font face="Century"><font size=+0>3) Range of
+the Application of Aftershock Stochastic Models and Effective Aftershock
+Probability Evaluation</font></font>
+<p><font face="Century"><font size=+0>In the past cases, the largest aftershock
+occurred within 30 days of an inland earthquake and almost always within
+90 days after an earthquake in the sea area. But the probability based
+on the trial calculation parameters slightly increase as the application
+period lengthens. According to trial calculation parameter θ<sub>2 </sub>for
+example, there is an approximately 8% probability of the largest aftershock
+occurring between 1 year and 1 million days (about 2,700 years) after a
+mainshock. Probabilities over long time periods are primarily determined
+by <i>K</i> and <i>p </i>but it is more natural to think that this exceeds
+the limit to the applicability of the aftershock stochastic model.</font></font>
+<p><font face="Century"><font size=+0>The limit to the applicability of
+the aftershock stochastic model has not been uniformly determined considering
+the fact that the aftershock activity following the Nobi Earthquake (<i>M</i>8.0)
+of 1981 can be represented for several decades with the MO Formula. It
+should be considered for the time being that one month or so is appropriate
+for aftershock probability evaluation that can be contrasted with other
+models (the ETAS model for example) at the stage where the parameters can
+be found stably.</font></font>
+<p><font face="Century"><font size=+0>Inversely, looking at probability
+evaluations at an early stage, the results of the trial calculations show
+that the values of <i>c</i> and <i>p</i> have little effect on probability
+over particularly short time periods. The value of <i>D </i>is closely
+related to the value <i>K</i> from equation (21), and even the value <i>K
+</i>alone
+should, for particularly short period probability, be found before the
+other parameters using the method described in part 1) (the comparison
+with AIC method). One method of doing this is using data concerning the
+times of felt earthquakes. It is assumed that inland, a felt earthquake
+has a magnitude of at least <i>M</i>3. When felt earthquake information
+is unusable, it is possible to use high sensitivity seismographs far from
+the hypocenter to record the times of earthquakes that exceed a certain
+amplitude for use as data to find the value of <i>K</i>.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<hr WIDTH="100%">
+<br><a NAME="3"></a><font face="Century"><font size=+0>3. Implementation
+of Aftershock Probability Evaluation.</font></font>
+<p><a NAME="3-1"></a><font face="Century"><font size=+0>(1) Earthquakes
+Whose Aftershock Probability is Evaluated</font></font>
+<p><font face="Century"><font size=+0>Aftershock probability evaluation
+is one basis for judgments made in the course of emergency measures and
+restoration activities conducted by residents, business offices, disaster
+prevention organizations, etc. in areas struck by an destructive earthquake.
+For this reason, aftershock probability evaluation must be carried out
+after any earthquake that could be followed by aftershocks capable of inflicting
+new damage.</font></font>
+<p><font face="Century"><font size=+0>Earthquakes of this kind are thought
+to be those with a maximum seismic intensity more than 5 Lower: the level
+where conspicuous damage begins to appear. If an earthquake of this kind
+is a mainshock, it is possible that seismic intensity equal to that of
+the mainshock will be locally observed, or according to circumstances,
+even higher than the mainshock. For this reason, whenever an earthquake
+of this kind has occurred on land or in the sea area, evaluation work has
+to begin immediately without regard to its location.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="3-2"></a><font face="Century"><font size=+0>(2) Aftershock
+Probability Evaluation Methods That Should be Implemented for the Time
+Being</font></font>
+<p><font face="Century"><font size=+0>Much real seismic activity follows
+a complex course depending on where it occurs its magnitude, and its type,
+so it is impossible to cover all methods of evaluating aftershock probability
+at the time an earthquake occurs.</font></font>
+<p><font face="Century"><font size=+0>This section presents the aftershock
+probability evaluation method that should be implemented, the content of
+the evaluations of aftershocks, and examples of the representation of evaluation
+results at each of the hypothetical stages following a magnitude 7.0 shallow
+inland earthquake selected as a concrete example of common mainshock -
+aftershock activity.</font></font>
+<p><font face="Century"><font size=+0>When actually applying these methods,
+they have to be selected and applied flexibly and when more advanced analysis
+technology has become available, it must be appropriately incorporated.</font></font>
+<p><font face="Century"><font size=+0>Stage 1.</font></font>
+<p><font face="Century"><font size=+0>Hypothesis: Only the hypocenter,
+magnitude, and seismic intensity can be known (at the time it occurs).</font></font>
+<p><font face="Century"><font size=+0>Based on "2, (1) Mainshock - Aftershock
+Pattern Clarification", the magnitude 7.0 shallow inland earthquake is
+treated as the mainsbock, and it can be assumed that mainshock - aftershock
+activity will occur. At this stage, the aftershock activity can not be
+clarified, so preparation for aftershock probability evaluation (selection
+of observation points suitable for the monitoring, the activity of felt
+earthquake) is carried for the next stage.</font></font>
+<p><font face="Century"><font size=+0>The content of evaluation at this
+stage consists of past statistical cases.</font></font>
+<p><font face="Century"><font size=+0>Stage 2.</font></font>
+<p><font face="Century"><font size=+0>Hypothesis: The aftershock region
+has been almost fully clarified and the felt earthquake activity is understood.
+The <i>K</i> value has not been precisely determined (generally, a few
+hours after the mainshock).</font></font>
+<p><font face="Century"><font size=+0>The application of the MO Formula
+began. Based on the cumulative aftershock frequency chart, it has been
+confirmed whether it is represented with a single MO Formula or not. And
+the process of using the time of the felt earthquakes to find the parameters
+of MO Formula (average parameters (<i>K</i> ,<img SRC="kcbar.gif" height=20 width=16 align=ABSCENTER>,<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>)
+and individual parameters (<i>K</i>,<i> c</i>,<i> p</i>)) has begun.</font></font>
+<p><font face="Century"><font size=+0>The content of the evaluation at
+this stage are the aftershock situation and past statistical cases.</font></font>
+<p><font face="Century"><font size=+0>When the value of <i>K</i> has been
+determined, it is possible to perform probability evaluation based on the
+average parameters (<i>K</i> ,<img SRC="kcbar.gif" height=20 width=16 align=ABSCENTER>,<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>)
+, but because is used, the evaluation should be limited to short time periods
+(3 days for example).</font></font>
+<p><font face="Century"><font size=+0>Stage 3.</font></font>
+<p><font face="Century"><font size=+0>Hypothesis: Only the value <i>K</i>
+for the MO formula can be obtained from felt earthquakes etc. (about 1
+day after the mainshock).</font></font>
+<p><font face="Century"><font size=+0>It is important to compare the AIC
+of two models (average parameters and individual parameters) based on the
+work performed since stage 2.</font></font>
+<p><font face="Century"><font size=+0>The contents of the evaluation are
+the aftershock situation and past statistic examples, along with an aftershock
+probability evaluation based on the more appropriate model (here, the average
+parameters (<i>K</i> ,<img SRC="kcbar.gif" height=20 width=16 align=ABSCENTER>,<img SRC="kpbar.gif" height=23 width=16 align=ABSCENTER>)).
+And because the value of <i>p</i> can not generally be relied on when there
+is little data the long term probability can greately deviate. At this
+stage, the evaluation should be limited to extremely short term (3 days
+for example).</font></font>
+<p><font face="Century"><font size=+0>Stage 4</font></font>
+<p><font face="Century"><font size=+0>Hypothesis: Individual parameters
+have almost all stabilized and been found (about 3 days after the mainshock).</font></font>
+<p><font face="Century"><font size=+0>At this stage, if <i>p</i> is stable,
+long term evaluation is possible and this kind of evaluation is considered
+to be effective information for the restoration and recovery work and others
+in the stricken district. In this case, it is important that the information
+includes forecasts of the number of aftershocks of <i>M</i>3.0 or greater
+which approximately represents felt shallow inland earthquakes.</font></font>
+<p><font face="Century"><font size=+0>The content of the evaluation includes
+revised content at Stage 3 along with relatively long term aftershock probability
+evaluation, aftershock frequency forecasts, etc.</font></font>
+<p><font face="Century"><font size=+0>Table 6 presents an example of the
+concrete expressions of evaluation results at Stages 1 to 4.</font></font>
+<p><font face="Century"><font size=+0>Table 6. presents probability rounded
+off to 10% units (a significant figure:</font></font>
+<p><font face="Century"><font size=+0>1) because this level of error is
+anticipated.</font></font>
+<p><font face="Century"><font size=+0>As shown in "1. (2) Fundamental Concepts,"
+in addition to these types of information it is important that effective
+information, or in other words, the following items that are indicated
+in "2. Methods of Evaluating Aftershock Probability" are appropriately
+added according to circumstances.</font></font>
+<p><font face="Century"><font size=+0>- When an earthquake has occurred
+near an active volcano (or near a Quaternary volcano), information such
+as: "according to past cases, an aftershock whose magnitude is close to
+that of the mainshock is likely to occur in an active volcano region(or
+by geological effects)''.</font></font>
+<p><font face="Century"><font size=+0>- In the sequence occurrence regions
+in the sea area, information such as, "according to past cases, an earthquake
+of almost the same size (or aftershocks of almost same magnitude of the
+mainshock) is likely to occur in this sea area."</font></font>
+<p><font face="Century"><font size=+0>- When almost no aftershocks have
+been observed, this fact.</font></font>
+<p><font face="Century"><font size=+0>- When secondary aftershocks have
+been conspicuous or an earthquake larger than the mainshock has occurred,
+probability evaluation results based on an more appropriate model by means
+of a comparison between models that using applies a single MO Formula and
+multiple MO formulae.</font></font>
+<center>
+<p><font face="Century"><font size=+0>Table 6. Example of Concrete Expressions
+of Evaluation of an Inland Earthquake</font></font>
+<br><img SRC="t6.jpg" height=1211 width=598></center>
+
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<br><a NAME="3-3"></a><font face="Century"><font size=+0>(3) Issues that
+Should be Regarded to Promote Understanding of Aftershock Probability Evaluation</font></font>
+<p><font face="Century"><font size=+0>A destructive earthquake is an event
+which most people experience no more than once in their lifetime. When
+a destructive earthquake has just occurred, earthquake information, particularly
+that concerning aftershock probability, is initially unfamiliar to most
+people, so officials in charge of taking action to deal with disasters
+have to understand its significance. To provide them with this knowledge,
+it is important to create as many opportunities as possible for them to
+become familiar with it. Measures must be planned and implemented enabling
+disaster officials to learn how to make effective use of this information
+through ongoing training and educational activities at normal times; not
+just following a destructive earthquake.</font></font>
+<p><font face="Century"><font size=+0>It is vital that they be given information
+that provides them with sufficient awareness of the methods described in
+the preceding sections of this rept6rt, with the premises for the use of
+these methods, average aspects of aftershock activities, and the significance
+of numerical probabilities.</font></font>
+<p><font face="Century"><font size=+0>It is also vital to hear the views
+and needs of administrative agencies, residents, and business offices that
+will receive information concerning aftershock probability evaluations,
+and to consider the results of surveys conducted to forecast how these
+recipients will act on the basis of the aftershock probability information
+they obtain.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<hr WIDTH="100%">
+<br><a NAME="4"></a><font face="Century"><font size=+0>4. Perspectives
+in the Future</font></font>
+<p><font face="Century"><font size=+0>This study of aftershock probability
+evaluation methods has been conducted based on present day technology established
+in the field of seismology. But, earthquake observation methods, and seismological
+analysis technology are all advancing. In the field of earthquake activity
+evaluations, the ETAS model plays an extremely important role in the objective
+clarification of everything from mainshock - aftershock activity I to earthquake
+swarms, so it is necessary to continue to study ways to use the model in
+anticipation of ongoing research on the ETAS model based methods and in
+response to its results.</font></font>
+<p><font face="Century"><font size=+0>The methods described in this report
+must be the subject of further research to incorporate more precise hypocenter
+parameters and new cases, appropriately review the average parameters,
+and develop methods of estimating the individual parameters at an earlier
+stage.</font></font>
+<p><font face="Century"><font size=+0>And it is important to conduct surveys
+of the recipients of aftershock probability evaluations referred to in
+3 (3) along with surveys of cases where aftershock probability evaluations
+have actually been carried out.</font></font>
+<p><font face="Century"><font size=+0>While outside the scope of this study,
+the residents were deeply concerned with the following three matters related
+to aftershocks. This report also refers to the explanation possible now.</font></font>
+<p><font face="Century"><font size=+0>[1] Time of occurrence of large aftershocks:
+Under present circumstances, it is difficult to conclusively forecast when
+a large aftershock will occur. Several reports have claimed that a large
+aftershock is immediately preceded by the so-called seismic quiescence,
+a temporary decline in aftershock activity. But there are cases where a
+period of seismic quiescence is not followed by a large aftershock, or
+cases where a large aftershock occurs without a period of seismic quiescence.
+It is, therefore, difficult to predict an imminent large aftershock under
+present circumstances, so more cases will have to be studied if this phenomena
+is to become a useful source of information for predictions.</font></font>
+<p><font face="Century"><font size=+0>[2] Location of large aftershocks:
+It is possible to designate the location where a large aftershock will
+occur at the ''close to the aftershock regions level, but it is difficult
+to offer anything more precise under present conditions. They often occur
+near the edges of aftershock regions, but exceptions to this rule are not
+rare. In a recent case, the largest aftershock (April 3, <i>M</i>5.6) following
+a March 26, 1997 earthquake (<i>M</i>6.5) in the north-western part of
+Kagoshima Prefecture in Japan occurred a little to the west of the epicenter
+distribution, but it was not in an area that could be defined as the edge
+of the aftershock region. Further research is necessary to abstract areas
+of stress concentration, parts left at the main shock rupture, and bends
+in the faults, etc. based on analysis of the three dimensional hypocentral
+distribution. The relationships characteristic of earthquakes that occur
+far from aftershock regions are not well understood. This type include
+the so-called induced earthquakes and aftershocks in the wide sense of
+the term: the Mikawa Earthquake (<i>M</i>6.8) of 1945 that followed the
+Tonankai Earthquake (<i>M</i>7.9) of 1944 for example. To obtain this knowledge,
+more cases have to be studied and analyses accounting for changes in stress
+distribution caused by the main shock have to be performed.</font></font>
+<p><font face="Century"><font size=+0>[3] Shaking at specified locations
+caused by large aftershocks: Because conditions prevent forecasting of
+locations where large aftershocks will occur, under present circumstances,
+it is difficult to do so. Qualitatively, it is necessary to provide a commentary
+pointing out that ''it is possible that at a certain place in the aftershock
+region, a seismic intensity equal to or greater than a certain level will
+occur." Because residents earnestly desire these kinds of information,
+it is important to carry out future fundamental surveys and observations
+to improve hypocenter determination capabilities and to study more past
+cases, and in this way to contribute to the advance of research in this
+field.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<br>
+<hr WIDTH="100%">
+<hr WIDTH="100%">
+<br><a NAME="References"></a><font face="Century"><font size=+0>References</font></font>
+<p><font face="Century"><font size=+0>Abe, Katsuyuki (1991): Probability
+forecast of aftershocks, Zisin, 2, <b>44</b>, 145 - 146.</font></font>
+<p><font face="Century"><font size=+0>Abe, Katsuyuki (1994): Probability
+forecast of aftershocks (Errata), Zisin, 2, <b>47</b>,239.</font></font>
+<p><font face="Century"><font size=+0>Akaike, H (1974): A new look at the
+statistical model identification, <i>IEEE,Trans. Autom.</i> Contro,AC-19,
+716 - 723.</font></font>
+<p><font face="Century"><font size=+0>Guo, Z. and Y. Ogata (1997): Statistical
+relations between the parameters of aftershocks in time, space, and magnitude,
+<i>J.
+Geophys. Res</i>., <b>102</b>, 2857 - 2873.</font></font>
+<p><font face="Century"><font size=+0>Gutenberg, B. and C.F. Richter (1941):
+Seismicity of the earth, <i>Geo1. Soc. An</i>., Special Papers, No. 34.</font></font>
+<p><font face="Century"><font size=+0>Gutenberg, B. and C.F. Richter (1944):
+Frequency of earthquakes in California, <i>Bull</i>,<i>Seism. Soc. Am</i>.,
+<b>34</b>,
+185 - 188.</font></font>
+<p><font face="Century"><font size=+0>Hamada, Nobuo (1990): Some amendments
+for the earthquake catalogue in the special issue No.6 of the Seismological
+Bulletin of the Japan Meteorological Agency, Zisin, 2,<b> 43</b>, 307 -
+310.</font></font>
+<p><font face="Century"><font size=+0>Hoshiba, Mitsuyuki, Masaaki Seino,
+Masami Okada and Hidemi Ito (1993): A list of spacetime inter-relationship
+in earthquake occurrence and its applications, Papers in Meteology and
+Geophysics,
+<b>44</b>, 83 - 90.</font></font>
+<p><font face="Century"><font size=+0>Hosono, Koji and Akio Yoshida (1992):
+Farecasting Aftershock activities, Papers in Meteology and Geophysics,
+<b>42</b>,
+145 - 155.</font></font>
+<p><font face="Century"><font size=+0>Isshiki, Naoki, Kazunori Matsui and
+Koji Ono(1968a): Volcanoes of Japan (first edition), Geological Survey
+of Japan.</font></font>
+<p><font face="Century"><font size=+0>Isshiki, Naoki, Kazunori Matsui and
+Koji Ono(1968b): Volcanoes of Japan (first edition), Selected Literatures
+on Volcanoes, Geological Survey of Japan.</font></font>
+<p><font face="Century"><font size=+0>Ito, Hidemi, Kazumitsu Yoshikawa,
+Akihiko Wakayama, Akio Yoshida,and Masaaki Seino (1999): Some empirical
+criteria for judging whether a shock is accompanied by a shock with larger
+or almost the same magnitude, submitted to Quarterly Journal Seismology.
+Edited by the Japan Meteorological Agency (1996): National catalogue of
+the active volcanoes in Japan (second edition), 500p.</font></font>
+<p><font face="Century"><font size=+0>Kondo, Sukehiro, Toshiro Koyanagi,
+Shimpei Kawauchi, Mitsuhiro Nakagawa, Sadaomi Suzuki, Sakae Hasagawa, To
+Yamanouchi, Momoki Kawabe, Koji Kishi and Yasuyuki okahisa (1989): Recent
+activity at the Maruyama Volcano in the Higashi Daisetsu Mountain System,
+Program and Abstracts the Volcanology Society of Japan, No. 2, 160.</font></font>
+<p><font face="Century"><font size=+0>Matsu'ura, R.S. (1986): Precursory
+quiescence and recovery of aftershock activity before some large aftershocks,
+Bull. Earthq. Res. Inst., University of Tokyo, <b>61</b>, 1 -65.</font></font>
+<p><font face="Century"><font size=+0>Matsu'ura R.S. (1993): On parameter
+values for the modified Omori Formula - aftershock activity of <i>M<img SRC="kge.gif" height=18 width=18 align=ABSCENTER></i>
+6.0 in Japan (1969 - 1991), Abstract 1993 Japan Earth and Planetary Science
+Joint Meeting, 224.</font></font>
+<p><font face="Century"><font size=+0>Matsu'ura R.S. (1995): The centenary
+of the Omori formula - study of aftershock decay Zisin, 19, 33 - 34.</font></font>
+<p><font face="Century"><font size=+0>Nakagawa, Mitsuhiro, Hironori Maruyama
+and Atsushi Funayama (1995): Distribution and Spatial Variation in Major
+Element Chemistry of Quaternary Volcanoes in Hokkaido, Japan, Bull.Volcanological
+Society of Japan, <b>40</b>, 13 - 31.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. (1983): Estimation of parameters
+in the modified Omori Formula for aftershock frequencies by the maximum
+likelihood procedure, <i>J. Phys. Earth</i>, <b>31</b>, 115 - 124.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. (1986): Statistical models
+for earthquake occurrences and residual analysis for point processes, <i>Mathematical
+Seismology</i>, <b>1</b>, 228 - 281, Inst. Statist. Math.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. (1988): Statistical models
+for earthquake occurrences and residual analysis for point processes, <i>J.Am.
+Stat. Assoc</i>., <b>83</b>, 9 - 27.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. (1989): Statistical model
+for standard seismicity and detection of anomalies by residual analysis,
+<i>Tectonophysics</i>,
+<b>169</b>,
+159 - 174.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. (1992): Detection of precursory
+relative quiescence before great earthquakes through a statistical model,
+<i>J.
+Geophys. Res</i>., <b>97</b>, 19845 - 19871.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. (1994): Seismological application
+of statistical methods for point- process modeling, in <i>Proceedings of
+the first US/Japan conference on Frontiers of&nbsp; Statistical Modeling</i>,
+ed. H. Bozdogan, 37 - 163, Kluwer Academic Publishers, Dordrecht.</font></font>
+<p><font face="Century"><font size=+0>Ogata, Y. and K. Shimazaki (1984):
+Transition from aftershock to normal activity, <i>Bull. Seismol. Soc.Am</i>.,
+<b>74</b>,
+1757 - 1765.</font></font>
+<p><font face="Century"><font size=+0>Okada, Masami (1979): Statistical
+distribution of the difference in magnitude between the main shock and
+its largest aftershock, Zisin, 2, <b>32</b>, 463 - 476</font></font>
+<p><font face="Century"><font size=+0>Omori, F. (1894): On the aftershocks
+of earthquakes, <i>J. Coll. Sci. Imp. Univ. Tokyo</i>, <b>7</b>, 111-200.</font></font>
+<p><font face="Century"><font size=+0>Omori, F. (1894): On aftershocks,
+Report by the Earthquake Investigation Committee, <b>2</b>, 103 - 139,
+in Japanese.</font></font>
+<p><font face="Century"><font size=+0>Ohtani, Tomo, Tatsuo Sekiguchi, Kazumasa
+Haraguchi (1993): Development of the volcanic landform data-base, Programme
+and Abstracts the Volcanological Society of Japan, No. 2, 30.</font></font>
+<p><font face="Century"><font size=+0>Ono, Koji, Tatsunori Soya, Koji Mimura
+(1981): Volcanoes of Japan (second edition), Geological Survey of Japan.</font></font>
+<p><font face="Century"><font size=+0>Reasenberg, P.A. and L.M. Jones (1989):
+Earthquake hazard after a mainshock in California, Science, <b>243</b>,
+1173 - 1176.</font></font>
+<p><font face="Century"><font size=+0>Reasenberg P.A. and L.M. Jones (1994):
+Earthquake aftershocks: update, <i>Science</i>, <b>265</b>, 1251 - 1252.</font></font>
+<p><font face="Century"><font size=+0>Seino, Masaaki, Akio Yoshida and
+Toshikazu Odaka (1995): On the relations between the occurrence of inland
+earthquakes and the volcanic regions, Abstracts 1995 Japan Earth and Planetary
+Science Joint Meeting, 291.</font></font>
+<p><font face="Century"><font size=+0>Seismic Countermeasures Section,
+Shizuoka Prefecture (1993): Basic study of the characteristics of and countermeasures
+to deal with aftershock activity following the occurrence of a Tokai Earthquake,
+135 p.</font></font>
+<p><font face="Century"><font size=+0>Prime Minister's Office (1995): Public
+opinion survey concerning earthquakes, 33 p.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1961): A statistical study
+of the occurrence of aftershocks, <i>Geophys. Mag</i>., <b>30</b>, 521-605.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1969): Aftershocks and
+earthquake statistics (1), <i>J. Fac. Sci., Hokkaido Univ.</i>, Ser. 7,
+<b>2</b>,
+129- 195.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1970): Aftershocks and
+earthquake statistics (2), <i>J. Fac. Sci., Hokkaido Univ.</i>, Ser. 7,
+<b>3</b>,
+197 - 266.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1957): Magnitudes of earthquakes
+and occurrence of their aftershocks, Zisin, 2, <b>10</b>,35 - 45.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1964): Magnitude distribution
+of earthquakes with special consideration to aftershock activities, <i>Quarterly
+Journal of Seismology</i>, <b>28</b>, 129 - 136.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1969): Some problems of
+the distribution of earthquakes in time (part 1) - distributions of frequency
+and time interval of earthquakes, <i>Geophys. Bull.</i></font></font>
+<br><font face="Century"><font size=+0>Hokkaido Univ., <b>22</b>, 73 -
+94.</font></font>
+<p><font face="Century"><font size=+0>Utsu, T. (1969): Some problems of
+the distribution of earthquakes in time(part 2) - stationarity and randomness
+of earthquake occurrence, <i>Geophys. Bull. </i>Hokkaido Univ.J., <b>22</b>,
+95 - 108.</font></font>
+<p><font face="Century"><font size=+0>Utsu T., Y. Ogata and R.S. Matsu'ura
+(1995): The centenary of the Omori formula for a decay law of aftershock
+activity,
+<i>J. Phys. Earth</i>, <b>43</b>, 1 - 33.</font></font>
+<br>&nbsp;
+<p><font face="Century"><font size=+0><a href="#Content">Back to content</a></font></font>
+<p>
+<hr WIDTH="100%">
+<br><font size=+1><a href="../welcome-e.htm">Back to HomePage</a></font>
+</body>
+</html>

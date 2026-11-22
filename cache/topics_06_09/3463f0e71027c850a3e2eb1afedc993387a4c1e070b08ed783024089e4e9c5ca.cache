@@ -1,0 +1,2907 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script>
+    if (self !== top) {
+      top.location = self.location;
+    } 
+  </script>
+
+  <title>Family Reunification and Support | ASPR TRACIE</title>
+  
+  <!-- links -->
+  <link href="/css/bootstrap-4.6.2.min.css" rel="stylesheet" />
+  <link href="/fa/css/all.min.css" rel="stylesheet" />
+  <link href="/assets/css/co-brandedheader.css?v=T32uf47zJ3GWL2pVWUsKDcSjh71txRqXTZiyEnEFXu0" rel="stylesheet" />
+  <link href="/assets/css/site.css?v=asctjVvREBY2t67fSU-WxcgMaoxKqKH28apyAmRNWZI" rel="stylesheet" />
+  <link href="/assets/css/site-dashtool.css?v=lxICfpVO9J7DrMzYD8PLjFJpajt1Rsa3PzPhgCKHaZ4" rel="stylesheet" />
+  <link href="/assets/css/styles.min.css?v=gqag0_iozh4OQdtZL8ycK3uGqzBIryo0sY9HhdZyPJU" rel="stylesheet" />
+  
+  <link rel="canonical" href="https://asprtracie.hhs.gov/technical-resources/64/family-reunification-and-support/0" />
+  
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" href="/images/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon.png" />
+  <script src="/js/jquery-3.7.1.min.js"></script>
+    <script>
+      (function () {
+        window.TracieAwsWafConfig = window.TracieAwsWafConfig || {};
+        window.TracieAwsWafConfig.apiKey = "QFNCSQMNwsuagokd4FouRP3XrDol5GmU/K50V9iWCpCgGZKh/MFP9/y59Z1OX7P8ASV\u002BDYkrs6JLaKoawkJzfLmaWSwVaJ4EWoMPDFIjb/ghhRexg6O9Ez6Taf8cr8vtaqkj7AEn9/FdbJ0j/FXx3QibCU9XDiz4VtKNmknqKD8LfhAyWIs5VIMy8A7rY5iiFsBKuq0aOfJxM7nf5p8QJpcy9sn\u002BDT/XLJa/1xNs0OvMCmH5JjoJ5Tf5VTcl/oDNAbCd0ZOZEDPC4XXmRDFN0cqpdLqIm/GHezxjchoBOPeCHodZ/nqG2wYe1dkfeExw2ZirX9nJz7VtYZzT1b4ddtvfpCSlLYr/tDlXn0hWXVwlfG17\u002Be9hl7keGlP6RXfdTFhffUe5J3l7vU0Q4tYo5nmdd2Xo7MYJg38cvCXq2ulc8pTzIBqcRqVvBnO7JEuXqzpx9hYbPpgdzHn8abBWIKl5U1B6Bla7Io8MCibMa3vS1jt7lvO/lJjizVQkBPFXuT4f2/caJsLCzZwUBn6gqvVQItDgZVq9t66lQmpdciDTJXHVo2X3z9uwnLtjyKTFvUW0145InbMeuZ183piTJccqM4rMe\u002BYk1ptaCQ661Zc7zdTGOVxB9yWSGU2TLTtyp3H73/IrBlOR43\u002BABbVaWCMhQNqqWhtVnxYpskEGnDc=_1_1";
+
+        var configuredSrc = "https://78f49edab1a0.edge.captcha-sdk.awswaf.com/78f49edab1a0/jsapi.js";
+        var hasRetried = false;
+
+        function appendSdk(src) {
+          var sdk = document.createElement('script');
+          sdk.type = 'text/javascript';
+          sdk.defer = true;
+          sdk.src = src;
+          sdk.onerror = function () {
+            if (!hasRetried && src.indexOf('/challenge.js') > -1) {
+              hasRetried = true;
+              appendSdk(src.replace('/challenge.js', '/jsapi.js'));
+            }
+          };
+          document.head.appendChild(sdk);
+        }
+
+        appendSdk(configuredSrc);
+      })();
+    </script>
+  
+<!-- Google Tag Manager -->
+<script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WLXZ47X');
+  </script>
+<!-- End Google Tag Manager -->  
+  <meta name="theme-color" content="#225476">
+  <meta name="description" content="Search the ASPR TRACIE Resource Library and view tailored Topic Collections comprised of current healthcare system preparedness resources." />
+  
+  <meta property="og:title" content="Family Reunification and Support" />
+  <meta property="og:url" content="https://asprtracie.hhs.gov/technical-resources/64/family-reunification-and-support/0" />
+  <meta property="og:image" content="https://asprtracie.hhs.gov/images/social.jpg" />
+  <meta property="og:description" content="Search the ASPR TRACIE Resource Library and view tailored Topic Collections comprised of current healthcare system preparedness resources." />
+  <meta property="og:site_name" content="ASPR TRACIE" />
+  <meta property="og:type" content="website" />
+  
+  <meta name="twitter:title" content="Family Reunification and Support" />
+  <meta name="twitter:url" content="https://asprtracie.hhs.gov/technical-resources/64/family-reunification-and-support/0" />
+  <meta name="twitter:image" content="https://asprtracie.hhs.gov/images/social.jpg" />
+  <meta name="twitter:description" content="Search the ASPR TRACIE Resource Library and view tailored Topic Collections comprised of current healthcare system preparedness resources." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="facebook-domain-verification" content="xtjww7ookwwgfv0ar3k6iaoejvyslm" />
+</head>
+<body id="top" data-spy="scroll" data-target=".tcMenu" data-offset="1">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLXZ47X"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><header>
+  <div id="hhsCoBrandedHeader">
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable" id="anch_0">Skip to main content</a>
+    </div>
+    <div id="topRow" class="container">
+      <span id="logo">
+        <a href="https://www.hhs.gov/" id="anch_1" class="cobranded-style">HHS
+          <span class="gov">.gov</span>
+        </a>
+      </span>
+      <span id="site-name"><a href="https://www.hhs.gov/">U.S. Department of Health &amp; Human Services</a></span>
+    </div>
+  </div>
+<div id="headerTR" class="container-fluid">
+<div class="container">
+<div id="headerSection" class="d-flex flex-row header">
+  <div class="trlogo-box">
+    <a href="/">
+      <div id="trLogo"><img class="img-fluid" src="/images/TRACIE-logo.svg" width="281" height="107.83" alt="ASPR TRACIE Logo. Healthcare Emergency Preparedness Information Gateway." id="logoimage"/></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12 nav-container">
+    <!-- NAVBAR -->
+    
+<nav class="navbar navbar-expand-xl navbar-dark align-self-end align-items-end w-100 main-bar" id="mainNav" >
+<div class="container">
+<!-- mobile menu controllers -->
+<span class="navbar-brand d-xl-none js-scroll-trigger nav-item-mobile">MENU</span>
+<div class="d-xl-none ml-auto">
+  <button id="mobileSearchButton" class="navbar-toggler ml-auto navbar-mobile-search" type="button" data-toggle="collapse" data-target="#navbarSearchMobile" aria-controls="navbarSearchMobile" aria-label="Toggle navigation">
+    <i class="fal fa-search fa-search-nav"></i>
+  </button>
+  <button id="mobileMenuButton" class="navbar-toggler navbar-toggler-right ml-auto" type="button" data-toggle="collapse" data-target="#navbarContentMain" aria-controls="navbarContentMain" aria-label="Toggle navigation">
+    <i class="fal fa-bars navbar-menu"></i>
+  </button>
+</div>
+<!-- mobile menu toolbar (hamburger and search) -->
+<div class="d-xl-none collapse navbar-collapse" id="navbarSearchMobile">
+  <div class="d-xl-none nav-item">
+    <div class="d-xl-none row p-0">
+      <div class="d-xl-none col-md-12 navbar-row-search">
+        <form action="/mastersearch" name="navsearchform" id="navsearchform" method="post" autocomplete="off">
+          <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5Sw0-_wE-8QMVsaMgKOeOIoLRJSBmT7yLbmRMVIlIR3MN59ZYJPybL0MhAJgi_CUtDHotgsHzC13BUGsxBnzLjcd7EoFaozy2TIHaOndvBAwdKk47SaJKbzUjxB41R71BK0" />
+          <div class="d-xl-none d-flex flex-row ml-2 align-items-baseline menu-title-block">
+            <label for="search_mobile" class="sr-only">Search</label>
+            <input type="search" class="form-control" id="search_mobile" name="search_mobile"  placeholder="Search the Resource Library" autocomplete="off">
+            <button type="submit" class="btn btn-default" onclick="checkmobilesearch(this)" >SEARCH</button>
+
+          </div> <!-- Close class=page-title-block -->
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="collapse navbar-collapse" id="navbarContentMain">
+<!-- Navbar content desktop view -->
+<ul class="navbar-nav">
+  
+  <!-- HOME -->
+  <li class="d-none d-xl-block nav-item dropdown position-static">
+    <a class="nav-link" href="/" id="HOMENavItemBtn">HOME 
+    </a>
+  </li>
+
+  <!-- TR -->
+  <li class="d-none d-xl-block nav-item dropdown position-static" id="TrNavItem">
+    <a class="nav-link nav-item-active" id="TRNavItemBtn" href="/technical-resources" role="button" aria-haspopup="true" aria-controls="navbardropdownmegatr" aria-expanded="false">
+      TECHNICAL RESOURCES
+      <i class="fas fa-chevron-down"></i>
+        <span class="sr-only">(current)</span>
+    </a>
+    <ul class="dropdown-menu w-100 shadow" id="navbardropdownmegatr" role="menu">
+      <li class="dropdown-item" role="menuitem">
+        <div class="row">
+          <div class="col col-percent-30">
+            <div class="title-section">
+              <div class="d-flex flex-row align-items-center menu-title-block">
+
+                <div class="menu-cross-icon">
+                  <img src="/images/TR-cross.svg" alt="TR Icon">
+                </div>
+                <div class=" p-2 menu-title"><a href="/technical-resources">Technical Resources (TR)</a></div>
+
+              </div> <!-- Close class=page-title-block -->
+              <p>A self-service collection of disaster medical, healthcare, and public health preparedness materials,
+                searchable by keywords and functional areas.</p>
+            </div>
+          </div>
+          <div class="col">
+            <div class="row">
+              <div class="col-md-4 pb-2 pl-0 pr-0 col-percent-28">
+                <div class="sub-title-section">
+                  <div class="menu-sub-title">Quick Links</div>
+                  <ul class="menu-list">
+                    <li><a href="/technical-resources">Search the Resource Library</a></li>
+                    <li><a href="/technical-resources/topic-collection">Access Topic Collections</a></li>
+                    <li><a href="/tracie-resources"> Review ASPR TRACIE-Developed Resources</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col pb-2">
+                <div class="sub-title-section">
+                  <div class="menu-sub-title">Resource Pages</div>
+                  <div class="row">
+                    <div class="col-md-6">
+                      <ul class="menu-list">
+                        <li><a href="/cbrn-resources">CBRN</a></li>
+                        <li><a href="/crests">Clinical Resources for Emergency Shortages of Treatments and Supplies (CRESTS)</a></li>
+                        <li><a href="/cmsrule">CMS EP Rule</a></li>
+                        <li><a href="/conflict">Countries Experiencing Conflict</a></li>
+                        <li><a href="/csc">Crisis Standards of Care</a></li>
+                        <li><a href="/cybersecurity">Cybersecurity</a></li>
+                        <li><a href="/dash-tool">DASH Tool</a></li>
+                        <li><a href="/HVA">Data Sources for Hazard Vulnerability Assessments (HVAs)</a></li>
+                      </ul>
+                    </div>
+                    <div class="col-md-6">
+                      <ul class="menu-list">
+                        <li><a href="/dbh-resources">Disaster Behavioral Health</a></li>
+                        <li><a href="/ems">EMS</a></li>
+                        <li><a href="/hcc-resources">Healthcare Coalitions</a></li>
+                        <li><a href="/surge-partners">Healthcare Partners and Medical Surge</a></li>
+                        <li><a href="/HRROG">Hospital Readiness and Response: An Online Guidebook</a></li>
+                        <li><a href="/hurricane-resources">Hurricanes</a></li>
+                        <li><a href="/infectious-disease">Infectious Diseases</a></li>
+                        <li><a href="/mass-violence">Mass Violence</a></li>
+                        <li><a href="/MOCC">Medical Operations Coordination Centers (MOCCs)</a></li>
+                        <li><a href="/TRACIE-MRC">Medical Reserve Corps</a></li>
+                        <li><a href="/monkeypox">Mpox</a></li>
+                        <li><a href="/pediatric-surge">Pediatric Surge</a></li>
+
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </li>
+
+  <!-- AC -->
+  <li class="d-none d-xl-block nav-item dropdown position-static" id="ACNavItem">
+    <a class="nav-link" id="ACNavItemBtn" href="/assistance-center" role="button" aria-haspopup="true" aria-controls="navbardropdownmegaac" aria-expanded="false">
+      ASSISTANCE CENTER
+      <i class="fas fa-chevron-down"></i>
+    </a>
+    <ul class="dropdown-menu w-70 shadow p-0" id="navbardropdownmegaac" role="menu">
+      <li class="dropdown-item" role="menuitem">
+        <div class="row">
+          <div class="col-md-5 p-0">
+            <div class="title-section">
+              <div class="d-flex flex-row align-items-center menu-title-block">
+                <div class="menu-cross-icon">
+                  <img src="/images/AC-cross.svg" alt="AC Icon">
+                </div>
+                <div class="p-2 menu-title"><a href="/assistance-center">Assistance Center (AC)</a></div>
+              </div> <!-- Close class=page-title-block -->
+              <p>Provides access to Technical Assistance Specialists for one-on-one support.</p>
+            </div>
+          </div>
+          <div class="col-md-7">
+            <div style="height: 50px;"></div>
+            <div class="sub-title-section align-items-start">
+              <ul class="menu-list">
+                <li><a href="/assistance-center">Request Technical Assistance</a></li>
+                <li><a href="/technical-resources/95/select-aspr-tracie-ta-responses/46">Review Select Technical Assistance Responses</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </li>
+    </ul>
+
+  </li>
+  <!-- IE -->
+  <li class="d-none d-xl-block nav-item dropdown position-static" id="IENavItem">
+      <a class="nav-link" id="IENavItemBtn" href="/information-exchange" role="button" aria-haspopup="true" aria-controls="navbardropdownmegaie" aria-expanded="false">
+        INFORMATION EXCHANGE
+        <i class="fas fa-chevron-down"></i>
+      </a>
+
+    <ul class="dropdown-menu w-50 shadow p-0" id="navbardropdownmegaie">
+      <li class="dropdown-item">
+        <div class="row">
+          <div class="col-md-12 pb-2 p-0">
+            <div class="title-section">
+              <div class="d-flex flex-row align-items-baseline menu-title-block">
+                <div class="menu-cross-icon">
+                  <img src="/images/IE-cross.svg" alt="IE Icon">
+                </div>
+                  <div class="p-2 menu-title"><a href="/information-exchange">Information Exchange (IE)</a></div>
+              </div> <!-- Close class=page-title-block -->
+              <p>A user-restricted, peer-to-peer discussion board that allows open discussion in near-real time.</p>
+              <a href="/register">Register for the Information Exhange</a>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </li>
+
+  <!-- SEARCH -->
+  <li class="d-none d-xl-block nav-item dropdown position-static"  id="SearchNavItem">
+    <a class="nav-link dropdown-toggle" id="SearchNavItemBtn" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <i class="fal fa-search nav-search"></i>
+      <span class="sr-only">Search</span>
+    </a>
+    <ul class="dropdown-menu col-percent-40 shadow p-0" id="navbardropdownmegasearch">
+      <li class="dropdown-item">
+        <div class="row p-0">
+          <div class="col-md-12 p-0">
+            <form action="/mastersearch" name="massearchform" id="massearchform" method="post" autocomplete="off">
+              <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5Sw0-_wE-8QMVsaMgKOeOIoLRJSBmT7yLbmRMVIlIR3MN59ZYJPybL0MhAJgi_CUtDHotgsHzC13BUGsxBnzLjcd7EoFaozy2TIHaOndvBAwdKk47SaJKbzUjxB41R71BK0" />
+              <div class="d-flex flex-row ml-2 align-items-baseline menu-title-block">
+                <label class="sr-only" for="search_nav">Search</label>
+                <input type="search" class="form-control" id="search_nav" name="search_nav" placeholder="Search ASPR TRACIE" autocomplete="off">
+                <button type="submit" class="btn btn-default" onclick="checknavsearch(this)">SEARCH</button>
+              </div> <!-- Close class=page-title-block -->
+            </form>
+          </div>
+        </div>
+
+      </li>
+    </ul>
+  </li>
+</ul>
+<!-- REGISTER/LOGIN -->
+  <ul id="navuserbox" class="d-none d-xl-block navbar-user ml-auto nav-item-xl">
+    <li >
+      <div class="navuser">
+        <a href="/register" id="register" role="button">REGISTER</a>
+        <a href="/login" id="login" role="button">LOGIN</a>
+      </div>
+    </li>
+  </ul>
+
+
+<!-- Navbar content mobile view -->
+<ul class="navbar-nav-mobile d-xl-none">
+  <!-- REGISTER/LOGIN mobile view -->
+  <li class="nav-item d-xl-none">
+    <div class="d-flex flex-row justify-content-center navuser-mobile align-items-center">
+      <div class="col-5 reg-login-box-mobile pr-0"><a href="/register" id="registerMobile" role="button">REGISTER</a></div>
+      <div class="col-2 reg-login-box-mobile p-0">|</div>
+      <div class="col-5 reg-login-box-mobile pl-0"><a href="/login" id="loginMobile" role="button">LOGIN</a></div>
+    </div>
+  </li>
+  <!-- HOME  mobile view-->
+  <li class="nav-item  d-xl-none nav-item-mobile-list">
+    <a class="nav-link-mobile-home" href="/">HOME<span class="sr-only"></span></a>
+  </li>
+  <!-- TR mobile view-->
+  <li class="nav-item position-static d-xl-none nav-item-mobile-list">
+
+    <div class="d-flex flex-row align-items-center menu-title-block-mobile">
+      <div class="menu-cross-icon-mobile">
+        <a href="/technical-resources"><img src="/images/TR-cross-mobile@2x.png" alt="TR Icon" /></a>
+      </div>
+      <div class="p-2 menu-title-mobile"><a class="text-white" href="/technical-resources">Technical Resources (TR)</a></div>
+    </div> <!-- Close class=page-title-block -->
+
+    <div class="menu-section-mobile">
+      <div>
+        <a class="title-section-mobile" href="#" role="button" data-toggle="collapse"
+           data-target="#trSection1" aria-expanded="false" aria-controls="trSection1">
+          Quick Links
+          <i class="fal fa-angle-right"></i>
+          <!-- <span class="fa-more"></span>
+          <span class="sr-only">See more</span> -->
+
+        </a>
+      </div>
+      <div class="collapse multi-collapse" id="trSection1">
+        <div class="row">
+          <div class="sub-title-section-mobile">
+            <ul class="menu-list-mobile">
+              <li><a href="/technical-resources">Search the Resource Library</a></li>
+              <li><a href="/technical-resources/topic-collection">Access Topic Collections</a></li>
+              <li><a href="/tracie-resources"> Review ASPR TRACIE Resources</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="menu-section-mobile">
+      <div>
+        <a class="title-section-mobile" href="#" role="button" data-toggle="collapse"
+           data-target="#trSection2" aria-expanded="false" aria-controls="trSection2">
+          Resource Pages
+          <i class="fal fa-angle-right"></i>
+        </a>
+      </div>
+      <div class="collapse multi-collapse" id="trSection2">
+        <div class="row">
+          <div class="sub-title-section-mobile">
+            <ul class="menu-list-mobile">
+              <li><a href="/cbrn-resources">CBRN</a></li>
+              <li><a href="/crests">Clinical Resources for Emergency Shortages of Treatments and Supplies (CRESTS)</a></li>
+              <li><a href="/cmsrule">CMS EP Rule</a></li>
+              <li><a href="/conflict">Countries Experiencing Conflict</a></li>
+              <li><a href="/csc">Crisis Standards of Care</a></li>
+              <li><a href="/cybersecurity">Cybersecurity</a></li>
+              <li><a href="/dash-tool">DASH Tool</a></li>
+              <li><a href="/HVA">Data Sources for Hazard Vulnerability Assessments (HVAs)</a></li>
+              <li><a href="/dbh-resources">Disaster Behavioral Health</a></li>
+              <li><a href="/ems">EMS</a></li>
+              <li><a href="/hcc-resources">Healthcare Coalitions</a></li>
+              <li><a href="/surge-partners">Healthcare Partners and Medical Surge</a></li>
+              <li><a href="/HRROG">Hospital Readiness and Response: An Online Guidebook</a></li>
+              <li><a href="/hurricane-resources">Hurricanes</a></li>
+              <li><a href="/infectious-disease">Infectious Diseases</a></li>
+              <li><a href="/mass-violence">Mass Violence</a></li>
+              <li><a href="/MOCC">Medical Operations Coordination Centers (MOCCs)</a></li>
+              <li><a href="/TRACIE-MRC">Medical Reserve Corps</a></li>
+              <li><a href="/monkeypox">Mpox</a></li>
+              <li><a href="/pediatric-surge">Pediatric Surge</a></li>
+             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  </li>
+  <!-- AC mobile view -->
+  <li class="nav-item position-static d-xl-none nav-item-mobile-list">
+    <div class="d-flex flex-row align-items-center menu-title-block-mobile">
+      <div class="menu-cross-icon-mobile">
+        <a href="/technical-resources"><img src="/images/AC-cross-mobile@2x.png" alt="AC Icon" /></a>
+      </div>
+      <div class="p-2 menu-title-mobile"><a class="text-white" href="/assistance-center">Assistance Center (AC)</a></div>
+    </div> <!-- Close class=page-title-block -->
+    <div class="menu-section-mobile">
+      <div class="menu-section-item-mobile">
+        <a class="title-section-mobile" href="/assistance-center">Request Technical Assistance *</a>
+      </div>
+      <div class="menu-section-item-mobile">
+        <a class="title-section-mobile" href="/technical-resources/95/select-aspr-tracie-ta-responses/46">Review Select Technical Assistance Responses</a>
+      </div>
+    </div>
+  </li>
+  <!-- IE mobile view -->
+  <li class="nav-item position-static d-xl-none nav-item-mobile-list-last">
+    <div class="d-flex flex-row align-items-center menu-title-block-mobile">
+      <div class="menu-cross-icon-mobile">
+        <a href="/technical-resources"><img src="/images/IE-cross-mobile@2x.png" alt="IE Icon" /></a>
+      </div>
+
+          <div class=" p-2 menu-title-mobile"><a class="text-white" href="/information-exchange">Information Exchange (IE)</a></div>
+
+    </div> <!-- Close class=page-title-block -->
+    <div class="menu-section-mobile">
+      <div class="menu-section-item-mobile">
+        <a class="title-section-mobile" href="/register">Register for the Information Exhange</a>
+      </div>
+    </div>
+  </li>
+
+</ul>
+
+</div>
+
+<!-- Navbar content mobile view -->  
+</div>
+</nav>
+<script>
+ function checknavsearch(obj)
+ {
+   
+   if(obj === undefined || obj === null)
+   {
+      console.log("Variable is either null or undefined");
+   }
+   else
+   {
+  
+      var searchvalue = document.getElementById("search_nav").value;
+      if(searchvalue == '')
+      {
+            event.preventDefault();
+            event.stopPropagation();
+      }
+   }
+ 
+ } 
+function checkmobilesearch(obj)
+ {
+   if(obj === undefined || obj === null)
+   {
+      console.log("Variable is either null or undefined");
+   }
+   else
+   {
+  
+      var searchvalue = document.getElementById("search_mobile").value;
+      if(searchvalue == '')
+      {
+            event.preventDefault();
+            event.stopPropagation();
+      }
+   }
+ 
+ } 
+
+
+    $("#HOMENavItemBtn").focus(function(e) {
+      SetFocus("home", false);
+    });
+    
+    $("#TRNavItemBtn").focus(function(e) {
+      SetFocus("tr", true);
+    });
+
+    $("#ACNavItemBtn").focus(function(e) {
+      SetFocus("ac", true);
+    });
+
+    $("#IENavItemBtn").focus(function(e) {
+      SetFocus("ie", true);
+    });
+
+    $("#SearchNavItemBtn").focus(function(e) {
+      SetFocus("search", true);
+    });
+
+    $("#register").focus(function(e) {
+      SetFocus("register", false);
+    });
+
+    $("#login").focus(function(e) {
+      SetFocus("login", false);
+    });
+
+    function SetFocus(area, show) {
+      var areas = ["home", "ac", "tr", "ie", "search", "login", "register"];
+      for (var i = 0; i < areas.length; i++) {
+        var areaId = 'navbardropdownmega' + areas[i];
+        var btnId = areas[i].toUpperCase() + "NavItemBtn";
+        if (areas[i] === area) {
+
+          if (show === true) {
+            $("#" + areaId).show();
+            $("#" + btnId).attr('aria-expanded', 'true');
+          }
+        } else {
+          $("#" + areaId).hide();
+          $("#" + btnId).attr('aria-expanded', 'false');
+        }
+      }
+    }
+
+
+
+
+ // $('.navbar-nav>li>a').on('click', function(e) {
+//    var menuItem = $(e.currentTarget);
+//    if (menuItem.attr( 'aria-expanded') === 'true') {
+//      $(this).attr( 'aria-expanded', 'false');
+//    } else {
+//      $(this).attr( 'aria-expanded', 'true');
+//    }
+    
+    //var areaState = this.id.attr('area-expanded');
+    //$("button").attr("aria-expanded","true");
+    //$(this.attr('aria-expanded')));
+    //$('.nav-item').removeClass('active');
+    //e.preventDefault();
+    
+//    $('#navbardropdownmegaac').attr('aria-expanded', 'false');
+//  });
+  
+//  $('.navbar-nav > li').mouseover( function(){
+//    $(this).find('a').tab('show');
+//  });
+//  $('#IENavItem').mouseout( function() {
+//
+//    $('#navbardropdownmegaie').attr("aria-expanded", "false");
+//    navbardropdownmegaie
+//    $(this).find('a').tab('hide');
+//  });
+//  $('.navbar-nav .nav-item').click(function(e) {
+//    $('.nav-item').removeClass('active');
+//    alert(this.text);
+//    var $this = $(this);
+//    if(!$this.hasClass('active')){
+//      $this.addClass('active');
+//    }
+//    e.preventDefault();
+//  });
+//  
+//  $('.nav-item').on('shown.bs.tab', 'a', function (e) {
+//    if (e.relatedTarget) {
+//      $(e.relatedTarget).removeClass('active');
+//    }
+//  })
+  
+</script>
+
+    <!-- END NAVBAR -->
+  </div>
+</div>
+</div>
+
+</div> <!-- end header Main -->
+</header>
+
+<main id="main-content" class="pb-3">
+    <link href="/assets/css/TopicCollectionPrint.min.css" rel="stylesheet" media="print">
+
+<div class="container page-content">
+
+<input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5Sw0-_wE-8QMVsaMgKOeOIoLRJSBmT7yLbmRMVIlIR3MN59ZYJPybL0MhAJgi_CUtDHotgsHzC13BUGsxBnzLjcd7EoFaozy2TIHaOndvBAwdKk47SaJKbzUjxB41R71BK0" />
+
+    <div id="printimageblock">
+      <img src="/images/tc-cover23.jpg" alt="Topic Collection Cover Page">
+      <div class="text-block">
+
+        <p class="topicprint">
+          Family Reunification and Support<br/>Topic Collection<br/>
+October 28, 2026        </p>
+
+      </div>
+    </div>
+  
+  
+  <section class="d-flex flex-row align-items-center" style="justify-content: space-between; flex-wrap: wrap; padding-bottom: 20px;">
+    <h1 class="page-title" style="flex: 1; min-width: 0;">Topic Collection: Family Reunification and Support</h1>
+    
+  </section>
+  
+  <style>
+    @media (max-width: 768px) {
+      .mrc-logo-container {
+        display: none !important;
+      }
+    }
+  </style>
+
+
+<div class="row">
+    <ol id="breadcrumb" class="breadcrumb">
+        <li><a href="/technical-resources">Technical Resources</a></li>
+                <li class="active">Family Reunification and Support</li>
+    </ol>
+</div>
+<p>Disasters and mass casualty incidents can strike at any time, separating families and friends from their loved ones or displacing them for long periods of time. Some patients will not survive, and family notification and support must be provided. Patient tracking and family reunification and support services are key aspects of disaster response and recovery, but also some of the most challenging. Hospital-based family support actions and centers must also integrate activities and referrals with community-based resources and Family Assistance Centers. </p><p>The documents, case studies, templates, and systems outlined in this Topic Collection will help stakeholders better understand and fulfill their roles. Healthcare preparedness planners can utilize existing systems and concepts traditionally used by other response agencies and reunification agencies. This Topic Collection was refreshed in November 2022.</p><p><strong>Please note:</strong> Pediatric and family resources are considered integrated, therefore, there is no separate sub-category in this Topic Collection specific to pediatrics. <br><br>Each resource in this Topic Collection is placed into one or more of the following categories (click on the category name to be taken directly to that set of resources). Resources marked with an asterisk (*) appear in more than one category.</p>
+
+<div id="TrNavMenu" class="sticky-top page-sections-menu">
+        <div class="flex-row page-sections-menu-row">
+          <div class="d-flex col-12 page-sections-menu-title justify-content-center">
+            <a href="#" id="MenuBtn" title="Open/Close Topic Collection Menu" role="button" data-toggle="collapse" data-target="#Menu"
+              aria-expanded="true" aria-controls="Menu">
+              <h2 class="page-sections-menu-title">Sections Navigation<span id="trNavSectionName"></span></h2>
+              <i id="trMenuButton" class="fal fa-minus-circle"></i>
+              <span class="sr-only">Toggle Open/Close</span>
+            </a>
+          </div>
+        </div>
+        <div class="row collapse show tcMenu" id="Menu">
+          <div class="col-4 page-section-items">
+            <div class="page-section-item"><a class="list-group-item" href="#must-reads"><div class="menu-item-text">Must Reads</div></a></div><div class="page-section-item"><a class="list-group-item" href="#family-assistance-centers-fac"><div class="menu-item-text">Family Assistance Centers (FAC)</div></a></div><div class="page-section-item"><a class="list-group-item" href="#general-resources"><div class="menu-item-text">General Resources</div></a></div></div><div class="col-sm-4 col-xs-12 page-section-items"><div class="page-section-item"><a class="list-group-item" href="#guidance-documents"><div class="menu-item-text">Guidance Documents</div></a></div><div class="page-section-item"><a class="list-group-item" href="#lessons-learned-case-studies"><div class="menu-item-text">Lessons Learned /Case Studies</div></a></div><div class="page-section-item"><a class="list-group-item" href="#plans-tools-and-templates"><div class="menu-item-text">Plans, Tools, and Templates</div></a></div></div><div class="col-sm-4 col-xs-12 page-section-items"><div class="page-section-item"><a class="list-group-item" href="#reunification-systems"><div class="menu-item-text">Reunification Systems</div></a></div><div class="page-section-item"><a class="list-group-item" href="#trainings-webinars"><div class="menu-item-text">Trainings/Webinars</div></a></div><div class="page-section-item"><a class="list-group-item" href="#agencies-and-organizations"><div class="menu-item-text">Agencies and Organizations</div></a></div>
+          </div>
+        </div>
+    </div>
+    <div id="TrNavMenuMobile" class="page-sections-menu">
+        <div class="flex-row page-sections-menu-row">
+          <div class="d-flex col-12 page-sections-menu-title justify-content-center">
+            <a href="#" id="MenuBtnMobile" title="Open/Close Topic Collection Menu" role="button" data-toggle="collapse" data-target="#MenuMobile"
+              aria-expanded="false" aria-controls="Menu">
+                <h2 class="page-sections-menu-title">Section Navigation</h2>
+              <i id="trMenuButtonMobile" class="fal fa-plus-circle"></i>
+              <span class="sr-only">Toggle Open/Close</span>
+            </a>
+          </div>
+        </div>
+        <div class="row collapse tcMenu" id="MenuMobile">
+          <div class="col-sm-12 col-md-4 page-section-items">
+            <div class="page-section-item"><a class="list-group-item" href="#must-reads"><div class="menu-item-text">Must Reads</div></a></div><div class="page-section-item"><a class="list-group-item" href="#family-assistance-centers-fac"><div class="menu-item-text">Family Assistance Centers (FAC)</div></a></div><div class="page-section-item"><a class="list-group-item" href="#general-resources"><div class="menu-item-text">General Resources</div></a></div></div><div class="col-sm-4 col-xs-12 page-section-items"><div class="page-section-item"><a class="list-group-item" href="#guidance-documents"><div class="menu-item-text">Guidance Documents</div></a></div><div class="page-section-item"><a class="list-group-item" href="#lessons-learned-case-studies"><div class="menu-item-text">Lessons Learned /Case Studies</div></a></div><div class="page-section-item"><a class="list-group-item" href="#plans-tools-and-templates"><div class="menu-item-text">Plans, Tools, and Templates</div></a></div></div><div class="col-sm-4 col-xs-12 page-section-items"><div class="page-section-item"><a class="list-group-item" href="#reunification-systems"><div class="menu-item-text">Reunification Systems</div></a></div><div class="page-section-item"><a class="list-group-item" href="#trainings-webinars"><div class="menu-item-text">Trainings/Webinars</div></a></div><div class="page-section-item"><a class="list-group-item" href="#agencies-and-organizations"><div class="menu-item-text">Agencies and Organizations</div></a></div>
+          </div>
+        </div>
+    </div>      <div id="must-reads" class="offset">
+        <h2 class="page-section-title">Must Reads </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+American Academy of Pediatrics, in collaboration with Massachusetts General Hospital, Center for Disaster Medicine. (2018).    
+        <a href="https://downloads.aap.org/AAP/PDF/AAP%20Reunification%20Toolkit.pdf?cb=6839" target="_blank" rel="noopener noreferrer">
+            <strong>Family Reunification Following Disasters: A Planning Tool for Health Care Facilities.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This planning tool was created to assist hospitals with their plans to provide information, support services, and safe reunification assistance to family members of patients who have experienced disasters. It provides potential solutions to reunification-related challenges, including: planning for the secure reception, tracking, and care of large numbers of children who may present to a hospital following a mass-casualty event; identifying injured and unaccompanied children in a disaster; tracking unaccompanied children during their hospital stay; and what legal authority a hospital has to administer care to minors when the parent/guardian is unavailable to participate in the informed consent process.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7E7i/ZWzCTSfdFsR0lq8J2aMUHvZYRygOgP6SmRylo0J">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_1_doc_6839" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+ASPR TRACIE. (2025).    
+        <a href="https://asprtracie.hhs.gov/documents/hrrog-family-support.pdf?cb=13286" target="_blank" rel="noopener noreferrer">
+            <strong>Family Support.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This chapter describes the challenges and strategies associated with providing family support processes onsite immediately after a mass casualty incident.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7DaITdqaa24&#x2B;AGX03PH5I6TaYks1dtVHAUhLkR0xY03Z">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_1_doc_13286" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+ASPR TRACIE. (2025).    
+        <a href="https://asprtracie.hhs.gov/documents/aspr-tracie-family-assistance-center-fact-sheet.pdf?cb=12829" target="_blank" rel="noopener noreferrer">
+            <strong>Tips for Healthcare Facilities: Assisting Families and Loved Ones after a Mass Casualty Incident.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This tip sheet highlights best practices and issues related to planning for, activating, and operating hospital or healthcare facility Family Information Centers (FIC)/ Family Support Centers (FSC), in collaboration with Family Reception Centers (FRC) and Family Assistance Centers (FAC).</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7P3LgZG62zFkAl68cONusnXyqXM2pnCNquclHoa6q7pi">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_1_doc_12829" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Federal Emergency Management Agency (FEMA), U.S. Department of Health and Human Services (HHS), American Red Cross (ARC), and National Center for Missing and Exploited Children (NCMEC). (2013).    
+        <a href="https://www.nationalmasscarestrategy.org/wp-content/uploads/2014/07/post-disaster-reunification-of-children-a-nationwide-approach.pdf?cb=678" target="_blank" rel="noopener noreferrer">
+            <strong>Post-Disaster Reunification of Children: A Nationwide Approach.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This guidance document provides a comprehensive overview of the coordination processes necessary to reunify children separated from their parents/legal guardians in the event of a large-scale disaster and reflects how the whole community - to include educational, child care, medical, and juvenile justice facilities, nongovernmental organizations, state, local and federal partners, voluntary and faith based organizations, disability and pediatric experts, and private sector partners can work together to achieve one wide ranging mission. This document can assist in developing new, or apply to existing, emergency preparedness plans and/or reunification procedures.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7MH&#x2B;kHFUrDKjKK1qQAaddD6kRBvZifdKWAFtWWf9EhQd">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_1_doc_678" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Shields, S., Wilson, M., Amara, R., et al. (2013).    
+        <a href="https://file.lacounty.gov/SDSInter/dhs/225665_Check4LocPt.pdf?cb=569" target="_blank" rel="noopener noreferrer">
+            <strong>Family Information Center Planning Guide for Healthcare Entities.</strong>
+        </a>
+
+Los Angeles County Emergency Medical Services Agency (EMS).    
+</div>
+<div class="document-description">
+This guide for healthcare providers describes the elements to develop a family information center (FIC) plan, which includes providing information, support services, and reunification assistance to families of disaster patients. This guide includes activation, management, and demobilization of a FIC, in addition to example forms, diagrams, and needed resources.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7DtQXdQ89IdcJNUiOMGttcRSvInYHQJpCrhx&#x2B;UdpQhQC">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_1_doc_569" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="family-assistance-centers-fac" class="offset">
+        <h2 class="page-section-title">Family Assistance Centers (FAC) </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+Chatham Emergency Management Agency. (2013).    
+        <a href="https://cccdn.blob.core.windows.net/cdn/Files/CEMA/Plans/APP%208-3%20Family%20Assistance%20Center.pdf?cb=4822" target="_blank" rel="noopener noreferrer">
+            <strong>Chatham County Emergency Operations Plan: ESF-08 Annex Appendix 8-3: Family Assistance Center.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This plan includes the county family assistance center concept of operations and protocols for Chatham Emergency Management Agency (Georgia). It addresses roles and responsibilities of the multiple response agencies.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HV1M8A3CXMTd5B/q4f2yHRMYu/JqcWNXgUbq1guX8bx">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_4822" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Commonwealth of Massachusetts. (2017).    
+        <a href="https://www.mass.gov/doc/commonwealth-of-massachusetts-survivor-and-family-assistance-plan/download?cb=11453" target="_blank" rel="noopener noreferrer">
+            <strong>Survivor and Family Assistance Plan.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This document provides information on setting up a location for survivors and families to reunite after a disaster. It gives guidance on planning assumptions, operations, agency responsibilities, family assistance, administration, and authorities.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NyPRz177iO/h5A/UV9M7iDO/wlP5RIJM8EZJCSYTlmG">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_11453" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+County of Monterey Operational Area. (2020).    
+        <a href="https://www.co.monterey.ca.us/home/showpublisheddocument/97643/637393003670300000?cb=11454" target="_blank" rel="noopener noreferrer">
+            <strong>Emergency Operations Plan Annex: Family Assistance Center Plan.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This annex describes the purpose and scope of a family assistance center, and includes information on operations, the incident command system and coordination, communications with elected officials, media, and the public, demobilization, and plan maintenance.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NyPRz177iO/h5A/UV9M7iAeU0oSN8QNgSz/FUQQwsIP">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_11454" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+EMSC Innovation and Improvement Center. (2019).    
+        <a href="https://emscimprovement.center/domains/preparedness/pediatric-disaster-preparedness-toolkit/tracking_reunification/?cb=11455" target="_blank" rel="noopener noreferrer">
+            <strong>Patient Tracking &amp; Family Reunification.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This webpage includes links to resources on setting up a family reception center, coordinating tracking and reunification of children during disasters, and a nationwide approach to reunification.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NyPRz177iO/h5A/UV9M7iDVz0EtW&#x2B;jv1DqchoSazUQZ">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_11455" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Government of the District of Columbia. (n.d.).    
+        <a href="https://asprtracie.hhs.gov/documents/13-family-assistance-center-plan-508.pdf?cb=4469" target="_blank" rel="noopener noreferrer">
+            <strong>District of Columbia Family Assistance Center (FAC) Plan.</strong>
+        </a>
+
+(Accessed 11/23/2022.)     
+</div>
+<div class="document-description">
+This plan--though specific to the District of Columbia--can serve as a mode for others interested in planning to establish a Family Assistance Center after a mass fatality event to provide services to those seeking assistance regarding the status of their loved ones.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HV1M8A3CXMTd5B/q4f2yHQH5j3c/DRDNT36pxqwPxGn">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_4469" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+House, E. (2026).    
+        <a href="https://asprtracie.hhs.gov/documents/hca-hospital-family-support-center-fsc-considerations.pdf?cb=13612" target="_blank" rel="noopener noreferrer">
+            <strong>Hospital Family Support Center (FSC) Considerations.</strong>
+        </a>
+
+HCA Healthcare.    
+</div>
+<div class="document-description">
+Family support center (FSC) operations require the rapid mobilization of personnel, space, and resources to meet the needs of those seeking information about patients or impacted individuals after a mass casualty incident. A concise, well-developed plan is necessary to ensure a structured, compassionate, and efficient response. The considerations in this document can assist hospitals in developing a new—or evaluating an existing—FSC plan.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NyPRz177iO/h5A/UV9M7iASt/0xpYXBu9b0LBh&#x2B;Nplk">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_13612" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+Los Angeles County Office of Emergency Management and Los Angeles County Department of Mental Health. (2014).    
+      <strong>Los Angeles County Operational Area Family Assistance Center Plan (Contact ASPR TRACIE to access this file.).</strong>
+
+    
+</div>
+<div class="document-description">
+This plan provides a framework for the activation, operation, management, and demobilization of a County Operational Area (government-led) family assistance center (FAC) during large scale mass casualty incidents (e.g., earthquakes) and local incidents such as shootings and explosions. The establishment of a FAC can: ensure a place for loved ones to gather information; serve as a coordination spot for first responders; and be a location where emotional support and other types of health support can be provided. (The Los Angeles County Operational Area covers all 88 cities and the unincorporated areas in the county.)</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HV1M8A3CXMTd5B/q4f2yHSWFp/wgF4OsdtiypZ0vBO2">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_4178" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Maine Disaster Behavioral Health. (2014).    
+        <a href="https://mainedisasterbehavioralhealth.com/2016/11/11/familyassistance/?cb=4824" target="_blank" rel="noopener noreferrer">
+            <strong>Family Assistance Center SOP.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This plan includes the family assistance center protocols for Maine Disaster Behavioral Health. It addresses roles and responsibilities of the multiple response agencies, and core and support services.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HV1M8A3CXMTd5B/q4f2yHTM2E3RWYgeynmIRhtRmeB7">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_4824" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Ohio Emergency Management Agency. (n.d.).    
+        <a href="https://ema.ohio.gov/prepare-respond/local-plan-development-guidance/family-assistance-and-victim-identification-centers-planning-guidance?cb=11456" target="_blank" rel="noopener noreferrer">
+            <strong>Family Assistance and Victim Identification Centers Planning Guidance.</strong>
+        </a>
+
+(Accessed 11/22/2022.)     
+</div>
+<div class="document-description">
+This website provides a framework for regional and county coordination to help determine when a family assistance center is needed, provides guidance for victim identification and family reunification, and provides tools for the assistance center implementation. It contains a toolkit and action sheets for these operations.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NyPRz177iO/h5A/UV9M7iApiBSxV0E2PG8TFm7&#x2B;5ZQ1">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_11456" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Texas Children&#x2019;s Hospital. (2019).    
+        <a href="https://media.emscimprovement.center/documents/TCH_FRC_Plan_-_1.24.2019_Approved.pdf?cb=11457" target="_blank" rel="noopener noreferrer">
+            <strong>Texas Children&#x2019;s Hospital Family Reception Center Plan.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This family reception center plan contains information on the scope and assumptions of a reception center, organizational structures, roles and responsibilities, communications, patient tracking, plan development and maintenance, and demobilization after reunification is complete.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NyPRz177iO/h5A/UV9M7iDv3uYiVxnZql4KzFl7zp9k">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_11457" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+U.S. Department of Justice, Federal Bureau of Investigation; and National Transportation Safety Board. (n.d.).    
+        <a href="https://nmvvrc.org/media/tw5lw23j/mass-fatality-incident-family-assistance-operations.pdf?cb=4825" target="_blank" rel="noopener noreferrer">
+            <strong>Mass Fatality Incident: Family Assistance Operations. Recommended Strategies for Local and State Agencies.</strong>
+        </a>
+
+(Accessed 11/23/2022.)     
+</div>
+<div class="document-description">
+This guide was developed for local and state agencies involved in the response to mass fatality events. It provides an overview of the family assistance process and the family assistance center operations as they relate to transportation and criminal incidents.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HV1M8A3CXMTd5B/q4f2yHSnclYwzNo7V7nY27fAO9p4">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_4825" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Washington Military Department. (2012).    
+        <a href="https://mil.wa.gov/uploads/pdf/PLANS/VictimInformationAndFamilyAssistanceAnnex.pdf?cb=4827" target="_blank" rel="noopener noreferrer">
+            <strong>Puget Sound Region. Victim Information and Family Assistance Annex: Regional Catastrophic Disaster Coordination Plan.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This plan provides a framework to facilitate multi-county, regional coordination of situational awareness and response related information for the purpose of determining when a family assistance center (FAC) is needed after a catastrophic incident. It includes several tools (e.g., checklists, templates, and job action sheets) that may be used for planning or response to implement a FAC.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HV1M8A3CXMTd5B/q4f2yHRcNiDZxX0d8cmHYfcMk&#x2B;Pg">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_286_doc_4827" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="general-resources" class="offset">
+        <h2 class="page-section-title">General Resources </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+National Center for Missing and Exploited Children (NCMEC). (2020).    
+        <a href="https://www.missingkids.org/content/dam/missingkids/pdfs/Team%20Adam%20One%20Pager%20FINAL.pdf?cb=425" target="_blank" rel="noopener noreferrer">
+            <strong>Team Adam.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+Team Adam is a program of specially-trained retired law enforcement professionals from the federal, state and local levels. In addition providing technical assistance to law enforcement agencies and families in serious cases of missing children, they also provide support to emergency management agencies, hospitals, and public health agencies in the event that children become separated from their families due to disaster.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7JjOHoS3w0DZA8QyKbCIZ&#x2B;qDVlA1YB1FgbMjdvKSdCW4">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_38_doc_425" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Rebmann, T., Gupta, N., and Charney, R. (2021).    
+        <a href="https://pubmed.ncbi.nlm.nih.gov/33259755/?cb=11460" target="_blank" rel="noopener noreferrer">
+            <strong>US Hospital Preparedness to Manage Unidentified Individuals and Reunite Unaccompanied Minors with Family Members During Disasters: Results from a Nationwide Survey.</strong>
+        </a>
+
+(Abstract only.) Health Security. 19(2):183-194.    
+</div>
+<div class="document-description">
+The authors surveyed Association of Healthcare Emergency Preparedness Professionals to better understand hospital preparedness for reuniting unaccompanied minors with family members after a disaster. Respondents agreed preparedness for family reunification was important, but the survey suggested that just 65.9% of hospitals are prepared to reunite minors with family, while 63.6% had some form of reunification plan. The authors suggest hospitals prioritize development of plans for a scenario where reunification is required.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7DvVYXCXgw2NSpO7haOiP9CuPxXrcI9vP/f8QCTRzfzm">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_38_doc_11460" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="guidance-documents" class="offset">
+        <h2 class="page-section-title">Guidance Documents </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+ASPR TRACIE. (2025).    
+        <a href="https://asprtracie.hhs.gov/documents/hrrog-family-support.pdf?cb=13286" target="_blank" rel="noopener noreferrer">
+            <strong>Family Support.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This chapter describes the challenges and strategies associated with providing family support processes onsite immediately after a mass casualty incident.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7EIP1gQ4D51a60aiMk6JtUsGeQX5HM/btcZBKNYIf65E">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_13286" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+ASPR TRACIE. (2025).    
+        <a href="https://asprtracie.hhs.gov/documents/aspr-tracie-family-assistance-center-fact-sheet.pdf?cb=12829" target="_blank" rel="noopener noreferrer">
+            <strong>Tips for Healthcare Facilities: Assisting Families and Loved Ones after a Mass Casualty Incident.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This tip sheet highlights best practices and issues related to planning for, activating, and operating hospital or healthcare facility Family Information Centers (FIC)/ Family Support Centers (FSC), in collaboration with Family Reception Centers (FRC) and Family Assistance Centers (FAC).</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Iq2N8xf&#x2B;FQhkAhqbDB2KtJojo5g7WltidwA2/zsAfur">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_12829" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Chung, S., Charney, R., West, P., et al. (2022).    
+        <a href="https://pedspandemicnetwork.org/assets/files/ppn-2022-annual-meeting_reunification-aug-25.pdf?cb=11473" target="_blank" rel="noopener noreferrer">
+            <strong>PPN Reunification Domain.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+The speakers explain the goals of the Pediatric Pandemic Network’s Reunification Domain (increase quality and quantity of formal hospital family reunification plans and the creation of a community reunification toolkit). Stakeholder lists and related process diagrams are included that describe future work but can also be used by others interested in creating reunification plans.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Na&#x2B;VoCd292icFIZSnCHKeGpJv413Gm182btPCfF3DoW">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_11473" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+Coyote Crisis Collaborative. (2019).    
+        <a href="https://coyotecampaign.org/documents/?cb=7190" target="_blank" rel="noopener noreferrer">
+            <strong>Documents (Reunification and Hospital Reception Site).</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This webpage includes links to the following documents designed to help staff draft plans related to emergency call management and reunification after a disaster/ mass casualty incident: Emergency Call Center Planning (2016); Family Reunification Center Planning Guide (2017); and Hospital Reception Site Planning Guide (2019).</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7IVvQsF9cYQ9YfYPKbvRcF6G3TbnZolx/dqwIGF/OHxB">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_7190" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+DeBruin, D. (n.d.).    
+        <a href="https://static1.squarespace.com/static/67c0d6dba09682269ccf5285/t/688b8a43678010760088ab76/1753975363584/Ethical&#x2B;Framework&#x2B;for&#x2B;Family&#x2B;Reunification&#x2B;Branded.pdf?cb=13248" target="_blank" rel="noopener noreferrer">
+            <strong>Ethical Framework for Family Reunification.</strong>
+        </a>
+
+(Accessed 11/4/2025.)     
+</div>
+<div class="document-description">
+Mass casualty incidents (MCIs) often result in the separation of children from caregivers due to location or  the chaotic nature of the MCI, making family reunification planning essential. This document provides an ethical framework to guide hospitals and institutions across FEMA Region V in preparing for and responding to reunification needs.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7EIP1gQ4D51a60aiMk6JtUso&#x2B;zxDbWMu4OWdYvnKjkZS">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_13248" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Division for At-Risk Individuals, Behavioral Health, and Community Resilience (ABC). (2017).    
+        <a href="https://aspr.hhs.gov/at-risk/Pages/human-trafficking.aspx?cb=5199" target="_blank" rel="noopener noreferrer">
+            <strong>The Role of Healthcare Providers in Combating Human Trafficking during Disasters.</strong>
+        </a>
+
+U.S. Department of Health and Human Services. Office of the Assistant Secretary for Preparedness and Response.    
+</div>
+<div class="document-description">
+The materials on this webpage can be used by disaster responders and health professionals: understand the relationship between human trafficking and disasters; recognize signs of human trafficking; identify the resources that exist for further training on this topic; and determine next steps if human trafficking is suspected.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7PjUGm6m8Ayx2o/bQ0rAaXxeKZpFsbqdLdh&#x2B;EE26Cjgy">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_5199" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Federal Emergency Management Agency (FEMA), U.S. Department of Health and Human Services (HHS), American Red Cross (ARC), and National Center for Missing and Exploited Children (NCMEC). (2013).    
+        <a href="https://www.nationalmasscarestrategy.org/wp-content/uploads/2014/07/post-disaster-reunification-of-children-a-nationwide-approach.pdf?cb=678" target="_blank" rel="noopener noreferrer">
+            <strong>Post-Disaster Reunification of Children: A Nationwide Approach.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This guidance document provides a comprehensive overview of the coordination processes necessary to reunify children separated from their parents/legal guardians in the event of a large-scale disaster and reflects how the whole community - to include educational, child care, medical, and juvenile justice facilities, nongovernmental organizations, state, local and federal partners, voluntary and faith based organizations, disability and pediatric experts, and private sector partners can work together to achieve one wide ranging mission. This document can assist in developing new, or apply to existing, emergency preparedness plans and/or reunification procedures.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Iy1r/5k6z6mzsZbr1TX1yXiLwDuTOv0NV4Rwi0xNxBe">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_678" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Gubbins, N. and Kaziny, B. (2018).    
+        <a href="https://www.sciencedirect.com/science/article/pii/S1522840118300600?cb=6852" target="_blank" rel="noopener noreferrer">
+            <strong>The Importance of Family Reunification in Pediatric Disaster Planning.</strong>
+        </a>
+
+Clinical Pediatric Emergency Medicine. 19 (3): 252-259.    
+</div>
+<div class="document-description">
+This article briefly reviews the status of pediatric disaster planning; resources to support pediatric disaster planning; and essential components of a family reunification plan, with a focus on children’s needs.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7OQ5QoYvyfrvtcxYhuSytqUlae68Wy2sWtIXPviJGVzq">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_6852" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Mace, S., Sharieff, G., Bern, A., et al. (2010).    
+        <a href="https://pubmed.ncbi.nlm.nih.gov/20701172/?cb=11462" target="_blank" rel="noopener noreferrer">
+            <strong>Pediatric Issues in Disaster Management, Part 2: Evacuation Centers and Family Separation/Reunification.</strong>
+        </a>
+
+(Abstract only.) American Journal of Disaster Medicine. 5(3):149-161.    
+</div>
+<div class="document-description">
+This section of a three-part series on pediatric issues in disaster management covers setting up and maintaining family reunification centers. The authors also cover emergency medical services, healthcare facility considerations, children with special healthcare needs, children’s mental and behavioral health, and hospital or evacuation center surges.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Na&#x2B;VoCd292icFIZSnCHKeF9x47nChcDjPZ8fKP6ZqMA">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_11462" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Maine Department of Health and Human Services. (2018).    
+        <a href="https://www.maine.gov/dhhs/mecdc/public-health-systems/phep/documents/mainecdcallhazfru.pdf?cb=11463" target="_blank" rel="noopener noreferrer">
+            <strong>Disaster Behavioral Health Family Reunification Plan.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This section of the state’s ESF #8 Fatality Management Annex describes how to provide short-term behavioral healthcare (e.g., emotional support, spiritual care, assessments, and referrals) at both a family and friend reunification center and family assistance center after a disaster.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Na&#x2B;VoCd292icFIZSnCHKeFt3boDvranJf6dhS5pRZTh">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_11463" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Reidenberg, J., Gellman, R., Debelak, J., et al. (2013).    
+        <a href="https://www.wilsoncenter.org/publication/privacy-and-missing-persons-after-natural-disasters?cb=355" target="_blank" rel="noopener noreferrer">
+            <strong>Privacy and Missing Persons after Natural Disasters.</strong>
+        </a>
+
+Center on Law and Information Policy, Fordham University School of Law and the Woodrow Wilson International Center for Scholars.    
+</div>
+<div class="document-description">
+The authors identify key legal and policy issues surrounding privacy and missing persons following a disaster and highlights current missing persons information sharing activities during disasters. The authors recommend a set of options and strategies that organizations and policy makers can pursue to address some of the privacy concerns.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7C6nrO3mfC2lq2L2Qrhcdb1GJD7l6UeeytOyTMXGVgZZ">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_355" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+Shields, S., Wilson, M., Amara, R., et al. (2013).    
+        <a href="https://file.lacounty.gov/SDSInter/dhs/225665_Check4LocPt.pdf?cb=569" target="_blank" rel="noopener noreferrer">
+            <strong>Family Information Center Planning Guide for Healthcare Entities.</strong>
+        </a>
+
+Los Angeles County Emergency Medical Services Agency (EMS).    
+</div>
+<div class="document-description">
+This guide for healthcare providers describes the elements to develop a family information center (FIC) plan, which includes providing information, support services, and reunification assistance to families of disaster patients. This guide includes activation, management, and demobilization of a FIC, in addition to example forms, diagrams, and needed resources.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7MJWxPRUE90ku7&#x2B;lnOw/Ivx2wPTLPKbVUkvDRdZhVWGP">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_10_doc_569" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="lessons-learned-case-studies" class="offset">
+        <h2 class="page-section-title">Lessons Learned /Case Studies </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+Barthel, ER., Pierce, JR., Speer, AL., et al. (2013).    
+        <a href="https://www.journalofsurgicalresearch.com/article/S0022-4804(13)00560-X/abstract?cb=106" target="_blank" rel="noopener noreferrer">
+            <strong>Delayed Family Reunification of Pediatric Disaster Survivors Increases Mortality and Inpatient Hospital Costs: A Simulation Study.</strong>
+        </a>
+
+(Abstract Only.) Journal of Surgical Research, 184(1), 430-437.    
+</div>
+<div class="document-description">
+The authors used a mathematical simulation to examine how a delay in admitting and discharging pediatric cohort affects mortality and the cost of inpatient care. The authors note that children are often transported to specialty centers after disasters which leads to separation from the families. The results of the simulation argue for improvement in identification technology and logistics for rapid reunification of pediatric survivors with their families.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7EOUx2xBhGchvSad5biFPGqn8IHpIT6E&#x2B;dbGmThgg7pv">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_71_doc_106" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Broughton, D., Allen, E., Hannemann, R., and Petrikin, J. (2006).    
+        <a href="https://pediatrics.aappublications.org/content/117/Supplement_4/S442.full?cb=175" target="_blank" rel="noopener noreferrer">
+            <strong>Getting 5000 Families Back Together: Reuniting Fractured Families After a Disaster: The Role of the National Center for Missing &amp; Exploited Children.</strong>
+        </a>
+
+Pediatrics, 117(4): 442-445.    
+</div>
+<div class="document-description">
+This article highlights the efforts made by NCMEC post-Katrina to reunify children and their families. Both Project ALERT and Team Adam were utilized along with the help of private organizations.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7EyDhw07bQQK8aC8BpQfZaUQjkz1ZiFPIY0cQw/Ly4zv">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_71_doc_175" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Region V for Kids. (2025).    
+        <a href="https://static1.squarespace.com/static/67c0d6dba09682269ccf5285/t/6883acb87c00d9078d0ef37b/1753459896674/WI_MN&#x2B;Reunification&#x2B;TTX&#x2B;-&#x2B;AAR&#x2B;FINAL.pdf?cb=13246" target="_blank" rel="noopener noreferrer">
+            <strong>Region V for Kids Wisconsin &amp; Minnesota Cross-Border Family Reunification Tabletop Exercise &#x2013; After-Action Report.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+An evaluation team developed this after-action report to highlight how the pediatric surge exercise was carried out. It includes strengths and areas of improvement by capability and concludes with an improvement plan (Appendix A).</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7I15xwCAXpedOZa9Cen0XswjtzeVx2J/0WYZRSKvxmme">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_71_doc_13246" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Richardson, J., Baker, E., Gallagher, H., et al. (2016).    
+        <a href="https://mspgh.unimelb.edu.au/__data/assets/pdf_file/0004/2980228/Richardson-et-al-Separation-and-reunification.pdf?cb=11464" target="_blank" rel="noopener noreferrer">
+            <strong>Separation and Reunification in Disasters.</strong>
+        </a>
+
+Planning for Community-Based Disaster Resilience Worldwide.    
+</div>
+<div class="document-description">
+The authors of this chapter describe the psychosocial considerations related to separation and reunification in disasters, using Australian bushfires as an example. They discuss disaster planning, mental health, patterns of separation, medium- and long-term consequences, methods of reunification, and limitations.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7BPtnSr8H381WE35XsVsqo3gZoeRxqeGZTTRKtSLMpgh">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_71_doc_11464" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Stark, L., MacFarlane, M., Rubenstein, B., et al. (2018).    
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969727/?cb=11465" target="_blank" rel="noopener noreferrer">
+            <strong>Using a Population-Based Survey Approach to Estimate Child Separation After a Natural Disaster: Findings from Post-Hurricane Haiti.</strong>
+        </a>
+
+BMJ Global Health. 3(3):e000784.    
+</div>
+<div class="document-description">
+The authors of this article surveyed households in Haiti after Hurricane Matthew in 2016, with the primary outcome being the prevalence of unaccompanied and separated children in the aftermath. The survey found that 3.03% of the 2,046 children living in the surveyed households were separated from their caregivers, and that the prevalence was similar in respondents' neighbors’ households compared with respondents’ households. Despite child separation being relatively low, the authors emphasize the utility of this survey method during future disasters.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7BPtnSr8H381WE35XsVsqo0zowsbJS5eCpQ8w7lE5zS1">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_71_doc_11465" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="plans-tools-and-templates" class="offset">
+        <h2 class="page-section-title">Plans, Tools, and Templates </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+American Red Cross. (2017).    
+        <a href="https://nationalmasscarestrategy.org/wp-content/uploads/2017/02/ReunificationStandardsandProcedures.pdf?cb=11466" target="_blank" rel="noopener noreferrer">
+            <strong>Reunification Standards and Procedures.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This document contains information on systematic reunification of minors with their caregivers after a disaster. It includes definitions relevant to reunification, roles and authorities, operations structure, standards, procedures, and managing special situations when reunifying families.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Jkw2enfpM16/X4dn7mh6LU2xKQieXLtVuw0oqzg6iKG">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_11466" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+ASPR TRACIE. (2025).    
+        <a href="https://asprtracie.hhs.gov/documents/aspr-tracie-family-assistance-center-fact-sheet.pdf?cb=12829" target="_blank" rel="noopener noreferrer">
+            <strong>Tips for Healthcare Facilities: Assisting Families and Loved Ones after a Mass Casualty Incident.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This tip sheet highlights best practices and issues related to planning for, activating, and operating hospital or healthcare facility Family Information Centers (FIC)/ Family Support Centers (FSC), in collaboration with Family Reception Centers (FRC) and Family Assistance Centers (FAC).</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7D&#x2B;AmneZCw9eBnORDumXTVaR/Y98iQf&#x2B;uE9i5gaYlu4I">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_12829" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Chung, S., Christoudias, C.M., Darrell, T., et al. (2012).    
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/acem.12013/abstract?cb=14" target="_blank" rel="noopener noreferrer">
+            <strong>A Novel Image-based Tool to Reunite Children With Their Families After Disasters.</strong>
+        </a>
+
+Academic Emergency Medicine, 19(11): 1227-1234.    
+</div>
+<div class="document-description">
+This article reports the findings of tests completed to determine the accuracy of various child identification tools.  One tool, “Feature-Attribute-Matching,” extracts facial features from photographs to be matched with a parent's description of their child. The other tool, "User-Feedback," allows parents to choose photographs resembling their child which then reprioritizes the images in the database.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7B2TOuMjgxLceFwtMJ/jYZ0=">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_14" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Corfield, J. and Tanner Health. (2026).    
+        <a href="https://www.centralfladisaster.org/_files/ugd/8d7960_b6430a969abf48e4ab3fe3e72a186784.pdf?cb=13805" target="_blank" rel="noopener noreferrer">
+            <strong>Family and Loved Ones Reunification Process.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+Emergency managers can use this paper-based toolkit to reduce the time it takes to match loved ones with a patient. It includes blank and many pre-scripted sets of (fictional patient) forms, including triage tags, a loved one/next of kin form, a mass casualty patient tracking card , and a reunification information form. The completed sets illustrate the wide range of injuries and situations patients will present during a mass casualty incident.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7CIBYB3QxMBC2OEN20UTj4i5T0R&#x2B;nq8a/4IL/olXw1tx">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_13805" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Corfield, J. and the Central Florida Regional Medical Coalition (CFDMC). (2023).    
+        <a href="https://www.centralfladisaster.org/_files/ugd/8d7960_b4d68bca899043b9b15212e2f1fb363e.docx?dn=CFDMC%20Family%20Reunification%20Plan%20(hospital-specific%20information)%20-%20DRAFT%20v2.3.docx&amp;cb=11151" target="_blank" rel="noopener noreferrer">
+            <strong>Family Reunification and Assistance Center Plan.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+Hospital emergency planners can use this downloadable Word template to develop/update their own plans to create/activate a family reunification and assistance center.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7MnbnG&#x2B;m8QnhJOIgDBexMFgIH&#x2B;ba0uVn2/eNSQkGRkEi">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_11151" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+Coyote Crisis Collaborative. (2019).    
+        <a href="https://coyotecampaign.org/documents/?cb=7190" target="_blank" rel="noopener noreferrer">
+            <strong>Documents (Reunification and Hospital Reception Site).</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This webpage includes links to the following documents designed to help staff draft plans related to emergency call management and reunification after a disaster/ mass casualty incident: Emergency Call Center Planning (2016); Family Reunification Center Planning Guide (2017); and Hospital Reception Site Planning Guide (2019).</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7BPMgeUCubC35MSrSQPIppzwN6mF0qgNuczwan15MVMD">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_7190" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Drawdy, L. and Corfield, J.. (2024).    
+        <a href="https://www.centralfladisaster.org/_files/ugd/8d7960_8dab861f181045818c0ddf1176a3f218.pdf?cb=12647" target="_blank" rel="noopener noreferrer">
+            <strong>Family Reunification Toolkit: A Template to Support Regional Family Reunification.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This toolkit can help healthcare facilities/systems, school districts, and emergency operations centers (EOCs) support family reunification planning activities. It includes four plan templates (EOC Family Reunification/Family Assistance Center Plan; Regional Disaster Medical Coalition Rapid Response Team Plan; Healthcare system/Hospital Family Reunification Plan; School District Family Reunification Plan), and one HSEEP tabletop exercise template.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7LK0f4U6UU&#x2B;KxJz2DQxTrgfylBtNH83eyvnA9n3GF&#x2B;Yk">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_12647" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Hadi, T., Paquet, C., Ullah, N., and  Maldin Morgenthau, B. (2018).    
+        <a href="https://pubmed.ncbi.nlm.nih.gov/30489162/?cb=470" target="_blank" rel="noopener noreferrer">
+            <strong>Using Health Information Exchange to Improve Family Reunification After a Mass Casualty Incident.</strong>
+        </a>
+
+Health Security. 16(6):416-421.    
+</div>
+<div class="document-description">
+This presentation, given at the 2015 Annual Public Health Preparedness Summit, gives an overview of existing family reunification systems, why the New York City Emergency Patient Search (NYCEPS) workgroup recommended to leverage Health Information Exchanges (HIE), and how NYCEPS was developed. Also includes legal and privacy considerations for hospitals and healthcare facilities.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7MUUBM7y5qBJG6t5BReOmzwlMiNzKnMLp0o65ajkjSEQ">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_470" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Los Angeles County. (2022).    
+        <a href="https://dhs.lacounty.gov/emergency-medical-services-agency/home/disaster-programs/exercise-drills/?cb=11468" target="_blank" rel="noopener noreferrer">
+            <strong>Emergency Medical Services Agency Exercises and Drills.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+These exercises can prepare healthcare facilities and emergency medical services to set up a family reunification center while also handling the medical response to a surge in patients. It contains documents and resources for the exercises.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Jkw2enfpM16/X4dn7mh6LVcMFIvDDmSEexLtW5JAGZv">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_11468" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+Los Angeles County Office of Emergency Management and Los Angeles County Department of Mental Health. (2014).    
+      <strong>Los Angeles County Operational Area Family Assistance Center Plan (Contact ASPR TRACIE to access this file.).</strong>
+
+    
+</div>
+<div class="document-description">
+This plan provides a framework for the activation, operation, management, and demobilization of a County Operational Area (government-led) family assistance center (FAC) during large scale mass casualty incidents (e.g., earthquakes) and local incidents such as shootings and explosions. The establishment of a FAC can: ensure a place for loved ones to gather information; serve as a coordination spot for first responders; and be a location where emotional support and other types of health support can be provided. (The Los Angeles County Operational Area covers all 88 cities and the unincorporated areas in the county.)</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HnRLJc7q&#x2B;huA&#x2B;3y2cKizgEWw&#x2B;W6erzJxjbsJVo67vcg">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_4178" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Orlando Health. (2018).    
+        <a href="https://www.orlandohealth.com/campaigns/orlando-health-foreign-national-white-paper?cb=5262" target="_blank" rel="noopener noreferrer">
+            <strong>Questions Every Hospital Must Ask About Whether They&#x2019;re Supporting Their Non-resident/Foreign Citizen Patients.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This white paper is based on the significant experience Orlando Regional Medical Center had after the Pulse Nightclub shooting and can help health care facility emergency planners plan for and better support non-resident/foreign patients in general and after a mass casualty/mass fatality incident.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7CrDVVaooDtkPI7UT4RUZCMPdl/WKKQ29a1CqloUp2mk">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_5262" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">2</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+    <b>*</b>
+Shields, S., Wilson, M., Amara, R., et al. (2013).    
+        <a href="https://file.lacounty.gov/SDSInter/dhs/225665_Check4LocPt.pdf?cb=569" target="_blank" rel="noopener noreferrer">
+            <strong>Family Information Center Planning Guide for Healthcare Entities.</strong>
+        </a>
+
+Los Angeles County Emergency Medical Services Agency (EMS).    
+</div>
+<div class="document-description">
+This guide for healthcare providers describes the elements to develop a family information center (FIC) plan, which includes providing information, support services, and reunification assistance to families of disaster patients. This guide includes activation, management, and demobilization of a FIC, in addition to example forms, diagrams, and needed resources.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7KDpLVx6r5K6gc5nI&#x2B;jXeFgoIjQJe9GNIKkuPc1z9STg">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_569" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">1</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Texas Department of State Health Services. (2016).    
+        <a href="https://www.dshs.texas.gov/sites/default/files/commprep/preparedness/Family-Assistance-Center-Toolkit-2016.pdf?cb=11467" target="_blank" rel="noopener noreferrer">
+            <strong>Family Assistance Center Toolkit.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This toolkit contains documents that can be used by community organizations tasked with setting up a family assistance center. It includes resources on selecting an appropriate site, management team roles, staffing and volunteers, family assistance center components, and steps for demobilization.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Jkw2enfpM16/X4dn7mh6LXCClpwOuGwOpHySGz14Cqo">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_11467" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Twin Cities Metro Area Operation Curtain Call After Action Work Group. (2014).    
+        <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.metrohealthready.org%2Fwp-content%2Fuploads%2F2017%2F10%2FReunification-and-Assistance-Center-FOG-Template.docx&amp;wdOrigin=BROWSELINK&amp;cb=11469" target="_blank" rel="noopener noreferrer">
+            <strong>Template Field Operations Guide for Reunification and Family Assistance.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+Local emergency planners can use this guide to organize field operations for a family assistance center to reunite loved ones after a disaster. It contains a family resource packet, forms for organizing the family assistance center, a reunification organizational chart, and other resources.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7Jkw2enfpM16/X4dn7mh6LX9cNvZxAkP9amwjaHlDkF4">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_11469" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Western Region Homeland Security Advisory Council. (2017).    
+        <a href="https://wrhsac.org/wp-content/uploads/2017/10/Family-Reunification-Plan-Template_FINAL_8-31-17_incl.-appendices-pages-all-portrait.pdf?cb=5196" target="_blank" rel="noopener noreferrer">
+            <strong>Children in Disasters Emergency Preparedness: Family Reunification Plan Template.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This template can be used by any organization (e.g., hospitals, educational institutions, and day care centers) to develop a family reunification plan. It addresses information on topics including reunification protocols, legal authorities, terminology, methods of reunification, and coordination of efforts with key stakeholders.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7EF5a7MxFhspyccnVZfDMjpK&#x2B;PBfIxfWa&#x2B;I/jrKlzRwh">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_4_doc_5196" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl">3</div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="reunification-systems" class="offset">
+        <h2 class="page-section-title">Reunification Systems </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+Facebook. (2022).    
+        <a href="https://www.facebook.com/help/141874516227713?cb=11477" target="_blank" rel="noopener noreferrer">
+            <strong>Crisis Response and Safety Check.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This webpage contains information on crisis response tools available through Facebook. It includes links to Facebook’s crisis response page and the safety check feature, as well as frequently asked questions about the tool.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7GL10F/dcNOmpn4fumOKZPmjFPnb5VKMGoy6celAfUmI">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_72_doc_11477" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Google.org. (2022).    
+        <a href="https://support.google.com/personfinder/?hl=en&amp;cb=11478" target="_blank" rel="noopener noreferrer">
+            <strong>Google Person Finder.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+This web application from Google can be used by developers, press agencies, non-governmental organizations, and others to allow individuals to post their status after a disaster and to find friends and loved ones.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7GL10F/dcNOmpn4fumOKZPknevHrRIq6uK5vBPPSbMfF">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_72_doc_11478" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+National Center for Missing and Exploited Children (NCMEC) (n.d.).    
+        <a href="https://umr.missingkids.org/umr/reportUMR?execution=e1s1&amp;cb=468" target="_blank" rel="noopener noreferrer">
+            <strong>Unaccompanied Minors Registry.</strong>
+        </a>
+
+(Accessed 11/23/2022.)     
+</div>
+<div class="document-description">
+This data collection tool is focused on collecting basic information of children who have been separated from their families as a result of a disaster. Individuals can provide basic information and photos concerning a located child whose parents are missing. Once registration information is submitted, NCMEC will cross-reference it against any potential phone calls from a child’s parents who may be searching for their child.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7NPUXlfpPiVoyUuzevObQCCZn0asck3T8RQU7AmcrtmF">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_72_doc_468" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Rebmann, T., Charney, R., and Mazzara, R. (2022).    
+        <a href="https://pubmed.ncbi.nlm.nih.gov/35913179/?cb=11470" target="_blank" rel="noopener noreferrer">
+            <strong>Utility of Child Physical Characteristics and Verbal Descriptors to Aid in Family Reunification During Disasters.</strong>
+        </a>
+
+(Abstract only.) American Journal of Disaster Medicine. 17(1):5-12.    
+</div>
+<div class="document-description">
+This article evaluated which physical characteristics were most useful in reuniting parents and children after a disaster. The authors found that sex, eye color, and race were the most useful in identification, while descriptions of hair and skin color were less useful for reunification. Other personal information, such as whether the family had a pet, facilitated rapid reunification. The authors conclude some types of information are more useful than others when reunifying families after a disaster.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7GL10F/dcNOmpn4fumOKZPlxuHPAK&#x2B;hy/6H3yNHSMgB5">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_72_doc_11470" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="trainings-webinars" class="offset">
+        <h2 class="page-section-title">Trainings/Webinars </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+Barnert, E. (2022).    
+        <a href="https://www.nationalacademies.org/event/08-01-2022/docs/DB6F2C092C7D2553CDE093FE9140A45A2BD6DC9D6FAD?cb=11471" target="_blank" rel="noopener noreferrer">
+            <strong>DNA, Family Reunification, and Pediatric Disasters: Lessons and Priority Research Agenda.</strong>
+        </a>
+
+National Academies Forum on Medical and Public Health Preparedness for Disasters and Emergencies.    
+</div>
+<div class="document-description">
+The speaker highlights the dearth of research on family reunification, lists the related United Nations’ “Rights of the Child” and family, and highlights recent cases of family separation at various borders. She uses this foundation to explain the DNA Bridge strategy and how it can be used to reunite families after disasters.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7LLXGat/TBGbOg2UYbN0oAkHzAWlDyQl0qJZ&#x2B;Prbv2hP">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_73_doc_11471" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Chung, S. (2020).    
+        <a href="https://childrensnational.org/news-and-events/video-gallery/gr-family-reunification?cb=11472" target="_blank" rel="noopener noreferrer">
+            <strong>Family Reunification After Disaster: Have We Made Any Progress?</strong>
+        </a>
+
+Children&#x2019;s National.    
+</div>
+<div class="document-description">
+The speaker discusses lessons learned with reunifying families during disasters and mass violence incidents, from Hurricane Katrina and ice storms in Atlanta to the Boston Marathon Bombing. She also highlights developmental and mental health risks to children separated from their families during disasters, communication with families, considerations for federal officials, reunification using DNA, and the importance of establishing reunification systems before a disaster happens.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7LLXGat/TBGbOg2UYbN0oAmhMZOSAB78JB9qkUVfYoGn">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_73_doc_11472" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Improving Community Preparedness to Assist Victims of Mass Violence and Domestic Terrorism: Training and Technical Assistance (ICPTTA). (2021).    
+        <a href="https://icptta.com/exercise-guide/?cb=11476" target="_blank" rel="noopener noreferrer">
+            <strong>Victim Services Exercise Guide &amp; Scenario Templates.</strong>
+        </a>
+
+Office for Victims of Crime.    
+</div>
+<div class="document-description">
+This document contains information on creating emergency management plans and exercises which incorporate victim services. It is complementary to Federal Emergency Management Agency guidance and can be adapted for a variety of jurisdictions.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7LLXGat/TBGbOg2UYbN0oAmEjvi2n&#x2B;JBXbQZHOa6hSuv">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_73_doc_11476" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Region V for Kids. (n.d.).    
+        <a href="https://www.regionvforkids.org/family-reunification?cb=13105" target="_blank" rel="noopener noreferrer">
+            <strong>Family Reunification Learning Modules.</strong>
+        </a>
+
+(Accessed 11/14/2025.)     
+</div>
+<div class="document-description">
+This free 5-module curriculum covers the essential elements of a hospital family reunification plan; facility logistics; information sharing, security concerns, and legal considerations; plan activation and exercising family reunification plans; and demobilization, after-action reports, and recovery.</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7HtKKqp&#x2B;KTf3auVj0FBS1EqP/DiT6AosN65XcSfiMJV&#x2B;">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_73_doc_13105" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+      <div id="agencies-and-organizations" class="offset">
+        <h2 class="page-section-title">Agencies and Organizations </h2>
+        <hr class="page-section-separator">
+      </div>
+
+<div class="document-indent">
+<div class="document-title">
+National Mass Care Strategy    
+        <a href="https://nationalmasscarestrategy.org/nmcs-resource-center/nmcs-reunification-support/?cb=1104" target="_blank" rel="noopener noreferrer">
+            <strong>Reunification Support.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7LEkUIX2wo2Y8KjzpFwZxu1EIRJWSo5b3Au0IayDHzB2">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_8_doc_1104" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+
+<div class="document-indent">
+<div class="document-title">
+Office for Victims of Crime.    
+        <a href="https://ovc.ojp.gov/funding/opportunities/ovc-2020-18613?cb=11475" target="_blank" rel="noopener noreferrer">
+            <strong>Improving Community Preparedness to Assist Victims of Mass Violence and Domestic Terrorism.</strong>
+        </a>
+
+    
+</div>
+<div class="document-description">
+</div>
+
+      <div class="document-login-link"><a href="/login?returnurl=jD1jvaFhXKkUAJiObLAnHQhR&#x2B;ZlMcKceJc00cxX7s9yd2wdazhcOQbuKj0ulEVvKSp2vGMFUwiyUGkMlooZd7CA54hPAybDDltxH7IZvdBnB90s2oX&#x2B;WF/nP7teUawiw">Login</a> to favorite the article</div>
+
+<div class="container">
+  
+  <div class="row tr-feedback">
+    <!-- FAVORITES -->
+    Favorite:
+      <i id="fa_lbl_8_doc_11475" role="button" tabindex="0" class="fas fa-heart fa-heart-off cursor-off" data-toggle="tooltip" data-placement="top" title="Login to favorite" aria-label="Login to favorite"></i>
+    <div class="tr-feedback-lbl"></div>
+    
+    <!-- ADD TRAINING BUTTON (MRC Members only, MRC Collections only) -->
+  </div>
+</div>
+</div>
+
+
+    <div class="collection-footer">
+      <em>This ASPR TRACIE Topic Collection was refreshed in December 2022. It was comprehensively reviewed in June 2015 by the following subject matter experts(alphabetical order): <strong>Katherine Galifianakis,</strong> Mass Care Division, American Red Cross; <strong>Sharon Hawa,</strong> National Center for Missing &amp; Exploited Children (NCMEC); <strong>John Hick,</strong> MD, HHS ASPR and Hennepin County Medical Center; <strong>Lauralee Koziol,</strong> Federal Emergency Management Agency (FEMA); and <strong>Catherine Welker,</strong> MEP, Mass Care/Emergency Assistance Section Individual Assistance Division, Federal Emergency Management Agency (FEMA).</em>
+    </div>
+  <div class="divFooter printstylefooter">
+    <img src=/images/tr-footer.jpg alt="footer">
+
+  </div>
+</div>
+
+<!-- FEATURED RESOURCES/ SUBSCRIBE -->
+<input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5Sw0-_wE-8QMVsaMgKOeOIoLRJSBmT7yLbmRMVIlIR3MN59ZYJPybL0MhAJgi_CUtDHotgsHzC13BUGsxBnzLjcd7EoFaozy2TIHaOndvBAwdKk47SaJKbzUjxB41R71BK0" />
+
+<!-- https://medium.com/wdstack/bootstrap-4-custom-carousel-94a537364fde -->
+<!-- on Code Play: https://www.codeply.com/go/sShh7372V1 -->
+<div id="featuredSubscribe" class="container-fluid">
+    <div id="FeaturedResource" class="container">
+      <div class="d-flex flex-row news-title">
+        <h2 class="page-section-title">Featured Resources</h2>
+      </div>
+      <div id="carouselResource" class="carousel featured-carousel slide" data-ride="carousel" data-interval="false">
+        <a class="carousel-control-prev" href="#carouselResource" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only carousel-control-prev-icon-dark">Previous</span>
+        </a>
+        <div class="carousel-inner row w-100 mx-auto">
+          <div class="carousel-item col-md-3 active">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/hospital-wildfire-evacuation-considerations.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">Hospital Wildfire Evacuation Considerations</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://dashtool.org/">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">The Disaster Available Supplies in Hospitals (DASH) Tool</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/aspr-tracie-the-exchange-issue-20.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">The Exchange, Issue 20: Preparing for and Responding to Mass Casualty Burn Incidents</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/utility-failures-in-health-care-toolkit-summary.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">Utility Failures in Health Care Toolkit</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="carousel-item col-md-3 ">
+            <a class="img-fluid mx-auto d-block" href="https://asprtracie.hhs.gov/documents/on-campus-hospital-armed-assailant-planning-considerations.pdf">
+              <div class="card">
+                <div class="card-body">
+                  <div class="center-card-text">
+                    <p class="card-text-fr">On-Campus Health Care Facility Armed Assailant Planning Considerations</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <a class="carousel-control-next" href="#carouselResource" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only carousel-control-next-icon-dark">Next</span>
+        </a>
+      </div>
+    </div>
+  <form action="/assistance-center/subscription-form" name="subscription_form" id="subscription_form" method="post" autocomplete="off">
+   <input name="AntiforgeryFieldname" type="hidden" value="CfDJ8DjH8ZoXUB9KtKa8DgXk5Sw0-_wE-8QMVsaMgKOeOIoLRJSBmT7yLbmRMVIlIR3MN59ZYJPybL0MhAJgi_CUtDHotgsHzC13BUGsxBnzLjcd7EoFaozy2TIHaOndvBAwdKk47SaJKbzUjxB41R71BK0" />
+    <div id="ListservSubscribe" class="container">
+      <div class="row">
+        <div class="col-sm-6 col-xs-12">
+          <h2 class="subscribe-listserv-title"><label for="listServSubscribe">Subscribe to the ASPR TRACIE Listserv.</label></h2>
+          <p class="listserv-text-508">
+            Enter your email address to receive important announcements and updates through the ASPR TRACIE Listserv.
+          </p>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="row d-flex d-flex-row">
+            <div class="col">
+              <input type="email" class="form-control w-100" id="listServSubscribe" name="listServSubscribe" placeholder="Email Address" autocomplete="off" required />
+              <input type="hidden" id="acvalidationlistServ" name="acvalidationlistServ" />
+              <div id="awsWafSubscribeMessage" class="validation-summary-errors" style="display:none;" role="alert"></div>
+            </div>
+            <div class="col"><button class="btn btn-default btn-default-subscribe">SIGN UP</button></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+
+</div>
+
+<script>
+  $(document).ready(function() {
+
+    $("#carouselResource").on("slide.bs.carousel",
+      function(e) {
+        var $e = $(e.relatedTarget);
+        var idx = $e.index();
+        var itemsPerSlide = 4;
+        var totalItems = $(".carousel-item").length;
+
+        if (idx >= totalItems - (itemsPerSlide - 1)) {
+          var it = itemsPerSlide - (totalItems - idx);
+          for (var i = 0; i < it; i++) {
+            // append slides to end
+            if (e.direction == "left") {
+              $(".carousel-item")
+                .eq(i)
+                .appendTo(".carousel-inner");
+              //.toggleClass('card carousel-item-left');
+            } else {
+              $(".carousel-item")
+                .eq(0)
+                .appendTo($(this).find(".carousel-inner"));
+            }
+          }
+          //var id = e.relatedTarget.id;
+        }
+      });
+
+    $("#subscription_form").on("submit",
+      function (event) {
+
+        var emailAddress = $(this).find('input[name="listServSubscribe"]');
+        if ($.trim(emailAddress.val()) === "") {
+          event.preventDefault();
+        }
+      });
+  });
+
+  $(function() {
+    if (window.TracieAwsWaf) {
+      window.TracieAwsWaf.warmUpToken();
+      window.TracieAwsWaf.bindSilentTokenOnFormSubmit('#subscription_form', {
+        requiredFields: ['#listServSubscribe'],
+        errorContainerSelector: '#awsWafSubscribeMessage',
+        errorMessage: 'Security verification failed. Please refresh the page and try again.'
+      });
+    }
+  });
+</script>
+<!-- END FEATURED RESOURCES/ SUBSCRIBE -->
+
+
+<script>
+  //TR NAVIGATION
+
+  //Append Navigation Menu Heading with active item text on active item change
+  $(window).on('activate.bs.scrollspy', function () {
+   
+    var activeNavItem = $('#TrNavMenu .page-section-item a.active').text();
+    if (activeNavItem.length > 0) {
+      $('#trNavSectionName').text(' / ' + activeNavItem);
+    }
+  });
+
+  $(document).ready(function () {
+    
+    //Remove offset CSS when using Internet Explorer because sticky nav feature doesnt work there
+    if (msieversion()) {
+      $('div.offset').removeClass('offset');
+    }
+    else {
+      var navHeight = $('#TrNavMenu').height();
+      $('head').append('<style>.offset:before{height:' + navHeight + 'px !important;margin-top:' + -navHeight + 'px;}</style>');
+    }
+
+    //show or hide the section name depending on the menu collapsed state
+    var menuClsName = $('#MenuBtn, #MenuBtnMobile').attr('class');
+    if (menuClsName === 'collapsed') {
+      showTrNavSectionName();
+    }
+    else {
+      hideTrNavSectionName();
+    }
+  });
+
+  //Toggle the TR section name in menu depending on open/closed state
+  $('#MenuBtn').click(function () {
+    var menuClsName = $('#MenuBtn, #MenuBtnMobile').attr('class');
+    if (menuClsName === 'collapsed') {
+      hideTrNavSectionName();
+    }
+    else {
+      showTrNavSectionName();
+    }
+  });
+
+  //hide the TR nav section name
+  function hideTrNavSectionName() {
+    $('#trNavSectionName').addClass('d-none');
+  }
+  //show the TR nav section name
+  function showTrNavSectionName() {
+    $('#trNavSectionName').removeClass('d-none');
+  }
+
+  //Detect if using Internet Explorer
+  function msieversion() {
+    var ua = window.navigator.userAgent;
+    var msie = ua.indexOf("MSIE ");
+    if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))  // If Internet Explorer, return version number
+    {
+      return true;
+    }
+    else  // If another browser, return 0
+    {
+      return false;
+    }
+  }
+
+  //Toggle TR Menu open/close icon
+  $('#MenuBtn, #MenuBtnMobile, #trMenuButton').click(function () {
+    $("#trMenuButton, #trMenuButtonMobile").toggleClass('fa-plus-circle fa-minus-circle');
+  });
+
+  var isMember = 0;
+  var isMrcFeatureEnabled = false;
+  var isMrcMember = false;
+  var isMrcCollection = false;
+
+  // save favorite - optimized with event delegation:
+  $(document).on('click', '.fa-heart', function (e) {
+    if (isMember !== 1) return;
+    trToggleFavorite(this);
+  });
+
+  // Add keyboard support for favorite button - optimized with event delegation
+  $(document).on('keydown', '.fa-heart[role="button"][tabindex="0"]', function(e) {
+    if (e.which === 13 || e.which === 32) {
+      e.preventDefault();
+      $(this).click();
+    }
+  });
+
+  // Add training button click handler - optimized with event delegation
+  $(document).on('click', '.fa-graduation-cap', function (e) {
+    e.preventDefault();
+
+    if (!isMrcFeatureEnabled) {
+      return;
+    }
+    
+    // Validate user is MRC member
+    if (!isMrcMember) {
+      return;
+    }
+    
+    // Validate this is an MRC collection
+    if (!isMrcCollection) {
+      return;
+    }
+    
+    var $cap = $(this);
+    var isInTraining = $cap.data('in-training');
+    
+    // If already in training, do nothing
+    if (isInTraining) {
+      return;
+    }
+    
+    var documentId = $cap.data('document-id');
+    var documentTitle = $cap.data('document-title');
+    
+    // Validate document data
+    if (!documentId || documentId <= 0) {
+      return;
+    }
+    
+    if (!documentTitle || typeof documentTitle !== 'string' || documentTitle.trim() === '') {
+      return;
+    }
+    
+    // Validate title length
+    if (documentTitle.length > 500) {
+      return;
+    }
+    
+    // Prevent multiple clicks during AJAX
+    if ($cap.data('processing')) {
+      return;
+    }
+    $cap.data('processing', true);
+    
+    $.ajax({
+      url: '/TechnicalResources/mrc/add-training-document',
+      type: 'POST',
+      data: {
+        documentId: documentId,
+        documentTitle: documentTitle.trim(),
+        AntiforgeryFieldname: $('input[name="AntiforgeryFieldname"]').first().val()
+      },
+      timeout: 10000, // 10 second timeout
+      success: function (response) {
+        if (response && response.success) {
+          $cap.removeClass('fa-training-off').addClass('fa-training-on');
+          $cap.attr('data-in-training', 'true');
+          $cap.attr('title', 'Already in training');
+          $cap.attr('aria-label', 'Already in training');
+          
+          // Update status text
+          var statusDiv = $cap.siblings('.tr-training-status');
+          statusDiv.text('Added');
+        }
+      },
+      error: function (xhr, status, error) {
+        // Silent fail - no message displayed
+      },
+      complete: function () {
+        $cap.removeData('processing');
+      }
+    });
+  });
+
+  // Add keyboard support for training button - optimized with event delegation
+  $(document).on('keydown', '.fa-graduation-cap[role="button"][tabindex="0"]', function(e) {
+    if (e.which === 13 || e.which === 32) {
+      e.preventDefault();
+      $(this).click();
+    }
+  });
+
+ $(function () {
+   $('[data-toggle="tooltip"]').tooltip()
+ })
+</script>
+</main>
+
+
+<!-- FOOTER -->
+
+<footer class="container" id="footer">
+  <div class="row">
+    <div class="col-md-8">
+      <ul class="footernav">
+        <li><a href="/">HOME</a></li>
+        <li><a href="/technical-resources">TECHNICAL RESOURCES</a></li>
+        <li><a href="/assistance-center">ASSISTANCE CENTER</a></li>
+        <li>
+          <a href="/information-exchange">INFORMATION EXCHANGE</a>
+        </li>
+      </ul>
+    </div> <!-- Close class=col-md-9 -->
+    <div class="col-md-4">
+      <div class="feedbackLink"><a target="_blank" rel="noopener noreferrer" href="https://www.surveymonkey.com/s/ASPRTRACIEwebsite">Give Us Your Feedback</a></div>
+      <div class="social-icons clearfix">
+       <div class="sm-icon"><a href="https://www.facebook.com/ASPRgov" rel="noopener noreferrer" target="_blank"><img src="/images/facebook-square.png" width="42" height="42" alt="Facebook"></a></div>
+        <div class="sm-icon"><a href="https://x.com/asprgov" rel="noopener noreferrer" target="_blank"><img src="/images/x-sqaure.png" width="42" height="42" alt="X"></a></div>
+        <div class="sm-icon"><a href="https://www.linkedin.com/showcase/hhs-aspr" rel="noopener noreferrer" target="_blank"><img src="/images/linkedin-square.png" width="42" height="42" alt="Linkedin"></a></div>
+        <div class="sm-icon"><a href="https://www.instagram.com/asprgov" rel="noopener noreferrer" target="_blank"><img src="/images/instagram-square.png" width="42" height="42" alt="Instagram"></a></div>
+        <div class="sm-icon"><a href="https://www.youtube.com/c/ASPRgov" rel="noopener noreferrer" target="_blank"><img src="/images/youtube-square.png" width="42" height="42" alt="YouTube"></a></div>
+        <div class="sm-icon"><a href="https://www.flickr.com/photos/asprgov" rel="noopener noreferrer" target="_blank"><img src="/images/flickr-square.png" width="42" height="42" alt="Flickr"></a></div>
+
+      </div> <!-- Close class=social-icons -->
+    </div> <!-- Close class=col-md-3 -->
+  </div>
+
+  <div class="row">
+    <div id="footerLogo" class="col-xs-12 col-lg-2 logo-footer">
+      <a href="https://aspr.hhs.gov/" rel="noopener noreferrer" target="_blank">
+        <img src="/images/ASPRlogo.jpg" width="160" height="68.44" alt="ASPR logo. Administration for Strategic Preparedness and Response.">
+      </a>
+    </div> <!-- Close class=col-md-2 -->
+    <div id="hideforprintoffset" class="col-xs-12 col-lg-6 footer-links">
+      <div class="footer-links-1">
+        <a href="https://www.aspr.gov/privacy-policies" rel="noopener noreferrer" target="_blank">Privacy</a>,
+        <a href="https://www.aspr.gov/accessibility" rel="noopener noreferrer" target="_blank">Accessibility</a>,
+        <a href="https://www.aspr.gov/disclaimer" rel="noopener noreferrer" target="_blank">Disclaimer</a>,
+        <a href="https://www.hhs.gov/digital/resources/plugins/index.html" rel="noopener noreferrer" target="_blank">Viewers and Players</a>,
+        <a href="https://www.hhs.gov/open/plain-writing/index.html" rel="noopener noreferrer" target="_blank">Plain Language</a>,
+        <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" rel="noopener noreferrer" target="_blank">Vulnerability Disclosure Policy</a>
+      </div> <!-- Close class=footer-links-1 -->
+      <div class="footer-links-2">
+        <a href="https://www.hhs.gov" rel="noopener noreferrer" target="_blank">U.S. Department of Health & Human Services</a><br>
+        <address>400 7th St., SW, Washington, DC 20024</address>
+      </div><!-- Close class=footer-links-2 -->
+    </div> <!-- Close class=col-md-7 -->
+
+    <div class="col-xs-12 col-lg-4">
+      <div class="updated"><b>Last updated:</b> 22 November 2026</div>
+      <div class="published"><b>First published:</b> 15 September 2015</div>
+    </div>
+    <!-- Close class=col-md-3 -->
+    <a href="#" class="back-to-top noprint">Back to top <i class="fa fa-arrow-up backtotopicon"></i></a>
+  </div><!-- Close class=row -->
+</footer>
+
+
+<script src="/assets/js/scripts.min.js?v=7FXvJ7YnTb57wkIU-lS_WM_Zpd-Vm4Pi0gU0T-54BdI"></script>
+<script src="/assets/js/aws-waf-integration.js?v=rejGCwJlgUFLBv_3Qk2lORCHraDMa-0mJBdRdxN9qpg"></script>
+<script src="/assets/js/secure-messaging.js?v=j7efhwAezvgTyIMYuXE_3ypFDdbP4X9W8Pc0LWG5Wcs"></script>
+
+<script src="/js/popper-1.14.7.min.js"></script>
+<script src="/js/bootstrap-4.6.2.min.js"></script>
+
+
+</body>
+</html>

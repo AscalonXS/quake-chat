@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders | International Journal of  Medical Reviews and Case Reports</title>
+<meta name="generator" content="Journal Management System">
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="George Kesov "/>
+<meta name="DC.Creator.PersonalName" content=" Nina Stoyanova"/>
+<meta name="DC.Creator.PersonalName" content=" Ivan Inkov"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2025-03-10"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content=2025-03-09"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2025-03-10"/>
+<meta name="DC.DC.Date.X-MetadataLastModified" scheme="ISO8601" content="2025-03-10"/>
+<meta name="DC.Description" content="Chest injuries can range from mild contusions to life-threatening conditions such as pneumothorax and flail chest. Non-medical professionals, including first responders and laypersons, often encounter these injuries in emergency situations, requiring immediate recognition and basic intervention before medical assistance arrives. This guideline provides a structured approach to identifying different types of chest trauma, assessing symptoms, and implementing crucial first-aid measures. It emphasizes pain management, monitoring for complications, and knowing when to seek urgent medical care. By equipping non-medical individuals with fundamental knowledge, this guide aims to enhance early interventions, minimize complications, and improve patient outcomes."/>
+<META NAME="DC.Publisher" CONTENT="Bulgarian Association of Young Surgeons">
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="246565"/>
+<meta name="DC.Identifier.pageNumber" content="0-0"/>
+<meta name="DC.Identifier.DOI" content="10.5455/IJMRCR.172-1741509431"/>
+<meta name="DC.Identifier.URI" content="https://www.mdpub.net/?mno=246565"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Copyright (c)  "/>
+<meta name="DC.Rights" content=""/>
+<meta name="DC.Source" content="International Journal of  Medical Reviews and Case Reports"/>
+<meta name="DC.Source.ISSN" content="2534-9821"/>
+<META NAME="DC.Identifier" SCHEME="ISSN" CONTENT="2534-9821">
+<meta name="DC.Source.Issue" content="5"/>
+<meta name="DC.Source.Volume" content="8"/>
+<meta name="DC.Source.URI" content="https://www.mdpub.net/"/>
+<meta name="DC.Subject" xml:lang="en" content="Chest trauma"/>
+<meta name="DC.Subject" xml:lang="en" content="first aid"/>
+<meta name="DC.Subject" xml:lang="en" content="rib fracture"/>
+<meta name="DC.Subject" xml:lang="en" content="pneumothorax"/>
+<meta name="DC.Subject" xml:lang="en" content="flail chest"/>
+<meta name="DC.Subject" xml:lang="en" content="emergency response"/>
+<meta name="DC.Subject" xml:lang="en" content="pain management"/>
+<meta name="DC.Subject" xml:lang="en" content="respiratory distress"/>
+<meta name="DC.Subject" xml:lang="en" content="non-medical professionals"/>
+<meta name="DC.Subject" xml:lang="en" content="trauma assessment"/>
+<meta name="DC.Title" content="Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders">
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="Articles"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="International Journal of  Medical Reviews and Case Reports">
+<meta name="citation_journal_abbrev" content=""/>
+<meta name="citation_issn" content="2534-9821"/>
+<meta name="citation_author" content="George Kesov ">
+<meta name="citation_author" content=" Nina Stoyanova">
+<meta name="citation_author" content=" Ivan Inkov">
+<meta name="citation_title" content="Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders">
+<meta name="citation_date" content="2025/03/10">
+<meta name="citation_volume" content="8">
+<meta name="citation_issue" content="5">
+<meta name="citation_firstpage" content="0">
+<meta name="citation_lastpage" content="0"/>
+<meta name="citation_doi" content="10.5455/IJMRCR.172-1741509431">
+<meta name="citation_abstract_html_url" content="https://www.mdpub.net/?mno=246565">
+<meta name="citation_keywords" xml:lang="en" content="Chest trauma"/>
+<meta name="citation_keywords" xml:lang="en" content="first aid"/>
+<meta name="citation_keywords" xml:lang="en" content="rib fracture"/>
+<meta name="citation_keywords" xml:lang="en" content="pneumothorax"/>
+<meta name="citation_keywords" xml:lang="en" content="flail chest"/>
+<meta name="citation_keywords" xml:lang="en" content="emergency response"/>
+<meta name="citation_keywords" xml:lang="en" content="pain management"/>
+<meta name="citation_keywords" xml:lang="en" content="respiratory distress"/>
+<meta name="citation_keywords" xml:lang="en" content="non-medical professionals"/>
+<meta name="citation_keywords" xml:lang="en" content="trauma assessment"/>
+<meta name="citation_pdf_url" content="https://www.mdpub.net/fulltextpdf.php?mno=246565">
+<meta name="citation_language" content="en"/>
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css">
+<link type="text/css" rel="stylesheet" href="https://www.ejport.com/img/style_slidera.css" />
+<style>
+body{
+	--mycolor1 : #3333CC;
+	--mycolor2 : #C71F00;
+	--mycolor3 : ;
+	--mycolor4 : ;
+	--mycolor5 : ;
+	--mycolorsb : ;
+	--mycolorsh : ;
+	--mycolorst : ;
+	--fontfam0 : ;
+	--fontsize0 : ;
+	--fontstyle0 : ;
+	--fontfam1 : ;
+	--fontsize1 : ;
+	--fontstyle1 : ;
+	--fontfam2 : ;
+	--fontsize2 : ;
+	--fontstyle2 : ;
+	--fontfam3 : ;
+	--fontsize3 : ;
+	--fontstyle3 : ;
+	--fontfam4 : ;
+	--fontsize4 : ;
+	--fontstyle4 : ;
+}
+</style>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=63cf239438862e00198c0bfc&product=sticky-share-buttons&source=platform" async="async"></script></head>
+<body>
+
+<div class="container siteMainWrapper">
+<div class="row siteTopRow padding5">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+E-ISSN  2534-9821</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<ul class="topMenu">
+<li><a href="http://www.mdpub.net/?sec=contact">Contact  </a></li>   
+<li><a href="https://www.ejmanager.com/reviewers/index.php?isl=login">Reviewer Login <span> |</span> </a></li>   
+<li><a href="http://www.mdpub.net">Home <span> |</span> </a></li>   
+</ul>
+</div>
+</div>
+<div class="row padding20">
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5 hidden-xs padding10">
+<a href="http://www.mdpub.net" style="font-size:33px;color:#3333CC;line-height:39px; font-weight:bold;">International Journal of  Medical Reviews and Case Reports</a>
+</div>
+<div class="search-service" style="margin:auto 0px 0px auto;">
+<form action="" method="get">
+<input type="text" name="term" value="" placeholder="Search for title, author, keywords etc." class="searchbox"/>&nbsp;
+<select name="sarea" class="searchslc">
+<option value=''>in any field</option>
+<option value=title >in Title</option>
+<option value=summary >in Summary</option>
+<option value=keyword >in Keywords</option>
+<option value=author >in Authors</option>
+</select>
+<input type="submit" value="Search" class="searchbtn"/>
+</form>
+</div>
+</div>
+
+<div class="row padding0">
+<div class="col-md-12 padding0">
+<nav class="navbar navbar-default siteMainNav" role="navigation">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">                        
+<li><a href="index.php">Home</a></li><li><a href="index.php?sec=about">About Journal</a></li><li><a href="index.php?sec=editors">Editorial Board</a></li><li><a href="index.php?sec=gfa">Instructions for Authors</a></li><li><a href="index.php?sec=archive">Archive</a></li><li><a href="index.php?sec=contact">CONTACT</a></li></ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+<div class="cover">
+<img src="img/172.png" style="width:100%;max-width:262px;">       
+</div>
+<div class="volumestring">
+<span id="leftmenu_Label1"><span class="coverstring">2023, Vol: 7, Issue: 12</span></span>
+</div> 
+<div class="list-group-border">
+<div class="list-group ">
+<a class="list-group-item list-group-item-default" href="http://www.mdpub.net/?sec=cissue"><span class="badge badge-danger">7 / 12</span>Current Issue</a>
+<a class="list-group-item list-group-item-default" href="index.php?sec=aip">Online First</a><a class="list-group-item list-group-item-default" href="index.php?sec=archive">Archive</a><a class="list-group-item list-group-item-default" href="index.php?sec=aimsscope">Aims and Scope</a><a class="list-group-item list-group-item-default" href="index.php?sec=jindex">Abstracting & Indexing</a><a class="list-group-item list-group-item-default" href="index.php?sec=mosta">Most Accessed Articles</a><a class="list-group-item list-group-item-default" href="index.php?sec=mostd">Most Downloaded Articles</a><a class="list-group-item list-group-item-default" href="index.php?sec=mostc">Most Cited Articles</a>
+</div>
+</div>
+<div class="col-xs-12 butonform"><b>Required files to be uploaded</b><br><br><a href="https://www.ejmanager.com/mnstemps/172/stdfls/Copyright Transfer Form.doc" target="_blank">
+<i class="fa fa-file-text-o" aria-hidden="true"></i>Copyright Transfer Form</a><br></div><div class="col-xs-12 standardbox text-center">
+<a href="https://orcid.org/register" target="_blank"><img src="https://www.ejport.com/img/orcid.png" width="140" vspace="17"></a>        
+<a href="https://www.crossref.org/" target="_blank"><img src="https://www.ejport.com/img/crossref.png" width="140" vspace="17"></a>
+<img src="https://www.ejport.com/img/open.png" width="140" vspace="17">
+<a href="https://creativecommons.org/" target="_blank"><img src="https://www.ejport.com/img/creative_commons.png" width="140" vspace="17"></a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 siteContent">
+<div class="row " style="min-height: 600px;">
+<div class="col-xs-12">
+<div class="row margin20">
+<div style='float:left;padding:7px;'><a href='?mno=43172'>«  Previous Article</a></div><div style='float:right;padding:7px;'><a href='?mno=246560'>Next Article  »</a></div><br><table border=0 cellspacing=0 width=100% style='font-family:batang,trebuchet ms,verdana,arial,helvetica;'><tr valign=top><td nowrap style='padding:13px;background-color:#fff;'> <span style='font-size:1.05em;'><b><i class='fa fa-file-o'></i> Review Article</b><br><span style='font-size:0.95em;'><b><i class='fa fa-calendar'></i> Online Published: 10 Mar 2025</b></span><br></td><td width=100% align=right> </td><td nowrap style='padding:13px;background-color:#fff;'></td></tr><tr valign=top><td colspan=3 style='margin-right:13px;' align=left><div><div style='float:left;'><b><a href='/'>Int J Med Rev Case Rep</a>. <a href='?jid=172&iid=2024-8-5.000'>2024; 8(5)</a>: </b></div><div style='float:right;'><b>doi: </b><a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>10.5455/IJMRCR.172-1741509431</a></div></div><br><br><span style='font-size:1.3em;line-height:1.2em;font-weight:bold;'>Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders</span><br><br><i>George Kesov, Nina Stoyanova, Ivan Inkov.</i><p>		<a href="https://plu.mx/plum/a/?doi=10.5455/IJMRCR.172-1741509431" class="plumx-plum-print-popup plum-jbs-theme" data-popup="right" data-hide-when-empty="true" data-hide-usage="true" data-pass-hidden-categories="true" data-site="plum" data-badge="true" data-size="small"></a>
+				<br>
+		<table border=0 width=100% cellspacing=0 cellpadding=0>
+		<tr valign=top><td align=center style='border-bottom:1px solid #484848;' nowrap><a href=#abstract><img src=http://www.ejport.com/img/tabs_article_red_abstract.png border=0 width=177 vspace=0></td><td align=center style='border-bottom:1px solid #484848;' nowrap></td><td align=left style='border-bottom:1px solid #484848;' nowrap></td><td align=left style='border-bottom:1px solid #484848;' width=100%></td></tr><tr valign=top class=journalfont><td colspan=4><div id=summary><p style='line-height:22px;'><b>Abstract</b><br>Chest injuries can range from mild contusions to life-threatening conditions such as pneumothorax and flail chest. Non-medical professionals, including first responders and laypersons, often encounter these injuries in emergency situations, requiring immediate recognition and basic intervention before medical assistance arrives. This guideline provides a structured approach to identifying different types of chest trauma, assessing symptoms, and implementing crucial first-aid measures. It emphasizes pain management, monitoring for complications, and knowing when to seek urgent medical care. By equipping non-medical individuals with fundamental knowledge, this guide aims to enhance early interventions, minimize complications, and improve patient outcomes.</p><b>Key words:</b> Chest trauma, first aid, rib fracture, pneumothorax, flail chest, emergency response, pain management, respiratory distress, non-medical professionals, trauma assessment<p><br></div></td><td nowrap> </td><td style='padding-left:5px;'>	<style>
+		.boxtext td{padding:3px;}
+	</style>
+	<table border=0 class='boxtext' style='border:1px solid #727272;'><tr valign=top class=boxtext style='background:#dcdcdc;background:url(http://www.ejport.com/img/bg_search.gif);background-position:top;'><td><img src='http://www.ejport.com/img/ico_mns.gif' height=17 border=0></td><td><b>ARTICLE TOOLS</b></td></tr><tr valign=top><td><img src='http://www.ejport.com/img/iconabstract.gif' height=17 border=0></td><td nowrap><a href='?mno=246565'>Abstract</a></td></tr><tr valign=top><td><img src='http://www.ejport.com/img/iconpdf.gif' height=17 border=0></td><td nowrap><a href='index.php?fulltxt=246565&fulltxtj=172&fulltxtp=172-1741509431.pdf' target='_blank'>PDF Fulltext</a></td></tr>	<tr valign=top nowrap><td><img src='http://www.ejport.com/img/iconCite.gif' height=17 border=0 alt='How to cite this article'></td><td nowrap><a href=#cite>How to cite this article</a></td></tr>
+	<tr valign=bottom><td><img src='http://www.ejport.com/img/icon_reference.png' height=17 border=0></td><td nowrap>
+	<a class=font1 href="javascript:void(0);" onClick="javascript:document.getElementById('howtocitetools').style.display='block';return false;">Citation Tools</a></td></tr>
+	<tr valign=top class=boxtext style='background-color:#A7B3C6;'><td style='border-bottom:1px solid #727272;'><img src='http://www.ejport.com/img/icon_related.gif' height=17 border=0></td><td nowrap style='border-bottom:1px solid #727272;'><b>Related Records</b></td></tr><tr valign=top style='background-color:#ffffff;'><td> </td><td><a href='http://www.bibliomed.org/?term=George Kesov&sarea=author&b1=Search+ScopeMed' target=_blank>Articles by George Kesov</a><br><a href='http://www.bibliomed.org/?term=Nina Stoyanova&sarea=author&b1=Search+ScopeMed' target=_blank>Articles by Nina Stoyanova</a><br><a href='http://www.bibliomed.org/?term=Ivan Inkov&sarea=author&b1=Search+ScopeMed' target=_blank>Articles by Ivan Inkov</a><br><tr valign=top style='background-color:#ffffff;'><td><img src='https://www.ejport.com/img/icon_google.png' height=17 border=0></td><td><a href='https://www.google.com/search?hl=en&q=http://www.bibliomed.org/?mno=246565' target=_blank>on Google</a></td></tr><tr valign=top style='background-color:#ffffff;'><td><img src='http://www.ejport.com/img/icon_googlescholar.gif' height=17 border=0></td><td><a href='https://scholar.google.com/scholar?q=Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders' target=_blank>on Google Scholar</a></td></tr></table>		<br><a href="https://plu.mx/plum/a/?doi=10.5455/IJMRCR.172-1741509431" class="plumx-plum-print-popup"></a>
+		<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+		</td></tr></table></td></tr></table><br><a name=cite><table border=0 width=100% cellspacing=0 cellpadding=0 style='border:3px double green;'><tr valign=top class=articletitle><td style='padding:7px;background:#E5FECC;'><b>How to Cite this Article</b></td></tr><tr valign=top><td style='padding:7px;'><b>Pubmed Style</b><br><br>Kesov G, Stoyanova N, Inkov I. Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. Int J Med Rev Case Rep. Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>Web Style</b><br><br>Kesov G, Stoyanova N, Inkov I. Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. https://www.mdpub.net//?mno=246565 [Access: June 27, 2026].  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>AMA (American Medical Association) Style</b><p>Kesov G, Stoyanova N, Inkov I. Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. <i>Int J Med Rev Case Rep</i>. Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>Vancouver/ICMJE Style</b><p>Kesov G, Stoyanova N, Inkov I. Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. Int J Med Rev Case Rep, [cited June 27, 2026];  Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>Harvard Style</b><p>Kesov, G., Stoyanova, . N. & Inkov, . I. (2024) Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. <i>Int J Med Rev Case Rep</i>, Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>Turabian Style</b><p>Kesov, George, Nina Stoyanova, and Ivan Inkov. 2024. Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. <i>International Journal of  Medical Reviews and Case Reports</i>, Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>Chicago Style</b><p>Kesov, George, Nina Stoyanova, and Ivan Inkov. "Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders." <i>International Journal of  Medical Reviews and Case Reports</i> Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>MLA (The Modern Language Association) Style</b><p>Kesov, George, Nina Stoyanova, and Ivan Inkov. "Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders." <i>International Journal of  Medical Reviews and Case Reports</i> Online First: 10 Mar, 2025. Web. 27 Jun 2026 <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br><b>APA (American Psychological Association) Style</b><p>Kesov, G., Stoyanova, . N. & Inkov, . I. (2024) Emergency Chest Trauma Guide: Essential First Aid for Non-Medical Responders. <i>International Journal of  Medical Reviews and Case Reports</i>, Online First: 10 Mar, 2025.  <a href='http://dx.doi.org/10.5455/IJMRCR.172-1741509431' target='_blank'>doi:10.5455/IJMRCR.172-1741509431</a><br><hr style='height:1px;border:1px dotted green;'><br></td></tr></table></div>
+</span>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+<a class="imgHover" href="http://www.ejmanager.com/my/ijmrcr/" target="_blank"><img style="margin-bottom: 10px;" src="https://www.ejport.com/img/send-article.png" width="100%"></a>
+<a class="imgHover" href="http://www.ejmanager.com/my/ijmrcr/submit.php?isl=track" target="_blank"><img style="margin-bottom: 10px;" src="https://www.ejport.com/img/track-article.png" width="100%"></a>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+<div class="list-group-border">
+<div class="list-group "><a class="list-group-item list-group-item-defaultright" href="https://www.ejmanager.com/my/ijmrcr/">Author Login</a><a class="list-group-item list-group-item-defaultright" href="https://www.ejmanager.com/reviewers/index.php?isl=login">Reviewer Login</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=aboutpublisher">About Publisher</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policyeditorial">Editorial Policies</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=editorialpeerreview">Editorial Review Policy</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=peerreviewpolicy">Peer Review Policy</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=editorialprocess">Editorial & Peer Review Process</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policyauthorsrights">Author's Rights and Obligations</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=publicationethics">Publication Ethics and Publication Malpractice Statement</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policycois">Conflict of Interest Policy</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policyplagiarism">Plagiarism Policy</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policyhar">Protection of Research Participants (Statement On Human And Animal Rights)</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policyprivacy">Privacy Policy</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=correctionretractionconcern">Corrections, Retractions & Expressions of Concern</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=selfarchivingpolicy">Self-Archiving Policies</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=digitalarchiving">Digital Archiving & Preservation Policies</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=informedconsent">Statement of Informed Consent</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policyadvertising">Advertising Policy</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=policytermofuse">Terms of Use</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=licenseinfo">License Information</a><a class="list-group-item list-group-item-defaultright" href="index.php?sec=copyrightinfo">Copyright Information</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>   
+<div class="row siteFooter" style="font-size:14px;padding:13px;">
+<table border=0 width="100%" cellspacing=9 cellpadding=1>
+<tr valign=top><td style="padding:1px;" colspan=2>
+</td></tr>
+<tr valign=top><td width=44% style="padding:0 20px 0 30px;">
+<h4>About International Journal of  Medical Reviews and Case Reports</h4>
+<hr style="border:0.1px solid #eee;" >
+International Journal of Medical Reviews and Case Reports&nbsp; (Int J Med Rev Case Rep)ISSN: 2534-9821The International Journal of Medical Reviews and Ca ... <a href="index.php?sec=about"> Read more</a>.<br> <br> <br> <br>
+For best results, please use Internet Explorer or Google Chrome.<br>
+</td><td width=56% style="padding:0 30px 0 20px;">
+<h4>Contact Information</h4>
+<hr style="border:0.1px solid #eee;" >
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Any correspondence, queries or additional requests for information on the manuscript submission process should be sent to the International Journal of Medical Reviews&nbsp;and Case Reports&nbsp;editorial office as follows:</span></span><br>
+
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bulgarian Association of Young Surgeons (BAYS);</span></span><br>
+
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">National Center of Public Health and Analyses (NCPHA), floor 2, office &#8470; 31,&nbsp; Sofia 1431, Bulgaria.</span></span><br>
+
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="mailto:inkov@journalmedica.com" style="box-sizing: border-box; background-color: transparent; color: rgb(52, 136, 153); text-decoration-line: none; font-family: inherit; font-size: inherit; outline: 0px;">inkov@journalmedica.com</a></span></span><br>
+
+<hr />
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Financial department is managed by International Sci Ink Press.&nbsp;</span></span><br>
+
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">It&nbsp;is a company registered in Bulgaria with registered no. 205414288 and registered address at 57 Antim I str., Vazrazhdane, Sofia, 1303, Bulgaria.</span></span><br>
+
+<br><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tel: +359883427500</span></span><br>
+
+<br>&nbsp;<br></td>
+</tr>
+</table>
+</div>
+<br><br>
+</div>
+<div class="sharethis-sticky-share-buttons"></div><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.3/icheck.js" integrity="sha512-QhdaIc0tGMpa49hhqthS/+pc3EezCczZYuubdVmjHk1968yb7yXz/oZxdlGDMck4FWS459nlQ0dC/ab4ZuzujA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-25950749-14', 'auto');
+	ga('send', 'pageview');
+
+	</script>
+<div id='howtocitetools' style='display:none; position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0, 0, 0, 0.75); z-index: 5;'><img src=https://www.ejport.com/img/semi_transparent.png border=0 width=100% height=100% ><div style='position: fixed;top:10%;left:30%;width:600px;height:500px;padding:13px;border:2px solid #bbb;background:#fff;z-index: 99;'><div>
+			<div style='float:left;'><h3>How to cite this article</h3></div>
+			<div style='float:right;'><a style='padding:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;' href="javascript:void(0);" onClick="javascript:document.getElementById('howtocitetools').style.display='none';return false;" title='Close this Page'><b>X</b></a></div>
+			</div><div style='clear:both;'><br><br><div><span style='font-size:16px;font-family:Verdana, Arial, helvetica;'><b>REFERENCE MANAGER FORMATS</b></span><br><a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=bibtext' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>BibTeX</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=bookends' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>Bookends</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=easybib' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>EasyBib</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=endnote-tagged' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>EndNote (tagged)</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=endnote-8-xml' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>EndNote (xml)</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=medlars' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>Medlars</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=mendeley' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>Mendeley</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=papers' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>Papers</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=refworks-tagged' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>RefWorks Tagged</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=reference-manager' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>Ref Manager</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=ris' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>RIS</a> <a target='_new' href='http://www.ejmanager.com/index_htc.php?mno=246565&cf=zotero' style='width:160px;float:left;padding:9px;margin:7px;border:1px solid #bbb;background:#eee;border-radius: 3px; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; '>Zotero</a> </div></div></div></body></html>

@@ -1,0 +1,80 @@
+Law Enforcement's Role in Responding to Disasters: Aiding EM
+Emergency and Disaster Management Blog | American Military University
+By
+James Weber
+| 06/14/2024
+Law enforcement often plays a critical role in emergency management (EM), particularly in disaster response, search and rescue, and recovery after a man-made or natural disaster.
+Although the law enforcement community may struggle at times with the logistical challenges of emergency management, their roles as first responders naturally align with the principles of the Incident Command System (ICS) and National Incident Management System (NIMS) concepts.
+Law enforcement officers help first responders develop an understanding of on-scene management and also handle the eventual handoff to specialized units for the continuity of operations.
+As an example, officers commonly respond to traffic accidents, which may include people who are injured or hazardous materials. These scenarios usually involve multi-agency and even multi-jurisdictional responses, using the
+NIMS structure
+.
+The Purpose of NIMS
+According to the Federal Emergency Management Agency (FEMA), NIMS coordinates how local and federal government, nongovernment organizations (NGO), and the private sector work together to prevent, protect against, reduce, respond to, and recover from emergencies and disasters.
+NIMS provides a common language, systems, and processes for these groups to effectively implement the
+National Preparedness System
+. It defines how personnel should collaborate and operate during incidents to ensure a unified response.
+The purpose of the NIMS structure is to provide a common approach to or set a standard for managing incidents to increase public safety and optimally prepare emergency services.
+NIMS is applicable across a full spectrum of potential incidents, hazards, and impacts, regardless of their size, location, or complexity. From a department management standpoint, law enforcement executives need to ensure that consistent application of NIMS and ICS concepts become second nature to their employees so they can provide a more efficient and effective response.
+The EM Response and Law Enforcement Agencies
+From a skillset standpoint, law enforcement officials are capable of working through any type of incident response. However, agencies tend to struggle in two situations:
+When a critical incident shifts into a long-term recovery effort
+When a long-term commitment is needed in the areas of preparedness
+Since most police responses to critical incidents are generally rapid and short in duration, both of these situations can cause challenges for law enforcement personnel. The law enforcement response structure commonly uses a template that leans toward a tactical-first approach, with logistical planning and recovery often limited during a time of critical response.
+As a result, the police are more focused on immediate intervention to address and neutralize the most pressing aspects of an emergency, often at the expense of more comprehensive emergency management planning and longer-term recovery work. Unfortunately, this strategy increases the likelihood of poorly directed operations within the most critical hours of a long-term operation. For example, destructive hurricanes can reveal flaws in critical life-safety planning when search and rescue operations fail to identify and rapidly respond to the needs of disaster victims.
+Law Enforcement Challenges and Lessons Learned
+Federal and local law enforcement agencies face several challenges in emergency management, particularly when their work is integrated into the structure and protocols of the
+Office of Emergency Management
+(OEM).
+Conflicts to Command Structure
+One of the biggest challenges for law enforcement personnel assigned to the OEM is balancing the conflict between incident activation of an emergency operations center organization chart and daily operations.
+Many agencies dual-assign officers and other county or municipal staffers to high positions on the OEM organizational chart, due to their unique skill sets. However, they are listed above command staff members in the organizational hierarchy.
+This situation can become problematic, however. Many agencies operate under a paramilitary scope of operations, and higher-ranking officers may be reluctant or unwilling to adjust the command hierarchy.
+A Lack of NIMS Proficiency
+Law enforcement administrators may also fail to recognize the NIMS response structure, which could cause a conflict to arise.
+Based on my experience, law enforcement does not normally articulate their direct role in the NIMS response. Consequently, officers and administrators tend to be less proficient and informed about the structure or situation.
+This situation is not normally the case in organizations such as fire departments, where specializations (i.e. hazmat teams) promote scene management by the most qualified and credentialed responders, rather than using a strictly command rank structure. The understanding of this NIMS concept is better accepted in the fire service where it is practiced on each call.
+How to Prepare for Emergency Management Duties
+My best advice to individuals who may be contemplating job opportunities in emergency management is to first acknowledge the conflicts. There will likely be issues within the law enforcement subculture, which has clearly delineated from paramilitary organizations, in accepting and understanding NIMS concepts.
+Agency administrators must also have a clear understanding of their roles in successful emergency management and response. They need to develop an awareness of the importance of NIMS and ICS principles to enable efficient incident management.
+In preparing for a disaster, it is also important to implement an ongoing training program and other exercises to support and emphasize preparedness. One way to accomplish this goal is to consistently test and practice emergency management structure during special events (hosted within the agency’s jurisdiction) in addition to assisting in neighboring jurisdictions.
+Agencies should also seek to participate in regional or state exercises where the full scope of the NIMS structure will be revealed for best practices and lessons learned.
+Emergency management is a team effort. As a result, law enforcement’s ability to successfully respond to incidents is directly related to how well prepared and trained all officers are to handle any kind of emergency.
+Frequently Asked Questions
+How does FEMA enhance the capabilities of the law enforcement community?
+FEMA enhances the capabilities of the law enforcement community by providing training, resources, and support for disaster response and recovery efforts. FEMA offers specialized courses and exercises to help law enforcement agencies integrate into the NIMS and ICS.
+FEMA collaborates with law enforcement to develop emergency plans, conduct risk assessments, and improve coordination during emergencies, ensuring a more effective and unified response to incidents.
+What are the roles of first responders?
+The roles of first responders are varied and crucial in managing emergencies such as natural disasters effectively. They include:
+Search and rescue:
+Disaster agency employees and volunteers locate and save individuals who are trapped, injured, or in immediate danger. Their response efforts often involve working in hazardous conditions to ensure everyone's safety and well-being.
+Medical assistance:
+Providing first aid, triage, and ongoing medical care to victims of a disaster, disaster personnel play vital roles in stabilizing patients and preparing them for transport to medical facilities in nearby communities.
+Firefighting:
+Firefighters work to extinguish fires, prevent the spread of flames, and reduce fire-related hazards, ensuring the safety of both people and property.
+Law enforcement:
+Ensuring public safety, maintaining order, and securing affected areas, officers from local law enforcement agencies maintain public order, prevent looting, enforce curfews, and manage the safe evacuation of civilians.
+Logistical support:
+Coordinating the distribution of essential supplies such as food, water, and medical equipment, responders ensure that resources are allocated effectively to meet the needs of disaster-stricken communities.
+Communication:
+Facilitating information flow among different agencies, responders, and the public, communication personnel ensure that accurate and timely information is disseminated to coordinate efforts and keep the public aware of what is happening before, during, and after crisis situations.
+Recovery operations:
+Assisting in communities' cleanup and rebuilding efforts, responders help restore normalcy to disaster areas by clearing debris, repairing infrastructure, and providing ongoing support to help communities recover and rebuild.
+Emergency Management Degrees at American Military University
+American Military University (AMU) offers a range of programs in emergency and disaster management, each designed to equip students with useful knowledge and skills. With a focus on flexibility, these online programs are designed for working professionals and taught by experienced faculty with extensive field experience.
+Bachelor of Arts in Emergency and Disaster Management
+The online bachelor of arts in emergency and disaster
+online bachelor of arts in emergency and disaster management
+at AMU provides a foundation in emergency management principles. The curriculum covers topics such as hazard mitigation, crisis action planning, and disaster recovery.
+Master of Arts in Emergency and Disaster Management
+AMU's
+online master of arts in emergency and disaster management
+is designed to prepare adult learners to seek leadership roles in the field. This advanced program delves into mission planning, relief management, and strategic recovery operations and emphasizes critical thinking and problem-solving skills.
+Dual Master’s Degree in Emergency and Disaster Management and Homeland Security
+The
+master’s degree in emergency and disaster management and homeland security
+at AMU combines the expertise of both fields into a comprehensive program. Students will study the integration of emergency management and homeland security, focusing on strategic response and recovery efforts.
+About The Author
+James Weber
+James Weber is an adjunct professor of criminal justice at AMU’s School of Security and Global Studies. He holds an associate degree in law enforcement from Cuyahoga Community College, a bachelor’s degree in professional administration/human resource management from Barry University, and a master’s degree in criminal justice from the University of Central Florida.
+With over 30 years of experience as a police officer in South Florida, James recently retired. His career primarily focused on road patrol and criminal investigations. He has also completed specialized emergency management training through FEMA, including the Professional Development Series (PDS) and Advanced Professional Series (APS). Additionally, James has taught FEMA’s ICS-300 and ICS-400 courses to first responders.

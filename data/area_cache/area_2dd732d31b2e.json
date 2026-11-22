@@ -1,0 +1,87 @@
+{
+  "major_roads": [
+    {
+      "name": "Atwood Avenue",
+      "type": "residential",
+      "distance_km": 3.0
+    },
+    {
+      "name": "Gaines Avenue",
+      "type": "service",
+      "distance_km": 3.5
+    },
+    {
+      "name": "Owen Avenue",
+      "type": "service",
+      "distance_km": 4.6
+    },
+    {
+      "name": "Road to 113/114 Parking Lot",
+      "type": "residential",
+      "distance_km": 10.2
+    }
+  ],
+  "bridges_tunnels": [
+    {
+      "name": "노고산1터널",
+      "type": "tunnel",
+      "distance_km": 13.9
+    }
+  ],
+  "open_assembly_spots": [
+    {
+      "name": "Loiter Coffee Shelter",
+      "type": "cafe",
+      "distance_km": 2.0
+    },
+    {
+      "name": "Parking lot restroom",
+      "type": "toilets",
+      "distance_km": 7.3
+    },
+    {
+      "name": "서울월드컵경기장",
+      "type": "stadium",
+      "distance_km": 7.3
+    },
+    {
+      "name": "Park Royal",
+      "type": "restaurant",
+      "distance_km": 8.4
+    }
+  ],
+  "high_density_hubs": [
+    {
+      "name": "강북삼성병원",
+      "type": "hospital",
+      "distance_km": 1.1
+    },
+    {
+      "name": "서울역",
+      "type": "station",
+      "distance_km": 1.7
+    },
+    {
+      "name": "서울대학교병원",
+      "type": "hospital",
+      "distance_km": 1.9
+    },
+    {
+      "name": "세브란스병원",
+      "type": "hospital",
+      "distance_km": 3.6
+    }
+  ],
+  "terrain_markers": [
+    {
+      "label": "남산 (peak)",
+      "type": "peak",
+      "distance_km": 2.1
+    },
+    {
+      "label": "한강 (river)",
+      "type": "river",
+      "distance_km": 13.8
+    }
+  ]
+}

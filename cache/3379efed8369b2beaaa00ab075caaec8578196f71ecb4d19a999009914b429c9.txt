@@ -1,0 +1,91 @@
+Earthquake Preparedness and Response
+Earthquake Menu
+Workers' Rights
+Introduction
+Preparedness
+Response/Recovery
+Resources
+Emergency Preparedness and Response
+Hurricanes
+Tornadoes
+Earthquakes
+Floods
+Wildfires
+Winter Weather
+Workers' Rights
+Preparedness
+Many of the hazards to workers both during and following an earthquake are predictable and may be reduced through hazard identification, planning, and mitigation.
+There are several steps you can take to prepare your workplace before an earthquake:
+What are aftershocks?
+Aftershocks are smaller earthquakes that follow the main shock and can cause further damage to weakened buildings. After-shocks can occur in the first hours, days, weeks, or even months after the quake. Be aware that some earthquakes are actually foreshocks, and a larger earthquake might occur.
+Identify "safe places"
+such as under a sturdy table or desk, or against an interior wall away from windows, bookcases, or tall furniture that could fall on you. The closer you are to a safe place reduces the risk of injury. Many injuries occur when people move even ten feet during shaking. Where possible, anchor tall bookcases and file cabinets to the wall to reduce crushing hazards.
+Practice "
+Drop, Cover, and Hold On
+"
+in each safe place. Drop to the ground, take cover under a sturdy piece of furniture, hold on to a table or desk leg, and keep your head down to protect your eyes. Regular practice helps make this response automatic.
+Conduct practice drills
+at least twice a year. Frequent practice reinforces safe behavior and reduces hesitation during an actual earthquake.
+Develop an earthquake response plan
+for workers that includes procedures for both initial shaking and aftershocks to include:
+Stay in your safe place until the shaking ends, then check yourself for injuries before helping others. Move carefully and watch for fallen objects, broken items, and aftershocks.
+Watch for fires, which are common after earthquakes due to damaged gas or electrical lines.
+If you must exit the building after the shaking stops, use stairs, not elevators, and stay alert for falling debris. Alarms and sprinklers may activate, and elevator systems may be compromised.
+If you are outside during an earthquake, stay outside. Move away from buildings, trees, streetlights, and overhead lines. Crouch down and cover your head. Injuries can occur near building entrances due to falling bricks, roofing materials, or other debris. If you are in a car, pull over, stop, and set your parking brake.
+Inform and train
+workers on the plan. Discussing earthquakes procedures in advance reduces fear and ensures everyone knows how to respond.
+Provide first-aid and fire extinguisher training
+through organizations such as the American Red Cross, American Heart Association, or National Safety Council, and keep certifications current. Training helps workers stay focused on what to do during emergencies.
+Federal Emergency Management Agency’s (FEMA)
+How-To Series
+contains information about protecting people and property before, during, and after earthquakes. Perform a workplace survey, especially in high-risk areas, to identify hazards such as unstable furniture, materials that could fall, blocked egress routes, or equipment that could release hazardous materials during shaking. Follow FEMA’s recommended mitigation techniques.
+Employers whose workers will be involved in emergency response operations with releases or substantial threats of releases of hazardous substances, regardless of the location of the hazard, must comply with OSHA’s
+Hazardous Waste Operations and Emergency Response
+(HAZWOPER) standard,
+29 CFR 1910.120
+and 29 CFR 1926.65. The provisions may apply to emergency response following an earthquake.
+Instruction CPL 02-02-073
+describes OSHA enforcement procedures under the relevant provisions of the HAZWOPER standard. OSHA’s HAZWOPER Safety and Health Topics page explains the requirements of the OSHA HAZWOPER standard, including required worker training.
+The U.S. Environmental Protection Agency (EPA) has promulgated a standard applying OSHA’s HAZWOPER standard to state and local government workers in states where there is no
+OSHA-approved State Plan
+. See
+40 CFR Part 311
+.
+Equipping
+Procuring emergency supply kits and keeping them in shelter locations can help workplaces prepare for an earthquake.
+Basic Disaster Supplies Kit
+. Ready.gov - Federal Emergency Management Agency (FEMA). Lists supplies needed for a disaster kit.
+Workplace Plans
+. Ready.gov - Federal Emergency Management Agency (FEMA). Provides basic information on developing an emergency management plan for the workplace.
+Training and Exercises
+Employers and workers can prepare for an earthquake by participating in training and exercises.
+Ensure that all workers know what to do in case of an earthquake.
+Practice earthquake and evacuation plans on a regular basis, especially in areas that regularly experience earthquakes.
+Update plans and procedures based on lessons learned from exercises.
+OSHA's Disaster Site Worker Outreach Training Program
+is a voluntary training program for workers who provide skilled support services (e.g., utility, demolition, debris removal, or heavy equipment operation) or site clean-up services. The program highlights the differences between disaster sites and construction sites and emphasizes the need for workers and employers to have pre-incident training.
+ShakeOut
+is an annual global earthquake drill supported by FEMA, the U.S. Geological Survey (USGS), the National Science Foundation, and others. Businesses and other organizations can register and participate for free. ShakeOut provides an earthquake
+Drill Manual for Businesses
+with lessons for workers and employers.
+Develop an Emergency Action Plan
+A disorganized evacuation can result in confusion, injury, and property damage. An
+emergency action plan
+is critical. An
+emergency action plan checklist
+can assist this process.
+When to evacuate:
+If emergency response authorities indicate specifically to do so.
+If emergency response authorities indicate there is time to do so.
+If you can reach a safe location before an event is expected to occur.
+When environmental conditions would not expose evacuees to a dangerous environment.
+Evacuation plans should include:
+Conditions under which evacuation would be necessary (considering the above information);
+When sheltering in place may be a better alternative;
+A clear chain of command and designation of the person in workplace authorized to order an evacuation;
+Specific evacuation procedures, including routes and exits;
+Specific procedures for employers and workers in high-rise buildings (if applicable);
+Procedures for assisting visitors and workers in evacuating, particularly those with disabilities or who do not speak English;
+Designation of which, if any, workers will remain after an evacuation alarm to shutdown critical operations or perform other duties before evacuating; and
+Special equipment for workers, including personal protective equipment and respiratory protection (e.g., escape respirators), if needed.
+Figure 1. U.S. Geological Survey (USGS) National Seismic Hazard Model (2023). Map displays the likelihood of damaging earthquake shaking in the United States over the next 100 years.

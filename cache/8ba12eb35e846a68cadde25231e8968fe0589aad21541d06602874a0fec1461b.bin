@@ -1,0 +1,927 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <!-- This site is optimized with the Yoast SEO plugin v27.3 - https://yoast.com/product/yoast-seo-wordpress/ --><title>First Aid for Shock: Signs, Symptoms, and Response Steps</title><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin/><link rel="preconnect" href="https://fonts.googleapis.com"/><style type="text/css">@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl36TGI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR23z.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inconsolata';
+ font-style: normal;
+ font-weight: 400;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WRP2kg.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRhJWA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZFhjQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Merriweather';
+ font-style: italic;
+ font-weight: 400;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmTCUG35AvQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Merriweather';
+ font-style: italic;
+ font-weight: 700;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQlV235AvQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Merriweather';
+ font-style: italic;
+ font-weight: 900;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmRrV235AvQ.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Merriweather';
+ font-style: normal;
+ font-weight: 400;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaGl3w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Merriweather';
+ font-style: normal;
+ font-weight: 700;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAaGl3w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Merriweather';
+ font-style: normal;
+ font-weight: 900;
+ font-stretch: normal;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAaGl3w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntF.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntF.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnedw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf) format('truetype');
+} </style><link rel="preload" as="font" href="https://emergencycareny.com/wp-content/themes/twentysixteen-child/fonts/TTCommons-DemiBold.woff2" crossorigin/><link rel="preload" as="font" href="https://emergencycareny.com/wp-content/themes/twentysixteen-child/fonts/TTCommons-Regular.woff2" crossorigin/><link rel="preload" as="font" href="https://emergencycareny.com/wp-content/themes/twentysixteen-child/fonts/TTCommons-Medium.woff2" crossorigin/><link rel="preload" as="font" href="https://emergencycareny.com/wp-content/plugins/social-icons/assets/fonts/Socicon.woff2" crossorigin/><link rel="stylesheet" id="siteground-optimizer-combined-css-eb27c72af9f570b56fc70dbfbf1de708" href="https://emergencycareny.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-eb27c72af9f570b56fc70dbfbf1de708.css" media="all" /><link rel="preload" href="https://emergencycareny.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-eb27c72af9f570b56fc70dbfbf1de708.css" as="style"><meta name="description" content="Know how to provide first aid for shock by recognizing signs and symptoms. This guide covers how to treat shock and the different types of shock." /><link rel="canonical" href="https://emergencycareny.com/first-aid-for-shock/" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="article" /><meta property="og:title" content="First Aid for Shock: Signs, Symptoms, and Response Steps" /><meta property="og:description" content="Know how to provide first aid for shock by recognizing signs and symptoms. This guide covers how to treat shock and the different types of shock." /><meta property="og:url" content="https://emergencycareny.com/first-aid-for-shock/" /><meta property="og:site_name" content="Emergency care EMT Training | First Aid and CPR Training" /><meta property="article:publisher" content="https://www.facebook.com/emergencycareny" /><meta property="article:published_time" content="2026-03-03T08:48:46+00:00" /><meta property="article:modified_time" content="2026-10-14T18:45:12+00:00" /><meta property="og:image" content="https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid.jpg?wsr" /><meta property="og:image:width" content="850" /><meta property="og:image:height" content="476" /><meta property="og:image:type" content="image/jpeg" /><meta name="author" content="jeff" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:creator" content="@emergencycareny" /><meta name="twitter:site" content="@emergencycareny" /><meta name="twitter:label1" content="Written by" /><meta name="twitter:data1" content="jeff" /><meta name="twitter:label2" content="Est. reading time" /><meta name="twitter:data2" content="3 minutes" /> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#article","isPartOf":{"@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/"},"author":{"name":"jeff","@id":"https:\/\/emergencycareny.com\/#\/schema\/person\/b6025b29cd52b2abe01f17f37d4f1edc"},"headline":"First Aid for Shock: Signs, Symptoms, and Response Steps","datePublished":"2026-03-03T08:48:46+00:00","dateModified":"2026-10-14T18:45:12+00:00","mainEntityOfPage":{"@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/"},"wordCount":574,"publisher":{"@id":"https:\/\/emergencycareny.com\/#organization"},"image":{"@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#primaryimage"},"thumbnailUrl":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2026\/02\/First-Aid.jpg","keywords":["how to treat shock","signs and symptoms of shock","types of shock","what is shock"],"articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/","url":"https:\/\/emergencycareny.com\/first-aid-for-shock\/","name":"First Aid for Shock: Signs, Symptoms, and Response Steps","isPartOf":{"@id":"https:\/\/emergencycareny.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#primaryimage"},"image":{"@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#primaryimage"},"thumbnailUrl":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2026\/02\/First-Aid.jpg","datePublished":"2026-03-03T08:48:46+00:00","dateModified":"2026-10-14T18:45:12+00:00","description":"Know how to provide first aid for shock by recognizing signs and symptoms. This guide covers how to treat shock and the different types of shock.","breadcrumb":{"@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/emergencycareny.com\/first-aid-for-shock\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#primaryimage","url":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2026\/02\/First-Aid.jpg","contentUrl":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2026\/02\/First-Aid.jpg","width":850,"height":476,"caption":"first aid for shock"},{"@type":"BreadcrumbList","@id":"https:\/\/emergencycareny.com\/first-aid-for-shock\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/emergencycareny.com\/"},{"@type":"ListItem","position":2,"name":"First Aid for Shock: Signs, Symptoms, and Response Steps"}]},{"@type":"WebSite","@id":"https:\/\/emergencycareny.com\/#website","url":"https:\/\/emergencycareny.com\/","name":"Emergency care EMT Training | First Aid and CPR Training","description":"Emergency care, EMT Training | First Aid and CPR Training","publisher":{"@id":"https:\/\/emergencycareny.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/emergencycareny.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/emergencycareny.com\/#organization","name":"Emergency care EMT Training | First Aid and CPR Training","url":"https:\/\/emergencycareny.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/emergencycareny.com\/#\/schema\/logo\/image\/","url":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2023\/06\/logo-white.png","contentUrl":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2023\/06\/logo-white.png","width":184,"height":44,"caption":"Emergency care EMT Training | First Aid and CPR Training"},"image":{"@id":"https:\/\/emergencycareny.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/emergencycareny","https:\/\/x.com\/emergencycareny"]},{"@type":"Person","@id":"https:\/\/emergencycareny.com\/#\/schema\/person\/b6025b29cd52b2abe01f17f37d4f1edc","name":"jeff","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/secure.gravatar.com\/avatar\/68cabc2e6a6c266019b50166dbf8588bda2f336958dfa49fdec29eecf11c3283?s=96&d=mm&r=g","url":"https:\/\/secure.gravatar.com\/avatar\/68cabc2e6a6c266019b50166dbf8588bda2f336958dfa49fdec29eecf11c3283?s=96&d=mm&r=g","contentUrl":"https:\/\/secure.gravatar.com\/avatar\/68cabc2e6a6c266019b50166dbf8588bda2f336958dfa49fdec29eecf11c3283?s=96&d=mm&r=g","caption":"jeff"},"url":"https:\/\/emergencycareny.com\/author\/jeff\/"}]}</script> <!-- / Yoast SEO plugin. --><link rel='dns-prefetch' href='//fonts.googleapis.com' /><link href='https://fonts.gstatic.com' crossorigin rel='preconnect' /><link rel="alternate" type="application/rss+xml" title="Emergency care EMT Training | First Aid and CPR Training &raquo; Feed" href="https://emergencycareny.com/feed/" /><link rel="alternate" type="application/rss+xml" title="Emergency care EMT Training | First Aid and CPR Training &raquo; Comments Feed" href="https://emergencycareny.com/comments/feed/" /><link rel="alternate" type="application/rss+xml" title="Emergency care EMT Training | First Aid and CPR Training &raquo; First Aid for Shock: Signs, Symptoms, and Response Steps Comments Feed" href="https://emergencycareny.com/first-aid-for-shock/feed/" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://emergencycareny.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femergencycareny.com%2Ffirst-aid-for-shock%2F" /><link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://emergencycareny.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femergencycareny.com%2Ffirst-aid-for-shock%2F&#038;format=xml" /> <style id="wp-img-auto-sizes-contain-inline-css"> img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <style id="classic-theme-styles-inline-css"> /*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */ </style> <style id="global-styles-inline-css"> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #1a1a1a;--wp--preset--color--medium-gray: #686868;--wp--preset--color--light-gray: #e5e5e5;--wp--preset--color--blue-gray: #4d545c;--wp--preset--color--bright-blue: #007acc;--wp--preset--color--light-blue: #9adffd;--wp--preset--color--dark-brown: #402b30;--wp--preset--color--medium-brown: #774e24;--wp--preset--color--dark-red: #640c1f;--wp--preset--color--bright-red: #ff675f;--wp--preset--color--yellow: #ffef8e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-color{color: var(--wp--preset--color--dark-gray) !important;}.has-medium-gray-color{color: var(--wp--preset--color--medium-gray) !important;}.has-light-gray-color{color: var(--wp--preset--color--light-gray) !important;}.has-blue-gray-color{color: var(--wp--preset--color--blue-gray) !important;}.has-bright-blue-color{color: var(--wp--preset--color--bright-blue) !important;}.has-light-blue-color{color: var(--wp--preset--color--light-blue) !important;}.has-dark-brown-color{color: var(--wp--preset--color--dark-brown) !important;}.has-medium-brown-color{color: var(--wp--preset--color--medium-brown) !important;}.has-dark-red-color{color: var(--wp--preset--color--dark-red) !important;}.has-bright-red-color{color: var(--wp--preset--color--bright-red) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-background-color{background-color: var(--wp--preset--color--dark-gray) !important;}.has-medium-gray-background-color{background-color: var(--wp--preset--color--medium-gray) !important;}.has-light-gray-background-color{background-color: var(--wp--preset--color--light-gray) !important;}.has-blue-gray-background-color{background-color: var(--wp--preset--color--blue-gray) !important;}.has-bright-blue-background-color{background-color: var(--wp--preset--color--bright-blue) !important;}.has-light-blue-background-color{background-color: var(--wp--preset--color--light-blue) !important;}.has-dark-brown-background-color{background-color: var(--wp--preset--color--dark-brown) !important;}.has-medium-brown-background-color{background-color: var(--wp--preset--color--medium-brown) !important;}.has-dark-red-background-color{background-color: var(--wp--preset--color--dark-red) !important;}.has-bright-red-background-color{background-color: var(--wp--preset--color--bright-red) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-border-color{border-color: var(--wp--preset--color--dark-gray) !important;}.has-medium-gray-border-color{border-color: var(--wp--preset--color--medium-gray) !important;}.has-light-gray-border-color{border-color: var(--wp--preset--color--light-gray) !important;}.has-blue-gray-border-color{border-color: var(--wp--preset--color--blue-gray) !important;}.has-bright-blue-border-color{border-color: var(--wp--preset--color--bright-blue) !important;}.has-light-blue-border-color{border-color: var(--wp--preset--color--light-blue) !important;}.has-dark-brown-border-color{border-color: var(--wp--preset--color--dark-brown) !important;}.has-medium-brown-border-color{border-color: var(--wp--preset--color--medium-brown) !important;}.has-dark-red-border-color{border-color: var(--wp--preset--color--dark-red) !important;}.has-bright-red-border-color{border-color: var(--wp--preset--color--bright-red) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */ </style><link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://emergencycareny.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.min.css' media='only screen and (max-width: 768px)' /> <style id="woocommerce-inline-inline-css"> .woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */ </style> <script id="jquery-core-js" src="https://emergencycareny.com/wp-includes/js/jquery/jquery.min.js"></script> <script id="my_voter_script-js-extra"> var myAjax = {"ajaxurl":"https://emergencycareny.com/wp-admin/admin-ajax.php"};
+//# sourceURL=my_voter_script-js-extra </script> <script id="woocommerce-js-extra"> var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra </script><link rel="https://api.w.org/" href="https://emergencycareny.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://emergencycareny.com/wp-json/wp/v2/posts/14578" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://emergencycareny.com/xmlrpc.php?rsd" /><meta name="generator" content="WordPress 7.1.5" /><meta name="generator" content="WooCommerce 10.6.2" /><link rel='shortlink' href='https://emergencycareny.com/?p=14578' /> <script src="//s.ksrndkehqnwntyxlhgto.com/115035.js"></script> <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-8ZCZ5TL733"></script> <script> window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'G-8ZCZ5TL733'); </script> <script> window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date()); </script><meta name="ti-site-data" content="eyJyIjoiMTowITc6MCEzMDowIiwibyI6Imh0dHBzOlwvXC9lbWVyZ2VuY3ljYXJlbnkuY29tP3RpLW9ubGluZS11c2Vycy1nb29nbGU9MSZhbXA7cD0lMkZmaXJzdC1haWQtZm9yLXNob2NrJTJGJmFtcDtfd3Bub25jZT0xMmNmMGQ4YTE5In0=" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript><meta name="generator" content="Elementor 4.0.1; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"> <style>#header__dropdown{cursor:pointer}#header__dropdown span{cursor:pointer}#header__dropdown .fa-chevron-down,#header__dropdown .fa-chevron-up{margin-left:10px}#header__dropdown .fa-chevron-down:before,#header__dropdown .fa-chevron-up:before{font-size:12px}.header__main-nav .e-n-menu-items-heading .e-n-menu-item-title:first-child{padding-left:0}#header__register{padding-left:35px}#header__register span{line-height:28px;font-weight:700}#contact-nav{padding-right:35px;border-right:1px solid #fff}.header__main-dark{background-color:#000 !important}@media(max-width: 1024px){#header__register{padding-left:calc((100% - 740px)/2)}#contact-nav{border:0}}@media(max-width: 767px){#header__register{padding-left:5vw}}.footer__contacts .elementor-icon-list-item:nth-child(3){margin-top:-6px !important}.footer__contacts .elementor-icon-list-item:nth-child(3){padding-left:22px}.hero__title h1 em{font-weight:400}.hero__title h1 em span{-webkit-text-decoration:none !important;text-decoration:none !important}.hero__title h1 em span{position:relative}.hero__title h1 em span:after{position:absolute;content:"";bottom:3px;left:0;width:100%;height:2px;background-color:var(--e-global-color-primary)}.el__h2 h2{color:var(--e-global-color-secondary);font-family:"DM Sans",Sans-serif;font-size:32px;font-weight:700;line-height:42px}.btn__main .elementor-button-content-wrapper{align-items:center}.btn__main i{padding:7px 9px 8px 11px;background-color:#fff;border-radius:5px 0px;line-height:9px}.btn__main i:before{color:var(--e-global-color-primary);font-size:10px;line-height:10px}.btn__main-trans i{background-color:var(--e-global-color-primary)}.btn__main-trans i:before{color:#fff}.elementor .e-con>.e-con-inner>.btn__main-trans{margin-top:auto}.elementor .e-con>.e-con-inner>.btn__main-trans .elementor-button{padding:0}.training__section:before{position:absolute;content:"";top:0;left:0;width:100%;height:100%;background:radial-gradient(68.78% 300.88% at 100% 93.27%, rgba(40, 43, 53, 0.1) 2.98%, rgba(25, 26, 33, 0.6) 51.28%, rgb(0, 0, 0) 100%)}.location__item{box-shadow:0px 20px 38px rgba(158,158,158,.25)}.location__listing .slick-slider .slick-list{padding-bottom:20px}.location__listing .jet-listing-grid__slider-icon.slick-arrow.next-arrow,.location__listing .jet-listing-grid__slider-icon.slick-arrow.prev-arrow{height:40px;border-radius:5px}.location__listing .jet-listing-grid__slider-icon.slick-arrow.next-arrow.slick-disabled,.location__listing .jet-listing-grid__slider-icon.slick-arrow.prev-arrow.slick-disabled{opacity:.5}</style><meta name="google-site-verification" content="bA0C6Q5w8BGOIiOV2_0n4voRG8yqvSAMDbv4AvWI5cg" /> <style> .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+ .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+ background-image: none !important;
+ }
+ @media screen and (max-height: 1024px) {
+ .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+ .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+ background-image: none !important;
+ }
+ }
+ @media screen and (max-height: 640px) {
+ .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+ .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+ background-image: none !important;
+ }
+ } </style><link rel="icon" href="https://emergencycareny.com/wp-content/uploads/2018/12/cropped-footer-logo-32x32.png" sizes="32x32" /><link rel="icon" href="https://emergencycareny.com/wp-content/uploads/2018/12/cropped-footer-logo-192x192.png" sizes="192x192" /><link rel="apple-touch-icon" href="https://emergencycareny.com/wp-content/uploads/2018/12/cropped-footer-logo-180x180.png" /><meta name="msapplication-TileImage" content="https://emergencycareny.com/wp-content/uploads/2018/12/cropped-footer-logo-270x270.png" /> <style id="wp-custom-css"> .elementor-content .elementor-widget-wrap {
+ display: block !important;
+ padding: 0 !important;
+}
+.elementor-content .elementor-widget-wrap .elementor-widget-container>p {
+ margin: 0;
+}  .other-cntent{width: 960px;margin: auto;margin-top: 30px;}
+.heightwidh{height: 80px !important;}
+div.wpcf7-mail-sent-ok{font-weight: normal;}
+div.wpcf7-validation-errors{font-weight: normal;}
+#poststuff #post-body.columns-2 {
+ margin-right: 0;
+}
+.woocommerce ul.products.columns-2 li.product, .woocommerce-page ul.products.columns-2 li.product {
+ width: 48%;
+ background: #eb4a41;
+ color: white;
+ padding: 2%;
+ text-align: center;
+}
+li.product-category.product a img {
+ display: none !important;
+}
+h2.woocommerce-loop-category__title {
+ color: #fff;
+}
+.columns-1 img.woocommerce-placeholder.wp-post-image {
+ display: none !important;
+}  a.woocommerce-LoopProduct-link.woocommerce-loop-product__link {
+ display: none;
+}
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+ display: none;
+}
+.thwmscf-tab-panels{
+ padding:0;
+}
+.order-billing , .cf-details-payment{
+ width:45%;
+ float:right;
+ /*border:1px solid black;*/
+ /*padding:20px;*/
+ margin-left:5px;
+}
+.woocommerce-billing-fields{
+ width:50%;
+ float:right;
+ padding:20px;
+ margin-right:10px;
+ background-color: #efefef !important;
+ border-radius: 5px;
+}
+#add_payment_method #payment, .woocommerce-cart #payment, .woocommerce-checkout #payment{
+ width:50%;
+}
+@media only screen and (max-width: 1024px) {
+ .order-billing ,.cf-details-payment{
+ width:100%;
+}
+.woocommerce-billing-fields{
+ width:100%;
+}
+#add_payment_method #payment, .woocommerce-cart #payment, .woocommerce-checkout #payment{
+ width:100% !important;
+}
+ ul#checkout_timeline {
+ display: none !important;
+}
+ .order-billing, .cf-details-payment {
+ width: 100% !important;
+ float: none !important;
+ /* border: 1px solid black; */
+ padding: 20px;
+ margin-left: 5px;
+} 
+ #extr_billing {
+ width: 100% !important;
+ float: none !important;
+ }
+ #extr_billing .thwcfd-field-text label {
+ padding-top: 5px;
+ width: 30% !important;
+float: left !important;
+}
+#extr_billing .thwcfd-field-text span.woocommerce-input-wrapper {
+ display: block;
+ width: 70% !important;
+ float: left !important;
+}
+}
+#payment_heading{display:none !important;}
+.woocommerce_checkout_timeline {display:none !important;}
+.woocommerce img, .woocommerce-page img{margin-bottom:30px;}
+.cf-details-payment h3{text-align:center;}
+.class_border {
+ border: 1px solid #000;
+ padding: 10px;
+}
+.woo .page-title{display:none !important;}  #add_payment_method #payment ul.payment_methods li:not(.woocommerce-notice)::after, #add_payment_method #payment ul.payment_methods li:not(.woocommerce-notice)::before, .woocommerce-cart #payment ul.payment_methods li:not(.woocommerce-notice)::after, .woocommerce-cart #payment ul.payment_methods li:not(.woocommerce-notice)::before, .woocommerce-checkout #payment ul.payment_methods li:not(.woocommerce-notice)::after, .woocommerce-checkout #payment ul.payment_methods li:not(.woocommerce-notice)::before{
+ display:inline-grid !important;
+}
+h3#order_review_heading{
+ display:none;
+}
+div#payment ul li label {
+ position: relative;
+ top: -15px;
+ margin-top: 15px !important;
+}
+.quickpaymentbox {
+ width: 350px;}
+.cat_detail p{
+ font-size: 21px !important;
+ line-height: 26px !important;
+ text-align: center !important;
+ padding: 10px !important;
+}
+.courcse-list-box.register p{
+ font-size: 21px !important;
+ line-height: 26px !important}
+.payment-box p{color: #545454 !important;}
+.woocommerce-billing-fields__field-wrapper input {
+ background: #fff !important;
+ color: #1a1a1a !important; 
+}
+label {
+ color: #000;
+}
+.last-text-box p {
+ color: #545454 !important;}
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+ width: 100% !important;
+ background: #ec4a41 !important;
+}
+/* mustafa */
+ input.button.alt.yith-wcms-button.next{ 
+ padding: 15px 40px 10px 43px !important;
+ height: auto;
+ line-height: 1 !important;
+ margin-top: 20px !important;
+ font-family: 'TT Commons';
+ font-weight: 600;
+ font-size: 23px !important;
+ background: #000 url("https://emergencycareny.com/staging/wp-content/uploads/2021/01/btn-bg-hr-r.png") no-repeat 80% !important;
+/*     box-shadow: 1px 10px 20px 0px rgba(0, 0, 0, 0.2) !important; */
+ border-radius: 15px !important;
+ color: #fff !important;
+ text-transform: inherit;
+ width: 170px;
+}
+input.button.alt.yith-wcms-button.next:hover{
+ background: #fff url("https://emergencycareny.com/staging/wp-content/uploads/2018/12/btn-bg-hr-r-02.png") no-repeat 80% !important;
+ color: #000 !important;
+ border: 1px solid black !important;
+}
+input.button.alt.yith-wcms-button.prev{
+ margin-top: 20px !important;
+ font-family: 'TT Commons';
+ font-weight: 600;
+ font-size: 23px !important;
+ padding: 15px 60px 10px 43px !important;
+ background: #fff url("https://emergencycareny.com/staging/wp-content/uploads/2021/01/btn-bg-hr-01.png") no-repeat 15% !important;
+ box-shadow: 1px 10px 20px 0px rgba(0, 0, 0, 0.2) !important;
+ border-radius: 50px !important;
+ color: #000 !important;
+ text-transform: inherit;
+ width: 170px !important;
+ float: left !important;
+ height: 50px !important;
+ line-height: 1 !important;
+}
+input.button.alt.yith-wcms-button.prev:hover{
+ background: #ec4a41 url("https://emergencycareny.com/staging/wp-content/uploads/2021/01/btn-bg-hr-r-002.png") no-repeat 15% !important;
+ color: #fff !important;
+}
+.woocommerce-billing-fields__field-wrapper input {
+border: 1px solid #bfbdbd ;
+ background-color: #fff; 
+}
+.yith-wcms-pro.woocommerce-checkout .woocommerce form .form-row.woocommerce-validated input.input-text{border: 1px solid #bfbdbd !important;
+background-color: #fff !important;font-size: 15px;
+font-family: 'TT Commons';
+font-weight: 600;
+}
+input[type="text"]:focus,input[type="email"]:focus{border-color: #ef4036 !important;}
+.woocommerce form .form-row label.checkbox, .woocommerce-page form .form-row label.checkbox { 
+ padding-left: 20px;
+}
+.woocommerce form .form-row .input-checkbox {
+ display: inline;
+ margin: -3px 0px 0px -22px !important;}
+ #extr_billing{width:50%;margin-bottom:20px; float:left;padding:10px;}
+/* mustafa */
+span.optional {
+ display: none !important;
+}
+#extr_billing .thwcfd-field-text label {
+ padding-top: 5px;
+ width: 40%;
+float: left;
+}
+#extr_billing .thwcfd-field-text span.woocommerce-input-wrapper {
+ display: block;
+ width: 55%;
+ float: left;
+}
+@media only screen and (max-width: 767px) {
+ #extr_billing .thwcfd-field-text label {
+ width: 100% !important;
+float: none !important;
+}
+#extr_billing .thwcfd-field-text span.woocommerce-input-wrapper {
+ display: block;
+ width: 100% !important;
+ float: none !important;
+} 
+ #extr_billing {
+ width: 100% !important;
+ float: none !important;
+ }
+}
+a.button.alt.custom-back-button.back{
+ position: absolute;
+ left: 30% !important;
+ z-index: 10000000;
+ bottom: 0;
+ padding: 15px 60px 10px 50px !important;
+ height: auto;
+ line-height: 1 !important;
+ margin-top: 20px !important;
+ font-family: 'TT Commons';
+ font-weight: 600;
+ font-size: 23px !important;
+ background: #000 url(https://emergencycareny.com/wp-content/themes/twentysixteen-child/images/btn-bg-hr-01.png) no-repeat 15%;
+/*     box-shadow: 1px 10px 20px 0px rgba(0, 0, 0, 0.2) !important; */
+ border-radius: 15px !important;
+ color: #fff !important;
+ text-transform: inherit;
+ width: 170px;
+}
+a.button.alt.custom-back-button.back:hover {
+ background: #fff url('https://emergencycareny.com/wp-content/themes/twentysixteen-child/images/btn-bg-hr-r-002.png') no-repeat 15%;
+ color: #000 !important;
+ border: 1px solid black !important;
+}
+.error{color:#a00 !important;font-size:14px !important; }
+#el-efcddec4 {
+ background-color: #000;
+}
+.popmake-content img {
+ width: 100% !important;
+}
+.nys-cme-form ul li{ 
+ margin:0 1% 2%;
+}
+.nys-cme-form ul li .checkbox-861{
+ padding-left:10px
+}
+.nys-cme-form ul li .checkbox-926, .nys-cme-form ul li .checkbox-926, .nys-cme-form ul li .checkbox-930,.nys-cme-form ul li .checkboxstyle {
+ padding-left:20px;
+}
+.nys-cme-form ul li .checkbox-926 input{
+ margin-top:12px;
+}
+.nys-cme-form ul li .checkbox-926 span.wpcf7-list-item-label, .nys-cme-form ul li .checkbox-925 span.wpcf7-list-item-label, .nys-cme-form ul li .checkbox-930 span.wpcf7-list-item-label, .nys-cme-form ul li .checkbox-929 span.wpcf7-list-item-label{
+padding-left:10px 
+}
+.wpcf7-list-item-label {
+ margin-right: 13px;
+}
+@media screen and (min-width: 1000px){
+label.srch-btn1.q {
+margin-left: 85px;
+margin-bottom: 20px;
+ }
+.form-box-liting {
+ margin-top: 50px;
+ }
+.srch-btn1:nth-child(2) {
+ float: left !important;
+ } 
+}
+ul.form-hello {
+ list-style-type:none !important;
+}
+@media screen and (max-width: 800px) {
+.vce-text-block.form-box-liting {
+ margin-top: 120px !important;
+ }
+}
+}  .top-ul-box {
+ background: #ef4036 !important;
+ padding: 15px;
+}
+ul.top-ul-private-box {
+ list-style: none;
+ display: flex;
+ justify-content: space-around;
+ background: #ef4036;
+ color: white;
+ padding: 9px;
+ font-size: 19px;
+}
+.card-private {
+ display: flex;
+ justify-content: space-around;
+ padding: 20px;
+ background: white;
+ margin-top: 30px;
+ border-radius: 30px;
+ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75)
+}
+.card-course-number{
+ color:black;
+ font-weight:600;
+ font-size:18px;
+ display:flex;
+ align-items:center;
+ justify-content:center;
+}
+.card-location {
+ color:black;
+ display:flex;
+ align-items:center;
+ justify-content:center;
+ font-weight:bold
+}
+.card-date {
+ color:black;
+ font-weight:600
+}
+.private-block {
+ background: white;
+ padding: 37px;
+ border-radius: 39px;
+}
+.col-private {
+ flex:1
+}
+@media screen and (max-width: 800px) {
+ .card-private {
+ flex-direction:column;
+ gap:20px;
+ }
+ .top-ul-private-box{
+ display:none !important;
+ }
+ .card-date {
+ display:flex;
+ justify-content:center;
+}
+}
+.course-list-heading{
+ font-family: 'TT Commons';
+ font-weight: 500;
+ color: #ef4036;
+ font-size: 50px;
+ text-transform: inherit;
+ margin: 40px 0;
+ letter-spacing: 0;
+}  .woocommerce-billing-fields h3{
+ margin-bottom: 20px !important;
+}  #form_actions{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+@media screen and (max-width:768px){
+ a.button.alt.custom-back-button.back{
+ left: 0% !important;
+ }
+}
+@media screen and (max-width:480px){
+ a.button.alt.custom-back-button.back{
+ bottom: 02%!important;
+ left: 25% !important;
+ }
+}  .emt-error {
+ color: #b81c23;
+ font-size: 14px;
+ margin-top: 6px;
+}
+input[name="billing_emt_expiration_date"] {
+ transition: border 0.3s;
+}  .elementor-kit-14783 input:not([type="button"]):not([type="submit"]){
+ border-radius: 5px !important;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button{
+ background-color: black;
+}  .page-template-template-register .vce-row-container {
+ background-color: white !important;
+}
+.page-template-template-register  .vce-text-block{
+ box-shadow: none;
+}
+.page-template-template-register  .entry-content{
+ margin: 0px !important;
+}
+.page-template-template-register .srch-btn1{
+ margin-right: 10px;
+}
+div#payment ul li label{
+ top: 0px !important;
+}
+.zellenote p{
+ color: white !important;
+}  @media screen and (max-width:768px){
+ input.button.alt.yith-wcms-button.next{
+ top: 20px;
+ left: 0px;
+ }
+}  .woocommerce-error a:hover{
+ color: black !important;
+}  .emt-link a:hover{
+ color: black;
+}  /****new CSS****/
+.instruct {
+/*     display: inline-block; */
+}
+/* Remove spacing above the signature agreement box */
+.woocommerce-checkout-payment .woocommerce-terms-and-conditions-wrapper {
+ display: none !important;
+ margin: 0 !important;
+ padding: 0 !important;
+}
+div.last-text-box.Box-col-5 {
+ margin-top: 0 !important;
+ padding-top: 20px !important;
+ display:inline-flex !important;
+ flex-direction:column !important;
+}
+.woocommerce-checkout #payment div.form-row.place-order {
+ margin-top: 0 !important;
+ padding-top: 0 !important;
+}
+ul.wc_payment_methods.payment_methods.methods{
+ display:inline-flex !important;
+ flex-direction:column !important;
+} </style></head><body class="wp-singular post-template-default single single-post postid-14578 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-twentysixteen wp-child-theme-twentysixteen-child-old theme-twentysixteen woocommerce-no-js yith-wcms yith-wcms-pro hide_checkout_login_reminder group-blog no-sidebar elementor-default elementor-template-full-width elementor-kit-14783 elementor-page elementor-page-14578 elementor-page-8670"><header data-elementor-type="header" data-elementor-id="15371" class="elementor elementor-15371 elementor-location-header" data-elementor-post-type="elementor_library"><div class="elementor-element elementor-element-cc9adf1 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-parent" data-id="cc9adf1" data-element_type="container" data-e-type="container" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}"><div class="elementor-element elementor-element-98f8868 e-con-full e-flex e-con e-child" data-id="98f8868" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b419284 elementor-widget elementor-widget-image" data-id="b419284" data-element_type="widget" data-e-type="widget" data-widget_type="image.default"><div class="elementor-widget-container"> <a href="https://emergencycareny.com"> <img width="368" height="88" src="https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full.png" class="attachment-full size-full wp-image-7555" alt="Emergency Care Programs Logo" srcset="https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full.png 368w, https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full-300x72.png 300w, https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full-150x36.png 150w" sizes="(max-width: 368px) 85vw, 368px" /> </a></div></div></div><div class="elementor-element elementor-element-07c021d e-con-full e-flex e-con e-child" data-id="07c021d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-element elementor-element-c8d6735 e-con-full e-flex e-con e-child" data-id="c8d6735" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-9c7ddd2 elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="9c7ddd2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default"><div class="elementor-widget-container"><nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-9c7ddd2" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14768"><a href="https://emergencycareny.com/register/" class="elementor-item">Training</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14769"><a href="/testimonial/" class="elementor-item">Testimonials</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14770"><a href="/about-us/" class="elementor-item">About Us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16171"><a href="https://emergencycareny.com/locations/" class="elementor-item">Locations</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18414"><a href="#" class="elementor-item elementor-item-anchor">Courses</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18415"><a href="https://emergencycareny.com/emt-basic-training-program/" class="elementor-sub-item">Basic EMT Course</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18416"><a href="https://emergencycareny.com/cme-renewal-program/" class="elementor-sub-item">CME Renewal Program</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18418"><a href="https://emergencycareny.com/emt-basic-refresher-program/" class="elementor-sub-item">EMT Refresher Course</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14771"><a href="/blog/" class="elementor-item">Blog</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14772"><a href="/contact/" class="elementor-item">Contact</a></li></ul></nav><div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> <i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i></div><nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true"><ul id="menu-2-9c7ddd2" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14768"><a href="https://emergencycareny.com/register/" class="elementor-item" tabindex="-1">Training</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14769"><a href="/testimonial/" class="elementor-item" tabindex="-1">Testimonials</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14770"><a href="/about-us/" class="elementor-item" tabindex="-1">About Us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16171"><a href="https://emergencycareny.com/locations/" class="elementor-item" tabindex="-1">Locations</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18414"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Courses</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18415"><a href="https://emergencycareny.com/emt-basic-training-program/" class="elementor-sub-item" tabindex="-1">Basic EMT Course</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18416"><a href="https://emergencycareny.com/cme-renewal-program/" class="elementor-sub-item" tabindex="-1">CME Renewal Program</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18418"><a href="https://emergencycareny.com/emt-basic-refresher-program/" class="elementor-sub-item" tabindex="-1">EMT Refresher Course</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14771"><a href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14772"><a href="/contact/" class="elementor-item" tabindex="-1">Contact</a></li></ul></nav></div></div></div><div class="elementor-element elementor-element-197c9f4 e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="197c9f4" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-4b66285 elementor-widget elementor-widget-button" data-id="4b66285" data-element_type="widget" data-e-type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"> <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="/register/"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon"> <i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i> </span> <span class="elementor-button-text">Register Now</span> </span> </a></div></div></div></div></div></div><div class="elementor-element elementor-element-1cf79d5 e-con-full elementor-hidden-desktop e-flex e-con e-parent" data-id="1cf79d5" data-element_type="container" data-e-type="container" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}"><div class="elementor-element elementor-element-f9321bd e-con-full e-flex e-con e-child" data-id="f9321bd" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-d1c5e25 elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d1c5e25" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default"><div class="elementor-widget-container"><nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-d1c5e25" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14768"><a href="https://emergencycareny.com/register/" class="elementor-item">Training</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14769"><a href="/testimonial/" class="elementor-item">Testimonials</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14770"><a href="/about-us/" class="elementor-item">About Us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16171"><a href="https://emergencycareny.com/locations/" class="elementor-item">Locations</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18414"><a href="#" class="elementor-item elementor-item-anchor">Courses</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18415"><a href="https://emergencycareny.com/emt-basic-training-program/" class="elementor-sub-item">Basic EMT Course</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18416"><a href="https://emergencycareny.com/cme-renewal-program/" class="elementor-sub-item">CME Renewal Program</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18418"><a href="https://emergencycareny.com/emt-basic-refresher-program/" class="elementor-sub-item">EMT Refresher Course</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14771"><a href="/blog/" class="elementor-item">Blog</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14772"><a href="/contact/" class="elementor-item">Contact</a></li></ul></nav><div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> <i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i></div><nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true"><ul id="menu-2-d1c5e25" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14768"><a href="https://emergencycareny.com/register/" class="elementor-item" tabindex="-1">Training</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14769"><a href="/testimonial/" class="elementor-item" tabindex="-1">Testimonials</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14770"><a href="/about-us/" class="elementor-item" tabindex="-1">About Us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16171"><a href="https://emergencycareny.com/locations/" class="elementor-item" tabindex="-1">Locations</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18414"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Courses</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18415"><a href="https://emergencycareny.com/emt-basic-training-program/" class="elementor-sub-item" tabindex="-1">Basic EMT Course</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18416"><a href="https://emergencycareny.com/cme-renewal-program/" class="elementor-sub-item" tabindex="-1">CME Renewal Program</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-18418"><a href="https://emergencycareny.com/emt-basic-refresher-program/" class="elementor-sub-item" tabindex="-1">EMT Refresher Course</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14771"><a href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14772"><a href="/contact/" class="elementor-item" tabindex="-1">Contact</a></li></ul></nav></div></div></div><div class="elementor-element elementor-element-a29f0f5 e-con-full e-flex e-con e-child" data-id="a29f0f5" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-108dc4d elementor-widget elementor-widget-image" data-id="108dc4d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default"><div class="elementor-widget-container"> <a href="https://emergencycareny.com"> <img width="368" height="88" src="https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full.png" class="attachment-full size-full wp-image-7555" alt="Emergency Care Programs Logo" srcset="https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full.png 368w, https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full-300x72.png 300w, https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full-150x36.png 150w" sizes="(max-width: 368px) 85vw, 368px" /> </a></div></div></div></div></header><div data-elementor-type="single-post" data-elementor-id="8670" class="elementor elementor-8670 elementor-location-single post-14578 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-how-to-treat-shock tag-signs-and-symptoms-of-shock tag-types-of-shock tag-what-is-shock" data-elementor-post-type="elementor_library"><div class="elementor-element elementor-element-69a57dd e-flex e-con-boxed e-con e-parent" data-id="69a57dd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-7fc0950 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="7fc0950" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default"><div class="elementor-widget-container"><h1 class="elementor-heading-title elementor-size-default">First Aid for Shock: Signs, Symptoms, and Response Steps</h1></div></div><div class="elementor-element elementor-element-06f38a9 elementor-align-center elementor-widget elementor-widget-post-info" data-id="06f38a9" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default"><div class="elementor-widget-container"><ul class="elementor-inline-items elementor-icon-list-items elementor-post-info"><li class="elementor-icon-list-item elementor-repeater-item-b2df0c7 elementor-inline-item" itemprop="datePublished"> <a href="https://emergencycareny.com/2026/03/03/"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-calendar"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date"> <time>March 3, 2026</time> </span> </a></li></ul></div></div></div></div><div class="elementor-element elementor-element-380363c e-flex e-con-boxed e-con e-parent" data-id="380363c" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-401bf45 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="401bf45" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default"><div class="elementor-widget-container"> <img fetchpriority="high" width="850" height="476" src="https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid.jpg" class="attachment-full size-full wp-image-14582" alt="first aid for shock" srcset="https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid.jpg 850w, https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid-400x224.jpg 400w, https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid-300x168.jpg 300w, https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid-150x84.jpg 150w, https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid-768x430.jpg 768w, https://emergencycareny.com/wp-content/uploads/2026/02/First-Aid-600x336.jpg 600w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></div></div><div class="elementor-element elementor-element-aa62bfa elementor-widget elementor-widget-theme-post-content" data-id="aa62bfa" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default"><div class="elementor-widget-container"><div data-elementor-type="wp-post" data-elementor-id="14578" class="elementor elementor-14578" data-elementor-post-type="post"><section class="elementor-section elementor-top-section elementor-element elementor-element-49192e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49192e4" data-element_type="section" data-e-type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41fd8a7" data-id="41fd8a7" data-element_type="column" data-e-type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-ecb7fdc elementor-widget elementor-widget-text-editor" data-id="ecb7fdc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="vce-row-container"><div id="el-f7ea13fc" class="vce-row vce-row--col-gap-30 vce-row-columns--top vce-row-content--top" data-vce-do-apply="all el-f7ea13fc"><p> </p><div id="el-5c6985ac" class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first"><div class="vce-col-inner" data-vce-do-apply="border margin background el-5c6985ac"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-5c6985ac"><div class="vce-text-block"><div id="el-9866c471" class="vce-text-block-wrapper vce" data-vce-do-apply="all el-9866c471"><p><span style="font-weight: 400;">Knowing first aid for shock can save a life. Shock is a serious medical condition. It can result from trauma, blood loss, or allergic reactions. If not treated quickly, it can lead to organ failure or death. This blog explains what shock is, how to spot it, and how to treat shock while waiting for emergency care.</span></p><h2><b>What is Shock and Why is It Life-Threatening?</b></h2><p><span style="font-weight: 400;">Shock happens when the body cannot deliver enough blood and oxygen to vital organs. It’s not the emotional kind—it’s a physical crisis that requires urgent care.</span></p><p><span style="font-weight: 400;">When blood flow drops, the heart, lungs, and brain start to shut down. That’s why shock is life-threatening. If someone goes into shock and you don’t act fast, the risk of long-term damage or death increases.</span></p><p><span style="font-weight: 400;">Understanding what shock is helps you respond quickly and with purpose.</span></p><h2><b>Types of Shock and Their Common Causes</b></h2><p><span style="font-weight: 400;">Different types of shock have different causes. But they all reduce blood flow to the organs.</span></p><p><span style="font-weight: 400;">Main types of shock include:</span></p><ul><li style="font-weight: 400;" aria-level="1"><b>Hypovolemic shock</b><span style="font-weight: 400;">: Caused by major blood loss from injury or internal bleeding</span></li><li style="font-weight: 400;" aria-level="1"><b>Cardiogenic shock</b><span style="font-weight: 400;">: Caused by heart problems, such as a heart attack</span></li><li style="font-weight: 400;" aria-level="1"><b>Distributive shock</b><span style="font-weight: 400;">: Includes septic shock (infection), anaphylactic shock (allergic reaction), and neurogenic shock (spinal injury)</span></li><li style="font-weight: 400;" aria-level="1"><b>Obstructive shock</b><span style="font-weight: 400;">: Caused by physical blockages in the heart or lungs, such as a blood clot</span><span style="font-weight: 400;"><br /></span></li></ul><p><span style="font-weight: 400;">Knowing the types of shock helps you connect the cause to the treatment. It also explains why symptoms may vary.</span></p><h2><b>Signs and Symptoms of Shock to Recognize</b></h2><p><span style="font-weight: 400;">People in shock may not always look like they’re in crisis. But certain signs show something serious is happening. Learn to spot the symptoms of shock so you can act fast.</span></p><p><span style="font-weight: 400;">Common signs and symptoms of shock include:</span></p><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pale, cool, or clammy skin</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rapid or weak pulse</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fast or shallow breathing</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Nausea or vomiting</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Enlarged pupils</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Confusion, anxiety, or restlessness</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Weakness or dizziness</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fainting or unresponsiveness</span><span style="font-weight: 400;"><br /></span></li></ul><p><span style="font-weight: 400;">These symptoms may develop fast. If you see several at once, assume the person is in shock and begin first aid.</span></p><h2><b>How to Treat Shock Until Help Arrives</b></h2><p><span style="font-weight: 400;">If someone shows signs of shock, call 911 right away. Then take these steps to give first aid for shock:</span></p><ol><li style="font-weight: 400;" aria-level="1"><b>Lay the person down.</b><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> If possible, keep them flat on their back. Elevate their legs 12 inches unless you suspect injury to the head, neck, or spine.</span></li><li style="font-weight: 400;" aria-level="1"><b>Keep them warm.</b><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Use a jacket or blanket. Do not overheat.</span></li><li style="font-weight: 400;" aria-level="1"><b>Check breathing and pulse.</b><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Begin CPR if needed and if you are trained.</span></li><li style="font-weight: 400;" aria-level="1"><b>Stop any bleeding.</b><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Apply firm pressure with a clean cloth or bandage.</span></li><li style="font-weight: 400;" aria-level="1"><b>Do not give food or drink.</b><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Even if they’re thirsty, wait for medical professionals.</span></li><li style="font-weight: 400;" aria-level="1"><b>Stay calm and talk to them.</b><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Keep them alert if possible.</span><span style="font-weight: 400;"><br /></span></li></ol><p><span style="font-weight: 400;">Knowing how to treat shock helps you stabilize the person until EMS arrives.</span></p><h2><b>Train for Emergencies</b></h2><p><a href="https://emergencycareny.com/"><span style="font-weight: 400;">Emergency Care Programs</span></a><span style="font-weight: 400;"> offers </span><a href="https://emergencycareny.com/firstaid/"><span style="font-weight: 400;">BLS and CPR training</span></a><span style="font-weight: 400;"> that includes shock response. You’ll learn how to recognize different types of shock, treat them, and respond confidently in an emergency.</span></p><p><span style="font-weight: 400;">Our courses are taught by certified EMTs with real-world experience. You’ll walk away knowing what to do and how to act fast.</span></p><p><span style="font-weight: 400;">Want to get trained? </span><a href="https://emergencycareny.com/contact/"><span style="font-weight: 400;">Contact us</span></a><span style="font-weight: 400;"> to find out about available courses.</span></p><p><span style="font-weight: 400;">First aid for shock starts with knowing what is shock, spotting the signs and symptoms of shock, and taking fast action. With the right training, you can save a life.</span></p></div></div></div></div></div></div></div><p><!--vcv no format--></p></div></div></div></div></div></section></div></div></div><div class="elementor-element elementor-element-d0a239a elementor-share-buttons--view-icon-text elementor-share-buttons--skin-gradient elementor-share-buttons--shape-square elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="d0a239a" data-element_type="widget" data-e-type="widget" data-widget_type="share-buttons.default"><div class="elementor-widget-container"><div class="elementor-grid" role="list"><div class="elementor-grid-item" role="listitem"><div class="elementor-share-btn elementor-share-btn_facebook" role="button" tabindex="0" aria-label="Share on facebook"> <span class="elementor-share-btn__icon"> <i class="fab fa-facebook" aria-hidden="true"></i> </span><div class="elementor-share-btn__text"> <span class="elementor-share-btn__title"> Facebook </span></div></div></div><div class="elementor-grid-item" role="listitem"><div class="elementor-share-btn elementor-share-btn_twitter" role="button" tabindex="0" aria-label="Share on twitter"> <span class="elementor-share-btn__icon"> <i class="fab fa-twitter" aria-hidden="true"></i> </span><div class="elementor-share-btn__text"> <span class="elementor-share-btn__title"> Twitter </span></div></div></div><div class="elementor-grid-item" role="listitem"><div class="elementor-share-btn elementor-share-btn_linkedin" role="button" tabindex="0" aria-label="Share on linkedin"> <span class="elementor-share-btn__icon"> <i class="fab fa-linkedin" aria-hidden="true"></i> </span><div class="elementor-share-btn__text"> <span class="elementor-share-btn__title"> LinkedIn </span></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-0b5521f e-flex e-con-boxed e-con e-parent" data-id="0b5521f" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-c56cb2a elementor-widget elementor-widget-heading" data-id="c56cb2a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Related Posts</h2></div></div><div class="elementor-element elementor-element-624b5e5 elementor-grid-4 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="624b5e5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;cards_columns&quot;:&quot;4&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;cards_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;cards_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards"><div class="elementor-widget-container"><div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid" role="list"><article class="elementor-post elementor-grid-item post-20211 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-emt-cme-online tag-emt-refresher-course-online tag-emt-renewal tag-nys-emt-recertification" role="listitem"><div class="elementor-post__card"> <a class="elementor-post__thumbnail__link" href="https://emergencycareny.com/online-emt-recertification/" tabindex="-1" ><div class="elementor-post__thumbnail"><img width="1000" height="563" src="https://emergencycareny.com/wp-content/uploads/2026/11/online-emt-recertification.jpg" class="attachment-full size-full wp-image-20212" alt="online emt recertification" decoding="async" srcset="https://emergencycareny.com/wp-content/uploads/2026/11/online-emt-recertification.jpg 1000w, https://emergencycareny.com/wp-content/uploads/2026/11/online-emt-recertification-300x169.jpg 300w, https://emergencycareny.com/wp-content/uploads/2026/11/online-emt-recertification-150x84.jpg 150w, https://emergencycareny.com/wp-content/uploads/2026/11/online-emt-recertification-768x432.jpg 768w, https://emergencycareny.com/wp-content/uploads/2026/11/online-emt-recertification-400x225.jpg 400w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></div></a><div class="elementor-post__text"><h3 class="elementor-post__title"> <a href="https://emergencycareny.com/online-emt-recertification/" > Online EMT Recertification in New York: How CME Renewal Works </a></h3> <a class="elementor-post__read-more" href="https://emergencycareny.com/online-emt-recertification/" aria-label="Read more about Online EMT Recertification in New York: How CME Renewal Works" tabindex="-1" > Read More </a></div></div></article><article class="elementor-post elementor-grid-item post-20205 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-emt-cme tag-emt-recertification tag-emt-refresher-course tag-nyc-emt-refresher" role="listitem"><div class="elementor-post__card"> <a class="elementor-post__thumbnail__link" href="https://emergencycareny.com/emt-refresher-vs-cme-recertification/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="1000" height="563" src="https://emergencycareny.com/wp-content/uploads/2026/11/emt-refresher-vs-cme-recertification.jpg" class="attachment-full size-full wp-image-20206" alt="emt refresher vs cme recertification" decoding="async" srcset="https://emergencycareny.com/wp-content/uploads/2026/11/emt-refresher-vs-cme-recertification.jpg 1000w, https://emergencycareny.com/wp-content/uploads/2026/11/emt-refresher-vs-cme-recertification-300x169.jpg 300w, https://emergencycareny.com/wp-content/uploads/2026/11/emt-refresher-vs-cme-recertification-150x84.jpg 150w, https://emergencycareny.com/wp-content/uploads/2026/11/emt-refresher-vs-cme-recertification-768x432.jpg 768w, https://emergencycareny.com/wp-content/uploads/2026/11/emt-refresher-vs-cme-recertification-400x225.jpg 400w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></div></a><div class="elementor-post__text"><h3 class="elementor-post__title"> <a href="https://emergencycareny.com/emt-refresher-vs-cme-recertification/" > EMT Refresher vs CME Recertification in New York: Key Differences </a></h3> <a class="elementor-post__read-more" href="https://emergencycareny.com/emt-refresher-vs-cme-recertification/" aria-label="Read more about EMT Refresher vs CME Recertification in New York: Key Differences" tabindex="-1" > Read More </a></div></div></article><article class="elementor-post elementor-grid-item post-20196 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-emt-certification-renewal tag-emt-continuing-education tag-emt-recertification-ny tag-emt-recertification-requirements" role="listitem"><div class="elementor-post__card"> <a class="elementor-post__thumbnail__link" href="https://emergencycareny.com/nys-emt-recertification-requirements/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="1000" height="665" src="https://emergencycareny.com/wp-content/uploads/2026/11/nys-emt-recertification-requirements.jpg" class="attachment-full size-full wp-image-20197" alt="nys emt recertification requirements" decoding="async" srcset="https://emergencycareny.com/wp-content/uploads/2026/11/nys-emt-recertification-requirements.jpg 1000w, https://emergencycareny.com/wp-content/uploads/2026/11/nys-emt-recertification-requirements-300x200.jpg 300w, https://emergencycareny.com/wp-content/uploads/2026/11/nys-emt-recertification-requirements-150x100.jpg 150w, https://emergencycareny.com/wp-content/uploads/2026/11/nys-emt-recertification-requirements-768x511.jpg 768w, https://emergencycareny.com/wp-content/uploads/2026/11/nys-emt-recertification-requirements-400x266.jpg 400w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></div></a><div class="elementor-post__text"><h3 class="elementor-post__title"> <a href="https://emergencycareny.com/nys-emt-recertification-requirements/" > NYS EMT Recertification Requirements: What to Know Before You Renew </a></h3> <a class="elementor-post__read-more" href="https://emergencycareny.com/nys-emt-recertification-requirements/" aria-label="Read more about NYS EMT Recertification Requirements: What to Know Before You Renew" tabindex="-1" > Read More </a></div></div></article><article class="elementor-post elementor-grid-item post-19980 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-aed-law-new-york tag-aed-steps-for-bystanders tag-child-and-infant-cpr-differences tag-nremt-study-tips" role="listitem"><div class="elementor-post__card"> <a class="elementor-post__thumbnail__link" href="https://emergencycareny.com/complete-ems-guide/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="900" height="600" src="https://emergencycareny.com/wp-content/uploads/2026/10/AED-CPR-Scope-of-Practice-and-CME.jpg" class="attachment-full size-full wp-image-19981" alt="AED CPR Scope of Practice and CME" decoding="async" srcset="https://emergencycareny.com/wp-content/uploads/2026/10/AED-CPR-Scope-of-Practice-and-CME.jpg 900w, https://emergencycareny.com/wp-content/uploads/2026/10/AED-CPR-Scope-of-Practice-and-CME-300x200.jpg 300w, https://emergencycareny.com/wp-content/uploads/2026/10/AED-CPR-Scope-of-Practice-and-CME-150x100.jpg 150w, https://emergencycareny.com/wp-content/uploads/2026/10/AED-CPR-Scope-of-Practice-and-CME-768x512.jpg 768w, https://emergencycareny.com/wp-content/uploads/2026/10/AED-CPR-Scope-of-Practice-and-CME-400x267.jpg 400w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></div></a><div class="elementor-post__text"><h3 class="elementor-post__title"> <a href="https://emergencycareny.com/complete-ems-guide/" > NREMT Study Guide: AED CPR Scope of Practice and CME </a></h3> <a class="elementor-post__read-more" href="https://emergencycareny.com/complete-ems-guide/" aria-label="Read more about NREMT Study Guide: AED CPR Scope of Practice and CME" tabindex="-1" > Read More </a></div></div></article></div></div></div></div></div></div><footer data-elementor-type="footer" data-elementor-id="7429" class="elementor elementor-7429 elementor-location-footer" data-elementor-post-type="elementor_library"><div class="elementor-element elementor-element-4ada695 e-flex e-con-boxed e-con e-parent" data-id="4ada695" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-18cd127 e-flex e-con-boxed e-con e-child" data-id="18cd127" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-9367813 e-con-full e-flex e-con e-child" data-id="9367813" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-97ab2fd elementor-widget elementor-widget-image" data-id="97ab2fd" data-element_type="widget" data-e-type="widget" data-widget_type="image.default"><div class="elementor-widget-container"> <img width="368" height="88" src="https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full.png" class="attachment-full size-full wp-image-7555" alt="Emergency Care Programs Logo" srcset="https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full.png 368w, https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full-300x72.png 300w, https://emergencycareny.com/wp-content/uploads/2023/06/logowhite-2x-full-150x36.png 150w" sizes="(max-width: 368px) 85vw, 368px" /></div></div><div class="elementor-element elementor-element-8e01510 elementor-widget elementor-widget-heading" data-id="8e01510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><div class="elementor-heading-title elementor-size-default">It’s an emergency, be the one to care.</div></div></div><div class="elementor-element elementor-element-f722e7f e-grid-align-left elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="f722e7f" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default"><div class="elementor-widget-container"><div class="elementor-social-icons-wrapper elementor-grid" role="list"> <span class="elementor-grid-item" role="listitem"> <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-cbe3f73" href="https://www.facebook.com/emergencycareny" target="_blank"> <span class="elementor-screen-only">Facebook-f</span> <i aria-hidden="true" class="fab fa-facebook-f"></i> </a> </span> <span class="elementor-grid-item" role="listitem"> <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-e01e723" href="https://twitter.com/emergencycareny" target="_blank"> <span class="elementor-screen-only">Twitter</span> <i aria-hidden="true" class="fab fa-twitter"></i> </a> </span> <span class="elementor-grid-item" role="listitem"> <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-0573a28" href="https://www.instagram.com/emergencycareprograms/" target="_blank"> <span class="elementor-screen-only">Instagram</span> <i aria-hidden="true" class="fab fa-instagram"></i> </a> </span> <span class="elementor-grid-item" role="listitem"> <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-a5acb4c" href="https://www.linkedin.com/company/emergency-care-programs/" target="_blank"> <span class="elementor-screen-only">Linkedin-in</span> <i aria-hidden="true" class="fab fa-linkedin-in"></i> </a> </span> <span class="elementor-grid-item" role="listitem"> <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-77bd02b" href="https://www.youtube.com/channel/UCdGpm-AUyJJM_birstFVRNw" target="_blank"> <span class="elementor-screen-only">Youtube</span> <i aria-hidden="true" class="fab fa-youtube"></i> </a> </span></div></div></div></div><div class="elementor-element elementor-element-42654cb e-con-full e-flex e-con e-child" data-id="42654cb" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b2e2833 elementor-widget elementor-widget-heading" data-id="b2e2833" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><div class="elementor-heading-title elementor-size-default">Company</div></div></div><div class="elementor-element elementor-element-578a242 elementor-align-start elementor-mobile-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="578a242" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item"> <a href="/testimonial/"> <span class="elementor-icon-list-text">Testimonials</span> </a></li><li class="elementor-icon-list-item"> <a href="/resources/"> <span class="elementor-icon-list-text">Resources</span> </a></li></ul></div></div></div><div class="elementor-element elementor-element-6a18ca7 e-con-full e-flex e-con e-child" data-id="6a18ca7" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-bd5d4c5 elementor-widget elementor-widget-heading" data-id="bd5d4c5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><div class="elementor-heading-title elementor-size-default">Training</div></div></div><div class="elementor-element elementor-element-7aa9505 elementor-align-start elementor-mobile-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7aa9505" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item"> <a href="/emt-basic-training-program/"> <span class="elementor-icon-list-text">EMT - Original</span> </a></li><li class="elementor-icon-list-item"> <a href="/emt-basic-refresher-program/"> <span class="elementor-icon-list-text">EMT - Refresher</span> </a></li><li class="elementor-icon-list-item"> <a href="/firstaid/"> <span class="elementor-icon-list-text">CPR/First Aid/BLS</span> </a></li><li class="elementor-icon-list-item"> <a href="/cme-renewal-program/"> <span class="elementor-icon-list-text">CME</span> </a></li><li class="elementor-icon-list-item"> <a href="https://emergencycareny.com/nremt-program-information/"> <span class="elementor-icon-list-text">NREMT</span> </a></li></ul></div></div></div><div class="elementor-element elementor-element-b37d37e e-con-full e-flex e-con e-child" data-id="b37d37e" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-6316764 elementor-widget elementor-widget-heading" data-id="6316764" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><div class="elementor-heading-title elementor-size-default">Support</div></div></div><div class="elementor-element elementor-element-6d9bea7 elementor-align-start elementor-mobile-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6d9bea7" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item"> <a href="/payment/"> <span class="elementor-icon-list-text">Payments</span> </a></li><li class="elementor-icon-list-item"> <a href="/register/"> <span class="elementor-icon-list-text">Course Listings</span> </a></li><li class="elementor-icon-list-item"> <a href="/student/"> <span class="elementor-icon-list-text">Student Services</span> </a></li><li class="elementor-icon-list-item"> <a href="/emt_refresher/"> <span class="elementor-icon-list-text">EMT Refresher</span> </a></li></ul></div></div></div><div class="elementor-element elementor-element-b964fed e-con-full e-flex e-con e-child" data-id="b964fed" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5a1df4e elementor-widget elementor-widget-heading" data-id="5a1df4e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><div class="elementor-heading-title elementor-size-default">Contact Us</div></div></div><div class="elementor-element elementor-element-48fccc8 elementor-align-start elementor-mobile-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="48fccc8" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item"> <a href="mailto:info@emergencycareny.com"> <span class="elementor-icon-list-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" fill="none"><path d="M2 16C1.45 16 0.979167 15.8042 0.5875 15.4125C0.195833 15.0208 0 14.55 0 14V2C0 1.45 0.195833 0.979167 0.5875 0.5875C0.979167 0.195833 1.45 0 2 0H18C18.55 0 19.0208 0.195833 19.4125 0.5875C19.8042 0.979167 20 1.45 20 2V14C20 14.55 19.8042 15.0208 19.4125 15.4125C19.0208 15.8042 18.55 16 18 16H2ZM10 9L18 4V2L10 7L2 2V4L10 9Z" fill="#DC143C"></path></svg> </span> <span class="elementor-icon-list-text"> info@emergencycareny.com</span> </a></li><li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M16.95 18C14.8 18 12.7042 17.5208 10.6625 16.5625C8.62083 15.6042 6.8125 14.3375 5.2375 12.7625C3.6625 11.1875 2.39583 9.37917 1.4375 7.3375C0.479167 5.29583 0 3.2 0 1.05C0 0.75 0.1 0.5 0.3 0.3C0.5 0.1 0.75 0 1.05 0H5.1C5.33333 0 5.54167 0.075 5.725 0.225C5.90833 0.375 6.01667 0.566667 6.05 0.8L6.7 4.3C6.73333 4.53333 6.72917 4.74583 6.6875 4.9375C6.64583 5.12917 6.55 5.3 6.4 5.45L4 7.9C4.7 9.1 5.575 10.225 6.625 11.275C7.675 12.325 8.83333 13.2333 10.1 14L12.45 11.65C12.6 11.5 12.7958 11.3875 13.0375 11.3125C13.2792 11.2375 13.5167 11.2167 13.75 11.25L17.2 11.95C17.4333 12 17.625 12.1125 17.775 12.2875C17.925 12.4625 18 12.6667 18 12.9V16.95C18 17.25 17.9 17.5 17.7 17.7C17.5 17.9 17.25 18 16.95 18Z" fill="#DC143C"></path></svg> </span> <span class="elementor-icon-list-text">718-333-CARE (2273)</span></li><li class="elementor-icon-list-item"> <a href="tel:718-333-2775"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-fax"></i> </span> <span class="elementor-icon-list-text">718-333-2775</span> </a></li><li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20" fill="none"><path d="M8 10C8.55 10 9.02083 9.80417 9.4125 9.4125C9.80417 9.02083 10 8.55 10 8C10 7.45 9.80417 6.97917 9.4125 6.5875C9.02083 6.19583 8.55 6 8 6C7.45 6 6.97917 6.19583 6.5875 6.5875C6.19583 6.97917 6 7.45 6 8C6 8.55 6.19583 9.02083 6.5875 9.4125C6.97917 9.80417 7.45 10 8 10ZM8 20C5.31667 17.7167 3.3125 15.5958 1.9875 13.6375C0.6625 11.6792 0 9.86667 0 8.2C0 5.7 0.804167 3.70833 2.4125 2.225C4.02083 0.741667 5.88333 0 8 0C10.1167 0 11.9792 0.741667 13.5875 2.225C15.1958 3.70833 16 5.7 16 8.2C16 9.86667 15.3375 11.6792 14.0125 13.6375C12.6875 15.5958 10.6833 17.7167 8 20Z" fill="#DC143C"></path></svg> </span> <span class="elementor-icon-list-text">872 East 29th Street Brooklyn, NY 11210</span></li></ul></div></div></div></div></div><div class="elementor-element elementor-element-2c8b936 e-flex e-con-boxed e-con e-child" data-id="2c8b936" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-1b14fa7 elementor-widget elementor-widget-heading" data-id="1b14fa7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><div class="elementor-heading-title elementor-size-default">©2026 Emergency Care New York</div></div></div><div class="elementor-element elementor-element-8029a46 footer__copyright elementor-widget elementor-widget-text-editor" data-id="8029a46" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>All Rights Reserved | <a href="https://emergencycareny.com/terms/">Terms and Conditions</a> | <a href="https://emergencycareny.com/privacy-policy/">Privacy Policy</a></p></div></div></div></div></div></div></footer> <script type="speculationrules"> {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/twentysixteen-child-old/*","/wp-content/themes/twentysixteen/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]} </script> <script id="wp-hooks-js" src="https://emergencycareny.com/wp-includes/js/dist/hooks.min.js"></script> <script id="wp-i18n-js" src="https://emergencycareny.com/wp-includes/js/dist/i18n.min.js"></script> <script defer id="siteground-optimizer-lazy-sizes-js-js" src="https://emergencycareny.com/wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js"></script> <script id="wp-polyfill-js" src="https://emergencycareny.com/wp-includes/js/dist/vendor/wp-polyfill.min.js"></script> <script id="yith-wcaf-shortcodes-js-extra"> var yith_wcaf = {"labels":{"link_copied_message":"URL copied","toggle_on":"ON","toggle_off":"OFF","withdraw_modal_title":"Request withdrawal","errors":{"accept_check":"Please, accept this condition","compile_field":"Please, complete this field","wrong_url":"Please, enter a valid URL","wrong_email":"Please, enter a valid email address","malformed":"Please, enter a valid value","overflow":"Please, enter a valid amount","short":"Value is too short","long":"Value is too long"}},"nonces":{"get_referral_url":"0eeb35a23a","set_referrer":"7edfa9cb03"},"ajax_url":"https://emergencycareny.com/wp-admin/admin-ajax.php","dashboard_url":"https://emergencycareny.com/first-aid-for-shock//","endpoints":{"commissions":"Commissions","clicks":"Visits","payments":"Payments","generate-link":"Link generator","settings":"Settings"},"set_cookie_via_ajax":"","referral_var":"ref"};
+//# sourceURL=yith-wcaf-shortcodes-js-extra </script> <script id="twentysixteen-script-js-extra"> var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+//# sourceURL=twentysixteen-script-js-extra </script> <script id="elementor-frontend-js-extra"> var PremiumSettings = {"ajaxurl":"https://emergencycareny.com/wp-admin/admin-ajax.php","nonce":"9a130fabd6"};
+//# sourceURL=elementor-frontend-js-extra </script> <script defer id="elementor-frontend-js-before"> var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.0.1","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"mega-menu":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/emergencycareny.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/emergencycareny.com\/wp-admin\/admin-ajax.php","uploadUrl":"http:\/\/emergencycareny.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"04f40afb5a","atomicFormsSendForm":"ca2495b7ed"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":14578,"title":"First%20Aid%20for%20Shock%3A%20Signs%2C%20Symptoms%2C%20and%20Response%20Steps","excerpt":"","featuredImage":"https:\/\/emergencycareny.com\/wp-content\/uploads\/2026\/02\/First-Aid.jpg"}};
+//# sourceURL=elementor-frontend-js-before </script> <script id="wc-order-attribution-js-extra"> var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://emergencycareny.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra </script> <script id="sv-wc-payment-gateway-payment-form-v5_10_2-js-extra"> var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+//# sourceURL=sv-wc-payment-gateway-payment-form-v5_10_2-js-extra </script> <script id="sv-wc-payment-gateway-payment-form-v5_10_2-js" src="https://emergencycareny.com/wp-content/uploads/siteground-optimizer-assets/sv-wc-payment-gateway-payment-form-v5_10_2.min.js"></script> <script id="elementor-pro-frontend-js-before"> var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/emergencycareny.com\/wp-admin\/admin-ajax.php","nonce":"ff21710018","urls":{"assets":"https:\/\/emergencycareny.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/emergencycareny.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/emergencycareny.com\/register\/","checkout_page_url":"https:\/\/emergencycareny.com\/checkout\/","fragments_nonce":"4448e12202"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/emergencycareny.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before </script> <script defer src="https://emergencycareny.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-d1d50ef05ddb8f7ad732ce0fbfcebdb6.js"></script></body></html>

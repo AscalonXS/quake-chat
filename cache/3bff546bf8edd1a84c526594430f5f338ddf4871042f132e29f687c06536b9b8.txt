@@ -1,0 +1,122 @@
+Disaster Response
+5 min read
+1073 words
+Temporary Shelter After Earthquakes
+</> Embed
+Millions may need shelter after a major earthquake. Learn about emergency shelters, transitional housing, and long-term recovery options.
+The Immediate Problem of Shelter After Earthquakes
+When a major earthquake destroys or damages homes across a city or region, it simultaneously creates a mass displacement crisis. In the worst cases, hundreds of thousands or even millions of people need somewhere to sleep — protected from weather, structurally safe, and with access to basic sanitation — within hours of the disaster. This shelter crisis unfolds just as normal supply chains, public services, and transportation networks are disrupted, making rapid large-scale shelter provision one of the most complex logistical challenges in disaster response.
+Shelter needs fall into a spectrum. Some homes suffer structural damage severe enough to make them immediately unsafe —
+Soft Story
+A building story (usually ground floor) that is significantly weaker than the floors above, often due to large openings like garages or storefronts. Soft stories are the most common collapse mechanism.
+buildings may have pancaked, foundations may have failed due to
+Liquefaction
+A phenomenon where saturated, loose soil temporarily loses strength and behaves like a liquid during strong shaking. Can cause buildings to sink, tilt, or collapse into the ground.
+, or walls may have partially collapsed. Others may have suffered cosmetic damage but remain structurally sound. Still others may be undamaged but their residents have fled in fear of continuing
+Aftershock
+A smaller earthquake that follows the
+mainshock
+in the same fault region.
+Aftershock
+sequences can last weeks to years, with the largest aftershock typically 1.0-1.2 magnitudes below the mainshock.
+activity or the perception of danger. Understanding which structures are actually unsafe versus which are habitable is critical for matching shelter resources to genuine need.
+Shelter-in-Place
+: The Default When Safe
+Emergency management professionals almost universally prefer
+Shelter-in-Place
+The practice of staying in your current location during or after an earthquake rather than evacuating. Appropriate when the building is structurally sound and there is no
+tsunami
+risk.
+in intact structures over mass evacuation to temporary facilities. People who remain in their own undamaged or lightly damaged homes are warmer, more comfortable, more connected to their community, better able to protect their property, and easier to support with utility restoration. The mental health benefits of remaining in familiar surroundings during a traumatic period are also significant.
+The challenge is that after a major earthquake, many people do not know whether their home is safe to enter or occupy. Post-earthquake fear is rational —
+Aftershock
+A smaller earthquake that follows the mainshock in the same fault region. Aftershock sequences can last weeks to years, with the largest aftershock typically 1.0-1.2 magnitudes below the mainshock.
+sequences produce ongoing ground shaking, aftershocks have collapsed already-weakened buildings, and even undamaged buildings can feel threatening after the experience of violent shaking. Emergency management messaging in the immediate aftermath must balance safety (warning people away from genuinely dangerous buildings) with practical guidance that avoids unnecessary displacement from safe structures.
+Emergency Shelter Options
+When shelter-in-place is not possible, the spectrum of emergency shelter options ranges from the most temporary to increasingly stable solutions.
+Tents and tarps represent the most immediately deployable option. Disaster relief stockpiles maintained by governments, UN agencies, and major NGOs include prepositioned shelter kits that can reach affected areas within 24 to 72 hours. A basic emergency shelter kit provides weather protection and a minimal living space but offers limited thermal insulation, poor sanitation, and no security.
+Emergency relief items from
+Earthquake Emergency Kit
+A pre-assembled collection of supplies for surviving the aftermath of an earthquake, typically including water (1 gallon/person/day for 3 days), food, first aid, flashlight, and radio.
+inventories — sleeping bags, blankets, basic cooking equipment — supplement basic shelter provision. Mass shelter facilities in schools, community centers, stadiums, and other large public buildings provide weatherproof space for larger numbers of displaced people, though the density and lack of privacy in mass shelters creates significant stress and health risks over extended periods.
+Spontaneous Settlements
+In major disasters, affected populations often create spontaneous settlements — informal camps established by displaced people themselves — before formal humanitarian shelter programs deploy. These settlements reflect survivors' reasonable desire to stay near their homes, their social networks, and their possessions. Spontaneous settlements are sometimes derided by humanitarian planners, but they represent rational adaptive behavior.
+Humanitarian response that works with spontaneous settlements — providing water, sanitation, and basic services to where people already are — is generally more effective than attempting to move populations to planned camp sites remote from their neighborhoods. The 2010 Haiti earthquake, in which more than a million people remained in spontaneous settlements around Port-au-Prince for months or years, demonstrated both the resilience of spontaneous shelter responses and the difficulties of transitioning from emergency to durable shelter solutions.
+Health Risks in Temporary Shelter
+Temporary shelter settings create significant public health risks that must be managed actively. Overcrowding facilitates the transmission of respiratory diseases and gastrointestinal infections. Inadequate sanitation — insufficient latrines and handwashing facilities — creates high risks of diarrheal disease outbreaks. Stagnant water in poorly drained sites breeds mosquitoes and creates vector-borne disease risks in applicable climates.
+Cold exposure is a significant risk in earthquakes occurring in cold seasons or at high altitudes. The 2005 Pakistan earthquake killed tens of thousands initially, but the scale of destruction and displacement into high-altitude Himalayan terrain created a secondary crisis from cold exposure that relief organizations struggled to address in time. Conversely, heat stress in overcrowded shelters during warm seasons can be equally dangerous.
+Transitional Shelter: The Gap Between Emergency and Permanent
+The shelter gap between emergency response (tents and mass shelters) and permanent housing reconstruction is known as the transitional shelter phase. Transitional shelter approaches include rapid repair of lightly damaged buildings, provision of temporary prefabricated structures, and provision of materials kits that allow families to construct simple temporary shelters using local labor and materials.
+Transitional shelter is designed to be occupied for months to years while permanent housing is rebuilt. It must therefore be substantially more robust than emergency tents — weatherproof across seasonal extremes, structurally safe during
+Aftershock
+A smaller earthquake that follows the mainshock in the same fault region. Aftershock sequences can last weeks to years, with the largest aftershock typically 1.0-1.2 magnitudes below the mainshock.
+activity, and providing adequate privacy and functionality for family life.
+The Special Problem of Aftershocks
+[[Aftershock]] sequences create a particularly difficult shelter management challenge. In the days after a major earthquake, large aftershocks can damage buildings that survived the mainshock or collapse structures already weakened. People who have been reassured that their building is safe and have returned home may need to evacuate again when a strong aftershock strikes.
+Effective aftershock communication requires providing the public with probabilistic information about aftershock risks — the likelihood of significant aftershocks in coming days — rather than binary "safe" or "unsafe" declarations. This probabilistic communication is difficult for authorities accustomed to providing definitive guidance, and it challenges the public's desire for certainty in uncertain times. Yet honest probabilistic communication is ultimately more effective at managing behavior appropriately.
+Long-Term Displacement and Recovery
+The longest-standing challenge in post-earthquake shelter is the transition from temporary to permanent housing. Reconstruction programs face land tenure complexity, regulatory constraints, funding limitations, labor shortages, and materials price inflation created by the scale of reconstruction demand. Survivors living in transitional shelter for years — as occurred in Haiti, Nepal, and other major earthquake disasters — suffer ongoing health, economic, and psychological costs.
+Countries that have prepared land use registries, pre-positioned reconstruction materials, and pre-planned housing reconstruction programs recover significantly more rapidly than those without these preparations. Post-earthquake housing reconstruction is ultimately a policy, regulatory, and institutional problem as much as it is a technical one.
+Related Terms
+Aftershock
+A smaller earthquake that follows the mainshock in the same fault region. After…
+Earthquake Emergency Kit
+A pre-assembled collection of supplies for surviving the aftermath of an earthq…
+Liquefaction
+A phenomenon where saturated, loose soil temporarily loses strength and behaves…
+Shelter-in-Place
+The practice of staying in your current location during or after an earthquake …
+Soft Story
+A building story (usually ground floor) that is significantly weaker than the f…
+Related Guides
+What Is an Earthquake? A Complete Introduction
+Learn what causes earthquakes, how they occur along fault lines, and why some regions experience more seismic activity than others.
+Earthquake Basics
+Epicenter vs Hypocenter: What's the Difference?
+The epicenter is on the surface; the hypocenter is underground. Learn how scientists locate both and why the distinction matters for safety.
+Earthquake Basics
+Aftershocks Explained: Why Earthquakes Come in Clusters
+Aftershocks can continue for months or years after a major earthquake. Learn what causes them, how they're predicted, and when they'll stop.
+Earthquake Basics
+Earthquake Swarms: When Small Quakes Won't Stop
+Earthquake swarms produce hundreds of small tremors without a clear mainshock. Learn what causes them and whether they signal bigger events.
+Earthquake Basics
+The Soft Story Problem: Why Some Buildings Collapse
+Soft story buildings with open ground floors are deadly in earthquakes. Learn how to identify them and what retrofitting options exist.
+Buildings & Engineering
+How to Evaluate Your Building's Seismic Safety
+Learn to assess your building's earthquake vulnerability. A practical guide to identifying structural risks and when to hire a professional.
+Buildings & Engineering
+Related Case Studies
+M7.8
+The 2023 Turkey-Syria Earthquakes: A Double Mainshock That Killed 59,000
+The deadliest earthquake disaster of the 2020s, notable for its unprecedented double mainshock sequence and the subsequent criminal prosecution of contractors for building code violations.
+M7.5
+The 2018 Sulawesi Earthquake: Strike-Slip Tsunami and Catastrophic Liquefaction in Palu
+The earthquake that defied three textbook rules: strike-slip faults generated a destructive tsunami, the rupture propagated at supershear speed, and liquefaction flows traveled 700 meters on nearly flat ground.
+M7.0
+The 2016 Kumamoto Earthquakes: A Double Mainshock That Rewrote Seismic Hazard Rules
+The earthquake doublet that overturned the assumption that the first large shock is always the mainshock, forcing Japan to revise its public messaging and early warning protocols.
+M7.8
+The 2015 Nepal Earthquake: When the Himalayas Shifted and Kathmandu Trembled
+The earthquake that demonstrated the Himalayas' ongoing collision in real time, with GPS measurements showing Nepal shifted 3 meters south, while only partially releasing centuries of accumulated tectonic strain.
+M9.1
+The 2011 Tohoku Earthquake: How a M9.1 Megathrust Triggered Japan's Triple Disaster
+The only earthquake in recorded history to trigger a simultaneous earthquake, tsunami, and nuclear disaster, fundamentally changing how nations assess cascading risk.
+Previous
+Triage After Earthquakes: Medical Response Priorities
+Next
+Restoring Utilities After an Earthquake
+Frequently Asked Questions
+How should I prepare for an earthquake?
+Key earthquake preparation steps: secure heavy furniture and water heaters to walls; keep an emergency kit with water, food, flashlight, radio, and first aid supplies for 3+ days; identify safe spots in each room (under sturdy tables, away from windows); practice 'Drop, Cover, and Hold On' drills; and know how to shut off gas and water.
+What should I do during an earthquake?
+If indoors: Drop, Cover, and Hold On — drop to your hands and knees, take cover under a sturdy desk or table, and hold on until shaking stops. Do NOT run outside or stand in a doorway. If outdoors: move to an open area away from buildings, power lines, and trees. If driving: pull over, stop, and stay in your vehicle.
+What is earthquake early warning?
+Earthquake early warning (EEW) systems detect the initial, less-damaging P-waves and send alerts before the stronger S-waves arrive. Systems like ShakeAlert (US), J-Alert (Japan), and SASMEX (Mexico) can provide seconds to tens of seconds of warning — enough time to take cover, stop trains, and shut down industrial processes.
+What is earthquake insurance and do I need it?
+Earthquake insurance covers damage to buildings and belongings from earthquakes, which standard homeowner policies typically exclude. Whether you need it depends on your location's seismic risk, your building's construction type, and your financial ability to absorb earthquake damage costs. In high-risk areas like California and Japan, it is strongly recommended.
+How are buildings designed to resist earthquakes?
+Earthquake-resistant buildings use several strategies: flexible structural systems that absorb seismic energy, base isolation to decouple the building from ground motion, reinforced concrete and steel moment frames, shear walls for lateral resistance, and damping devices. Modern building codes (IBC, Eurocode 8) specify design requirements based on local seismic hazard.
+What is liquefaction?
+Liquefaction occurs when saturated, loosely packed soil loses its strength during earthquake shaking and behaves like a liquid. This can cause buildings to sink, tilt, or collapse, and underground structures like pipes and tanks to float to the surface. Sandy soils near water bodies with high water tables are most susceptible.

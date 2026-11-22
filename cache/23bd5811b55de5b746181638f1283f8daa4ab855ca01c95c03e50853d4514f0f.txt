@@ -1,0 +1,58 @@
+By
+Science for a Changing World
+November 15, 2016
+Early on the morning of August 24, 2014, Loren Turner was awoken by clattering window blinds, a moving bed, and the sound of water splashing out of his backyard pool. He experienced what is now named the “South Napa Earthquake.”
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+Turner lives in Davis, California, about 45 miles northeast of Napa, the epicenter of the
+magnitude 6.0 earthquake
+.
+As a native Californian and Senior Transportation Engineer for the California Department of Transportation (Caltrans), Turner assumed it was a common seismic event and quickly gathered the details. His job is to help assess the wellbeing of the transportation infrastructure used by over 7 million people in the San Francisco Bay area.
+“Within a few minutes, I received an email from the U.S. Geological Survey (USGS) that identified the location and magnitude of the earthquake. Soon after, their Web site provided maps—known as ShakeMaps—of shaking intensity,” said Turner.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+The
+USGS ShakeCast system
+provides rapid estimates of the severity and extent of earthquake shaking by using USGS near-real-time earthquake monitoring and ground-motion equations. ShakeCast allows organizations to determine the “shaking value” at their facilities, set thresholds for notification of damage, and automatically receive notifications.
+According to Turner, emails from the ShakeCast system arrived at the Caltrans servers just 11 minutes after the earthquake began. Others at Caltrans received the same ShakeCast messages—in addition to other alerts, such as event details from the USGS Earthquake Notification Service—and initiated earthquake-response protocols.
+“I was certainly reassured knowing that the Caltrans ShakeCast system performed as designed and that the best possible information about potential impacts to bridges [was] made available to our Caltrans responders,” said Turner.
+ShakeCast is used for most of the Department of Homeland Security’s 16 critical infrastructure sectors, including transportation, nuclear reactors, water systems, defense, and energy. ShakeCast is also used by many international agencies, including the International Atomic Energy Agency.
+Early next year, Caltrans is leading a project with the Federal Highway Administration and several other State departments of transportation to expand ShakeCast capabilities nationally. This project includes the States of Washington, Utah, Oregon, Idaho, and Oklahoma.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+Damaged unreinforced masonry building on Main Street in downtown Napa, California. Photograph credit: Erol Kalkan, USGS
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+In several significant California earthquakes over the last 8 years, ShakeCast identified potentially damaged bridges where damage was later verified by inspection. The South Napa Earthquake was the most recent event where bridges were affected and ShakeCast messages distributed. Of the 2,720 State bridges in the affected area, 87 were flagged by ShakeCast as potentially affected, nine of which were later confirmed as damaged.
+“ShakeCast provides a more focused post-earthquake response,” said Dr. David Wald, the leader of the USGS ShakeCast project. “The ShakeCast notifications and related products provide responders a heightened level of situational awareness in the minutes and hours following an earthquake.”
+ShakeCast enables effective use of limited staff resources by identifying regions where concentrations of bridge damage are possible. The system prepares Caltrans management to communicate the potential effects of earthquakes to partner agencies and key stakeholders when little information is otherwise available.
+“In addition to identifying potentially serious problems with critical lifeline facilities and infrastructure due to strong shaking, ShakeCast can also save lifeline and business continuity operators from costly, unnecessary inspection over large areas where the shaking is deemed unlikely to cause damage," said Wald.
+Total earthquake damage in the southern Napa Valley and Vallejo areas totaled nearly \$400 million, with one person killed and 200 injured. Larger earthquakes in California could generate many times more damage over much larger areas; ShakeMap and ShakeCast are there to help direct and optimize post-earthquake response efforts.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+USGS “ShakeMap” depicts the ground shaking produced by the 2014 South Napa Earthquake. Warmer colors represent stronger shaking.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+USGS “Did You Feel It?” map indicating the severity of shaking felt by people in central California during the South Napa Earthquake in 2014.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+For more information, please contact David Applegate, USGS Associate Director for Natural Hazards, at
+applegate@usgs.gov
+.
+Read more stories
+about USGS science in action.
+Media
+Sources/Usage: Some content may have restrictions.
+View Media Details
+File icon
+Click here for the print version.

@@ -1,0 +1,1872 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    
+    
+
+
+
+    <!--
+        The external JS (onetrust-loader.js) is the single source of truth
+        for load-gate logic. Passing domain-script ID as an attribute keeps
+        the HTL template environment-agnostic (prod vs test suffix handled
+        by the OSGi config, not hardcoded here).
+    -->
+    <meta name="content-page-ref" content="3y6SKoziT9LnAJzUZDHfvrkNMjJjiT_38Lxa0SHzs9Ud4cwokPlkssjVR6FLLORJvx3hbgFdq_JPPiakBkqSZJ5rllpfz4g6k0vMwPqsID0"/>
+<script defer="defer" type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js"></script>
+<script src="/content/dam/devops/cdn/consent/commonspiritorg/onetrust-loader.js" type="text/javascript" charset="UTF-8" data-domain-script="0193b204-f661-727e-8182-63584d632daf" data-onetrust-loader="true" defer></script>
+
+
+    <meta charset="UTF-8"/>
+    <title>What is First Aid For Accidental Amputation? | CommonSpirit Health</title>
+
+    <meta name="description" content="First Aid for Accidental Amputation"/>
+    <meta name="keywords" content="Amputation care (regime/therapy),Amputation, Traumatic,Amputations, Traumatic,Emergency Care,First Aid for Accidental Amputation,Traumatic Amputations,Traumatic amputated structure,Traumatic amputation,Traumatic amputation (disorder),Traumatic amputation (morphologic abnormality),amputation care,amputations care,care amputation,traumatic amputation"/>
+    <meta name="template" content="conditions-and-services-detail"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+
+    
+        <meta property="og:title" content="What is First Aid For Accidental Amputation? | CommonSpirit Health"/>
+    
+        <meta property="og:description" content="First Aid for Accidental Amputation"/>
+    
+        <meta property="og:url" content="https://www.commonspirit.org/conditions-treatments/first-aid-for-accidental-amputation"/>
+    
+        <meta property="og:type" content="WEBSITE"/>
+    
+        <meta property="og:site_name" content="CommonSpirit Health"/>
+    
+        <meta property="locale" content="en_US"/>
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+        <meta name="twitter:title" content="What is First Aid For Accidental Amputation? | CommonSpirit Health"/>
+    
+        <meta name="twitter:description" content="First Aid for Accidental Amputation"/>
+    
+        <meta name="twitter:url" content="https://www.commonspirit.org/conditions-treatments/first-aid-for-accidental-amputation"/>
+    
+    <meta name="robots" content="index,follow"/>
+    <link rel="canonical" href="https://www.commonspirit.org/conditions-treatments/first-aid-for-accidental-amputation"/>
+    <link rel="icon" type="image/png" href="https://www.commonspirit.org/content/dam/shared/en/icons/favicon/CSH-logo-mark.png"/>
+
+
+    
+    
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/csh-aem-core/clientlibs/clientlib-base.lc-5b6bf6bddb27a9ef3f911fb1eb20081a-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/csh-aem-core/clientlibs/clientlib-bootstrap.lc-e7578d26d58c00a2f5f6764fce897a50-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/csh-aem-core/clientlibs/clientlib-site.lc-8e3d0f7f4e2c37f8071854ef13e17c1b-lc.min.css" type="text/css">
+
+
+
+
+<script type="text/javascript">
+            (function() {
+                window.ContextHub = window.ContextHub || {};
+
+                /* setting paths */
+                ContextHub.Paths = ContextHub.Paths || {};
+                ContextHub.Paths.CONTEXTHUB_PATH = "/conf/csh-aem-core/settings/cloudsettings/contexthub-container/contexthub";
+                ContextHub.Paths.RESOURCE_PATH = "\/content\/commonspiritorg\/us\/en\/conditions\u002Dtreatments\/detail\/_jcr_content\/contexthub";
+                ContextHub.Paths.SEGMENTATION_PATH = "\/conf\/csh\u002Daem\u002Dcore\/settings\/wcm\/segments";
+                ContextHub.Paths.CQ_CONTEXT_PATH = "";
+
+                /* setting initial constants */
+                ContextHub.Constants = ContextHub.Constants || {};
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/6/6lUAHdXTFOM8ha7flL6d";
+                ContextHub.Constants.MODE = "no-ui";
+            }());
+        </script><script src="/etc/cloudsettings.kernel.js/conf/csh-aem-core/settings/cloudsettings/contexthub-container/contexthub" type="text/javascript"></script>
+
+
+
+
+
+    
+    
+    
+
+    
+
+    
+
+
+        <script type="text/javascript" src="//assets.adobedtm.com/3cb42e98974f/635097c3d389/launch-53cc27bd0043.min.js"></script>
+
+
+    
+    
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v2/clientlibs/core.wcm.components.commons.datalayer.v2.lc-1e0136bad0acfb78be509234578e44f9-lc.min.js"></script>
+
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/acdl/core.wcm.components.commons.datalayer.acdl.lc-bf921af342fd2c40139671dbf0920a1f-lc.min.js"></script>
+
+
+
+    
+    
+</head>
+<body class="conditions-and-services-detail page basicpage" data-cmp-link-accessibility-enabled id="conditions-and-services-detail-9c9c219c25" data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled data-type="treatment" data-title="First Aid for Accidental Amputation" data-keywords="[&#34;Amputation care (regime/therapy)&#34;,&#34;Amputation, Traumatic&#34;,&#34;Amputations, Traumatic&#34;,&#34;Emergency Care&#34;,&#34;First Aid for Accidental Amputation&#34;,&#34;Traumatic Amputations&#34;,&#34;Traumatic amputated structure&#34;,&#34;Traumatic amputation&#34;,&#34;Traumatic amputation (disorder)&#34;,&#34;Traumatic amputation (morphologic abnormality)&#34;,&#34;amputation care&#34;,&#34;amputations care&#34;,&#34;care amputation&#34;,&#34;traumatic amputation&#34;]" data-csh-id="first-aid-for-accidental-amputation" data-specialties="[&#34;Emergency Medicine&#34;,&#34;Hyperbaric Medicine&#34;]">
+<div id="modal-root"></div>
+
+<div id="page-analytics-data" data-cmp-page="{&#34;conditions-and-services-detail-9c9c219c25&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/structure/conditions-and-services-detail&#34;,&#34;repo:modifyDate&#34;:&#34;2025-02-26T16:49:27Z&#34;}}" data-cmp-page-id="conditions-and-services-detail-9c9c219c25" data-cmp-template-title="Conditions &amp; Services Detail" data-cmp-page-error="false" data-cmp-page-error-type="200">
+</div>
+
+
+
+    
+<div class="root container responsivegrid">
+
+    
+    <div id="container-e3b48f8a59" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <header class="experiencefragment aem-GridColumn aem-GridColumn--default--12"><div data-aue-resource="urn:aemconnection:/conf/csh-aem-core/settings/wcm/templates/conditions-and-services-detail/structure/jcr:content/root/experiencefragment-header" data-aue-type="component" data-aue-model="experienceFragment" data-aue-label="Experience Fragment" id="experiencefragment-62522ac2f2" class="cmp-experiencefragment cmp-experiencefragment--header">
+    
+
+
+    
+    
+    
+    <div id="container-8b4a9a6ad5" class="cmp-container">
+        
+        <div class="global-header">
+<a href="#maincontent" class="global-header__skip-to-main-content" tabindex="0" aria-label="Skip to Main Content" id="skip-content-button">
+    <span class="global-header__skip-to-content-link">
+        Skip to Main Content
+    </span>
+</a>
+<header class="csh-aem-global-header csh-aem-global-header--default" data-module="GlobalHeader" data-cmp-data-layer="{&#34;global-header-8c8b960edb&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/global-header&#34;,&#34;repo:modifyDate&#34;:&#34;2026-07-15T15:41:32Z&#34;}}" data-suggestions-api="https://search.hellohumankindness.org/solr/csh-suggest/suggest" data-suggestions-dictionary="commonspiritorgSuggester" data-suggestions-count="6">
+    <div class="layout-container">
+        <div class="container">
+            <div class="row">
+                <div class="col col-12 col-md-12 col-lg-12">
+                    <div class="csh-aem-global-header__wrap">
+                        <div class="csh-aem-global-header__logo-wrap">
+                            <button class="csh-aem-global-header__menu-toggle" data-attribute-aria-open="Open menu" data-attribute-aria-close="Close menu" aria-label="Open menu" data-toggle="closed" type="button" aria-haspopup="true">
+                                <span class="csh-aem-global-header__hamburger-icon" aria-hidden="true"></span>
+                                <span class="csh-aem-global-header__hamburger-icon" aria-hidden="true"></span>
+                            </button>
+
+                            <a href="https://www.commonspirit.org" class="csh-aem-global-header__logo" target="_self" data-cmp-data-layer="{&#34;global-header-8c8b960edb-item-fdecf0eb43&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;global-header&#34;,&#34;parentId&#34;:&#34;global-header-8c8b960edb&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/global-header/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org&#34;}}" data-cmp-clickable>
+                                <img class="csh-aem-global-header__image" src="/content/dam/shared/en/logos/commonspirit-logo-1.svg" alt="CommonSpirit Health logo"/>
+                                <span class="visually-hidden">Back to Home</span>
+                            </a>
+                        </div>
+
+                        <div class="csh-aem-global-header__nav-search-wrap">
+                            <div class="csh-aem-global-header__nav-wrap">
+
+                                
+    <nav class="csh-aem-global-header__primary-nav csh-aem-global-header__primary-nav-mobile" aria-label="Primary navigation">
+        <ul class="csh-aem-global-header__primary-nav-list" role="menubar" aria-label="Primary navigation">
+
+            
+
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-5f9d42aaf4&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T20:41:36Z&#34;}}">
+        <a href="https://www.commonspirit.org/find-a-doctor" aria-label="Find a doctor" class="csh-aem-button csh-aem-global-header__primary-nav-link" data-cmp-data-layer="{&#34;megamenu-5f9d42aaf4-item-26d0e1d9df&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-5f9d42aaf4&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-doctor&#34;,&#34;dc:title&#34;:&#34;Find a doctor&#34;}}" data-cmp-clickable="true" target="_self" role="menuitem">Find a doctor</a>
+
+        
+
+        
+
+
+    
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-81785d6c43&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T20:42:34Z&#34;}}">
+        <a href="https://www.commonspirit.org/find-a-location" aria-label="Find a location" class="csh-aem-button csh-aem-global-header__primary-nav-link" data-cmp-data-layer="{&#34;megamenu-81785d6c43-item-7b9c720cba&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-81785d6c43&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-location&#34;,&#34;dc:title&#34;:&#34;Find a location&#34;}}" data-cmp-clickable="true" target="_self" role="menuitem">Find a location</a>
+
+        
+
+        
+
+
+    
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-d845135631&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-08-10T20:29:43Z&#34;}}">
+        
+
+        <button class="csh-aem-button csh-aem-global-header__primary-nav-link csh-aem-global-header__primary-nav-link--has-children" data-cmp-data-layer="{&#34;megamenu-d845135631-item-bfd791ee35&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;xdm:linkURL&#34;:&#34;#expand&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}" data-cmp-clickable="true" data-dropdown-toggle aria-haspopup="true" role="menuitem">Services and specialties
+            <span class="icon-chevron-d csh-aem-global-header__primary-nav-chevron" data-flyout-close="Close menu" data-flyout-open="Open menu" aria-label="Open menu">
+            </span>
+        </button>
+
+        
+
+
+    
+    <div class="csh-aem-mega-menu" aria-label="Megamenu" data-cmp-data-layer="{&#34;megamenu-d845135631&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-08-10T20:29:43Z&#34;}}">
+        <div class="csh-aem-mega-menu__wrap">
+            <button class="csh-aem-mega-menu__back-button" aria-label="Back to main menu">
+                <span class="icon-chevron-l"></span>Back to main menu
+            </button>
+
+            <div class="csh-aem-mega-menu__content-area">
+                <div class="csh-aem-mega-menu__content">
+                    
+                        <h3>Services and specialties</h3>
+<p><b>From routine checkups to managing chronic conditions, find the care you need.</b></p>
+
+                    
+
+                    <div class="csh-aem-mega-menu__content-cta" data-cmp-data-layer="{&#34;megamenu-d845135631-item-48d68af372&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+                        
+    <div id="-48d68af372" class="csh-aem-button-group " data-cmp-data-layer="{&#34;-48d68af372&#34;:{&#34;@type&#34;:&#34;nt:unstructured&#34;}}">
+        
+    <a href="https://www.commonspirit.org/services-specialties" target="_self" class="csh-aem-button csh-aem-button--text internal-link " data-cmp-data-layer="{&#34;megamenu-d845135631-item-48d68af372-item-d824b2f906&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-48d68af372&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties&#34;,&#34;dc:title&#34;:&#34;Services and specialties|View all services and specialties&#34;}}" data-cmp-clickable><span class="csh-aem-button__text">View all services and specialties</span></a>
+
+    </div>
+
+                    </div>
+                </div>
+
+                <ul class="csh-aem-mega-menu__content-list" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/cancer-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-0b6f962c32&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/cancer-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Oncology (Cancer Care)&#34;}}" data-cmp-clickable>
+                            Oncology (Cancer Care)
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/heart-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-156dc0dc22&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/heart-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Cardiology (Heart Care)&#34;}}" data-cmp-clickable>
+                            Cardiology (Heart Care)
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/emergency-services" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-c7a869c1ea&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/emergency-services&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Emergency Medicine&#34;}}" data-cmp-clickable>
+                            Emergency Medicine
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/primary-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-d12315ad8c&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/primary-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Primary Care&#34;}}" data-cmp-clickable>
+                            Primary Care
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/neurological-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-bc00df288b&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/neurological-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Neurology (Brain and Spine)&#34;}}" data-cmp-clickable>
+                            Neurology (Brain and Spine)
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/orthopedics" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-3525cfa003&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/orthopedics&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Orthopedics and Sports Medicine&#34;}}" data-cmp-clickable>
+                            Orthopedics and Sports Medicine
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/urgent-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-c632e7c8ef&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/urgent-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Urgent Care&#34;}}" data-cmp-clickable>
+                            Urgent Care
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/womens-health" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-049a7c08e1&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/womens-health&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Women&#39;s Health&#34;}}" data-cmp-clickable>
+                            Women&#39;s Health
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="csh-aem-mega-menu__card-area csh-aem-mega-menu__card-area--items">
+
+                
+    <div class="csh-aem-contextual-card csh-aem-contextual-card--default csh-aem-contextual-card--default-secondary" data-cmp-is="contextual-card" data-cmp-data-layer="{&#34;megamenu-d845135631-item-127185f1ea&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+        <div class="csh-aem-contextual-card__content-area">
+            
+            <div class="csh-aem-contextual-card__bottom-section">
+                
+                    <a href="https://www.commonspirit.org/find-a-doctor" target="_self" class="csh-aem-button csh-aem-button--text internal-link" data-cmp-data-layer="{&#34;megamenu-d845135631-item-127185f1ea-item-a32fe184d1&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-127185f1ea&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-doctor&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Find a doctor&#34;}}" data-cmp-clickable>
+                       <span class="csh-aem-button__text">
+                           Find a doctor
+                       </span>
+                    </a>
+                
+                <img class="csh-aem-contextual-card__image" src="/content/dam/shared/en/icons/footer/stethoscope.svg" alt loading="lazy"/>
+            </div>
+        </div>
+    </div>
+
+                
+    <div class="csh-aem-contextual-card csh-aem-contextual-card--default csh-aem-contextual-card--default-secondary" data-cmp-is="contextual-card" data-cmp-data-layer="{&#34;megamenu-d845135631-item-9fa84e777e&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+        <div class="csh-aem-contextual-card__content-area">
+            
+            <div class="csh-aem-contextual-card__bottom-section">
+                
+                    <a href="https://www.commonspirit.org/find-a-location" target="_self" class="csh-aem-button csh-aem-button--text internal-link" data-cmp-data-layer="{&#34;megamenu-d845135631-item-9fa84e777e-item-04e6ff352c&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-9fa84e777e&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-location&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Find a location&#34;}}" data-cmp-clickable>
+                       <span class="csh-aem-button__text">
+                           Find a location
+                       </span>
+                    </a>
+                
+                <img class="csh-aem-contextual-card__image" src="/content/dam/shared/en/icons/footer/medical-center.svg" alt="Alternative image text" loading="lazy"/>
+            </div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-2d1088b0cb&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-08-11T18:05:28Z&#34;}}">
+        <a href="https://www.commonspirit.org/conditions-treatments" aria-label="Conditions and treatments" class="csh-aem-button csh-aem-global-header__primary-nav-link" data-cmp-data-layer="{&#34;megamenu-2d1088b0cb-item-ec4a65f008&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-2d1088b0cb&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/conditions-treatments&#34;,&#34;dc:title&#34;:&#34;Conditions and treatments&#34;}}" data-cmp-clickable="true" target="_self" role="menuitem">Conditions and treatments</a>
+
+        
+
+        
+
+
+    
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-09-22T20:49:53Z&#34;}}">
+        
+
+        <button class="csh-aem-button csh-aem-global-header__primary-nav-link csh-aem-global-header__primary-nav-link--has-children" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-b490045707&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;xdm:linkURL&#34;:&#34;#expand&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources&#34;}}" data-cmp-clickable="true" data-dropdown-toggle aria-haspopup="true" role="menuitem">Patient resources
+            <span class="icon-chevron-d csh-aem-global-header__primary-nav-chevron" data-flyout-close="Close menu" data-flyout-open="Open menu" aria-label="Open menu">
+            </span>
+        </button>
+
+        
+
+
+    
+    
+    <div class="csh-aem-mega-menu csh-aem-mega-menu--secondary" aria-label="Megamenu" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-09-22T20:49:53Z&#34;}}">
+        <div class="csh-aem-mega-menu__wrap">
+            <button class="csh-aem-mega-menu__back-button" aria-label="Back to main menu">
+                <span class="icon-chevron-l"></span>Back to main menu
+            </button>
+
+            <div class="csh-aem-mega-menu__content-area">
+                <div class="csh-aem-mega-menu__content">
+                    
+                        <h3>Patient resources</h3>
+<p>Access information and resources to help guide your hospital visit.</p>
+
+                    
+
+                    <div class="csh-aem-mega-menu__content-cta" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-e84a076380&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources&#34;}}">
+                        
+    <div id="-e84a076380" class="csh-aem-button-group " data-cmp-data-layer="{&#34;-e84a076380&#34;:{&#34;@type&#34;:&#34;nt:unstructured&#34;}}">
+        
+    <a href="https://www.commonspirit.org/patient-resources" target="_self" class="csh-aem-button csh-aem-button--text internal-link " data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-e84a076380-item-ab1919db5d&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-e84a076380&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources&#34;,&#34;dc:title&#34;:&#34;Patient resources|Explore patient resources&#34;}}" data-cmp-clickable><span class="csh-aem-button__text">Explore patient resources</span></a>
+
+    </div>
+
+                    </div>
+                </div>
+
+                <ul class="csh-aem-mega-menu__columns">
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Prepare for your visit
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Prepare for your visit</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-696d919ab5&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Prepare for your visit&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/visitor-guidelines" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-696d919ab5-item-8e8f3b4820&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-696d919ab5&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/visitor-guidelines&#34;,&#34;dc:title&#34;:&#34;Patient resources|Prepare for your visit|Visitor information&#34;}}" data-cmp-clickable>
+                                        Visitor information
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Resources
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Resources</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/classes-events" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-4e4808af56&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/classes-events&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Classes and events&#34;}}" data-cmp-clickable>
+                                        Classes and events
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/blog" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-7908793f75&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/blog&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Health blog&#34;}}" data-cmp-clickable>
+                                        Health blog
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/patient-portal" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-901dd30356&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/patient-portal&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Patient portal&#34;}}" data-cmp-clickable>
+                                        Patient portal
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/medical-records" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-f673b03bbe&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/medical-records&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Medical records&#34;}}" data-cmp-clickable>
+                                        Medical records
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/clinical-trials" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-38e3eb840e&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/clinical-trials&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Clinical trials&#34;}}" data-cmp-clickable>
+                                        Clinical trials
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Services
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Services</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/language-interpretation-services" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0-item-4b0e15537a&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/language-interpretation-services&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services|Language and interpretation services&#34;}}" data-cmp-clickable>
+                                        Language and interpretation services
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/international-services" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0-item-a86ec5eb90&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/international-services&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services|International services&#34;}}" data-cmp-clickable>
+                                        International services
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/spiritual-care" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0-item-cedbae7c0e&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/spiritual-care&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services|Spiritual care&#34;}}" data-cmp-clickable>
+                                        Spiritual care
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Billing and finance
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Billing and finance</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/billing-and-finance" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-e5bae535a4&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/billing-and-finance&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Billing and finance overview&#34;}}" data-cmp-clickable>
+                                        Billing and finance overview
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/pay-my-bill" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-4459d11063&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/pay-my-bill&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Pay my bill&#34;}}" data-cmp-clickable>
+                                        Pay my bill
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/insurance" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-9526fd542b&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/insurance&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Insurance&#34;}}" data-cmp-clickable>
+                                        Insurance
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/financial-assistance" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-3710ad0dec&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/financial-assistance&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Financial assistance&#34;}}" data-cmp-clickable>
+                                        Financial assistance
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/no-surprises-act" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-c09f5046e3&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/no-surprises-act&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|No Surprises Act&#34;}}" data-cmp-clickable>
+                                        No Surprises Act
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/price-transparency" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-aa2f993b80&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/price-transparency&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Price transparency and cost estimator&#34;}}" data-cmp-clickable>
+                                        Price transparency and cost estimator
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/billing-faqs" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-e4c6920bea&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/billing-faqs&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Billing FAQs&#34;}}" data-cmp-clickable>
+                                        Billing FAQs
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    </li>
+
+
+
+            
+            <li class="csh-aem-global-header__button csh-aem-global-header__primary-nav-item">
+                <div class="csh-aem-getcarenow-global-btn" data-module="GetCareNow" data-cmp-id="global-header-8c8b960edb-item-e78a076df4-item-0069833c9b" data-cmp-type="csh-aem-core/components/content/header/global-header/item/item" data-cmp-name="global-header" data-title="Get care now">
+                </div>
+            </li>
+        </ul>
+    </nav>
+
+
+                                <nav class="csh-aem-global-header__utility-nav" aria-label="Utility navigation">
+                                    <ul role="menubar" class="csh-aem-global-header__utility-nav-list">
+
+                                        <li role="none" class="csh-aem-global-header__utility-nav-item">
+                                            <a class="csh-aem-global-header__utility-nav-link" data-cmp-data-layer="{&#34;global-header-8c8b960edb-item-91093420ec&#34;:{&#34;linkLocation&#34;:&#34;UTILITY_NAV&#34;,&#34;parentComponentName&#34;:&#34;global-header&#34;,&#34;parentId&#34;:&#34;global-header-8c8b960edb&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/global-header/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/about-us&#34;,&#34;dc:title&#34;:&#34;About CommonSpirit&#34;}}" data-cmp-clickable target="_self" role="menuitem" rel=" " href="https://www.commonspirit.org/about-us">About CommonSpirit
+                                            </a>
+                                        </li>
+<li role="none" class="csh-aem-global-header__utility-nav-item">
+                                            <a class="csh-aem-global-header__utility-nav-link" data-cmp-data-layer="{&#34;global-header-8c8b960edb-item-8189088e9a&#34;:{&#34;linkLocation&#34;:&#34;UTILITY_NAV&#34;,&#34;parentComponentName&#34;:&#34;global-header&#34;,&#34;parentId&#34;:&#34;global-header-8c8b960edb&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/global-header/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/contact-us&#34;,&#34;dc:title&#34;:&#34;Contact us&#34;}}" data-cmp-clickable target="_self" role="menuitem" rel=" " href="https://www.commonspirit.org/contact-us">Contact us
+                                            </a>
+                                        </li>
+
+
+                                        
+
+                                        <li role="none" class="csh-aem-global-header__utility-nav-item">
+                                            <a data-module="cmp-language-switch" data-domain="https://www.commonspirit.org/" data-reserve-a-spot-url="https://providers.commonspirit.org" data-scheduling-url="https://providers.commonspirit.org" data-block-it-api-url="https://providers.commonspirit.org" data-mule-soft-api-root-url="https://apiprod.commonspirit.org/csh-aem-blockit-proxy-apiprod" data-mule-soft-global-api-root-url="https://apiprod.commonspirit.org" data-locale="en-US" data-rating-api-url="https://apiprod.commonspirit.org" data-debounce-delay="250" class="csh-aem-global-header__utility-nav-link cmp-language-switch" role="menuitem"></a>
+                                        </li>
+
+                                        <li role="none" class="csh-aem-global-header__utility-nav-item">
+                                            
+
+
+    <div class="csh-aem-global-header__utility-nav-link" data-cmp-id="setmylocation-0411ded68e" data-cmp-name="setmylocation" data-cmp-type="csh-aem-core/components/content/setmylocation" data-google-maps-api-key="AIzaSyC-eW_Lkoc-9anfyO7KaECkNpW1AidEHeA" data-google-maps-api-root-url="https://maps.googleapis.com/maps/api/geocode/json" data-csh-domain="https://www.commonspirit.org" data-xf-path="/content/experience-fragments/commonspiritorg/us/en/site/set-my-location" data-module="SetMyLocation"></div>
+
+
+                                        </li>
+
+                                        <li role="none" class="csh-aem-global-header__utility-nav-item">
+                                            
+    <div data-module="Wizard" class="csh-aem-wizard__tower csh-aem-global-header__utility-nav-link" data-attr-locations-endpoint="https://apiprod.commonspirit.org/csh-aem-blockit-proxy-apiprod" data-attr-providers-endpoint="https://apiprod.commonspirit.org/csh-aem-blockit-proxy-apiprod" data-attr-wizard-endpoint="https://www.commonspirit.org/bin/api/wizards.json?wizard-type=bill_pay" data-attr-wizard-label="Pay my bill" data-attr-wizard-type="bill_pay" data-is-nav-item="true" data-cmp-name="global-header" data-cmp-type="csh-aem-core/components/content/header/global-header/cta" data-cmp-id="global-header-8c8b960edb-cta-ca5ff0affc"><div id="global-header-8c8b960edb-cta-ca5ff0affc"><button class="wizard-trigger csh-aem-global-header__utility-nav-link" id="wizard-trigger-bill_pay" role="menuitem"><span class="icon-pay-bill"></span><span>Pay my bill</span></button></div>
+    </div>
+
+                                        </li>
+<li role="none" class="csh-aem-global-header__utility-nav-item">
+                                            
+    <div data-module="Wizard" class="csh-aem-wizard__tower csh-aem-global-header__utility-nav-link" data-attr-locations-endpoint="https://apiprod.commonspirit.org/csh-aem-blockit-proxy-apiprod" data-attr-providers-endpoint="https://apiprod.commonspirit.org/csh-aem-blockit-proxy-apiprod" data-attr-wizard-endpoint="https://www.commonspirit.org/bin/api/wizards.json?wizard-type=portal" data-attr-wizard-label="Patient portal" data-attr-wizard-type="portal" data-is-nav-item="true" data-cmp-name="global-header" data-cmp-type="csh-aem-core/components/content/header/global-header/cta" data-cmp-id="global-header-8c8b960edb-cta-642e00c33a"><div id="global-header-8c8b960edb-cta-642e00c33a"><button class="wizard-trigger csh-aem-global-header__utility-nav-link" id="wizard-trigger-portal" role="menuitem"><span class="icon-login"></span><span>Patient portal</span></button></div>
+    </div>
+
+                                        </li>
+
+
+                                        <li role="none" class="csh-aem-global-header__utility-nav-item">
+
+                                            <div role="none" class="csh-aem-global-header__search csh-aem-global-header__utility-nav-link">
+                                                <button type="button" class="csh-aem-global-header__search-button
+                                                    csh-aem-global-header__utility-nav-link" role="menuitem" id="searchButton" aria-label="Search" aria-controls="search-form-header" aria-expanded="false">
+                                                    <span class="icon-search"></span>
+                                                    <span>Search</span>
+                                                </button>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                </nav>
+
+                                
+    <nav class="csh-aem-global-header__primary-nav csh-aem-global-header__primary-nav-desktop" aria-label="Primary navigation">
+        <ul class="csh-aem-global-header__primary-nav-list" role="menubar" aria-label="Primary navigation">
+
+            
+
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-5f9d42aaf4&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T20:41:36Z&#34;}}">
+        <a href="https://www.commonspirit.org/find-a-doctor" aria-label="Find a doctor" class="csh-aem-button csh-aem-global-header__primary-nav-link" data-cmp-data-layer="{&#34;megamenu-5f9d42aaf4-item-26d0e1d9df&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-5f9d42aaf4&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-doctor&#34;,&#34;dc:title&#34;:&#34;Find a doctor&#34;}}" data-cmp-clickable="true" target="_self" role="menuitem">Find a doctor</a>
+
+        
+
+        
+
+
+    
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-81785d6c43&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T20:42:34Z&#34;}}">
+        <a href="https://www.commonspirit.org/find-a-location" aria-label="Find a location" class="csh-aem-button csh-aem-global-header__primary-nav-link" data-cmp-data-layer="{&#34;megamenu-81785d6c43-item-7b9c720cba&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-81785d6c43&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-location&#34;,&#34;dc:title&#34;:&#34;Find a location&#34;}}" data-cmp-clickable="true" target="_self" role="menuitem">Find a location</a>
+
+        
+
+        
+
+
+    
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-d845135631&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-08-10T20:29:43Z&#34;}}">
+        
+
+        <button class="csh-aem-button csh-aem-global-header__primary-nav-link csh-aem-global-header__primary-nav-link--has-children" data-cmp-data-layer="{&#34;megamenu-d845135631-item-bfd791ee35&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;xdm:linkURL&#34;:&#34;#expand&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}" data-cmp-clickable="true" data-dropdown-toggle aria-haspopup="true" role="menuitem">Services and specialties
+            <span class="icon-chevron-d csh-aem-global-header__primary-nav-chevron" data-flyout-close="Close menu" data-flyout-open="Open menu" aria-label="Open menu">
+            </span>
+        </button>
+
+        
+
+
+    
+    <div class="csh-aem-mega-menu" aria-label="Megamenu" data-cmp-data-layer="{&#34;megamenu-d845135631&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-08-10T20:29:43Z&#34;}}">
+        <div class="csh-aem-mega-menu__wrap">
+            <button class="csh-aem-mega-menu__back-button" aria-label="Back to main menu">
+                <span class="icon-chevron-l"></span>Back to main menu
+            </button>
+
+            <div class="csh-aem-mega-menu__content-area">
+                <div class="csh-aem-mega-menu__content">
+                    
+                        <h3>Services and specialties</h3>
+<p><b>From routine checkups to managing chronic conditions, find the care you need.</b></p>
+
+                    
+
+                    <div class="csh-aem-mega-menu__content-cta" data-cmp-data-layer="{&#34;megamenu-d845135631-item-48d68af372&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+                        
+    <div id="-48d68af372" class="csh-aem-button-group " data-cmp-data-layer="{&#34;-48d68af372&#34;:{&#34;@type&#34;:&#34;nt:unstructured&#34;}}">
+        
+    <a href="https://www.commonspirit.org/services-specialties" target="_self" class="csh-aem-button csh-aem-button--text internal-link " data-cmp-data-layer="{&#34;megamenu-d845135631-item-48d68af372-item-d824b2f906&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-48d68af372&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties&#34;,&#34;dc:title&#34;:&#34;Services and specialties|View all services and specialties&#34;}}" data-cmp-clickable><span class="csh-aem-button__text">View all services and specialties</span></a>
+
+    </div>
+
+                    </div>
+                </div>
+
+                <ul class="csh-aem-mega-menu__content-list" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/cancer-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-0b6f962c32&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/cancer-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Oncology (Cancer Care)&#34;}}" data-cmp-clickable>
+                            Oncology (Cancer Care)
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/heart-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-156dc0dc22&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/heart-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Cardiology (Heart Care)&#34;}}" data-cmp-clickable>
+                            Cardiology (Heart Care)
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/emergency-services" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-c7a869c1ea&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/emergency-services&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Emergency Medicine&#34;}}" data-cmp-clickable>
+                            Emergency Medicine
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/primary-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-d12315ad8c&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/primary-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Primary Care&#34;}}" data-cmp-clickable>
+                            Primary Care
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/neurological-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-bc00df288b&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/neurological-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Neurology (Brain and Spine)&#34;}}" data-cmp-clickable>
+                            Neurology (Brain and Spine)
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/orthopedics" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-3525cfa003&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/orthopedics&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Orthopedics and Sports Medicine&#34;}}" data-cmp-clickable>
+                            Orthopedics and Sports Medicine
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/urgent-care" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-c632e7c8ef&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/urgent-care&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Urgent Care&#34;}}" data-cmp-clickable>
+                            Urgent Care
+                        </a>
+                    </li>
+                
+                    <li class="csh-aem-mega-menu__content-item">
+                        <a href="https://www.commonspirit.org/services-specialties/womens-health" class="csh-aem-mega-menu__content-link" target="_self" data-cmp-data-layer="{&#34;megamenu-d845135631-item-dfb6d36d92-item-049a7c08e1&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-dfb6d36d92&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/services-specialties/womens-health&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Women&#39;s Health&#34;}}" data-cmp-clickable>
+                            Women&#39;s Health
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="csh-aem-mega-menu__card-area csh-aem-mega-menu__card-area--items">
+
+                
+    <div class="csh-aem-contextual-card csh-aem-contextual-card--default csh-aem-contextual-card--default-secondary" data-cmp-is="contextual-card" data-cmp-data-layer="{&#34;megamenu-d845135631-item-127185f1ea&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+        <div class="csh-aem-contextual-card__content-area">
+            
+            <div class="csh-aem-contextual-card__bottom-section">
+                
+                    <a href="https://www.commonspirit.org/find-a-doctor" target="_self" class="csh-aem-button csh-aem-button--text internal-link" data-cmp-data-layer="{&#34;megamenu-d845135631-item-127185f1ea-item-a32fe184d1&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-127185f1ea&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-doctor&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Find a doctor&#34;}}" data-cmp-clickable>
+                       <span class="csh-aem-button__text">
+                           Find a doctor
+                       </span>
+                    </a>
+                
+                <img class="csh-aem-contextual-card__image" src="/content/dam/shared/en/icons/footer/stethoscope.svg" alt loading="lazy"/>
+            </div>
+        </div>
+    </div>
+
+                
+    <div class="csh-aem-contextual-card csh-aem-contextual-card--default csh-aem-contextual-card--default-secondary" data-cmp-is="contextual-card" data-cmp-data-layer="{&#34;megamenu-d845135631-item-9fa84e777e&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Services and specialties&#34;}}">
+        <div class="csh-aem-contextual-card__content-area">
+            
+            <div class="csh-aem-contextual-card__bottom-section">
+                
+                    <a href="https://www.commonspirit.org/find-a-location" target="_self" class="csh-aem-button csh-aem-button--text internal-link" data-cmp-data-layer="{&#34;megamenu-d845135631-item-9fa84e777e-item-04e6ff352c&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-d845135631-item-9fa84e777e&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/find-a-location&#34;,&#34;dc:title&#34;:&#34;Services and specialties|Find a location&#34;}}" data-cmp-clickable>
+                       <span class="csh-aem-button__text">
+                           Find a location
+                       </span>
+                    </a>
+                
+                <img class="csh-aem-contextual-card__image" src="/content/dam/shared/en/icons/footer/medical-center.svg" alt="Alternative image text" loading="lazy"/>
+            </div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-2d1088b0cb&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-08-11T18:05:28Z&#34;}}">
+        <a href="https://www.commonspirit.org/conditions-treatments" aria-label="Conditions and treatments" class="csh-aem-button csh-aem-global-header__primary-nav-link" data-cmp-data-layer="{&#34;megamenu-2d1088b0cb-item-ec4a65f008&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-2d1088b0cb&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/conditions-treatments&#34;,&#34;dc:title&#34;:&#34;Conditions and treatments&#34;}}" data-cmp-clickable="true" target="_self" role="menuitem">Conditions and treatments</a>
+
+        
+
+        
+
+
+    
+    
+
+
+    </li>
+
+    <li class="csh-aem-global-header__primary-nav-item" role="none" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-09-22T20:49:53Z&#34;}}">
+        
+
+        <button class="csh-aem-button csh-aem-global-header__primary-nav-link csh-aem-global-header__primary-nav-link--has-children" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-b490045707&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;xdm:linkURL&#34;:&#34;#expand&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources&#34;}}" data-cmp-clickable="true" data-dropdown-toggle aria-haspopup="true" role="menuitem">Patient resources
+            <span class="icon-chevron-d csh-aem-global-header__primary-nav-chevron" data-flyout-close="Close menu" data-flyout-open="Open menu" aria-label="Open menu">
+            </span>
+        </button>
+
+        
+
+
+    
+    
+    <div class="csh-aem-mega-menu csh-aem-mega-menu--secondary" aria-label="Megamenu" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu&#34;,&#34;repo:modifyDate&#34;:&#34;2026-09-22T20:49:53Z&#34;}}">
+        <div class="csh-aem-mega-menu__wrap">
+            <button class="csh-aem-mega-menu__back-button" aria-label="Back to main menu">
+                <span class="icon-chevron-l"></span>Back to main menu
+            </button>
+
+            <div class="csh-aem-mega-menu__content-area">
+                <div class="csh-aem-mega-menu__content">
+                    
+                        <h3>Patient resources</h3>
+<p>Access information and resources to help guide your hospital visit.</p>
+
+                    
+
+                    <div class="csh-aem-mega-menu__content-cta" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-e84a076380&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources&#34;}}">
+                        
+    <div id="-e84a076380" class="csh-aem-button-group " data-cmp-data-layer="{&#34;-e84a076380&#34;:{&#34;@type&#34;:&#34;nt:unstructured&#34;}}">
+        
+    <a href="https://www.commonspirit.org/patient-resources" target="_self" class="csh-aem-button csh-aem-button--text internal-link " data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-e84a076380-item-ab1919db5d&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-e84a076380&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources&#34;,&#34;dc:title&#34;:&#34;Patient resources|Explore patient resources&#34;}}" data-cmp-clickable><span class="csh-aem-button__text">Explore patient resources</span></a>
+
+    </div>
+
+                    </div>
+                </div>
+
+                <ul class="csh-aem-mega-menu__columns">
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Prepare for your visit
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Prepare for your visit</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-696d919ab5&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Prepare for your visit&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/visitor-guidelines" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-696d919ab5-item-8e8f3b4820&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-696d919ab5&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/visitor-guidelines&#34;,&#34;dc:title&#34;:&#34;Patient resources|Prepare for your visit|Visitor information&#34;}}" data-cmp-clickable>
+                                        Visitor information
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Resources
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Resources</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/classes-events" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-4e4808af56&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/classes-events&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Classes and events&#34;}}" data-cmp-clickable>
+                                        Classes and events
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/blog" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-7908793f75&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/blog&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Health blog&#34;}}" data-cmp-clickable>
+                                        Health blog
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/patient-portal" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-901dd30356&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/patient-portal&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Patient portal&#34;}}" data-cmp-clickable>
+                                        Patient portal
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/medical-records" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-f673b03bbe&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/medical-records&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Medical records&#34;}}" data-cmp-clickable>
+                                        Medical records
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/clinical-trials" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-42d1e86582-item-38e3eb840e&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-42d1e86582&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/clinical-trials&#34;,&#34;dc:title&#34;:&#34;Patient resources|Resources|Clinical trials&#34;}}" data-cmp-clickable>
+                                        Clinical trials
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Services
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Services</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/language-interpretation-services" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0-item-4b0e15537a&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/language-interpretation-services&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services|Language and interpretation services&#34;}}" data-cmp-clickable>
+                                        Language and interpretation services
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/international-services" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0-item-a86ec5eb90&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/international-services&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services|International services&#34;}}" data-cmp-clickable>
+                                        International services
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/spiritual-care" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-850f6945e0-item-cedbae7c0e&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-850f6945e0&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/spiritual-care&#34;,&#34;dc:title&#34;:&#34;Patient resources|Services|Spiritual care&#34;}}" data-cmp-clickable>
+                                        Spiritual care
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <button class="csh-aem-mega-menu__column-button-mobile" aria-expanded="false">
+                            Billing and finance
+                            <span class="icon-chevron-r"></span>
+                        </button>
+                        <div class="csh-aem-mega-menu__column">
+                            <button class="csh-aem-mega-menu__column-back-button csh-aem-mega-menu__back-button" aria-label="Back">
+                                <span class="icon-chevron-l"></span>Back to Patient resources
+                            </button>
+                            <p class="csh-aem-mega-menu__column-title">Billing and finance</p>
+                            <ul class="csh-aem-mega-menu__list" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;:{&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance&#34;}}">
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/billing-and-finance" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-e5bae535a4&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/billing-and-finance&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Billing and finance overview&#34;}}" data-cmp-clickable>
+                                        Billing and finance overview
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/pay-my-bill" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-4459d11063&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/pay-my-bill&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Pay my bill&#34;}}" data-cmp-clickable>
+                                        Pay my bill
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/insurance" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-9526fd542b&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/insurance&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Insurance&#34;}}" data-cmp-clickable>
+                                        Insurance
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/financial-assistance" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-3710ad0dec&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/financial-assistance&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Financial assistance&#34;}}" data-cmp-clickable>
+                                        Financial assistance
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/no-surprises-act" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-c09f5046e3&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/no-surprises-act&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|No Surprises Act&#34;}}" data-cmp-clickable>
+                                        No Surprises Act
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/price-transparency" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-aa2f993b80&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/price-transparency&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Price transparency and cost estimator&#34;}}" data-cmp-clickable>
+                                        Price transparency and cost estimator
+                                    </a>
+                                </li>
+                            
+                                <li class="csh-aem-mega-menu__item">
+                                    <a href="https://www.commonspirit.org/patient-resources/billing-faqs" class="csh-aem-mega-menu__content-link csh-aem-mega-menu__link" target="_self" data-cmp-data-layer="{&#34;megamenu-a3e9a7e2c8-item-373794f2b7-item-e4c6920bea&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;megamenu&#34;,&#34;parentId&#34;:&#34;megamenu-a3e9a7e2c8-item-373794f2b7&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/megamenu/item/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/patient-resources/billing-faqs&#34;,&#34;dc:title&#34;:&#34;Patient resources|Billing and finance|Billing FAQs&#34;}}" data-cmp-clickable>
+                                        Billing FAQs
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    </li>
+
+
+
+            
+            <li class="csh-aem-global-header__button csh-aem-global-header__primary-nav-item">
+                <div class="csh-aem-getcarenow-global-btn" data-module="GetCareNow" data-cmp-id="global-header-8c8b960edb-item-e78a076df4-item-0069833c9b" data-cmp-type="csh-aem-core/components/content/header/global-header/item/item" data-cmp-name="global-header" data-title="Get care now">
+                </div>
+            </li>
+        </ul>
+    </nav>
+
+                            </div>
+
+                            <form class="csh-aem-global-header__search-form" data-cmp-hook-search="form" name="search-form" role="search" id="search-form-header" method="get" action="https://www.commonspirit.org/search" psaction="https://www.commonspirit.org/search.sitesearchresults.json" autocomplete="off">
+                                <div class="csh-aem-global-header__input-wrapper">
+                                    <div class="csh-aem-global-header__search-field">
+                                        <input tabindex="0" type="text" id="searchInput" data-cmp-hook-search="input" name="q" aria-multiline="false" aria-label="search" aria-required="true" required aria-autocomplete="list" class="csh-aem-global-header__search-input" placeholder="Search"/>
+                                        <span class="csh-aem-global-header__search-input-placeholder">
+                                            Search
+                                        </span>
+                                        <button class="csh-aem-global-header__search-input-icon csh-aem-global-header__search-input-icon--search icon-search" aria-label="Search" type="button">
+                                        </button>
+                                        <button class="csh-aem-global-header__search-input-icon csh-aem-global-header__search-input-icon--clear icon-x" hidden aria-label="Clear" type="button">
+                                        </button>
+                                        <div id="dynamic-suggestions"></div>
+                                        
+                                    </div>
+                                    <button type="submit" class="csh-aem-global-header__submit-search-button csh-aem-button csh-aem-button--primary disabled" aria-label="Submit Search" data-cmp-data-layer="{&#34;global-header-8c8b960edb-cta-7ce9047899&#34;:{&#34;linkLocation&#34;:&#34;HEADER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;PRIMARY&#34;,&#34;parentComponentName&#34;:&#34;global-header&#34;,&#34;parentId&#34;:&#34;global-header-8c8b960edb&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/header/global-header/cta&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/search&#34;,&#34;repo:modifyDate&#34;:&#34;2026-07-15T15:41:32Z&#34;,&#34;dc:title&#34;:&#34;Search&#34;}}" data-cmp-clickable>
+                                        <span class="csh-aem-button__text csh-aem-global-header__submit-search-text">
+                                            Search
+                                        </span>
+                                    </button>
+                                </div>
+                                <button class="csh-aem-global-header__search-clear button-close" id="clearSearch" type="reset" aria-label="close search box">
+                                    <span class="icon-x"></span>
+                                    <span class="icon-arrow-l"></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+</div>
+<div class="alert">
+
+<div data-module="PersonalizationAlert" data-type="medical-group-clinic" data-text="&lt;p>You are seeing {0}-specific information for {1}, to learn more about this experience &lt;a href=&#34;#personalization-modal&#34;>click here&lt;/a>&lt;/p>
+" data-cmp-id="alert-9f4546a16f" data-cmp-type="csh-aem-core/components/personalization/alert" data-cmp-name="alert"></div></div>
+<div class="modal">
+
+<div data-module="PersonalizationModal" data-title="We’re making your experience more personalized" data-description="&lt;p>Commonspirit Health supports over 2,200+ care sites across 24 states coast to coast, and over 35,000+ physicians and advanced practice providers.&lt;/p>
+&lt;p>Since this is such a large area of support, we are attempting to narrow down what we show you to the providers, locations and healthcare information that we hope is the most relevant for you. We determine this either by looking at the location you set on our website, or if you arrived to our website directly on certain pages, like a specific location page.&lt;/p>
+&lt;p>If you would prefer to not have the provider, location and healthcare information on this site narrowed down, &lt;a href=&#34;#deny-personalization&#34;>click here&lt;/a> and we will show you information for all of Commonspirit Health.&lt;/p>
+" data-cmp-id="personalization-modal" data-cmp-type="csh-aem-core/components/personalization/modal" data-cmp-name="modal"></div>
+</div>
+
+        
+    </div>
+
+
+</div>
+
+    
+
+</header>
+<div class="csh-aem-breadcrumb aem-GridColumn aem-GridColumn--default--12"><div class="csh-aem-layout-container layout-container">
+    <div class="container">
+        <div class="row">
+            <div class="col col-12">
+                <nav id="breadcrumb-b18ca7123c" class="cmp-breadcrumb" aria-label="Breadcrumb" data-cmp-data-layer="{&#34;breadcrumb-b18ca7123c&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/structure/breadcrumb&#34;}}">
+                    <ol class="cmp-breadcrumb__list">
+                        <li class="cmp-breadcrumb__item" itemprop="itemListElement">
+                            
+                            <a class="cmp-breadcrumb__item-link" href="https://www.commonspirit.org" itemprop="item" data-cmp-clickable>
+                                <span itemprop="name">Home</span>
+                            </a>
+                            <meta itemprop="position" content="1"/>
+                        </li>
+                    
+                        <li class="cmp-breadcrumb__item" itemprop="itemListElement">
+                            
+                            <a class="cmp-breadcrumb__item-link" href="https://www.commonspirit.org/conditions-treatments" itemprop="item" data-cmp-clickable>
+                                <span itemprop="name">Conditions and treatments</span>
+                            </a>
+                            <meta itemprop="position" content="2"/>
+                        </li>
+                    
+                        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" itemprop="itemListElement" aria-current="page">
+                            
+                            
+                                <span itemprop="name">First aid for accidental amputation</span>
+                            
+                            <meta itemprop="position" content="3"/>
+                        </li>
+                    </ol>
+                </nav>
+                
+    
+
+            </div>
+        </div>
+    </div>
+</div></div>
+<div class="csh-aem-maincontent aem-GridColumn aem-GridColumn--default--12"><div id="maincontent"></div>
+</div>
+<div class="inner-hero teaser aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+    
+
+    
+
+    
+    <div id="inner-hero-dea33a4d2c" data-cmp-data-layer="{&#34;inner-hero-dea33a4d2c&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/inner-hero&#34;,&#34;dc:title&#34;:&#34;First aid for accidental amputation&#34;}}" class="csh-aem-hero csh-aem-hero--inner csh-aem-hero--inner--sc-detail" data-aue-resource="urn:aemconnection:/conf/csh-aem-core/settings/wcm/templates/conditions-and-services-detail/structure/jcr:content/root/innerHero" data-aue-type="component" data-aue-model="innerHero" data-aue-label="Inner Hero">
+        <div class="csh-aem-layout-container layout-container bg-gray">
+            <div class="container">
+                <div class="row">
+                    <div class="csh-aem-hero__back">
+                        <a class="csh-aem-back-button csh-aem-button" data-module="BackButton" data-cmp-data-layer="{&#34;backbutton-01384a7549&#34;:{&#34;linkLocation&#34;:&#34;PAGE_BODY&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;inner-hero&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/backbutton&#34;,&#34;xdm:linkURL&#34;:&#34;&#34;,&#34;dc:title&#34;:&#34;Back&#34;}}" data-cmp-clickable>
+    <span class="icon-chevron-l csh-aem-back-button__chevron-l"></span>
+    <span class="csh-aem-back-button__text">Back</span>
+</a>
+
+                    </div>
+
+                    <div class="csh-aem-hero__pre-content">
+                        
+    <div id="sharebutton-f118b416ca" data-cmp-name="sharebutton" data-cmp-id="sharebutton-f118b416ca" data-cmp-type="csh-aem-core/components/content/sharebutton" data-csh-data-layer="{&#34;sharebutton-f118b416ca&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/sharebutton&#34;}}" class="csh-aem-share" data-attr-data-layer="true" data-module="ShareButton" data-url="https://www.commonspirit.org/conditions-treatments/first-aid-for-accidental-amputation" data-mail-subject="First Aid for Accidental Amputation | CommonSpirit Health">
+    </div>
+
+
+
+                        
+                    </div>
+                    <div class="col col-12 col-lg-6 csh-aem-hero__content-wrap">
+                        <div class="csh-aem-hero__content">
+                            
+                            <h1 class="csh-aem-hero__title">First aid for accidental amputation</h1>
+                            
+                            
+    
+
+                        </div>
+                    </div>
+                    <div class="col col-12 col-lg-6 csh-aem-hero__image-reorder">
+                        <div class="csh-aem-hero__image-wrap">
+                            <img class="csh-aem-hero__image" src="/content/dam/shared/en/images/conditions-and-services/images/healthwise-default.jpeg" alt="First Aid for Accidental Amputation"/>
+                            <div class="csh-aem-hero__image-shadow"></div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    
+
+    
+    
+     
+
+    
+
+    
+
+    
+
+</div>
+<div class="jump-nav-conditions-treatments aem-GridColumn aem-GridColumn--default--12">
+
+    <div class="csh-aem-jump-nav" data-module="JumpNav" data-cmp-data-layer="{&#34;jump-nav-conditions-treatments-3c17011912&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/conditions-treatments/jump-nav-conditions-treatments&#34;}}">
+        <div class="csh-aem-layout-container layout-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-12">
+                        <div class="mobile-nav-toggle">
+                            <div class="csh-aem-jump-nav__mobile-selection">
+                                <span class="csh-aem-jump-nav__mobile-selection-text"></span>
+                            </div>
+                            <div class="csh-aem-jump-nav__mobile-jump-to">
+                                <span class="csh-aem-jump-nav__jump-to-text" aria-label="Jump to">Jump to</span>
+                                <button class="csh-aem-jump-nav__chevron-button" id="csh-aem-jump-nav__chevron-down" aria-expanded="false">
+                                    <span class="icon-chevron-d"></span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="csh-aem-jump-nav__wrap">
+                            <ul class="csh-aem-jump-nav__list" aria-label="Jump Navigation">
+                                <li class="csh-aem-jump-nav__item">
+                                    <a class="csh-aem-jump-nav__link" href="#howDone" data-cmp-data-layer="{&#34;jump-nav-conditions-treatments-3c17011912-cta-dd3b16597e&#34;:{&#34;linkLocation&#34;:&#34;JUMP_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;jump-nav-conditions-treatments&#34;,&#34;parentId&#34;:&#34;jump-nav-conditions-treatments-3c17011912&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/conditions-treatments/jump-nav-conditions-treatments/cta&#34;,&#34;xdm:linkURL&#34;:&#34;#howDone&#34;,&#34;dc:title&#34;:&#34;How is it done&#34;}}" data-cmp-clickable>
+                                        How is it done
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="layout container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+<div id="layout-aad09c5bff" class="csh-aem-layout-container layout-container layout-container--top-small layout-container--bottom-small bg-white " data-cmp-is="layoutcontainer">
+    <div class="csh-aem-layout-container__content">
+
+    
+    
+    
+    <div id="container-b2bff8df6c" class="cmp-container">
+        
+        <div class="column">
+<div data-cmp-is="columns">
+    <div class="container">
+        <div class="row col-number-option2  justify-content-default">
+            
+
+            
+                <div class="col col-12 col-xl-7 ">
+
+    
+    
+    
+    <div id="container-f2da700f01" class="cmp-container">
+        
+        <div class="topics-list">
+<div class="csh-aem-healthwise-topics">
+    <div id="howDone">
+        <div id="acg3478" class="csh-aem-healthwise-topics__html"><div class="HwStructuredWrapper"><div class="HwStructuredContent HwActionTask"> <h2 data-element="title" role="heading" aria-level="3">How to give first aid for an amputated body part </h2> <div class="HwContext"> <p>Amputation is the removal of a body part. This can be done by a doctor in a hospital setting, such as when a foot must be amputated because of diabetes complications. But amputation may also happen during an accident. </p> <p>An amputation may be complete (the body part is completely removed or cut off) or partial (much of the body part is cut off, but it remains attached to the rest of the body). </p> <p>In some cases amputated parts can be successfully reattached. The success of the reattachment depends on: </p> <ul> <li>What body part was amputated. </li> <li>The condition of the amputated part. </li> <li>The time since the amputation and receiving medical care. </li> <li>The general health of the injured person. </li> </ul> <p>Take these actions to help someone who has had an accidental amputation. </p> </div> <ol class="HwOrderedSteps"> <li> <div class="HwCmd">Call emergency services. </div> </li> <li> <div class="HwCmd">Stop the bleeding. </div> <div class="HwInfo"> <p>A complete amputation may not bleed very much. The cut blood vessels may spasm, pull back into the injured part, and shrink. This slows or stops the bleeding. If there is bleeding, do the following: </p> </div> <div class="HwCmd">If available, wash your hands with soap and water and put on disposable gloves. </div> <div class="HwInfo"> <p> If gloves are not available, use many layers of clean cloth, plastic bags, or the cleanest material available between your hands and the wound. </p> </div> <div class="HwCmd">Have the injured person lie down and elevate the site that is bleeding. </div> <div class="HwCmd">Remove any visible objects in the wound that are easy to remove. </div> <div class="HwCmd">Remove or cut clothing from around the wound. </div> <div class="HwCmd">Apply steady direct pressure for a full 15 minutes. </div> <div class="HwInfo"> <p>If blood soaks through the cloth, apply another one without lifting the first. If there is an object in the wound, apply pressure around the object, not directly over it. </p> </div> <div class="HwCmd">If moderate to severe bleeding has not slowed or stopped, continue direct pressure while getting help. </div> <div class="HwInfo"> <p>Do all you can to keep the wound clean and avoid further injury to the area. </p> </div> <div class="HwCmd">Mild bleeding usually stops on its own or slows to an ooze or trickle after 15 minutes of pressure. </div> <div class="HwInfo"> <p>It may ooze or trickle for up to 45 minutes. </p> </div> </li> <li> <div class="HwCmd">Wrap or cover the injured area with a sterile dressing or clean cloth until medical treatment is received. </div> </li> <li> <div class="HwCmd">Check and treat for shock. </div> <div class="HwInfo"> <p>The trauma of the accident or severe blood loss can cause the person to go into shock.</p> </div> </li> <li> <div class="HwCmd">Care for the amputated body part. </div> <div class="HwInfo"> <p>If the body part was completely amputated: </p> </div> <div class="HwCmd">Recover the amputated body part, if possible, and transport it to the hospital with the injured person. </div> <div class="HwInfo"> <p>If the part can't be found right away, transport the injured person to the hospital and bring the amputated part to the hospital when it is found. </p> </div> <div class="HwCmd">Gently rinse off dirt and debris with clean water, if possible. </div> <div class="HwInfo"> <p>Do not scrub. </p> </div> <div class="HwCmd">Wrap the amputated part in a dry, sterile gauze or clean cloth. </div> <div class="HwCmd">Put the wrapped part in a plastic bag or waterproof container. </div> <div class="HwCmd">Place the plastic bag or waterproof container on ice. </div> <div class="HwInfo"> <p>The goal is to keep the amputated part cool but not to cause more damage from the cold ice. Do not cover the part with ice or put it directly into ice water. </p> </div> <div class="HwInfo"> <p>If the body part was partially amputated: </p> </div> <div class="HwCmd">Elevate the injured area. </div> <div class="HwCmd">Wrap or cover the injured area with a sterile dressing or clean cloth. </div> <div class="HwCmd">Apply pressure if the injured area is bleeding. </div> <div class="HwInfo"> <p>This will slow the bleeding until the person receives medical care. You don't want to cut off the blood flow to the partially amputated part, so pressure needs to be light—just enough to slow blood loss. </p> </div> <div class="HwCmd">Gently splint the injured area to prevent movement or further damage. </div> </li> </ol> </div></div></div>
+    </div>
+
+    <div>
+        <div class="separator">
+            
+<div id="separator-f61536bc71" class="csh-aem-separator" data-cmp-data-layer="{&#34;separator-f61536bc71&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/separator&#34;}}">
+     <hr aria-hidden="true" role="separator"/>
+</div>
+        </div>
+        <div class="csh-aem-hw-disclaimer">
+            
+            
+    <div class="csh-aem-hw-disclaimer">
+        
+            <p>©2011-2026 Healthwise, Incorporated</p>
+            <div>
+                <strong>
+                    
+                    
+                    The content above contains general health information provided by Healthwise, Incorporated, and reviewed by its medical experts. This content should not replace the advice of your healthcare provider. Not all treatments or services described are offered as services by us. For recommended treatments, please consult your healthcare provider.
+                </strong>
+            </div>
+        
+    </div>
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="social-follow">
+
+<div class="csh-aem-social-follow" data-cmp-data-layer="{&#34;social-follow-118dd527fc&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow&#34;,&#34;dc:title&#34;:&#34;Share this article&#34;}}">
+    <h4 class="csh-aem-social-follow__heading">Share this article</h4>
+
+    <ul class="csh-aem-social-follow__list" aria-label="Social Follow">
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="facebook" class="csh-aem-social-follow__link active icon-social-facebook" data-cmp-data-layer="{&#34;social-follow-118dd527fc-item-2798ecc980&#34;:{&#34;linkLocation&#34;:&#34;PAGE_BODY&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-118dd527fc&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.facebook.com/commonspirithealth&#34;,&#34;dc:title&#34;:&#34;facebook&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.facebook.com/commonspirithealth" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="x" class="csh-aem-social-follow__link active icon-social-x" data-cmp-data-layer="{&#34;social-follow-118dd527fc-item-46c615f25f&#34;:{&#34;linkLocation&#34;:&#34;PAGE_BODY&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-118dd527fc&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://x.com/commonspirit&#34;,&#34;dc:title&#34;:&#34;x&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://x.com/commonspirit" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="linkedin" class="csh-aem-social-follow__link active icon-social-linkedin" data-cmp-data-layer="{&#34;social-follow-118dd527fc-item-0445fe29c0&#34;:{&#34;linkLocation&#34;:&#34;PAGE_BODY&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-118dd527fc&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.linkedin.com/company/commonspirithealth&#34;,&#34;dc:title&#34;:&#34;linkedin&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.linkedin.com/company/commonspirithealth" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="instagram" class="csh-aem-social-follow__link active icon-social-instagram" data-cmp-data-layer="{&#34;social-follow-118dd527fc-item-be29a3115a&#34;:{&#34;linkLocation&#34;:&#34;PAGE_BODY&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-118dd527fc&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.instagram.com/commonspirithealth&#34;,&#34;dc:title&#34;:&#34;instagram&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.instagram.com/commonspirithealth" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="youtube" class="csh-aem-social-follow__link active icon-social-youtube" data-cmp-data-layer="{&#34;social-follow-118dd527fc-item-3b74d669a9&#34;:{&#34;linkLocation&#34;:&#34;PAGE_BODY&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-118dd527fc&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.youtube.com/@commonspirit&#34;,&#34;dc:title&#34;:&#34;youtube&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.youtube.com/@commonspirit" target="_blank"></a>
+        </li>
+    </ul>
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+                <div class="col col-12 col-xl-4 offset-xl-1  ">
+
+    
+    
+    
+    <div id="container-38b8863459" class="cmp-container">
+        
+        <div class="findcarewidget">
+    
+
+    <div class="csh-aem-findcare conditions detail" data-module="FindCare" data-cmp-name="findcarewidget" data-cmp-id="findcarewidget-416e19f469" data-cmp-type="csh-aem-core/components/content/findcarewidget" data-page-type="conditions" data-context-id="HWCV_24527" data-context-label="First Aid for Accidental Amputation" data-context-slug="first-aid-for-accidental-amputation" data-scheduling-api-url="https://providers.commonspirit.org" data-inline-variant="false" data-czg-redirect-fallback-search-type="providers" data-fad-simple="false" data-aue-resource="urn:aemconnection:/conf/csh-aem-core/settings/wcm/templates/conditions-and-services-detail/structure/jcr:content/root/layout/par/column-default/par2/findcarewidget" data-aue-type="component" data-aue-model="findCareWidget" data-aue-label="Find Care Widget">
+    </div>
+
+
+
+</div>
+<div class="relatedlocations">
+<aside>
+     <div class="csh-aem-related-locations" id="relatedlocations-c3048ae079">
+     <div data-module="RelatedContent" data-content-type="locations" data-type="cs-detail" data-variation="rightRail" data-clinical-terms="first-aid-for-accidental-amputation" data-location-root-url="https://www.commonspirit.org/find-a-location" data-search-results-root-url="https://providers.commonspirit.org" data-card-count="3" data-asset-path="/content/dam/shared/en" data-api-root-url="https://providers.commonspirit.org/api" data-api-client-id="h8lIenaQueKNWcqyfWhMOsr1IGIUUvzA" data-cmp-name="relatedlocations" data-cmp-id="relatedlocations-c3048ae079" data-cmp-type="csh-aem-core/components/dynamic/relatedlocations" data-template-source="default">
+     </div>
+     </div>
+</aside>
+</div>
+<div class="experiencefragment">
+
+    
+
+</div>
+<div class="advancing-care-cards">
+
+    <div class="csh-aem-advancing-care-card">
+        <div class="title-box flex-item">
+            <h4>Specialized emergency services</h4>
+            
+            <a class="csh-aem-button csh-aem-button--text" target="_self" href="https://providers.commonspirit.org/locations?findcare=true&page=1&radius=25&search=emergency-medicine&searchLabel=Emergency%20Medicine&searchType=taxonomies&seed=PCuMnu8wrKC%7EhZlZJOU-jNL.&sort=best_match&taxonomies%5B%5D=emergency-medicine">Find care near you</a>
+        </div>
+        
+    </div>
+<div class="csh-aem-advancing-care-card">
+        <div class="title-box flex-item">
+            <h4>Comprehensive emergency centers</h4>
+            
+            <a class="csh-aem-button csh-aem-button--text" target="_self" href="https://providers.commonspirit.org/locations?findcare=true&page=1&radius=25&search=emergency-medicine&searchLabel=Emergency%20Medicine&searchType=taxonomies&seed=PCuMnu8wrKC%7EhZlZJOU-jNL.&sort=best_match&taxonomies%5B%5D=emergency-medicine">Find a location near me</a>
+        </div>
+        
+    </div>
+<div class="csh-aem-advancing-care-card">
+        <div class="title-box flex-item">
+            <h4>Compassionate emergency medicine staff </h4>
+            
+            <a class="csh-aem-button csh-aem-button--text" target="_self" href="https://providers.commonspirit.org/locations?findcare=true&page=1&radius=25&search=emergency-medicine&searchLabel=Emergency%20Medicine&searchType=taxonomies&seed=PCuMnu8wrKC%7EhZlZJOU-jNL.&sort=best_match&taxonomies%5B%5D=emergency-medicine">Find an ER near me</a>
+        </div>
+        
+    </div>
+
+
+</div>
+
+        
+    </div>
+
+</div>
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+</div>
+<div class="layout container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+<div id="layout-bc04bea793" class="csh-aem-layout-container layout-container layout-container--top-none layout-container--bottom-none bg-white " data-cmp-is="layoutcontainer">
+    <div class="csh-aem-layout-container__content">
+
+    
+    
+    
+    <div id="container-b84ff79ed1" class="cmp-container">
+        
+        <div class="column">
+<div data-cmp-is="columns">
+    <div class="container">
+        <div class="row col-number-option1  justify-content-default">
+            
+                <div class="col col-12 col-lg-12">
+
+    
+    
+    
+    <div id="container-84f438e008" class="cmp-container">
+        
+        <div class="relatedproviders">
+<div class="csh-aem-related-providers">
+
+    <div id="related-providers" data-module="RelatedContent" data-content-type="providers" data-variation="primary" data-title="Related providers" data-type="cs-detail" data-provider-root-url="https://www.commonspirit.org/find-a-doctor" data-request-appointment-url="https://providers.commonspirit.org/appointments" data-search-results-root-url="https://providers.commonspirit.org" data-api-root-url="https://providers.commonspirit.org/api" data-asset-path="/content/dam/shared/en" data-api-client-id="h8lIenaQueKNWcqyfWhMOsr1IGIUUvzA" data-clinical-terms="first-aid-for-accidental-amputation" data-cmp-name="relatedproviders" data-cmp-id="relatedproviders-4601168f8b" data-cmp-type="csh-aem-core/components/dynamic/relatedproviders">
+    </div>
+
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+</div>
+<div class="related-articles aem-GridColumn aem-GridColumn--default--12">
+
+<div data-include-html data-rp-locale="en_US" data-rp-primary-taxonomy-term="csh-public:treatments/first-aid-for-accidental-amputation" data-resource-path="https://www.commonspirit.org/conf/csh-aem-core/settings/wcm/templates/conditions-and-services-detail/structure/_jcr_content/root/relatedArticles.content.nocache.html"></div>
+</div>
+<footer class="experiencefragment aem-GridColumn aem-GridColumn--default--12"><div data-aue-resource="urn:aemconnection:/conf/csh-aem-core/settings/wcm/templates/conditions-and-services-detail/structure/jcr:content/root/experiencefragment-footer" data-aue-type="component" data-aue-model="experienceFragment" data-aue-label="Experience Fragment" id="experiencefragment-2f4181acaf" class="cmp-experiencefragment cmp-experiencefragment--footer">
+    
+
+
+    
+    <div id="container-68e61f1dcf" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-bcf09233d1" class="csh-aem-separator" data-cmp-data-layer="{&#34;separator-bfea3be560&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/separator&#34;}}">
+     <hr aria-hidden="true" role="separator"/>
+</div></div>
+<div class="footer aem-GridColumn aem-GridColumn--default--12">
+
+<div id="footer-fcc5b5caa2" class="csh-aem-global-footer" data-cmp-data-layer="{&#34;footer-fcc5b5caa2&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/footer&#34;}}">
+    <div class="csh-aem-layout-container layout-container layout-container--top-small layout-container--bottom-small">
+        <div class="container">
+            <div class="row">
+                <div class="col col-12 col-md-12">
+                    <div class="csh-aem-global-footer__logo-wrap">
+                        <div class="csh-aem-image csh-aem-global-footer__logo">
+<div data-cmp-is="image" data-cmp-dmimage data-cmp-src="/content/dam/shared/en/logos/commonspirit-logo-1.svg" data-asset-id="014b8af9-ad5a-4643-83c1-19be5ec0708a" data-cmp-filereference="/content/dam/shared/en/logos/commonspirit-logo-1.svg" id="image-76793c6286" data-cmp-data-layer="{&#34;image-76793c6286&#34;:{&#34;@type&#34;:&#34;core/wcm/components/image/v3/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-10-27T14:30:14Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;014b8af9-ad5a-4643-83c1-19be5ec0708a&#34;,&#34;repo:modifyDate&#34;:&#34;2026-10-27T14:26:03Z&#34;,&#34;@type&#34;:&#34;image/svg+xml&#34;,&#34;repo:path&#34;:&#34;/content/dam/shared/en/logos/commonspirit-logo-1.svg&#34;,&#34;xdm:tags&#34;:[&#34;csh-content:branding/logos&#34;]}}}" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/content/dam/shared/en/logos/commonspirit-logo-1.svg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Commonspirit Footer Logo"/>
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+                    </div>
+                </div>
+
+                <div class="col col-12 col-md-6 col-lg-3">
+                    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    <a href="https://commonspirithealthphilanthropy.org/" target="_self" class="csh-aem-card csh-aem-card--icon csh-aem-card--footer" data-cmp-is="card" data-cmp-data-layer="{&#34;card-887f42c5b9&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;CARD&#34;,&#34;parentComponentName&#34;:&#34;footer&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/card&#34;,&#34;xdm:linkURL&#34;:&#34;https://commonspirithealthphilanthropy.org/&#34;,&#34;repo:modifyDate&#34;:&#34;2024-04-04T17:44:42Z&#34;,&#34;dc:title&#34;:&#34;Conditions &amp; Treatments Detail&#34;}}" data-cmp-clickable data-aue-resource="urn:aemconnection:/content/experience-fragments/commonspiritorg/us/en/site/footer/master/jcr:content/root/footer/card1" data-aue-type="component" data-aue-model="card" data-aue-label="Card">
+        <div class="csh-aem-card__content-area">
+            
+            
+                <img class="csh-aem-card__image" src="/content/dam/shared/en/icons/footer/ways-to-give.svg" alt="Commonspirit Health Philanthropy"/>
+            
+            <span class="csh-aem-button csh-aem-button--text">Ways to give/volunteer</span>
+            <div class="csh-aem-card__description"><p>Philanthropy is an important way to connect those with resources to those in need.</p>
+</div>
+        </div>
+    </a>
+
+
+
+    
+
+
+                </div>
+
+                <div class="col col-12 col-md-6 col-lg-3">
+                    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    <a href="https://www.commonspirit.careers/" target="_self" class="csh-aem-card csh-aem-card--icon csh-aem-card--footer" data-cmp-is="card" data-cmp-data-layer="{&#34;card-e10ade7073&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;CARD&#34;,&#34;parentComponentName&#34;:&#34;footer&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/card&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.careers/&#34;,&#34;repo:modifyDate&#34;:&#34;2026-10-27T14:30:24Z&#34;}}" data-cmp-clickable data-aue-resource="urn:aemconnection:/content/experience-fragments/commonspiritorg/us/en/site/footer/master/jcr:content/root/footer/card2" data-aue-type="component" data-aue-model="card" data-aue-label="Card">
+        <div class="csh-aem-card__content-area">
+            
+            
+                <img class="csh-aem-card__image" src="/content/dam/shared/en/icons/footer/medical-center.svg" alt="Careers"/>
+            
+            <span class="csh-aem-button csh-aem-button--text">Careers</span>
+            <div class="csh-aem-card__description"><p>Healthcare careers need compassion, like never before.</p>
+</div>
+        </div>
+    </a>
+
+
+
+    
+
+
+                </div>
+
+                <div class="col col-12 col-md-6 col-lg-3">
+                    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    <a href="https://www.commonspirit.org/about-us/mission-vision-and-values" target="_self" class="csh-aem-card csh-aem-card--icon csh-aem-card--footer" data-cmp-is="card" data-cmp-data-layer="{&#34;card-93d09121f7&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;CARD&#34;,&#34;parentComponentName&#34;:&#34;footer&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/card&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/about-us/mission-vision-and-values&#34;,&#34;repo:modifyDate&#34;:&#34;2024-04-04T17:46:59Z&#34;,&#34;dc:title&#34;:&#34;Mission, Vision and Values&#34;}}" data-cmp-clickable data-aue-resource="urn:aemconnection:/content/experience-fragments/commonspiritorg/us/en/site/footer/master/jcr:content/root/footer/card3" data-aue-type="component" data-aue-model="card" data-aue-label="Card">
+        <div class="csh-aem-card__content-area">
+            
+            
+                <img class="csh-aem-card__image" src="/content/dam/shared/en/icons/footer/stethoscope.svg" alt="Our mission"/>
+            
+            <span class="csh-aem-button csh-aem-button--text">Our mission</span>
+            <div class="csh-aem-card__description"><p>Just 35 words, but there are profound ideas behind them.</p>
+</div>
+        </div>
+    </a>
+
+
+
+    
+
+
+                </div>
+
+                <div class="col col-12 col-md-6 col-lg-3">
+                    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    <a href="https://www.commonspirit.org/contact-us" target="_self" class="csh-aem-card csh-aem-card--icon csh-aem-card--footer" data-cmp-is="card" data-cmp-data-layer="{&#34;card-20f59ead57&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;CARD&#34;,&#34;parentComponentName&#34;:&#34;footer&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/card&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/contact-us&#34;,&#34;repo:modifyDate&#34;:&#34;2024-04-04T17:47:08Z&#34;,&#34;dc:title&#34;:&#34;Contact Us&#34;}}" data-cmp-clickable data-aue-resource="urn:aemconnection:/content/experience-fragments/commonspiritorg/us/en/site/footer/master/jcr:content/root/footer/card4" data-aue-type="component" data-aue-model="card" data-aue-label="Card">
+        <div class="csh-aem-card__content-area">
+            
+            
+                <img class="csh-aem-card__image" src="/content/dam/shared/en/icons/footer/phone.svg" alt="Contact us"/>
+            
+            <span class="csh-aem-button csh-aem-button--text">Contact us</span>
+            <div class="csh-aem-card__description"><p>For non-emergency related questions, please contact us.</p>
+</div>
+        </div>
+    </a>
+
+
+
+    
+
+
+                </div>
+
+                <div class="csh-aem-global-footer__separator"></div>
+
+                <div class="row">
+                    <div class="col col-12 col-md-6 col-lg-3">
+                        
+    
+    <div data-component-name="Linked List" data-cmp-data-layer="{&#34;linkedlist-27055955e5&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-30T15:10:25Z&#34;,&#34;dc:title&#34;:&#34;For employees and providers&#34;}}">
+        <div class="csh-aem-linked-list">
+            <h4 class="csh-aem-linked-list__title">For employees and providers</h4>
+            <ul class="csh-aem-linked-list__list">
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/physician-enterprise" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-27055955e5-item-ba4d488f6b&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-27055955e5&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/physician-enterprise&#34;,&#34;dc:title&#34;:&#34;For providers&#34;}}" data-cmp-clickable target="_self">
+                        For providers
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://employeecentral.commonspirit.org/intranet" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-27055955e5-item-664523c7b4&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-27055955e5&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://employeecentral.commonspirit.org/intranet&#34;,&#34;dc:title&#34;:&#34;Employee resources&#34;}}" data-cmp-clickable target="_blank" rel="noopener noreferrer">
+                        Employee resources
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/physician-enterprise/academic-faculty-affairs" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-27055955e5-item-7b7060b695&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-27055955e5&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/physician-enterprise/academic-faculty-affairs&#34;,&#34;dc:title&#34;:&#34;Academic Affairs, Faculty Affairs and Research&#34;}}" data-cmp-clickable target="_self">
+                        Academic Affairs, Faculty Affairs and Research
+                    </a>
+                    
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+                    </div>
+                    <div class="col col-12 col-md-6 col-lg-3">
+                        
+    
+    <div data-component-name="Linked List" data-cmp-data-layer="{&#34;linkedlist-e856362df6&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist&#34;,&#34;repo:modifyDate&#34;:&#34;2025-02-26T23:05:22Z&#34;,&#34;dc:title&#34;:&#34;About CommonSpirit&#34;}}">
+        <div class="csh-aem-linked-list">
+            <h4 class="csh-aem-linked-list__title">About CommonSpirit</h4>
+            <ul class="csh-aem-linked-list__list">
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/about-us" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-e856362df6-item-7d560eac57&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-e856362df6&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/about-us&#34;,&#34;dc:title&#34;:&#34;Our story&#34;}}" data-cmp-clickable target="_self">
+                        Our story
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/leadership" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-e856362df6-item-0babf168f8&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-e856362df6&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/leadership&#34;,&#34;dc:title&#34;:&#34;Our leaders&#34;}}" data-cmp-clickable target="_self">
+                        Our leaders
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/investor-resources" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-e856362df6-item-808d4c6323&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-e856362df6&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/investor-resources&#34;,&#34;dc:title&#34;:&#34;Investor resources&#34;}}" data-cmp-clickable target="_self">
+                        Investor resources
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/news-articles" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-e856362df6-item-b2c6151bfe&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-e856362df6&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/news-articles&#34;,&#34;dc:title&#34;:&#34;News&#34;}}" data-cmp-clickable target="_self">
+                        News
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/blog" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-e856362df6-item-969b183e67&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-e856362df6&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/blog&#34;,&#34;dc:title&#34;:&#34;Health blog&#34;}}" data-cmp-clickable target="_self">
+                        Health blog
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.careers/" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-e856362df6-item-f757741610&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-e856362df6&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.careers/&#34;,&#34;dc:title&#34;:&#34;Careers&#34;}}" data-cmp-clickable target="_self">
+                        Careers
+                    </a>
+                    <span class="csh-aem-linked-list__list-pill">
+                        We&#39;re hiring!
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+                    </div>
+                    <div class="col col-12 col-md-6 col-lg-3">
+                        
+    
+    <div data-component-name="Linked List" data-cmp-data-layer="{&#34;linkedlist-b31c902d45&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-30T18:28:00Z&#34;,&#34;dc:title&#34;:&#34;A healthier future&#34;}}">
+        <div class="csh-aem-linked-list">
+            <h4 class="csh-aem-linked-list__title">A healthier future</h4>
+            <ul class="csh-aem-linked-list__list">
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/impact" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-b31c902d45-item-8eb731214d&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-b31c902d45&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/impact&#34;,&#34;dc:title&#34;:&#34;Our impact&#34;}}" data-cmp-clickable target="_self">
+                        Our impact
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/impact/advancing-health-equity" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-b31c902d45-item-8520b26243&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-b31c902d45&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/impact/advancing-health-equity&#34;,&#34;dc:title&#34;:&#34;Advancing health equity&#34;}}" data-cmp-clickable target="_self">
+                        Advancing health equity
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/sponsorship-application" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-b31c902d45-item-55c9ba28d6&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-b31c902d45&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/sponsorship-application&#34;,&#34;dc:title&#34;:&#34;Sponsorships&#34;}}" data-cmp-clickable target="_self">
+                        Sponsorships
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/impact/innovative-care" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-b31c902d45-item-fb202e7d90&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-b31c902d45&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/impact/innovative-care&#34;,&#34;dc:title&#34;:&#34;Innovative care&#34;}}" data-cmp-clickable target="_self">
+                        Innovative care
+                    </a>
+                    
+                </li>
+            
+                <li class="csh-aem-linked-list__item">
+                    <a href="https://www.commonspirit.org/impact/innovative-care/intellectual-property-and-partnerships" class="csh-aem-linked-list__link csh-aem-button btn btn--text" data-cmp-data-layer="{&#34;linkedlist-b31c902d45-item-8f05c396ec&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;OTHER&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;linkedlist&#34;,&#34;parentId&#34;:&#34;linkedlist-b31c902d45&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/linkedlist/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/impact/innovative-care/intellectual-property-and-partnerships&#34;,&#34;dc:title&#34;:&#34;Intellectual property and partnerships&#34;}}" data-cmp-clickable target="_self">
+                        Intellectual property and partnerships
+                    </a>
+                    
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+                    </div>
+                    <div class="col col-12 col-md-6 col-lg-3 csh-aem-global-footer__links-wrap">
+                        
+
+
+    <div id="button-afecc23f61" class="csh-aem-button-group " data-cmp-data-layer="{&#34;button-afecc23f61&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/button&#34;,&#34;repo:modifyDate&#34;:&#34;2025-03-19T14:11:00Z&#34;}}">
+        
+    <a href="https://www.commonspirit.org/hello-humankindness" target="_self" class="csh-aem-button csh-aem-button--text icon-external " data-cmp-data-layer="{&#34;button-afecc23f61-item-e677b84400&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;button&#34;,&#34;parentId&#34;:&#34;button-afecc23f61&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/button/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.commonspirit.org/hello-humankindness&#34;,&#34;dc:title&#34;:&#34;Hello humankindness&#34;}}" data-cmp-clickable><span class="csh-aem-button__text">Hello humankindness</span></a>
+
+    </div>
+
+
+                        
+
+<div class="csh-aem-social-follow" data-cmp-data-layer="{&#34;social-follow-8b22648828&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow&#34;,&#34;repo:modifyDate&#34;:&#34;2025-04-10T10:16:27Z&#34;,&#34;dc:title&#34;:&#34;Connect with us&#34;}}">
+    <h4 class="csh-aem-social-follow__heading">Connect with us</h4>
+
+    <ul class="csh-aem-social-follow__list" aria-label="Social Follow">
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="facebook" class="csh-aem-social-follow__link active icon-social-facebook" data-cmp-data-layer="{&#34;social-follow-8b22648828-item-2798ecc980&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-8b22648828&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.facebook.com/commonspirithealth&#34;,&#34;dc:title&#34;:&#34;facebook&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.facebook.com/commonspirithealth" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="x" class="csh-aem-social-follow__link active icon-social-x" data-cmp-data-layer="{&#34;social-follow-8b22648828-item-46c615f25f&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-8b22648828&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://x.com/commonspirit&#34;,&#34;dc:title&#34;:&#34;x&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://x.com/commonspirit" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="linkedin" class="csh-aem-social-follow__link active icon-social-linkedin" data-cmp-data-layer="{&#34;social-follow-8b22648828-item-0445fe29c0&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-8b22648828&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.linkedin.com/company/commonspirithealth&#34;,&#34;dc:title&#34;:&#34;linkedin&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.linkedin.com/company/commonspirithealth" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="instagram" class="csh-aem-social-follow__link active icon-social-instagram" data-cmp-data-layer="{&#34;social-follow-8b22648828-item-be29a3115a&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-8b22648828&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.instagram.com/commonspirithealth&#34;,&#34;dc:title&#34;:&#34;instagram&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.instagram.com/commonspirithealth" target="_blank"></a>
+        </li>
+    
+        <li class="csh-aem-social-follow__icon">
+            <a aria-label="youtube" class="csh-aem-social-follow__link active icon-social-youtube" data-cmp-data-layer="{&#34;social-follow-8b22648828-item-3b74d669a9&#34;:{&#34;linkLocation&#34;:&#34;FOOTER_NAV&#34;,&#34;linkType&#34;:&#34;EXIT&#34;,&#34;linkStyle&#34;:&#34;TEXT&#34;,&#34;parentComponentName&#34;:&#34;social-follow&#34;,&#34;parentId&#34;:&#34;social-follow-8b22648828&#34;,&#34;@type&#34;:&#34;csh-aem-core/components/content/social-follow/item&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.youtube.com/@commonspirit&#34;,&#34;dc:title&#34;:&#34;youtube&#34;}}" rel="noopener noreferrer" data-cmp-clickable href="https://www.youtube.com/@commonspirit" target="_blank"></a>
+        </li>
+    </ul>
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="csh-aem-global-footer__legal">
+        <div class="csh-aem-layout-container layout-container layout-container--top-small layout-container--bottom-small">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-12 col-md-2">
+                        <div class="csh-aem-global-footer__legal-copyright">
+                            
+<div data-cmp-data-layer="{&#34;text-76e18f3f71&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/text&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-28T22:17:36Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>© 2026 CommonSpirit Health&lt;/p>\r\n&#34;}}" id="text-76e18f3f71" class="cmp-text">
+    <p>© 2026 CommonSpirit Health</p>
+
+</div>
+
+    
+
+
+                        </div>
+                    </div>
+                    <div class="col col-12 col-md-10">
+                        <div class="csh-aem-global-footer__legal-links">
+                            
+<div data-cmp-data-layer="{&#34;text-5aacd7af7e&#34;:{&#34;@type&#34;:&#34;csh-aem-core/components/content/text&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-05T20:35:09Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;a title=\&#34;Go to HIPAA notice of privacy practices page\&#34; href=\&#34;https://www.commonspirit.org/legal-and-privacy-notices/hipaa-notice-of-privacy-practices\&#34;>HIPAA Notice of Privacy Practices&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=\&#34;https://www.commonspirit.org/legal-and-privacy-notices\&#34; target=\&#34;_self\&#34; title=\&#34;Go to Legal Notices\&#34; rel=\&#34;noopener noreferrer\&#34;>Legal Notices&lt;/a> | &lt;a href=\&#34;https://www.commonspirit.org/legal-and-privacy-notices/internet-privacy-notice\&#34; title=\&#34;Go to Internet Privacy Notice\&#34;>Internet Privacy Notice&lt;/a>&amp;nbsp;|&lt;br>\r\n&lt;a href=\&#34;https://www.commonspirit.org/legal-and-privacy-notices/online-accessibility-notice\&#34; title=\&#34;Go to Online Accessibility Notice\&#34;>Online Accessibility Notice&lt;/a> |&amp;nbsp;&lt;a href=\&#34;https://www.commonspirit.org/content/dam/shared/en/pdfs/legal-and-privacy-notices/ohca-list-commonspirit-health.pdf\&#34; target=\&#34;_blank\&#34; title=\&#34;Download OHCA Pdf\&#34; rel=\&#34;noopener noreferrer\&#34;>Organized Health Care Arrangement (OHCA)&lt;/a> | &lt;a href=\&#34;https://www.commonspirit.org/legal-and-privacy-notices/patient-rights-and-responsibilities\&#34; title=\&#34;Go to Patient Rights and Responsibilities page \&#34;>Patient Rights and Responsibilities&lt;/a>&amp;nbsp;| &lt;a href=\&#34;https://www.commonspirit.org/price-transparency\&#34;>Price Transparency&lt;/a>&lt;/p>\r\n&#34;}}" id="text-5aacd7af7e" class="cmp-text">
+    <p><a title="Go to HIPAA notice of privacy practices page" href="https://www.commonspirit.org/legal-and-privacy-notices/hipaa-notice-of-privacy-practices">HIPAA Notice of Privacy Practices</a> | <a href="https://www.commonspirit.org/legal-and-privacy-notices" target="_self" title="Go to Legal Notices" rel="noopener noreferrer">Legal Notices</a> | <a href="https://www.commonspirit.org/legal-and-privacy-notices/internet-privacy-notice" title="Go to Internet Privacy Notice">Internet Privacy Notice</a> |<br />
+<a href="https://www.commonspirit.org/legal-and-privacy-notices/online-accessibility-notice" title="Go to Online Accessibility Notice">Online Accessibility Notice</a> | <a href="https://www.commonspirit.org/content/dam/shared/en/pdfs/legal-and-privacy-notices/ohca-list-commonspirit-health.pdf" target="_blank" title="Download OHCA Pdf" rel="noopener noreferrer">Organized Health Care Arrangement (OHCA)</a> | <a href="https://www.commonspirit.org/legal-and-privacy-notices/patient-rights-and-responsibilities" title="Go to Patient Rights and Responsibilities page ">Patient Rights and Responsibilities</a> | <a href="https://www.commonspirit.org/price-transparency">Price Transparency</a></p>
+
+</div>
+
+    
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+    
+
+</footer>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+
+    
+    
+    
+    
+    <script src="/etc.clientlibs/csh-aem-core/clientlibs/clientlib-base.lc-53cbbca14e1ce1c1222b8f4e9ec32e56-lc.min.js"></script>
+<script src="/etc.clientlibs/csh-aem-core/clientlibs/clientlib-dynamic-include.lc-0742a1b72f2e367da2a13c43893b3af0-lc.min.js"></script>
+<script src="/etc.clientlibs/csh-aem-core/clientlibs/clientlib-site.lc-8e0f04f574493877f3272ef4f81e41bb-lc.min.js"></script>
+
+
+
+
+
+    <script type="application/ld+json">{"itemListElement":[{"position":1,"@type":"ListItem","item":{"name":"Home","@id":"https://www.commonspirit.org"}},{"position":2,"@type":"ListItem","item":{"name":"Conditions and treatments","@id":"https://www.commonspirit.org/conditions-treatments"}},{"position":3,"@type":"ListItem","item":{"name":"First aid for accidental amputation","@id":"https://www.commonspirit.org/conditions-treatments/first-aid-for-accidental-amputation"}}],"@context":"https://schema.org/","@type":"BreadcrumbList"}</script>
+    <script type="application/ld+json">{"url":"https://www.commonspirit.org/conditions-treatments/first-aid-for-accidental-amputation","inLanguage":"en-US","name":"What is First Aid For Accidental Amputation? | CommonSpirit Health","isPartOf":{"inLanguage":"en-US","@context":"https://schema.org/","@type":"WebSite"},"@context":"https://schema.org/","@type":"WebPage","description":"First Aid for Accidental Amputation"}</script>
+
+
+
+
+
+    
+
+    
+
+    
+
+
+        <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+    
+    
+
+
+</body>
+</html>

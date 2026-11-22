@@ -1,0 +1,109 @@
+At a Glance
+Shut off home gas after an earthquake as soon as you detect a gas odor, hear hissing, see damaged gas piping or appliances, or suspect the shaking may have caused a leak; do not wait for a utility confirmation. Leave immediately if you smell gas, avoid switches, flames, phones, and vehicles near the building, and call the gas utility or emergency services from outside. If there is no sign of a leak, do not shut off the valve automatically unless local emergency officials or your utility instruct you to do so, because restoring service may require a qualified technician. Never turn gas back on yourself after a suspected leak.
+What you’ll learn
+This guide covers the following practical points:
+When Gas Should Be Shut Off Immediately
+— Earthquake shaking can damage a gas meter, flexible appliance connector, rigid pipe, chimney connection, or the building around a gas line.
+How to Recognize a Post-Earthquake Gas Leak — The strongest warning sign is the odorant added to fuel gas, often compared with rotten eggs or sulfur.
+The Correct Shutoff and Evacuation Sequence — If gas leakage is suspected, the safest sequence is to warn others, leave without operating electrical equipment, and contact the appropriate responders from outside.
+When Not to Shut Off the Meter — Not every earthquake requires a homeowner to close the gas valve.
+When Gas Should Be Shut Off Immediately
+Earthquake shaking can damage a gas meter, flexible appliance connector, rigid pipe, chimney connection, or the building around a gas line. The decision to shut off gas is therefore driven by evidence of leakage or damage, not simply by the earthquake’s magnitude. If you smell the distinctive odorant added to natural gas, hear a hissing or whistling sound, see a broken line, or notice flames where they should not be, treat the situation as an active hazard.
+A gas odor inside the home warrants immediate action even if the smell seems faint. Odor can be unevenly distributed, and ventilation may change as doors, windows, or structural openings shift. Do not spend time searching for the exact leak. Tell everyone to leave, avoid creating an ignition source, and move far enough away to make a call to the gas utility or
+emergency services
+. The meter valve should be operated only if it can be reached without moving through a contaminated area or delaying evacuation.
+A useful distinction is the difference between suspected leakage and no observed damage. Suspected leakage calls for isolation and professional inspection. A home with no odor, no sound, no visible damage, and no appliance disturbance may not require immediate shutoff, especially if local authorities advise residents to preserve service for heating, cooking, or water heating. Automatically shutting every meter may create a second problem: gas service often cannot be restored by the homeowner after the valve is closed.
+Use the same cautious standard for propane systems, but remember that propane behaves differently from natural gas. Propane is heavier than air and may collect in low areas, while natural gas generally rises. Either fuel can ignite, and neither should be investigated with a lighter, electrical switch, or running vehicle. If your household includes children, older adults, or anyone with mobility limitations, establish before an earthquake who will check for odor, who will help people leave, and who will make the outside call.
+How to Recognize a Post-Earthquake Gas Leak
+The strongest warning sign is the odorant added to fuel gas, often compared with rotten eggs or sulfur. Odor alone is enough to leave and report the problem; you do not need to confirm it with a detector or locate the meter first. Some people may not detect odor reliably, and a smell can be masked by smoke, dust, cleaning products, or poor ventilation. For that reason, audible and visual clues matter too.
+Look from a safe position for a meter that has shifted, cracked masonry around a service entry, detached appliance tubing, bent copper or steel pipe, or a damaged regulator. Outside, bubbling water or disturbed soil near a buried gas line can indicate escaping gas, but approaching the area to inspect it may increase exposure. A hissing sound near a pipe or appliance is especially concerning when it continues after burners and appliances are off.
+Earthquake damage can also create misleading signals. A burner may go out because the building lost power or because cookware shifted, yet that does not prove a leak. Conversely, an appliance that appears intact may have a damaged connector behind it. Do not relight a pilot or test a burner after shaking if you smell gas or see damage. Turning an appliance control can release fuel, and using a switch to improve visibility can create a spark.
+Households should know the location of the gas meter and the service shutoff before an emergency. The main valve is commonly near the meter, though layouts vary. A wrench kept in a known, accessible location can be useful, but it should not become a reason to enter a hazardous area. A compact inspection priority is:
+Smell or hear escaping gas: leave immediately and report it from outside.
+See damaged piping or a displaced meter: keep away and request an inspection.
+Find no warning signs: follow utility and emergency-management instructions rather than assuming the valve must be closed.
+Do not rely on a smartphone gas-reading app as a substitute for evacuation or a utility inspection. Consumer detectors may provide an additional warning, but placement, battery condition, fuel type, and sensor limitations affect performance. A detector that remains silent does not make a visibly damaged system safe.
+The Correct Shutoff and Evacuation Sequence
+If gas leakage is suspected, the safest sequence is to warn others, leave without operating electrical equipment, and contact the appropriate responders from outside. Do not turn lights on or off, unplug devices, use a landline inside, light a candle, smoke, or start a vehicle close to the building. Do not open or close windows if doing so requires lingering in the suspected leak area. A door can be left open only if it is already part of a quick exit and does not delay anyone.
+If the meter is directly on the exit path and there is no strong odor, visible fire, or immediate danger, a responsible adult may close the main valve according to the utility’s instructions. Many residential valves are turned a quarter turn so the handle is perpendicular to the pipe, but equipment differs, so household members should verify the arrangement with their utility before an earthquake. Do not force a stuck valve, remove covers, disconnect piping, or attempt to close an appliance valve when the main shutoff is inaccessible.
+Evacuation takes priority over preserving property. A person who walks through a gas-filled room to retrieve a wrench may face more risk than the equipment is worth. If flames are present, do not attempt to extinguish them by entering the area or manipulating a valve under unsafe conditions. Move away, keep others out, and call emergency services. Tell responders whether anyone may remain inside, where the odor was noticed, and whether the building has visible structural damage.
+After leaving, remain upwind and away from doors, windows, meter assemblies, and low areas where propane could collect. Neighbors should be warned from a safe distance rather than by knocking on doors inside the affected building. If the earthquake has caused widespread damage, phone networks may be congested; use text or an official emergency channel when appropriate, but do not delay a 911 call for an active leak, fire, or medical danger.
+A common failure is treating the meter valve as a routine switch. Closing it without understanding the consequences can interrupt gas service, and reopening it later may be unsafe. The proper objective is not merely to turn a handle; it is to isolate a potentially damaged system, prevent ignition, and transfer diagnosis and restoration to qualified personnel.
+When Not to Shut Off the Meter
+Not every earthquake requires a homeowner to close the gas valve. If there is no odor, no hissing, no visible damage, and no instruction from the utility or public-safety officials, leaving the system undisturbed may be the more appropriate choice. Gas service may be needed for a furnace, water heater, or cooking appliance, and unnecessary shutoff can create cold-weather, sanitation, or food-storage problems when restoration is delayed.
+The decision changes if local authorities issue a gas-shutoff order or if the utility identifies a neighborhood risk. Public instructions may reflect information that an individual household cannot see, such as damaged distribution lines, pressure changes, or inspection requirements. Follow those instructions even when your own kitchen appears normal. Utility-specific advice also matters because meter designs and restoration procedures differ across service areas.
+Do not use a recent earthquake as a reason to conduct a thorough appliance inspection yourself. Moving a range, reaching behind a water heater, or testing a furnace can disturb a damaged connection. Visual inspection from a safe location is reasonable; disassembly is not. If a pilot light is out but there is no gas odor, wait for utility guidance or consult a qualified professional instead of repeatedly trying to relight it.
+The opposite mistake is assuming that a closed valve proves the home is safe. Gas may remain in piping or an appliance, and damage can exist downstream of the valve. Anyone who smells gas after the valve has been closed should still leave and call for help. A closed valve reduces incoming supply but does not replace ventilation, evacuation, professional leak testing, or structural assessment.
+Residents of rental housing should know the landlord’s emergency contact, but they should not wait for a property manager before reporting an active gas hazard. A landlord can address follow-up repairs; the gas utility or emergency responders should handle immediate danger. Keep the emergency contact information outside the home or in a location available even when power and internet service fail.
+What Happens After the Gas Is Shut Off
+Once the main valve is closed because of suspected damage, leave it closed until the gas utility or a qualified gas professional says the system is safe. Do not reopen it to check whether the stove works, restore hot water, or determine whether the smell has disappeared. The absence of odor after shutoff does not establish that pipes, connectors, regulators, vents, and appliances passed inspection.
+Restoration may involve a visual examination, pressure or leak testing, inspection of appliance connections, and evaluation of earthquake-related structural movement. Requirements vary by utility and jurisdiction. Some systems may need repairs or permits before service returns. Ask the utility what documentation, inspection, or professional involvement is required, and record the service number and instructions while they are available.
+During the outage, use safer alternatives rather than improvised fuel sources. Never heat a home with a charcoal grill, outdoor propane appliance, camp stove, or gasoline-powered generator indoors, in a garage, or near doors and windows. Carbon monoxide can accumulate without a noticeable smell. Keep generators outside at the distance specified by their manufacturer and use battery-powered lighting instead of open flames.
+A realistic recovery plan separates three questions: Is there an immediate life-safety hazard? Has the fuel system been isolated? Who is authorized to inspect and restore it? For example, a family that smells gas, closes the valve only if safely accessible, evacuates, and calls the utility has followed a sound emergency path. A family that closes the valve, relights pilots, and relies on a neighbor’s informal inspection has not completed the safety process.
+Before the next earthquake, locate the meter, ask the utility how its valve operates, label the shutoff area, and store the correct tool where it can be reached without entering the house. Add the utility’s number to an offline emergency list. Review the plan through when to shut off home gas after an earthquake scenarios, including nighttime evacuation, blocked exits, and a household member who cannot move quickly. Preparation should reduce hesitation, not encourage unsafe experimentation.
+Frequently Asked Questions
+Should I shut off gas after every earthquake?
+No. Shut it off when you detect an odor, hissing, visible damage, or receive instructions from the utility or emergency officials. Automatic shutoff without warning signs may unnecessarily interrupt service.
+What should I do if I smell gas after shaking?
+Leave immediately, avoid flames and electrical switches, move away from the building, and call the gas utility or emergency services from outside. Do not search for the leak.
+Can I turn the gas back on after closing the valve?
+No. After suspected earthquake damage, leave the valve closed until the gas utility or an appropriately qualified professional confirms that restoration is permitted and safe.
+What if the gas meter or pipe looks damaged but there is no odor?
+Keep away, prevent others from approaching, and report the damage. Do not touch, straighten, or test the equipment; a leak may not be immediately detectable by smell.
+Is a gas detector enough to decide whether the home is safe?
+No. Detector limitations, placement, batteries, and fuel type affect readings. A detector can add warning capability but cannot replace evacuation, utility guidance, or professional inspection.
+Conclusion
+Gas decisions after an earthquake should follow observable danger and official instructions rather than fear or habit. Odor, hissing, damaged piping, a displaced meter, flames, or a utility order justify immediate isolation when it can be done without delaying escape. Evacuation comes first, and calls should be made from outside. A closed valve is only an emergency isolation measure, not proof that the system is safe or permission to restore service. Before the next earthquake, learn your meter’s location and operating instructions, keep the utility contact information available offline, and plan for anyone who may need assistance leaving. If the system was shut off because of suspected damage, wait for qualified inspection and formal restoration guidance before using any gas appliance again.
+Augason Farms Dehydrated Chopped Onions Can | Emergency Food Supply, 130 Servings, 25 Year Shelf Life, Great for Cooking and Baking, Dehydrated Meals
+(
+4756634
+)
+$17.73
+(as of November 21, 2026 20:19 GMT -05:00 -
+More info
+Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on [relevant Amazon Site(s), as applicable] at the time of purchase will apply to the purchase of this product.
+)
+First My Family All-in-One 4 Person, 72 Hour Emergency Survival Kit for Fires, Earthquakes, Hurricanes, Floods, Tsunami and Other Disasters - Premium Black Backpack
+(
+465360
+)
+$229.95
+(as of November 21, 2026 20:19 GMT -05:00 -
+More info
+Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on [relevant Amazon Site(s), as applicable] at the time of purchase will apply to the purchase of this product.
+)
+Handepo 150 Pack Disposable Rain Ponchos Bulk | Adults Plastic Rain Ponchos with Hood Lightweight Portable Emergency Raincoats for Outdoor Travel Camping Hiking, Homeless
+(
+465129
+)
+$69.99
+(as of November 21, 2026 20:19 GMT -05:00 -
+More info
+Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on [relevant Amazon Site(s), as applicable] at the time of purchase will apply to the purchase of this product.
+)
+Bathtub Water Bladder with Siphon Pump Large Storage Bag 100 Gallon | Foldable Design, Water Recycling, Emergency Use, Includes Siphon Pump, Large Capacity
+(
+5052
+)
+$33.99
+(as of November 21, 2026 20:19 GMT -05:00 -
+More info
+Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on [relevant Amazon Site(s), as applicable] at the time of purchase will apply to the purchase of this product.
+)
+Humanitarian Daily Ration MRE Emergency rations - Vegetarian Meals Low Sodium Pre cooked w/Entree, Side Dishes for Hunting, Camping & More, 10 Packs, Inspection Dates 2025 or Newer
+(
+47537
+)
+$119.99
+(as of November 21, 2026 20:19 GMT -05:00 -
+More info
+Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on [relevant Amazon Site(s), as applicable] at the time of purchase will apply to the purchase of this product.
+)
+Published by
+Site Editorial Team
+Site Editorial Team is accountable for this Preparedness article and maintains standards for clear explanations, appropriate sourcing, factual consistency, and corrections.
+Editorial team profile
+·
+Editorial standards & corrections
+Publisher:
+Website

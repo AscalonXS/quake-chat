@@ -1,0 +1,57 @@
+National Earthquake Hazards Reduction Program
+English
+The NEHRP agencies pursue the goals of the program through collaboration with each other and numerous partners. In addition to other federal agencies, program partners include state and local governments, universities, research centers, professional societies, trade associations and businesses, as well as associated councils, commissions and consortia.
+NEHRP’s work encompasses research, development and implementation activities. Program research helps to advance our understanding of why and how earthquakes occur and impact the natural and built environments. The program develops strategies, tools, techniques and other measures that can reduce the adverse effects of earthquakes and facilitates and promotes implementation of these measures, thereby strengthening earthquake resilience among at-risk communities.
+Detailed information about the program is available at
+NEHRP.gov
+, which is maintained by NIST, the lead agency for NEHRP. For additional agency-specific information, visit
+FEMA Earthquake
+, the
+USGS Earthquake Hazards Program
+, the
+NIST NEHRP Office
+and the
+National Science Foundation
+.
+Graphic
+History of Earthquake Mitigation Activities
+The
+State Assistance Grant Program
+makes funding available through annual, non-competitive grants for individual states and territories and as competitive grants to non-profit organizations and institutions of higher education.
+Research
+NEHRP supports basic research that expands our knowledge of earthquakes and their impacts. This is accomplished chiefly through NSF, which funds earthquake-related research in the earth sciences, social sciences and engineering.
+NSF also supports empirical research carried out by post-earthquake reconnaissance teams, which visit affected regions to document earthquake impacts, the performance of the built environment and response and recovery efforts. The observations of these teams are valuable inputs to NEHRP’s applied research.
+Several NEHRP agencies conduct or provide support for applied research, which uses the knowledge generated through basic and empirical research to produce the more targeted, problem-focused findings needed to support the program’s development activities. USGS conducts and sponsors research related to assessing, monitoring and reporting on earthquake hazards. NIST focuses on earthquake engineering research that creates the specialized technical information needed to reduce seismic vulnerability in the built environment. NSF has developed some of the best facilities for earthquake engineering through its support for the George E. Brown, Jr. Network for Earthquake Engineering Simulation.
+DesignSafe
+is the web-based research platform of the Natural Hazards Engineering Research Infrastructure (NHERI)NHERI Network.
+Development
+NEHRP uses research results to develop the earthquake risk-reduction measures that are subsequently disseminated and put into practice through the program’s implementation efforts. Development is often closely integrated with research or implementation activities. NIST’s applied earthquake engineering research, for example, is integrated with the development of performance-based tools, guidelines and standards under the agency’s
+Earthquake Risk Reduction in Buildings and Infrastructure Program
+.
+USGS developed and continues to expand the
+Advanced National Seismic System
+, which monitors earthquake activity throughout the United States. Seismic activity elsewhere in the world is monitored through the
+Global Seismographic Network
+, which both USGS and NSF help to maintain. USGS develops innovative technologies, systems and products for rapidly reporting on seismic events detected by ANSS. These products describe earthquakes in ways that are useful to a variety of audiences, including emergency responders, infrastructure managers, scientists, the news media and the public.
+Using monitoring data and research findings, USGS assesses and maps seismic hazards nationwide. The
+National Seismic Hazard Maps
+developed by USGS are used for insurance rate setting and public- and private-sector risk assessments and are important inputs to the seismic-design maps included in U.S. model building codes.
+FEMA plays a key role in developing the seismic provisions of model building codes and associated design standards. The agency supports national, consensus-based review processes that periodically translate new research and development results into recommendations for improving these provisions. Development and enforcement of up-to-date building codes and rehabilitation of vulnerable existing structures are among the most effective strategies available for earthquake risk reduction.
+FEMA also supports the development of tools that can facilitate implementation of earthquake risk-reduction measures. Examples include the
+Seismic Rehabilitation Cost Estimator
+and the earthquake component of FEMA’s HAZUS loss-estimation software.
+Implementation
+NEHRP implementation activities are conducted primarily by FEMA. The agency prepares or sponsors the creation of a variety of published materials that help various groups learn about and use the results of NEHRP’s research and development activities. FEMA makes these materials conveniently accessible through the
+FEMA Library
+and promotes them through widely disseminated publication announcements and conference exhibits. Audiences targeted include individuals and families, teachers and students, public policy makers and planners and building and lifeline designers, managers and regulators. NIST also develops and disseminates publications that synthesize R&D findings into concise, practical seismic-design guidance for practicing engineers.
+FEMA has produced many of the publications used to document and promote seismic rehabilitation methods and the consensus recommendations that the agency helps to develop on improving building codes. FEMA works with code- and standards-development organizations to incorporate these recommendations into nationally applicable model building codes and standards.
+FEMA supports the provision of earthquake-related training primarily through its
+National Earthquake Technical Assistance Program (NETAP)
+. A variety of courses are supported, many targeted to state and local building regulatory officials and to building design, construction and management professionals. Subjects include, for example, how to identify buildings potentially in need of seismic rehabilitation or how to secure the nonstructural components of buildings to reduce earthquake losses. FEMA also sponsors training in the use of HAZUS. The loss estimates generated by HAZUS enhance earthquake preparedness and response planning and help states and localities assess the need for specific risk-reduction strategies.
+FEMA maintains several grant programs that help state and local governments plan and implement earthquake mitigation measures. The agency also supports other initiatives and organizations that bring people together to reduce earthquake risks. FEMA's
+QuakeSmart
+program, for example, engages businesses in preparedness and mitigation activities and FEMA Multi-State National Earthquake Assistance grants facilitate multi-state planning and national awareness, education and mitigation activities. FEMA works with non-profits and institutions of higher education to encourage adoption and enforcement of building codes and use of seismic rehabilitation at the local level.
+Earthquake mitigation and response planning has been enhanced at all levels of government and in the private sector through the use of realistic earthquake scenarios. USGS has helped to develop and promote these scenarios, creating video simulations and other information that engage and inform those who would be affected by these potential seismic events. HAZUS is often used to develop loss estimates for the scenarios, data that help to motivate and direct mitigation efforts.
+Last updated
+May 6, 2026
+Return to top

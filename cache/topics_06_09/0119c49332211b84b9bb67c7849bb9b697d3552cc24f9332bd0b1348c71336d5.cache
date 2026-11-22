@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Plan for Hazards - Building Collapses & Explosions - NYCEM</title>
+<!--fixed-layout-->
+<!--ls:begin[stylesheet]-->
+<link href="/iwov-resources/fixed-layout/3-Row Simple.css" type="text/css" rel="stylesheet">
+<!--ls:end[stylesheet]-->
+<!--ls:begin[meta-keywords]-->
+<meta name="keywords" content="">
+<!--ls:end[meta-keywords]-->
+<!--ls:begin[meta-description]-->
+<meta name="description" content="">
+<!--ls:end[meta-description]-->
+<!--ls:begin[custom-meta-data]-->
+<!--ls:end[custom-meta-data]-->
+<!--ls:begin[meta-vpath]-->
+<meta name="vpath" content="">
+<!--ls:end[meta-vpath]-->
+<!--ls:begin[meta-page-locale-name]-->
+<meta name="page-locale-name" content="">
+<!--ls:end[meta-page-locale-name]-->
+<!--
+					ls:begin[pre-head-injection]
+				--><!--
+					ls:end[pre-head-injection]
+				--><!--
+					ls:begin[social_media_injection]
+				--><!--
+					ls:end[social_media_injection]
+				--><!--ls:begin[head-injection]--><meta charset="utf-8" /><!--[if IE]>        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">        <![endif]--><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/><!-- Google Translate Plugin --><meta name="google-translate-customization" content="4707bd7f535893a0-45bca7b6a97e5a2d-g609df9381571b349-c"/><!--[if lt IE 9]>            <script src="/assets/home/js/libs/html5shiv.js" type="text/javascript"></script>        <![endif]--><!-- GLOBAL STYLES --><script type="text/javascript" src="/ruxitagentjs_ICA7NVfqrux_10349261020121938.js" data-dtconfig="app=f936b00c6760395e|srtbv=4|owasp=1|featureHash=ICA7NVfqrux|rdnt=1|uxrgce=1|cuc=x8kxxto7|mel=100000|expw=1|dpvc=1|lastModification=1794946773173|tp=500,50,0|srbbv=3|agentUri=/ruxitagentjs_ICA7NVfqrux_10349261020121938.js|reportUrl=/rb_bf46289yka|rid=RID_-1425388856|rpid=-1831895839|domain=nyc.gov"></script><link href="/assets/home/css/css-min/global.css" media="screen" rel="stylesheet" type="text/css" /><link href="/assets/home/css/css-min/module.css" media="screen" rel="stylesheet" type="text/css" /><!-- PRINT STYLE --><link rel="stylesheet" href="/assets/home/css/print.css" type="text/css" media="print" /><!-- PAGE SPECIFIC STYLES --><link href="/assets/home/css/includes/header-agencies.css" media="screen" rel="stylesheet" type="text/css" /><link href="/assets/home/css/modules/news-panel.css" media="screen" rel="stylesheet" type="text/css" /><link href="/assets/home/css/modules/share-icons.css" media="screen" rel="stylesheet" type="text/css" /><link href="/assets/home/css/modules/agencies-about-links.css" media="screen" rel="stylesheet" type="text/css" /><link href="/assets/home/css/modules/programs-and-initiatives.css" media="screen" rel="stylesheet" type="text/css" /><!--<link href="/assets/em/css/pages/agencies/inside.css" media="screen" rel="stylesheet" type="text/css" />--><!-- centralized css --><link href="/assets/home/css/pages/agencies/inside.css" media="screen" rel="stylesheet" type="text/css" /><link href="/assets/em/css/agency-styles.css" media="screen" rel="stylesheet" type="text/css" /><!--[if (gte IE 6)&(lte IE 8)]>        <script type="text/javascript" src="/assets/home/js/libs/selectivizr.js"></script>        <![endif]--><!--[if IE 8]>        <script type="text/javascript" src="/assets/home/js/libs/respond.min.js"></script>        <![endif]--><script src="/assets/home/js/libs/modernizr-2.6.2.min.js" type="text/javascript"></script><!--ls:end[head-injection]--><!--ls:begin[tracker-injection]--><!--ls:end[tracker-injection]--><!--ls:begin[script]--><!--ls:end[script]-->
+                                <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="QMXLB-WG9C2-LTK58-FW2PB-6ST8X",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"QMXLB-WG9C2-LTK58-FW2PB-6ST8X",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="ggxvmuyxffkfq2ycxwxq-f-0b1f12eb4-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"1071053","ak.ai":parseInt("181928",10),"ak.ol":"0","ak.cr":82,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5381f891","ak.r":23482,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.cport":51158,"ak.gh":"104.70.122.85","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1795341743","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==wN2IGByEUKoDnXI8GF4gI5Lq/lfpABY1+HN9weeAlGREWc1p0nQxR6BpQCghLxlutghe1fX24Um8G0ZWAhCDrdrhitga+1pUYFuHd0jUnEIklrtzLxIqe0GPDy3ofG1mfyQhiMAa//SVynuZ/o1qeq534q6jRi35H6n8NVD3aZKIYYi3cp7o7a+vcNVC7/1hMKZIuTWpuVQvoqDxWxi0C1FkQlAettomN3T+bPYnbjcaUzUKGenhi9N9pUiaiibpt2E+NWSwz8VZHvneKNJBxtHY8lwL2fKZ6A4bj5JsmyfXmqFuTN6xrCH2gE2z8y0dt2XZg3qZBPIxB4zb06Hy2NhU1E9K+Ww5R/uz2ZZ/dYZzJid74UYia7DUexEQvlVL5lXVcTfph3/WERIICnStQwA5QYjCPrKoYm4h1F/w4Jg=","ak.pv":"125","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body id="page">
+<!--ls:begin[body]--><div class="ls-canvas page" id="outer-wrap">
+<div class="ls-row" id="inner-wrap">
+<div class="ls-fxr" id="ls-gen33295244-ls-fxr">
+<div class="ls-col" id="ls-row-1-col-1">
+<div class="ls-col-body" id="ls-gen33295245-ls-col-body">
+<div class="ls-row main-header" id="top">
+<div class="ls-fxr" id="ls-gen33295246-ls-fxr">
+<div class="ls-col block" id="ls-row-1-col-1-row-1-col-1">
+<div class="ls-col-body" id="ls-gen33295247-ls-col-body">
+<div class="ls-row" id="ls-row-1-col-1-row-1-col-1-row-1">
+<div class="ls-fxr" id="ls-gen33295248-ls-fxr">
+<div class="ls-area" id="ls-row-1-col-1-row-1-col-1-row-1-area-1">
+<div class="ls-area-body" id="ls-gen33295249-ls-area-body">
+<div class="ls-cmp-wrap ls-1st" id="w1431367799041">
+<!--ls:begin[component-1431367799041]-->
+<div class="iw_component" id="1431367799041">
+</div>
+<!--ls:end[component-1431367799041]-->
+</div>
+<div class="ls-cmp-wrap" id="w1431367799042">
+<!--ls:begin[component-1431367799042]-->
+<div class="iw_component" id="1431367799042"><div class="agency-header">
+<div class="upper-header-black">
+<div class="container">
+<span class="upper-header-left"><a href="http://www1.nyc.gov"><img src="/assets/home/images/global/nyc_white.png" alt="NYC" class="small-nyc-logo"></a><img src="/assets/home/images/global/upper-header-divider.gif" alt=""><span class="upper-header-black-title">Emergency Management</span></span><span class="upper-header-padding"></span><span class="upper-header-right"><span class="upper-header-three-one-one"><a href="/311/index.page">311</a></span><img src="/assets/home/images/global/upper-header-divider.gif" alt=""><span class="upper-header-search"><a href="/home/search/index.page">Search all NYC.gov websites</a></span></span>
+</div>
+</div>
+</div><div role="banner" class="main-header">
+<div class="block">
+<div class="header-top">
+<div class="container">
+<a href="#" class="toggle-mobile-side-nav visible-phone" id="nav-open-btn">Menu</a><span class="welcome-text hidden-phone agency-header"></span>
+<div class="agency-logo-wrapper">
+<a href="/site/em/index.page"><img class="agency-logo" src="/assets/em/images/content/header/logo.png" alt="Emergency Management"></a>
+</div>
+<div class="hidden-phone" id="header-links">
+<div class="language-gif">
+<img src="/assets/home/images/global/language.gif" alt="Language"></div>
+<div class="language-selector">
+<div id="google_translate_element"></div>
+</div>
+<a class="text-size hidden-phone" href="http://www1.nyc.gov/home/text-size.page">Text-Size</a>
+</div>
+<a href="#" class="visible-phone nav-sprite-mobile" id="toggle-mobile-search"><span class="hidden">Search</span></a>
+</div>
+</div>
+<div class="container nav-outer">
+<nav role="navigation" class="hidden-phone" id="nav">
+<div class="block">
+<ul>
+<li class="nav-home hidden-phone">
+<a href="/site/em/index.page">
+                      Home</a>
+</li>
+<li>
+<a href="/site/em/about/overview.page">About</a>
+</li>
+<li class="active">
+<a href="/site/em/ready/ready-new-york.page">Be Ready</a>
+</li>
+<li>
+<a href="/site/em/volunteer/be-involved.page">Volunteer</a>
+</li>
+<li>
+<a href="/site/em/resources/recovery.page">Recovery</a>
+</li>
+<li>
+<a href="/site/em/contact/contact.page">Contact</a>
+</li>
+<li>
+<a href="/site/em/resources/tips-links.page">Tips &amp; Links</a>
+</li>
+<li class="hidden-phone toggle-search-wide-background-ico-search" id="toggle-search-wide"></li>
+</ul>
+</div>
+</nav>
+<div class="global-input-search">
+<form method="GET" action="/home/search/index.page" name="filter-search-form" class="hidden hidden-phone" id="global-search-form1">
+<div class="field-search">
+<input style="color: transparent" type="submit" class="ico-search btn-filter-search" value="submit" aria-hidden="true">
+<div class="input-padding">
+<label for="search-header" class="sr-only">Search</label><input id="search-header" type="text" name="search-terms" placeholder="Search" class="input-search input-black filter-item placeholder"><input type="hidden" name="sitesearch" value="www1.nyc.gov/site/em"><span class="reader-only"><input value="submit" aria-label="Submit" type="submit"></span>
+</div>
+</div>
+</form>
+</div>
+<div class="global-input-search visible-phone hidden-phone" id="nav-top-searches">
+<div class="block">
+<form class="hidden" method="GET" action="/home/search/index.page" name="filter-search-form" id="global-search-form2">
+<div class="field-search">
+<input style="color: transparent" aria-label="Submit" value="Submit" class="ico-search btn-filter-search" type="submit">
+<div class="input-padding">
+<label for="search-header-2" class="sr-only">Search</label><input id="search-header-2" class="input-search input-black filter-item" placeholder="Search" name="search-terms" type="text"><input type="hidden" name="sitesearch" value="www1.nyc.gov/site/em">
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--ls:end[component-1431367799042]-->
+</div>
+</div>
+</div>
+<div class="ls-row-clr"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ls-row-clr"></div>
+</div>
+</div>
+<div class="ls-row main" id="main">
+<div class="ls-fxr" id="ls-gen33295250-ls-fxr">
+<div class="ls-area" id="ls-row-1-col-1-row-2-area-1">
+<div class="ls-area-body" id="ls-gen33295251-ls-area-body">
+<div class="ls-cmp-wrap ls-1st" id="w1431367799043">
+<!--ls:begin[component-1431367799043]-->
+<div class="iw_component" id="1431367799043"><div class="row">
+<div class="subheader">
+<div class="container">
+<div class="subheader-button-row quatro">
+<a class="main-filter-category" href="/site/em/ready/ready-new-york.page">Make Your Plan</a><a class="main-filter-category" href="/site/em/ready/community-preparedness.page">Community Plan</a><a class="main-filter-category" href="/site/em/ready/businesses.page ">For Businesses</a><a class="main-filter-category active" href="/site/em/ready/plan-hazards.page">Plan for Hazards</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--ls:end[component-1431367799043]-->
+</div>
+<div class="ls-cmp-wrap" id="w1431367799045">
+<!--ls:begin[component-1431367799045]-->
+<div class="iw_component" id="1431367799045"><!-- Left nav component --><div class="row">
+<div class="container content-container">
+<div class="span3 agencies-about-links">
+<div class="agencies-about-links">
+<select onChange="document.location.href=this.options[this.selectedIndex].value" class="visible-phone"><option value="">Select</option><option value="/site/em/ready/building-collapses-explosions.page">Building Collapses &amp; Explosions</option><option value="/site/em/ready/carbon-monoxide.page">Carbon Monoxide</option><option value="/site/em/ready/coastal-storms-hurricanes.page">Coastal Storms &amp; Hurricanes</option><option value="/site/em/ready/cybersecurity.page">Cybersecurity</option><option value="/site/em/ready/diseases-biological-events.page">Disease Outbreaks &amp; Biological Emergencies</option><option value="/site/em/ready/earthquakes.page">Earthquakes</option><option value="/site/em/ready/extreme-heat.page">Extreme Heat</option><option value="/site/em/ready/fire.page">Fire</option><option value="/site/em/ready/flooding.page">Flooding</option><option value="/site/em/ready/hazardous-materials-chemical-spills-radiation.page">HazMats, Chemical Spills &amp; Radiation</option><option value="/site/em/ready/high-winds.page">High Winds</option><option value="/site/em/ready/terrorism.page">Terrorism</option><option value="/site/em/ready/thunderstorms.page">Thunderstorms &amp; Lightning</option><option value="/site/em/ready/tornadoes.page">Tornadoes</option><option value="/site/em/ready/utility-disruptions.page">Utility Disruptions</option><option value="/site/em/ready/winter-weather-prep.page">Winter Weather</option><option value="/site/em/ready/hazard-mitigation.page">Hazard Mitigation</option></select>
+<ul class="clearfix hidden-phone">
+<li class="active">
+<a href="/site/em/ready/building-collapses-explosions.page">Building Collapses &amp; Explosions</a>
+</li>
+<li>
+<a href="/site/em/ready/carbon-monoxide.page">Carbon Monoxide</a>
+</li>
+<li>
+<a href="/site/em/ready/coastal-storms-hurricanes.page">Coastal Storms &amp; Hurricanes</a>
+</li>
+<li>
+<a href="/site/em/ready/cybersecurity.page">Cybersecurity</a>
+</li>
+<li>
+<a href="/site/em/ready/diseases-biological-events.page">Disease Outbreaks &amp; Biological Emergencies</a>
+</li>
+<li>
+<a href="/site/em/ready/earthquakes.page">Earthquakes</a>
+</li>
+<li>
+<a href="/site/em/ready/extreme-heat.page">Extreme Heat</a>
+</li>
+<li>
+<a href="/site/em/ready/fire.page">Fire</a>
+</li>
+<li>
+<a href="/site/em/ready/flooding.page">Flooding</a>
+</li>
+<li>
+<a href="/site/em/ready/hazardous-materials-chemical-spills-radiation.page">HazMats, Chemical Spills &amp; Radiation</a>
+</li>
+<li>
+<a href="/site/em/ready/high-winds.page">High Winds</a>
+</li>
+<li>
+<a href="/site/em/ready/terrorism.page">Terrorism</a>
+</li>
+<li>
+<a href="/site/em/ready/thunderstorms.page">Thunderstorms &amp; Lightning</a>
+</li>
+<li>
+<a href="/site/em/ready/tornadoes.page">Tornadoes</a>
+</li>
+<li>
+<a href="/site/em/ready/utility-disruptions.page">Utility Disruptions</a>
+</li>
+<li>
+<a href="/site/em/ready/winter-weather-prep.page">Winter Weather</a>
+</li>
+<li>
+<a href="/site/em/ready/hazard-mitigation.page">Hazard Mitigation</a>
+</li>
+</ul>
+</div>
+<div class="agencies-about-share">
+<div class="share">
+<a aria-label="Share on facebook" target="_blank" href="#"><span aria-hidden="true" class="facebook_custom" data-url="https://www1.nyc.gov/site/em/ready/building-collapses-explosions.page?" data-title="Plan for Hazards - Building Collapses & Explosions - NYCEM"></span></a><a aria-label="Share on twitter" target="_blank" href="#"><span aria-hidden="true" class="twitter_custom" data-url="https://www1.nyc.gov/site/em/ready/building-collapses-explosions.page?" data-title="Plan for Hazards - Building Collapses & Explosions - NYCEM"></span></a><a aria-label="Share on google plus" target="_blank" href="#"><span aria-hidden="true" class="googleplus_custom" data-url="https://www1.nyc.gov/site/em/ready/building-collapses-explosions.page?" data-title="Plan for Hazards - Building Collapses & Explosions - NYCEM"></span></a><a aria-label="Share on tumblr" target="_blank" href="#"><span aria-hidden="true" class="tumblr_custom" data-url="https://www1.nyc.gov/site/em/ready/building-collapses-explosions.page?" data-title="Plan for Hazards - Building Collapses & Explosions - NYCEM"></span></a><a aria-label="Share in email" href="#"><span aria-hidden="true" class="email_custom" data-url="https://www1.nyc.gov/site/em/ready/building-collapses-explosions.page?" data-title="Plan for Hazards - Building Collapses & Explosions - NYCEM"></span></a>
+          Share
+  </div>
+<div class="print-event hidden-phone hidden-tablet">
+<img alt="" src="/assets/home/images/global/print.png"><span class="print-label"> Print </span>
+</div>
+</div>
+</div>
+<div class="span9 about-main-image">
+<div class="span6 about-description"><h1>Building Collapses &amp; Explosions</h1>
+<p><img alt="A building collapse featuring damage and debris" src="/assets/em/images/content/hero/building_collapse_800x532.jpg" /></p>
+<p>A building collapse or explosion may result from structural damage, a gas leak, or sabotage.</p>
+<script type="text/javascript" src="/assets/home/js/pages/agencies/expand-collapse-2.js"></script>
+<div class="faq-v3">
+<div class="faq-head">
+<div class="faq-controls"><a class="faq-expand-all" href="javascript:expandAll();">Expand All</a>&nbsp;&nbsp;<a class="faq-collapse-all" href="javascript:collapseAll();">Collapse All</a></div>
+</div>
+<div class="faq-questions" data-answer="before-emergency">
+<h3>What to Do If You Suspect Structural Damage, <br />a Gas Leak or Sabotage</h3>
+</div>
+<div id="before-emergency" class="faq-answers">
+<ul>
+<li>Call 911.</li>
+<li>If you are inside the building, exit as quickly as possible.</li>
+<li>If you are outside, move away from the building as quickly as possible. </li>
+</ul>
+</div>
+<div class="faq-questions" data-answer="during-emergency">
+<h3>What to Do During a Building Collapse or Explosion</h3>
+</div>
+<div id="during-emergency" class="faq-answers">
+<p>If you are inside the building and cannot exit:</p>
+<ul>
+<li>Get under a sturdy table or desk, if possible.</li>
+<li>Call 911.</li>
+</ul>
+<p>If you are inside the building and trapped by debris:</p>
+<ul>
+<li>Cover your nose and mouth with a cloth or clothing.</li>
+<li>Move around as little as possible to avoid kicking up dust, which may be harmful to inhale.</li>
+<li>If possible, use a flashlight so you can see your surroundings and to signal your location to rescuers.</li>
+<li>Tap on a pipe or wall so rescuers can hear where you are. Use a whistle if you have one. Shout only as a last resort as shouting can cause you to inhale dangerous amounts of dust.</li>
+</ul>
+</div>
+<div class="faq-questions" data-answer="after-emergency">
+<h3>After a Building Collapse or Explosion</h3>
+</div>
+<div id="after-emergency" class="faq-answers">
+<ul>
+<li>Fires often occur after a building explosion. <a title="Plan for Hazards - Fire" href="http://www1.nyc.gov/site/em/ready/fire.page">Learn more about fires.</a></li>
+<li>Follow instructions of emergency responders.</li>
+<li>Do NOT try to re-enter a building or enter a debris field to look for personal property. It is unsafe to do so, and the air may be contaminated.</li>
+<li>There may be significant numbers of casualties or damage to buildings and infrastructure.</li>
+<li>Stay informed by signing up for Notify NYC, the City of New York's official, free emergency communications program, will alert New Yorkers if there is an emergency in your area. Register for emergency notifications by get the free <a href="http://www.nyc.gov/notifynycapp" title="Notify NYC app">Notify NYC mobile application</a>, visiting <a href="http://www.nyc.gov/notifynyc" title="Notify NYC website link">NYC.gov/notifynyc</a>, contacting <a href="http://www.nyc.gov/311" title="311">311</a> (212-639-9675 for Video Relay Service, or TTY: 212-504-4115) or following @NotifyNYC on <a href="http://www.twitter.com/notifynyc" title="Notify NYC on Twitter">Twitter</a>. Notify NYC messages are available through many formats, including email, text messages, telephone, the Notify NYC website, RSS, Twitter, and American Sign Language videos. </li>
+<li>Tune in to local TV and radio for officials' announcements</li>
+</ul>
+</div>
+<div class="faq-questions" data-answer="what-city-does">
+<h3>What the City Does</h3>
+</div>
+<div id="what-city-does" class="faq-answers">
+<p>Building collapses or explosions involve coordination between government agencies and infrastructure and utility partners. NYC Emergency Management may support recovery operations by coordinating any of the following at the request of the emergency responders: area evacuation, debris management, damage assessment, family reunification, power restoration, and more.</p>
+<p>The City will monitor the air around a building collapse for contamination. If the air is contaminated, the City will notify the public and provide instructions on how to stay safe.</p>
+<p>If the building collapse causes significant impacts to the surrounding area or requires an investigation, NYC Emergency Management will notify the public regarding transit disruptions, closed roadways and to avoid certain areas.</p>
+<p>If a large number of residents are displaced and/or searching for missing family members, the City will coordinate service centers or family reunification centers when appropriate.</p>
+</div>
+</div>
+<div data-mce-bogus="1" style="overflow: hidden; height: 1px; width: 1px; position: absolute; left: 0px; top: 2175px;" class="mcePaste" id="_mcePaste"></div>
+<h1>More Resources</h1>
+<ul>
+<li><a title="DOB's Construction Safety &amp; Enforcement website link" href="http://www1.nyc.gov/site/buildings/safety/safety.page">Building Safety</a> (NYC Department of Buildings)</li>
+<li><a title="DOHMH's Online Bystander Training Course website link" href="http://www1.nyc.gov/assets/doh/media/em/player.html">Online Bystander Training Course</a> (NYC Department of Health &amp; Mental Hygiene)</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+<!--ls:end[component-1431367799045]-->
+</div>
+<div class="ls-cmp-wrap" id="w1469043663082">
+<!--ls:begin[component-1469043663082]-->
+<div class="iw_component" id="1469043663082">
+</div>
+<!--ls:end[component-1469043663082]-->
+</div>
+<div class="ls-cmp-wrap" id="w1469043663083">
+<!--ls:begin[component-1469043663083]-->
+<div class="iw_component" id="1469043663083"><!--
+         Do not display agency programs. 
+    -->
+</div>
+<!--ls:end[component-1469043663083]-->
+</div>
+</div>
+</div>
+<div class="ls-row-clr"></div>
+</div>
+</div>
+<div class="ls-row" id="ls-row-1-col-1-row-3">
+<div class="ls-fxr" id="ls-gen33295252-ls-fxr">
+<div class="ls-area" id="ls-row-1-col-1-row-3-area-1">
+<div class="ls-area-body" id="ls-gen33295253-ls-area-body">
+<div class="ls-cmp-wrap ls-1st" id="w1469043663084">
+<!--ls:begin[component-1469043663084]-->
+<div class="iw_component" id="1469043663084"><div class="row">
+<footer>
+<div class="container">
+<div class="span9 footer-links">
+<a href="/main">nyc.gov home</a><a href="/main/services">Services</a><a href="/main/events/?">Events</a><a href="/main/your-government">Your government</a><a href="https://portal.311.nyc.gov/">311</a><a href="/main/your-government/contact-nyc-government">Contact NYC government</a><a href="https://www.nycvotes.org/">Register to vote</a><a href="https://a858-nycnotify.nyc.gov/notifynyc/">Emergency alerts </a><a href="https://cityjobs.nyc.gov/">Careers</a><a href="/main/forms/website-feedback">Website feedback</a><a href="https://www.nyc.gov/site/mopd/resources/digital-accessibility.page">Accessibility resources</a><a href="/main/nyc-gov-privacy-policy">Privacy policy</a><a href="/main/terms-of-use">Terms of use</a><a href="/main/about-our-content">About nyc.gov content</a>
+</div>
+<div class="span3">
+<span class="logo-nyc">NYC</span>
+<form class="form-search" method="get" action="/home/search/index.page">
+<label for="footer-search" class="sr-only">Search</label><input id="footer-search" type="text" placeholder="Search" class="input-search placeholder" name="search-terms"><button class="ico-search">Search</button>
+</form>
+<div class="copyright">
+<div><p>&copy; City of New York. 2025 All Rights Reserved. NYC is a trademark and service mark of the City of New York.</p>
+<!-- nyc footer 07-16-2025 --></div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<!--ls:end[component-1469043663084]-->
+</div>
+</div>
+</div>
+<div class="ls-row-clr"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ls-row-clr"></div>
+</div>
+</div>
+</div><!--ls:end[body]--><!--ls:begin[page_track]--><!--ls:end[page_track]--></body>
+<!--ls:begin[foot-injection]--><!-- GLOBAL JAVASCRIPT INCLUDES (/js/_global.js.html.erb) --><script src="/assets/home/js/libs/jquery-1.9.1.js" type="text/javascript"></script><script src="/assets/home/js/libs/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script><script src="/assets/home/js/libs/i18n/jquery-ui-i18n.js" type="text/javascript"></script><script src="/assets/home/js/utils.js" type="text/javascript"></script><script src="/assets/home/js/libs/class.js" type="text/javascript"></script><script src="/assets/home/js/classes/NYC.MainNav.js" type="text/javascript"></script><script src="/assets/home/js/classes/NYC.MobileNav.js" type="text/javascript"></script><script src="/assets/home/js/classes/NYC.Global.js" type="text/javascript"></script><script src="/assets/home/js/libs/ZeroClipboard.min.js" type="text/javascript"></script><script src="/assets/home/js/classes/NYC.InfoShare.js" type="text/javascript"></script><script src="/assets/home/js/classes/NYC.ProgramsAndInitiatives.js" type="text/javascript"></script><script src="/assets/home/js/share.js" type="text/javascript"></script><script src="/assets/home/js/libs/jquery.colorbox-min.js" type="text/javascript"></script><!-- IE7 support for JSON --><!--[if (gte IE 6)&(lte IE 8)]>        <script src="/assets/home/js/libs/json2.js" type="text/javascript"></script>        <![endif]--><!-- PAGE SPECIFIC JAVASCRIPT --><script src="/assets/home/js/pages/agencies/about.js" type="text/javascript"></script><script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script><!-- Google Translate Plugin --><script type="text/javascript">            function googleTranslateElementInit() {                new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');            }        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><!-- webtrends --><script type="text/javascript" src="/assets/em/js/agencies/agency-wt.js"></script><script type="text/javascript" src="/assets/home/js/webtrends/webtrends_v10.js"></script><!-- End Analytics Tagging 8/4/14 TL. (NYC.gov Specific) --><!--ls:end[foot-injection]--></html></html>

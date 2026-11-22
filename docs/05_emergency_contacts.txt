@@ -1,0 +1,786 @@
+TOPIC 05 — EMERGENCY CONTACTS BY COUNTRY
+========================================================================
+
+PURPOSE
+This document contains emergency and socially important telephone numbers reported through the ITU-T E.129 Important Numbers database.
+
+IMPORTANT SAFETY NOTE
+Emergency telephone numbers can change. The chatbot must consider the user's current country or geographic location before recommending a number. ITU records may also have different update dates. The chatbot should prefer current official national emergency information when available and should not silently resolve conflicting numbers.
+
+COLLECTION TIME: 2026-11-22T08:59:59.996090+00:00
+ITU RECORDS COLLECTED: 64
+COUNTRIES / GEOGRAPHICAL AREAS: 12
+PRIMARY SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+
+SERVICE CATEGORIES
+------------------
+Emergency
+Police
+Fire
+Medical / Ambulance
+Traffic
+Hazards
+Child Help Line
+Other
+
+
+========================================================================
+COUNTRY / AREA: 1
+========================================================================
+
+SERVICE: 1
+NUMBER: 1
+ADDITIONAL INFORMATION: 4
+ALLOCATED / ASSIGNED: 5
+NOTE: 6
+ITU LAST UPDATE: 7
+DATA AGE STATUS: Unknown
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.996713+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: 3
+NUMBER: 2
+ADDITIONAL INFORMATION: 4
+ALLOCATED / ASSIGNED: 5
+NOTE: 6
+ITU LAST UPDATE: 7
+DATA AGE STATUS: Unknown
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.996788+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: 1 2 3 4 5 6 7 8 9 10 ... Last
+========================================================================
+
+SERVICE: 1 2 3 4 5 6 7 8 9 10 ... Last
+NUMBER: 1 2 3 4 5 6 7 8 9 10 ... Last
+ADDITIONAL INFORMATION: 3
+ALLOCATED / ASSIGNED: 4
+NOTE: 5
+ITU LAST UPDATE: 6
+DATA AGE STATUS: Unknown
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.996876+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: 2
+NUMBER: 1
+ADDITIONAL INFORMATION: 3
+ALLOCATED / ASSIGNED: 4
+NOTE: 5
+ITU LAST UPDATE: 6
+DATA AGE STATUS: Unknown
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.996907+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Afghanistan
+========================================================================
+
+SERVICE: Afghanistan
+NUMBER: Afghanistan
+ADDITIONAL INFORMATION: Electricity
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997018+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 101
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997086+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Hazards
+NUMBER: 144
+ADDITIONAL INFORMATION: Electricity
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997133+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Hazards
+NUMBER: 146
+ADDITIONAL INFORMATION: Electricity
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997175+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Medical
+NUMBER: 102
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997208+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 100
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997239+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Albania
+========================================================================
+
+SERVICE: Albania
+NUMBER: Albania
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: Assigned to Ministry of Internal Affairs-Albanian State Police
+NOTE: Assigned 11 August 2009, http://www.asp.gov.al/index.php?option=com_content&view=frontpage&Itemid=253%E2%8C%A9=sq
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997287+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Child Help Line
+NUMBER: 116111
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: Assigned to UNITED NATIONS CHILDREN’S FUND-TIRANA OFFICE(UNICEF)
+NOTE: Assigned 18 February 2009, http://www.unicef.org/infobycountry/albania_contact.html
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997324+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Emergency
+NUMBER: 112
+ADDITIONAL INFORMATION: All emergency services
+ALLOCATED / ASSIGNED: Allocated
+NOTE: Allocated 1999
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997353+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 128
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: Assigned to Ministry of Internal Affairs-Albanian State Police
+NOTE: Assigned 11 August 2009, http://www.asp.gov.al/index.php?option=com_content&view=frontpage&Itemid=253%E2%8C%A9=sq
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997382+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Medical
+NUMBER: 127
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: Assigned to Ministry of Health
+NOTE: Assigned 11 August 2009, http://www.moh.gov.al/
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997411+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 116000
+ADDITIONAL INFORMATION: Hotline for missing children
+ALLOCATED / ASSIGNED: Assigned to UNITED NATIONS CHILDREN’S FUND-TIRANA OFFICE(UNICEF)
+NOTE: Assigned 18 February 2009, http://www.unicef.org/infobycountry/albania_contact.html
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997440+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 116106
+ADDITIONAL INFORMATION: Helplines for victims of crime
+ALLOCATED / ASSIGNED: Assigned to Ministry of Internal Affairs
+NOTE: Assigned 03 February 2014, http://www.moi.gov.al/
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997458+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 116123
+ADDITIONAL INFORMATION: Emotional support helplines
+ALLOCATED / ASSIGNED: Assigned to UNITED NATIONS CHILDREN’S FUND-TIRANA OFFICE(UNICEF)
+NOTE: Assigned 18 February 2009, http://www.unicef.org/infobycountry/albania_contact.html
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997479+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 125
+ADDITIONAL INFORMATION: Sea emergency
+ALLOCATED / ASSIGNED: Assigned to Ministry of Defence, Maritime Operational Inter-Institutional Center (QNOD)
+NOTE: Assigned 20 April 2011, http://www.mod.gov.al/arkiv/index.php?option=com_content&view=category&layout=blog&id=221&Itemid=574
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997512+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 129
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: Assigned to Ministry of Internal Affairs-Albanian State Police
+NOTE: Assigned 11 August 2009, http://www.asp.gov.al/index.php?option=com_content&view=frontpage&Itemid=253%E2%8C%A9=sq
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997530+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Traffic
+NUMBER: 126
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: Assigned to Ministry of Internal Affairs-Albanian State Police
+NOTE: Assigned 11 August 2009, http://www.asp.gov.al/index.php?option=com_content&view=frontpage&Itemid=253%E2%8C%A9=sq
+ITU LAST UPDATE: 2014-04-09
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997549+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Algeria
+========================================================================
+
+SERVICE: Algeria
+NUMBER: Algeria
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997589+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Child Help Line
+NUMBER: 1111
+ADDITIONAL INFORMATION: Child protection
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997615+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 1070
+ADDITIONAL INFORMATION: Forest fire
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997637+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 1021
+ADDITIONAL INFORMATION: Civil protection
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997653+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 1054
+ADDITIONAL INFORMATION: Coast guard
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997669+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 1058
+ADDITIONAL INFORMATION: Air Search and Rescue
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997686+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 14
+ADDITIONAL INFORMATION: Civil protection
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997702+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 1590
+ADDITIONAL INFORMATION: Ministry of National Defence
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997718+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 103
+ADDITIONAL INFORMATION: Gendarmerie
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997732+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 104
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997747+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 1055
+ADDITIONAL INFORMATION: Gendarmerie
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997761+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 1548
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997775+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 17
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-08
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997790+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Andorra
+========================================================================
+
+SERVICE: Andorra
+NUMBER: Andorra
+ADDITIONAL INFORMATION: Women help line
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997810+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Emergency
+NUMBER: 112
+ADDITIONAL INFORMATION: Any emergency
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997825+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 118; 112
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997840+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Medical
+NUMBER: 116; 112
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997856+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 181
+ADDITIONAL INFORMATION: Women help line
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997870+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 110; 112
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997884+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Angola
+========================================================================
+
+SERVICE: Angola
+NUMBER: Angola
+ADDITIONAL INFORMATION: Integrated Public Security Center
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-02
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997904+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Angola
+NUMBER: Angola
+ADDITIONAL INFORMATION: Ambulance
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997932+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 115
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997947+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Medical
+NUMBER: 116
+ADDITIONAL INFORMATION: Ambulance
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997962+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 111
+ADDITIONAL INFORMATION: Integrated Public Security Center
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2024-04-02
+DATA AGE STATUS: Aging
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997977+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 113
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.997991+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Antigua and Barbuda
+========================================================================
+
+SERVICE: Antigua And Barbuda
+NUMBER: Antigua and Barbuda
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998012+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 999; 911
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998028+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Hazards
+NUMBER: 211
+ADDITIONAL INFORMATION: Water faults
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998042+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Hazards
+NUMBER: 311
+ADDITIONAL INFORMATION: Electricity faults
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998057+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Medical
+NUMBER: 999; 911
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998077+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 611
+ADDITIONAL INFORMATION: Telephone faults
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998091+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Other
+NUMBER: 777
+ADDITIONAL INFORMATION: Police rapid response unit
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998105+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 999; 911
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998120+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Argentina
+========================================================================
+
+SERVICE: Argentina
+NUMBER: Argentina
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998138+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Child Help Line
+NUMBER: 102
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998153+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 100
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998168+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Hazards
+NUMBER: 103
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998183+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Medical
+NUMBER: 107
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998198+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Police
+NUMBER: 101; 911
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998212+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Armenia
+========================================================================
+
+SERVICE: Armenia
+NUMBER: Armenia
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998232+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+SERVICE: Fire
+NUMBER: 101
+ADDITIONAL INFORMATION: -
+ALLOCATED / ASSIGNED: -
+NOTE: -
+ITU LAST UPDATE: 2012-04-03
+DATA AGE STATUS: Old
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998248+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Total found:
+========================================================================
+
+SERVICE: Total Found:
+NUMBER: Total found:
+ADDITIONAL INFORMATION: 10 20 50 100
+ITU LAST UPDATE: Unknown
+DATA AGE STATUS: Unknown
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998257+00:00
+EXTRACTION METHOD: BeautifulSoup
+
+
+========================================================================
+COUNTRY / AREA: Total found: 1160 Page Size: 10 20 50 100
+========================================================================
+
+SERVICE: Total Found: 1160 Page Size: 10 20 50 100
+NUMBER: Total found: 1160 Page Size: 10 20 50 100
+ADDITIONAL INFORMATION: Page Size:
+ALLOCATED / ASSIGNED: 10 20 50 100
+ITU LAST UPDATE: Unknown
+DATA AGE STATUS: Unknown
+SOURCE: https://www.itu.int/net/itu-t/inrdb/e129_important_numbers.aspx
+RETRIEVED: 2026-11-22T08:59:59.998269+00:00
+EXTRACTION METHOD: BeautifulSoup
+

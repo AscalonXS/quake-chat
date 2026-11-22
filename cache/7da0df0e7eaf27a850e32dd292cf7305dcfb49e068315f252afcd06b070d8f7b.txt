@@ -1,0 +1,80 @@
+Live Geolocation Radar • USGS & EMSC Feeds
+Latest Earthquake Near Me Today: Live Seismic Radar
+Track the
+latest earthquake near me
+right now with real-time GPS distance calculation, focal depths, and shake radius telemetry from USGS and EMSC sensor networks.
+Detect Earthquakes Near Me
+Search Radius
+25 km
+50 km
+100 km
+250 km
+500 km
+Minimum Magnitude
+All (M0+)
+M2.5+ Light
+M4.0+ Moderate
+M5.0+ Strong
+Emergency Action Protocol
+Did You Just Feel an Earthquake?
+Follow these three vital directives immediately to protect yourself and your family.
+1. Drop, Cover, & Hold On
+Drop to your hands and knees immediately. Cover your head and neck beneath a sturdy desk or table. Hold on until the shaking completely stops. Do not run outdoors during shaking.
+Complete Survival Guide
+2. Check Utilities & Hazards
+Once shaking ceases, inspect your surroundings. If you smell gas or hear hissing, turn off the main valve and evacuate immediately. Watch out for shattered glass and downed electrical lines.
+Home Hazard Checklists
+3. Prepare for Aftershocks
+Moderate-to-severe earthquakes are invariably followed by aftershock sequences. Keep your sturdy shoes, emergency go-bag, and flashlight beside your bed or exit door.
+Aftershock Safety Rules
+Seismological Physics
+How Seismic Waves Travel to Your Location
+When tectonic fault planes rupture underground, seismic energy radiates outward in distinct wave packets. Understanding these wave velocities explains why shaking feels different across varying distances.
+5 to 8 km/s
+First to Arrive
+Primary (P) Waves
+Compressional waves that travel through solid crust and liquid mantle. They arrive first and are typically perceived as an abrupt vertical thump or rattling windows rather than violent rolling.
+3 to 4.5 km/s
+Second to Arrive
+Secondary (S) Waves
+Shear waves that oscillate perpendicular to propagation direction. Traveling only through solid rock, S-waves arrive seconds after P-waves, generating intense horizontal shear shaking.
+2 to 4 km/s
+Most Destructive
+Surface Waves (Love & Rayleigh)
+Trapped near the Earth's surface, these waves exhibit massive vertical elliptical rolling and transverse shearing. They diminish slowly with distance and cause maximum structural strain.
+Early warning systems leverage the P-to-S time interval to send alerts before damaging shear waves arrive.
+Read Full Seismic Wave Analysis
+Understanding Seismic Metrics
+Why Local Shaking Intensity Differs from Magnitude
+A common misconception is that magnitude alone defines how much shaking you will experience. In reality, what you feel at your exact location is governed by three critical factors:
+Factor 1
+Epicenter Distance
+Seismic wave amplitude attenuates exponentially as energy spreads geometrically through the crust. Double the distance often reduces felt intensity by over 75%.
+Factor 2
+Focal Depth
+Shallow earthquakes (0–15 km deep) focus violent energy directly beneath surface structures, whereas deep earthquakes (100+ km) dissipate energy across broad territories.
+Factor 3
+Local Soil Resonance
+Soft alluvial soils and reclaimed land amplify seismic waves significantly compared to solid bedrock, occasionally triggering liquefaction during prolonged tremors.
+Explore Richter vs Modified Mercalli Scales
+Answers & Verification
+Frequently Asked Questions
+Clear, scientifically verified answers to the most common questions regarding local seismic detection.
+Did an earthquake just happen near my location?
+Why did I feel the ground shake if no earthquake is listed on the map yet?
+How far away can you feel a magnitude 3, 4, 5, or 6 earthquake?
+How does this tool detect my location safely?
+What is the difference between epicenter distance and focal depth?
+What should I do immediately after the shaking stops?
+Global Seismic Monitoring Network
+Explore interactive mapping tools, country hazard profiles, and comprehensive survival checklists.
+Safety Guide & Kit
+72-hour survival essentials
+Interactive Live Map
+Global epicenter visualizer
+World Fault Zones
+Ring of Fire & San Andreas
+214 Country Profiles
+National seismic risk indexes
+Authoritative Seismic Observatories Feed
+Earthquake data on this page is directly aggregated from the United States Geological Survey (USGS) and the European-Mediterranean Seismological Centre (EMSC). Seismological analyses and safety guidelines comply with FEMA, USGS, and International Seismological Centre standards.

@@ -1,0 +1,66 @@
+Home
+>
+CSD
+>
+Libraries
+>
+The Press
+>
+JTRPROGRAM
+>
+JTRP
+>
+1567
+JTRP Technical Reports
+Handbook for the Post-Earthquake Safety Evaluation of Bridges and Roads
+Authors
+Julio A. Ramirez
+,
+Purdue University
+Follow
+Robert J. Frosch
+,
+Purdue University
+Follow
+Mete A. Sozen
+,
+Purdue University
+Follow
+A. Murat Turk
+,
+Purdue University
+Follow
+Abstract
+It is acknowledged that the most damaging earthquake within the state took place on September 27, 1909 near the Illinois border between Vincennes and Terre Haute. Both nonstructural and structural damage occurred to the buildings in this area, and it was felt strongly in the southwest of Indiana including Indianapolis. Unfortunately, due to the long recurrence interval of strong earthquakes in Mid-America, a large inventory of structures has accumulated without explicit consideration of seismic resistance. Highway bridges are a significant component of this inventory. The seismic vulnerability of highway bridges constructed within the state, especially in southwestern portion of Indiana, presents a problem of serious consequences.
+The main purpose of this handbook is to provide INDOT personnel of various backgrounds with a rapid and effective methodology for the post-earthquake safety inspection of bridges and roads in Indiana. This methodology is intended to promote and maintain the uniformity of the inspection as much as possible while assessing and rating bridge and road damage. This handbook contains the material necessary for a systematic safety evaluation of bridge structures and roads for a wide range of INDOT personnel. In the handbook, the necessary material is arranged according to two inspection levels. Level 1 inspection consists of the rapid visual evaluation of the bridges and roads in the affected area to establish obviously unsafe structures and roads. The Level 1 section of the handbook is intended for INDOT personnel with a broad range of backgrounds. Level 2 inspection consists of a more in-depth safety evaluation of bridges and roads, as well as temporary repair and long-term monitoring techniques. This segment is designed specifically for INDOT engineers. The Level 2 inspection team will be expected to make a more detailed structural and geotechnical post-earthquake condition assessment of the bridge.
+The organization and the management of the post-earthquake inspections are under the jurisdiction of INDOT, unless declared a State Disaster by the Governor and taken over by SEMA, and it is outside the scope of this handbook.
+Keywords
+bridge, inspection, earthquake, post-event, assessment, Indiana, training, handbook
+Report Number
+FHWA/IN/JTRP-2000/30
+SPR Number
+2377
+Performing Organization
+Joint Transportation Research Program
+Publisher Place
+West Lafayette, IN
+Date of Version
+3-2000
+DOI
+10.5703/1288284315557
+Recommended Citation
+Ramirez, J. A.,
+
+ R. J. Frosch, 
+
+ M. A. Sozen, 
+
+ and A. M. Turk.
+Handbook for the Post-Earthquake Safety Evaluation of Bridges and Roads
+. Publication FHWA/IN/JTRP-2000/30. Joint Transportation Research Program, Indiana Department of Transportation and Purdue University, West Lafayette, Indiana, 2000.
+https://doi.org/10.5703/1288284315557
+Download Free PDF
+DOWNLOADS
+Since June 09, 2015
+Share
+COinS

@@ -1,0 +1,729 @@
+Healthcare Facility Evacuation/Sheltering
+Topic Collection
+May 22, 2026
+Topic Collection: Healthcare Facility Evacuation/Sheltering
+Technical Resources
+Healthcare Facility Evacuation/Sheltering
+Past and recent disasters have illustrated the need for healthcare facilities to have solid evacuation and shelter-in-place plans for patients and staff. Plans must incorporate community incident command and management structures as well as lessons learned from co-occurring disasters, mutual aid, and patient transfer and balanced loading efforts over the past several years. In some circumstances, sheltering in place protocols may also be implemented as a necessary means of protecting facility occupants (patients, staff, and visitors) from external or internal threats (e.g., security threats or chemical, biological or nuclear events). Recent incidents including civil disturbance in communities across the country have required healthcare facility implementation of lock down procedures/access controls. These factors also should be considered and addressed when planning for sheltering in place. For more information, visit ASPR TRACIE’s
+Active Shooter and Explosives
+and
+Workplace Violence Topic Collections
+. Information on patient tracking and load balancing is included in the
+Patient Movement, MOCCS, and Tracking Topic Collection
+.
+This ASPR TRACIE Topic Collection was refreshed in September 2025. The resources in this Collection include plans, guidelines, lessons learned from recent events, and promising practices that can help healthcare facility staff develop evacuation and sheltering plans and facilitate their training and exercise development.
+Each resource in this Topic Collection is placed into one or more of the following categories (click on the category name to be taken directly to that set of resources). Resources marked with an asterisk (*) appear in more than one category.
+Sections Navigation
+Toggle Open/Close
+Must Reads
+Education and Training
+Evaluation and Studies
+Exercise Materials
+Guidelines and Protocols
+Lessons Learned and Incident Analysis
+Plans, Tools, and Templates
+Post-Disaster Assessment and Repopulation
+Special Populations: Long-Term Care and Assisted Living-Related Resources
+Special Populations: Pediatric, NICU, and OB/GYN-Related Resources
+Agencies and Organizations
+Section Navigation
+Toggle Open/Close
+Must Reads
+Education and Training
+Evaluation and Studies
+Exercise Materials
+Guidelines and Protocols
+Lessons Learned and Incident Analysis
+Plans, Tools, and Templates
+Post-Disaster Assessment and Repopulation
+Special Populations: Long-Term Care and Assisted Living-Related Resources
+Special Populations: Pediatric, NICU, and OB/GYN-Related Resources
+Agencies and Organizations
+Must Reads
+ASPR TRACIE. (2023).
+Lessons Learned from the Signature Healthcare Brockton Hospital Fire.
+On February 7, 2023, a 10-alarm fire at Signature Healthcare Brockton Hospital (Massachusetts) resulted in the total evacuation of the hospital, prolonged closure, and extensive recovery efforts. In this webinar, hospital representatives shared their experience navigating a complete utilities failure during a fire emergency and discussed their successes and challenges of patient movement, transfers, and discharges; maintaining patient and staff safety; managing cascading events; collaboration with local/state/regional partners; and how lessons learned impact facility plans, protocols, and training.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2025).
+Hospital Wildfire Evacuation Considerations.
+Much of the U.S. is vulnerable to wildfires. In recent years, numerous hospitals have had to consider or complete evacuations of patients and staff due to wildfire activity in their communities, due not only to direct fire threats but also because of poor air quality from smoke and ash or the indirect effects of public safety power shutoffs. Hospital Wildfire Evacuation Considerations is a checklist based on lessons learned from recent incidents and can inform hospital evacuation planning.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2025).
+Sheltering, Relocation, and Evacuation.
+This chapter highlights the strategies and timing, factors affecting decision making, planning, logistics, and special considerations associated with hospital sheltering, relocation, and evacuation.
+Login
+to favorite the article
+Favorite:
+California Hospital Association. (2024).
+CHA Checklist: Hospital Repopulation after Evacuation.
+The California Hospital Association worked with subject matter experts to identify best practices and regulatory agency requirements that have to be taken into account when repopulating after full or partial evacuation of general acute care hospital inpatient buildings. The guide includes a checklist that can be completed electronically or printed and filled out by hand.
+Login
+to favorite the article
+Favorite:
+Dosa, D., Hyer, K., Thomas, K., et al. (2012).
+To Evacuate or Shelter In Place: Implications of Universal Hurricane Evacuation Policies on Nursing Home Residents.
+Journal of the American Medical Directors Association. 13(2): 190 e1-7.
+The objective of this study was to examine the differential morbidity/mortality associated with evacuation versus sheltering in place for nursing home residents exposed to four hurricanes in the Gulf region. The authors discuss their methodology and results of the study. Among residents exposed to hurricanes, evacuation significantly exacerbated subsequent morbidity/mortality.
+Login
+to favorite the article
+Favorite:
+Fink, S. (2012).
+In Hurricane’s Wake, Decisions Not to Evacuate Hospitals Raise Questions.
+ProPublica.
+The author of this article describes the evacuating/ sheltering experiences of several New York City hospitals during Hurricane Sandy, and how hospital executives and the New York State Health Commissioner made evacuation decisions.
+Login
+to favorite the article
+Favorite:
+Haggerty, E. (2013).
+When Bellevue Had to Evacuate Its Criminally Insane.
+Bedford and Bowery.
+The author addresses having to evacuate patients with serious behavioral health issues, and highlights experiences and challenges faced by Bellevue Hospital in the aftermath of Hurricane Sandy.
+Login
+to favorite the article
+Favorite:
+Harvard School of Public Health Emergency Preparedness and Response Exercise Program, and Emergency Preparedness Bureau at the Massachusetts Department of Public Health. (2014).
+MDPH Hospital Evacuation Toolkit.
+This toolkit is designed to assist hospitals as they review and update their plans annually for partial or full evacuation. It provides multiple guidance documents (e.g., staffing, assembly point, emergency receiver), and a hospital evacuation plan checklist.
+Login
+to favorite the article
+Favorite:
+1
+McGinty, M., Burke, T., Barnett, D., et al. (2016).
+Hospital Evacuation and Shelter-in-Place: Who Is Responsible for Decision-Making?
+(Abstract only.) Disaster Medicine and Public Health Preparedness. 10(3):320-324.
+The authors of this article conducted semi-structured interviews with decision makers to understand reasoning behind making evacuation or shelter-in-place decisions during Hurricane Sandy (2012). They found that perceived authority among hospital executives and government officials was necessary for the decision maker to order evacuation, and there is a risk of inaction when government officials and hospital executives both view themselves as having this authority.
+Login
+to favorite the article
+Favorite:
+Education and Training
+ASPR TRACIE. (2025).
+Sheltering, Relocation, and Evacuation.
+This chapter highlights the strategies and timing, factors affecting decision making, planning, logistics, and special considerations associated with hospital sheltering, relocation, and evacuation.
+Login
+to favorite the article
+Favorite:
+Minnesota Department of Health. (n.d.).
+Healthcare Facility Training Matrix for Sheltering, Relocation, and Evacuation.
+(Accessed 9/30/2026.)
+This PowerPoint presentation explains how the Minnesota Department of Health trains staff in sheltering, relocation, and evacuation. Staff are placed into one of three categories (all staff, operations, or command staff) and the training is tailored to these groups. A sheltering, relocating, and evacuation decision tree is also included.
+Login
+to favorite the article
+Favorite:
+1
+*
+Natarajan, N. (2013).
+Coastal Storm Planning, the Healthcare Facility Evacuation Center (HEC), and Patient Tracking.
+New York State Department of Health, Office of Health Emergency Preparedness.
+This presentation provides a history of the Healthcare Facility Evacuation Center (HEC) in New York and describes the main objectives of an HEC. It also identifies challenges and describes the events that took place when New York hospitals evacuated during Hurricanes Irene and Sandy.
+Login
+to favorite the article
+Favorite:
+*
+Virginia Department of Public Health. (2013).
+Don't Sweat It: Preparing for Disasters in Nursing Homes and Assisted Living Facilities.
+This video was developed to be an educational tool for staff training on emergency preparedness specific to long-term care facilities. The scenario follows staff as they deal with a major storm that causes a week-long power outage. The video covers topics including preparedness, sheltering in place, and evacuation.
+Login
+to favorite the article
+Favorite:
+1
+Evaluation and Studies
+Adalja, A.A., Watson, M., Bouri, N., et al. (2014).
+Absorbing Citywide Patient Surge during Hurricane Sandy: A Case Study in Accommodating Multiple Hospital Evacuations.
+(Abstract only.) Annals of Emergency Medicine. 64(1):66-73.
+The authors of this study conducted interviews with 71 key staff from four hospitals in New York City after Hurricane Sandy to identify medical surge strategies used. More specifically, these hospitals received patients from evacuated healthcare facilities during and after the hurricane. Results indicated that there were improvement opportunities in the following areas: prolonged increased patient volume, an increase in the number of methadone and dialysis patients, ability to absorb displaced staff, the challenges associated with nursing homes that have evacuated and shelters that have already reached capacity, and reimbursements for transferred patients.
+Login
+to favorite the article
+Favorite:
+*
+Dosa, D., Hyer, K., Thomas, K., et al. (2012).
+To Evacuate or Shelter In Place: Implications of Universal Hurricane Evacuation Policies on Nursing Home Residents.
+Journal of the American Medical Directors Association. 13(2): 190 e1-7.
+The objective of this study was to examine the differential morbidity/mortality associated with evacuation versus sheltering in place for nursing home residents exposed to four hurricanes in the Gulf region. The authors discuss their methodology and results of the study. Among residents exposed to hurricanes, evacuation significantly exacerbated subsequent morbidity/mortality.
+Login
+to favorite the article
+Favorite:
+Downey, E.L., Andress, K., and Schultz, C.H. (2013).
+External Factors Impacting Hospital Evacuations Caused by Hurricane Rita: The Role of Situational Awareness.
+(Abstract only.) Prehospital and Disaster Medicine. 28(3): 264-271.
+The authors examined the effect situational awareness had on hospitals' decision to evacuate or shelter in place during and after Hurricane Rita. They found that incident management teams reported two main factors that guided decisions: (1) the effect of the incident on the facility's internal resources and challenges; and (2) how the incident characteristics would affect external evacuation activities.
+Login
+to favorite the article
+Favorite:
+Downey, E.L., Andress, K., and Schultz, C.H. (2013).
+Initial Management of Hospital Evacuations Caused by Hurricane Rita: A Systematic Investigation.
+(Abstract only.) Prehospital and Disaster Medicine. 28(3):257-63.
+The authors conducted a retrospective study on seven hospitals that either evacuated or sheltered in place during and after Hurricane Rita. They found that hospitals should plan for continuous patient arrival even during evacuation, and certain shortages (e.g., staff and food) when sheltering in place.
+Login
+to favorite the article
+Favorite:
+*
+Femino, M., Young, S., and Smith, V. (2013).
+Hospital-Based Emergency Preparedness: Evacuation of the Neonatal Intensive Care Unit-The Smallest and Most Vulnerable Population.
+(Abstract only.) Pediatric Emergency Care. 29(1):107-13.
+The authors describe a full-scale neonatal intensive care unit evacuation exercise and emphasize the importance of constant, clear communication.
+Login
+to favorite the article
+Favorite:
+Gray, B.H., and Hebert, K. (2007).
+Hospitals in Hurricane Katrina: Challenges Facing Custodial Institutions in a Disaster.
+Journal of Health Care for the Poor and Underserved. 18(2):283-98.
+This report is based on interviews with hospital executives, public officials, leaders of trade associations, and others with firsthand experience of the flooding in New Orleans. It addresses what happened in New Orleans-area hospitals during and after Hurricane Katrina and why hospitals had such varied experiences. The authors conclude with lessons based on the Katrina experience.
+Login
+to favorite the article
+Favorite:
+Haghpanah, F., Ghobadi, K., and Schafer, B. (2021).
+Multi-Hazard Hospital Evacuation Planning During Disease Outbreaks Using Agent-Based Modeling.
+International Journal of Disaster Risk Reduction. 60.
+This article discusses planning for hospital evacuation during an ongoing infectious disease outbreak, by describing an evacuation exercise at the Johns Hopkins Hospital during COVID-19. The authors found that more nursing staff can expedite the evacuation process, while an exit door specifically for patients affected by the outbreak can somewhat reduce the evacuation time. The article contains several tables and figures that illustrate evacuation time and effectiveness of evacuation simulations.
+Login
+to favorite the article
+Favorite:
+Hicks, J., and Click, R. (2015).
+A Meta-Analysis of Hospital Evacuations: Overcoming Barriers to Effective Planning.
+(Abstract only.) Journal of Healthcare and Risk Management. 34(3):26-36.
+The authors of this study reviewed literature related to hospital evacuations over the past 30 years. The objectives of this study were: 1) to explain why hospital evacuation planning and preparation is important, and 2) to present the results of a thorough review of the literature. The authors share that the success or failure of hospital evacuations generally fall into one or more of the following eight categories: Predisaster Assessment, Logistics, Communications, Community Relationships, Manual Records and Tracking, Resource Management, Special Patient Populations, and Postevacuation Return.
+Login
+to favorite the article
+Favorite:
+King, M.A., Dorfman, M.V., Einav, S., et al. (2015).
+Evacuation of Intensive Care Units during Disaster: Learning From the Hurricane Sandy Experience.
+(Abstract only.) Disaster Medicine and Public Health Preparedness. 0:1–8.
+The authors of this study surveyed nurses, respiratory therapists, and physicians who played direct roles during the Hurricane Sandy intensive care unit (ICU) evacuations to learn about their experience and lessons learned related to preparedness efforts. Results indicated that ICU providers who evacuated critically ill patients during Hurricane Sandy had little prior knowledge of evacuation processes or vertical evacuation experience. The weakest aspects in the patient evacuation process were communication and the availability of practical tools.
+Login
+to favorite the article
+Favorite:
+1
+McGinty, M., Burke, T., Barnett, D., et al. (2016).
+Hospital Evacuation and Shelter-in-Place: Who Is Responsible for Decision-Making?
+(Abstract only.) Disaster Medicine and Public Health Preparedness. 10(3):320-324.
+The authors of this article conducted semi-structured interviews with decision makers to understand reasoning behind making evacuation or shelter-in-place decisions during Hurricane Sandy (2012). They found that perceived authority among hospital executives and government officials was necessary for the decision maker to order evacuation, and there is a risk of inaction when government officials and hospital executives both view themselves as having this authority.
+Login
+to favorite the article
+Favorite:
+Rådestad, M., Holmgren, C., Linde Blidegård, E., and Lennquist Montán, K. (2023).
+Use of Simulation Models when Developing and Testing Hospital Evacuation Plans: A Tool for Improving Emergency Preparedness.
+Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine volume 31 (Article number 43).
+The authors found that using a simulation model during a tabletop exercise allowed for a testing of the entire evacuation process, including management, coordination, and communication. They provide photographs and figures of information cards in the article and emphasize the importance of keeping plans simple and intuitive, keeping communications pointed and to a minimum, and setting aside more time to evacuate vulnerable patients.
+Login
+to favorite the article
+Favorite:
+Ricci, K.A., Griffin, A.R., Heslin, K.C., et al. (2015).
+Evacuate or Shelter-in-place? The Role of Corporate Memory and Political Environment in Hospital-evacuation Decision Making.
+(Abstract only.) Prehospital and Disaster Medicine. (3):233-8.
+The authors conducted this study to identify factors that most heavily influenced the decisions to evacuate the U.S. Department of Veterans Affairs New York Harbor Healthcare System's Manhattan Campus before Hurricane Irene in 2011 and before Superstorm Sandy in 2012. The most influential factor in the decision to evacuate was New York City's hospital-evacuation mandate. Results indicated that hospital evacuation decisions are confounded by political considerations and are influenced by past disaster experience.
+Login
+to favorite the article
+Favorite:
+Rimstad, R., and Holtan, A. (2015).
+A Cross-Sectional Survey of Patient Needs in Hospital Evacuation.
+(Abstract only.) Journal of Emergency Management. 13(4):295-301.
+The authors conducted a study of a hospital’s inpatient needs in the event of a total evacuation within a few hours. As part of the study, a doctor or nurse on each ward registered patients' physical mobility, any special needs complicating transportation (e.g., intensive care, labor, or isolation), and the lowest acceptable level of care after evacuation. Of the 760 included patients, more than half could walk, and nearly 20% either needed a wheelchair or transport on stretcher. Special needs were registered for 18.2% of patients. Close to 50% of patients needed to be evacuated to another hospital to continue care on an acceptable level. The manual can be replicated by others interested in carrying out similar exercises.
+Login
+to favorite the article
+Favorite:
+Sahebi, A., Jahangiri, K., Alibabaei, A., et al. (2021).
+Factors Influencing Hospital Emergency Evacuation during Fire: A Systematic Literature Review.
+International Journal of Preventive Medicine. 12:147.
+The authors conducted a systematic literature review to review factors leading to hospital (U.S. and abroad) evacuation during a fire. The authors identified themes that affected evacuation including incident/fire characteristics, response measures, patient and staff characteristics, level of hospital preparedness, and building characteristic. They found that hospital preparedness was one of the main factors related to reducing evacuation time.
+Login
+to favorite the article
+Favorite:
+Sakib, N., Hyer, K., Dobbs, D., et al. (2022).
+A GIS Enhanced Data Analytics Approach for Predicting Nursing Home Hurricane Evacuation Response.
+Health Information Science and Systems. 10(1): 28.
+The authors used variables such as storm conditions, geographical information, nursing home (NH) organizational characteristics, NH staffing and residents characteristics, distance to storm trajectory, projected wind speed, potential storm surge and NH elevation to create a model that could predict nursing home evacuation. They applied the model to evacuations during 2017 (after Hurricane Irma) and found it to be an effective framework that can help NH administrators proactively plan for similar incidents.
+Login
+to favorite the article
+Favorite:
+Verni, C. (2012).
+A Hospital System's Response to a Hurricane Offers Lessons, Including the Need for Mandatory Interfacility Drills.
+Health Affairs. (8):1814-21.
+This case study explores the lessons learned when the North Shore-Long Island Jewish Health System evacuated three hospitals at high risk of flooding from Hurricane Irene in August 2011. The event resulted in the evacuation, transport, and placement of 947 patients without any resulting deaths or serious injuries. This case demonstrates the utility of having a functional evacuation plan in place, such as the one North Shore-Long Island Jewish Health System developed through its own full-scale exercises in the years following Hurricane Katrina in 2005.
+Login
+to favorite the article
+Favorite:
+Wapling, A., Heggie, C., Murray, V., et al. (2009).
+Review of Five London Hospital Fires and Their Management: January 2008- February 2009.
+NHS London.
+This report addresses the actions taken, including evacuation of facilities, and lessons learned from five major hospital fires that occurred in London over a 13 month period.
+Login
+to favorite the article
+Favorite:
+Zoraster, R.M., Amara, R., and Fruhwirth, K. (2011).
+Transportation Resource Requirements for Hospital Evacuation.
+(Abstract only.) American Journal of Disaster Medicine. 6(3):173-86.
+The authors of this study conducted a survey on 62 hospitals in Los Angeles County to assess occupancy and patient transportation needs, and to determine the most efficient deployment of limited transportation resources in the event of a hospital evacuation. This survey demonstrated that approximately 20% of hospital inpatients could be discharged home within a few hours; about 40% of hospital inpatients could be transported via vans, buses, or private cars; and the remaining 40% would need ambulance transportation for evacuation. Additionally, the survey provided information about the distribution of emergency department and intensive care unit patients and the resources they would require during a hospital evacuation.
+Login
+to favorite the article
+Favorite:
+Exercise Materials
+*
+District 1 [Michigan] Regional Medical Response Coalition. (2010).
+Situation Manual: Shelter-In-Place/Evacuation Tabletop Exercise: Long Term Care Facility.
+This Situation Manual includes exercise materials from Michigan, where exercise participants were given the tools to implement and evaluate the Long Term Care Facility (LTC) tabletop exercise. The purpose of this exercise was to provide a forum for LTCs and other organization to participate in a facilitated discussion regarding their roles and responsibilities during shelter-in-place and evacuation emergencies.
+Login
+to favorite the article
+Favorite:
+2
+*
+Illinois Emergency Medical Services for Children. (2013).
+NICU/Nursery Evacuation Tabletop Exercise Toolkit.
+This toolkit provides various resources and tools developed specifically for exercises, and offers guidance on planning, conducting, and evaluating tabletop exercises focused on the neonatal intensive care unit and nursery population.
+Login
+to favorite the article
+Favorite:
+1
+McVay, C. (2016).
+Hospital Evacuation: Are You Prepared?
+This ebook (available for free download) serves as a training tool for healthcare personnel that closely simulates a hospital evacuation and provides an interactive experience. Readers will learn about: identifying various mechanical devices for hospital/facility evacuation, performing the mattress-sheet slide method of evacuation, and steps to take to increase personal and institutional emergency preparedness. This poster presentation provides additional information: https://training.fema.gov/hiedu/17conf/cmcvey - hospital evacuations.pdf.
+Login
+to favorite the article
+Favorite:
+Guidelines and Protocols
+California Emergency Medical Services Authority, Hospital Incident Command System. (n.d.).
+Incident Response Guide: Evacuation, Shelter-in-Place, & Hospital Abandonment.
+(Accessed 9/11/2025.)
+This guide addresses response issues associated with evacuation, shelter-in-place, and hospital abandonment. It includes action items for response starting from 0 hours of the incident to greater than 12 hours, and into demobilization and system recovery. Action items are broken down by Section and Branch Unit (of the Hospital Incident Command System).
+Login
+to favorite the article
+Favorite:
+1
+*
+California Hospital Association. (2024).
+CHA Checklist: Hospital Repopulation after Evacuation.
+The California Hospital Association worked with subject matter experts to identify best practices and regulatory agency requirements that have to be taken into account when repopulating after full or partial evacuation of general acute care hospital inpatient buildings. The guide includes a checklist that can be completed electronically or printed and filled out by hand.
+Login
+to favorite the article
+Favorite:
+*
+Florida Health Care Association. (2008).
+National Criteria for Evacuation Decision-Making in Nursing Homes.
+This resource provides criteria for evacuation decision-making in nursing homes and is intended to assist administrators and healthcare professionals determine whether to evacuate or shelter-in-place during disasters. It also includes guidance on the evacuation process.
+Login
+to favorite the article
+Favorite:
+1
+*
+Illinois Emergency Medical Services for Children. (2009).
+Neonatal Intensive Care Unit (NICU) Evacuation Guidelines.
+These neonatal intensive care unit (NICU) evacuation guidelines were developed by professionals throughout Illinois. A multi-disciplinary committee was also convened to collate personal experiences, recommendations, and current literature on NICU evacuations. This guide is intended to assist healthcare providers assess pre-event vulnerabilities and plan for the evacuation of medically fragile Level III NICU patients while addressing core components of incident management, in conjunction with the promotion of patient safety and evacuation procedures based on lessons learned from past disasters and experiences.
+Login
+to favorite the article
+Favorite:
+1
+Jagnarine, S., Van Alphen, D., Gibbs, T., et al. (2018).
+Hospitals Don't Burn!: Hospital Fire Prevention and Evacuation Guide.
+World Health Organization, and Pan American Health Organization.
+This guidance document was developed to address the vulnerability of hospitals to fires. It is intended that all possible steps should be taken to minimize the hazard of fires in hospitals and the need for evacuation. The guide is applicable to existing hospitals that can be retrofitted to improve safety against fires, and proposed new-build facilities. It is formatted into four sections: Prevention, Suppression, Evacuation, and Training Drills.
+Login
+to favorite the article
+Favorite:
+Javins, T. Robarge, G., Gibb Snyder, E., et al. (2021).
+Protecting Building Occupants From Smoke During Wildfire and Prescribed Burn Events.
+ASHRAE Journal Newsletter. 1-17.
+Building managers and healthcare emergency planners can use the information, decision matrix, and plan considerations in this article to help ensure clean air is circulating in facilities during a wildfire, burn event, or other incident that increases particulate matter.
+Login
+to favorite the article
+Favorite:
+Kelly, F., Bailey, C., Aldridge, P., et al. (2021).
+Fire Safety and Emergency Evacuation Guidelines for Intensive Care Units and Operating Theatres: For Use in the Event of Fire, Flood, Power Cut, Oxygen Supply Failure, Noxious Gas, Structural Collapse or Other Critical incidents: Guidelines from the Association of Anaesthetists and the Intensive Care Society.
+This consensus document is based on lessons learned from numerous fires in intensive care units that necessitated full-scale patient evacuations. Recommendations include having the ability to isolate individual zones; clear exit routes; small bays or side rooms; separate clinical and non-clinical areas; and annual mandatory staff training in basic fire suppression and evacuation training in their clinical area of work that includes training on the location of manual fire alarms and fire extinguishers, evacuation routes, and location and operation of area valve service units.
+Login
+to favorite the article
+Favorite:
+*
+Los Angeles County Emergency Medical Services Agency. (2012).
+Evacuation and Shelter-in-Place Guidelines for Healthcare Entities.
+This page includes links to an evacuation and shelter in place plan template that healthcare facilities can use to create or update their own plan and a set of two tabletop exercises (shelter-in-place and evacuation) that facility emergency planners may use in the planning phase as they develop their plans to identify needs, gaps, or solutions, and/or may use to educate personnel on the components of their existing plan.
+Login
+to favorite the article
+Favorite:
+2
+Orr, G. (2024).
+How to Evacuate When Disaster Strikes: A Literature Review of Hospital Evacuations.
+Capstone Experience. 316.
+This literature review focused on identifying gaps in current literature, recommendations, and opportunities for improvement in future hospital evacuations. The author provided a four-step framework based on the literature review to help guide the evacuation process (triage, discharge, coordinate external placement, and transport), recognizing the need for more resources to be dedicated to implementing the framework.
+Login
+to favorite the article
+Favorite:
+Pan American Health Organization. (2025).
+EVAC-H: Evacuation of Hospitals and Their Critical Areas.
+This guidebook can help hospital emergency planners have supplies and training in place to facilitate a safe and effective evacuation. It includes sections on preparation, transfer, reception, support, and data recording.
+Login
+to favorite the article
+Favorite:
+U.S. Department of Health and Human Services, Office of the Assistant Secretary for Preparedness and Response. (2017).
+HPP Coalition Surge Test Webinar.
+This webinar was designed to familiarize participants with the HPP Coalition Surge Test. Speakers provided an overview of the test, discussed related requirements, and shared implementation experiences from three states that simulated hospital evacuation: South Dakota, Texas, and Michigan.
+Login
+to favorite the article
+Favorite:
+U.S. Department of Homeland Security. (2019).
+Planning Considerations: Evacuation and Shelter-in-Place.
+This document supports state, local, tribal, and territorial partners in planning for community-based evacuation and/or shelter-in-place protective actions. It summarizes characteristics that jurisdictions should consider when planning for evacuation and/or shelter-in-place operations and builds on Comprehensive Preparedness Guide (CPG) 101: Developing and Maintaining Emergency Operations Plans by providing unique considerations for development of evacuation and shelter-in-place plans. In addition, this document contains job aids and checklists that jurisdictions can customize.
+Login
+to favorite the article
+Favorite:
+1
+Zane, R., Biddinger, P., Hassol, A., et al. (2010).
+Hospital Evacuation Decision Guide.
+Agency for Healthcare Research and Quality.
+This guide was created to assist hospitals in evaluating the factors that influence the decision to evacuate a facility, and can serve as a supplement to the hospital’s emergency plan. It includes a Pre-Disaster Hospital Self-Assessment and discussions of both pre- and post-event evacuation decision-making.
+Login
+to favorite the article
+Favorite:
+1
+Lessons Learned and Incident Analysis
+*
+ASPR TRACIE. (2018).
+Issue 6: Evacuating Healthcare Facilities.
+In this issue of The Exchange, we highlight the stories of healthcare coalitions, emergency managers, and local practitioners involved in healthcare facility evacuation due to two types of disasters: wildfires and hurricane-related flooding. We also share lessons learned by the private sector and federal staff who helped oversee the evacuation, movement, and care of dialysis patients in the hope that these lessons can help emergency planners identify gaps in their own evacuation plans.
+Login
+to favorite the article
+Favorite:
+1
+ASPR TRACIE. (2019).
+The Last Stand: Evacuating a Hospital in the Middle of a Wildfire.
+Staff from Kaiser Hospital Santa Rosa (CA) share their personal experiences with the 2017 wildfire and professional experiences evacuating a hospital in the midst of one.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2019).
+When Hospitals Become Islands: One Facility's Evacuation Story.
+In 2017, Houston and surrounding areas were inundated by close to 60 inches of rain in just a few days. Hospitals became islands, roads were impassable, and military and public safety helicopters were brought in to evacuate people from their rooftops. Todd Senters (MHA, FACHE, Service Line Administrator and Facility Administrator at Baptist Beaumont Hospital’s Orange Campus) shares how staff in his facility worked to care for existing patients (and those who were dropped off by helicopter) just prior to having to evacuate due to a breach in the City of Beaumont’s water pumps.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2022).
+Hospital Evacuation during a Wildfire and Pandemic: Avista Adventist Shares their Experience.
+On December 30th, 2021, healthcare workers at Centura Health's Avista Adventist Hospital were managing a pandemic and planning for a winter storm. The hospital, which includes a large neonatal intensive care unit, was full, with less than 5% capacity. Unbeknownst to the staff working during that holiday weekend, the Marshall Fire was approaching the building, and would cause some of them to lose their homes while forcing the hospital to evacuate in under two hours. ASPR TRACIE met with five subject matter experts to learn more about their experiences, challenges, and lessons learned.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2023).
+Lessons Learned from the Signature Healthcare Brockton Hospital Fire.
+On February 7, 2023, a 10-alarm fire at Signature Healthcare Brockton Hospital (Massachusetts) resulted in the total evacuation of the hospital, prolonged closure, and extensive recovery efforts. In this webinar, hospital representatives shared their experience navigating a complete utilities failure during a fire emergency and discussed their successes and challenges of patient movement, transfers, and discharges; maintaining patient and staff safety; managing cascading events; collaboration with local/state/regional partners; and how lessons learned impact facility plans, protocols, and training.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2025).
+Issue 21: Continuity of Care: Sheltering, Standing Up, and Repopulating Healthcare Facilities after Disasters.
+This issue of The Exchange focuses on the many ways healthcare provided continuity of care to isolated rural areas after Hurricane Helene from the local, state, and healthcare system perspectives. Another article covers the hospital recovery and reopening process after a fire decimated Signature Health in Brockton, Massachusetts.
+Login
+to favorite the article
+Favorite:
+Aviles Mendoza, G., Finne, K., Torre Leon, F., et al. (2021).
+Observations from the Emergency Management of Dialysis Patients Evacuated from the U.S. Virgin Islands to Puerto Rico Following Hurricane Irma.
+BMC Health Services Research. 21.
+The authors discuss patient evacuation from the U.S. Virgin Islands to San Juan, Puerto Rico or Miami, Florida after Hurricanes Irma and Maria during 2017. The authors discuss variable associated with managing these patients in a shelter for patients with certain medical needs.
+Login
+to favorite the article
+Favorite:
+Baldwin, S., Robinson, A., Barlow, P., et al. (2006).
+Moving Hospitalized Children All Over the Southeast: Interstate Transfer of Pediatric Patients during Hurricane Katrina.
+Pediatrics. 117: s416-420.
+This article highlights the unique issues associated with the flooding and the subsequent need to evacuate neonates from New Orleans hospitals after Hurricane Katrina.
+Login
+to favorite the article
+Favorite:
+Boyde, A. and Stork, E. (2024).
+Hospital Evacuation – Lessons from the Caldor Fire.
+California Hospital Association Disaster Planning Conference.
+The speakers in this conference presentation provided an overview of the lessons learned by the Barton Healthcare System during and after the Caldor Fire that burned more than 200,000 acres in the El Dorado National Forest and abutting areas. Specifically, they highlighted the evacuation of both a skilled nursing facility and acute care facility, listing strengths (e.g., partners honored their agreements, solid communications with state/county agencies) and lessons learned (e.g., improvements in transportation/strike teams and noise levels in the hospital incident command center).
+Login
+to favorite the article
+Favorite:
+Deland, M., Daugherty, M., and Mailliard, C. (2024).
+Colorado's Marshall Fire Evacuation.
+Region VII Disaster Health Response Ecosystem.
+The speakers in this webinar share how the fire department, emergency medical services, and local hospitals worked together to evacuate two hospitals in the midst of the Marshall fire.
+Login
+to favorite the article
+Favorite:
+Desai, S., Gordon, J., and Harris, C. (2019).
+The Economic Impact of Hurricane Evacuations on a Coastal Georgia Hospital: A Case Study.
+Frontiers in Public Health. 7:149.
+This article discusses the costs of hospital evacuation before a hurricane, including evacuation expenses and lost revenue (which may continue after the storm). Relocating patients back to the hospital and repairing damage to building infrastructure may also be costly. Emergency planning, bolstering infrastructure, and returning to normal operations as quickly as possible can help mitigate these costs.
+Login
+to favorite the article
+Favorite:
+Espiritu, M. (2014).
+Evacuation of a Neonatal ICU During a Disaster: Lessons From Hurricane Sandy.
+Northwest Healthcare Response Network.
+This article highlights lessons learned and overall experiences related to the vertical evacuation of the neonatal intensive care unit (NICU) from NYU Langone Medical Center during Hurricane Sandy.
+Login
+to favorite the article
+Favorite:
+1
+Fink, S. (2013).
+Five Days at Memorial: Life and Death in a Storm-Ravaged Hospital.
+(Book available for purchase.) Crown Publishers.
+This award winning book is a narrative account of a hospital in crisis and provides many lessons related to incident command, communications, sheltering in place and evacuation of a hospital during Hurricane Katrina. This book is a “must-read” for all hospital emergency management staff and key clinical providers as a reminder of how decisions under stress can become distorted, and the importance of plans and processes during crisis.
+Login
+to favorite the article
+Favorite:
+Fuzak, J. K., Elkon, B.D., Hampers, L.C., et al. (2010).
+Mass Transfer of Pediatric Tertiary Care Hospital Inpatients to a New Location in Under 12 Hours: Lessons Learned and Implications for Disaster Preparedness.
+(Abstract only.) The Journal of Pediatrics. 157(1):138-143 e2.
+The authors retrospectively evaluated the transfer of 111 patients 8.5 miles in 11.6 hours along parallel (vs series) circuits, allowing simultaneous movement of patients from different areas. The transfers were accomplished using 13 critical care teams, five general crews, two vans, and four other vehicles. This experience demonstrates the safety and efficiency of transferring patients in a parallel fashion.
+Login
+to favorite the article
+Favorite:
+Ginsberg, H.G. (2006).
+Sweating it Out in a Level III Regional NICU: Disaster Preparation and Lessons Learned at the Ochsner Foundation Hospital.
+Pediatrics. 117: s375-380.
+The author of this article highlights the challenges and lessons learned associated with evacuating neonates from the New Orleans hospital after Hurricane Katrina.
+Login
+to favorite the article
+Favorite:
+Global Resilience Institute. (n.d.).
+Evacuate or Shelter in Place? The Challenges Faced by Healthcare Facilities in the Path of Hurricanes.
+(Accessed 9/11/2025.)
+This article describes the evacuation efforts and continued operations of hospitals and assisted living facilities in Florida during Hurricane Michael in 2018. It includes links to related resources that describe evacuations during Hurricanes Michael and Florence.
+Login
+to favorite the article
+Favorite:
+Gotoh, D., Kunii, Y., Terui, T., et al. (2020).
+Markedly Higher Mortality Among Psychiatric Inpatients Mandatorily Evacuated After the Fukushima Daiichi Nuclear Power Plant Accident.
+Psychiatry and Clinical Neurosciences. 75(1):29-30.
+This study examined mortality among psychiatry inpatients who were evacuated after the Fukushima nuclear power plant accident in 2011. They found that mortality was higher in these patients, perhaps because of older age and comorbidities, the psychological and physical challenges of evacuation, and separation from their families and communities. The results demonstrate that emergency planners should be mindful of the risks of evacuation for vulnerable people after disasters.
+Login
+to favorite the article
+Favorite:
+Haggerty, E. (2013).
+When Bellevue Had to Evacuate Its Criminally Insane.
+Bedford and Bowery.
+The author addresses having to evacuate patients with serious behavioral health issues, and highlights experiences and challenges faced by Bellevue Hospital in the aftermath of Hurricane Sandy.
+Login
+to favorite the article
+Favorite:
+Hines, E. and Reid, C. (2021).
+Hospital Preparedness, Mitigation, and Response to Hurricane Harvey in Harris County, Texas.
+Disaster Medicine and Public Health Preparedness. 17(e18).
+In this case study, hospitals were assessed to determine their flood preparedness and mitigation efforts. Despite repeated incidents and lessons learned, the authors found that hospitals needed improvement specific to several functions, including evacuation. They encouraged additional planning to determine which patients should be moved prior to a storm and to improve communications between emergency services and hospitals regarding patient transport during evacuations.
+Login
+to favorite the article
+Favorite:
+*
+Jarrett, M., Schwartz, Z., Solazzo, M., and Tangney, E. (2018).
+Evacuate or Shelter in Place: A View from the Water's Edge.
+(Abstract only.) Journal of Emergency Management. 16(2): 95-106.
+The authors share the experience of a hospital faced with deciding whether to evacuate or shelter in place while in the path of a hurricane (two years in a row). An appendix at the end can be used as a planning tool to help other facilities facing similar challenges.
+Login
+to favorite the article
+Favorite:
+Kanter, R.K. (2012).
+Regional Variation in Critical Care Evacuation Needs for Children after a Mass Casualty Incident.
+Disaster Medicine and Public Health Preparedness. 6(2):146-9.
+The author modeled the ability of five New York state regions to accept 30 children after a mass casualty incident (MCI), and calculated the time to evacuate patients to PICU beds in other regions when surge exceeded capacity. He found that large metropolitan areas could best accommodate patients following a local MCI and serve as a critical resource to other regions if they need surge support. Ground transportation was found to be quickest for evacuations in large metropolitan areas, while helicopters may be best for areas distant from metropolitan areas.
+Login
+to favorite the article
+Favorite:
+Lowe, J.L., Hansen, K.F., Sanger, K.K, and Obaid, J.M. (2016).
+A 3-year Health Care Coalition Experience in Advancing Hospital Evacuation Preparedness.
+(Abstract only.) Prehospital and Disaster Medicine. 31(6). 658-662.
+The authors of this report discuss efforts made by a healthcare coalition (HCC) to advance and test community capacity for a large-scale hospital evacuation. During this 3-year effort, the HCC utilized a variety of platforms such as workshops, seminars, webinars, tabletops, functional exercises, and culminated with a full-scale exercise testing hospital evacuation.
+Login
+to favorite the article
+Favorite:
+Lucile Packard Children’s Hospital Standford. (2015).
+New System Aims to Simplify Patient Transfers in Emergency.
+Stanford School of Medicine.
+This article discusses the Lucile Packard Children’s Hospital Stanford electronic medical records system, which may make the transfer process of patients safer and more efficient in the event of an evacuation due to a major crisis (e.g., earthquake or power outage). Caregivers have access to an automated report that categorizes patients in terms of their specific needs (e.g., what types of intravenous medication they receive, whether they’re on ventilators, or whether they need an intensive care unit bed). This system is part of a Stanford-designed program called TRAIN (Triage by Resource Allocation for Inpatients), which helps determine what vehicles and equipment are necessary for continuous patient care during a crisis event and simplifies communicating patients’ needs to other hospitals or command centers coordinating transfers.
+Login
+to favorite the article
+Favorite:
+McGinty, M., Burke, T., Resnick, B., et al. (2017).
+Decision Processes and Determinants of Hospital Evacuation and Shelter-in-Place During Hurricane Sandy.
+(Abstract only.) Journal of Public Health Management and Practice. 23(1):29-36.
+The authors conducted semi-structured interviews with 42 people responsible for evacuation or shelter in place decisions during Hurricane Sandy. They found that the most important factors in the evacuation decision were patient health, previous experience evacuating, flood risk, and utility outages that could have a negative impact on patient care.
+Login
+to favorite the article
+Favorite:
+Melnychuk, E., Sallade, T., and Kraus, C. (2022).
+Hospitals as Disaster Victims: Lessons Not Learned?
+Journal of the American College of Emergency Physicians. 3(1): e12632.
+This literature review revealed a common list of challenges to disaster response, including loss of utilities; health information technology; staffing and supplies; and structural and non-structural damage. The authors suggest more quantitative research in this area to bolster healthcare disaster preparedness (including patient preparedness and regional coordination).
+Login
+to favorite the article
+Favorite:
+Mountain Plains Regional Disaster Health Response System (MPRDHRS). (2023).
+Marshall Fire Learning Series: Hospital Response.
+This 1.5-hour video is part of a four-video series in which hospital, EMS, and Mountain View Fire Rescue leaders discuss the hospital evacuation during the Marshall Fire on December 31, 2021. The video includes participants from the responding health care coalition, Boulder County Public Health, and health care facilities which were affected.
+Login
+to favorite the article
+Favorite:
+Mountain Plains Regional Disaster Health Response System (MPRDHRS). (2023).
+Marshall Fire Learning Series: Regional Coordination.
+This 1-hour video is part of a four-video series in which stakeholders who supported the emergency response to the December 31, 2021, Marshall Fire discuss regional coordination among public health, disaster management, and the local health care coalition. They discuss emergency sheltering, evacuating residents with access and functional needs, and local coordination structures.
+Login
+to favorite the article
+Favorite:
+Nagata, T., Himeno, S., Himeno, A., et al. (2017).
+Successful Hospital Evacuation After the Kumamoto Earthquakes, Japan, 2016.
+(Abstract only.) Disaster Medicine and Public Health Preparedness. 11(5):517-521.
+This article describes how more than 100 patients were evacuated by multiple agencies following Japan’s two Kumamoto earthquakes, which damaged multiple hospitals in the prefecture. Patients were transported quickly without major adverse events, then returned after hospital repairs were completed. This disaster response can be an international model for coordination and evacuation in the future.
+Login
+to favorite the article
+Favorite:
+Nonaka, S., Sawano, T., Oikawa, T., et al. (2024).
+Difficulties Faced by Three Hospitals Evacuated from the Urgent Protective Action Planning Zone after the 2011 Fukushima Daiichi Nuclear Power Plant Accident.
+Journal of Radiation Research. 65(Suppl 1): i67–i79.
+The authors reviewed data to better understand challenges three hospitals experienced with evacuating during a radioactive emergency. Several themes emerged that challenged hospitals and residents, emphasizing the need for improved community and healthcare disaster planning: acute phase influx of patients, staff shortages, infrastructure damage and logistics suppression, and unclear evacuation criteria.
+Login
+to favorite the article
+Favorite:
+Roman, J. (2024).
+"’Everybody Stepped Up.’”.
+In this article, the fire chief in Brockton, Massachusetts shares lessons learned in preparedness, incident command, and mutual aid during and after the 10-alarm hospital fire that necessitated a full evacuation of Signature Health Hospital. In addition to fighting the fire, the department assisted with 162 patient evacuations and transports with no deaths or injuries.
+Login
+to favorite the article
+Favorite:
+Sawano, T., Senoo, Y., Yoshida, I., et al. (2021).
+Emergency Hospital Evacuation from a Hospital Within 5 km Radius of Fukushima Daiichi Nuclear Power Plant: A Retrospective Analysis of Disaster Preparedness for Hospitalized Patients.
+Disaster Medicine and Public Health Preparedness. 14:1-4.
+This article discusses hospital evacuation after the 2011 Fukushima nuclear powerplant accident. Three groups of patients were identified to better understand the evacuation. Because of disruption of infrastructure and staff shortage, some patients died prematurely during the evacuation because they were in poor health, suffered sputum aspirations, lack of medical care like intravenous infusions, or were unable to bear the stresses of evacuation. Evacuation thus should be a part of planning in hospital emergency plans.
+Login
+to favorite the article
+Favorite:
+Terui, T., Kunii, Y., Hoshino, H., et al. (2021).
+Long-Term Observation of Mortality Among Inpatients Evacuated from Psychiatric Hospitals in Fukushima Prefecture Following the Fukushima Nuclear Disaster.
+Scientific Reports. 11(1):14651.
+This retrospective analysis of 777 psychiatric inpatients focused on survival time and found a longer evacuation distance was significantly related to mortality (the farther the evacuation distance, the lower risk of death). The authors note that this may be due in part to the quality of medical professionals’ triage methods (e.g., they based their decisions on who to evacuate on existing diagnoses).
+Login
+to favorite the article
+Favorite:
+Uppal, A., Evans, L., Chitkara, N., et al. (2013).
+In Search of the Silver Lining. The Impact of Superstorm Sandy on Bellevue Hospital.
+ATS Journals. Volume 10, 2.
+Staff members of the New York University (NYU) School of Medicine discuss their experience and lessons learned during the evacuation and closure of Bellevue Hospital after Superstorm Sandy and other past storms.
+Login
+to favorite the article
+Favorite:
+Plans, Tools, and Templates
+Acar, Y., Mehta, N., Rich, M., et al. (2019).
+Using Standardized Checklists Increase the Completion Rate of Critical Actions in an Evacuation from the Operating Room: A Randomized Controlled Simulation Study.
+(Abstract only.) Prehospital and Disaster Medicine. 34(4):393-400.
+The authors simulated evacuation of a patient under general anesthesia in the operating room to understand the benefit of using a checklist to help providers complete key evacuation steps. Using a checklist was shown to improve completion of critical actions during the simulated evacuation and did not adversely impact evacuation time.
+Login
+to favorite the article
+Favorite:
+ASPR TRACIE. (2025).
+Hospital Wildfire Evacuation Considerations.
+Much of the U.S. is vulnerable to wildfires. In recent years, numerous hospitals have had to consider or complete evacuations of patients and staff due to wildfire activity in their communities, due not only to direct fire threats but also because of poor air quality from smoke and ash or the indirect effects of public safety power shutoffs. Hospital Wildfire Evacuation Considerations is a checklist based on lessons learned from recent incidents and can inform hospital evacuation planning.
+Login
+to favorite the article
+Favorite:
+California Hospital Association. (2010).
+Hospital Evacuation Plan (Checklist).
+This resource provides a checklist and decision tree, which can be used to guide hospitals in the development or update of an evacuation plan. It contains detailed information, instructions, and procedures that can be engaged in any emergency situation requiring hospital evacuation (full or partial), as well as sheltering in place.
+Login
+to favorite the article
+Favorite:
+California Hospital Association. (2011).
+Hospital Shelter in Place Planning Checklist.
+This resource provides a checklist and decision tree, which can be used to assist hospitals with developing, reviewing, or updating their shelter in place plans.
+Login
+to favorite the article
+Favorite:
+*
+California Hospital Association. (2024).
+CHA Checklist: Hospital Repopulation after Evacuation.
+The California Hospital Association worked with subject matter experts to identify best practices and regulatory agency requirements that have to be taken into account when repopulating after full or partial evacuation of general acute care hospital inpatient buildings. The guide includes a checklist that can be completed electronically or printed and filled out by hand.
+Login
+to favorite the article
+Favorite:
+*
+Carbine, D., Cohen, R., Hopper, A., et al. (2025).
+Neonatal Disaster Preparedness Toolkit.
+California Association of Neonatologists.
+This toolkit identifies major hazards faced by neonatal intensive care units in California and provides suggested mitigation and response planning strategies, including evacuation and sheltering in place. It also provides appendices with sample check lists, job action sheets, and information transfer sheets for specific hazards.
+Login
+to favorite the article
+Favorite:
+Colorado Hospital Association. (2013).
+Colorado Health Care Coalition Integrated Evacuation Plan Guide and Template.
+These two resources can help healthcare facilities develop their plans specific to evacuation or reception of patients in the event of a disaster. While specific to the State of Colorado, the documents can be used as models by other states.
+Login
+to favorite the article
+Favorite:
+Greater New York Hospital Association. (2017).
+Evacuation and Shelter in Place Guidance.
+This document contains information on roles and responsibilities and an extensive checklist for consideration when planning for and deciding when to evacuate or shelter in place.
+Login
+to favorite the article
+Favorite:
+Greater New York Hospital Association. (2017).
+Patient Evacuation Toolkit.
+This toolkit contains resources developed by the "Patient Movement Workgroup" and addresses four priority areas: defining bed types to make bed matching easier; sharing critical information during transport; improving access to medical records after patient transfer; and best practices for credentialing healthcare personnel. It also includes information on Transportation Assistance Levels (stretcher, wheelchair, and ambulatory) and a downloadable job aid worksheet (p. 10).
+Login
+to favorite the article
+Favorite:
+1
+Greater New York Hospital Association.. (2021).
+2021 Coastal Storm Season: Community Evacuation and Sheltering Operations.
+This document discusses community and hospital-specific evacuation and sheltering planning during the 2021 storm season. While specific to New York City, it highlights the role of various city facilities (e.g., general and special needs shelters, fire department, department of transportation) in this type of planning.
+Login
+to favorite the article
+Favorite:
+Harvard School of Public Health Emergency Preparedness and Response Exercise Program, and Emergency Preparedness Bureau at the Massachusetts Department of Public Health. (2014).
+MDPH Hospital Evacuation Toolkit.
+This toolkit is designed to assist hospitals as they review and update their plans annually for partial or full evacuation. It provides multiple guidance documents (e.g., staffing, assembly point, emergency receiver), and a hospital evacuation plan checklist.
+Login
+to favorite the article
+Favorite:
+1
+*
+Jarrett, M., Schwartz, Z., Solazzo, M., and Tangney, E. (2018).
+Evacuate or Shelter in Place: A View from the Water's Edge.
+(Abstract only.) Journal of Emergency Management. 16(2): 95-106.
+The authors share the experience of a hospital faced with deciding whether to evacuate or shelter in place while in the path of a hurricane (two years in a row). An appendix at the end can be used as a planning tool to help other facilities facing similar challenges.
+Login
+to favorite the article
+Favorite:
+Lane Rose, V. (2019).
+Evacuate or Shelter in Place? Prepare Ahead for a Critical Decision.
+Annals of Long-Term Care. 30(1).
+This article contains information on types of evacuation a healthcare facility may need to plan for, can help planners understand the risks and benefits of doing so, and highlights steps to take when considering evacuating versus sheltering in place.
+Login
+to favorite the article
+Favorite:
+*
+Los Angeles County Emergency Medical Services Agency. (2012).
+Evacuation and Shelter-in-Place Guidelines for Healthcare Entities.
+This page includes links to an evacuation and shelter in place plan template that healthcare facilities can use to create or update their own plan and a set of two tabletop exercises (shelter-in-place and evacuation) that facility emergency planners may use in the planning phase as they develop their plans to identify needs, gaps, or solutions, and/or may use to educate personnel on the components of their existing plan.
+Login
+to favorite the article
+Favorite:
+2
+*
+Lucile Packard Children’s Hospital. (n.d.).
+Preplanning Disaster Triage for Pediatric Hospitals: TRAIN TOOLKIT.
+(Accessed 9/11/2025.)
+The Triage by Resource Allocation for IN-patient (TRAIN) matrix is a tool for pediatric hospital disaster “pre-planning” and an in-patient triage system designed to facilitate evacuation in a major crisis. It categorizes pediatric inpatients according to their resource transportation needs. It can be implemented manually or within an electronic medical record.
+Login
+to favorite the article
+Favorite:
+1
+Minnesota Department of Health. (2020).
+Emergency Sheltering, Relocation, and Evacuation for Healthcare Facilities.
+This emergency sheltering and evacuation template can be tailored by facility emergency planners. It includes 10 appendices on topics such as relocation, hospital incident command, and supplies.
+Login
+to favorite the article
+Favorite:
+*
+Natarajan, N. (2013).
+Coastal Storm Planning, the Healthcare Facility Evacuation Center (HEC), and Patient Tracking.
+New York State Department of Health, Office of Health Emergency Preparedness.
+This presentation provides a history of the Healthcare Facility Evacuation Center (HEC) in New York and describes the main objectives of an HEC. It also identifies challenges and describes the events that took place when New York hospitals evacuated during Hurricanes Irene and Sandy.
+Login
+to favorite the article
+Favorite:
+*
+New York City Pediatric Disaster Coalition. (2020).
+Neonatal Intensive Care Unit Surge and Evacuation Plan Template.
+This customizable plan template focuses on increasing surge capacity and capabilities for the neonatal intensive care un

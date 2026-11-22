@@ -1,0 +1,630 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>Tsunami Evacuation and Inundation Maps by U.S. State and Territory</title>
+<meta name="DC.title" content="Tsunami Evacuation and Inundation Maps by U.S. State and Territory" />
+<meta name="DC.description" content="Tsunami Inundation and Evacuation Maps " />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="March 26th 2026 7:03 PM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="Tsunami Inundation and Evacuation Maps by State and Territory" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-migrate-1.4.1.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+        <script type="text/javascript" src="/js/ForecastSearch.js"></script>
+        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA&pua=G-736JJ6NL0V"></script>	
+        <script type="text/javascript" src="/js/topNavMenu.js"></script>
+        <script type="text/javascript" src="/js/NidsESRI.js"></script>
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-736JJ6NL0V"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+            gtag('config', 'G-736JJ6NL0V');
+    </script>
+
+    </head>
+
+    <body>
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            
+
+            <div class="center-content">
+
+                
+                
+
+                <div class="full-width-border">
+                    <div class="partial-width-borderbottom">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+
+                        <div class="div-full">    
+                        <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">National Tsunami Hazard Mitigation Program</p>
+        <p class="sitename-class">National Program</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>Tsunami Evacuation and Inundation Maps by U.S. State and Territory</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/nthmp">National Tsunami Hazard Mitigation Program</a>
+                                &gt; Tsunami Evacuation and Inundation Maps by U.S. State and Territory
+                    </div>
+    </div>
+</div>
+
+                        <div class="div-full">
+    <div class="subMenuNav">
+        <ul id="subMenuNav">
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://weather.gov/nthmp/About">About NTHMP</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.dnr.wa.gov/programs-and-services/geology/geologic-hazards/tsunamis/tsuinfo-alert"> TsuInfo Alert</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/About"> About</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://weather.gov/nthmp/Partners">Partners</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/PartnersFederal"> Federal Partners</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/PartnersState"> State Partners</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://weather.gov/nthmp/Organization">Organizations</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/SubEducation"> MES - Mitigation and Education Subcommittee</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://weather.gov/nthmp/IslandCaucus"> Island Caucus</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/SubMapModel"> Mapping and Modeling Subcommittee</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/MitigationRecovery"> MRPWG - Mitigation and Recovery Planning Work Group</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/SubWarn"> WCS - Warning Coordination Subcommittee</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/Organization"> Organizations and Sub-Committees</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/nthmp/TsuInfo"> TsuInfo Alert Editorial Board</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://weather.gov/nthmp/GrantResources">Grant Resources</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/Grants"> Grants</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/LocalTribalApp"> Local Tribes and Governments</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/GrantReporting"> Grant Reporting</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/SpecialAward"> Special Award Condition on Data Management</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/Forms"> Forms</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://weather.gov/nthmp/GrantSpecific"> Grant Specific Information</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://www.weather.gov/nthmp/">News</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.tsunami.gov/"> U.S. Tsunami Warning System</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/nthmp/TsunamiAlert"> Alert Notification and Email Lists</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="#">Resources</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/nthmp/resources"> Resources</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.tsunamizone.org/"> Tsunami Zone</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tsunami.gov/?page=itic"> International Tsunami Center</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/itic-car/"> ITIC Training and Materials</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/media/nthmp/E&amp;O_Materials-Fillable_Doc-NTHMP.pdf"> Order Education and Outreach Materials</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.conservation.ca.gov/cgs/tsunami/tohoku"> Tohoku-oki Earthquake and Tsunami</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://www.weather.gov/nthmp/Meetings">Meetings</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/nthmp/Meetings"> Meeting Information</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://www.weather.gov/nthmp/Guide">Tsunami Information Guide</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/nthmp/Guide"> Tsunami Information Guide</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                    </ul>
+    </div>
+</div>
+
+                        
+                        
+                        <div class="div-full">
+<div class="cms-content"><h2 align="center">Tsunami Evacuation and Inundation Maps</h2>
+
+<p>&nbsp;</p>
+
+<p>In order to understand the potential for tsunami impacts on U.S. coastlines and help communities plan for the protection of life and property, NTHMP states and territories produce maps for their coastlines that identify tsunami inundation and evacuation areas. These maps are based largely on guidance produced collaboratively by members of the NTHMP to ensure consistent and accurate tsunami mapping of the Nation&#39;s coastline.</p>
+
+<ul>
+	<li><strong>Tsunami inundation maps</strong>&nbsp;show the coastal areas that may be flooded by tsunami waves. Based on tsunami inundation models, these maps are used to create evacuation maps and guide tsunami-related emergency response and land-use planning.</li>
+	<li><strong>Tsunami evacuation maps</strong>&nbsp;show the coastal areas from which people must be evacuated to avoid harm from tsunami waves. These maps may also include evacuation routes and assembly areas.</li>
+</ul>
+
+<h3 style="text-align: center;">Links to Evacuation and Inundation Maps Related to Tsunamis by U.S. State and Territory</h3>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 900px;">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Alabama</strong></p>
+
+			<ul>
+				<li><a href="http://www.tamug.edu/tsunami/NTHMP.html" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Guam</strong></p>
+
+			<ul>
+				<li><a href="https://tsunami.coast.noaa.gov/#/" target="_blank">Interactive Evacuation Map</a>&nbsp;(click Guam tab at top)</li>
+				<li><a href="https://ghs.guam.gov/programs/natural-disasters/tsunamis" target="_blank">Evacuation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Oregon</strong></p>
+
+			<ul>
+				<li><a href="http://nvs.nanoos.org/TsunamiEvac" target="_blank">Interactive Evacuation Map</a></li>
+				<li><a href="http://www.oregongeology.org/tsuclearinghouse/pubs-evacbro.htm" target="_blank">Evacuation Maps</a></li>
+				<li><a href="http://www.oregongeology.org/tsuclearinghouse/pubs-inumaps.htm" target="_blank">Inundation Maps</a></li>
+				<li>Evacuation Mobile App:
+				<ul>
+					<li><a href="https://itunes.apple.com/us/app/tsunamievac-nw/id478984841?mt=8" target="_blank">Apple</a></li>
+					<li><a href="https://play.google.com/store/apps/details?id=tsunami_evac.nvs.nanoos.org.nvs_tsunami_android" target="_blank">Android</a></li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Alaska</strong></p>
+
+			<ul>
+				<li><a href="http://earthquake.alaska.edu/tsunamis" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Hawaii</strong></p>
+
+			<ul>
+				<li><a href="http://dod.hawaii.gov/hiema/public-resources/tsunami-evacuation-zone/" target="_blank">Evacuation Maps</a></li>
+				<li><a href="https://dod.hawaii.gov/hiema/public-resources/types-of-disaster/#tsunami">Hazard Information</a></li>
+				<li><a href="https://dod.hawaii.gov/hiema/sert-resources/plans-and-planning-resources/">Plans &amp; Resources</a></li>
+				<li><a href="https://dod.hawaii.gov/hiema/files/2021/09/FINAL-Tsunami-Incident-Annex-8.19.2021-part-1-signed.pdf">Tsunami Annex (HI-EMA)</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Puerto Rico</strong></p>
+
+			<ul>
+				<li><a href="http://prddst.uprm.edu/apps/prtmp/" target="_blank">Interactive Evacuation Map</a></li>
+				<li><a href="http://redsismica.uprm.edu/English/tsunami/tsunamiprogram/prc/maps/all.php" target="_blank">Evacuation Maps</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>American Samoa</strong></p>
+
+			<ul>
+				<li><a href="http://portal.gis.doc.as/flexviewers/Hazards/" target="_blank">Interactive Evacuation and Inundation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Maryland</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Map</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>South Carolina</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>California</strong></p>
+
+			<ul>
+				<li><a href="http://myhazards.caloes.ca.gov/" target="_blank">Interactive Online Tool</a>&nbsp;(recommended evacuation areas)</li>
+				<li><a href="https://www.conservation.ca.gov/cgs/tsunami/maps">Tsunami Hazard Area Maps for Evacuation Planning</a></li>
+				<li><a href="https://cadoc.maps.arcgis.com/apps/MapSeries/index.html?appid=61bc8d30b53e4fb5927ae199d31f5aef&amp;_gl=1*ur4cka*_ga*MTAxOTQ3NTE0Mi4xNzE4NzI0MDg3*_ga_N4MB98DBXY*MTcyNDI1MjIzMS4xOC4xLjE3MjQyNTMzMDAuMC4wLjA.">CA Tsunami Preparedness Guide</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Massachusetts</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+				<li>
+				<p><strong>Dukes County, MA</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Dukes_CTY_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Texas</strong></p>
+
+			<ul>
+				<li><a href="http://www.tamug.edu/tsunami/NTHMP.html" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Delaware</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>New Jersey</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+				<li>Ocean County, NJ:&nbsp;
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Ocean_CTY_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO-1.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+					<li><a href="https://fengyanshi.github.io/NTHMP/_build/html/online_maps_NJ_OC.html">Interactive Maps</a></li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>U.S. Virgin Islands</strong></p>
+
+			<ul>
+				<li><a href="http://prddst.uprm.edu/apps/prtmp/" target="_blank">Interactive Evacuation Map</a>&nbsp;(select USVI layer)</li>
+				<li><a href="http://www.vitema.vi.gov/plan-prepare/tsunamis" target="_blank">Evacuation Maps</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Florida</strong></p>
+
+			<ul>
+				<li><a href="http://www.tamug.edu/tsunami/NTHMP.html" target="_blank">Gulf Coast Inundation Maps</a></li>
+				<li>
+				<p><strong>Miami Dade County, FL</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Miami_Dade_CTY_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+					<li><a href="https://fengyanshi.github.io/NTHMP/_build/html/online_maps_FL_MI.html">Interactive Maps</a></li>
+				</ul>
+				</li>
+				<li>
+				<p><strong>Volusia County, FL</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Volusia_CTY_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+					<li><a href="https://fengyanshi.github.io/NTHMP/_build/html/online_maps_FL_VO.html">Interactive Maps</a></li>
+				</ul>
+				</li>
+				<li>
+				<p>​<strong>Brevard County, FL</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Brevard_CTY_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+				</ul>
+				</li>
+				<li>
+				<p><strong>Palm Beach County, FL</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Palm_Beach_CTY_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>New York</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Virginia</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+				<li>
+				<p><strong>Virginia Beach Area, VA</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/VB_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+					<li><a href="https://fengyanshi.github.io/NTHMP/_build/html/online_maps_VB.html#">Interactive Maps</a></li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Georgia</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>North Carolina</strong></p>
+
+			<ul>
+				<li><a href="http://www1.udel.edu/kirby/nthmp_protect.html" target="_blank">Inundation Maps</a></li>
+				<li>
+				<p><strong>Wilmington Area, NC</strong></p>
+
+				<ul>
+					<li><a href="https://nesec.org/wp-content/uploads/2024/06/Wilmington_NC_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+					<li><a href="https://fengyanshi.github.io/NTHMP/_build/html/online_maps_NC_WI.html">Interactive Maps</a></li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Washington</strong></p>
+
+			<ul>
+				<li><a href="https://geologyportal.dnr.wa.gov/" target="_blank">Interactive Evacuation and Inundation Maps</a></li>
+				<li><a href="http://www.dnr.wa.gov/programs-and-services/geology/geologic-hazards/geologic-hazard-maps#tsunami-evacuation" target="_blank">Evacuation Maps</a></li>
+				<li><a href="http://www.dnr.wa.gov/programs-and-services/geology/geologic-hazards/geologic-hazard-maps#tsunami-inundation" target="_blank">Inundation Maps</a></li>
+				<li><a href="https://www.dnr.wa.gov/mobilegeology#get-the-app" target="blank">Evacuation and Inundation Maps Apps</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Rhode Island</strong></p>
+
+			<ul>
+				<li><a href="https://nesec.org/wp-content/uploads/2024/06/RI_Tsunami_Report_DRAFT_AWARENESS_EMBEDDED_VIDEO.pdf">DRAFT Scenario Tsunami Risk Awareness Assessment</a></li>
+				<li><a href="https://fengyanshi.github.io/NTHMP/_build/html/online_maps_RI_NA.html">Interactive Maps</a></li>
+			</ul>
+			</td>
+			<td>
+			<p><strong>Gulf Coast States</strong></p>
+
+			<ul>
+				<li><a href="https://www.tamug.edu/tsunami/NTHMP.html">Inundation Maps</a></li>
+				<li><a href="http://tsunamimodel.cloud/tsunamimaps.html">Model Cloud</a></li>
+			</ul>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><em>Note: New maps are in development for some areas, and all are updated as warranted. Revisit this page and the associated links for the most up-to-date maps.</em></p>
+
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+  
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+                </div><!-- <div class="full-width-border"> -->
+
+                <div class="partial-width-borderbottom feature-block">
+                    <!-- area for features, frontpage thumbs, and custom page -->
+                    
+                    
+                </div><!-- end of <div class="partial-width-borderbottom feature-block"> -->
+
+                <div class="full-width-first">
+                    
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                National Tsunami Hazard Mitigation Program<br />                <br />
+                                ,  
+                <br /><br />
+                <br /><a href="mailto: nws.tsunamigrants@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>
