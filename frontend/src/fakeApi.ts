@@ -53,9 +53,9 @@ export async function getEarthquakesFake(): Promise<EarthquakesResponse> {
   const now = Date.now()
   return {
     events: [
-      { id: 'fake-1', mag: 5.4, place: '10 km NE of Gyeongju, South Korea', depth_km: 12, time: now - 14 * 60_000, url: null },
-      { id: 'fake-2', mag: 4.1, place: '65 km S of Ugashik, Alaska', depth_km: 1.2, time: now - 55 * 60_000, url: null },
-      { id: 'fake-3', mag: 2.9, place: '42 km N of Kernville, CA', depth_km: 6, time: now - 3 * 3_600_000, url: null },
+      { id: 'fake-1', mag: 5.4, place: '10 km NE of Gyeongju, South Korea', depth_km: 12, time: now - 14 * 60_000, url: null, lat: 35.9, lon: 129.3 },
+      { id: 'fake-2', mag: 4.1, place: '65 km S of Ugashik, Alaska', depth_km: 1.2, time: now - 55 * 60_000, url: null, lat: 56.9, lon: -157.4 },
+      { id: 'fake-3', mag: 2.9, place: '42 km N of Kernville, CA', depth_km: 6, time: now - 3 * 3_600_000, url: null, lat: 36.1, lon: -118.4 },
     ],
     updated_at: now / 1000,
     source: 'usgs',

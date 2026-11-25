@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { getEarthquakes } from './api'
+import { getEarthquakes, getQuakeCoordinates } from './api'
 import type { EarthquakesResponse } from './types'
 
 // Как часто обновлять панель. Бэкенд сам хранит ленту 5 минут, чаще спрашивать нет смысла.
@@ -20,6 +20,16 @@ export function useEarthquakes() {
         if (cancelled) return
         setData(response)
         setError(null)
+
+        // Список уже на экране. Теперь добавляем координаты для глобуса, если бэкенд их не прислал.
+        if (response.events.some((q) => q.lat === undefined || q.lon === undefined)) {
+          const coordinates = await getQuakeCoordinates().catch(() => null)
+          if (cancelled || !coordinates) return
+          setData({
+            ...response,
+            events: response.events.map((q) => ({ ...q, ...coordinates.get(q.id) })),
+          })
+        }
       } catch (e) {
         if (cancelled) return
         setError(e instanceof Error ? e.message : 'Could not load earthquakes.')

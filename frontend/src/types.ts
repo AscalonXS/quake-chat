@@ -30,6 +30,9 @@ export type Quake = {
   depth_km: number
   time: number // Unix-время в миллисекундах
   url: string | null
+  // Координаты для глобуса. Бэкенд их пока не присылает — тогда берём из ленты USGS напрямую.
+  lat?: number
+  lon?: number
 }
 
 export type EarthquakesResponse = {

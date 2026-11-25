@@ -1,6 +1,9 @@
-import { useEffect, useState } from 'react'
+import { lazy, Suspense, useEffect, useRef, useState } from 'react'
 import type { Quake } from './types'
 import { useEarthquakes } from './useEarthquakes'
+
+// Глобус тяжёлый (3D-библиотека), поэтому его код загружается отдельно и не задерживает чат.
+const QuakeGlobe = lazy(() => import('./QuakeGlobe'))
 
 // В ленте USGS за сутки сотни событий, большинство слабее 2.5 и никем не ощущаются.
 // Показываем только заметные и только самые свежие.
@@ -26,9 +29,19 @@ function magnitudeColor(mag: number) {
   return 'bg-slate-200 text-slate-800'
 }
 
-function QuakeRow({ quake, now }: { quake: Quake; now: number }) {
+type QuakeRowProps = { quake: Quake; now: number; selected: boolean; onSelect: (quake: Quake) => void }
+
+function QuakeRow({ quake, now, selected, onSelect }: QuakeRowProps) {
   return (
-    <li className="flex items-center gap-3 rounded-lg border border-slate-200 bg-white px-3 py-2">
+    <li>
+      <button
+        type="button"
+        onClick={() => onSelect(quake)}
+        aria-pressed={selected}
+        className={`flex w-full items-center gap-3 rounded-lg border px-3 py-2 text-left ${
+          selected ? 'border-blue-500 bg-blue-50' : 'border-slate-200 bg-white hover:border-slate-400'
+        }`}
+      >
       <span
         className={`w-12 shrink-0 rounded-md py-1 text-center text-sm font-bold ${magnitudeColor(quake.mag)}`}
       >
@@ -40,6 +53,7 @@ function QuakeRow({ quake, now }: { quake: Quake; now: number }) {
           {timeAgo(quake.time, now)} · depth {Math.round(quake.depth_km)} km
         </span>
       </span>
+      </button>
     </li>
   )
 }
@@ -59,8 +73,24 @@ export function EarthquakePanel() {
   const quakes = (notable.length > 0 ? notable : (data?.events ?? [])).slice(0, MAX_ROWS)
   const latest = quakes[0]
 
+  // Выбранное землетрясение: нажали на строку списка или на точку глобуса.
+  const [selectedId, setSelectedId] = useState<string | null>(null)
+  const selected = data?.events.find((q) => q.id === selectedId) ?? null
+
+  // Глобус рисуется в пикселях, поэтому измеряем ширину места, которое ему отведено.
+  const globeBoxRef = useRef<HTMLDivElement>(null)
+  const [globeSize, setGlobeSize] = useState(0)
+  useEffect(() => {
+    const box = globeBoxRef.current
+    if (!box) return
+    const observer = new ResizeObserver(() => setGlobeSize(Math.min(box.clientWidth, 340)))
+    observer.observe(box)
+    return () => observer.disconnect()
+  }, [])
+  const hasCoordinates = data?.events.some((q) => q.lat !== undefined) ?? false
+
   return (
-    <aside className="shrink-0 border-b border-slate-200 bg-slate-100 lg:flex lg:w-80 lg:flex-col lg:border-b-0 lg:border-l">
+    <aside className="shrink-0 border-b border-slate-200 bg-slate-100 lg:flex lg:w-96 lg:flex-col lg:border-b-0 lg:border-l">
       {/* Заголовок. На телефоне это кнопка, которая раскрывает список. */}
       <button
         type="button"
@@ -81,9 +111,32 @@ export function EarthquakePanel() {
         <span className="text-slate-500 lg:hidden">{open ? '▲' : '▼'}</span>
       </button>
 
-      <div className={`${open ? 'block' : 'hidden'} max-h-72 overflow-y-auto px-4 pb-3 lg:block lg:max-h-none lg:flex-1`}>
+      <div className={`${open ? 'block' : 'hidden'} max-h-[70vh] overflow-y-auto px-4 pb-3 lg:block lg:max-h-none lg:flex-1`}>
+        {/* Глобус: все землетрясения за сутки. Тёмный фон — чтобы Земля читалась как в космосе. */}
+        <div ref={globeBoxRef} className="mb-3 flex justify-center rounded-xl bg-slate-900">
+          <div style={{ width: globeSize, height: globeSize }}>
+            {/* Пока панель свёрнута (телефон), ширина равна 0 и глобус не создаётся. */}
+            {hasCoordinates && globeSize > 0 && (
+              <Suspense fallback={null}>
+                <QuakeGlobe
+                  quakes={data?.events ?? []}
+                  selectedId={selectedId}
+                  onSelect={(q) => setSelectedId(q.id)}
+                  size={globeSize}
+                />
+              </Suspense>
+            )}
+          </div>
+        </div>
+
         <p className="mb-2 text-xs text-slate-500">
-          Worldwide, past 24 hours, magnitude {MIN_MAGNITUDE.toFixed(1)}+
+          {selected
+            ? `Selected: M ${selected.mag.toFixed(1)} · ${selected.place} · ${timeAgo(selected.time, now)} · depth ${Math.round(selected.depth_km)} km`
+            : 'Globe: every earthquake of the past 24 hours. Drag to turn, click a dot for details.'}
+        </p>
+
+        <p className="mb-2 text-xs font-semibold text-slate-700">
+          Latest, magnitude {MIN_MAGNITUDE.toFixed(1)}+
         </p>
 
         {!data && !error && <p className="text-sm text-slate-500">Loading earthquakes…</p>}
@@ -106,7 +159,13 @@ export function EarthquakePanel() {
 
             <ul className="flex flex-col gap-2">
               {quakes.map((quake) => (
-                <QuakeRow key={quake.id} quake={quake} now={now} />
+                <QuakeRow
+                  key={quake.id}
+                  quake={quake}
+                  now={now}
+                  selected={quake.id === selectedId}
+                  onSelect={(q) => setSelectedId(q.id === selectedId ? null : q.id)}
+                />
               ))}
             </ul>
 
