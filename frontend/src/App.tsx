@@ -54,7 +54,7 @@ export default function App() {
   }
 
   return (
-    <div className="flex h-full flex-col bg-slate-50 text-slate-900">
+    <div className="flex h-full flex-col bg-page text-ink">
       {/* Баннер с экстренными номерами — виден всегда */}
       <div className="bg-red-600 px-4 py-2 text-center text-sm font-medium text-white">
         Emergency in Korea: <a className="font-bold underline" href="tel:119">119</a> fire &amp; ambulance
@@ -62,7 +62,7 @@ export default function App() {
         <a className="font-bold underline" href="tel:112">112</a> police
       </div>
 
-      <header className="border-b border-slate-200 bg-white px-4 py-3">
+      <header className="border-b border-line bg-surface px-4 py-3">
         <h1 className="text-base font-semibold">Earthquake Preparedness Assistant</h1>
       </header>
 
@@ -74,7 +74,7 @@ export default function App() {
           <main className="flex-1 overflow-y-auto px-4 py-6">
             <div className="mx-auto flex max-w-2xl flex-col gap-3">
               {messages.length === 0 && (
-                <p className="mt-16 text-center text-slate-400">
+                <p className="mt-16 text-center text-dim">
                   Ask how to prepare for an earthquake, or what to do during and after one.
                 </p>
               )}
@@ -87,7 +87,7 @@ export default function App() {
             </div>
           </main>
 
-          <footer className="border-t border-slate-200 bg-white px-4 py-3">
+          <footer className="border-t border-line bg-surface px-4 py-3">
             <form
               className="mx-auto flex max-w-2xl gap-2"
               onSubmit={(e) => {
@@ -96,7 +96,7 @@ export default function App() {
               }}
             >
               <input
-                className="min-w-0 flex-1 rounded-xl border border-slate-300 px-4 py-3 outline-none focus:border-blue-500"
+                className="min-w-0 flex-1 rounded-xl border border-line bg-page px-4 py-3 text-ink outline-none placeholder:text-dim focus:border-accent"
                 placeholder="Type your question"
                 aria-label="Your question"
                 value={input}
@@ -105,7 +105,7 @@ export default function App() {
               <button
                 type="submit"
                 disabled={!input.trim() || isWaiting}
-                className="rounded-xl bg-blue-600 px-5 py-3 font-medium text-white disabled:opacity-40"
+                className="rounded-xl bg-accent px-5 py-3 font-medium text-on-accent disabled:opacity-40"
               >
                 Send
               </button>

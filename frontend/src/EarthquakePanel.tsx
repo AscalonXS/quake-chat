@@ -26,7 +26,7 @@ function clockTime(timeMs: number) {
 function magnitudeColor(mag: number) {
   if (mag >= 5) return 'bg-red-600 text-white'
   if (mag >= 4) return 'bg-amber-500 text-white'
-  return 'bg-slate-200 text-slate-800'
+  return 'bg-line text-ink'
 }
 
 type QuakeRowProps = { quake: Quake; now: number; selected: boolean; onSelect: (quake: Quake) => void }
@@ -39,7 +39,7 @@ function QuakeRow({ quake, now, selected, onSelect }: QuakeRowProps) {
         onClick={() => onSelect(quake)}
         aria-pressed={selected}
         className={`flex w-full items-center gap-3 rounded-lg border px-3 py-2 text-left ${
-          selected ? 'border-blue-500 bg-blue-50' : 'border-slate-200 bg-white hover:border-slate-400'
+          selected ? 'border-accent bg-accent/10' : 'border-line bg-surface hover:border-dim'
         }`}
       >
       <span
@@ -48,8 +48,8 @@ function QuakeRow({ quake, now, selected, onSelect }: QuakeRowProps) {
         {quake.mag.toFixed(1)}
       </span>
       <span className="min-w-0 flex-1">
-        <span className="block text-sm break-words text-slate-900">{quake.place}</span>
-        <span className="block text-xs text-slate-500">
+        <span className="block text-sm break-words text-ink">{quake.place}</span>
+        <span className="block text-xs text-dim">
           {timeAgo(quake.time, now)} · depth {Math.round(quake.depth_km)} km
         </span>
       </span>
@@ -90,7 +90,7 @@ export function EarthquakePanel() {
   const hasCoordinates = data?.events.some((q) => q.lat !== undefined) ?? false
 
   return (
-    <aside className="shrink-0 border-b border-slate-200 bg-slate-100 lg:flex lg:w-96 lg:flex-col lg:border-b-0 lg:border-l">
+    <aside className="shrink-0 border-b border-line bg-page lg:flex lg:w-96 lg:flex-col lg:border-b-0 lg:border-l">
       {/* Заголовок. На телефоне это кнопка, которая раскрывает список. */}
       <button
         type="button"
@@ -99,8 +99,8 @@ export function EarthquakePanel() {
         className="flex w-full items-center gap-2 px-4 py-3 text-left lg:pointer-events-none"
       >
         <span className="min-w-0 flex-1">
-          <span className="block text-sm font-semibold text-slate-900">Recent earthquakes</span>
-          <span className="block truncate text-xs text-slate-600 lg:hidden">
+          <span className="block text-sm font-semibold text-ink">Recent earthquakes</span>
+          <span className="block truncate text-xs text-dim lg:hidden">
             {latest
               ? `Latest: M ${latest.mag.toFixed(1)} · ${latest.place}`
               : error
@@ -108,12 +108,12 @@ export function EarthquakePanel() {
                 : 'Loading…'}
           </span>
         </span>
-        <span className="text-slate-500 lg:hidden">{open ? '▲' : '▼'}</span>
+        <span className="text-dim lg:hidden">{open ? '▲' : '▼'}</span>
       </button>
 
       <div className={`${open ? 'block' : 'hidden'} max-h-[70vh] overflow-y-auto px-4 pb-3 lg:block lg:max-h-none lg:flex-1`}>
         {/* Глобус: все землетрясения за сутки. Тёмный фон — чтобы Земля читалась как в космосе. */}
-        <div ref={globeBoxRef} className="mb-3 flex justify-center rounded-xl bg-slate-900">
+        <div ref={globeBoxRef} className="mb-3 flex justify-center rounded-xl bg-black/40">
           <div style={{ width: globeSize, height: globeSize }}>
             {/* Пока панель свёрнута (телефон), ширина равна 0 и глобус не создаётся. */}
             {hasCoordinates && globeSize > 0 && (
@@ -129,20 +129,20 @@ export function EarthquakePanel() {
           </div>
         </div>
 
-        <p className="mb-2 text-xs text-slate-500">
+        <p className="mb-2 text-xs text-dim">
           {selected
             ? `Selected: M ${selected.mag.toFixed(1)} · ${selected.place} · ${timeAgo(selected.time, now)} · depth ${Math.round(selected.depth_km)} km`
             : 'Globe: every earthquake of the past 24 hours. Drag to turn, click a dot for details.'}
         </p>
 
-        <p className="mb-2 text-xs font-semibold text-slate-700">
+        <p className="mb-2 text-xs font-semibold text-dim">
           Latest, magnitude {MIN_MAGNITUDE.toFixed(1)}+
         </p>
 
-        {!data && !error && <p className="text-sm text-slate-500">Loading earthquakes…</p>}
+        {!data && !error && <p className="text-sm text-dim">Loading earthquakes…</p>}
 
         {!data && error && (
-          <p role="alert" className="rounded-lg border border-red-300 bg-red-50 px-3 py-2 text-sm text-red-800">
+          <p role="alert" className="rounded-lg border border-red-500/50 bg-red-500/10 px-3 py-2 text-sm text-red-200">
             Could not load earthquake data. We will try again in a few minutes.
           </p>
         )}
@@ -150,7 +150,7 @@ export function EarthquakePanel() {
         {data && (
           <>
             {(error || data.stale) && (
-              <p role="alert" className="mb-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-xs text-amber-900">
+              <p role="alert" className="mb-2 rounded-lg border border-amber-400/60 bg-amber-400/10 px-3 py-2 text-xs text-amber-100">
                 {data.source === 'sample'
                   ? 'The live feed is offline. Showing a saved sample earthquake.'
                   : 'The live feed is not responding. Showing the last data received.'}
@@ -169,7 +169,7 @@ export function EarthquakePanel() {
               ))}
             </ul>
 
-            <p className="mt-2 text-xs text-slate-500">
+            <p className="mt-2 text-xs text-dim">
               {data.updated_at
                 ? `Last updated ${clockTime(data.updated_at * 1000)} · refreshes every 5 minutes`
                 : 'Not updated yet'}

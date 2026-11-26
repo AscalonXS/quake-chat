@@ -64,5 +64,5 @@ the page uses those and stops asking USGS; no change in the frontend is needed.
 
 ## Status
 
-Done: chat, emergency banner, sources, loading, error and not-found states, real backend, live panel, 3D globe.
+Done: dark theme, chat, emergency banner, sources, loading, error and not-found states, real backend, live panel, 3D globe.
 Not done yet: microphone, play-answer button, photo upload, alert banner.

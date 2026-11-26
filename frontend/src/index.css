@@ -1,5 +1,22 @@
 @import "tailwindcss";
 
+/*
+  Цвета темы. Чтобы перекрасить всю страницу, достаточно поменять два значения:
+  --color-page   — фон
+  --color-accent — яркий акцент (кнопка, сообщения пользователя, выделение)
+  Остальные оттенки получаются из фона автоматически.
+  Из этих имён Tailwind делает классы: bg-page, bg-surface, border-line, text-ink, text-dim, bg-accent…
+*/
+@theme {
+  --color-page: #121416;
+  --color-accent: #2dd4bf;
+  --color-on-accent: #06201c; /* текст поверх акцента */
+  --color-surface: color-mix(in oklab, var(--color-page), white 7%); /* карточки, шапка */
+  --color-line: color-mix(in oklab, var(--color-page), white 16%); /* рамки */
+  --color-ink: #e8edf4; /* основной текст */
+  --color-dim: #94a0b4; /* второстепенный текст */
+}
+
 html,
 body,
 #root {
@@ -8,4 +25,6 @@ body,
 
 body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--color-page);
+  color-scheme: dark; /* тёмные полосы прокрутки и системные элементы */
 }
